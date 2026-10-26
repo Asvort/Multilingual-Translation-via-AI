@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_box_difficulty">
+    <text>Schwierigkeit des Schlossknackens:</text>
+  </string>
+  <string id="st_cant_unlock">
+    <text>Nicht genug Dietriche, um das Schloss zu öffnen.</text>
+  </string>
+  <string id="st_cant_unlock_coinbox">
+    <text>Dieses Werkzeug ist ungeeignet.</text>
+  </string>
+  <string id="st_cant_unlock_snapgun">
+    <text>Das Schloss ist zu kompliziert, um es mit diesem Werkzeug zu öffnen.</text>
+  </string>
+  <string id="st_check_peek">
+    <text>[DEBUG]</text>
+  </string>
+  <string id="st_dot">
+    <text>•</text>
+  </string>
+  <string id="st_incompatible">
+    <text>Mit diesem Werkzeug lässt sich dieser Behälter nicht öffnen.</text>
+  </string>
+  <string id="st_lockpick">
+    <text>Dietrich</text>
+  </string>
+  <string id="st_lockpick_bundle">
+    <text>Dietrichset</text>
+  </string>
+  <string id="st_lockpick_bundle_descr">
+    <text>Set aus drei Dietrichen. Ein guter Fund!\n \nVor der Verwendung müssen sie getrennt werden.\n \n</text>
+  </string>
+  <string id="st_lockpick_descr">
+    <text>Ein Dietrich ist ein seltenes und zerbrechliches Werkzeug zum Öffnen von Behälterschlössern. Für die meisten Schlösser wird mehr als einer benötigt.\n \nZiehe den Dietrich auf einen verschlossenen Behälter oder klicke mit der rechten Maustaste darauf. Für ein Schloss können insgesamt bis zu 10 Dietriche verwendet werden (100% Gesamteffektivität).\n \n%c[d_cyan] • %c[ui_gray_2] Schlossknackeffektivität: 10%\n%c[d_cyan] • %c[ui_gray_2] bis zu 10 auf einmal verwendbar\n%c[d_cyan] • %c[ui_gray_2] zerbricht bei Verwendung\n \n</text>
+  </string>
+  <string id="st_lockpick_set">
+    <text>Schlosserwerkzeug</text>
+  </string>
+  <string id="st_lockpick_set_descr">
+    <text>Ein professionelles Schlosser-Set. Leider hat jemand alle Dietriche mitgenommen. Trotzdem sind die speziellen Werkzeuge zum Drehen von Schlössern praktischer als gewöhnliche Schraubendreher.\n \n%c[d_cyan] • %c[ui_gray_2] verringert im Inventar die Schwierigkeit von Schlössern um 10%\n \n</text>
+  </string>
+  <string id="st_loot_ammo">
+    <text>Packung</text>
+  </string>
+  <string id="st_loot_ammos">
+    <text>Packungen</text>
+  </string>
+  <string id="st_lootbox_docs_case">
+    <text>Metallene Dokumentenmappe</text>
+  </string>
+  <string id="st_lootbox_docs_case_descr">
+    <text>Eine dünne, geschützte Metallmappe zur Aufbewahrung von Dokumenten. Solange die X-Labore noch in Betrieb waren, wurden wichtige Informationen und andere Daten darin verstaut und aus der Sperrzone gebracht. Heute sind solche Mappen in der Zone kaum noch zu finden. Jeder würde alles dafür geben, zu erfahren, was darin steckt. Das biometrische Schloss lässt sich nicht mechanisch knacken.\n \n</text>
+  </string>
+  <string id="st_lootbox_get">
+    <text>Im Behälter</text>
+  </string>
+  <string id="st_lootbox_large_monolith">
+    <text>Monolith-Kiste</text>
+  </string>
+  <string id="st_lootbox_large_monolith_descr">
+    <text>Eine schwere, reich verzierte Kiste mit dem Monolith-Symbol auf dem Deckel. Angeblich wurde sie vom Wunschgönner selbst gefertigt und erfüllt die Wünsche des Monolithen nach Ausrüstung und Vorräten. Gewöhnliche Dietriche können das Schloss nicht öffnen; eine Gravitationsanomalie hält die Stifte fest. Ein so seltener Fund wird dennoch Händler oder Sammler anlocken.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_rifle">
+    <text>Pelican-Waffenkoffer</text>
+  </string>
+  <string id="st_lootbox_large_rifle_descr">
+    <text>Ein robuster, wasserdichter Koffer, der oft zum Transport langer Gewehre verwendet wird. In der Zone können sich nur Söldner oder ähnlich gefährliche Leute solchen Luxus für ihre Waffen leisten. Ein solcher Fund ist äußerst beunruhigend.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_shotgun">
+    <text>Alte Waffenkiste</text>
+  </string>
+  <string id="st_lootbox_large_shotgun_descr">
+    <text>Eine große Holzkiste, in der die Dorfbewohner einst Jagdflinten und überschüssige Waffen aus dem Zweiten Weltkrieg lagerten. Einige stehen noch in den Dörfern rund um die Sperrzone, andere nutzen Stalker zur Waffenlagerung. Das Holz ist alt und morsch, daher lässt sich das Schloss leicht mit einer Axt aufbrechen.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_surplus">
+    <text>Militärische Waffenkiste</text>
+  </string>
+  <string id="st_lootbox_large_surplus_descr">
+    <text>Eine Militärkiste mit Vorhängeschloss, gewöhnlich zum Transport von Waffen und Munition verwendet. Nach den gescheiterten ersten Erkundungsversuchen in der Sperrzone wurden riesige Mengen Ausrüstung zurückgelassen, darunter solche Kisten. Wie lange diese hier steht, ist schwer zu sagen; vielleicht seit Entstehung der Zone. Sie ist sehr schwer, also schleppe sie nicht mit dir herum.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_artifact">
+    <text>Bleibehälter</text>
+  </string>
+  <string id="st_lootbox_small_artifact_descr">
+    <text>Ein professionell gefertigter Bleibehälter mit internem Schloss und dem Emblem des ukrainischen Wissenschaftsministeriums. Ökologen nutzen solche Behälter oft, um Artefakte durch gefährliche Gebiete der Zone zu transportieren. Sie halten Strahlung hervorragend ab und schützen den Inhalt vor Umwelteinflüssen und diebischen Stalkern. Selbst eskortierte Ökologengruppen werden oft überfallen, daher wurde die sichere Aufbewahrung wertvoller Informationen und Artefakte zur üblichen Praxis. Das Innenschloss ist sehr kompliziert und schwer zu knacken.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_bad">
+    <text>Werkzeugkasten mit Vorhängeschloss</text>
+  </string>
+  <string id="st_lootbox_small_bad_descr">
+    <text>Ein mittelgroßer Werkzeugkasten mit Vorhängeschloss. Für Stalker ist er die günstigste Möglichkeit, persönliche Dinge aufzubewahren; gegen Einbrüche bietet er kaum Schutz und lässt sich leicht öffnen. Meist lassen nur grüne Anfänger etwas Wertvolles darin. Das Schloss ist sehr einfach und ohne großen Aufwand zu knacken.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_briefcase">
+    <text>Aktentasche</text>
+  </string>
+  <string id="st_lootbox_small_briefcase_descr">
+    <text>Ein verschlossener, feuerfester Aktenkoffer. Ziemlich leicht und handlich. Wissenschaftler und Militär nutzen solche Koffer meist für geheime Dokumente, kriminelle Organisationen für große Geldsummen. Wie es sich für solch empfindliche Fracht gehört, ist das Schloss recht sicher.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good">
+    <text>Sicherheitsbehälter</text>
+  </string>
+  <string id="st_lootbox_small_good2_descr">
+    <text>Ein stabiler Behälter mit internem Schloss. Der Korpus besteht aus einer Art Verbundwerkstoff und ist recht widerstandsfähig gegen grobe Behandlung. Solche Behälter werden vom Festland bestellt und sind bei Ausländern und wohlhabenden Stalkern beliebt, um persönliche Dinge sicher aufzubewahren. Das Innenschloss ist kompliziert, lässt sich aber dennoch knacken.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good_descr">
+    <text>Ein stabiler Behälter mit internem Schloss. Der Korpus besteht aus einer Art Verbundwerkstoff und ist recht widerstandsfähig gegen grobe Behandlung. Solche Behälter werden vom Festland bestellt und sind bei Ausländern und wohlhabenden Stalkern beliebt, um persönliche Dinge sicher aufzubewahren. Das Innenschloss ist kompliziert, lässt sich aber dennoch knacken.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_ok">
+    <text>Stahlkiste mit Vorhängeschloss</text>
+  </string>
+  <string id="st_lootbox_small_ok_descr">
+    <text>Eine einfache Stahlkiste mit Vorhängeschloss. Anders als ein Werkzeugkasten ist sie zur sicheren Aufbewahrung des Inhalts gedacht und bietet ordentlichen Schutz vor Einbrüchen. Das Vorhängeschloss ist hochwertig, lässt sich aber trotzdem leicht knacken.\n \n</text>
+  </string>
+  <string id="st_lootbox_survival">
+    <text>Überlebensversteck</text>
+  </string>
+  <string id="st_lootbox_survival_descr">
+    <text>Eine verschlossene, wetterfeste Kiste mit nützlichem Feldbedarf. Solche unauffälligen Verstecke werden vor allem von paramilitärischen Verbänden und geheimen Einsatzgruppen genutzt, um ihre Agenten im Feld zu versorgen. Außen gibt es keine Kennzeichen, daher ist schwer zu sagen, wem sie gehörte. Meist schützt ein stabiles Schloss den Inhalt und hält selbst die findigsten Diebe ab. Nichts davon ist außergewöhnlich wertvoll, aber Essen, Medikamente und Munition sind immer nützlich.\n \n</text>
+  </string>
+  <string id="st_money">
+    <text>Rubel</text>
+  </string>
+  <string id="st_no_picks">
+    <text>Keine Dietriche.</text>
+  </string>
+  <string id="st_pick_condition">
+    <text>Dietriche im Set:</text>
+  </string>
+  <string id="st_pick_split">
+    <text>Dietriche aufteilen</text>
+  </string>
+  <string id="st_rip_axe">
+    <text>Die Axt zerbrach beim Öffnen der Kiste.</text>
+  </string>
+  <string id="st_skelekey">
+    <text>Dietrichschlüssel</text>
+  </string>
+  <string id="st_skelekey_descr">
+    <text>Ein seltsamer Schlüssel. Es sieht aus, als wäre er durch ein Anomaliefeld gegangen. Sein Bart ist unnatürlich verbogen, und die Zähne leuchten unheilvoll und verändern ständig Form und Größe.\n \n</text>
+  </string>
+  <string id="st_snapgun">
+    <text>Schlagschlüssel-Pistole</text>
+  </string>
+  <string id="st_snapgun_descr">
+    <text>Ein Spezialgerät zum schnellen Öffnen von Schlössern. Sein Schlagmechanismus trifft alle Stifte zugleich und richtet sie aus, sodass sich der Zylinder drehen lässt. Es ist zuverlässig und öffnet die meisten einfachen Schlösser mühelos, hilft aber nicht bei komplexeren.\n \n%c[d_cyan] • %c[ui_gray_2] Schlossknackeffektivität: 30%\n \n</text>
+  </string>
+  <string id="st_spooky_1">
+    <text>MACH DIE KISTE AUF, VERDAMMT</text>
+  </string>
+  <string id="st_spooky_2">
+    <text>HEY, MACH DIE KISTE AUF</text>
+  </string>
+  <string id="st_spooky_3">
+    <text>HEY, LASS MICH HIER RAUS</text>
+  </string>
+  <string id="st_spooky_4">
+    <text>MACH AUF, ICH HAB WODKA</text>
+  </string>
+  <string id="st_spooky_free">
+    <text>HAHAHAHA! ICH BIN FREI!</text>
+  </string>
+  <string id="st_tech_open">
+    <text>Kosten</text>
+  </string>
+  <string id="st_tech_open_fail">
+    <text>Was ist das für eine verdammte Kiste?\nIch kriege sie nicht auf.</text>
+  </string>
+  <string id="st_tech_open_q">
+    <text>Behälter öffnen?</text>
+  </string>
+  <string id="st_unlock_coin">
+    <text>Münze einwerfen?</text>
+  </string>
+  <string id="st_unlock_pick">
+    <text>mit Dietrichen öffnen</text>
+  </string>
+  <string id="st_unlock_snap">
+    <text>mit Schlagschlüssel-Pistole öffnen</text>
+  </string>
+  <string id="st_weapon_0">
+    <text>Zerbrochen</text>
+  </string>
+  <string id="st_weapon_1">
+    <text>Beschädigt</text>
+  </string>
+  <string id="st_weapon_2">
+    <text>Abgenutzt</text>
+  </string>
+  <string id="st_weapon_3">
+    <text>Funktionsfähig</text>
+  </string>
+  <string id="ui_mcm_lootboxes_animation">
+    <text>Animation beim Öffnen des Behälters</text>
+  </string>
+  <string id="ui_mcm_lootboxes_deathchance">
+    <text>Chance, bei toten Stalkern Behälter oder Dietriche zu finden</text>
+  </string>
+  <string id="ui_mcm_lootboxes_debug">
+    <text>Debug (für Entwickler)</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality">
+    <text>Beutewert</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality_desc">
+    <text>Beeinflusst den Wert gefundener Behälter und damit den Wert ihres Inhalts.</text>
+  </string>
+  <string id="ui_mcm_lootboxes_stashchance">
+    <text>Chance, Behälter in Verstecken zu finden</text>
+  </string>
+  <string id="ui_mcm_lootboxes_title">
+    <text>Lootboxes-Einstellungen</text>
+  </string>
+  <string id="ui_mcm_menu_lootboxes">
+    <text>Lootboxes</text>
+  </string>
+</string_table>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Délai avant de se vider de son sang (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Durée pendant laquelle vous restez à terre avant de vous vider de votre sang. La suite se règle ci-dessous.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Mourir en se vidant de son sang</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Activé : vous mourez en vous vidant de votre sang, et un joueur à terre peut être achevé après la période de grâce ci-dessous. Désactivé : vous revenez à la vie là où vous êtes tombé à la fin du saignement, et personne ne peut achever un joueur à terre. Seuls les réglages de l’hôte sont utilisés.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>État à terre après un coup fatal</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Activé : un coup fatal vous met à terre et un coéquipier peut vous réanimer. Désactivé : le coup vous renvoie directement à la base la plus proche ou à un feu de camp allumé. Dans les deux cas, vous ne mourez pas sur le coup ; l’option ci-dessous détermine si vous pouvez mourir en vous vidant de votre sang. Les réglages de l’hôte s’appliquent à tous.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Délai de grâce après la chute (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Durée pendant laquelle un joueur à terre ne peut pas être achevé, à partir de sa chute, afin qu’un coup puissant le mette à terre au lieu de le tuer. Inutilisé si le saignement n’entraîne pas la mort. Seuls les réglages de l’hôte sont utilisés.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Compte à rebours avant le rechargement (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Durée d’affichage de l’écran de mort avant que l’hôte charge la dernière sauvegarde et que tout le monde rejoigne à nouveau la partie. Personne ne peut bouger ni sauvegarder pendant le compte à rebours. Seuls les réglages de l’hôte sont utilisés.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Santé après réanimation</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Durée de réanimation (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Présence enrichie Discord</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Indique sur Discord à quoi vous jouez. En session, votre groupe est publié afin que vos amis puissent être invités ou demander à rejoindre ; hors session, des liens vers notre Discord et AP-PRO sont affichés. La carte Discord n’a que deux emplacements : les liens et le bouton de rejoindre ne s’affichent donc jamais ensemble.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Joueurs max.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Nombre maximal de joueurs dans la session, vous compris. Détermine aussi la taille du groupe affichée par Discord. S’applique à la prochaine session lancée.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Mot de passe</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Mot de passe requis pour rejoindre la session. Laissez le champ vide pour ne pas en utiliser. Il ne peut contenir ni espace ni barre oblique.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Port</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>Port UDP sur lequel votre session écoute. Les joueurs qui rejoignent par adresse vous contactent sur ce port, qui doit être ouvert sur votre routeur et votre pare-feu. Ignoré si la session passe par Steam. S’applique à la prochaine session lancée.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Héberger via Steam</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Activé : les joueurs rejoignent via votre identifiant Steam, qui traverse le NAT sans ouvrir de port ; vos amis peuvent rejoindre depuis la liste d’amis ou une invitation Discord. Désactivé : seules les connexions directes via le port ci-dessus sont possibles. S’applique à la prochaine session lancée.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Nom du joueur</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Votre nom en coop. Il est envoyé à l’hôte à la connexion et devient le nom de votre personnage dans sa partie. Laissez le champ vide pour qu’un nom soit généré à la première connexion.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Donner les récompenses à tous les joueurs</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Activé : chaque joueur reçoit reward_money et reward_item. Désactivé : seul le joueur qui termine la mission les reçoit. fetch_reward_and_remove retire toujours les objets et ne paie que le joueur qui termine la mission. Le réglage de l’hôte s’applique à chaque mission terminée.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>À terre et réanimation</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Hébergement</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Joueur</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Récompenses des missions</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>À terre et réanimation</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Hébergement</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Joueur</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Missions</text>
+  </string>
+</string_table>

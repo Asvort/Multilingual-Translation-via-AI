@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Нахил зброї біля укриття</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Інерція анімації</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Що менше значення, то швидша анімація.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Коефіцієнт ваги</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Що вище значення, то сильніше вага зброї впливає на швидкість анімації.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Враховувати глушник під час розрахунку радіуса</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Зі встановленим глушником радіус спрацювання збільшиться приблизно на 0,1 м.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Увімкнути ручний нахил</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Увімкнути</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Клавіша ручного нахилу</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>Зміщення зброї по осі X</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — ліворуч. &gt; 0 — праворуч</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Зміщення зброї по осі Y</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — донизу. &gt; 0 — догори</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Зміщення зброї по осі Z</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — назад. &gt; 0 — вперед</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Розкид крену зброї</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Під час підняття зброя випадково нахиляється на задану кількість градусів, урізноманітнюючи анімацію.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Деренчання під час нахилу</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Нахил зброї біля укриття</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Радіус спрацювання (м)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Модифікатор довжини зброї</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Змінює залежність радіуса спрацювання від довжини зброї. Що вище значення, то більша різниця між короткою та довгою зброєю.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>Використовувати розміри моделі HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>Налагодження розмірів моделі HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Якщо ввімкнено, нахил визначається за фактичними розмірами моделі HUD. WCT виконує перевірку променем від кістки fire_bone та зміщення fire_point у напрямку пострілу. ПОТРІБЕН МОДИФІКОВАНИЙ EXE &gt;= 2025.04.22. Якщо новий метод недоступний, використовується стандартний.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Розкид рискання зброї</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Під час підняття зброя випадково повертається по горизонталі на задану кількість градусів, урізноманітнюючи анімацію.</text>
+  </string>
+</string_table>

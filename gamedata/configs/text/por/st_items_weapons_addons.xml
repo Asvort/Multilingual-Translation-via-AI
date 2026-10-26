@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_addon_scope_ac11090">
+    <text>Mira de ponto vermelho AC11090</text>
+  </string>
+  <string id="st_addon_scope_ac11090_descr">
+    <text>Mira de ponto vermelho econômica com ampliação de 2x para fuzis de assalto e submetralhadoras da OTAN, além do AK-12.</text>
+  </string>
+  <string id="st_addon_scope_galil">
+    <text>Mira Galil de 4,0x</text>
+  </string>
+  <string id="st_addon_scope_galil_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] fuzil automático Galil AR\n \n%c[ui_gray_1]Mira óptica para o fuzil israelense IMI Galil.\n \n		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]bom\n
+		%c[d_purple] • %c[ui_gray_2] Retículo: %c[ui_gray_1]SUSAT</text>
+  </string>
+  <string id="st_addon_scope_galil_susat">
+    <text>Mira Galil de 4,0x (SUSAT)</text>
+  </string>
+  <string id="st_addon_scope_pu">
+    <text>Mira PU</text>
+  </string>
+  <string id="st_addon_scope_pu_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] fuzis russos históricos\n \n%c[ui_gray_1]Mira telescópica padrão do Exército Vermelho durante a Segunda Guerra Mundial e nos anos seguintes, projetada para fuzis de infantaria e de precisão, como o Mosin-Nagant ou o SVT-40. Tem ampliação fixa de 3,5x, sendo uma boa opção para combates a longa distância. Como todos os projetos soviéticos, é resistente e eficaz, e continua em produção e uso até hoje.\n \n		%c[d_purple] • %c[ui_gray_2] Ampliação: %c[ui_gray_1]3.5x\n
+		%c[d_purple] • %c[ui_gray_2] Condição: %c[ui_gray_1]médio\n
+		%c[d_purple] • %c[ui_gray_2] Retículo: %c[ui_gray_1]PU</text>
+  </string>
+  <string id="st_addon_sil_45">
+    <text>Supressor .45 ACP</text>
+  </string>
+  <string id="st_addon_sil_45_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] armas de calibre .45\n \n%c[ui_gray_1]Supressor para pistolas e submetralhadoras .45 ACP.\n \n%c[d_purple] • %c[ui_gray_2] Redução de som: %c[ui_gray_1]muito alta (pistola)</text>
+  </string>
+  <string id="st_addon_sil_6p9">
+    <text>Supressor 6P9</text>
+  </string>
+  <string id="st_addon_sil_6p9_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] armas de 9 mm\n \n%c[ui_gray_1]Supressor para a pistola PB.\n \n%c[d_purple] • %c[ui_gray_2] Redução de som: %c[ui_gray_1]muito boa</text>
+  </string>
+  <string id="st_addon_sil_9a91">
+    <text>Supressor 9A-91/VSK-94</text>
+  </string>
+  <string id="st_addon_sil_9a91_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] armas de calibre 9x39\n \n%c[ui_gray_1]Supressor para a carabina 9A-91 e o VSK-94.\n \n%c[d_purple] • %c[ui_gray_2] Redução de som: %c[ui_gray_1]muito alta</text>
+  </string>
+  <string id="st_addon_sil_sr25">
+    <text>Supressor SR-25</text>
+  </string>
+  <string id="st_addon_sil_sr25_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] armas de calibre 7,62 mm\n \n%c[ui_gray_1]Supressor para o SR-25\n \n%c[d_purple] • %c[ui_gray_2] Redução de som: %c[ui_gray_1]alta</text>
+  </string>
+  <string id="st_addon_sil_vihr">
+    <text>Supressor SR-3M</text>
+  </string>
+  <string id="st_addon_sil_vihr_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] armas de calibre 9x39\n \n%c[ui_gray_1]Supressor para o fuzil SR-3M.\n \n%c[d_purple] • %c[ui_gray_2] Redução de som: %c[ui_gray_1]muito alta</text>
+  </string>
+  <string id="st_addon_silencer_svu">
+    <text>Supressor SVU</text>
+  </string>
+  <string id="st_addon_silencer_svu_descr">
+    <text>\n \n%c[ui_gray_2]COMPATIBILIDADE:\n \n%c[d_cyan] • %c[ui_gray_2] fuzis SVU\n \n%c[ui_gray_1]Este supressor especial de três câmaras não foi feito para silenciar completamente o fuzil SVU, pois o soldado não usaria munição subsônica. Sua função principal é abafar e dispersar o ruído o suficiente para dificultar a detecção pelo inimigo. Seu recurso especial é um freio de boca muito eficaz na extremidade do supressor, capaz de reduzir o recuo em cerca de 40%. Essas capacidades têm como custo menor velocidade inicial e, portanto, uma redução significativa no dano da arma.\n \n%c[d_purple] • %c[ui_gray_2] Redução de som: %c[ui_gray_1]baixa\n \n%c[ui_gray_1]ESPECIAL:\n \n%c[d_red] • %c[ui_gray_2] redução aprimorada do recuo</text>
+  </string>
+</string_table>

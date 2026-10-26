@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_raid_butcher_name">
+    <text>Sancho le hachoir</text>
+  </string>
+  <string id="st_raid_mechanic_name">
+    <text>Motych</text>
+  </string>
+  <string id="st_raid_medic_name">
+    <text>Corbeau</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bed_descr">
+    <text>Commandez un canapé à Shustry. Il est bien plus confortable qu’un sac de couchage posé sur du béton pour se reposer après un raid. \n \nBonus : \nAccorde +1 % d’endurance pendant 5 heures après le sommeil. Le temps de trajet entre les lieux est pris en compte.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bed_title">
+    <text>Canapé confortable</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bought">
+    <text>Acheté</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_btr_descr">
+    <text>La réparation du moteur et de la suspension d’un ancien APC permet de l’utiliser pour rejoindre le site du raid rapidement et avec une sécurité relative. \n \nBonus : \nRéduit le temps de trajet jusqu’au lieu. \nDurée du raid : +10 minutes. \nCarburant de l’APC : un bidon ou un paiement en argent. \nPeut être combiné avec un hélicoptère. \n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_btr_title">
+    <text>APC</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_butcher_descr">
+    <text>Engagez Sancho comme boucher-livreur. Il sait préparer les trophées de mutants pour les vendre plus cher aux scientifiques. \n \nBonus : \nAjoute un boucher-livreur. \nAchète les morceaux de mutants à meilleur prix. \nVend un large choix de nourriture, boissons et rations à prix raisonnable.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_butcher_title">
+    <text>Sancho : boucher-livreur</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_buy">
+    <text>Acheter pour %s roubles</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_clock_descr">
+    <text>Appareil électronique spécialisé conçu à partir d’un prototype du professeur Sakharov. Ses nouveaux capteurs paramétriques et l’algorithme adaptatif du professeur German évaluent plus précisément l’intervalle entre les Super-Émissions, ce qui économise de précieuses minutes pour le raid. \n \nBonus : \nAjoute définitivement +5 minutes au raid.\nFonctionne même lors de raids spéciaux comme les Sorties.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_clock_title">
+    <text>Analyseur de la Noosphère</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_bought">
+    <text>Déjà ravitaillé pour le prochain raid.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_btr">
+    <text>Commander un trajet en APC pour le prochain raid \n %s roubles ou 1 bidon de carburant</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_exit">
+    <text>Quitter</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_heli">
+    <text>Commander un déploiement par hélicoptère pour le prochain raid \n %s roubles ou 1 bidon de carburant</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_ok">
+    <text>Commander (contre paiement)</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_ok_fuel">
+    <text>Commander (contre carburant)</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_heli_descr">
+    <text>L’achat d’une radio et le paiement des bonnes personnes permettent d’appeler un hélicoptère pour le déploiement. Cela réduit le trajet et augmente l’intervalle entre les émissions pour le raid. \n \nBonus : \nRéduit fortement le temps de trajet jusqu’au lieu. \nDurée du raid : +20 minutes. \nCarburant : un bidon ou un paiement en argent. \nPeut être combiné avec l’APC. \n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_heli_title">
+    <text>Station radio</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_mechanic_descr">
+    <text>Engagez l’assistant mécanicien Motych. Il fournit pièces, améliorations et kits de réparation à prix raisonnable. \n \nBonus : \nAjoute un marchand mécanicien capable de réparer rapidement l’équipement. \nLe stock de Motych dépend des outils trouvés et comprend des kits de réparation et quelques ressources. \nAjoute une série de quêtes pour trouver les outils de l’établi.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_mechanic_title">
+    <text>Motych : stalker mécanicien</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_medic_descr">
+    <text>Engagez Raven comme assistant médical. Il fournit des médicaments et soigne contre une petite rémunération. Grâce à ses contacts dans la Zone, il peut aussi échanger certains objets rares ou uniques. \n \nBonus : \nAjoute un marchand médecin. \n30 % de réduction sur les produits médicaux. \nSoins médicaux à prix raisonnable. \nPermet d’échanger divers objets.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_medic_title">
+    <text>Raven : stalker médecin</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_psi_emitter_descr">
+    <text>Installez un Extracteur-Résonateur Anormal, ou unité ERA. Cet appareil unique a été rendu possible par l’apparition de la super-anomalie Crépuscule et conçu par le professeur Rozhkov, meilleur élève de Sakharov et German. La documentation d’étalonnage du prototype a été perdue quelque part dans la Zone ; le restaurer ne sera donc pas simple... \n \nBonus : \nL’unité ERA peut séparer les artefacts en fractions A correspondant à leur nature.\nLes fractions A permettent d’améliorer n’importe quel artefact ou d’en générer un nouvel échantillon.\nL’unité contient une encyclopédie des artefacts qui stocke les propriétés de chaque échantillon découvert.\n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_psi_emitter_title">
+    <text>Unité ERA</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_required">
+    <text>Requis :</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_workbench_descr">
+    <text>Achetez un établi pour réparer et améliorer l’équipement. \n \nBonus : \nDonne un accès personnel à un établi pour réparer tout équipement.\nPermet d’engager le stalker mécanicien Motych.\n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_workbench_title">
+    <text>Établi</text>
+  </string>
+</string_table>

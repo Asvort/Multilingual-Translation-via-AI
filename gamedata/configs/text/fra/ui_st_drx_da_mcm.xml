@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier">
+    <text>Modificateur du nombre d’anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
+    <text>Modifie le nombre d’anomalies que chaque zone peut contenir</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
+    <text>Rayon de la zone d’anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
+    <text>Distance maximale entre le centre du terrain intelligent et la zone d’anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
+    <text>Distance minimale entre les anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
+    <text>Distance minimale entre anomalies d’une zone. Les valeurs négatives autorisent leur chevauchement.</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
+    <text>Chance d’apparition d’une zone d’anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
+    <text>Chance qu’un terrain intelligent prédéfini génère une zone d’anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance">
+    <text>Chance d’apparition des artefacts</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
+    <text>Chaque artefact, dans la limite définie, a cette chance d’apparaître</text>
+  </string>
+  <string id="ui_mcm_drx_da_choose_help">
+    <text>Vous pouvez choisir ci-dessous\n quels nouveaux types d’anomalies apparaîtront dans le jeu.</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode">
+    <text>Mode débogage</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode_desc">
+    <text>Active l’affichage massif de messages dans la console</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies">
+    <text>Supprimer les anomalies dynamiques</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
+    <text>Supprime toutes les zones générées. Pour retirer le mod sans risque, activez l’option, retournez en jeu, sauvegardez, quittez puis retirez le mod.</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies">
+    <text>Désactiver les nouvelles anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies_desc">
+    <text>Empêche l’apparition de nouveaux types. Prend effet après la prochaine émission, tempête psi ou nouvelle partie.</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier">
+    <text>Modificateur du champ électrique</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier_desc">
+    <text>Modifie les dégâts des champs électriques, sans affecter les dysfonctionnements électroniques.</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour">
+    <text>Activer le comportement dynamique des anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
+    <text>Détermine si les anomalies dynamiques peuvent apparaître et disparaître dans la Zone.</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier">
+    <text>Modificateur des secousses gravitationnelles</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
+    <text>Modifie les secousses de l’écran près des anomalies gravitationnelles</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone">
+    <text>Nombre maximal d’artefacts par zone</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
+    <text>Définit le nombre maximal d’artefacts pouvant apparaître dans une zone</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets">
+    <text>Préréglages</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets_desc">
+    <text>Choisissez un préréglage dans la liste</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance">
+    <text>Chance d’artefact aléatoire</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
+    <text>Le niveau détermine les artefacts possibles : les zones sud donnent les plus faibles, le nord et le sous-sol les plus puissants. Cette chance permet l’apparition de tout artefact, même unique.</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup">
+    <text>Sauvegarder après le nettoyage des anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup_desc">
+    <text>Sauvegarde après qu’une émission ou tempête psi retire les anomalies dynamiques du niveau.</text>
+  </string>
+  <string id="ui_mcm_drx_da_title">
+    <text>Arrival - Anomalies</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_cdf_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_flash_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_ghost_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_gold_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_net_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_point_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_seed_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_shatterpoint_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sloth_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sphere_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_thorn_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_umbra_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_easy">
+    <text>Facile</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_hard">
+    <text>Difficile</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_menu_drx_da">
+    <text>Arrival</text>
+  </string>
+</string_table>

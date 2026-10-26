@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="encyclopedia_world">
+    <text>Świat gry</text>
+  </string>
+  <string id="encyclopedia_world_craft">
+    <text>Wytwarzanie przedmiotów</text>
+  </string>
+  <string id="encyclopedia_world_craft_text">
+    <text>
+			\n Wytwarzanie przedmiotów to bardzo rozległy temat. Obejmuje rozkładanie broni i kombinezonów, tworzenie przedmiotów oraz specjalnych części.	
+			\n Aby rozłożyć przedmiot, przeciągnij odpowiednie narzędzie lub zestaw narzędzi (w przypadku kombinezonów) bezpośrednio na kombinezon w ekwipunku.\n		
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Rozkładanie broni %c[0,215,215,215]•%c[ui_gray_2].
+			\n Broń rozkłada się za pomocą specjalnych narzędzi: młota, łomu i scyzoryka. Każde narzędzie służy do rozkładania określonych rodzajów broni.
+			\n Łomem można rozłożyć karabiny 7.62, 9 mm, 5.56 i 5.45, pistolety maszynowe, obrzyny oraz strzelby. Nie można: żadnych pistoletów.
+			\n Młotem można rozłożyć karabiny 7.62, 9 mm, 5.56 i 5.45, pistolety maszynowe, obrzyny, strzelby i pistolety.
+			\n Scyzorykiem można rozłożyć wyłącznie pistolety, zarówno zużyte, jak i zardzewiałe.\n
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Rozkładanie kombinezonów %c[0,215,215,215]•%c[ui_gray_2].
+			\n Kombinezony rozkłada się zestawami narzędzi: zgrubnymi, zwykłymi i precyzyjnymi, a także scyzorykiem.
+			\n Scyzoryk może ciąć wyłącznie przedmioty wykonane w całości z tkaniny: berety, czapki, bandaże, kominiarki i tym podobne.
+			\n Narzędzia zgrubne mogą ciąć te same przedmioty co scyzoryk. Służą do rozkładania przedmiotów niskiej technologii: różnych kurtek, płaszczy przeciwdeszczowych i niektórych masek przeciwgazowych.	
+			\n Narzędzia zwykłe rozkładają te same przedmioty co zgrubne. Służą do przedmiotów średniej technologii: ręcznie robionych kombinezonów stalkerskich oraz kombinezonów stalkerskich z 
+			\n elementami pancerza SEVA (kombinezon Powinności, grube płaszcze, naukowa „Iolita”), a także kombinezonów typu „Jantar”.
+			\n Narzędzia precyzyjne mogą ciąć również te same przedmioty co zwykłe. Służą do rozkładania zaawansowanych technologicznie przedmiotów: różnych kombinezonów SEVA, kombinezonów ekologów i ciężkich pancerzy (Bułat, Skat),	
+			\n egzoszkieletów, ciężkich pancerzy „Woschod” oraz zaawansowanych hełmów (Sfer, hełmów taktycznych). Żadne narzędzie nie pozwala rozłożyć hełmu „Zasłon”.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Tworzenie przedmiotów %c[0,215,215,215]•%c[ui_gray_2].
+			\n Tworzenie przedmiotów to chyba najszerszy temat. Złote rączki wciąż wymyślają nowe sposoby pozyskiwania różnych rzeczy, a handlarze sprowadzają do Strefy wszelkie nowości, z których zawsze da się coś zrobić.
+			\n \n
+			\n Jedną z najważniejszych i najczęściej stosowanych technik w Strefie jest odkażanie przedmiotów, które można odkażać. Płyn odkażający można uzyskać, mieszając aquatabs z dowolną wódką.
+			\n Aby wymieszać aquatabs z wódką, przeciągnij jeden przedmiot na drugi w ekwipunku. Żeby odkazić przedmiot, przeciągnij go na płyn albo płyn na przedmiot w ekwipunku.		
+			\n \n			
+			\n Złote rączki wytwarzają też niezbędne przedmioty z tego, co mają pod ręką, na przykład bandaże ze szmat i wódki, przeciągając jeden przedmiot na drugi. 
+			\n Szmaty można uzyskać, tnąc scyzorykiem materiałowe ubrania (bandaże, czapki, kominiarki, bandany itp.). Wszystkie te czynności wykonuje się przez przeciąganie jednego przedmiotu na drugi w ekwipunku.			
+			\n Kawałki tkaniny można też uzyskać przy rozkładaniu kombinezonów albo po prostu znaleźć. Niektóre rodzaje tkanin sprzedają handlarze.
+			\n \n
+			\n Możesz też samodzielnie uszyć plecak lub śpiwór. Kup u handlarza zestaw do szycia i potrzebne materiały, a następnie przeciągnij jeden przedmiot na drugi w ekwipunku.			
+			\n \n
+			\n Handlarze sprzedają również materiały do skręcania papierosów. Takie skręty są znacznie skuteczniejsze od zwykłych papierosów.
+			\n W ofercie handlarzy czasem pojawiają się zestawy do wytwarzania amunicji, najczęściej śrutu. Domowy śrut jest nieco mniej skuteczny, ale znacznie tańszy od fabrycznego.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Wymiana podzespołów %c[0,215,215,215]•%c[ui_gray_2].
+			\n Przy naprawie różnych przedmiotów często wymienia się również ich podzespoły.	
+			\n Najczęściej wymienia się lufę broni. Potrzebna jest lufa w dobrym stanie, a jej kaliber musi odpowiadać kalibrowi broni.
+			\n Zużytą lufę można wyczyścić naftą, benzyną, wódką, środkami do czyszczenia broni, zestawami czyszczącymi, olejem do broni lub zestawami naprawczymi.
+			\n Zardzewiałą lufę można doprowadzić do normalnego stanu środkami do czyszczenia broni, zestawami czyszczącymi, olejem do broni lub zestawami naprawczymi.
+			\n Następnie potrzebny będzie zestaw o odpowiednim kalibrze do wymiany lufy tego samego kalibru. Za pomocą zestawu i lufy można przywrócić do 50% wytrzymałości broni, niezależnie od jej początkowego stanu.
+			\n \n
+			\n Można również wymieniać serwomechanizmy w egzoszkieletach. Potrzebny jest serwomechanizm, który można odzyskać przy rozkładaniu egzoszkieletu, oraz zestaw do jego wymiany. 
+			\n Za pomocą zestawu i serwomechanizmu można przywrócić do 30% wytrzymałości egzoszkieletu, niezależnie od jego początkowego stanu.\n
+			\n%c[0,215,215,215]• %c[0,240,140,140]Artykuł może być z czasem uzupełniany. %c[0,215,215,215]•.			
+		</text>
+  </string>
+</string_table>

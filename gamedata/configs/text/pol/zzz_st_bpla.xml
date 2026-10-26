@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>UAV jest już zatankowany na tę wyprawę.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>UAV został już kupiony. Pieniądze zwrócono.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>UAV zatankowany (zużyto 1 kanister paliwa). Podczas tej wyprawy dostępne są znaczniki skrytek, podświetlanie pól z artefaktami i alerty o kradzieży.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>UAV zatankowany (wydano 45 000 RU). Podczas tej wyprawy dostępne są znaczniki skrytek, podświetlanie pól z artefaktami i alerty o kradzieży.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>UAV jest już zatankowany na następną wyprawę.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>Tankowanie UAV: %s RU lub 1 kanister paliwa</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>Brak kanistra paliwa i niewystarczająca ilość pieniędzy (45 000 RU). Nie można zatankować.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Najpierw kup UAV w ulepszeniach notesu kryjówki.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>Kupiono dron rozpoznawczy UAV. W kryjówce, przy ścianie między medykiem a handlarzem, pojawiła się stacja kontroli — podejdź do laptopa z kanistrem paliwa (lub 45 000 RU), aby zatankować drona przed wyprawą.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>Stacja kontroli UAV</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Zamów u Shustryiego autonomicznego drona rozpoznawczego UAV ze stacją kontroli. Po zakupie w kryjówce, przy medyku i handlarzu, pojawi się stacja — podejdź do laptopa i zatankuj drona jednym naciśnięciem. \n \n
+		Funkcje dostępne, gdy UAV jest zatankowany: \n
+		- Wszystkie znane skrytki wraz z zawartością są podświetlane na mapie PDA. \n
+		- Okręgi pól anomalii zmieniają kolor na cyjanowy, gdy znajduje się w nich artefakt (wykrywacz artefaktów). \n
+		- Jeśli NPC podniesie artefakt, UAV wysyła alert na PDA (ugrupowanie, pancerz, kierunek). \n \n
+		Tankowanie: 1 kanister paliwa (jeśli jest w ekwipunku) lub 45 000 RU. Paliwo ma pierwszeństwo. Ładunek wyczerpuje się po powrocie do kryjówki.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>Dron rozpoznawczy UAV</text>
+  </string>
+</string_table>

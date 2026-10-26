@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_blood_pool_max_pool_size">
+    <text>Maksymalny rozmiar kałuży</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates">
+    <text>Liczba aktualizacji</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates_desc">
+    <text>Więcej aktualizacji zapewnia płynniejszy wzrost rozmiaru (maksymalny rozmiar się nie zmienia).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime">
+    <text>Czas istnienia kałuży (sekundy)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime_desc">
+    <text>Czas istnienia kałuży po pojawieniu się (pool_lifetime - num_of_updates * update_freq = czas do całkowitego zniknięcia).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_title">
+    <text>Kałuża krwi</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq">
+    <text>Częstotliwość aktualizacji (sekundy)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq_desc">
+    <text>Czas między aktualizacjami. Niższa wartość przyspiesza osiągnięcie maksymalnego rozmiaru kałuży.</text>
+  </string>
+  <string id="ui_mcm_menu_blood_pool">
+    <text>Kałuża krwi</text>
+  </string>
+</string_table>

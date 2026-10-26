@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Wysoki</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Niski</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Standardowy</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Przyspieszone tempo postępów (20–30 godzin gry)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Standardowe tempo postępów (30–40 godzin gry)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Szybkie tempo postępów (10–20 godzin gry)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Grim Raid</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Populacja Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Zezwalaj na zapisy przy ogniskach</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Umożliwia zapisywanie gry przy ogniskach.\n\nPo włączeniu tej opcji działają również zapisy z konsoli poleceniem «save nazwa_zapisu».\n\n%c[200, 235, 76, 52]Uwaga! Zalecamy nie zapisywać gry podczas rajdu, ponieważ pogarsza to wrażenia z rozgrywki.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>Prawdziwy „tryb Ciemności” używa wartości domyślnych.</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Ubezpieczenie u informatora (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Szansa na zachowanie przedmiotów z miejsc po wykupieniu „ubezpieczenia” u informatora.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Zachowaj przedmioty po śmierci</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Procent wyposażonych przedmiotów, które na pewno pozostaną w ekwipunku po śmierci.\n\nNa przykład przy wartości 60 % z 10 przedmiotów pozostanie 6 wybranych losowo.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Stopniowa utrata przedmiotów</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>Liczba przedmiotów zachowanych po śmierci zależy od rangi gracza. Im wyższa ranga, tym mniej rzeczy zostaje. Ta opcja wyłącza suwak poniżej, określający liczbę zachowanych przedmiotów.\nNowicjusz - utrata 10 % przedmiotów\nPoczątkujący - utrata 20 % przedmiotów\nDoświadczony - utrata 30 % przedmiotów\nProfesjonalista - utrata 40 % przedmiotów\nWeteran - utrata 50 % przedmiotów\nEkspert - utrata 60 % przedmiotów\nMistrz - utrata 70 % przedmiotów\nLegenda - utrata 33 % przedmiotów\n\nGdy opcja jest wyłączona, procent można ustawić w pozycji «Przedmioty zachowane po śmierci».</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Utrata punktów rangi po śmierci (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Procent rangi tracony po śmierci.\n\nWpływa na rozwój postaci.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Populacja Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Mnożnik pojawiania się w symulacji</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>Domyślnie 100% oznacza użycie oryginalnych ustawień symulacji. Zmień wartość o 20–50%, aby zauważyć różnicę.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Ustawienie populacji lokacji</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>Określa liczbę oddziałów przy początkowym i ewentualnym dodatkowym pojawieniu się. Działa tylko w standardowych rajdach.\nZalecane jest ustawienie standardowe, pod które zbalansowano rozgrywkę.</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>Szybkość postępów</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Określa nagrody za zadania: rangę, pieniądze i reputację u zleceniodawców.\nZalecane jest ustawienie standardowe, pod które zbalansowano rozgrywkę.</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Grim Raid</text>
+  </string>
+</string_table>

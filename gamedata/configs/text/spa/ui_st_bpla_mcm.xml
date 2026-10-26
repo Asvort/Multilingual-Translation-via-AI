@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Activa o desactiva por separado las funciones del UAV en el PDA.
+		\n \nCada función solo estará disponible tras comprar el UAV y repostarlo antes de una incursión; aquí puedes ocultar las que no quieras. Los cambios se aplican al instante, sin necesidad de empezar una partida nueva.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Las funciones solo están disponibles tras comprar el UAV y repostarlo antes de una incursión.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Resaltado de campos con artefactos</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Los círculos de los campos anómalos del mapa se vuelven cian si hay un artefacto dentro.
+		\n \nDesactívalo si no quieres resaltar los campos.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Marcadores de alijos</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Resalta en el mapa del PDA los alijos conocidos y su contenido mientras el UAV esté cargado.
+		\n \nDesactívalo si solo usas el UAV para buscar artefactos.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Avisos de robo de artefactos</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>El UAV envía un mensaje al PDA cuando un PNJ cercano recoge un artefacto: facción, armadura y dirección (sin nombre).
+		\n \nDesactiva esta opción si no quieres recibir estos avisos.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]Dron de reconocimiento UAV</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]Dron de reconocimiento UAV</text>
+  </string>
+</string_table>

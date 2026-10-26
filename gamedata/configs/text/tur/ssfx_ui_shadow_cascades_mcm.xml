@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_lst_shw_cascades_high">
+    <text>Yüksek</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_low">
+    <text>Düşük (Anomaly varsayılanı)</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_medium">
+    <text>Orta</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_ultra">
+    <text>Ultra (performansı ciddi etkiler)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades">
+    <text>Gölge kademeleri</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+    <text>Çim gölge mesafesi (güneş)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+    <text>Güneşin oluşturduğu çim gölgelerinin çizim mesafesini, çim çizim mesafesinin yüzdesi olarak belirler. Daha düşük değer performansı artırır.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+    <text>En fazla çim gölge mesafesi</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+    <text>[ YALNIZCA ULTRA KALİTE ] Yönsüz ışıkların oluşturduğu çim gölgelerinin çizim mesafesini belirler. Daha düşük değer performansı artırır, ancak gölgelerin çizimi daha erken kesilebilir.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+    <text>Çim gölgelerinin kalitesi</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+    <text>[ LOW ] Çim gölgeleri yalnızca YAKIN kademede çizilir (Anomaly varsayılanı). [ MEDIUM ] YAKIN ve ORTA kademelerde çizilir. [ HIGH ] Tüm kademelerde ve hacimsel güneş ışınlarında çizilir. [ ULTRA ] Tüm ışıklar çim gölgesi oluşturur.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+    <text>Yakın kademe boyutu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+    <text>Daha düşük değer güneş gölgelerinin kalitesini artırır.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+    <text>Orta kademe boyutu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+    <text>Daha düşük değer güneş gölgelerinin kalitesini artırır.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+    <text>Uzak kademe boyutu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+    <text>Bu kademe güneş gölgelerinin en fazla ne kadar uzakta çizileceğini belirler. Düşük değerler performansı artırır; yüksek değerler performans pahasına uzaktaki gölgeleri iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_title">
+    <text>Gölge kademesi ayarları</text>
+  </string>
+</string_table>

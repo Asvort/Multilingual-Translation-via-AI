@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_lst_shadows_128">
+    <text>128</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_1536">
+    <text>1536</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_1536_V">
+    <text>1536 ( domyślne )</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_2048">
+    <text>2048</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_256">
+    <text>256</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_2560">
+    <text>2560</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_3072">
+    <text>3072</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_4096">
+    <text>4096</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_512">
+    <text>512</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_768">
+    <text>768</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_768_V">
+    <text>768 ( domyślne )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows">
+    <text>Cienie i oświetlenie</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_max_mcm">
+    <text>Maksymalna rozdzielczość cieni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_max_mcm_desc">
+    <text>Maksymalna rozdzielczość mapy cieni. Gdy źródła światła są bliżej, rozdzielczość rośnie, poprawiając jakość cieni kosztem wydajności.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_min_mcm">
+    <text>Minimalna rozdzielczość cieni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_min_mcm_desc">
+    <text>Minimalna rozdzielczość mapy cieni. Gdy źródła światła są daleko od gracza, rozdzielczość cieni spada, co poprawia wydajność kosztem jakości obrazu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm">
+    <text>Poziom szczegółowości cieni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm_desc">
+    <text>Podstawowa jakość mapy cieni. Wyższa wartość zwiększa podstawową rozdzielczość cieni oraz ich rozdzielczość w oddali.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_title">
+    <text>Ustawienia cieni i oświetlenia</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm">
+    <text>Wymuś oświetlenie wolumetryczne ( wymagane ponowne wczytanie mapy )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm_desc">
+    <text>Wymusza efekt wolumetryczny dla wszystkich bezkierunkowych źródeł światła. Wczytaj mapę ponownie, aby zastosować ustawienie.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm">
+    <text>Intensywność oświetlenia wolumetrycznego</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm_desc">
+    <text>Ustawia intensywność efektu wolumetrycznego.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm">
+    <text>Jakość oświetlenia wolumetrycznego</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm_desc">
+    <text>Ustawia jakość efektu wolumetrycznego kosztem wydajności.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm">
+    <text>Rozdzielczość oświetlenia wolumetrycznego</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm_desc">
+    <text>Rozdzielczość renderowania oświetlenia wolumetrycznego jako część bieżącej rozdzielczości. [ min: 14% ~ max: 100% ]</text>
+  </string>
+</string_table>

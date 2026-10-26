@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Час до смерті від кровотечі (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Як довго ви залишатиметеся знепритомнілим до смерті від кровотечі. Подальші наслідки налаштовуються нижче.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Смерть від кровотечі</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Увімкнено: ви помрете від кровотечі, а знепритомнілого гравця можна буде добити після пільгового часу нижче. Вимкнено: після завершення кровотечі ви оживете на місці падіння, і добити знепритомнілого гравця буде неможливо. Використовуються лише налаштування хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Стан знепритомнення після смертельного удару</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Увімкнено: смертельний удар знепритомнить вас, і напарник зможе реанімувати. Вимкнено: удар одразу відправить вас до найближчої бази або запаленого багаття. Жоден варіант не вбиває миттєво; нижче задається, чи можна померти від кровотечі. Для всіх діють налаштування хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Пільговий час після падіння (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Як довго знепритомнілого гравця не можна добити від моменту падіння, щоб сильний удар знепритомнив, а не вбив його. Не використовується, якщо кровотеча не призводить до смерті. Діють лише налаштування хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Зворотний відлік до завантаження (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Як довго відображатиметься екран смерті, перш ніж хост завантажить останнє збереження, а всі знову приєднаються. Під час відліку ніхто не може рухатися чи зберігатися. Діють лише налаштування хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Здоров’я після реанімації</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Час реанімації (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Розширена присутність Discord</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Показує в Discord, у що ви граєте. Під час сесії публікує ваш загін, щоб друзів можна було запросити або вони могли попроситися до гри; поза сесією показує посилання на наш Discord і AP-PRO. У картці Discord лише два слоти, тому посилання й кнопка приєднання не відображаються одночасно.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Максимум гравців</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Максимальна кількість гравців у сесії разом із вами. Також це розмір загону, який показує Discord. Діє для наступної запущеної сесії.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Пароль</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Пароль, який потрібно ввести для приєднання. Залиште поле порожнім, щоб не використовувати пароль. Не може містити пробілів або скісних рисок.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Порт</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>UDP-порт, на якому очікуються підключення до вашої сесії. Гравці, які входять за адресою, підключаються через нього; порт має бути відкритий на маршрутизаторі та у брандмауері. Ігнорується для сесій через Steam. Діє для наступної запущеної сесії.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Хостити через Steam</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Увімкнено: гравці приєднуються за вашим Steam ID, з’єднання проходить через NAT і не потребує відкритого порту; друзі можуть приєднатися зі списку друзів або за запрошенням Discord. Вимкнено: лише пряме підключення через порт вище. Діє для наступної сесії.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Ім’я гравця</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Ваше ім’я в кооперативній грі. Воно надсилається хосту під час підключення й стає ім’ям вашого персонажа в його грі. Залиште поле порожнім, щоб ім’я створилося під час першого підключення.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Видавати нагороди всім гравцям</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Увімкнено: кожен гравець отримує reward_money і reward_item. Вимкнено: нагороду отримує лише гравець, який здає завдання. fetch_reward_and_remove завжди забирає предмети й виплачує нагороду тільки тому, хто здає завдання. Налаштування хоста застосовується після кожного виконання.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Знепритомнення та реанімація</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Хостинг</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Гравець</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Нагороди за завдання</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Знепритомнення та реанімація</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Хостинг</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Гравець</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Завдання</text>
+  </string>
+</string_table>

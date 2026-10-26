@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ammo_maker_compatibility_hint">
+    <text>Ammo Maker Patch</text>
+  </string>
+  <string id="ui_mcm_ammo_maker_compatibility_hint_desc">
+    <text>Disables the "Disassemble All" menu if the Ammo Maker mod is installed.</text>
+  </string>
+  <string id="ui_mcm_enable_addons_submenu_hint">
+    <text>Group in "Attach/Detach" submenu.</text>
+  </string>
+  <string id="ui_mcm_enable_addons_submenu_hint_desc">
+    <text>Collects weapon addon attach/detach options (suppressor, scope, underbarrel, etc.) in a separate submenu instead of the main context menu.</text>
+  </string>
+  <string id="ui_mcm_enable_quickactions_submenu_hint">
+    <text>Group in "Add".</text>
+  </string>
+  <string id="ui_mcm_enable_quickactions_submenu_hint_desc">
+    <text>Collects "Favorites", "Junk" (Sorting Plus) and "Add to wheel" (Haru's Quick Action Wheel) in a separate "Add" submenu instead of the main context menu.</text>
+  </string>
+  <string id="ui_mcm_hide_equip_unequip_hint">
+    <text>Hide Equip/Unequip options.</text>
+  </string>
+  <string id="ui_mcm_hide_equip_unequip_hint_desc">
+    <text>Removes "Equip", "Unequip suit", "Unequip headgear", "Unequip backpack", "Put in backpack" and similar options from the inventory context menu.</text>
+  </string>
+  <string id="ui_mcm_menu_context_menu">
+    <text>Context Menu</text>
+  </string>
+  <string id="ui_mcm_menu_disassemble_all_items">
+    <text>Disassemble All</text>
+  </string>
+  <string id="ui_mcm_menu_qol_works_inventory">
+    <text>QOL: Inventory Management</text>
+  </string>
+  <string id="ui_mcm_menu_tooltip_ctrl">
+    <text>Tooltip</text>
+  </string>
+  <string id="ui_mcm_qol_works_inventory_tooltip_hide_keybind">
+    <text>Tooltip hide key</text>
+  </string>
+  <string id="ui_mcm_qol_works_inventory_tooltip_hide_speed">
+    <text>Tooltip appearance delay</text>
+  </string>
+  <string id="ui_mcm_qol_works_inventory_tooltip_hide_speed_desc">
+    <text>\n   1 - Instant (100 ms)\n   5 - Medium delay [Default]\n   10 - Significant delay (1000 ms)</text>
+  </string>
+  <string id="ui_mcm_qol_works_inventory_tooltip_hide_toggle_mode">
+    <text>Toggle mode</text>
+  </string>
+  <string id="ui_mcm_qol_works_inventory_tooltip_hide_toggle_mode_desc">
+    <text>Enabled: press the key to hide the tooltip, press again to show it.\nDisabled: tooltips are hidden only while the key is held.</text>
+  </string>
+  <string id="ui_mcm_qol_works_tooltip_hide_keybind_desc">
+    <text>Key that hides item tooltips.</text>
+  </string>
+</string_table>

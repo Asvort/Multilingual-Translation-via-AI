@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="dynamic_intel_actor_faction">
+    <text>наших ребят</text>
+  </string>
+  <string id="intel_actor_faction">
+    <text>наши</text>
+  </string>
+  <string id="intel_army">
+    <text>военные</text>
+  </string>
+  <string id="intel_bandit">
+    <text>бандиты</text>
+  </string>
+  <string id="intel_csky">
+    <text>чистонебовцы</text>
+  </string>
+  <string id="intel_dolg">
+    <text>долговцы</text>
+  </string>
+  <string id="intel_ecolog">
+    <text>экологи</text>
+  </string>
+  <string id="intel_freedom">
+    <text>свободовцы</text>
+  </string>
+  <string id="intel_greh">
+    <text>греховцы</text>
+  </string>
+  <string id="intel_isg">
+    <text>бойцы ИСГ</text>
+  </string>
+  <string id="intel_killer">
+    <text>наемники</text>
+  </string>
+  <string id="intel_monolith">
+    <text>монолитовцы</text>
+  </string>
+  <string id="intel_monster">
+    <text>мутанты</text>
+  </string>
+  <string id="intel_renegade">
+    <text>ренегаты</text>
+  </string>
+  <string id="intel_stalker">
+    <text>одиночки</text>
+  </string>
+  <string id="intel_zombied">
+    <text>зомбированные</text>
+  </string>
+  <string id="st_afli_smarts_article">
+    <text> _ </text>
+  </string>
+  <string id="st_aflimod_actor_ask_intel">
+    <text>Можешь рассказать какая сейчас обстановка в округе?</text>
+  </string>
+  <string id="st_aflimod_actor_pay_intel">
+    <text>Ладно, держи. Выкладывай.</text>
+  </string>
+  <string id="st_aflimod_actor_refuse_pay_intel">
+    <text>Забудь об этом.</text>
+  </string>
+  <string id="st_aflimod_contested_1">
+    <text>Сейчас идет бой за %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_monster_1">
+    <text>Кроме того, сообщают об активности мутантов в районе: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_monster_2">
+    <text>Кто-то еще упоминал, что видел мутантов поблизости: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_monster_standalone_1">
+    <text>Поступали сообщения об активности мутантов в районе: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_monster_standalone_2">
+    <text>Кто-то говорил, что видел мутантов в этом районе: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_stalker_1">
+    <text>А еще я слышал, что %s были замечены в районе: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_stalker_2">
+    <text>Также говорят, что какие-то %s ошиваются вот тут: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_stalker_standalone_1">
+    <text>Кто-то заметил, что какие-то %s движутся в сторону: %s</text>
+  </string>
+  <string id="st_aflimod_dynamic_stalker_standalone_2">
+    <text>Прошла информация, что %s были замечены неподалеку: %s</text>
+  </string>
+  <string id="st_aflimod_empty_1">
+    <text>%s — там было тихо. Так что, скорее всего, никого и нет</text>
+  </string>
+  <string id="st_aflimod_empty_2">
+    <text>%s — вроде бы там сейчас спокойно</text>
+  </string>
+  <string id="st_aflimod_empty_3">
+    <text>%s — там было пусто, когда упоминали в эфире</text>
+  </string>
+  <string id="st_aflimod_empty_4">
+    <text>%s — было тихо, хотя ситуация могла измениться</text>
+  </string>
+  <string id="st_aflimod_empty_5">
+    <text>%s — мой товарищ рассказал, что там чисто</text>
+  </string>
+  <string id="st_aflimod_empty_plural_1">
+    <text>%s — на всех этих точках было тихо, скорее всего, они пустуют</text>
+  </string>
+  <string id="st_aflimod_empty_plural_2">
+    <text>%s — там вроде бы везде пусто, по крайней мере, так докладывали</text>
+  </string>
+  <string id="st_aflimod_empty_plural_3">
+    <text>%s — там никого не было, когда о них заходил разговор</text>
+  </string>
+  <string id="st_aflimod_empty_plural_4">
+    <text>%s — было спокойно, когда ребята там проходили, но кто знает как сейчас</text>
+  </string>
+  <string id="st_aflimod_empty_plural_5">
+    <text>%s — там было пусто, когда мой знакомый недавно там бывал</text>
+  </string>
+  <string id="st_aflimod_faction_control_1">
+    <text>%s — там сейчас находятся %s</text>
+  </string>
+  <string id="st_aflimod_faction_control_2">
+    <text>%s под контролем, там сидят %s</text>
+  </string>
+  <string id="st_aflimod_faction_control_3">
+    <text>%s удерживается, там %s</text>
+  </string>
+  <string id="st_aflimod_list_and">
+    <text> и </text>
+  </string>
+  <string id="st_aflimod_no_intel">
+    <text>Извини, я мало что знаю о том, что сейчас происходит снаружи.</text>
+  </string>
+  <string id="st_aflimod_opener_1">
+    <text>Из последнего что слышал: </text>
+  </string>
+  <string id="st_aflimod_opener_2">
+    <text>Есть инфа, что возле </text>
+  </string>
+  <string id="st_aflimod_opener_3">
+    <text>Мне тут кое-что рассказали, в общем неподалеку от </text>
+  </string>
+  <string id="st_aflimod_opener_4">
+    <text>В эфире болтают, что около </text>
+  </string>
+  <string id="st_aflimod_opener_5">
+    <text>Я думаю, позиция </text>
+  </string>
+  <string id="st_aflimod_paid_intel">
+    <text>У меня есть кое-какие сведения, но это не бесплатно.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel">
+    <text>Не могу помочь тебе с этим, извини.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_army">
+    <text>Это закрытая информация. Свободен.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_bandit">
+    <text>Слыш ты, вали отсюда, пока я тебя маслинами не угостил.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_csky">
+    <text>Мы не разглашаем полевые сведения малознакомым людям. Без обид.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_dolg">
+    <text>Мы не делимся оперативными данными с посторонними. Давай топай.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_ecolog">
+    <text>Я сейчас очень занят анализом данных. Пожалуйста, не отвлекайте.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_freedom">
+    <text>Да мне как-то до лампочки, чего ты там не знаешь. Бывай.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_greh">
+    <text>Тайны Зоны не предназначены для нечистых вроде тебя. Уходи.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_isg">
+    <text>Мне нечего тебе рассказать. Уверен, ты понимаешь причины.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_killer">
+    <text>Такая информация стоит дороже чем твоя шкура. Исчезни.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_monolith">
+    <text>...</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_renegade">
+    <text>Тебе повезло, что я вообще с тобой разговариваю. Не наглей.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_stalker">
+    <text>Спроси кого-нибудь другого, у меня и так проблем хватает.</text>
+  </string>
+  <string id="st_aflimod_refuse_intel_trader">
+    <text>Ты что-то перепутал: я здесь торговлей занимаюсь, а не справочным бюро.</text>
+  </string>
+  <string id="ui_mcm_aflimod_debug_mode">
+    <text>Режим отладки</text>
+  </string>
+  <string id="ui_mcm_aflimod_enable_intel_request">
+    <text>Включить мод</text>
+  </string>
+  <string id="ui_mcm_aflimod_intel_expiration_time">
+    <text>Время "устаревания" информации</text>
+  </string>
+  <string id="ui_mcm_aflimod_title">
+    <text>Настройки информатора</text>
+  </string>
+  <string id="ui_mcm_menu_aflimod">
+    <text>НПС-Информатор A-Life</text>
+  </string>
+</string_table>

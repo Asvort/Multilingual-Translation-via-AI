@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>O UAV já está abastecido para esta incursão.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>O UAV já foi comprado. O dinheiro foi devolvido.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>UAV reabastecido (1 galão de combustível consumido). Nesta incursão: marcadores de esconderijos, destaque de campos com artefatos e alertas de roubo.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>UAV reabastecido (45.000 RU gastos). Nesta incursão: marcadores de esconderijos, destaque de campos com artefatos e alertas de roubo.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>Já está reabastecido para a próxima incursão.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>Reabastecer UAV: %s RU ou 1 galão de combustível</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>Não há galão de combustível nem dinheiro suficiente (45.000 RU). Não é possível reabastecer.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Primeiro compre o UAV nas melhorias do caderno do abrigo.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>Drone de reconhecimento UAV comprado. Uma estação de controle apareceu no abrigo, perto do médico e do comerciante: vá até o notebook com um galão de combustível (ou 45.000 RU) para reabastecê-lo antes de uma incursão.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>Estação de controle do UAV</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Encomende de Shustryi um drone autônomo de reconhecimento UAV com estação de controle. Após a compra, uma estação aparecerá no abrigo, perto do médico e do comerciante; aproxime-se do notebook e reabasteça o drone com um toque. \n \n
+		Recursos disponíveis enquanto o UAV estiver abastecido: \n
+		- Todos os esconderijos conhecidos e seus conteúdos são destacados no mapa do PDA. \n
+		- Os círculos dos campos anômalos ficam cianos quando há um artefato dentro (detector de artefatos). \n
+		- Se um NPC pegar um artefato, o UAV envia um alerta ao PDA (facção, armadura e direção). \n \n
+		Abastecimento: 1 galão de combustível (se estiver no inventário) ou 45.000 RU. O combustível tem prioridade. A carga acaba ao retornar ao abrigo.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>Drone de reconhecimento UAV</text>
+  </string>
+</string_table>

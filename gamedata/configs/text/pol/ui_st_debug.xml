@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_desc_PDM_disp_accel_factor">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Mnożnik zwiększający rozrzut pocisków podczas przyspieszania gracza.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_PDM_disp_base">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Podstawowy PDM. Wpływa na celność podobnie jak fire_dispersion_base; niższa wartość zwiększa celność. Wpływa też na obsługę broni wraz z control_inertion_factor.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] To parametr statystyczny.</text>
+  </string>
+  <string id="st_desc_PDM_disp_crouch">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Mnożnik wpływający na rozrzut, gdy gracz kuca.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_PDM_disp_crouch_no_acc">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Mnożnik wpływający na rozrzut, gdy gracz kuca i stoi nieruchomo (największa celność).\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_PDM_disp_vel_factor">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Mnożnik zwiększający rozrzut pocisków zależnie od prędkości gracza.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_ammo_elapsed">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Pojemność magazynka.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_ammo_mag_size">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Ta liczba musi być równa zmiennej elapsed, inaczej wartość może nie zostać użyta.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_bullet_speed">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Prędkość w metrach na sekundę.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_dispersion">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Rozrzut podczas strzelania bez celowania.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]Silnik nie ogranicza tej wartości; wartości ujemne powodują ujemny odrzut.</text>
+  </string>
+  <string id="st_desc_cam_dispersion_frac">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Dodatkowy współczynnik wpływający na rozrzut.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_dispersion_inc">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]O ile zwiększa się rozrzut przy każdym strzale.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]Silnik nie ogranicza tej wartości; wartości ujemne powodują ujemny odrzut.</text>
+  </string>
+  <string id="st_desc_cam_max_angle">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Maksymalny kąt, o jaki odrzut może odchylić celownik od środka; w tym przypadku 50 stopni w górę.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_max_angle_horz">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Maksymalne przesunięcie w poziomie.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_relax_speed">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Szybkość powrotu celownika do pozycji „neutralnej”.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range (stopnie)</text>
+  </string>
+  <string id="st_desc_cam_relax_speed_ai">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Szybkość, z jaką celowanie SI wraca do normy po serii.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_return">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Czy kamera później wraca do celu?\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_step_angle_horz">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Poziomy odrzut podczas strzelania. 0 powoduje odrzut pionowy, a wartość ujemna — w lewo.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_condition_queue_shot_dec">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Utrata stanu broni przy każdym strzale w trybie automatycznym.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Obliczenie\n%c[ui_gray_3]condition loss per shot = (condition_shot_dec) x (weapon_degredation) x (impair) x (condition_shot_dec_k)\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] jest zdefiniowany w sekcji każdej broni. Ustaw "condition_queue_shot_dec" na tę samą wartość.\n%c[d_purple]• %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] to komenda konsoli pozwalająca sterować ogólnym zużyciem w grze (domyślnie 1).\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] to parametr zdefiniowany w sekcji używanej amunicji.\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] to parametr z sekcji tłumika zamontowanego na broni (domyślnie 1, jeśli go brakuje).</text>
+  </string>
+  <string id="st_desc_condition_shot_dec">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Utrata stanu broni przy każdym strzale.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Obliczenie\n%c[ui_gray_3]condition loss per shot = (condition_shot_dec) x (weapon_degredation) x (impair) x (condition_shot_dec_k)\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] jest zdefiniowany w sekcji każdej broni. Ustaw "condition_queue_shot_dec" na tę samą wartość.\n%c[d_purple]• %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] to komenda konsoli pozwalająca sterować ogólnym zużyciem w grze (domyślnie 1).\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] to parametr zdefiniowany w sekcji używanej amunicji.\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] to parametr z sekcji tłumika zamontowanego na broni (domyślnie 1, jeśli go brakuje).</text>
+  </string>
+  <string id="st_desc_control_inertion_factor">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Stopień „hamowania” broni, który utrudnia szybkie i pewne obracanie. Wyraźny w przypadku PKm i SVD. Wpływa na statystykę obsługi.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] To parametr statystyczny.</text>
+  </string>
+  <string id="st_desc_cost">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Podstawowy koszt broni (wpływa na niego wiele czynników ekonomicznych).\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_crosshair_inertion">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Bezwładność podczas poruszania kamerą określa, jak łatwo gwałtowny ruch wytrąci celownik z celu. Wpływa na statystykę obsługi.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_fire_dispersion_base">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Podstawowy kąt rozrzutu w stopniach, określający celność pierwszej serii. Wpływa na podstawową celność i wyświetlaną statystykę celności.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] To parametr statystyczny.</text>
+  </string>
+  <string id="st_desc_fire_dispersion_condition_factor">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Wpływ stanu broni na rozrzut: wyższe wartości powodują większe pogorszenie.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_fire_distance">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Odległość w metrach, po której pocisk „znika”; cele znajdujące się dalej nie zostaną trafione.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_hit_impulse">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Siła fizyczna pocisku. Wyższe wartości powodują bardziej widowiskowe zgony z ragdollem.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_hit_power">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Obrażenia zadawane przez pocisk.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] To parametr statystyczny.\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]Każda wartość odpowiada innemu poziomowi trudności:\nMistrz -&gt; Weteran -&gt; Stalker -&gt; Nowicjusz\nPoziom Vanilla nie jest używany w Anomaly; użyj tej samej wartości dla wszystkich poziomów.</text>
+  </string>
+  <string id="st_desc_holder_fov_modifier">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Pole widzenia SI podczas noszenia broni. Wartość 1,0 odpowiada mniej więcej 180 stopniom.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_holder_range_modifier">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Efektywny zasięg widzenia SI podczas noszenia broni.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_max_radius">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Maksymalny promień, w którym SI rozpoznaje sojuszników i wrogów.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_min_radius">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Minimalny promień w metrach, z którego można cię dostrzec. Może prowadzić do ciekawych sytuacji.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_misfire_end_condition">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Stan broni, przy którym szansa niewypału przestaje rosnąć.\nPrzy niższym stanie szansa niewypału nie przekroczy wartości "misfire_end_prob".\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Obliczenie szansy niewypału%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] aktualny stan broni\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] wartość "misfire_start_prob"\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] wartość "misfire_end_prob"\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] wartość "misfire_start_condition"\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] wartość "misfire_end_condition"\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con), gdy wartości są różne, lub samo (start_con), gdy są takie same</text>
+  </string>
+  <string id="st_desc_misfire_end_prob">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Końcowa szansa niewypału.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Obliczenie szansy niewypału%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] aktualny stan broni\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] wartość "misfire_start_prob"\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] wartość "misfire_end_prob"\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] wartość "misfire_start_condition"\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] wartość "misfire_end_condition"\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con), gdy wartości są różne, lub samo (start_con), gdy są takie same</text>
+  </string>
+  <string id="st_desc_misfire_probability">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Prawdopodobieństwo niewypału w dowolnym momencie (ten parametr nie jest używany).\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_misfire_start_condition">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Stan broni, przy którym zaczyna rosnąć szansa niewypału.\nPrzy wyższym stanie nie dochodzi do niewypałów.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Obliczenie szansy niewypału%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] aktualny stan broni\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] wartość "misfire_start_prob"\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] wartość "misfire_end_prob"\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] wartość "misfire_start_condition"\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] wartość "misfire_end_condition"\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con), gdy wartości są różne, lub samo (start_con), gdy są takie same</text>
+  </string>
+  <string id="st_desc_misfire_start_prob">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Początkowa szansa niewypału.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Obliczenie szansy niewypału%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] aktualny stan broni\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] wartość "misfire_start_prob"\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] wartość "misfire_end_prob"\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] wartość "misfire_start_condition"\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] wartość "misfire_end_condition"\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con), gdy wartości są różne, lub samo (start_con), gdy są takie same</text>
+  </string>
+  <string id="st_desc_reload_dof">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Głębia ostrości podczas przeładowania.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_rpm">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Szybkostrzelność w strzałach na minutę.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_rpm_empty_click">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Częstotliwość odtwarzania dźwięku pustej broni przy próbie strzału bez amunicji.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_scope_zoom_factor">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Stopień przybliżenia pola widzenia podczas celowania przez lunetę. Wartość domyślna to 1.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_cam_dispersion">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Rozrzut wpływający tylko na przyrządy mechaniczne i lunety.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range (stopnie)\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_dispersion".\nSilnik nie ogranicza tej wartości; wartości ujemne powodują ujemny odrzut.</text>
+  </string>
+  <string id="st_desc_zoom_cam_dispersion_frac">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Dodatkowy współczynnik rozrzutu, działający tylko przy celownikach mechanicznych i lunetach.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_dispersion_frac".</text>
+  </string>
+  <string id="st_desc_zoom_cam_dispersion_inc">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Przyrost rozrzutu przy każdym strzale, tylko dla celowników mechanicznych i lunet.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range (stopnie)\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_dispersion_inc".\nSilnik nie ogranicza tej wartości; wartości ujemne powodują ujemny odrzut.</text>
+  </string>
+  <string id="st_desc_zoom_cam_max_angle">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Maksymalny kąt odchylenia celownika od środka przez odrzut: 50 stopni w górę. Działa tylko przy celownikach mechanicznych i lunetach.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_max_angle".</text>
+  </string>
+  <string id="st_desc_zoom_cam_max_angle_horz">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Maksymalne przesunięcie w poziomie, tylko dla celowników mechanicznych i lunet.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_max_angle_horz".</text>
+  </string>
+  <string id="st_desc_zoom_cam_relax_speed">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Szybkość powrotu celowników mechanicznych i lunet do pozycji neutralnej.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range (stopnie)\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_relax_speed".</text>
+  </string>
+  <string id="st_desc_zoom_cam_relax_speed_ai">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Szybkość, z jaką SI odzyskuje celność po strzale z celownika mechanicznego lub lunety.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_cam_step_angle_horz">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Poziomy odrzut podczas strzelania: 0 powoduje odrzut pionowy, a wartość ujemna — w lewo. Działa tylko przy celownikach mechanicznych i lunetach.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range\n \n%c[pda_blue]Uwagi\n%c[ui_gray_2]jeśli ten parametr nie jest zdefiniowany w sekcji broni, silnik użyje wartości "cam_step_angle_horz".</text>
+  </string>
+  <string id="st_desc_zoom_dof">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Modyfikator głębi ostrości podczas korzystania z celowników mechanicznych.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_enabled">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Określa, czy można używać celowników mechanicznych.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_rotate_time">
+    <text>\n \n%c[pda_green]Opis\n%c[ui_gray_2]Czas potrzebny na wycelowanie przez lunetę.\n \n%c[pda_red]Zakres\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_ui_dbg_exec">
+    <text>Wykonawca funkcji</text>
+  </string>
+  <string id="st_ui_dbg_exec_btn">
+    <text>Wykonaj</text>
+  </string>
+  <string id="st_ui_dbg_help">
+    <text>%c[ui_gray_2]Skróty menu głównego w trybie debugowania:\n \n%c[d_orange]Tylko przy wczytanej grze:\n%c[pda_blue]• %c[ui_gray_3]F7:%c[ui_gray_2] uruchom debuger Anomaly\n%c[pda_blue]• %c[ui_gray_3]1:%c[ui_gray_2] HUD debugowania: przełącz informacje lewego panelu\n%c[pda_blue]• %c[ui_gray_3]2:%c[ui_gray_2] HUD debugowania: przełącz informacje środkowego panelu\n%c[pda_blue]• %c[ui_gray_3]3:%c[ui_gray_2] HUD debugowania: przełącz informacje prawego panelu\n \n%c[d_orange]Bez wczytanej gry:\n%c[pda_blue]• %c[ui_gray_3]F2:%c[ui_gray_2] uruchom mapę testową\n \n%c[d_orange]W obu przypadkach:\n%c[pda_blue]• %c[ui_gray_3]Klawisz 0 na klawiaturze numerycznej:%c[ui_gray_2] wczytaj ponownie system_ini()</text>
+  </string>
+  <string id="st_ui_dbg_hud_about">
+    <text>%c[ui_gray_1]Tronex/Rezy\n2019/9/15\nEdytor HUD broni\n \n%c[pda_green]Informacje%c[ui_gray_2]\nEdytor HUD broni pozwala w czasie rzeczywistym zmieniać położenie i orientację HUD-u broni.\nInterfejs jest interaktywny i prosty w obsłudze; umożliwia zapisanie ustawionej pozycji w tymczasowym pliku "temp_hud.ltx".\nZmienione wartości są tymczasowo buforowane dla broni, nad którymi pracujesz. Możesz do nich wrócić po wyłączeniu edytora (nie wychodź z gry ani jej nie wczytuj ponownie, jeśli masz niezapisane zmiany).\n \n%c[pda_red]Uwaga%c[ui_gray_2]\nPliki konfiguracji broni muszą być rozpakowane i znajdować się w (%c[ui_gray_3]gamedata/configs/items/weapons%c[ui_gray_2]).\nZmiany zapisane w parametrach HUD-u zaczną działać dopiero po ponownym uruchomieniu gry.\nAby zmieniać parametry położenia podczas celowania, najpierw włącz przełączanie celowania w opcjach i wyceluj bronią, a potem użyj edytora, by zobaczyć zmiany.\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) przechowuje oryginalne parametry po ich zmianie; możesz je przywrócić przyciskiem Resetuj.\nPamiętaj o utworzeniu kopii zapasowej konfiguracji.\n \n%c[pda_blue]Skróty klawiszowe%c[ui_gray_2]\n \n%c[d_purple]• %c[ui_gray_3]Klawisze strzałek: %c[ui_gray_2]nawigacja po parametrach.\n%c[d_purple]• %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]zwiększenie/zmniejszenie wybranej wartości.\n%c[d_purple]• %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]zwiększenie/zmniejszenie wszystkich wartości wybranego parametru.\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]krok wartości x10 / przeskok o 2 parametry.\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]krok wartości x50 / przeskok o 3 parametry.\n%c[d_purple]• %c[ui_gray_3]Numpad 5: %c[ui_gray_2]kopiowanie bieżących statystyk.\n%c[d_purple]• %c[ui_gray_3]Numpad 6: %c[ui_gray_2]wklejanie zapisanych statystyk.\n%c[d_purple]• %c[ui_gray_3]G: %c[ui_gray_2]przełączenie celownika.\n \n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]wyświetlenie okna pomocy.\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]wyłączenie edytora.</text>
+  </string>
+  <string id="st_ui_dbg_hud_alignment">
+    <text>Przełącz celownik</text>
+  </string>
+  <string id="st_ui_dbg_hud_copy">
+    <text>Kopiuj ustawienia</text>
+  </string>
+  <string id="st_ui_dbg_hud_current_file">
+    <text>Zapisz do pliku</text>
+  </string>
+  <string id="st_ui_dbg_hud_paste">
+    <text>Wklej ustawienia</text>
+  </string>
+  <string id="st_ui_dbg_hud_ratio">
+    <text>Zastosuj do parametrów 4:3 i 16:9</text>
+  </string>
+  <string id="st_ui_dbg_hud_reload">
+    <text>Resetuj ustawienia</text>
+  </string>
+  <string id="st_ui_dbg_hud_resume">
+    <text>Wznów</text>
+  </string>
+  <string id="st_ui_dbg_hud_title">
+    <text>Edytor HUD broni</text>
+  </string>
+  <string id="st_ui_dbg_item_about">
+    <text>%c[ui_gray_1]Tronex\n2019/10/8\nEdytor przedmiotów\n \n%c[pda_green]Informacje%c[ui_gray_2]\nEdytor przedmiotów pozwala edytować konfiguracje przedmiotów oraz zapisywać i testować zmiany bezpośrednio w grze.\nInteraktywny i prosty w obsłudze interfejs obsługuje edycję broni, ubrań i artefaktów.\nMożesz wybrać podobny przedmiot z listy, aby porównać jego statystyki z aktywnym przedmiotem.\nZmienione wartości są tymczasowo buforowane dla aktualnego przedmiotu; możesz do nich wrócić po wyłączeniu edytora.\n \n%c[pda_red]Uwaga%c[ui_gray_2]\nKonfiguracje przedmiotów muszą być rozpakowane i znajdować się w (%c[ui_gray_3]gamedata/configs/items%c[ui_gray_2]).\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) zachowuje oryginalne parametry; możesz je przywrócić przyciskiem Resetuj.\nPamiętaj o utworzeniu kopii zapasowej konfiguracji.\n \n%c[pda_blue]Skróty klawiszowe%c[ui_gray_2]\n \n%c[d_purple]• %c[ui_gray_3]Klawisze strzałek: %c[ui_gray_2]nawigacja po parametrach.\n%c[d_purple]• %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]zwiększenie/zmniejszenie wybranej wartości.\n%c[d_purple]• %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]zwiększenie/zmniejszenie wszystkich wartości wybranego parametru.\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]krok wartości x10 / przeskok o 2 parametry.\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]krok wartości x50 / przeskok o 3 parametry.\n%c[d_purple]• %c[ui_gray_3]Numpad 5: %c[ui_gray_2]kopiowanie bieżących statystyk.\n%c[d_purple]• %c[ui_gray_3]Numpad 6: %c[ui_gray_2]wklejanie zapisanych statystyk.\n \n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]wyświetlenie okna pomocy.\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]wyłączenie edytora.</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_Reset">
+    <text>Resetuj</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_apply">
+    <text>Zastosuj</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_copy">
+    <text>Kopiuj</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_paste">
+    <text>Wklej</text>
+  </string>
+  <string id="st_ui_dbg_item_compare">
+    <text>Porównanie</text>
+  </string>
+  <string id="st_ui_dbg_item_list">
+    <text>Lista</text>
+  </string>
+  <string id="st_ui_dbg_item_stats">
+    <text>Statystyki</text>
+  </string>
+  <string id="st_ui_dbg_launcher_action">
+    <text>Wykonaj działanie</text>
+  </string>
+  <string id="st_ui_dbg_launcher_console">
+    <text>Konsola</text>
+  </string>
+  <string id="st_ui_dbg_launcher_editor">
+    <text>Lista edytorów</text>
+  </string>
+  <string id="st_ui_dbg_launcher_target">
+    <text>Wykonaj na celu</text>
+  </string>
+  <string id="st_ui_dbg_launcher_toggle">
+    <text>Przełącz polecenie</text>
+  </string>
+  <string id="st_ui_dbg_lighting_title">
+    <text>Edytor oświetlenia</text>
+  </string>
+  <string id="st_ui_dbg_logic">
+    <text>Logika NPC</text>
+  </string>
+  <string id="st_ui_dbg_logic_file">
+    <text>Nazwa pliku INI</text>
+  </string>
+  <string id="st_ui_dbg_logic_logic">
+    <text>Aktywna logika</text>
+  </string>
+  <string id="st_ui_dbg_logic_revert">
+    <text>Przywróć logikę</text>
+  </string>
+  <string id="st_ui_dbg_logic_section">
+    <text>Aktywna sekcja</text>
+  </string>
+  <string id="st_ui_dbg_logic_set">
+    <text>Ustaw logikę</text>
+  </string>
+  <string id="st_ui_dbg_spawn_btn">
+    <text>Stwórz</text>
+  </string>
+  <string id="st_ui_dbg_spawn_icon">
+    <text>Według ikony</text>
+  </string>
+  <string id="st_ui_dbg_spawn_inv">
+    <text>Stwórz w ekwipunku</text>
+  </string>
+  <string id="st_ui_dbg_spawn_list">
+    <text>Według listy</text>
+  </string>
+  <string id="st_ui_dbg_spawn_log">
+    <text>Dziennik</text>
+  </string>
+  <string id="st_ui_dbg_spawn_name">
+    <text>Stwórz według sekcji</text>
+  </string>
+  <string id="st_ui_dbg_spawn_nearby">
+    <text>Stwórz przy graczu</text>
+  </string>
+  <string id="st_ui_dbg_spawn_point">
+    <text>Stwórz przy kursorze</text>
+  </string>
+  <string id="st_ui_dbg_spawn_smart">
+    <text>Stwórz na terenie inteligentnym</text>
+  </string>
+  <string id="st_ui_dbg_spawn_smart_list">
+    <text>Wybierz smarta</text>
+  </string>
+  <string id="st_ui_dbg_spawn_smart_lvl">
+    <text>Wybierz poziom</text>
+  </string>
+  <string id="st_ui_dbg_spawn_type">
+    <text>Typ przedmiotu</text>
+  </string>
+  <string id="st_ui_dbg_weather_about">
+    <text>%c[ui_gray_1]Tronex / Rezy\nDodano: 2019/6/1\nOstatnia edycja: 2020/2/22\nEdytor pogody Anomaly 2.0\n \n%c[pda_green]Informacje%c[ui_gray_2]\nEdytor pozwala zmieniać wartości pogody w czasie rzeczywistym z dokładnością do minuty.\nInterfejs graficzny jest interaktywny i łatwy w obsłudze; umożliwia modyfikowanie i tworzenie plików pogody na bieżąco.\nZmodyfikowane wartości są tymczasowo przechowywane w pamięci podręcznej dla pogody i godzin, nad którymi pracujesz.\nMożesz do nich wrócić po wyłączeniu edytora (nie wychodź ani nie wczytuj ponownie gry z niezapisanymi zmianami).\nW trybie (Podgląd) można obserwować zmiany pogody za pomocą suwaka czasu.\n \n%c[pda_blue]Skróty klawiszowe%c[ui_gray_2]\n\n%c[d_purple]• %c[ui_gray_3]Klawisze strzałek: %c[ui_gray_2]poruszanie się między parametrami.\n%c[d_purple]• %c[ui_gray_3]Lewy Shift (przytrzymaj): %c[ui_gray_2]krok wartości x10 / przeskocz o 2 parametry.\n%c[d_purple]• %c[ui_gray_3]Lewy Alt (przytrzymaj): %c[ui_gray_2]krok wartości x50 / przeskocz o 3 parametry.\n\n%c[d_purple]• %c[ui_gray_3]R/F: %c[ui_gray_2]zwiększ/zmniejsz wybraną wartość.\n%c[d_purple]• %c[ui_gray_3]T/G: %c[ui_gray_2]zwiększ/zmniejsz wszystkie wartości wybranego parametru.\n%c[d_purple]• %c[ui_gray_3]Q/A: %c[ui_gray_2]wybierz następną/poprzednią godzinę.\n%c[d_purple]• %c[ui_gray_3]W/S: %c[ui_gray_2]wybierz następną/poprzednią minutę.\n%c[d_purple]• %c[ui_gray_3]E/D: %c[ui_gray_2]wybierz następny/poprzedni zapisany moment.\n\n%c[d_purple]• %c[ui_gray_3]Z: %c[ui_gray_2]uruchom tryb podglądu.\n\n%c[d_purple]• %c[ui_gray_3]C: %c[ui_gray_2]skopiuj wartość wybranego parametru.\n%c[d_purple]• %c[ui_gray_3]C + CTRL: %c[ui_gray_2]skopiuj bieżące ustawienia.\n%c[d_purple]• %c[ui_gray_3]V: %c[ui_gray_2]wklej/zastosuj skopiowaną wartość parametru.\n%c[d_purple]• %c[ui_gray_3]V + CTRL: %c[ui_gray_2]wklej/zastosuj w bieżących ustawieniach.\n\n%c[d_purple]• %c[ui_gray_3]Delete: %c[ui_gray_2]zresetuj bieżący zmodyfikowany moment.\n%c[d_purple]• %c[ui_gray_3]Delete + CTRL: %c[ui_gray_2]zresetuj wszystkie zmodyfikowane momenty.\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]pokaż/ukryj okno pomocy.\n%c[d_purple]• %c[ui_gray_3]Esc lub Home: %c[ui_gray_2]wyłącz edytor.</text>
+  </string>
+  <string id="st_ui_dbg_weather_clear">
+    <text>Wyczyść buforowane wartości</text>
+  </string>
+  <string id="st_ui_dbg_weather_copy">
+    <text>Kopiuj ustawienia</text>
+  </string>
+  <string id="st_ui_dbg_weather_exit">
+    <text>Wyjdź (pogoda pozostanie wstrzymana w silniku)</text>
+  </string>
+  <string id="st_ui_dbg_weather_file">
+    <text>Wybierz plik pogody</text>
+  </string>
+  <string id="st_ui_dbg_weather_help">
+    <text>Informacje</text>
+  </string>
+  <string id="st_ui_dbg_weather_paste">
+    <text>Wklej ustawienia</text>
+  </string>
+  <string id="st_ui_dbg_weather_playing">
+    <text>Autoodtwarzanie</text>
+  </string>
+  <string id="st_ui_dbg_weather_resume">
+    <text>Wznów pogodę i wyjdź</text>
+  </string>
+  <string id="st_ui_dbg_weather_save">
+    <text>Zapisz w nowym pliku, jeśli wpisano jego nazwę w poniższym polu; w przeciwnym razie zapisz w bieżącym pliku.\nNazwy plików niestandardowych muszą zaczynać się od „w_”.</text>
+  </string>
+  <string id="st_ui_dbg_weather_save_msg_error">
+    <text>Nowy plik (%s) jest nieprawidłowy.\nNazwa pliku musi zaczynać się od "w_".\nWskazówka: pusta nazwa zapisze dane w bieżącym pliku.</text>
+  </string>
+  <string id="st_ui_dbg_weather_save_msg_new">
+    <text>Zapisać w nowym pliku (%s) i kontynuować?</text>
+  </string>
+  <string id="st_ui_dbg_weather_save_msg_old">
+    <text>Zapisać w istniejącym pliku (%s) i kontynuować?</text>
+  </string>
+  <string id="st_ui_dbg_weather_time">
+    <text>Wybierz godzinę</text>
+  </string>
+  <string id="st_ui_dbg_weather_title">
+    <text>Edytor pogody 2.0</text>
+  </string>
+  <string id="st_ui_dbg_weather_viewer">
+    <text>Tryb podglądu</text>
+  </string>
+</string_table>

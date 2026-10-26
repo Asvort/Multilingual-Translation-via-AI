@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Радіус виявлення (м)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>Відстань виявлення аномалій NPC. Більше — раніше виявлення, але більше обмежень руху. Типово: 30 м</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Блокувати на тілах</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Не дозволяє аномаліям спрацьовувати на тілах. Запобігає збоям ragdoll і покращує продуктивність.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Затримка перебудови кешу (с)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Затримка перебудови кешу після викиду чи пси-шторму. Потрібна для Arrival. Типово: 2,5 с</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Очистити старі позначки</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Видаляє позначки з минулих сеансів. Увімкніть, застосуйте й вимкніть. Одноразова дія.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>У бою</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Множник промаху в бою. Відволічені NPC частіше потрапляють в аномалії. Типово: 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Налаштування шкоди</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Режим налагодження</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Записує в консоль виявлення, шкоду та причини смерті.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Налаштування виявлення</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Радіус дії (м)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>NPC за цією відстанню захищені від шкоди аномалій. Запобігає загибелі віддалених NPC. Типово: 300 м</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Захист костюма</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Зменшує шкоду з урахуванням захисту костюма NPC від вогню, електрики, хімії тощо.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Загальні налаштування</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Імунітет за 0% шансу промаху</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>NPC із базовим шансом промаху 0% повністю захищені від шкоди аномалій.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>Увімкнути MAI</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Повністю вмикає або вимикає MAI. Коли вимкнено, NPC ігнорують аномалії.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Множники стану руху</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Досвідчений</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Базовий шанс промаху досвідчених сталкерів. Типово: 50%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Експерт</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Базовий шанс промаху експертів. Типово: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Легенда</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Базовий шанс промаху легенд. Типово: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Майстер</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Базовий шанс промаху майстрів. Типово: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Новачок</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Базовий шанс промаху новачків. 100% означає, що вони можуть постійно потрапляти в аномалії. Типово: 100%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Професіонал</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Базовий шанс промаху професіоналів. Типово: 25%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Базовий шанс промаху за рангом (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Стажист</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Базовий шанс промаху стажистів. Типово: 75%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Ветеран</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Базовий шанс промаху ветеранів. 0% означає, що вони ніколи не потраплять в аномалію. Типово: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Глобальний пошук шляху</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Увімкнено: усі NPC оминають аномалії незалежно від відстані. Вимкнено: обмеження лише в радіусі дії.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Під час бігу</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Множник промаху під час бігу. Більше — вища ймовірність не помітити аномалію. Типово: 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Показувати аномалії на мапі</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Позначає кешовані аномалії на КПК для налагодження пошуку шляху. Вимкніть, щоб прибрати позначки.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Стоячи</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Множник промаху, коли NPC стоїть. Менше — уважніше спостереження. Типово: 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — Взаємодія мутантів і аномалій</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Докладне налагодження</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Докладно показує оновлення, кеш і обмеження. Дуже багато повідомлень!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Під час ходьби</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Множник промаху під час ходьби. Типово: 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Взаємодія з аномаліями</text>
+  </string>
+</string_table>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Élevé</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Faible</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Standard</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Progression accélérée (20 à 30 heures de jeu)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Progression standard (30 à 40 heures de jeu)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Progression rapide (10 à 20 heures de jeu)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Grim Raid</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Population de Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Autoriser les sauvegardes près des feux de camp</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Permet de sauvegarder près des feux de camp.\n\nLorsque cette option est activée, les sauvegardes via la console avec « save nom_de_sauvegarde » fonctionnent également.\n\n%c[200, 235, 76, 52]Attention ! Il est recommandé de ne pas sauvegarder pendant le raid, car cela nuit à l'expérience de jeu.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>Le véritable « mode Obscurité » utilise les valeurs par défaut.</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Assurance de l’informateur (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Chance de conserver les objets des emplacements après avoir acheté une « assurance » auprès de l’informateur.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Garder les objets après la mort</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Pourcentage des objets équipés dont la conservation dans l'inventaire est garantie après la mort.\n\nPar exemple, avec 60 %, vous conservez 6 objets choisis au hasard sur un total de 10.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Perte progressive d’objets</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>Le nombre d'objets conservés à la mort dépend du rang. Plus le rang est élevé, moins vous conservez d'objets. Cette option désactive le curseur situé en dessous qui règle les objets conservés.\nRecrue - perte de 10 % des objets\nDébutant - perte de 20 % des objets\nExpérimenté - perte de 30 % des objets\nProfessionnel - perte de 40 % des objets\nVétéran - perte de 50 % des objets\nExpert - perte de 60 % des objets\nMaître - perte de 70 % des objets\nLégende - perte de 33 % des objets\n\nSi cette option est désactivée, le pourcentage se règle dans « Objets conservés après la mort ».</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Perte de points de rang à la mort (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Pourcentage de rang perdu à la mort.\n\nInflue sur la progression du personnage.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Population de Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Multiplicateur d’apparition de la simulation</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>Par défaut, 100 % correspond aux paramètres d’origine de la simulation. Modifiez la valeur de 20 à 50 % pour constater une différence.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Préréglage de population des lieux</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>Détermine le nombre d’escouades à l’apparition initiale et lors d’éventuelles apparitions supplémentaires. Fonctionne uniquement dans les raids standard.\nLe réglage standard est recommandé, car le jeu a été équilibré en fonction de celui-ci.</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>Vitesse de progression</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Détermine les récompenses des missions : rang, argent et réputation auprès des donneurs d’ordre.\nLe réglage standard est recommandé, car le jeu a été équilibré en fonction de celui-ci.</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Grim Raid</text>
+  </string>
+</string_table>

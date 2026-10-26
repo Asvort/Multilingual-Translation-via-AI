@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_bm_already_bought">
+    <text>Куплено</text>
+  </string>
+  <string id="st_bm_authority_low">
+    <text>Недостаточно авторитета.</text>
+  </string>
+  <string id="st_bm_authority_required">
+    <text>Авторитет: %s</text>
+  </string>
+  <string id="st_bm_delivery_arrived">
+    <text>Заказов доставлено: %d. Забери из схрона.</text>
+  </string>
+  <string id="st_bm_delivery_comment_1">
+    <text>Не потеряй. Второй раз не достанем.</text>
+  </string>
+  <string id="st_bm_delivery_comment_2">
+    <text>Работает. Проверено на живых.</text>
+  </string>
+  <string id="st_bm_delivery_comment_3">
+    <text>Шито-крыто. Ты его не видел, мы тебя не знаем.</text>
+  </string>
+  <string id="st_bm_delivery_comment_4">
+    <text>За такие деньги мог бы и поклониться.</text>
+  </string>
+  <string id="st_bm_delivery_comment_5">
+    <text>Следов нет. Считай что само материализовалось.</text>
+  </string>
+  <string id="st_bm_delivery_comment_6">
+    <text>Не благодари. Лучше возвращайся с деньгами.</text>
+  </string>
+  <string id="st_bm_delivery_elapsed">
+    <text>Время ожидания: %dч</text>
+  </string>
+  <string id="st_bm_delivery_item">
+    <text>Товар: %s</text>
+  </string>
+  <string id="st_bm_delivery_item_short">
+    <text>- %s (%dч)</text>
+  </string>
+  <string id="st_bm_delivery_label">
+    <text>Доставка: %d ч</text>
+  </string>
+  <string id="st_bm_delivery_ready_hdr">
+    <text>NaData -- заказ готов</text>
+  </string>
+  <string id="st_bm_delivery_ready_hdr_multi">
+    <text>NaData -- готово заказов: %d</text>
+  </string>
+  <string id="st_bm_exchange_btn">
+    <text>Обменять (+%d %s)</text>
+  </string>
+  <string id="st_bm_exchanged">
+    <text>Обмен: +%d %s</text>
+  </string>
+  <string id="st_bm_flash_sale_label">
+    <text>Акция | ещё %dч</text>
+  </string>
+  <string id="st_bm_flash_sale_notify">
+    <text>NaData \nАкция. %s доступен %dч. Успей.</text>
+  </string>
+  <string id="st_bm_greet_1">
+    <text>Чё надо? Витрина перед тобой, не задерживайся.</text>
+  </string>
+  <string id="st_bm_greet_2">
+    <text>А, опять ты. Деньги хоть есть на этот раз?</text>
+  </string>
+  <string id="st_bm_greet_3">
+    <text>Заходи. Только без глупостей, как в прошлый раз.</text>
+  </string>
+  <string id="st_bm_greet_4">
+    <text>Здарова, бродяга. Чё, по делу или просто?</text>
+  </string>
+  <string id="st_bm_greet_5">
+    <text>Давно не видел. Как оно?</text>
+  </string>
+  <string id="st_bm_greet_6">
+    <text>Здарова. Смотри что сегодня привезли.</text>
+  </string>
+  <string id="st_bm_greet_7">
+    <text>Пришёл. Хорошо. Есть тема, потом обсудим.</text>
+  </string>
+  <string id="st_bm_greet_8">
+    <text>Тебя только и ждали. Глянь, что отложили.</text>
+  </string>
+  <string id="st_bm_greet_9">
+    <text>Старшой пришёл. Витрина твоя, бери что хочешь.</text>
+  </string>
+  <string id="st_bm_lvl_1">
+    <text>незнакомец</text>
+  </string>
+  <string id="st_bm_lvl_2">
+    <text>шестёрка</text>
+  </string>
+  <string id="st_bm_lvl_3">
+    <text>ходок</text>
+  </string>
+  <string id="st_bm_lvl_4">
+    <text>проверенный</text>
+  </string>
+  <string id="st_bm_lvl_5">
+    <text>клиент</text>
+  </string>
+  <string id="st_bm_lvl_6">
+    <text>свой</text>
+  </string>
+  <string id="st_bm_lvl_7">
+    <text>подельник</text>
+  </string>
+  <string id="st_bm_lvl_8">
+    <text>теневик</text>
+  </string>
+  <string id="st_bm_lvl_9">
+    <text>авторитет</text>
+  </string>
+  <string id="st_bm_misc_barrier_device_src">
+    <text>Барьерное устройство неизвестного происхождения</text>
+  </string>
+  <string id="st_bm_misc_bread_rosary_src">
+    <text>Хлебные чётки, намоленные где-то в аномалии</text>
+  </string>
+  <string id="st_bm_misc_camera_lens_src">
+    <text>Объектив от дорогой камеры, почти целый</text>
+  </string>
+  <string id="st_bm_misc_cassette_src">
+    <text>Старая кассета с записями, найдена среди хлама</text>
+  </string>
+  <string id="st_bm_misc_chimera_statuette_src">
+    <text>Серебряная фигурка химеры, детализированная</text>
+  </string>
+  <string id="st_bm_misc_lab_disc_src">
+    <text>Диск с лабораторными данными, засекречен</text>
+  </string>
+  <string id="st_bm_misc_medal_src">
+    <text>Боевая медаль с гравировкой, чужая история</text>
+  </string>
+  <string id="st_bm_misc_nato_battery_src">
+    <text>Аккумулятор натовского образца, редкость</text>
+  </string>
+  <string id="st_bm_misc_religious_icon_src">
+    <text>Старинная икона, обёрнутая в фольгу</text>
+  </string>
+  <string id="st_bm_misc_walkman_src">
+    <text>Портативный плеер, чудом работающий в Зоне</text>
+  </string>
+  <string id="st_bm_no_money">
+    <text>Недостаточно средств.</text>
+  </string>
+  <string id="st_bm_order_btn">
+    <text>ЗАКАЗАТЬ</text>
+  </string>
+  <string id="st_bm_order_pending">
+    <text>В доставке: ещё около %d ч</text>
+  </string>
+  <string id="st_bm_order_placed">
+    <text>Заказ оформлен. Сроки доставки: %d ч.</text>
+  </string>
+  <string id="st_bm_order_ready">
+    <text>Заказ готов</text>
+  </string>
+  <string id="st_bm_picked_up">
+    <text>Заказ получен.</text>
+  </string>
+  <string id="st_bm_pickup_btn">
+    <text>ЗАБРАТЬ</text>
+  </string>
+  <string id="st_bm_price_decay_label">
+    <text>-%d%% (цена снижена)</text>
+  </string>
+  <string id="st_bm_purchased">
+    <text>Лот выкуплен. -%d %s</text>
+  </string>
+  <string id="st_bm_quest_label">
+    <text>Спецзаказ, %d ч</text>
+  </string>
+  <string id="st_bm_rank_low">
+    <text>Низкий ранг</text>
+  </string>
+  <string id="st_bm_rotation_next">
+    <text>Обновление через: %dч</text>
+  </string>
+  <string id="st_bm_rotation_notify_1">
+    <text>NaData \nАссортимент сменился. Заходи, пока не разобрали.</text>
+  </string>
+  <string id="st_bm_rotation_notify_2">
+    <text>NaData \nЗавезли кое-что интересное. Долго не пролежит.</text>
+  </string>
+  <string id="st_bm_rotation_notify_3">
+    <text>NaData \nНовый товар на витрине. Не тупи — разберут.</text>
+  </string>
+  <string id="st_bm_rotation_notify_4">
+    <text>NaData \nОбновление прошло. Деньги есть — знаешь куда идти.</text>
+  </string>
+  <string id="st_bm_rotation_notify_5">
+    <text>NaData \nСвежий груз. Зайди посмотри, вдруг пригодится.</text>
+  </string>
+  <string id="st_bm_rotation_notify_6">
+    <text>NaData \nЧто было — ушло. Что пришло — смотри сам.</text>
+  </string>
+  <string id="st_bm_rotation_notify_7">
+    <text>NaData \nПривезли кое-что. Не ной потом что не предупредили.</text>
+  </string>
+  <string id="st_bm_rotation_notify_8">
+    <text>NaData \nСменили витрину. Придёшь поздно — не обессудь.</text>
+  </string>
+  <string id="st_bm_sell_btn_eur">
+    <text>Сбыть (%d EUR)</text>
+  </string>
+  <string id="st_bm_sell_btn_usd">
+    <text>Сбыть (%d USD)</text>
+  </string>
+  <string id="st_bm_sell_no_items">
+    <text>В инвентаре нет ничего пригодного для сбыта.</text>
+  </string>
+  <string id="st_bm_sold">
+    <text>Сбыто: +%d %s</text>
+  </string>
+  <string id="st_bm_src_01">
+    <text>Снято с трупа в заброшенном бункере</text>
+  </string>
+  <string id="st_bm_src_02">
+    <text>Контрабанда с границы с Тёмной Долиной</text>
+  </string>
+  <string id="st_bm_src_03">
+    <text>Архив с подвалом в Припяти</text>
+  </string>
+  <string id="st_bm_src_04">
+    <text>Списанная партия снята со снабжения</text>
+  </string>
+  <string id="st_bm_src_05">
+    <text>Захват банды ЧКП, Тёмная Долина</text>
+  </string>
+  <string id="st_bm_src_06">
+    <text>Поиск в подвале с трофеями</text>
+  </string>
+  <string id="st_bm_src_07">
+    <text>Перехват на маршруте к Прибалтийской базе</text>
+  </string>
+  <string id="st_bm_src_08">
+    <text>Найден в неисправном состоянии, починили частной</text>
+  </string>
+  <string id="st_bm_src_09">
+    <text>Достали раз, перепродали много раз</text>
+  </string>
+  <string id="st_bm_src_10">
+    <text>Снят со сталкера у Свалки</text>
+  </string>
+  <string id="st_bm_src_11">
+    <text>Куплено у одной группы ИСГ, тихо</text>
+  </string>
+  <string id="st_bm_src_12">
+    <text>Получено в Лиманске, тяжело</text>
+  </string>
+  <string id="st_bm_src_13">
+    <text>Список военнослужащих, армия</text>
+  </string>
+  <string id="st_bm_src_14">
+    <text>Перехваченный груз контрабандистов</text>
+  </string>
+  <string id="st_bm_src_15">
+    <text>Никогда не задавай нам вопросов</text>
+  </string>
+  <string id="st_bm_src_16">
+    <text>Просто всегда хранил, не интересуйся</text>
+  </string>
+  <string id="st_bm_temp_unavail">
+    <text>Временно недоступен</text>
+  </string>
+  <string id="st_bm_uniq_ammo_gauss_descr">
+    <text>Боеприпасы для электромагнитной винтовки. Редкость абсолютная. Нашли — сами не знаем где. Покупай пока есть.</text>
+  </string>
+  <string id="st_bm_uniq_ammo_gauss_name">
+    <text>Патроны "Гаусс" (5 шт.)</text>
+  </string>
+  <string id="st_bm_uniq_card_agr_descr">
+    <text>Магнитный пропуск в подземелья Агропрома. Прежний владелец туда уже не вернётся.</text>
+  </string>
+  <string id="st_bm_uniq_card_agr_name">
+    <text>Карта доступа: АГПРОМ</text>
+  </string>
+  <string id="st_bm_uniq_card_jup_descr">
+    <text>Пропуск в подземелья "Юпитера". Те, кто его выносили, разделили цену поровну — и больше не вернулись.</text>
+  </string>
+  <string id="st_bm_uniq_card_jup_name">
+    <text>Карта доступа: Юпитер</text>
+  </string>
+  <string id="st_bm_uniq_card_x18_descr">
+    <text>Электронный ключ от лаборатории Х-18. Достали из Тёмной Долины — лучше не спрашивай, какой ценой.</text>
+  </string>
+  <string id="st_bm_uniq_card_x18_name">
+    <text>Карта доступа: Х-18</text>
+  </string>
+  <string id="st_bm_uniq_exo_csky_descr">
+    <text>Экзоскелет "Чистого Неба" — один из старейших в Зоне. Восстановлен до заводского состояния.</text>
+  </string>
+  <string id="st_bm_uniq_exo_csky_name">
+    <text>Экзоскелет ЧН-5</text>
+  </string>
+  <string id="st_bm_uniq_exo_greh_descr">
+    <text>Экзоскелет с символикой "Греха" — тяжёлый, бронированный, без компромиссов. Пуля не берёт, совесть — тем более.</text>
+  </string>
+  <string id="st_bm_uniq_exo_greh_name">
+    <text>Экзоскелет "Греха"</text>
+  </string>
+  <string id="st_bm_uniq_exo_isg_descr">
+    <text>Боевой экзоскелет разработки ИИГ. Попал к нам в обход всех каналов — не каждый позволит такой носить.</text>
+  </string>
+  <string id="st_bm_uniq_exo_isg_name">
+    <text>Экзоскелет ИИГ</text>
+  </string>
+  <string id="st_bm_uniq_gauss_descr">
+    <text>Экспериментальная электромагнитная винтовка. Боезапас к ней — отдельная проблема.</text>
+  </string>
+  <string id="st_bm_uniq_gauss_name">
+    <text>Гауссова винтовка</text>
+  </string>
+  <string id="st_bm_uniq_hyena_descr">
+    <text>Лежит у нас, как ждёт хозяина. Спасибо за лот.</text>
+  </string>
+  <string id="st_bm_uniq_hyena_name">
+    <text>Гиена</text>
+  </string>
+  <string id="st_bm_uniq_kar98_hunter_descr">
+    <text>Работа Лесника — реставрированный Маузер с японской оптикой March. Говорит, для охоты на нарушителей в Рыжем лесу.</text>
+  </string>
+  <string id="st_bm_uniq_kar98_hunter_name">
+    <text>Mauser Kar98 Retrotac</text>
+  </string>
+  <string id="st_bm_uniq_karatysh_descr">
+    <text>Укороченный ПКМ с обвесом Зенит. Когда нужна огневая мощь пулемёта, но в габаритах автомата.</text>
+  </string>
+  <string id="st_bm_uniq_karatysh_name">
+    <text>ПКМ "Карандыш"</text>
+  </string>
+  <string id="st_bm_uniq_m24_green_descr">
+    <text>Армейская снайперская винтовка в зелёном камуфляже. Прежний владелец сменил профессию — навсегда.</text>
+  </string>
+  <string id="st_bm_uniq_m24_green_name">
+    <text>М24 в зелёном камуфляже</text>
+  </string>
+  <string id="st_bm_uniq_m82_descr">
+    <text>Крупнокалиберная самозарядная винтовка. Пробивает всё, что встретишь в Зоне. Откуда — не спрашивай.</text>
+  </string>
+  <string id="st_bm_uniq_m82_name">
+    <text>Barrett M82</text>
+  </string>
+  <string id="st_bm_uniq_m98b_descr">
+    <text>Высокоточная болтовка .338 Lapua для работы на дальних дистанциях. Прицел в комплект не входит.</text>
+  </string>
+  <string id="st_bm_uniq_m98b_name">
+    <text>Barrett M98B</text>
+  </string>
+  <string id="st_bm_uniq_nosorog_monolit_descr">
+    <text>"Носорог" с монолитовской маркировкой. Снят с тех, кто верил — и больше не верит. Доставка стоила нам троих.</text>
+  </string>
+  <string id="st_bm_uniq_nosorog_monolit_name">
+    <text>Доспехи "Монолита"</text>
+  </string>
+  <string id="st_bm_uniq_rd47_descr">
+    <text>Кастомизированный АКМ от Rifle Dynamics в обвесе ИИГ. Перехвачен вместе с партией снаряжения на Кордоне.</text>
+  </string>
+  <string id="st_bm_uniq_rd47_name">
+    <text>RD47 АКМ (ИИГ)</text>
+  </string>
+  <string id="st_bm_uniq_rd74m_isg_descr">
+    <text>Полноразмерный автомат ИИГ из той же партии, что и укороченный. Перехвачен на маршруте снабжения.</text>
+  </string>
+  <string id="st_bm_uniq_rd74m_isg_name">
+    <text>АК-74М "Иней" (ИИГ)</text>
+  </string>
+  <string id="st_bm_uniq_rd74u_isg_descr">
+    <text>Укороченный автомат из боевого подразделения ИИГ. Серийный номер сточен — никаких лишних вопросов.</text>
+  </string>
+  <string id="st_bm_uniq_rd74u_isg_name">
+    <text>АКС-74У "Иней" (ИИГ)</text>
+  </string>
+  <string id="st_bm_uniq_rd9x39_isg_descr">
+    <text>Модификация "Винтореза" под усиленный патрон ИИГ. В свободной продаже быть не должна — потому и здесь.</text>
+  </string>
+  <string id="st_bm_uniq_rd9x39_isg_name">
+    <text>"Винторез" 9х39 (ИИГ)</text>
+  </string>
+  <string id="st_bm_uniq_rsh12_descr">
+    <text>Штурмовой револьвер 12.7 мм — разработка ЦКИБа для спецопераций в замкнутых пространствах. Сняли с опера в Лиманске.</text>
+  </string>
+  <string id="st_bm_uniq_rsh12_name">
+    <text>РШ-12</text>
+  </string>
+  <string id="st_bm_uniq_saiga_isg_descr">
+    <text>Тактическая "Сайга" в обвесе ИИГ. Пришла с грузом, который должен был уехать за границу и не уехал.</text>
+  </string>
+  <string id="st_bm_uniq_saiga_isg_name">
+    <text>Сайга-12 "Тактика" (ИИГ)</text>
+  </string>
+  <string id="st_bm_uniq_shak12_descr">
+    <text>Штурмовой комплекс под патрон 12.7х55 — для работы в зданиях, где стены не спасают. Из той же партии, что и "Выхлоп".</text>
+  </string>
+  <string id="st_bm_uniq_shak12_name">
+    <text>ШАК-12</text>
+  </string>
+  <string id="st_bm_uniq_vintorez_merk_descr">
+    <text>Наёмничья модификация "Винтореза" — облегчённая, с улучшенной эргономикой. Прежний владелец контракт не закрыл.</text>
+  </string>
+  <string id="st_bm_uniq_vintorez_merk_name">
+    <text>ВСС "Мерк"</text>
+  </string>
+  <string id="st_bm_uniq_vss_savant_descr">
+    <text>Модернизированный "Винторез" с улучшенным глушителем. Прежний хозяин не дожил до получения из мастерской.</text>
+  </string>
+  <string id="st_bm_uniq_vss_savant_name">
+    <text>ВСС "Винторез" М1</text>
+  </string>
+  <string id="st_bm_uniq_vssk_descr">
+    <text>Крупнокалиберная бесшумная снайперка — 12.7 мм, а тише иного "Винтореза". Из арсенала, который больше не охраняют.</text>
+  </string>
+  <string id="st_bm_uniq_vssk_name">
+    <text>ВССК "Выхлоп"</text>
+  </string>
+  <string id="st_raid_bm_balance_label">
+    <text>Баланс</text>
+  </string>
+  <string id="st_raid_bm_buy_btn">
+    <text>ВЫКУПИТЬ</text>
+  </string>
+  <string id="st_raid_bm_disclaimer">
+    <text>Администрация не несёт ответственности за результаты сделок. Возврат невозможен. Удачных торгов, сталкер.</text>
+  </string>
+  <string id="st_raid_bm_empty">
+    <text>На этой вкладке пока нет доступных лотов. Возвращайся позже.</text>
+  </string>
+  <string id="st_raid_bm_empty_sell">
+    <text>Нет предметов для сбыта в инвентаре</text>
+  </string>
+  <string id="st_raid_bm_entry_label">
+    <text>Чёрный рынок</text>
+  </string>
+  <string id="st_raid_bm_id">
+    <text>ID</text>
+  </string>
+  <string id="st_raid_bm_id_value">
+    <text>ST-7742</text>
+  </string>
+  <string id="st_raid_bm_kind_armor">
+    <text>Броня</text>
+  </string>
+  <string id="st_raid_bm_kind_misc">
+    <text>Лот</text>
+  </string>
+  <string id="st_raid_bm_kind_weapon">
+    <text>Оружие</text>
+  </string>
+  <string id="st_raid_bm_lot_prefix">
+    <text>ЛОТ #</text>
+  </string>
+  <string id="st_raid_bm_next_update">
+    <text>Следующее обновление лотов через: %s</text>
+  </string>
+  <string id="st_raid_bm_rank_label">
+    <text>Ранг</text>
+  </string>
+  <string id="st_raid_bm_rank_req_short">
+    <text>Ранг</text>
+  </string>
+  <string id="st_raid_bm_rank_required">
+    <text>Ранг: %s</text>
+  </string>
+  <string id="st_raid_bm_reserve_label">
+    <text>Резерв</text>
+  </string>
+  <string id="st_raid_bm_slot_prefix">
+    <text>SLOT_</text>
+  </string>
+  <string id="st_raid_bm_source">
+    <text>Источник</text>
+  </string>
+  <string id="st_raid_bm_status_low_rank">
+    <text>Низкий ранг</text>
+  </string>
+  <string id="st_raid_bm_status_no_money">
+    <text>Недостаточно средств</text>
+  </string>
+  <string id="st_raid_bm_status_owned">
+    <text>Уже приобретено</text>
+  </string>
+  <string id="st_raid_bm_subtitle">
+    <text>Закрытая площадка. Знаешь код — знаешь координаты.</text>
+  </string>
+  <string id="st_raid_bm_terminal_subtitle">
+    <text>OBJECT 0-21 :: BLACK_MARKET_V2</text>
+  </string>
+  <string id="st_raid_bm_terminal_title">
+    <text>BLACK_MARKET // ZONE_SECTOR_C</text>
+  </string>
+  <string id="st_raid_bm_title">
+    <text>РЫНОК</text>
+  </string>
+  <string id="st_raid_bm_title_bot">
+    <text>РЫНОК</text>
+  </string>
+  <string id="st_raid_bm_title_full">
+    <text>Чёрный рынок</text>
+  </string>
+  <string id="st_raid_bm_title_top">
+    <text>ЧЁРНЫЙ</text>
+  </string>
+  <string id="st_raid_bm_update_static">
+    <text>Следующее обновление лотов через: 41:12:05</text>
+  </string>
+  <string id="st_raid_bm_wear">
+    <text>Износ</text>
+  </string>
+  <string id="st_raid_rank_experienced">
+    <text>опытный</text>
+  </string>
+  <string id="st_raid_rank_expert">
+    <text>эксперт</text>
+  </string>
+  <string id="st_raid_rank_legend">
+    <text>легенда</text>
+  </string>
+  <string id="st_raid_rank_master">
+    <text>мастер</text>
+  </string>
+  <string id="st_raid_rank_novice">
+    <text>новичок</text>
+  </string>
+  <string id="st_raid_rank_professional">
+    <text>профессионал</text>
+  </string>
+  <string id="st_raid_rank_trainee">
+    <text>стажёр</text>
+  </string>
+  <string id="st_raid_rank_veteran">
+    <text>ветеран</text>
+  </string>
+</string_table>

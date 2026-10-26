@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bm_purchased_delayed">
+    <text>Trato cerrado. -%d %s. Objeto raro: entrega en %d días.</text>
+  </string>
+  <string id="st_bm_purchased_stash">
+    <text>Trato cerrado. -%d %s. Objeto enviado al alijo de casa.</text>
+  </string>
+  <string id="st_raid_eur_10">
+    <text>10 euros</text>
+  </string>
+  <string id="st_raid_eur_100">
+    <text>100 euros</text>
+  </string>
+  <string id="st_raid_eur_1000">
+    <text>Fajo 1,000 EUR</text>
+  </string>
+  <string id="st_raid_eur_1000_descr">
+    <text>Pequeño fajo de euros sujeto con una goma. Alguien lo tenía a mano. \n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] se puede guardar en la cartera.\n \n</text>
+  </string>
+  <string id="st_raid_eur_100_descr">
+    <text>Billete de 100 euros. Conviene guardarlo en un lugar seguro.</text>
+  </string>
+  <string id="st_raid_eur_10_descr">
+    <text>Billete de 10 euros. No es mucho, pero el dinero es dinero.</text>
+  </string>
+  <string id="st_raid_eur_50">
+    <text>50 euros</text>
+  </string>
+  <string id="st_raid_eur_5000">
+    <text>Fajo 5,000 EUR</text>
+  </string>
+  <string id="st_raid_eur_5000_descr">
+    <text>Fajo grueso y bien contado de euros. Encontrarlo significa que hay algo serio detrás. \n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] se puede guardar en la cartera.\n \n</text>
+  </string>
+  <string id="st_raid_eur_50_descr">
+    <text>Billete de 50 euros. Una suma decente.</text>
+  </string>
+  <string id="st_raid_eur_pack">
+    <text>Fajo 10,000 EUR</text>
+  </string>
+  <string id="st_raid_eur_pack_descr">
+    <text>Fajo grueso de euros. Mucho dinero; fuera de la Zona alcanzaría para un coche usado. \n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] se puede guardar en la cartera.\n \n</text>
+  </string>
+  <string id="st_raid_exchange_limit_eur">
+    <text>Voron aceptó: %d/%d EUR en este periodo. Se devolvió el exceso.</text>
+  </string>
+  <string id="st_raid_exchange_limit_usd">
+    <text>Voron aceptó: %d/%d USD en este periodo. Se devolvió el exceso.</text>
+  </string>
+  <string id="st_raid_money_suitcase">
+    <text>Maleta</text>
+  </string>
+  <string id="st_raid_money_suitcase_descr">
+    <text>Maleta vieja de contenido desconocido. Al moverla, parece contener algo valioso.\n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] muy valioso.\n \n</text>
+  </string>
+  <string id="st_raid_pack_to_wallet">
+    <text>Guardar en la cartera</text>
+  </string>
+  <string id="st_raid_store_in_wallet">
+    <text>Guardar en la cartera</text>
+  </string>
+  <string id="st_raid_suitcase_opened">
+    <text>La maleta contenía: %d EUR y %d USD</text>
+  </string>
+  <string id="st_raid_usd_10">
+    <text>10 dólares</text>
+  </string>
+  <string id="st_raid_usd_100">
+    <text>100 dólares</text>
+  </string>
+  <string id="st_raid_usd_1000">
+    <text>Fajo 1,000 USD</text>
+  </string>
+  <string id="st_raid_usd_1000_descr">
+    <text>Pequeño fajo de dólares sujeto con una goma. Alguien lo guardó para un día difícil. \n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] se puede guardar en la cartera.\n \n</text>
+  </string>
+  <string id="st_raid_usd_100_descr">
+    <text>Billete de 100 dólares. El billete más reconocible del mundo, incluso aquí.</text>
+  </string>
+  <string id="st_raid_usd_10_descr">
+    <text>Billete de 10 dólares. El buen y viejo dólar, aceptado casi en todas partes.</text>
+  </string>
+  <string id="st_raid_usd_50">
+    <text>50 dólares</text>
+  </string>
+  <string id="st_raid_usd_5000">
+    <text>Fajo 5,000 USD</text>
+  </string>
+  <string id="st_raid_usd_5000_descr">
+    <text>Fajo grueso de dólares, bien contado. Bastaría para financiar una expedición de stalkers. \n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] se puede guardar en la cartera.\n \n</text>
+  </string>
+  <string id="st_raid_usd_50_descr">
+    <text>Billete de 50 dólares. Dinero contante y sonante.</text>
+  </string>
+  <string id="st_raid_usd_pack">
+    <text>Fajo 10,000 USD</text>
+  </string>
+  <string id="st_raid_usd_pack_descr">
+    <text>Fajo grueso de dólares. Alguien estará muy enfadado por haberlo perdido. \n \n%c[0, 252, 186, 23] - %c[0, 156, 122, 39] se puede guardar en la cartera.\n \n</text>
+  </string>
+  <string id="st_raid_wallet_empty">
+    <text>La cartera está vacía</text>
+  </string>
+  <string id="st_raid_withdraw_all_eur">
+    <text>Retirar todos los EUR</text>
+  </string>
+  <string id="st_raid_withdraw_all_usd">
+    <text>Retirar todos los USD</text>
+  </string>
+</string_table>

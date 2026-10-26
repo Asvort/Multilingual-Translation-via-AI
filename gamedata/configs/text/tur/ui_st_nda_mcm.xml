@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_nda">
+    <text>NDA - NPC’ler Anomalilerde Ölür</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay">
+    <text>Anomali Belleği (sn)</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay_desc">
+    <text>NPC’nin algıladığı anomaliden bölgeden ayrıldıktan sonra ne kadar süreyle hatırlayacağı. Hatırlanan anomaliler ıskalama zarını atlar ve kaçınma güvenilir kalır. 0 belleği kapatır. Varsayılan: 30 sn.</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius">
+    <text>Algılama Yarıçapı (m)</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius_desc">
+    <text>NPC’lerin anomalileri algılayabildiği mesafe. Değer yükseldikçe daha erken algılarlar, ancak yol bulma kısıtlamaları artar. Varsayılan: 30 m.</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses">
+    <text>Cesetlerde Engelle</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses_desc">
+    <text>Anomalilerin ölü bedenlerde etkinleşmesini önler. Ragdoll fiziği hatalarını önler ve performansı artırır.</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies">
+    <text>Anomalilerde Yağmayı Engelle</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies_desc">
+    <text>NPC’lerin cesetleri yağmalamak için anomali alanlarına girmesini önler. Stalkerların birbirini anomalilere kadar takip etmesiyle oluşan zincirleme ölümleri engeller. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled">
+    <text>Etkileşim Alanı</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled_desc">
+    <text>Anomalilerle yalnızca oyuncunun çevresindeki alan içinde kalan NPC’ler etkileşir; hasar alabilir veya anomalilerden kaçınabilir. Alan dışındakiler anomali hasarı için işlenmez. Tüm çevrimiçi NPC’leri mesafeden bağımsız işlemek için kapatın.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius">
+    <text>Alan Yarıçapı (m)</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius_desc">
+    <text>Oyuncunun çevresindeki etkileşim alanının yarıçapı. Bu mesafenin dışındaki NPC’ler anomali hasarından korunur. Varsayılan: 150 m. Yalnızca Etkileşim Alanı açıkken kullanılır.</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay">
+    <text>Önbellek Yenileme Gecikmesi (sn)</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay_desc">
+    <text>Emisyon veya psi fırtınasından sonra anomali önbelleği yenilenmeden önceki bekleme. Arrival moduyla uyumluluk için gereklidir. Varsayılan: 2,5 sn.</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers">
+    <text>Eski İşaretçileri Temizle</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers_desc">
+    <text>Önceki oturumlardan kalan anomali ve ölüm işaretçilerini kaldırır. Etkinleştirip uygulayın, ardından devre dışı bırakın. Tek seferlik bir işlemdir.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier">
+    <text>Çatışma</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier_desc">
+    <text>NPC çatışmadayken ıskalama olasılığı çarpanı. Dikkati dağılmış NPC’lerin anomalilere dalma olasılığı çok daha yüksektir. Varsayılan: 3,0x.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage">
+    <text>Yalnızca Çatışmada Hasar</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage_desc">
+    <text>NPC’ler anomali hasarını yalnızca çatışmada alır. Çatışma dışında anomalileri algılayıp kaçınırlar, ancak yakındaki alanlardan hasar görmezler. Açıkken yürüme ve ayakta durma bağışıklığını, ek süreyi ve hareket/rütbe ıskalama çarpanlarını geçersiz kılar; çatışma dışındaki NPC’ler zaten bağışıktır. Diğer ayarları kullanmak için kapatın. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_community_excl_title">
+    <text>Grup İstisnaları</text>
+  </string>
+  <string id="ui_mcm_nda_damage_title">
+    <text>Hasar Ayarları</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot">
+    <text>Haritada Anomali Ölüm İşareti</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot_desc">
+    <text>Anomalide ölen stalkerı haritada geçici olarak işaretler. Kırmızı işaret 5 dakika sonra silinir ve kayıt dosyasına eklenmez.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news">
+    <text>Anomali Ölüm Haberleri</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news_desc">
+    <text>Bir stalker anomalide öldüğünde adını, rütbesini ve grubunu, onu öldüren anomaliyi ve konumu (harita ile koordinatları) haber penceresinde gösterir.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode">
+    <text>Hata Ayıklama Modu</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode_desc">
+    <text>Konsola hata ayıklama kaydı açar. Algılama zarlarını, hasar olaylarını ve ölüm nedenlerini gösterir.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_title">
+    <text>Hata Ayıklama Ayarları</text>
+  </string>
+  <string id="ui_mcm_nda_detection_title">
+    <text>Algılama Ayarları</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult">
+    <text>Kıyafet Koruması</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult_desc">
+    <text>Anomali hasarını NPC’nin kıyafetine göre azaltır. Koruma değerlerini kıyafet yapılandırmalarından okur (yanık, elektrik, kimyasal vb.).</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance">
+    <text>Motor Kaçınması (feel)</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance_desc">
+    <text>Seyrek anomali alanlarında motorun feel sistemi NPC’lere anomalilerin çevresinden yol buldurur; NPC’ler cıvata da atar. Betik kısıtlamalarının aksine tüm anomali türlerinden kaçınır; betik yalnızca navigasyon ağını etkileyen şekilleri engeller (asitli ve elektrikli alanlar engellenemez). Yoğun veya kapalı kümelerde feel donabilir ya da çökebilir, bu yüzden yalnızca seyrek alanlarda kullanın. En yüksek kararlılık için kapatın. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density">
+    <text>Feel Yoğunluk Sınırı</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density_desc">
+    <text>Bir alanın seyrek sayılıp motorun feel kaçınmasını kullanması için yaklaşık 12 m içindeki en fazla anomali sayısıdır. Daha yoğun alanlarda betik kısıtlamaları ve içinden koşma uygulanır. Yüksek değer feel yöntemini daha kalabalık alanlarda kullanır; kaçınma iyileşir ama donma veya çökme riski artar. Düşük değer daha güvenlidir. Varsayılan: 3.</text>
+  </string>
+  <string id="ui_mcm_nda_general_title">
+    <text>Genel Ayarlar</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage">
+    <text>Günah: Anomali Hasarını Yok Say</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage_desc">
+    <text>Günah (Greh) grubu NPC’leri anomali hasarına bağışıktır. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions">
+    <text>Günah: Anomalilerden Kaçınmayı Yok Say</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions_desc">
+    <text>Günah (Greh) grubu NPC’lerine anomalilerden kaçınmaları için yol bulma kısıtlamaları uygulanmaz. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance">
+    <text>%0 Iskalama Şansında Bağışıklık</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance_desc">
+    <text>Temel ıskalama şansı %0 olan NPC’ler anomali hasarına tamamen bağışık olur. Kıdemliler için güvenlik önlemi.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army">
+    <text>Askerî ölümler/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Askerî NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit">
+    <text>Haydut ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Haydut NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky">
+    <text>Temiz Gökyüzü ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Temiz Gökyüzü NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg">
+    <text>Görev ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Görev NPC’si sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog">
+    <text>Ekolojist ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Ekolojistler NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom">
+    <text>Özgürlük ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Özgürlük NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh">
+    <text>Günah ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla NPC grubu Günah sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_header">
+    <text>Gruba göre</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg">
+    <text>ISG ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla ISG NPC’si sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer">
+    <text>Paralı asker ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Paralı askerler NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith">
+    <text>Monolit ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Monolit NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade">
+    <text>Dönek ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Dönek NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker">
+    <text>Yalnız ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Yalnız NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied">
+    <text>Zombi ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla zombi NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global">
+    <text>Toplam ölüm/dk (tüm NPC’ler)</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global_desc">
+    <text>Grup veya rütbeden bağımsız olarak anomalilerin dakikada öldürebileceği toplam NPC sınırıdır. Kayan dakika içinde sınıra ulaşılınca eski ölümler aralıktan çıkana kadar hiçbir NPC anomali hasarı almaz. Bu ana sınır, aşağıdaki grup ve rütbe sınırlarıyla birlikte işler. 0 = sınırsız. Varsayılan: 3.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced">
+    <text>Tecrübeli ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Tecrübeli NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert">
+    <text>Uzman ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Uzman NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_header">
+    <text>Rütbeye göre</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend">
+    <text>Efsane ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Efsane NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master">
+    <text>Usta ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Usta NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice">
+    <text>Acemi ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Acemi NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional">
+    <text>Uzman ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Uzman NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee">
+    <text>Stajyer ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Stajyer NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran">
+    <text>Kıdemli ölümleri/dk</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran_desc">
+    <text>Anomalilerin dakikada öldürebileceği en fazla Kıdemli NPC sayısı. 0 = sınırsız.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit">
+    <text>Ölüm Sınırını Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit_desc">
+    <text>Anomalilerin dakikada öldürebileceği NPC sayısını grup ve rütbeye göre ayrı sınırlar. Kayan bir dakika içinde grubunun VEYA rütbesinin sınırına ulaşılması NPC’yi korur. 0 sınırsız demektir. Tüm sınırların ana düğmesidir. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_title">
+    <text>Anomali Ölüm Sınırı</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores">
+    <text>Eski Sabit Atlamalar</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores_desc">
+    <text>NPC’lerin yoğun veya kapalı kümelerin çevresinden güvenle geçemediği dönemde sabit olarak atlanan anomali alanlarını atlamaya devam eder (Cordon, Garbage, Wild Territory, Army Warehouses). Kapatılırsa NDA bu alanları mevcut sistemiyle yönetir: anomalilerden kaçınır, hasarı engeller ve içeride düşen cesetlerin yağmalanmasını denetler. Yarıçapı olmayan anomaliler her zaman atlanır. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled">
+    <text>NDA’yı Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled_desc">
+    <text>NDA modunu tamamen etkinleştirir veya devre dışı bırakır. Devre dışıyken NPC’ler anomalileri tamamen yok sayar.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage">
+    <text>Monolit: Anomali Hasarını Yok Say</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage_desc">
+    <text>Monolit grubu NPC’leri inançları sayesinde anomali hasarına bağışıktır. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions">
+    <text>Monolit: Anomalilerden Kaçınmayı Yok Say</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions_desc">
+    <text>Monolit grubu NPC’lerine anomalilerden kaçınmaları için yol bulma kısıtlamaları uygulanmaz. Varsayılan: kapalı.</text>
+  </string>
+  <string id="ui_mcm_nda_movement_title">
+    <text>Hareket Durumu Çarpanları</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout">
+    <text>Takılma Zaman Aşımı (sn)</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout_desc">
+    <text>Bir alanın çevresinden ilerleme kaydetmeden, örneğin daireler çizerek, ne kadar süre yol arayacağını belirler. Süre dolunca içinden koşarak geçer ve hasar alır. Varsayılan: 20 sn.</text>
+  </string>
+  <string id="ui_mcm_nda_pathfinding_title">
+    <text>Kaçınma Ayarları</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance">
+    <text>Tecrübeli</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance_desc">
+    <text>Tecrübeli stalkerların anomalileri kaçırma temel olasılığı. Varsayılan: %30.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance">
+    <text>Uzman</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance_desc">
+    <text>Uzman stalkerların anomalileri kaçırma temel olasılığı. Varsayılan: %5.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance">
+    <text>Efsane</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance_desc">
+    <text>Efsane stalkerların anomalileri kaçırma temel olasılığı. Varsayılan: %0.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance">
+    <text>Usta</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance_desc">
+    <text>Usta stalkerların anomalileri kaçırma temel olasılığı. Varsayılan: %0.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance">
+    <text>Acemi</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance_desc">
+    <text>Acemi stalkerların anomalileri kaçırma temel olasılığı. Değer yükseldikçe anomaliye girme olasılıkları artar. Varsayılan: %75.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance">
+    <text>Uzman</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance_desc">
+    <text>Uzman stalkerların anomalileri kaçırma temel olasılığı. Varsayılan: %15.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_title">
+    <text>Rütbeye Göre Temel Iskalama Şansı (%)</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance">
+    <text>Stajyer</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance_desc">
+    <text>Stajyer stalkerların anomalileri kaçırma temel olasılığı. Varsayılan: %50.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance">
+    <text>Kıdemli</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance_desc">
+    <text>Kıdemli stalkerların anomalileri kaçırma temel olasılığı. %0’da anomalilere hiç girmezler. Varsayılan: %10.</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius">
+    <text>Küresel Yol Bulma</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius_desc">
+    <text>Açıkken tüm NPC’ler mesafeden bağımsız olarak anomalilerden kaçınır. Kapalıyken kısıtlamalar yalnızca etki yarıçapındaki NPC’lere uygulanır.</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier">
+    <text>Koşarken</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier_desc">
+    <text>NPC koşarken ıskalama olasılığı çarpanı. Değer yükseldikçe anomalileri kaçırma olasılığı artar. Varsayılan: 1,2x.</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period">
+    <text>Ek Koruma Süresi (sn)</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period_desc">
+    <text>Sakin bir NPC koşmaya başladığında belirtilen ek saniyeler boyunca anomali hasarına bağışık kalır; böylece kaçan stalker hemen hasar almaz. Çatışmada uygulanmaz. 0 kapatır. Varsayılan: 10.</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies">
+    <text>Anomalileri Haritada Göster</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies_desc">
+    <text>Önbellekteki tüm anomalileri PDA haritasında işaretçi olarak gösterir. Yol bulmayı hata ayıklamak için kullanışlıdır. İşaretçileri kaldırmak için kapatın.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity">
+    <text>Ayakta Duran NPC Bağışıklığı</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity_desc">
+    <text>Çatışma dışında hareketsiz dururken NPC’ler anomalileri algılar ve kaçınır, hasar almaz. Nöbet noktası veya kamp yeri anomali alanına denk gelenleri korur; aksi hâlde aynı noktada kalmaya çalışıp tekrar tekrar ölürler. Yürüyen NPC bağışıklığından bağımsızdır; yürümek ve koşmak yine ölümcül olabilir. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier">
+    <text>Ayakta</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier_desc">
+    <text>NPC hareketsiz dururken ıskalama olasılığı çarpanı. Değer düştükçe daha dikkatli gözlem yapar. Varsayılan: 0,3x.</text>
+  </string>
+  <string id="ui_mcm_nda_title">
+    <text>NDA v3.0 - NPC’ler Anomalilerde Ölür</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug">
+    <text>Ayrıntılı Hata Ayıklama</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug_desc">
+    <text>Ayrıntılı hata ayıklama kaydı açar. Güncelleme döngüsü, önbellek yenilemeleri ve kısıtlama değişikliklerini gösterir. Çok fazla kayıt üretir!</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity">
+    <text>Yürüyen NPC Bağışıklığı</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity_desc">
+    <text>Çatışma dışında yürürken NPC’ler anomalileri daima algılar ve kaçınır, hasar almaz. Yalnızca yürüyüş için geçerlidir; ayakta durmanın ayrı ayarı vardır, koşu ve çatışma Hareket Durumu Çarpanlarını kullanır. Varsayılan: açık.</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier">
+    <text>Yürürken</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier_desc">
+    <text>NPC yürürken ıskalama olasılığı çarpanı. Varsayılan: 0,6x.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage">
+    <text>Zombileşmiş: Anomali Hasarını Yok Say</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage_desc">
+    <text>Zombileşmiş stalker NPC’leri anomali hasarına bağışıktır. Varsayılan: kapalı.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions">
+    <text>Zombileşmiş: Anomalilerden Kaçınmayı Yok Say</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions_desc">
+    <text>Zombileşmiş stalker NPC’lerine anomalilerden kaçınmaları için yol bulma kısıtlamaları uygulanmaz; akılsızca doğrudan içlerinden geçerler. Varsayılan: açık.</text>
+  </string>
+</string_table>

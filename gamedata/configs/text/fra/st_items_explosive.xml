@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_balon_gas">
+    <text>Bonbonne de gaz
+		</text>
+  </string>
+  <string id="st_balon_gas_descr">
+    <text>\n \n
+		%c[d_red]ATTENTION : Explose à l’impact\n \n
+		%c[ui_gray_1]Bouteille de gaz en métal lourd, doublée d’un polymère compatible et recouverte d’Hypalon pour résister aux intempéries, à l’abrasion et aux UV. Ce réservoir pliable stocke les gaz industriels avant leur mise en bouteille sous pression. Dans la Zone, il contient souvent du méthane, du propane, de l’éthane et du butane, utilisés pour cuisiner, se chauffer ou combattre. Un tir direct peut l’enflammer ; la libération soudaine d’énergie dilate le gaz et provoque une explosion retardée et puissante, projetant des éclats métalliques partout. Ces bouteilles ont tué et mutilé de nombreuses personnes lors des conflits entre factions. Vide, elle sert à réparer une armure.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet technologique\n
+		%c[d_blue] • %c[ui_gray_2] contient : %c[ui_gray_1] gaz naturel raffiné\n
+		%c[d_green] • %c[ui_gray_2] combustible de cuisson haut de gamme\n
+		%c[d_purple] • %c[ui_gray_2] mécanisme de déclenchement : %c[ui_gray_1]impact de balle ou explosion\n
+		%c[d_purple] • %c[ui_gray_2] puissance de l’explosion : %c[ui_gray_1]très élevée\n
+		%c[d_purple] • %c[ui_gray_2] rayon de l’explosion : %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] rayon des fragments : %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] nombre moyen de fragments : %c[ui_gray_1]28 (éclats de métal lourd)\n
+		%c[d_purple] • %c[ui_gray_2] délai avant explosion : %c[ui_gray_1]~2 secondes\n
+		</text>
+  </string>
+  <string id="st_balon_gas_empty">
+    <text>Bonbonne de gaz (vide)</text>
+  </string>
+  <string id="st_balon_gas_empty_descr">
+    <text>Bouteille de gaz en métal lourd vide, doublée d’un polymère compatible et recouverte d’Hypalon contre les intempéries, l’abrasion et les UV. Ce réservoir pliable stocke les gaz industriels avant leur mise en bouteille sous pression. Dans la Zone, il contient généralement du méthane, du propane, de l’éthane et du butane. Il est vide, mais reste utile pour réparer une combinaison.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] objet technologique\n
+		</text>
+  </string>
+  <string id="st_ied">
+    <text>Engin explosif improvisé (chimique)</text>
+  </string>
+  <string id="st_ied_descr">
+    <text>Engin explosif improvisé fabriqué à partir de diverses substances chimiques, équipé d'un détonateur électrique défectueux et d'un boîtier rempli de billes d'acier. Les produits chimiques utilisés dégagent une forte odeur et sont hautement toxiques. Cet EEI est nettement plus puissant que la version OG-7V, plus répandue. Dans la Zone, les EEI sont très prisés et servent à toutes sortes de choses, qu'il s'agisse d'accéder à des endroits fermés ou de tendre des embuscades. On les place aussi souvent près de mines pour augmenter considérablement la puissance de l'explosion. Cet EEI se dissimule facilement et devient pratiquement invisible aux yeux des autres.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet militaire\n
+		%c[d_blue] • %c[ui_gray_2] invisible une fois posé au sol\n
+		%c[d_purple] • %c[ui_gray_2] mécanisme de déclenchement : %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] puissance de l’explosion : %c[ui_gray_1]très élevée\n
+		%c[d_purple] • %c[ui_gray_2] rayon de l’explosion : %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] rayon des fragments : 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] nombre moyen de fragments : %c[ui_gray_1]580 (billes d’acier)\n
+		%c[d_purple] • %c[ui_gray_2] délai avant explosion : %c[ui_gray_1]aucun\n
+		</text>
+  </string>
+  <string id="st_ied_rpg">
+    <text>Engin explosif improvisé (ogive OG-7V)</text>
+  </string>
+  <string id="st_ied_rpg_descr">
+    <text>Engin explosif improvisé conçu à partir d'une ogive OG-7V et de pièces de batterie de voiture. Il semble avoir été transporté pendant longtemps et pourrait exploser à tout moment. Heureusement, son mécanisme de déclenchement l'empêche de détoner, sauf si l'explosif est directement touché par une balle ou soumis à une autre force physique importante. Dans la Zone, les EEI sont très prisés et servent à toutes sortes de choses, qu'il s'agisse d'accéder à des endroits fermés ou de tendre des embuscades. On les place aussi souvent près de mines pour augmenter considérablement la puissance de l'explosion. Cet EEI se dissimule facilement et devient pratiquement invisible aux yeux des autres.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet militaire\n
+		%c[d_blue] • %c[ui_gray_2] invisible une fois posé au sol\n
+		%c[d_purple] • %c[ui_gray_2] mécanisme de déclenchement : %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] puissance de l’explosion : %c[ui_gray_1]élevée\n
+		%c[d_purple] • %c[ui_gray_2] rayon de l’explosion : %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] rayon des fragments : %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] nombre moyen de fragments : %c[ui_gray_1]440 (éclats)\n
+		%c[d_purple] • %c[ui_gray_2] délai avant explosion : %c[ui_gray_1]aucun\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel">
+    <text>Jerrican d’essence
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_descr">
+    <text>\n \n
+		%c[d_red]ATTENTION : Explose à l’impact\n \n
+		%c[ui_gray_1]Un grand bidon métallique rempli d'essence E95. L'armée ukrainienne en a apporté de grandes quantités dans la Zone pour ses véhicules blindés. Au départ, ces véhicules remplissaient leur rôle, mais après la seconde catastrophe de Tchernobyl, ils sont devenus inutilisables pour des raisons encore inconnues. Certains habitants de la Zone tentent toujours de remettre les carcasses en état, tandis que d'autres ont trouvé une autre utilité aux bidons : en faire des explosifs improvisés. En cas d'impact direct, le bidon s'enflamme puis explose après un court délai. Il est lourd et encombrant, mais extrêmement puissant ; bien placé, il peut tuer même un adversaire portant la meilleure des armures. Toutefois, l'explosion est souvent si violente que le tueur devient lui-même la victime. Il vaut donc mieux utiliser ces bidons avec prudence. On raconte qu'un stalker chevronné nommé Yuya a un jour sauvé sa peau en attirant un pseudogéant dans un piège à bidon. Il a vidé son dernier chargeur de Makarov sur le monstre, qui s'est embrasé dans un rugissement audible dans tout le Jupiter.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet technologique\n
+		%c[d_blue] • %c[ui_gray_2] contient : %c[ui_gray_1] E95 gasoline\n
+		%c[d_green] • %c[ui_gray_2] combustible de cuisson haut de gamme\n
+		%c[d_purple] • %c[ui_gray_2] mécanisme de déclenchement : %c[ui_gray_1]impact de balle ou explosion\n
+		%c[d_purple] • %c[ui_gray_2] puissance de l’explosion : %c[ui_gray_1]élevée\n
+		%c[d_purple] • %c[ui_gray_2] rayon de l’explosion : %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] rayon des fragments : %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] nombre moyen de fragments : %c[ui_gray_1]39 (éclats de métal lourd)\n
+		%c[d_purple] • %c[ui_gray_2] délai avant explosion : %c[ui_gray_1]~3 secondes\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty">
+    <text>Jerrican vide</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty_descr">
+    <text>Bidon métallique vide. Il ne peut servir qu'à la réparation de base des combinaisons ou être vendu à des marchands.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet technologique\n
+		</text>
+  </string>
+  <string id="st_jerrycan_item">
+    <text>Jerrican
+		</text>
+  </string>
+  <string id="st_metalcan_powder">
+    <text>Boîte de poudre
+		</text>
+  </string>
+  <string id="st_metalcan_powder_descr">
+    <text>\n \n
+		%c[d_red]ATTENTION : Explose à l’impact\n \n
+		%c[ui_gray_1]Petite boîte métallique assez lourde, remplie d’un mélange de produits chimiques industriels explosifs, de boulons, d’écrous et de poudre noire récupérée dans de vieilles munitions. Ce piège mortel notoire a été conçu par des bandits russes surnommés les « Swireksters » et vendu à plusieurs groupes de bandits de la Zone. Un tir direct le fait exploser instantanément, projetant boulons métalliques et produits corrosifs dans toutes les directions. Quiconque utilise cette arme mortelle doit rester sur ses gardes. Les pièces métalliques de la boîte peuvent aussi servir à réparer une combinaison en urgence.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet technologique\n
+		%c[d_purple] • %c[ui_gray_2] mécanisme de déclenchement : %c[ui_gray_1]impact de balle ou explosion\n
+		%c[d_purple] • %c[ui_gray_2] puissance de l’explosion : %c[ui_gray_1]faible\n
+		%c[d_purple] • %c[ui_gray_2] rayon de l’explosion : %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] rayon des fragments : %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] nombre moyen de fragments : %c[ui_gray_1]77 (faible metal pieces)\n
+		%c[d_purple] • %c[ui_gray_2] délai avant explosion : %c[ui_gray_1]aucun\n
+		</text>
+  </string>
+  <string id="st_mine_descr">
+    <text>La PFM-1 (abréviation de « mine antipersonnel à effet de souffle » ; nom de code OTAN : « Perroquet vert ») était une mine antipersonnel standard de l’Armée rouge, surtout utilisée pendant l’invasion soviétique de l’Afghanistan. Son emploi massif a fait de nombreuses victimes civiles, en particulier des enfants, qui prenaient souvent les mines dispersées pour des jouets à cause de leur forme et de leur couleur familières. Elle a ainsi gagné le sinistre surnom de « Tueuse d’enfants ». Remplacée ensuite par des modèles plus récents, elle a néanmoins rejoint la Zone avec d’autres armes retirées du service et y est devenue un piège explosif courant. On l’apprécie pour son efficacité, sa simplicité, sa compacité et son faible poids. Son principal défaut est sa faible charge, souvent insuffisante pour tuer d’un seul coup un stalker lourdement protégé. Utilisez-la avec d’autres explosifs comme détonateur. Désarmée, elle n’explose pas même si on lui tire dessus.\n \n
+		%c[ui_gray_3]PROPRIÉTÉS:\n
+		%c[d_blue] • %c[ui_gray_2] explosif\n
+		%c[d_blue] • %c[ui_gray_2] objet militaire\n
+		%c[d_blue] • %c[ui_gray_2] mine antipersonnel\n
+		%c[d_purple] • %c[ui_gray_2] mécanisme de déclenchement : %c[ui_gray_1]pression\n
+		%c[d_purple] • %c[ui_gray_2] puissance de l’explosion : %c[ui_gray_1]faible\n
+		%c[d_purple] • %c[ui_gray_2] rayon de l’explosion : %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] rayon des fragments : %c[ui_gray_1]aucun\n
+		%c[d_purple] • %c[ui_gray_2] nombre moyen de fragments : %c[ui_gray_1]aucun\n
+		%c[d_purple] • %c[ui_gray_2] délai avant explosion : %c[ui_gray_1]aucun\n
+		</text>
+  </string>
+  <string id="st_mine_name">
+    <text>Mine antipersonnel dispersable PFM-1</text>
+  </string>
+</string_table>

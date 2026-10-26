@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Du musst alle Gegenstände besitzen, um diesen Tausch abzuschließen.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>Schuss: </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Wähle eine Gegenstandsart zum Tauschen.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>Zustand: %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(wird nicht aufgefüllt)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>benötigtes Wohlwollen: </text>
+  </string>
+  <string id="st_barter_info">
+    <text>erfordert einen vorherigen Tausch</text>
+  </string>
+  <string id="st_barter_init">
+    <text>Möchtest du etwas tauschen? %c[orange][Tausch]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>Limit</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(wird beim Auffüllen erneuert)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>Techniker benötigt einfache Werkzeuge</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>Techniker benötigt fortgeschrittene Werkzeuge</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>Techniker benötigt Expertenwerkzeuge</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>Nutzungen: </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Nach dem Tausch erhältst du die unten aufgeführten Gegenstände.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Gewöhnliche Gegenstände</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Seltene Gegenstände</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Einzigartige Gegenstände</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Artefakte</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Gesamte Liste</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Grundregeln für den Tausch:\n• Zustandsabhängige Gegenstände müssen mindestens %s% haben.\n• Mehrfach verwendbare Gegenstände müssen alle Nutzungen haben.\n• Munition muss eine volle Packung sein.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Verfügbare Tauschgeschäfte</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Benötigte Gegenstände</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Tausch</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>Mindestzustand der Waffe für den Tausch</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>Mindestzustand der vom Spieler angebotenen Gegenstände mit Zustandswert (Waffen, Anzüge) beim Tausch.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>Mindestzustand von Teilen</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>Mindestzustand der vom Spieler angebotenen Teile, einzeln oder als Bestandteil eines größeren Gegenstands (z. B. Waffen- oder Anzugteile).</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Debugausgabe</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Tauschhandel mit Anomaly-NPCs</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Tausch</text>
+  </string>
+</string_table>

@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_sk_desc">
+    <text>Farkında olmayan NPC’leri sessizce etkisiz hâle getirmek için deneysel özellik.\n\nDiğer NPC’ler sizi veya kurbanı görmeden uygun bir silahla vurun (varsayılan olarak Spetnaz çakısı veya susturuculu kafa atışı). Başarılı olursa kurban yakındaki müttefikleri uyarmadan ölür. Kısa süre içinde biri sizi cesedin yakınında görürse cinayeti anlar ve herkes normal şekilde tepki verir. Geliştirme aşamasında olduğu ve dengeyi bozabileceği için varsayılan olarak kapalıdır; doğru kullanılırsa dostları sessizce öldürmeye veya kılık değiştirerek düşman üslerini temizlemeye imkân verir.</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_bounty_news">
+    <text>Ödül söylentileri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_companions_news">
+    <text>Yoldaş sohbetleri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_companions_news">
+    <text>Yoldaş sohbetlerinin aralığı (saniye)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_random_news">
+    <text>Rastgele haberlerin aralığı (saniye)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_special_news">
+    <text>Özel haberlerin aralığı (saniye)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_task_news">
+    <text>Görev haberlerinin aralığı (saniye)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_death_mutant_news">
+    <text>SOS/ölüm raporları (mutant saldırısı)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_death_report_news">
+    <text>Ölüm raporları (ölüm ilanları)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_death_stalker_news">
+    <text>SOS/ölüm raporları (düşman baskını)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_dumb_zombie_news">
+    <text>Zombilerin iletişim girişimleri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_factions_report_news">
+    <text>Grup faaliyetleri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_found_artifact_news">
+    <text>Artefakt keşifleri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_found_dead_news">
+    <text>Bulunan cesetler</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_generic_death_news">
+    <text>Ölüm ve keşif haberleri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_heli_call_news">
+    <text>Helikopter çağrıları</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_kill_wounded_news">
+    <text>Tehditler</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_loot_news">
+    <text>Bulunan ganimet</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_message_duration">
+    <text>HUD’daki mesajların süresi (saniye)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_nearby_activity_news">
+    <text>Yakındaki etkinlik söylentileri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_random_msg_news">
+    <text>Rastgele sohbetler</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_reaction_news">
+    <text>Stalker tepkileri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_surge_news">
+    <text>Emisyon tahminleri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_time_news">
+    <text>Saat söylentileri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_tips_news">
+    <text>İpuçları</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_weather_news">
+    <text>Hava durumu söylentileri</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_zone_activity_news">
+    <text>Bölge etkinlikleri</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_fate">
+    <text>Stalkerların akıbeti</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_frequency">
+    <text>Sıklık</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_state">
+    <text>Emisyonları etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_task">
+    <text>Sığınma görevi ver</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_warning">
+    <text>Uyarı</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_fate">
+    <text>Stalkerların akıbeti</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_frequency">
+    <text>Sıklık</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_state">
+    <text>Psi fırtınalarını etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_task">
+    <text>Sığınma görevi ver</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_warning">
+    <text>Uyarı</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_mutant_pop">
+    <text>Mutant nüfusu çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_mutant_pop_desc">
+    <text>Bölge'de ortaya çıkan mutant sayısının çarpanı. Değer yükseldikçe daha fazla mutant ortaya çıkar.\n%c[pda_yellow]Not:%c[ui_gray_2] Bu ayar en çok yeni oyuna başlarken etkili olur. Mevcut oyunda değişiklik yaparsanız Bölge'de zaten mutantlar bulunduğundan nüfus yavaşça değişir.</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_stalker_pop">
+    <text>Stalker nüfusu çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_stalker_pop_desc">
+    <text>Bölge'de ortaya çıkan stalker sayısının çarpanı. Değer yükseldikçe mangaların ortaya çıkma olasılığı artar.\n%c[pda_yellow]Not:%c[ui_gray_2] Bu ayar en çok yeni oyuna başlarken etkili olur. Mevcut oyunda değişiklik yaparsanız Bölge'de zaten mangalar bulunduğundan nüfus yavaşça değişir.</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_anomalies">
+    <text>Dinamik anomaliler</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_anomalies_desc">
+    <text>Etkinleştirildiğinde emisyonlar Bölge genelinde yeni anomaliler oluşturabilir.\n\nHer emisyon olayından sonra Bölge genelindeki anomaliler ortaya çıkabilir veya kaybolabilir.</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_relations">
+    <text>Dinamik grup ilişkileri</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_relations_desc">
+    <text>Etkinleştirildiğinde Bölge’deki çatışmalar gruplar arasındaki ilişkileri olumlu veya olumsuz yönde değiştirebilir.\n\nOrtak düşmanların ölümü ilişkileri iyileştirebilir; tersi de geçerlidir.\n\nDeğişimin boyutunu kurbanın önemi belirler.</text>
+  </string>
+  <string id="ui_mm_alife_general_excl_dist">
+    <text>Dışlama yarıçapı</text>
+  </string>
+  <string id="ui_mm_alife_general_excl_dist_desc">
+    <text>Mangaların ortaya çıkma noktaları (akıllı araziler) oyuncunun dışlama yarıçapı içindeyse ortaya çıkmaz.\n\nBu, oyuncunun yakınında çirkin ve adaletsiz şekilde belirmelerini önler.</text>
+  </string>
+  <string id="ui_mm_alife_general_heli_engine_sound">
+    <text>Helikopter sesleri</text>
+  </string>
+  <string id="ui_mm_alife_general_heli_spawn">
+    <text>Helikopter devriyeleri</text>
+  </string>
+  <string id="ui_mm_alife_general_offline_combat">
+    <text>Çevrim dışı çatışma</text>
+  </string>
+  <string id="ui_mm_alife_general_offline_combat_desc">
+    <text>Bu seçenek, A-Life simülasyonunun dinamik yönlerini geliştirir ve bölgenin uzak kısımlarındaki mangaların düşmanlarıyla çatışmasını sağlar.\nBu çatışmaların sonucu grupları ve mutant nüfusunu etkileyebilir.\n\n%c[pda_yellow]Not:%c[ui_gray_2]\n\n%c[ui_gray_1]•%c[ui_gray_2] Dinamik ilişkiler açıksa gruplar arasındaki çatışmalar, ilişkilerin değişmesinde büyük rol oynar.\n\n%c[ui_gray_1]•%c[ui_gray_2] Bu özellik Savaş dâhil tüm oyun modlarında çalışır.\n\n%c[ui_gray_1]•%c[ui_gray_2] Bu özellik toplam stalker nüfusunu bir miktar azaltabilir. Daha kalabalık bir Bölge istiyorsanız açmayın.</text>
+  </string>
+  <string id="ui_mm_alife_general_war_goodwill_reset">
+    <text>Düşman gruplarla itibarı sıfırla</text>
+  </string>
+  <string id="ui_mm_alife_general_war_goodwill_reset_desc">
+    <text>Bir grup oyuncunun grubuna düşman olduğunda oyuncu, o grupla daha önce kazandığı tüm itibarı kaybeder.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_actor_faction_dist_mult">
+    <text>Grup üyesi yeniden doğma mesafe çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_actor_faction_max_respawn_dist">
+    <text>Grup üyesi için en yüksek yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_actor_faction_min_respawn_dist">
+    <text>Grup üyesi için en düşük yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_ally_dist_mult">
+    <text>Müttefik yeniden doğma mesafe çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_ally_max_respawn_dist">
+    <text>Müttefik için en yüksek yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_ally_min_respawn_dist">
+    <text>Müttefik için en düşük yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_companion_dist_mult">
+    <text>Yoldaş yeniden doğma mesafe çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_companion_max_respawn_dist">
+    <text>Yoldaş için en yüksek yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_companion_min_respawn_dist">
+    <text>Yoldaş için en düşük yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_enemy_dist_mult">
+    <text>Düşman yeniden doğma mesafe çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_enemy_respawn_max_dist">
+    <text>Düşman için en yüksek yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_enemy_respawn_min_dist">
+    <text>Düşman için en düşük yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_friend_dist_mult">
+    <text>Arkadaş yeniden doğma mesafe çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_neutral_dist_mult">
+    <text>Tarafsız yeniden doğma mesafe çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_neutral_respawn_max_dist">
+    <text>Tarafsız için en yüksek yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_neutral_respawn_min_dist">
+    <text>Tarafsız için en düşük yeniden doğma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_actor_faction">
+    <text>Kendi grubunun üyesi olarak yeniden doğ</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_allies">
+    <text>Müttefik stalker olarak yeniden doğ</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_companions">
+    <text>Yoldaş olarak yeniden doğ</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_enemies">
+    <text>Düşman stalker olarak yeniden doğ</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_nearest">
+    <text>En yakındaki stalker olarak yeniden doğ</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_neutrals">
+    <text>Tarafsız stalker olarak yeniden doğ</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_state">
+    <text>Azazel modu</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_count_modifier">
+    <text>Üs sayısı değiştiricisi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_count_modifier_desc">
+    <text>Her grubun üs sayısına eklenir. Negatif olabilir. Yüksek değer devriyeleri ve istilaları artırır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_priority">
+    <text>Üs önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_priority_desc">
+    <text>Grubun üslere ne ölçüde öncelik verdiği. Yaygın değerler 0 ile 10 arasındadır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_disable_offline_combat">
+    <text>Çevrim dışı çatışmayı devre dışı bırak</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_disable_offline_combat_desc">
+    <text>Etkinleştirildiğinde mangalar çevrim dışı çatışmaz. Savaşa yaklaşınca çatışmalar başlar; savaş yavaşlar ve çevrenizde yoğunlaşır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_enable_offline_news">
+    <text>Çevrim dışı olay haberlerini etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_enable_offline_news_desc">
+    <text>Dost mangalar çevrim dışı veya çevrim içi çatışmaya girince ya da dost grup üs ele geçirip kaybedince haber alırsınız.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_enemy_faster_respawn">
+    <text>Düşman için hızlı yeniden doğmayı etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_expansion_aggression">
+    <text>Genişleme saldırganlığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_expansion_aggression_desc">
+    <text>Üste hedef sayısı sınırdan az olduğunda process_targets çağrılır ve 0-100 arası sayı üretilir. Sayı expansion_aggression değerini aşmazsa grup hedef seçer, aksi hâlde seçmez.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_factions_keep_last_base">
+    <text>Gruplar son üslerini korur</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_flag_priority">
+    <text>Grup işareti önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_flag_priority_desc">
+    <text>gamedata/configs/misc/simulation_objects_props.ltx dosyasında grup için işaretlenen noktaların önceliğidir.\nÖrneğin Clear Sky, csky = 1 olan noktalara 2 ekler.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_ignore_empty_targets">
+    <text>Boş hedefleri yok say</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_invasion_departure_chance">
+    <text>İstilanın yola çıkma olasılığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_invasion_departure_chance_desc">
+    <text>Her 1-5 oyun dakikasında bir çağrılan process_targets güncellemesi sırasında istilanın yola çıkma olasılığı.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_is_being_targeted_priority">
+    <text>Hedef alınma önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_is_being_targeted_priority_desc">
+    <text>Başka bir üs burayı hedef alırsa istilaya karşı koymak için önceliğe bu değer eklenir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_keep_last_base">
+    <text>Son üssü koru</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_linked_level_targeting">
+    <text>Bağlantılı bölgelerde hedef seçimi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_jupiter_priority">
+    <text>Bölge önceliği (Jüpiter)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_jupiter_underground_priority">
+    <text>Bölge önceliği (Jüpiter Yeraltı)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_k00_marsh_priority">
+    <text>Bölge önceliği (Büyük Bataklıklar)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_k01_darkscape_priority">
+    <text>Bölge önceliği (Darkscape)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_k02_trucks_cemetery_priority">
+    <text>Bölge önceliği (Kamyon Mezarlığı)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l01_escape_priority">
+    <text>Bölge önceliği (Kordon)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l02_garbage_priority">
+    <text>Bölge önceliği (Çöplük)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l03_agroprom_priority">
+    <text>Bölge önceliği (Agroprom)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l04_darkvalley_priority">
+    <text>Bölge önceliği (Karanlık Vadi)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l05_bar_priority">
+    <text>Bölge önceliği (Rostok)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l06_rostok_priority">
+    <text>Bölge önceliği (Vahşi Bölge)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l07_military_priority">
+    <text>Bölge önceliği (Ordu Depoları)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l08_yantar_priority">
+    <text>Bölge önceliği (Yantar)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l09_deadcity_priority">
+    <text>Bölge önceliği (Ölü Şehir)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l10_limansk_priority">
+    <text>Bölge önceliği (Limansk)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l10_radar_priority">
+    <text>Bölge önceliği (Radar)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l10_red_forest_priority">
+    <text>Bölge önceliği (Kızıl Orman)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l11_hospital_priority">
+    <text>Bölge önceliği (Terk Edilmiş Hastane)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l11_pripyat_priority">
+    <text>Bölge önceliği (Pripyat)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_2_priority">
+    <text>Bölge önceliği (Çernobil Nükleer Santrali, kuzey)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_priority">
+    <text>Bölge önceliği (Çernobil Nükleer Santrali, güney)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12u_control_monolith_priority">
+    <text>Bölge önceliği (Monolit Kontrol Merkezi)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12u_sarcofag_priority">
+    <text>Bölge önceliği (Lahit)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l13_generators_priority">
+    <text>Bölge önceliği (Jeneratörler)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_pripyat_priority">
+    <text>Bölge önceliği (Şehir Dışları)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_zaton_priority">
+    <text>Bölge önceliği (Zaton)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_manual_capture_wait_time">
+    <text>Elle ele geçirme süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_faction_respawn">
+    <text>Grubun en uzun yeniden doğma süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_faction_respawn_desc">
+    <text>Bir üssün savunma mangası oluşturması için gereken en uzun süre. Kaynaklarla birlikte yeniden doğmayı belirler. Kaynaklar = global_resources + (regional_resources * 2) + (local_resources * 3).\nSüre resource_count / warfare.resource_count oranına göre min_faction_respawn ile max_faction_respawn arasındadır. Formül: (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_invasion_depart_time">
+    <text>İstilanın hareketi için en uzun süre</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_invasion_size">
+    <text>En yüksek istila nüfusu çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_invasion_size_desc">
+    <text>En yüksek istila büyüklüğü çarpanı.\nmax_invasion_size ve üs sayısıyla invasion_size hesaplanır; bu değer akıllı arazinin azami nüfusunu çarpar.\nMevcut çarpan = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size).\nNüfus = min(1, target.max_population * Current invasion size).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_rest_time">
+    <text>En uzun devriye dinlenme süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_rest_time_desc">
+    <text>Bir devriyenin bölge noktasında bekleyeceği en uzun süre. Gece etkinliği olasılığı başka bir noktaya gönderilip gönderilmeyeceğini de etkiler.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_squads">
+    <text>En yüksek devriye nüfusu çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_squads_desc">
+    <text>En yüksek devriye çarpanı. Tüm üsler gruba aitken her üste max_patrol_squads * max_population devriye olur.\nMevcut çarpan = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads.\nMevcut sınır = base.max_population * current patrol squad factor.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_time">
+    <text>En uzun devriye süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_time_desc">
+    <text>Bir üssün devriye oluşturması için gereken en uzun süre. Kaynaklarla birlikte yeniden doğmayı belirler. Kaynaklar = global_resources + (regional_resources * 2) + (local_resources * 3). Süre resource_count / warfare.resource_count oranına göre min_patrol_time ile max_patrol_time arasında değişir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_patrol_time">
+    <text>Azami rastgele devriye süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_patrols">
+    <text>Azami rastgele devriye</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_squad_count">
+    <text>En yüksek manga üye sayısı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_squad_count_desc">
+    <text>random_squad_count açıkken bu grubun mangasındaki en yüksek NPC sayısıdır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_resurgence_wait_time">
+    <text>Yeniden diriliş için en uzun bekleme süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base">
+    <text>Üs başına azami akıllı hedef</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base_desc">
+    <text>Bir üssün aynı anda hedef alabileceği nokta sayısı.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_squad_count">
+    <text>En yüksek manga üye sayısı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_faction_respawn">
+    <text>Grubun en kısa yeniden doğma süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_faction_respawn_desc">
+    <text>Bir üssün savunma mangası oluşturması için gereken en kısa süre. Üs kaynaklarıyla birlikte yeniden doğmayı belirler. Kaynaklar = global_resources + (regional_resources * 2) + (local_resources * 3).\nSüre, resource_count / warfare.resource_count oranına göre min_faction_respawn ile max_faction_respawn arasındadır. Formül: (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_invasion_depart_time">
+    <text>İstilanın hareketi için en kısa süre</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_invasion_size">
+    <text>En düşük istila nüfusu çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_invasion_size_desc">
+    <text>En düşük istila büyüklüğü çarpanı.\nmax_invasion_size ve üs sayısıyla invasion_size hesaplanır; bu değer akıllı arazinin azami nüfusunu çarpar.\nMevcut çarpan = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size).\nİstila nüfusu = min(1, target.max_population * Current invasion size).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_rest_time">
+    <text>En kısa devriye dinlenme süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_rest_time_desc">
+    <text>Bir devriyenin bölge noktasında bekleyeceği en kısa süre. Gece etkinliği olasılığı başka bir noktaya gönderilip gönderilmeyeceğini de etkiler.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_squads">
+    <text>En düşük devriye nüfusu çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_squads_desc">
+    <text>En düşük devriye çarpanı. Üs yokken her üste teorik olarak min_patrol_squads * max_population devriye olur.\nMevcut çarpan = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads.\nMevcut sınır = base.max_population * current patrol squad factor.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_time">
+    <text>En kısa devriye süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_time_desc">
+    <text>Bir üssün devriye oluşturması için gereken en kısa süre. Kaynaklarla birlikte yeniden doğmayı belirler. Kaynaklar = global_resources + (regional_resources * 2) + (local_resources * 3). Süre resource_count / warfare.resource_count oranına göre min_patrol_time ile max_patrol_time arasında değişir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_random_patrol_time">
+    <text>Azami rastgele devriye süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_random_squad_count">
+    <text>En düşük manga üye sayısı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_random_squad_count_desc">
+    <text>random_squad_count açıkken bu grubun mangasındaki en düşük NPC sayısıdır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_resurgence_wait_time">
+    <text>Yeniden diriliş için en kısa bekleme süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_squad_count">
+    <text>En düşük manga üye sayısı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_night_activity_chance">
+    <text>Gece etkinliği olasılığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_night_activity_chance_desc">
+    <text>Grubun gece (20.00-06.00) istila birlikleri veya devriyeler göndermesinin olasılığı.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_combat_distance">
+    <text>Çevrim dışı çatışma mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_news_display_percentage">
+    <text>Çevrim dışı haber gösterim yüzdesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_news_display_percentage_desc">
+    <text>0-100 arası değerdir; Savaş modu çevrim dışı olay haberlerinin bu yüzdesini gösterir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_power_multiplier">
+    <text>Çevrim dışı hasar çarpanı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_power_multiplier_desc">
+    <text>Bu grubun çevrim dışı çatışmadaki hasarı bu değerle çarpılır. 2, hasarın iki katı demektir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_participate_in_warfare">
+    <text>Savaşa katıl</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_patrol_hunt_chance">
+    <text>Devriye avlanma olasılığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_patrol_hunt_chance_desc">
+    <text>Bir üs devriye için hedef ararken bu seviyede veya bağlantılı seviyede düşman devriyesi varsa, onu hedef seçme olasılığı budur. Aksi hâlde devriye yakındaki bir bölge noktasına gider.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_patrols">
+    <text>Rastgele devriyeler</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_spawn_entries">
+    <text>Rastgele ortaya çıkma seçenekleri</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_squad_count">
+    <text>Rastgele manga üye sayısı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_squad_count_desc">
+    <text>Etkinleştirildiğinde bu grubun her mangasında min_random_squad_count ile max_random_squad_count arasında rastgele sayıda NPC bulunur.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_randomize_squad_count">
+    <text>Manga üye sayısını rastgele belirle</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_count_modifier">
+    <text>Kaynak sayısı değiştiricisi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_count_modifier_desc">
+    <text>Her üssün kaynaklarına eklenecek nokta sayısıdır. Negatif olabilir. Yüksek değer yeniden doğmayı hızlandırır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_priority">
+    <text>Kaynak noktası önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_priority_desc">
+    <text>Grubun kaynak noktalarına ne ölçüde öncelik verdiği. Yaygın değerler 0 ile 10 arasındadır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts">
+    <text>Akıllı arazilerde çevrim dışı çatışmayı simüle et</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts_desc">
+    <text>Etkinleştirildiğinde mangalar çevrim dışı çatışmayı yalnızca hedefi savunurken simüle eder. Farklı akıllı arazilerdeki yakın mangalar çatışmaz.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_spawn_on_new_game">
+    <text>Yeni oyun başlarken ortaya çık</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_faction_stronger_priority">
+    <text>Daha güçlü hedef grup önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_faction_weaker_priority">
+    <text>Daha zayıf hedef grup önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_on_same_level_priority">
+    <text>Aynı seviye önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_on_same_level_priority_desc">
+    <text>Üssün kendi seviyesindeki noktalara verdiği öncelik.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_resource_priority">
+    <text>Hedef grubun kaynak önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_stronger_priority">
+    <text>Daha güçlü hedef önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_stronger_priority_desc">
+    <text>Üssün daha güçlü mangaların bulunduğu noktalara verdiği öncelik.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_weaker_priority">
+    <text>Daha zayıf hedef önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_weaker_priority_desc">
+    <text>Üssün daha güçsüz mangaların bulunduğu noktalara verdiği öncelik.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_territory_priority">
+    <text>Bölge önceliği</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_territory_priority_desc">
+    <text>Grubun bölge noktalarına verdiği öncelik (genellikle 0-10).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_zombie_mode">
+    <text>Zombi modu</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_influence_weight">
+    <text>Oyuncu etkisinin ağırlığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_influence_weight_desc">
+    <text>Her etki puanının bir hedefe eklediği öncelik. Tipik değerler 1-10 arasındadır. Değer yükseldikçe etki eklenen noktanın hedef seçilme olasılığı artar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight">
+    <text>Destek ödülünde düşman rütbesinin ağırlığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight_desc">
+    <text>Bir düşmanı öldürdüğünüzde actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight) kadar ödül alırsınız.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_influence">
+    <text>Destek ödülü etkisi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_influence_desc">
+    <text>Bir düşmanı her öldürdüğünüzde bu miktarda etki puanı kazanırsınız.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_money">
+    <text>Destek ödülü parası</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_money_desc">
+    <text>Bir düşmanı öldürdüğünüzde actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight) kadar ödül alırsınız.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_advanced_squad_price">
+    <text>Gelişmiş destek mangası ücreti</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_advanced_squad_price_desc">
+    <text>Gelişmiş bir manganın fiyatı. Bu miktarda veya daha fazla paranız varsa grubunuzun üssüne sağ tıklayıp manga satın alabilirsiniz. Manga hemen o üste doğar ve yoldaş olarak görev yapar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_all_out_war">
+    <text>Topyekûn savaş</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_all_out_war_desc">
+    <text>Etkinleştirildiğinde tüm gruplar birbirine düşman olur. DrX'in Dynamic Relations modu algılanırsa bu ayar yalnızca oyunun başında uygulanır.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture">
+    <text>Otomatik ele geçirmeyi etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_desc">
+    <text>Etkinleştirildiğinde auto_capture_distance ile belirtilen mesafede, auto_capture_time süresi boyunca kalarak noktaları ele geçirebilirsiniz. Birden fazla noktanın yakınındaysanız önce en yakın üs, ardından diğer üsler ve kaynak noktaları seçilir. Bölge noktaları otomatik ele geçirilemez.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_max_distance">
+    <text>Azami otomatik ele geçirme mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_max_distance_desc">
+    <text>Bu mesafe içindeki noktalar otomatik ele geçirilir. Oyuncu daha uzağa giderse ele geçirme durur.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_wait_time">
+    <text>Otomatik ele geçirme süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_wait_time_desc">
+    <text>Bir noktayı elle ele geçirmek için gereken oyun süresi (dakika).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_debug_logging">
+    <text>Hata ayıklama günlüğü (günlük dosyasını büyütür)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_debug_logging_desc">
+    <text>Etkinleştirildiğinde Savaş modu çoğu işlevin başlangıç ve bitişini günlüğe kaydeder; günlük dosyası oldukça büyür.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_disable_smart_pop_cap">
+    <text>Akıllı bölge nüfus sınırını devre dışı bırak</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_disable_smart_pop_cap_desc">
+    <text>Etkinleştirildiğinde akıllı bölgeler, nüfus sınırını aşan mangaları otomatik olarak kaldırmaz.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat">
+    <text>Mutantlerin çevrimdışı çatışmasını etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat_desc">
+    <text>Etkinleştirildiğinde mutantlar görünür alanın dışındaki simülasyon çatışmalarına katılır. Kapatılırsa Bölge'de daha belirgin şekilde bulunurlar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_base_boost">
+    <text>Düşman üssü takviyesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_base_boost_desc">
+    <text>Tüm düşman gruplar, gerçekte sahip oldukları üslere ek olarak belirtilen sayıda üsleri varmış gibi değerlendirilir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_new_game_bonus">
+    <text>Düşmanlara ek başlangıç mangaları ver</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_new_game_bonus_desc">
+    <text>Etkinleştirildiğinde düşman grupların başlangıçta biraz daha fazla, tarafsız ve dost grupların ise biraz daha az mangası olur.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_resource_boost">
+    <text>Düşman kaynak takviyesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_resource_boost_desc">
+    <text>Düşman gruplar, gerçekte sahip olduklarına ek olarak belirtilen sayıda kaynağa sahipmiş gibi değerlendirilir. Kaynaklar savunma, saldırı ve devriye mangalarının yeniden doğma süresini ve becerisini etkiler; daha fazla kaynak daha hızlı ve daha yetenekli manga demektir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war">
+    <text>Savaş sisini etkinleştir</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war_desc">
+    <text>Etkinleştirildiğinde oyuncuya veya aynı gruptaki bir mangaya fog_of_war_distance mesafesi içindeki nesneler PDA'de gösterilir. PDA'de nelerin görüneceğini show_unfriendly_squads ve hide_smarts ayarları da etkiler.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war_distance">
+    <text>Savaş sisi mesafesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war_distance_desc">
+    <text>Savaş sisi açıkken bu mesafe içindeki nesneler oyuncuya veya aynı gruptaki bir mangaya göre PDA'de gösterilir. show_unfriendly_squads ve hide_smarts ayarları da görünümü etkiler.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_heli_price">
+    <text>Destek helikopteri ücreti</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_heli_price_desc">
+    <text>Helikopterin fiyatı. Bu miktarda veya daha fazla paranız varsa grubunuzun üssüne sağ tıklayıp satın alabilirsiniz. Her gruptan bir konumda yalnızca bir helikopter bulunabilir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_smarts">
+    <text>Akıllı bölgeleri gizle</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_smarts_desc">
+    <text>Etkinleştirildiğinde akıllı bölgelerin simgeleri PDA'de gösterilmez. Oyuncunun grubuna ait hedefler görünmeye devam eder.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_underground_smarts">
+    <text>Yer altı akıllı bölgelerini haritada gizle</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_underground_smarts_desc">
+    <text>Etkinleştirildiğinde yer altı akıllı bölgeleri PDA'de gizlenir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_unfriendly_squads">
+    <text>Düşman mangaları gizle</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_unfriendly_squads_desc">
+    <text>Etkinleştirildiğinde tarafsız ve düşman mangalar PDA'de gösterilmez.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_faction_respawn">
+    <text>Azami mutant yeniden doğma süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_faction_respawn_desc">
+    <text>Konumda monster_max_squads_per_level değerinden az mutant mangası varsa, boş in veya üs/kaynak noktasında bir mutant mangasından önce geçebilecek en uzun süre.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_squads_per_level">
+    <text>Konum başına azami mutant mangası</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_desc">
+    <text>Bir konumdaki mutant mangası sayısı bu sınırın altındaysa başka mangalar bu konumu hedefleyebilir; mutantlar boş nokta veya inlerde monster_min_faction_respawn ve monster_max_faction_respawn değerlerine göre ortaya çıkar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_min_faction_respawn">
+    <text>Asgari mutant yeniden doğma süresi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_min_faction_respawn_desc">
+    <text>Konumda monster_max_squads_per_level değerinden az mutant mangası varsa, boş in veya üs/kaynak noktasında bir mutant mangasından önce geçmesi gereken en kısa süre.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_novice_squad_price">
+    <text>Acemi destek mangası ücreti</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_novice_squad_price_desc">
+    <text>Acemi bir manganın fiyatı. Bu miktarda veya daha fazla paranız varsa grubunuzun üssüne sağ tıklayıp manga satın alabilirsiniz. Manga hemen o üste doğar ve yoldaş olarak görev yapar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_purge_zone_on_emission">
+    <text>Emisyon sırasında Bölgeyi temizle</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_purge_zone_percentage">
+    <text>Bölge temizleme yüzdesi</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_monster_chance">
+    <text>Mutant ortaya çıkma olasılığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_monster_chance_desc">
+    <text>Rastgele başlangıç konumları açıkken bir bölge noktasında mutant grubunun ortaya çıkma olasılığı (0-100). Her noktada yalnızca bir mutant ortaya çıkar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_stalker_chance">
+    <text>Stalker ortaya çıkma olasılığı</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_stalker_chance_desc">
+    <text>Rastgele başlangıç konumları açıkken bir üs veya kaynak noktasında stalker mangasının ortaya çıkma olasılığı (0-100). Olasılık her manga için ayrı hesaplanır. Örneğin iki manga sınırı ve %50 şans varsa her bir manganın ortaya çıkma olasılığı %50 olur.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_character">
+    <text>Rastgele başlangıç karakteri</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_character_desc">
+    <text>Etkinleştirildiğinde yeni oyunda oyuncunun adı ve grubu rastgele belirlenir. Rastgele başlangıç konumlarıyla birlikte kullanılması önerilir.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_locations">
+    <text>Rastgele başlangıç konumları</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_locations_desc">
+    <text>Etkinleştirildiğinde Bölge'deki rastgele bir üste doğarsınız. Diğer üsler random_stalker_chance ve random_mutant_chance ayarlarına göre doldurulur.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_veteran_squad_price">
+    <text>Kıdemli destek mangası ücreti</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_veteran_squad_price_desc">
+    <text>Kıdemli bir manganın fiyatı. Bu miktarda veya daha fazla paranız varsa grubunuzun üssüne sağ tıklayıp manga satın alabilirsiniz. Manga hemen o üste doğar ve yoldaş olarak görev yapar.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_zombies_act_as_faction">
+    <text>Zombileşmişler bir grup olarak hareket etsin</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_zombies_act_as_faction_desc">
+    <text>Etkinleştirildiğinde zombileşmiş stalkerlar gruplar arası savaşlara katılır.</text>
+  </string>
+  <string id="ui_mm_apply">
+    <text>Uygula</text>
+  </string>
+  <string id="ui_mm_btn_apply_all">
+    <text>Tümüne uygula</text>
+  </string>
+  <string id="ui_mm_cancel">
+    <text>İptal</text>
+  </string>
+  <string id="ui_mm_change_done">
+    <text>Değişiklikler kaydedildi</text>
+  </string>
+  <string id="ui_mm_change_done_restart">
+    <text>Değişiklikler kaydedildi.\nUygulanmaları için oyunu yeniden başlatın!</text>
+  </string>
+  <string id="ui_mm_control_general_aim_toggle">
+    <text>Nişan alma modunu aç/kapat</text>
+  </string>
+  <string id="ui_mm_control_general_crouch_toggle">
+    <text>Çömelme modunu aç/kapat</text>
+  </string>
+  <string id="ui_mm_control_general_disassembly_warning">
+    <text>Parçalarına ayırmak için (ALT) tuşunu basılı tut</text>
+  </string>
+  <string id="ui_mm_control_general_disassembly_warning_desc">
+    <text>Bu seçenek, eşyaların yanlışlıkla parçalarına ayrılmasını önlemek için önce (Sol ALT) tuşunu basılı tutmayı gerektirir.</text>
+  </string>
+  <string id="ui_mm_control_general_lookout_toggle">
+    <text>Yana eğilme modunu aç/kapat</text>
+  </string>
+  <string id="ui_mm_control_general_mouse_invert">
+    <text>Fare eksenini ters çevir</text>
+  </string>
+  <string id="ui_mm_control_general_mouse_sens">
+    <text>Fare hassasiyeti</text>
+  </string>
+  <string id="ui_mm_control_general_mouse_sens_aim">
+    <text>Nişan alma hassasiyeti</text>
+  </string>
+  <string id="ui_mm_control_general_pickup_mode">
+    <text>Birden fazla eşyayı aynı anda al</text>
+  </string>
+  <string id="ui_mm_control_general_pickup_mode_desc">
+    <text>Etkinleştirildiğinde birden fazla eşyayı aynı anda alabilirsiniz. Aksi halde eşyalar teker teker alınır.</text>
+  </string>
+  <string id="ui_mm_control_general_simple_pda_mode">
+    <text>Basit PDA modu</text>
+  </string>
+  <string id="ui_mm_control_general_simple_pda_mode_desc">
+    <text>%c[ui_gray_1]•%c[ui_gray_2] Açık: Basit mod.\nPDA yalnızca oyuncu onu yakına tuttuğunda odak (arayüz) moduna geçer (şarjör değiştirme tuşu).\n\n%c[ui_gray_1]•%c[ui_gray_2] Kapalı: Gelişmiş mod.\nOyuncu, PDA yakın ya da uzakta olsa da el bombası fırlatıcı tuşuna basarak odak ve hareket modları arasında geçiş yapabilir.</text>
+  </string>
+  <string id="ui_mm_control_general_sprint_toggle">
+    <text>Koşma modunu aç/kapat</text>
+  </string>
+  <string id="ui_mm_control_general_walk_toggle">
+    <text>Yürüme modunu aç/kapat</text>
+  </string>
+  <string id="ui_mm_default">
+    <text>Varsayılan</text>
+  </string>
+  <string id="ui_mm_desc_backpack_travel">
+    <text>PDA haritasında işaretleyerek Bölge'de oluşturduğunuz zulalara az sayıda kısıtlamayla hızlıca gidebilirsiniz. Bu ayarlar sırt çantasıyla seyahati düzenler.</text>
+  </string>
+  <string id="ui_mm_desc_disguise">
+    <text>Oyuncu, hırsızlık veya suikast gibi amaçlarla gerçek kimliğini gizleyip başka bir grubun üyesi gibi davranabilir. Bu ayarlar kılık değiştirme sistemini düzenler. Ayrıntılı açıklama PDA ansiklopedisindedir.</text>
+  </string>
+  <string id="ui_mm_desc_dynamic_news">
+    <text>Stalkerlar görevlerden ölüm raporlarına, şakalardan günlük sohbete kadar birçok nedenle iletişim kurar. Bu ayarlar PDA’ya gelen mesajları filtreler.</text>
+  </string>
+  <string id="ui_mm_desc_economy_diff">
+    <text>İlerleme zorluğunda yapılan değişiklikler yalnızca mevcut kayıtlı oyunda geçerli olur.</text>
+  </string>
+  <string id="ui_mm_desc_fast_travel">
+    <text>PDA haritasındaki seyahat işaretlerine tıklayarak Bölge'deki pek çok yere az sayıda kısıtlamayla hızlıca gidebilirsiniz. Bir yeri ilk kez ziyaret edince işareti görünür. Bu ayarlar hızlı seyahati düzenler.</text>
+  </string>
+  <string id="ui_mm_desc_gameplay_diff">
+    <text>Oyun zorluğunda yapılan değişiklikler yalnızca mevcut kayıtlı oyunda geçerli olur.</text>
+  </string>
+  <string id="ui_mm_discard_changes">
+    <text>Bekleyen değişiklikler silinecek. Devam edilsin mi?</text>
+  </string>
+  <string id="ui_mm_disclaimer">
+    <text>S.T.A.L.K.E.R.: Anomaly, GSC Game World'ün S.T.A.L.K.E.R. oyunları için hayranlar tarafından hazırlanmış bir modifikasyondur.\nS.T.A.L.K.E.R.: Anomaly, GSC Game World'ün resmî ürünü değildir; şirketin orijinal S.T.A.L.K.E.R. oyunlarına dayanan türev bir çalışmadır.</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_combat">
+    <text>Çatışma sırasında izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_damage">
+    <text>Yaralıyken izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_emission">
+    <text>Emisyon sırasında izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_overweight">
+    <text>Aşırı yük varken izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_state">
+    <text>Sırt çantasıyla seyahat durumu</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_time">
+    <text>Zamanı ilerletmeden seyahat et</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_active_item">
+    <text>Eldeki eşyayı hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_active_item_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler, elinizdeki eşyanın türünü ve durumunu dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken eşyanın önemini belirler.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_active_item_factor">
+    <text>Eldeki eşyanın şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_backpack">
+    <text>Oyuncunun sırt çantasını hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_backpack_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler sırt çantanızın türünü ve durumunu dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken çantanın önemini belirler.\n%c[pda_green]İpucu:%c[ui_gray_2] Büyük çantalar daha çok dikkat çeker, ancak bu etkenin genel etkisi azdır.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_backpack_factor">
+    <text>Sırt çantası şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_distance">
+    <text>Diğerlerine olan mesafeyi hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_distance_desc">
+    <text>Etkinleştirildiğinde oyuncu ile NPC'ler arasındaki mesafe dikkate alınır.\nBu etken, şüphe hesaplanmadan önce korunması gereken en kısa güvenli mesafeyi belirler.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_distance_factor">
+    <text>En kısa güvenli mesafe [metre]</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_helmet">
+    <text>Oyuncunun kaskını hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_helmet_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler, ayrı yuvada veya giysiye entegre olarak taktığınız kaskın türünü ve durumunu dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken kaskın önemini belirler.\n%c[pda_green]İpucu:%c[ui_gray_2] Kasklar oyuncunun yüzünü ve kimliğini örttüğü için kılık değiştirmede kritik öneme sahiptir.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_helmet_factor">
+    <text>Oyuncunun kaskı için şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_inventory">
+    <text>Oyuncunun envanterini hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_inventory_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler envanterinizdeki eşyaların sayısını, ağırlığını ve boyutunu dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken envanterin önemini belirler.\n%c[pda_green]İpucu:%c[ui_gray_2] Özellikle silah gibi büyük eşyalar olmak üzere çok eşya taşımak şüphe çeker, ancak bu etkenin genel etkisi azdır.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_inventory_factor">
+    <text>Envanter şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_outfit">
+    <text>Oyuncunun kıyafetini hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_outfit_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler kıyafet yuvanızdaki zırhın türünü ve durumunu dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken zırhın önemini belirler.\n%c[pda_green]İpucu:%c[ui_gray_2] Kıyafetin durumu kılık değiştirme için çok önemlidir. NPC'ler hasarlı kıyafetlerden ciddi biçimde şüphelenir.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_outfit_factor">
+    <text>Oyuncunun kıyafeti için şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_speed">
+    <text>Oyuncunun hareketini hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_speed_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler hareketlerinizi ve hızınızı dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken hareketlerinizin önemini belirler.\n%c[pda_green]İpucu:%c[ui_gray_2] Dikkat çekmemeye çalışın; NPC'lerin yakınında koşmayın veya zıplamayın.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_speed_factor">
+    <text>Hareket şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_state">
+    <text>Kılık değiştirme sistemini etkinleştir</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_stay_time">
+    <text>NPC'lerin yakınında geçirilen süreyi hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_stay_time_desc">
+    <text>Etkinleştirildiğinde oyuncunun NPC'lere güvenli mesafede geçirdiği süre hesaba katılır.\nBu etken, şüphe hesaplanmadan önce geçebilecek en uzun süreyi belirler.\n%c[pda_green]İpucu:%c[ui_gray_2] Konuşma süresi de buna dahildir; fazla oyalanmayın.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_stay_time_factor">
+    <text>En uzun güvenli kalma süresi [saniye]</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_weapon">
+    <text>Oyuncunun silahını hesaba kat</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_weapon_desc">
+    <text>Etkinleştirildiğinde sizi gözleyen NPC'ler ana yuvanızdaki silahın türünü ve durumunu dikkate alır.\nBu etken, genel şüphe düzeyini hesaplarken silahın önemini belirler.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_weapon_factor">
+    <text>Oyuncunun silahı için şüphe çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_arty_chance">
+    <text>Artefaktların yeniden ortaya çıkma olasılığı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_arty_chance_desc">
+    <text>Artefaktlar genellikle emisyonlarda, anomali alanlarındaki psi fırtınalarında ise daha seyrek oluşur.\n\nBu seçenek, anomali alanının artefakt oluşturma olasılığını belirler.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_arty_degradation">
+    <text>Artefakt yıpranması</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_battery_consumption">
+    <text>Pil tüketim çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_battery_consumption_desc">
+    <text>Elektronik aygıtlar kullanılırken, aygıta bağlı bir hızda pil tüketir.\n\nBu genel çarpan ayrı değerleri etkileyerek toplam pil tüketim hızını belirler.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_bkpk_degradation">
+    <text>Sırt çantası yıpranması</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_buy">
+    <text>Satış fiyatı çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_buy_desc">
+    <text>Tüccarların sattığınız eşyalar için ödediği fiyat çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_condition_buy_override">
+    <text>Satış için en düşük eşya kondisyonu</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_condition_buy_override_desc">
+    <text>Tüccarların eşyayı kabul etmesi için gereken kondisyon yüzdesi. 0 ise her tüccar kendi yapılandırma dosyasındaki en düşük değeri kullanır.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_goodwill">
+    <text>Kazanılan itibar çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_goodwill_desc">
+    <text>Görevleri tamamlayınca kazanılan itibar çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_limited_bolts">
+    <text>Sınırlı sayıda cıvata</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_limited_bolts_desc">
+    <text>Etkinleştirildiğinde cıvatalar sınırsız olmaz. Bittiklerinde yenilerini satın almanız veya bulmanız gerekir.\n%c[pda_green]İpucu:%c[ui_gray_2] Anomaliler zarar vermediyse attığınız cıvataları geri alabilirsiniz.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_loots">
+    <text>Eşya bulma olasılığı çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_loots_desc">
+    <text>Cesetlerde eşya bulma olasılığının çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_max_medkit_uses">
+    <text>İlk yardım çantası kullanım sayısı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_money_loots">
+    <text>Bulunan para çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_money_loots_desc">
+    <text>Cesetlerde bulunan para miktarının çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_outfit_drops">
+    <text>Cesetlerde bulunan kıyafetler</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_outfit_drops_desc">
+    <text>Cesetlerde hangi kıyafetlerin bulunabileceğini belirler.\n«Aşamalı» seçeneği, kıyafetleri oyuncunun ilerlemesine bağlar: rütbe yükseldikçe daha iyi kıyafetler bulunabilir.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_percentage_parts">
+    <text>Parçalarda yüzde kondisyon sistemi</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_percentage_parts_desc">
+    <text>Etkinleştirildiğinde parçalar söküldükleri eşyalardan %1 ile %100 arasında tam kondisyon değeri alır.\n\nKapatıldığında kondisyon %25, %50, %75 veya %100 olarak belirlenir.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_repair">
+    <text>Onarım maliyeti katsayısı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_repair_desc">
+    <text>Katsayı yükseldikçe tamircilerin onarım hizmetleri pahalılaşır.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_restock">
+    <text>Tüccarların stok yenileme döngüsü (saat)</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_restock_desc">
+    <text>Tüccarların stoklarını tamamen yenilemesi için gereken saat sayısı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_rewards">
+    <text>Para ödülü çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_rewards_desc">
+    <text>Görevleri tamamlayınca kazanılan para miktarının çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_sell">
+    <text>Alış fiyatı çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_sell_desc">
+    <text>Tüccarlardan eşya alırken ödediğiniz fiyat çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_stash_chance">
+    <text>Zula keşfetme olasılığı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_stash_chance_desc">
+    <text>Cesetlerde zula konumlarını içeren PDA bulma olasılığı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_upgrade">
+    <text>Yükseltme maliyeti çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_upgrade_desc">
+    <text>Tamircilerin sunduğu yükseltmelerin maliyet çarpanı.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_weapon_degradation">
+    <text>Silah yıpranma çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_weapon_degradation_desc">
+    <text>Silahlar, kullanılan silah ve mühimmata bağlı olarak her atışta yıpranır.\n\nBu genel çarpan tek tek yıpranma değerlerini etkileyerek toplam yıpranma hızını belirler.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_wpn_condition">
+    <text>Bulunan silahların ortalama durumu</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_long_names">
+    <text>Tam adları kullan</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_combat">
+    <text>Çatışma sırasında izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_damage">
+    <text>Yaralıyken izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_emission">
+    <text>Emisyon sırasında izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_overweight">
+    <text>Aşırı yük varken izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_state">
+    <text>Hızlı seyahat durumu</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_time">
+    <text>Zamanı ilerletmeden seyahat et</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_visit_message">
+    <text>Konum ziyaret mesajı</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_actor_immunities">
+    <text>Oyuncu koruması</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_actor_immunities_desc">
+    <text>Oyuncunun tüm hasar kaynaklarına karşı direncini belirler.\n\nKoruma ne kadar yüksekse oyuncu o kadar fazla hasar alabilir.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_base">
+    <text>Düşmanların temel mermi dağılımı</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_base_desc">
+    <text>Düşman silahlarının temel mermi dağılımı.\n\nDeğer yükseldikçe düşmanlar uzaktaki hedeflere daha az isabetli ateş eder.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_factor">
+    <text>Düşman mermi dağılımı çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_factor_desc">
+    <text>Düşman silahlarının mermi dağılımı çarpanı.\n\nDeğer yükseldikçe uzaktan ateş ederken silah tepmesi artar.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_hit_power">
+    <text>Mermi hasar çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_hit_power_desc">
+    <text>Mermilerin verdiği hasar çarpanı.\n%c[pda_yellow]Not:%c[ui_gray_2] Bu ayar yalnızca oyuncunun ateşlediği mermileri etkiler, NPC mermilerini etkilemez.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_anomaly">
+    <text>Anomali dedektörü sesi</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_anomaly_desc">
+    <text>Etkinleştirildiğinde anomalilere yaklaşırken uyarı bipleri duyarsınız.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_geiger">
+    <text>Radyasyon uyarı sesleri yalnızca Geiger sayacından gelsin</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_geiger_desc">
+    <text>%c[ui_gray_1]Kapalı:%c[ui_gray_2] Radyoaktif bölgelere yaklaşınca radyasyon tıkırtılarını duyarsınız.\n%c[ui_gray_1]Açık:%c[ui_gray_2] Tıkırtılar yalnızca envanterinizde yeterli pili olan bir Geiger sayacı varsa duyulur.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_power_loss_bias">
+    <text>Dayanıklılık kaybı çarpanı</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_radiation_day">
+    <text>Gündüz havadaki radyasyon</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_radiation_day_desc">
+    <text>Etkinleştirildiğinde oyuncu gündüz dışarıdayken sürekli radyasyon alır ve yer altı bölgeleri çok daha radyoaktif olur.\n\nRadyasyon koruması yüksek kask ve giysiler bu etkiyi azaltır.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_sleep">
+    <text>Uykusuzluk</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_thirst">
+    <text>Susuzluk</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_weight">
+    <text>Taşınabilecek azami ağırlık</text>
+  </string>
+  <string id="ui_mm_gameplay_general_char_portrait">
+    <text>Varsayılan portre</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_max_count">
+    <text>Kaldırma öncesi ceset sayısı</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_max_count_desc">
+    <text>Cesetler, birikmelerinin performansı düşürmesini ve A-Life sistemini meşgul etmesini önlemek için kaldırılır.\nKaldırma işlemi; ceset sayısı, oyuncuya uzaklık ve bekleme süresi sınırları aşıldığında başlar.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_min_dist">
+    <text>Ceset kaldırma mesafesi [metre]</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_min_dist_desc">
+    <text>Cesetler, birikmelerinin performansı düşürmesini ve A-Life sistemini meşgul etmesini önlemek için kaldırılır.\nKaldırma işlemi; ceset sayısı, oyuncuya uzaklık ve bekleme süresi sınırları aşıldığında başlar.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_hardcore_ai_aim">
+    <text>Zor modda YZ nişan hassasiyeti</text>
+  </string>
+  <string id="ui_mm_gameplay_general_max_tasks">
+    <text>NPC başına en fazla görev</text>
+  </string>
+  <string id="ui_mm_gameplay_general_max_tasks_desc">
+    <text>Aynı NPC'den aynı anda etkin tutabileceğiniz görev sayısı.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_mechanic_feature">
+    <text>Tamircilerin gecikmeli onarımları</text>
+  </string>
+  <string id="ui_mm_gameplay_general_mechanic_feature_desc">
+    <text>Etkinleştirildiğinde, tamircilerin bozuk eşyalarınızı onarması için bir gün veya daha fazla beklemeniz gerekir. Eşyalar onarım bitince teslim edilir.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_need_equipped_hkit">
+    <text>Bonustan yararlanmak için av kitini sırt çantası olarak kuşan</text>
+  </string>
+  <string id="ui_mm_gameplay_general_npc_loot_distance">
+    <text>Ceset yağmalama mesafesi [metre]</text>
+  </string>
+  <string id="ui_mm_gameplay_general_npc_loot_distance_desc">
+    <text>Diğer stalkerlar cesetleri yalnızca oyuncu en az bu kadar uzaktaysa yağmalar.\nBöylece emek vererek kazandığınız ganimeti almaları önlenir.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_outfit_portrait">
+    <text>Oyuncu portresini kıyafete göre değiştir</text>
+  </string>
+  <string id="ui_mm_gameplay_general_outfit_portrait_desc">
+    <text>Oyuncunun portresini giydiği kıyafete göre değiştirir. Bu seçeneği kapatırsanız Yeni Oyun menüsünde seçilen varsayılan portre kullanılır.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_player_name">
+    <text>Oyuncu adı</text>
+  </string>
+  <string id="ui_mm_gameplay_general_release_dropped_items">
+    <text>Eski bırakılmış eşyaları kaldır</text>
+  </string>
+  <string id="ui_mm_gameplay_general_show_tip_reputation">
+    <text>İtibar bildirimleri</text>
+  </string>
+  <string id="ui_mm_gameplay_general_show_tip_reputation_desc">
+    <text>Görevleri tamamladıktan ya da başaramadıktan sonra gruplarla itibarındaki değişiklikleri bildirir.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok">
+    <text>Tüm yakın dövüş silahları sessiz öldürmede kullanılabilir</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok_desc">
+    <text>İşaretli değilse yakın dövüş silahının «can_stealth_stab» ayarı true olmalıdır. Varsayılan olarak yalnızca Spetnaz çakısı uygundur.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_enabled">
+    <text>Sessiz öldürmeleri etkinleştir</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_fresh_time">
+    <text>Sessiz öldürme sonrası şüphe süresi</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_fresh_time_desc">
+    <text>Cesedin yakınında görülürseniz diğer NPC’lerin katil olduğunuzu anlayabileceği süre.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_gun_enabled">
+    <text>Susturuculu silahlarla sessiz öldürmeye izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist">
+    <text>Silahlı sessiz öldürmede tanıklar için en düşük mesafe</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist_desc">
+    <text>Kurban dışındaki bir NPC size veya kurbana bu mesafeden (metre) yakınsa silahla sessiz öldürme girişimi her zaman başarısız olur. Yağmur mesafeyi azaltır.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_headshot_only">
+    <text>Ateşli silahla sessiz öldürme için kafa vuruşu gerekir</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_melee_enabled">
+    <text>Yakın dövüş silahlarıyla sessiz öldürmeye izin ver</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist">
+    <text>Yakın dövüşle sessiz öldürmede tanıklar için en düşük mesafe</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist_desc">
+    <text>Kurban dışındaki bir NPC size veya kurbana bu mesafeden (metre) yakınsa yakın dövüşle sessiz öldürme girişimi her zaman başarısız olur. Yağmur mesafeyi azaltır.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_suspect_dist">
+    <text>Cesetten fark edilme mesafesi</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_suspect_dist_desc">
+    <text>Diğer NPC’lerin sessizce öldürülen NPC’nin yakınında sizi katil olarak tanıyacağı mesafe.</text>
+  </string>
+  <string id="ui_mm_header_effects">
+    <text>Efektler</text>
+  </string>
+  <string id="ui_mm_header_grass">
+    <text>Çimen</text>
+  </string>
+  <string id="ui_mm_header_lighting">
+    <text>Aydınlatma</text>
+  </string>
+  <string id="ui_mm_header_rendering_dist">
+    <text>Görüntüleme mesafesi</text>
+  </string>
+  <string id="ui_mm_header_rendering_quality">
+    <text>Görüntüleme kalitesi</text>
+  </string>
+  <string id="ui_mm_lst_10h">
+    <text>10 sa</text>
+  </string>
+  <string id="ui_mm_lst_11h">
+    <text>11 sa</text>
+  </string>
+  <string id="ui_mm_lst_12h">
+    <text>12 sa</text>
+  </string>
+  <string id="ui_mm_lst_28days">
+    <text>28 gün</text>
+  </string>
+  <string id="ui_mm_lst_3h">
+    <text>3 sa</text>
+  </string>
+  <string id="ui_mm_lst_4h">
+    <text>4 sa</text>
+  </string>
+  <string id="ui_mm_lst_5h">
+    <text>5 sa</text>
+  </string>
+  <string id="ui_mm_lst_6h">
+    <text>6 sa</text>
+  </string>
+  <string id="ui_mm_lst_7h">
+    <text>7 sa</text>
+  </string>
+  <string id="ui_mm_lst_8days">
+    <text>8 gün</text>
+  </string>
+  <string id="ui_mm_lst_8h">
+    <text>8 sa</text>
+  </string>
+  <string id="ui_mm_lst_9h">
+    <text>9 sa</text>
+  </string>
+  <string id="ui_mm_lst_all">
+    <text>Tümü</text>
+  </string>
+  <string id="ui_mm_lst_atest_msaa_dx10_0">
+    <text>DX10 kullan</text>
+  </string>
+  <string id="ui_mm_lst_atest_msaa_dx10_1">
+    <text>DX10.1 kullan</text>
+  </string>
+  <string id="ui_mm_lst_average">
+    <text>Orta</text>
+  </string>
+  <string id="ui_mm_lst_borderless">
+    <text>Kenarlıksız pencere</text>
+  </string>
+  <string id="ui_mm_lst_bright_night">
+    <text>Çok aydınlık geceler</text>
+  </string>
+  <string id="ui_mm_lst_combined">
+    <text>İkisi de</text>
+  </string>
+  <string id="ui_mm_lst_dark_night">
+    <text>Karanlık geceler</text>
+  </string>
+  <string id="ui_mm_lst_default">
+    <text>Varsayılan</text>
+  </string>
+  <string id="ui_mm_lst_disabled">
+    <text>Kapalı</text>
+  </string>
+  <string id="ui_mm_lst_every_12h">
+    <text>Her 6-12 saatte bir</text>
+  </string>
+  <string id="ui_mm_lst_every_24h">
+    <text>Her 12-24 saatte bir</text>
+  </string>
+  <string id="ui_mm_lst_every_2d">
+    <text>Her 1-2 günde bir</text>
+  </string>
+  <string id="ui_mm_lst_every_4d">
+    <text>Her 2-4 günde bir</text>
+  </string>
+  <string id="ui_mm_lst_explode">
+    <text>Patlat</text>
+  </string>
+  <string id="ui_mm_lst_extreme">
+    <text>En yüksek</text>
+  </string>
+  <string id="ui_mm_lst_full">
+    <text>Tam</text>
+  </string>
+  <string id="ui_mm_lst_fullscreen">
+    <text>Tam ekran</text>
+  </string>
+  <string id="ui_mm_lst_good">
+    <text>İyi</text>
+  </string>
+  <string id="ui_mm_lst_great">
+    <text>Harika</text>
+  </string>
+  <string id="ui_mm_lst_hbao">
+    <text>HBAO</text>
+  </string>
+  <string id="ui_mm_lst_hdao">
+    <text>HDAO</text>
+  </string>
+  <string id="ui_mm_lst_high">
+    <text>Yüksek</text>
+  </string>
+  <string id="ui_mm_lst_kill_at_end">
+    <text>Sonunda öldür</text>
+  </string>
+  <string id="ui_mm_lst_kill_at_vortex">
+    <text>Girdapta öldür</text>
+  </string>
+  <string id="ui_mm_lst_kill_at_wave">
+    <text>Dalga ilerlediğinde öldür</text>
+  </string>
+  <string id="ui_mm_lst_low">
+    <text>Düşük</text>
+  </string>
+  <string id="ui_mm_lst_medium">
+    <text>Orta</text>
+  </string>
+  <string id="ui_mm_lst_medium_night">
+    <text>Orta derecede aydınlık geceler</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_0">
+    <text>Yeni ay</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_1">
+    <text>Hilal</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_2">
+    <text>İlk dördün</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_3">
+    <text>Büyüyen şişkin ay</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_4">
+    <text>Dolunay</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_5">
+    <text>Küçülen şişkin ay</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_6">
+    <text>Son dördün</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_7">
+    <text>Hilal sonu</text>
+  </string>
+  <string id="ui_mm_lst_no_warning">
+    <text>Uyarı yok</text>
+  </string>
+  <string id="ui_mm_lst_none">
+    <text>Yok</text>
+  </string>
+  <string id="ui_mm_lst_off">
+    <text>Kapalı</text>
+  </string>
+  <string id="ui_mm_lst_on_smarts_only">
+    <text>Yalnızca akıllı bölgelerde</text>
+  </string>
+  <string id="ui_mm_lst_poor">
+    <text>Zayıf</text>
+  </string>
+  <string id="ui_mm_lst_pres_default">
+    <text>Orta</text>
+  </string>
+  <string id="ui_mm_lst_pres_extreme">
+    <text>En yüksek</text>
+  </string>
+  <string id="ui_mm_lst_pres_high">
+    <text>Yüksek</text>
+  </string>
+  <string id="ui_mm_lst_pres_low">
+    <text>Düşük</text>
+  </string>
+  <string id="ui_mm_lst_pres_minimum">
+    <text>En düşük</text>
+  </string>
+  <string id="ui_mm_lst_progressive">
+    <text>Aşamalı</text>
+  </string>
+  <string id="ui_mm_lst_radio">
+    <text>Yalnızca radyo</text>
+  </string>
+  <string id="ui_mm_lst_rare">
+    <text>Nadir</text>
+  </string>
+  <string id="ui_mm_lst_regular">
+    <text>Düzenli</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r1">
+    <text>DirectX 8 (temel)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r2">
+    <text>DirectX 9 (normal)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r2.5">
+    <text>DirectX 9 (geliştirilmiş)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r2a">
+    <text>DirectX 9 (temel)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r3">
+    <text>DirectX 10 (geliştirilmiş)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r4">
+    <text>DirectX 11 (geliştirilmiş)</text>
+  </string>
+  <string id="ui_mm_lst_screen_space">
+    <text>Ekran uzayı</text>
+  </string>
+  <string id="ui_mm_lst_show_all">
+    <text>Tümünü göster</text>
+  </string>
+  <string id="ui_mm_lst_siren">
+    <text>Yalnızca siren</text>
+  </string>
+  <string id="ui_mm_lst_siren_radio">
+    <text>Siren ve radyo</text>
+  </string>
+  <string id="ui_mm_lst_slight_night">
+    <text>Biraz aydınlık geceler</text>
+  </string>
+  <string id="ui_mm_lst_storyonly">
+    <text>Yalnızca önemli karakterler</text>
+  </string>
+  <string id="ui_mm_lst_turn_to_zombie">
+    <text>Zombiye dönüştür</text>
+  </string>
+  <string id="ui_mm_lst_ultra">
+    <text>Ultra</text>
+  </string>
+  <string id="ui_mm_lst_unhurt">
+    <text>Öldürme</text>
+  </string>
+  <string id="ui_mm_lst_visit_only">
+    <text>Yalnızca ziyaret edilen yerler</text>
+  </string>
+  <string id="ui_mm_lst_volumetric">
+    <text>Hacimsel</text>
+  </string>
+  <string id="ui_mm_lst_windowed">
+    <text>Pencereli</text>
+  </string>
+  <string id="ui_mm_lst_x2">
+    <text>x2</text>
+  </string>
+  <string id="ui_mm_lst_x4">
+    <text>x4</text>
+  </string>
+  <string id="ui_mm_lst_x8">
+    <text>x8</text>
+  </string>
+  <string id="ui_mm_menu_advanced">
+    <text>Gelişmiş</text>
+  </string>
+  <string id="ui_mm_menu_alife">
+    <text>Bölge</text>
+  </string>
+  <string id="ui_mm_menu_army">
+    <text>Askerler</text>
+  </string>
+  <string id="ui_mm_menu_azazel">
+    <text>Azazel</text>
+  </string>
+  <string id="ui_mm_menu_backpack_travel">
+    <text>Sırt çantasıyla seyahat</text>
+  </string>
+  <string id="ui_mm_menu_bandit">
+    <text>Haydutlar</text>
+  </string>
+  <string id="ui_mm_menu_basic">
+    <text>Temel</text>
+  </string>
+  <string id="ui_mm_menu_control">
+    <text>Kontroller</text>
+  </string>
+  <string id="ui_mm_menu_csky">
+    <text>Temiz Gökyüzü</text>
+  </string>
+  <string id="ui_mm_menu_disguise">
+    <text>Kılık değiştirme</text>
+  </string>
+  <string id="ui_mm_menu_dolg">
+    <text>Görev</text>
+  </string>
+  <string id="ui_mm_menu_dynamic_news">
+    <text>Dinamik haberler</text>
+  </string>
+  <string id="ui_mm_menu_ecolog">
+    <text>Ekolojistler</text>
+  </string>
+  <string id="ui_mm_menu_economy_diff">
+    <text>İlerleme zorluğu</text>
+  </string>
+  <string id="ui_mm_menu_environment">
+    <text>Çevre</text>
+  </string>
+  <string id="ui_mm_menu_event">
+    <text>Olaylar</text>
+  </string>
+  <string id="ui_mm_menu_fast_travel">
+    <text>Hızlı seyahat</text>
+  </string>
+  <string id="ui_mm_menu_freedom">
+    <text>Özgürlük</text>
+  </string>
+  <string id="ui_mm_menu_gameplay">
+    <text>Oynanış</text>
+  </string>
+  <string id="ui_mm_menu_gameplay_diff">
+    <text>Oyun zorluğu</text>
+  </string>
+  <string id="ui_mm_menu_general">
+    <text>Genel</text>
+  </string>
+  <string id="ui_mm_menu_greh">
+    <text>Günah</text>
+  </string>
+  <string id="ui_mm_menu_hud">
+    <text>Arayüz/HUD</text>
+  </string>
+  <string id="ui_mm_menu_isg">
+    <text>UNISG</text>
+  </string>
+  <string id="ui_mm_menu_keybind">
+    <text>Tuş atamaları</text>
+  </string>
+  <string id="ui_mm_menu_killer">
+    <text>Paralı askerler</text>
+  </string>
+  <string id="ui_mm_menu_monolith">
+    <text>Monolit</text>
+  </string>
+  <string id="ui_mm_menu_night">
+    <text>Gece</text>
+  </string>
+  <string id="ui_mm_menu_other">
+    <text>Diğer</text>
+  </string>
+  <string id="ui_mm_menu_player">
+    <text>Oyuncu</text>
+  </string>
+  <string id="ui_mm_menu_radio">
+    <text>Radyo</text>
+  </string>
+  <string id="ui_mm_menu_renegade">
+    <text>Dönekler</text>
+  </string>
+  <string id="ui_mm_menu_silent_kills">
+    <text>Sessiz öldürmeler</text>
+  </string>
+  <string id="ui_mm_menu_sound">
+    <text>Ses</text>
+  </string>
+  <string id="ui_mm_menu_stalker">
+    <text>Stalkerlar</text>
+  </string>
+  <string id="ui_mm_menu_video">
+    <text>Görüntü</text>
+  </string>
+  <string id="ui_mm_menu_warfare">
+    <text>Savaş</text>
+  </string>
+  <string id="ui_mm_menu_weather">
+    <text>Hava durumu</text>
+  </string>
+  <string id="ui_mm_menu_zombied">
+    <text>Zombileşmişler</text>
+  </string>
+  <string id="ui_mm_options_n">
+    <text>Ayarlar</text>
+  </string>
+  <string id="ui_mm_originals">
+    <text>Orijinal oyunlar</text>
+  </string>
+  <string id="ui_mm_other_autosave_timer">
+    <text>15 dakikada bir otomatik kaydet</text>
+  </string>
+  <string id="ui_mm_other_autosave_timer_new">
+    <text>X dakikada bir otomatik kaydet (0 = devre dışı)</text>
+  </string>
+  <string id="ui_mm_other_debug_error">
+    <text>Hata ayıklama hata bildirimleri</text>
+  </string>
+  <string id="ui_mm_other_debug_error_desc">
+    <text>Konsola bir hata kaydettiğinde HUD’da bildirim gösterir.</text>
+  </string>
+  <string id="ui_mm_other_debug_hud">
+    <text>Hata ayıklama HUD’u</text>
+  </string>
+  <string id="ui_mm_other_debug_map_hud">
+    <text>Harita hata ayıklama işaretleri</text>
+  </string>
+  <string id="ui_mm_other_debug_map_hud_desc">
+    <text>Bölgedeki tüm mangaları ek hata ayıklama bilgileriyle haritada gösterir.</text>
+  </string>
+  <string id="ui_mm_other_discord">
+    <text>Discord durumu</text>
+  </string>
+  <string id="ui_mm_other_discord_desc">
+    <text>Discord açıkken bu seçenek etkinse oyun durumunuz profilinizde görünür: seviye, etkin görev, grup, sağlık ve oyun modu.</text>
+  </string>
+  <string id="ui_mm_other_important_save">
+    <text>Seviye değişiminde otomatik kaydet</text>
+  </string>
+  <string id="ui_mm_other_localization">
+    <text>Dil</text>
+  </string>
+  <string id="ui_mm_other_quicksave_cnt">
+    <text>Hızlı kayıt sayısı</text>
+  </string>
+  <string id="ui_mm_preset">
+    <text>Hazır ayar</text>
+  </string>
+  <string id="ui_mm_prst_economy_easy">
+    <text>Turist</text>
+  </string>
+  <string id="ui_mm_prst_economy_hard">
+    <text>Hayatta kalan</text>
+  </string>
+  <string id="ui_mm_prst_economy_medium">
+    <text>Çöpçü</text>
+  </string>
+  <string id="ui_mm_prst_gameplay_easy">
+    <text>Kolay</text>
+  </string>
+  <string id="ui_mm_prst_gameplay_hard">
+    <text>Zor</text>
+  </string>
+  <string id="ui_mm_prst_gameplay_medium">
+    <text>Orta</text>
+  </string>
+  <string id="ui_mm_prst_video_default">
+    <text>Orta</text>
+  </string>
+  <string id="ui_mm_prst_video_extreme">
+    <text>En yüksek</text>
+  </string>
+  <string id="ui_mm_prst_video_high">
+    <text>Yüksek</text>
+  </string>
+  <string id="ui_mm_prst_video_low">
+    <text>Düşük</text>
+  </string>
+  <string id="ui_mm_prst_video_minimum">
+    <text>En düşük</text>
+  </string>
+  <string id="ui_mm_prst_warfare_default">
+    <text>Hızlı</text>
+  </string>
+  <string id="ui_mm_prst_warfare_yoko">
+    <text>Yavaş</text>
+  </string>
+  <string id="ui_mm_reset">
+    <text>Sıfırla</text>
+  </string>
+  <string id="ui_mm_sound_environment_ambient_volume">
+    <text>Ortam seslerinin düzeyi</text>
+  </string>
+  <string id="ui_mm_sound_environment_ambient_volume_desc">
+    <text>Bu kaydırıcı cırcır böcekleri, kargalar, kuşlar ve gece çığlıkları gibi ortam seslerinin düzeyini ayarlar.</text>
+  </string>
+  <string id="ui_mm_sound_environment_breathing_sound">
+    <text>Maske içindeki nefes sesi</text>
+  </string>
+  <string id="ui_mm_sound_environment_helmet_rain_sound">
+    <text>Miğfere düşen yağmur damlalarının sesi</text>
+  </string>
+  <string id="ui_mm_sound_environment_wind_sound">
+    <text>Ortam rüzgâr sesleri</text>
+  </string>
+  <string id="ui_mm_sound_general_caption">
+    <text>Altyazılar</text>
+  </string>
+  <string id="ui_mm_sound_general_dynamic_music">
+    <text>Dinamik müzik</text>
+  </string>
+  <string id="ui_mm_sound_general_eax">
+    <text>EAX</text>
+  </string>
+  <string id="ui_mm_sound_general_master_volume">
+    <text>Ses efektleri düzeyi</text>
+  </string>
+  <string id="ui_mm_sound_general_music_volume">
+    <text>Müzik düzeyi</text>
+  </string>
+  <string id="ui_mm_sound_general_snd_targets">
+    <text>Ses kaynakları</text>
+  </string>
+  <string id="ui_mm_sound_general_sound_device">
+    <text>Ses aygıtı</text>
+  </string>
+  <string id="ui_mm_sound_radio_1_play">
+    <text>Radyoyu çal/durdur</text>
+  </string>
+  <string id="ui_mm_sound_radio_2_play">
+    <text>Müzik çaları başlat/durdur</text>
+  </string>
+  <string id="ui_mm_sound_radio_access">
+    <text>Radyo seçenekleri menüsünü açma tuşu</text>
+  </string>
+  <string id="ui_mm_sound_radio_access_call">
+    <text>Radio settings.txt menüsünü açma tuşu</text>
+  </string>
+  <string id="ui_mm_sound_radio_display_tracks">
+    <text>Müzik çalardaki parça adlarını HUD'de göster</text>
+  </string>
+  <string id="ui_mm_sound_radio_emission_intereferences">
+    <text>Emisyon sırasında sinyal paraziti</text>
+  </string>
+  <string id="ui_mm_sound_radio_next">
+    <text>Sonraki parça</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist">
+    <text>Sonraki kanal/çalma listesi</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_1">
+    <text>1. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_10">
+    <text>10. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_2">
+    <text>2. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_3">
+    <text>3. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_4">
+    <text>4. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_5">
+    <text>5. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_6">
+    <text>6. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_7">
+    <text>7. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_8">
+    <text>8. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_9">
+    <text>9. çalma listesinin adı</text>
+  </string>
+  <string id="ui_mm_sound_radio_previous">
+    <text>Önceki parça</text>
+  </string>
+  <string id="ui_mm_sound_radio_underground_intereferences">
+    <text>Yer altı bölgelerinde sinyal paraziti</text>
+  </string>
+  <string id="ui_mm_sound_radio_vol_down">
+    <text>Ses azaltma tuşu</text>
+  </string>
+  <string id="ui_mm_sound_radio_vol_up">
+    <text>Ses artırma tuşu</text>
+  </string>
+  <string id="ui_mm_sound_radio_zone">
+    <text>Bölgedeki radyolar</text>
+  </string>
+  <string id="ui_mm_sound_radio_zone_desc">
+    <text>Bölgedeki radyoların müzik çalmasını sağlar.</text>
+  </string>
+  <string id="ui_mm_title_alife">
+    <text>Genel A-Life ayarları</text>
+  </string>
+  <string id="ui_mm_title_control">
+    <text>Genel kontroller</text>
+  </string>
+  <string id="ui_mm_title_disguise">
+    <text>Kılık değiştirme ayarları</text>
+  </string>
+  <string id="ui_mm_title_economy_diff">
+    <text>İlerleme zorluğu</text>
+  </string>
+  <string id="ui_mm_title_effects">
+    <text>Oyuncu efektleri</text>
+  </string>
+  <string id="ui_mm_title_emission">
+    <text>Emisyonlar</text>
+  </string>
+  <string id="ui_mm_title_gameplay">
+    <text>Genel oynanış ayarları</text>
+  </string>
+  <string id="ui_mm_title_gameplay_diff">
+    <text>Oyun zorluğu</text>
+  </string>
+  <string id="ui_mm_title_hud">
+    <text>Arayüz/HUD</text>
+  </string>
+  <string id="ui_mm_title_mask">
+    <text>Gaz maskesi</text>
+  </string>
+  <string id="ui_mm_title_night">
+    <text>Geceler</text>
+  </string>
+  <string id="ui_mm_title_other">
+    <text>Diğer ayarlar</text>
+  </string>
+  <string id="ui_mm_title_psi_storm">
+    <text>Psi fırtınaları</text>
+  </string>
+  <string id="ui_mm_title_sound">
+    <text>Genel ses ayarları</text>
+  </string>
+  <string id="ui_mm_title_sound_environment">
+    <text>Ortam ses efektleri</text>
+  </string>
+  <string id="ui_mm_title_sound_radio">
+    <text>Radyo</text>
+  </string>
+  <string id="ui_mm_title_video_advanced">
+    <text>Gelişmiş görüntü ayarları</text>
+  </string>
+  <string id="ui_mm_title_video_basic">
+    <text>Temel görüntü ayarları</text>
+  </string>
+  <string id="ui_mm_title_warfare">
+    <text>Savaş modu genel ayarları</text>
+  </string>
+  <string id="ui_mm_title_warfare_azazel">
+    <text>Savaş Azazel modu ayarları</text>
+  </string>
+  <string id="ui_mm_title_warfare_faction">
+    <text>Savaş modu grup ayarları</text>
+  </string>
+  <string id="ui_mm_video_advanced_actor_shadow">
+    <text>Karakter gölgeleri</text>
+  </string>
+  <string id="ui_mm_video_advanced_ai_torch">
+    <text>Stalkerların el feneri kullanmasına izin ver</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_bump">
+    <text>Ayrıntı kabartması</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_density">
+    <text>Çimen yoğunluğu</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_height">
+    <text>Çimen boyutu</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_radius">
+    <text>Çimenin görüntülenme mesafesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_textures">
+    <text>Ayrıntılı dokular</text>
+  </string>
+  <string id="ui_mm_video_advanced_dof_enable">
+    <text>Alan derinliği</text>
+  </string>
+  <string id="ui_mm_video_advanced_dynamic_wet_surfaces">
+    <text>Islak yüzeyler</text>
+  </string>
+  <string id="ui_mm_video_advanced_enable_tessellation">
+    <text>Mozaikleme</text>
+  </string>
+  <string id="ui_mm_video_advanced_framelimit">
+    <text>FPS sınırı</text>
+  </string>
+  <string id="ui_mm_video_advanced_framelimit_desc">
+    <text>Bu kaydırıcı özel bir FPS sınırı belirlemenizi sağlar. «0» sınır olmadığı anlamına gelir.</text>
+  </string>
+  <string id="ui_mm_video_advanced_geometry_lod">
+    <text>Nesne ayrıntısı</text>
+  </string>
+  <string id="ui_mm_video_advanced_gloss_factor">
+    <text>Parlaklık (yansıma katsayısı)</text>
+  </string>
+  <string id="ui_mm_video_advanced_grass_shadow">
+    <text>Çimen gölgeleri</text>
+  </string>
+  <string id="ui_mm_video_advanced_ls_squality">
+    <text>Gölge kalitesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_mblur">
+    <text>Hareket bulanıklığı miktarı</text>
+  </string>
+  <string id="ui_mm_video_advanced_mblur_enable">
+    <text>Hareket bulanıklığı</text>
+  </string>
+  <string id="ui_mm_video_advanced_mipbias">
+    <text>Doku MIP kaydırması</text>
+  </string>
+  <string id="ui_mm_video_advanced_mipbias_desc">
+    <text>Uzaktaki dokuların kalitesini ve keskinliğini ayarlar.</text>
+  </string>
+  <string id="ui_mm_video_advanced_msaa_alphatest">
+    <text>Alfa testi kullanan nesneleri yumuşat</text>
+  </string>
+  <string id="ui_mm_video_advanced_msaa_opt">
+    <text>Yumuşatmayı iyileştir</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_dynamic_geom">
+    <text>Hareketli nesneler</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_shadow_geom">
+    <text>Uzak gölgeleri kırp</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_shadow_geom_desc">
+    <text>Bu seçenek, genellikle görünmeyen uzak gölgeleri kaldırarak performansı artırabilir.\nGün doğumu ve gün batımında fark edilen çok uzun gölgeler de kaldırılabilir.</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_static_geom">
+    <text>Sabit nesneler</text>
+  </string>
+  <string id="ui_mm_video_advanced_refresh_60hz">
+    <text>60 Hz frekans</text>
+  </string>
+  <string id="ui_mm_video_advanced_slight_fade">
+    <text>Aydınlatma mesafesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_smaa">
+    <text>SMAA</text>
+  </string>
+  <string id="ui_mm_video_advanced_soft_particles">
+    <text>Yumuşak parçacıklar</text>
+  </string>
+  <string id="ui_mm_video_advanced_soft_water">
+    <text>Yumuşak su</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssample">
+    <text>Kenar yumuşatma</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssample_list">
+    <text>Kenar yumuşatma</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssao">
+    <text>SSAO kalitesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssao_mode">
+    <text>SSAO modu</text>
+  </string>
+  <string id="ui_mm_video_advanced_steep_parallax">
+    <text>Belirgin paralaks</text>
+  </string>
+  <string id="ui_mm_video_advanced_sun">
+    <text>Güneş gölgesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_sun_details">
+    <text>Çimen gölgesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_sun_quality">
+    <text>Güneş gölgesi kalitesi</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_min">
+    <text>Güneş ışınlarının temel yoğunluğu</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_mode">
+    <text>Güneş ışınları modu</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_quality">
+    <text>Güneş ışınlarının kalitesi (hacimsel)</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_value">
+    <text>Güneş ışınlarının ana yoğunluğu</text>
+  </string>
+  <string id="ui_mm_video_advanced_texture_lod">
+    <text>Doku ayrıntısı</text>
+  </string>
+  <string id="ui_mm_video_advanced_tf_aniso">
+    <text>Anizotropik filtreleme</text>
+  </string>
+  <string id="ui_mm_video_advanced_v_sync">
+    <text>Dikey senkronizasyon</text>
+  </string>
+  <string id="ui_mm_video_advanced_vis_distance">
+    <text>Dünya</text>
+  </string>
+  <string id="ui_mm_video_advanced_volumetric_lights">
+    <text>Hacimsel ışıklandırma</text>
+  </string>
+  <string id="ui_mm_video_advanced_volumetric_smoke">
+    <text>Hacimsel duman</text>
+  </string>
+  <string id="ui_mm_video_basic_brightness">
+    <text>Parlaklık</text>
+  </string>
+  <string id="ui_mm_video_basic_contrast">
+    <text>Renk doygunluğu</text>
+  </string>
+  <string id="ui_mm_video_basic_fov">
+    <text>Görüş alanı (FOV)</text>
+  </string>
+  <string id="ui_mm_video_basic_gamma">
+    <text>Gama</text>
+  </string>
+  <string id="ui_mm_video_basic_hud_fov">
+    <text>HUD görüş açısı</text>
+  </string>
+  <string id="ui_mm_video_basic_lighting">
+    <text>Temel aydınlatma ayarları</text>
+  </string>
+  <string id="ui_mm_video_basic_preset">
+    <text>Kalite ayarı</text>
+  </string>
+  <string id="ui_mm_video_basic_renderer">
+    <text>Görüntüleme API'si</text>
+  </string>
+  <string id="ui_mm_video_basic_resolution">
+    <text>Çözünürlük</text>
+  </string>
+  <string id="ui_mm_video_basic_screen_mode">
+    <text>Ekran modu</text>
+  </string>
+  <string id="ui_mm_video_hud_3d_pda">
+    <text>3B PDA modelini göster</text>
+  </string>
+  <string id="ui_mm_video_hud_autohide_stamina_bar">
+    <text>Dayanıklılık çubuğunu otomatik gizle</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_a">
+    <text>Nişangâh rengi (alfa)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_b">
+    <text>Nişangâh rengi (mavi)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_g">
+    <text>Nişangâh rengi (yeşil)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_r">
+    <text>Nişangâh rengi (kırmızı)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_dist">
+    <text>Nişangâh hedef mesafesi</text>
+  </string>
+  <string id="ui_mm_video_hud_dynamic_crosshair">
+    <text>Dinamik nişangâh</text>
+  </string>
+  <string id="ui_mm_video_hud_head_bob_factor">
+    <text>Kafa sallanma miktarı</text>
+  </string>
+  <string id="ui_mm_video_hud_ironsights_zoom_factor">
+    <text>Gez ve arpacıkla nişan alma yakınlaştırması</text>
+  </string>
+  <string id="ui_mm_video_hud_show_crosshair">
+    <text>Nişangâhı göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_enemy_health">
+    <text>Düşman sağlığını göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_hud">
+    <text>HUD'yi göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_identity">
+    <text>NPC kimliğini göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_minimap">
+    <text>Mini haritayı göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_slots">
+    <text>Kemerdeki artefaktları HUD'de göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_tracers">
+    <text>İzli mermileri göster</text>
+  </string>
+  <string id="ui_mm_video_hud_show_wpn">
+    <text>Silahı göster</text>
+  </string>
+  <string id="ui_mm_video_hud_tips_desc">
+    <text>Üzerine nişan aldığınızda NPC'nin adını gösterir. Renk, oyuncuya karşı tutumunu belirtir ve düşmanları tanımaya yardımcı olur.</text>
+  </string>
+  <string id="ui_mm_video_night_brightness">
+    <text>Gece ortam parlaklığı</text>
+  </string>
+  <string id="ui_mm_video_night_moon_cycle">
+    <text>Ay döngüsü süresi</text>
+  </string>
+  <string id="ui_mm_video_night_moon_phase">
+    <text>Sabit ay evresi</text>
+  </string>
+  <string id="ui_mm_video_night_moon_phase_state">
+    <text>Sabit ay evresini etkinleştir</text>
+  </string>
+  <string id="ui_mm_video_player_animations">
+    <text>Eşya kullanma animasyonları</text>
+  </string>
+  <string id="ui_mm_video_player_bleed_effect">
+    <text>Can azaldığında bulanıklık</text>
+  </string>
+  <string id="ui_mm_video_player_blood_splash">
+    <text>Kan sıçramaları</text>
+  </string>
+  <string id="ui_mm_video_player_breathing_fog">
+    <text>Nefes buğusu</text>
+  </string>
+  <string id="ui_mm_video_player_fog_pfx">
+    <text>Dinamik sis</text>
+  </string>
+  <string id="ui_mm_video_player_hit_impact_effect">
+    <text>Darbe alma efekti</text>
+  </string>
+  <string id="ui_mm_video_player_item_swap_animation">
+    <text>Eşya değiştirme animasyonu</text>
+  </string>
+  <string id="ui_mm_video_player_mask_hud">
+    <text>Maske kaplaması</text>
+  </string>
+  <string id="ui_mm_video_player_radiation_effect">
+    <text>Radyasyon efekti</text>
+  </string>
+  <string id="ui_mm_video_player_rain_droplets">
+    <text>Yağmur damlaları</text>
+  </string>
+  <string id="ui_mm_video_player_shoot_effects">
+    <text>Geliştirilmiş geri tepme efektleri</text>
+  </string>
+  <string id="ui_mm_video_player_tiny_pfx">
+    <text>Toz parçacıkları</text>
+  </string>
+  <string id="ui_mm_video_player_visor_reflection">
+    <text>Vizör yansıması</text>
+  </string>
+  <string id="ui_mm_video_weather_occurrence">
+    <text>Sıklık</text>
+  </string>
+  <string id="ui_mm_video_weather_period">
+    <text>Döngü süresi</text>
+  </string>
+  <string id="ui_mm_warning_economy_diff_not_level_present">
+    <text>İlerleme zorluğu etkenlerine yalnızca oyun yüklüyken erişilebilir.</text>
+  </string>
+  <string id="ui_mm_warning_gameplay_diff_not_level_present">
+    <text>Oyun zorluğu etkenlerine yalnızca oyun yüklüyken erişilebilir.</text>
+  </string>
+  <string id="ui_mm_warning_pending">
+    <text>Bekleyen (%s) değişiklik var.</text>
+  </string>
+</string_table>

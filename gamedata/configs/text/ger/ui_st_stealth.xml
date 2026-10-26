@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_stealth">
+    <text>Tarnung + Kampf-KI</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch">
+    <text>Ducken</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch_desc">
+    <text>Multiplikator beim Ducken. \n \nStandard: 0.4</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx_desc">
+    <text>Zeigt Gleichungsvariablen an (damit der Schwellenwert stimmt, muss der Cursor ständig auf dem Objekt bleiben): \n \nKonsole: alle Variablen \n \nDynamische Meldungen: ob das Objekt den Akteur sieht \n \nMeldung am unteren Bildschirmrand: Sichtbarkeitsschwelle des Objekts und in MCM änderbare Variablen</text>
+  </string>
+  <string id="ui_mcm_stealth_distance">
+    <text>Entfernung</text>
+  </string>
+  <string id="ui_mcm_stealth_distance_desc">
+    <text>Entfernungsmultiplikator (Abstand zwischen Objekten, Reichweite und Sichtfeld). \n \nStandard: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_header_debug">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_stealth_header_hud">
+    <text>HUD</text>
+  </string>
+  <string id="ui_mcm_stealth_header_main">
+    <text>Allgemein</text>
+  </string>
+  <string id="ui_mcm_stealth_header_patches">
+    <text>Patches</text>
+  </string>
+  <string id="ui_mcm_stealth_icon">
+    <text>Symbol</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_desc">
+    <text>Helligkeitssymbol (zeigt das Licht auf der Figur).</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type">
+    <text>Symboltyp</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type_desc">
+    <text>1) Die Lichtanzeige zeigt, wie viel Licht auf den Spieler fällt. \n \n2) NPC-Sicht zeigt, wie der NPC mit dem höchsten Sichtwert den Spieler wahrnimmt: \n- Weißes Symbol: NPC ist im Normalzustand und sieht den Spieler nicht; \n- Gelbes Symbol: NPC ist im Kampf- oder Gefahrenzustand, seine Sicht ist verstärkt, aber er sieht den Spieler nicht; \n- Rotes Symbol: NPC sieht den Spieler.</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_x">
+    <text>Symbolposition X</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_y">
+    <text>Symbolposition Y</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch">
+    <text>Tief ducken</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Multiplikator beim Tiefducken. \n \nStandard: 0.25</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity">
+    <text>Helligkeit</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity_desc">
+    <text>Helligkeitsmultiplikator (Licht auf dem Objekt). \n \nStandard: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_memory">
+    <text>Gedächtnis</text>
+  </string>
+  <string id="ui_mcm_stealth_memory_desc">
+    <text>Gedächtnismultiplikator. Hat ein NPC ein Ziel bereits gesehen, wird seine Sicht auf dieses Ziel verstärkt. Der Bonus nimmt mit der Zeit ab; beim Standardwert 1.0 dauert es etwa 100 Sekunden in Echtzeit, bis er auf null sinkt. \n \nStandard: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch">
+    <text>Michiko-Wetterpatch</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Bei Verwendung von Michikos Wetter wird die Aktivierung empfohlen.</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val">
+    <text>Nachtsicht für NPCs</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val_desc">
+    <text>Einige NPCs verwenden dadurch ein Nachtsichtgerät statt einer Lampe. Der NVG-Wert wird unabhängig von der Entfernung addiert, anders als bei der Lampe (0 deaktiviert die Funktion). \n \nStandard: 1</text>
+  </string>
+  <string id="ui_mcm_stealth_title">
+    <text>Tarnung + Kampf-KI</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity">
+    <text>Geschwindigkeit</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity_desc">
+    <text>Geschwindigkeitsmultiplikator (Geschwindigkeit des Objekts). \n \nStandard: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_weight">
+    <text>Gewicht</text>
+  </string>
+  <string id="ui_mcm_stealth_weight_desc">
+    <text>Gewichtsmultiplikator (Gewicht der getragenen Ausrüstung). \n \nStandard: 1.0</text>
+  </string>
+</string_table>

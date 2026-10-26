@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_shw_cascades_high">
+    <text>Alto</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_low">
+    <text>Baixo (padrão do Anomaly)</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_medium">
+    <text>Médio</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_ultra">
+    <text>Ultra (grande impacto no desempenho)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades">
+    <text>Cascatas de sombras</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+    <text>Distância das sombras da grama (sol)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+    <text>Define a distância de renderização das sombras da grama projetadas pelo sol como porcentagem da distância de renderização da grama. Um valor menor melhora o desempenho.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+    <text>Distância máxima das sombras da grama</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+    <text>[ SOMENTE QUALIDADE ULTRA ] Define a distância de renderização das sombras da grama projetadas por luzes não direcionais. Um valor menor melhora o desempenho, mas as sombras podem deixar de aparecer mais cedo.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+    <text>Qualidade das sombras da grama</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+    <text>[ LOW ] As sombras da grama aparecem apenas na cascata PRÓXIMA (padrão do Anomaly). [ MEDIUM ] Aparecem nas cascatas PRÓXIMA e MÉDIA. [ HIGH ] Aparecem em todas as cascatas e nos raios volumétricos do sol. [ ULTRA ] Todas as luzes projetam sombras da grama.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+    <text>Tamanho da cascata próxima</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+    <text>Um valor menor melhora a qualidade das sombras do sol.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+    <text>Tamanho da cascata média</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+    <text>Um valor menor melhora a qualidade das sombras do sol.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+    <text>Tamanho da cascata distante</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+    <text>Esta cascata define a distância máxima de renderização das sombras do sol. Valores menores melhoram o desempenho; valores maiores melhoram as sombras distantes, com custo de desempenho.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_title">
+    <text>Configurações das cascatas de sombras</text>
+  </string>
+</string_table>

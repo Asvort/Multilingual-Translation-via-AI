@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>Die UAV ist für diesen Einsatz bereits betankt.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>Die UAV wurde bereits gekauft. Das Geld wurde zurückerstattet.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>UAV betankt (1 Kraftstoffkanister verbraucht). Bei diesem Einsatz: Versteckmarkierungen, Hervorhebung von Artefaktfeldern und Diebstahlwarnungen.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>UAV betankt (45.000 RU ausgegeben). Bei diesem Einsatz: Versteckmarkierungen, Hervorhebung von Artefaktfeldern und Diebstahlwarnungen.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>Für den nächsten Einsatz bereits betankt.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>UAV betanken: %s RU oder 1 Kraftstoffkanister</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>Kein Kraftstoffkanister und nicht genug Geld (45.000 RU). Betanken unmöglich.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Kaufe zuerst die UAV bei den Verbesserungen im Unterkunftsnotizbuch.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>UAV-Aufklärungsdrohne gekauft. In der Unterkunft ist beim Bereich zwischen Sanitäter und Händler eine Kontrollstation erschienen — geh vor einem Einsatz mit einem Kraftstoffkanister (oder 45.000 RU) zum Laptop und betanke die Drohne.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>UAV-Kontrollstation</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Bestelle bei Shustryi eine autonome UAV-Aufklärungsdrohne mit Kontrollstation. Nach dem Kauf erscheint in der Unterkunft beim Bereich zwischen Sanitäter und Händler eine Station — geh zum Laptop und betanke die Drohne mit einem Tastendruck. \n \n
+		Funktionen bei betankter UAV: \n
+		- Alle bekannten Verstecke und ihre Inhalte werden auf der PDA-Karte hervorgehoben. \n
+		- Die Kreise von Anomaliefeldern werden cyan, wenn sich ein Artefakt darin befindet (Artefaktdetektor). \n
+		- Wenn ein NPC ein Artefakt aufhebt, sendet die UAV eine PDA-Warnung (Fraktion, Rüstung, Richtung). \n \n
+		Betanken: 1 Kraftstoffkanister (falls im Inventar) oder 45.000 RU. Kraftstoff hat Vorrang. Die Ladung wird bei der Rückkehr zur Unterkunft verbraucht.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>UAV-Aufklärungsdrohne</text>
+  </string>
+</string_table>

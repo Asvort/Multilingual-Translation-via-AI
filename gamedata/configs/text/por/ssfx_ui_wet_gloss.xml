@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_gloss_title">
+    <text>Brilho - Configurações</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm">
+    <text>Porcentagem do brilho automático</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm_desc">
+    <text>Controla o brilho máximo com umidade total. ( 0 = 0% | 1 = 100% )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm">
+    <text>Brilho automático</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm_desc">
+    <text>Ativa ou desativa o ajuste automático do brilho conforme a umidade. Para definir um valor fixo, desative esta opção e use “Brilho mínimo”.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm">
+    <text>Brilho máximo</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm_desc">
+    <text>Com o brilho automático ativado, este será o brilho máximo quando a umidade chegar a 100%.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm">
+    <text>Brilho mínimo</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm_desc">
+    <text>Valor base do brilho. Se o brilho automático estiver desativado, este valor determinará o brilho.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm">
+    <text>Cor especular</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm_desc">
+    <text>Porcentagem da cor especular. ( 0 = 0% | 1 = 100% )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm">
+    <text>Intensidade especular</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm_desc">
+    <text>Define a intensidade da iluminação especular.</text>
+  </string>
+</string_table>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Ative ou desative individualmente os recursos do UAV no PDA.
+		\n \nCada recurso só funciona depois que o UAV é comprado e reabastecido antes de uma incursão; aqui você pode ocultar os que não quiser. As alterações são aplicadas na hora, sem precisar iniciar um novo jogo.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Os recursos só funcionam depois que o UAV é comprado e reabastecido antes de uma incursão.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Destaque de campos com artefatos</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Os círculos dos campos anômalos no mapa ficam cianos quando há um artefato dentro.
+		\n \nDesative se não quiser destacar os campos.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Marcadores de esconderijos</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Destaque no mapa do PDA os esconderijos conhecidos e seu conteúdo enquanto o UAV estiver carregado.
+		\n \nDesative se usar o UAV apenas para buscar artefatos.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Alertas de roubo de artefatos</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>O UAV envia uma mensagem ao PDA quando um NPC próximo pega um artefato: facção, armadura e direção (sem nome).
+		\n \nDesative se não quiser receber esses alertas.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]Drone de reconhecimento UAV</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]Drone de reconhecimento UAV</text>
+  </string>
+</string_table>

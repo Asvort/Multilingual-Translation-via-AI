@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Включение и отключение функций БПЛА на КПК по отдельности.
+		\n \nВсе функции всё равно работают только после покупки БПЛА и заправки перед рейдом — здесь можно лишь скрыть то, что не нравится. Изменения применяются сразу, новой игры не требуется.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Функции работают только после покупки БПЛА и заправки перед рейдом.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Подсветка полей с артефактами</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Круги аномальных полей на карте загораются голубым, если внутри лежит артефакт.
+		\n \nВыключи, если не хочешь видеть подсветку полей.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Метки тайников</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Подсвечивать известные тайники с содержимым на карте КПК, пока БПЛА заправлен.
+		\n \nВыключи, если пользуешься БПЛА только ради артефактов.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Оповещения о краже артефактов</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>Сообщение от БПЛА на КПК, когда артефакт подбирает NPC поблизости: группировка, броня и направление (без имени).
+		\n \nВыключи, если не хочешь получать эти сообщения.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]БПЛА-разведчик</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]БПЛА-разведчик</text>
+  </string>
+</string_table>

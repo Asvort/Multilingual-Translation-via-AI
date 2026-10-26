@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_bm_already_bought">
+    <text>Satın alındı</text>
+  </string>
+  <string id="st_bm_authority_low">
+    <text>Yeterli otorite yok.</text>
+  </string>
+  <string id="st_bm_authority_required">
+    <text>Otorite: %s</text>
+  </string>
+  <string id="st_bm_delivery_arrived">
+    <text>Teslim edilen sipariş: %d. Depodan al.</text>
+  </string>
+  <string id="st_bm_delivery_comment_1">
+    <text>Kaybetme. Bir tane daha bulamayız.</text>
+  </string>
+  <string id="st_bm_delivery_comment_2">
+    <text>Çalışıyor. Canlı hedefte denendi.</text>
+  </string>
+  <string id="st_bm_delivery_comment_3">
+    <text>Her şey gizli. Sen onu görmedin, biz de seni tanımıyoruz.</text>
+  </string>
+  <string id="st_bm_delivery_comment_4">
+    <text>Bu kadar para verdin, bari eğil.</text>
+  </string>
+  <string id="st_bm_delivery_comment_5">
+    <text>İz yok. Kendi kendine ortaya çıktığını varsay.</text>
+  </string>
+  <string id="st_bm_delivery_comment_6">
+    <text>Teşekkür etme. En iyisi parayla geri gel.</text>
+  </string>
+  <string id="st_bm_delivery_elapsed">
+    <text>Bekleme süresi: %d sa</text>
+  </string>
+  <string id="st_bm_delivery_item">
+    <text>Ürün: %s</text>
+  </string>
+  <string id="st_bm_delivery_item_short">
+    <text>- %s (%d sa)</text>
+  </string>
+  <string id="st_bm_delivery_label">
+    <text>Teslimat: %d sa</text>
+  </string>
+  <string id="st_bm_delivery_ready_hdr">
+    <text>NaData -- sipariş hazır</text>
+  </string>
+  <string id="st_bm_delivery_ready_hdr_multi">
+    <text>NaData -- hazır sipariş: %d</text>
+  </string>
+  <string id="st_bm_exchange_btn">
+    <text>Takas et (+%d %s)</text>
+  </string>
+  <string id="st_bm_exchanged">
+    <text>Takas: +%d %s</text>
+  </string>
+  <string id="st_bm_flash_sale_label">
+    <text>İndirim | %d sa kaldı</text>
+  </string>
+  <string id="st_bm_flash_sale_notify">
+    <text>NaData \nİndirim. %s, %d sa boyunca mevcut. Acele et.</text>
+  </string>
+  <string id="st_bm_greet_1">
+    <text>Ne istiyorsun? Vitrin önünde, oyalanma.</text>
+  </string>
+  <string id="st_bm_greet_2">
+    <text>Yine sen. Bu sefer paran var mı?</text>
+  </string>
+  <string id="st_bm_greet_3">
+    <text>Gel. Ama geçen seferki gibi aptallık etme.</text>
+  </string>
+  <string id="st_bm_greet_4">
+    <text>Selam gezgin. İş için mi geldin, yoksa öylesine mi?</text>
+  </string>
+  <string id="st_bm_greet_5">
+    <text>Uzun zamandır görüşmedik. Nasılsın?</text>
+  </string>
+  <string id="st_bm_greet_6">
+    <text>Selam. Bugün neler geldi, bir bak.</text>
+  </string>
+  <string id="st_bm_greet_7">
+    <text>Geldin. Güzel. Sonra konuşacağımız bir konu var.</text>
+  </string>
+  <string id="st_bm_greet_8">
+    <text>Tam seni bekliyorduk. Senin için ayırdıklarımıza bak.</text>
+  </string>
+  <string id="st_bm_greet_9">
+    <text>Reis geldi. Vitrin senin; ne istersen al.</text>
+  </string>
+  <string id="st_bm_lvl_1">
+    <text>yabancı</text>
+  </string>
+  <string id="st_bm_lvl_2">
+    <text>ayakçı</text>
+  </string>
+  <string id="st_bm_lvl_3">
+    <text>koşucu</text>
+  </string>
+  <string id="st_bm_lvl_4">
+    <text>güvenilir</text>
+  </string>
+  <string id="st_bm_lvl_5">
+    <text>müşteri</text>
+  </string>
+  <string id="st_bm_lvl_6">
+    <text>bizden biri</text>
+  </string>
+  <string id="st_bm_lvl_7">
+    <text>suç ortağı</text>
+  </string>
+  <string id="st_bm_lvl_8">
+    <text>gölge adam</text>
+  </string>
+  <string id="st_bm_lvl_9">
+    <text>otorite</text>
+  </string>
+  <string id="st_bm_misc_barrier_device_src">
+    <text>Kaynağı bilinmeyen bariyer cihazı</text>
+  </string>
+  <string id="st_bm_misc_bread_rosary_src">
+    <text>Bir anomalide kutsanmış ekmek tespihi</text>
+  </string>
+  <string id="st_bm_misc_camera_lens_src">
+    <text>Pahalı bir kameranın objektifi, neredeyse sağlam</text>
+  </string>
+  <string id="st_bm_misc_cassette_src">
+    <text>Hurda arasında bulunan kayıtlı eski kaset</text>
+  </string>
+  <string id="st_bm_misc_chimera_statuette_src">
+    <text>Ayrıntılı gümüş kimera heykelciği</text>
+  </string>
+  <string id="st_bm_misc_lab_disc_src">
+    <text>Gizli laboratuvar verileri içeren disk</text>
+  </string>
+  <string id="st_bm_misc_medal_src">
+    <text>Üzerinde işlemeli yazı olan savaş madalyası, başkasının hikayesi</text>
+  </string>
+  <string id="st_bm_misc_nato_battery_src">
+    <text>NATO standardında akü, nadir bulunur</text>
+  </string>
+  <string id="st_bm_misc_religious_icon_src">
+    <text>Folyoya sarılmış eski ikon</text>
+  </string>
+  <string id="st_bm_misc_walkman_src">
+    <text>Bölgede mucizevi biçimde hâlâ çalışan taşınabilir çalar</text>
+  </string>
+  <string id="st_bm_no_money">
+    <text>Yeterli paran yok.</text>
+  </string>
+  <string id="st_bm_order_btn">
+    <text>SİPARİŞ VER</text>
+  </string>
+  <string id="st_bm_order_pending">
+    <text>Teslimatta: yaklaşık %d sa kaldı</text>
+  </string>
+  <string id="st_bm_order_placed">
+    <text>Sipariş verildi. Teslimat süresi: %d sa.</text>
+  </string>
+  <string id="st_bm_order_ready">
+    <text>Sipariş hazır</text>
+  </string>
+  <string id="st_bm_picked_up">
+    <text>Sipariş alındı.</text>
+  </string>
+  <string id="st_bm_pickup_btn">
+    <text>TESLİM AL</text>
+  </string>
+  <string id="st_bm_price_decay_label">
+    <text>-%d%% (fiyat düşürüldü)</text>
+  </string>
+  <string id="st_bm_purchased">
+    <text>Ürün satın alındı. -%d %s</text>
+  </string>
+  <string id="st_bm_quest_label">
+    <text>Özel sipariş, %d sa</text>
+  </string>
+  <string id="st_bm_rank_low">
+    <text>Düşük rütbe</text>
+  </string>
+  <string id="st_bm_rotation_next">
+    <text>Yenilenmesine: %d sa</text>
+  </string>
+  <string id="st_bm_rotation_notify_1">
+    <text>NaData \nStok yenilendi. Tükenmeden uğra.</text>
+  </string>
+  <string id="st_bm_rotation_notify_2">
+    <text>NaData \nİlginç birkaç şey geldi. Uzun süre kalmaz.</text>
+  </string>
+  <string id="st_bm_rotation_notify_3">
+    <text>NaData \nVitrinde yeni ürünler var. Ağırdan alma, tükenir.</text>
+  </string>
+  <string id="st_bm_rotation_notify_4">
+    <text>NaData \nStok yenilendi. Paran varsa nereye gideceğini biliyorsun.</text>
+  </string>
+  <string id="st_bm_rotation_notify_5">
+    <text>NaData \nYeni sevkiyat. Belki işine yarar, bir göz at.</text>
+  </string>
+  <string id="st_bm_rotation_notify_6">
+    <text>NaData \nEskiler tükendi. Yeni gelenlere kendin bak.</text>
+  </string>
+  <string id="st_bm_rotation_notify_7">
+    <text>NaData \nBirkaç şey geldi. Sonra kimse haber vermedi deme.</text>
+  </string>
+  <string id="st_bm_rotation_notify_8">
+    <text>NaData \nVitrin yenilendi. Geç gelirsen kusura bakma.</text>
+  </string>
+  <string id="st_bm_sell_btn_eur">
+    <text>Sat (%d EUR)</text>
+  </string>
+  <string id="st_bm_sell_btn_usd">
+    <text>Sat (%d USD)</text>
+  </string>
+  <string id="st_bm_sell_no_items">
+    <text>Envanterinde satılabilecek hiçbir şey yok.</text>
+  </string>
+  <string id="st_bm_sold">
+    <text>Satıldı: +%d %s</text>
+  </string>
+  <string id="st_bm_src_01">
+    <text>Terk edilmiş sığınakta bir cesetten alındı</text>
+  </string>
+  <string id="st_bm_src_02">
+    <text>Karanlık Vadi sınırından kaçak getirildi</text>
+  </string>
+  <string id="st_bm_src_03">
+    <text>Pripyattaki bir bodrumdan arşiv</text>
+  </string>
+  <string id="st_bm_src_04">
+    <text>Hizmet dışı bırakılan stoktan çıkarıldı</text>
+  </string>
+  <string id="st_bm_src_05">
+    <text>Karanlık Vadide ÇKP çetesinden ele geçirildi</text>
+  </string>
+  <string id="st_bm_src_06">
+    <text>Bir bodrumda ganimetlerin arasında bulundu</text>
+  </string>
+  <string id="st_bm_src_07">
+    <text>Baltık üssüne giden yolda ele geçirildi</text>
+  </string>
+  <string id="st_bm_src_08">
+    <text>Arızalı bulundu, özel olarak tamir edildi</text>
+  </string>
+  <string id="st_bm_src_09">
+    <text>Bir kez satıldı, birçok kez el değiştirdi</text>
+  </string>
+  <string id="st_bm_src_10">
+    <text>Çöplük yakınında bir stalkerden alındı</text>
+  </string>
+  <string id="st_bm_src_11">
+    <text>Bir ISG grubundan sessizce satın alındı</text>
+  </string>
+  <string id="st_bm_src_12">
+    <text>Limanskta zorlu şekilde ele geçirildi</text>
+  </string>
+  <string id="st_bm_src_13">
+    <text>Asker personel listesi</text>
+  </string>
+  <string id="st_bm_src_14">
+    <text>Kaçakçıların yükü ele geçirildi</text>
+  </string>
+  <string id="st_bm_src_15">
+    <text>Bize asla soru sorma</text>
+  </string>
+  <string id="st_bm_src_16">
+    <text>Sadece sakladım. Soru sorma.</text>
+  </string>
+  <string id="st_bm_temp_unavail">
+    <text>Geçici olarak kullanılamıyor</text>
+  </string>
+  <string id="st_bm_uniq_ammo_gauss_descr">
+    <text>Elektromanyetik tüfek için mühimmat. Çok nadir. Nerede bulduğumuzu biz de bilmiyoruz. Varken al.</text>
+  </string>
+  <string id="st_bm_uniq_ammo_gauss_name">
+    <text>Gauss mermisi (5 adet)</text>
+  </string>
+  <string id="st_bm_uniq_card_agr_descr">
+    <text>Agroprom yeraltı tünelleri için manyetik geçiş kartı. Eski sahibi artık geri dönemeyecek.</text>
+  </string>
+  <string id="st_bm_uniq_card_agr_name">
+    <text>Erişim kartı: AGROPROM</text>
+  </string>
+  <string id="st_bm_uniq_card_jup_descr">
+    <text>Jüpiter yeraltına giriş kartı. Dışarı çıkaranlar ücreti eşit paylaştı ve bir daha dönmedi.</text>
+  </string>
+  <string id="st_bm_uniq_card_jup_name">
+    <text>Erişim kartı: Jüpiter</text>
+  </string>
+  <string id="st_bm_uniq_card_x18_descr">
+    <text>X-18 laboratuvarının elektronik anahtarı. Karanlık Vadiden çıkarıldı; bedelini sorma.</text>
+  </string>
+  <string id="st_bm_uniq_card_x18_name">
+    <text>Erişim kartı: X-18</text>
+  </string>
+  <string id="st_bm_uniq_exo_csky_descr">
+    <text>Clear Sky dış iskeleti Bölgedeki en eskilerden biridir. Fabrika durumuna döndürüldü.</text>
+  </string>
+  <string id="st_bm_uniq_exo_csky_name">
+    <text>Clear Sky dış iskeleti CH-5</text>
+  </string>
+  <string id="st_bm_uniq_exo_greh_descr">
+    <text>Günah işaretli dış iskelet; ağır, zırhlı ve tavizsiz. Mermiler de vicdan da ona işlemez.</text>
+  </string>
+  <string id="st_bm_uniq_exo_greh_name">
+    <text>Günah dış iskeleti</text>
+  </string>
+  <string id="st_bm_uniq_exo_isg_descr">
+    <text>ISG yapımı savaş dış iskeleti. Tüm kanalların dışından elimize geçti; herkes taşıyamaz.</text>
+  </string>
+  <string id="st_bm_uniq_exo_isg_name">
+    <text>ISG dış iskeleti</text>
+  </string>
+  <string id="st_bm_uniq_gauss_descr">
+    <text>Deneysel elektromanyetik tüfek. Mühimmatı ayrı bir mesele.</text>
+  </string>
+  <string id="st_bm_uniq_gauss_name">
+    <text>Gauss tüfeği</text>
+  </string>
+  <string id="st_bm_uniq_hyena_descr">
+    <text>Sahibini bekliyormuş gibi burada duruyor. Ürün için teşekkürler.</text>
+  </string>
+  <string id="st_bm_uniq_hyena_name">
+    <text>Sırtlan</text>
+  </string>
+  <string id="st_bm_uniq_kar98_hunter_descr">
+    <text>Orman Bekçisinin işi: March Japon optikli yenilenmiş Mauser. Kızıl Ormandaki izinsiz girenleri avlamak içinmiş.</text>
+  </string>
+  <string id="st_bm_uniq_kar98_hunter_name">
+    <text>Mauser Kar98 Retrotac</text>
+  </string>
+  <string id="st_bm_uniq_karatysh_descr">
+    <text>Zenit eklentili kısaltılmış PKM. Tüfek boyutlarında makineli tüfek gücü.</text>
+  </string>
+  <string id="st_bm_uniq_karatysh_name">
+    <text>PKM Karatysh</text>
+  </string>
+  <string id="st_bm_uniq_m24_green_descr">
+    <text>Yeşil kamuflajlı askeri keskin nişancı tüfeği. Eski sahibi mesleğini sonsuza dek değiştirdi.</text>
+  </string>
+  <string id="st_bm_uniq_m24_green_name">
+    <text>Yeşil kamuflajlı M24</text>
+  </string>
+  <string id="st_bm_uniq_m82_descr">
+    <text>Büyük kalibreli yarı otomatik tüfek. Bölgede karşına çıkan her şeyi deler. Nereden geldiğini sorma.</text>
+  </string>
+  <string id="st_bm_uniq_m82_name">
+    <text>Barrett M82</text>
+  </string>
+  <string id="st_bm_uniq_m98b_descr">
+    <text>Uzun menzilli kullanım için yüksek hassasiyetli .338 Lapua sürgülü tüfek. Dürbün dahil değildir.</text>
+  </string>
+  <string id="st_bm_uniq_m98b_name">
+    <text>Barrett M98B</text>
+  </string>
+  <string id="st_bm_uniq_nosorog_monolit_descr">
+    <text>Monolit işaretli Nosorog. İnanan ama artık inanmayanlardan alındı. Teslimat bize üç adama mal oldu.</text>
+  </string>
+  <string id="st_bm_uniq_nosorog_monolit_name">
+    <text>Monolit zırhı</text>
+  </string>
+  <string id="st_bm_uniq_rd47_descr">
+    <text>ISG eklentili, Rifle Dynamics yapımı özel AKM. Kordonda bir teçhizat sevkiyatıyla birlikte ele geçirildi.</text>
+  </string>
+  <string id="st_bm_uniq_rd47_name">
+    <text>RD47 AKM (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rd74m_isg_descr">
+    <text>Kısaltılmış modelle aynı partiden tam boy ISG saldırı tüfeği. İkmal rotasında ele geçirildi.</text>
+  </string>
+  <string id="st_bm_uniq_rd74m_isg_name">
+    <text>AK-74M Kırağı (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rd74u_isg_descr">
+    <text>ISG muharebe birliğinden kısaltılmış tüfek. Seri numarası silinmiş; gereksiz soru sorma.</text>
+  </string>
+  <string id="st_bm_uniq_rd74u_isg_name">
+    <text>AKS-74U Kırağı (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rd9x39_isg_descr">
+    <text>ISG güçlendirilmiş fişeğine uyarlanmış Vintorez. Serbest piyasada olmamalı; bu yüzden burada.</text>
+  </string>
+  <string id="st_bm_uniq_rd9x39_isg_name">
+    <text>Vintorez 9x39 (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rsh12_descr">
+    <text>Kapalı alanlardaki özel operasyonlar için TsKIB tarafından geliştirilen 12,7 mm saldırı revolveri. Limanskte bir ajandan alındı.</text>
+  </string>
+  <string id="st_bm_uniq_rsh12_name">
+    <text>RSh-12</text>
+  </string>
+  <string id="st_bm_uniq_saiga_isg_descr">
+    <text>ISG eklentili taktik Saiga. Ülkeden çıkması gereken ama çıkmayan bir sevkiyatla geldi.</text>
+  </string>
+  <string id="st_bm_uniq_saiga_isg_name">
+    <text>Saiga-12 Taktik (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_shak12_descr">
+    <text>Duvarların korumadığı binalarda çatışma için 12.7x55 saldırı sistemi. Vykhlop ile aynı partiden.</text>
+  </string>
+  <string id="st_bm_uniq_shak12_name">
+    <text>ShAK-12</text>
+  </string>
+  <string id="st_bm_uniq_vintorez_merk_descr">
+    <text>Paralı asker Vintorezi: daha hafif ve ergonomik. Önceki sahibi sözleşmesini tamamlayamadı.</text>
+  </string>
+  <string id="st_bm_uniq_vintorez_merk_name">
+    <text>VSS Merk</text>
+  </string>
+  <string id="st_bm_uniq_vss_savant_descr">
+    <text>Geliştirilmiş susturuculu modern Vintorez. Eski sahibi atölyeden teslim almaya ömrü yetmedi.</text>
+  </string>
+  <string id="st_bm_uniq_vss_savant_name">
+    <text>VSS Vintorez M1</text>
+  </string>
+  <string id="st_bm_uniq_vssk_descr">
+    <text>12,7 mm büyük kalibreli susturulmuş keskin nişancı tüfeği; bazı Vintorezlerden daha sessiz. Artık korunmayan bir cephanelikten.</text>
+  </string>
+  <string id="st_bm_uniq_vssk_name">
+    <text>VSSK Vykhlop</text>
+  </string>
+  <string id="st_raid_bm_balance_label">
+    <text>Bakiye</text>
+  </string>
+  <string id="st_raid_bm_buy_btn">
+    <text>SATIN AL</text>
+  </string>
+  <string id="st_raid_bm_disclaimer">
+    <text>Yönetim işlemlerin sonuçlarından sorumlu değildir. İade yoktur. İyi avlar, stalker.</text>
+  </string>
+  <string id="st_raid_bm_empty">
+    <text>Bu sekmede henüz ürün yok. Daha sonra gel.</text>
+  </string>
+  <string id="st_raid_bm_empty_sell">
+    <text>Envanterde satılacak eşya yok.</text>
+  </string>
+  <string id="st_raid_bm_entry_label">
+    <text>Kara Pazar</text>
+  </string>
+  <string id="st_raid_bm_id">
+    <text>ID</text>
+  </string>
+  <string id="st_raid_bm_id_value">
+    <text>ST-7742</text>
+  </string>
+  <string id="st_raid_bm_kind_armor">
+    <text>Zırh</text>
+  </string>
+  <string id="st_raid_bm_kind_misc">
+    <text>Ürün</text>
+  </string>
+  <string id="st_raid_bm_kind_weapon">
+    <text>Silah</text>
+  </string>
+  <string id="st_raid_bm_lot_prefix">
+    <text>ÜRÜN #</text>
+  </string>
+  <string id="st_raid_bm_next_update">
+    <text>Sonraki ürün yenilemesine: %s</text>
+  </string>
+  <string id="st_raid_bm_rank_label">
+    <text>Rütbe</text>
+  </string>
+  <string id="st_raid_bm_rank_req_short">
+    <text>Rütbe</text>
+  </string>
+  <string id="st_raid_bm_rank_required">
+    <text>Rütbe: %s</text>
+  </string>
+  <string id="st_raid_bm_reserve_label">
+    <text>Rezerv</text>
+  </string>
+  <string id="st_raid_bm_slot_prefix">
+    <text>SLOT_</text>
+  </string>
+  <string id="st_raid_bm_source">
+    <text>Kaynak</text>
+  </string>
+  <string id="st_raid_bm_status_low_rank">
+    <text>Düşük rütbe</text>
+  </string>
+  <string id="st_raid_bm_status_no_money">
+    <text>Yeterli paran yok</text>
+  </string>
+  <string id="st_raid_bm_status_owned">
+    <text>Zaten satın alındı</text>
+  </string>
+  <string id="st_raid_bm_subtitle">
+    <text>Kapalı pazar. Kodu bilen koordinatları da bilir.</text>
+  </string>
+  <string id="st_raid_bm_terminal_subtitle">
+    <text>OBJECT 0-21 :: BLACK_MARKET_V2</text>
+  </string>
+  <string id="st_raid_bm_terminal_title">
+    <text>BLACK_MARKET // ZONE_SECTOR_C</text>
+  </string>
+  <string id="st_raid_bm_title">
+    <text>PAZAR</text>
+  </string>
+  <string id="st_raid_bm_title_bot">
+    <text>PAZAR</text>
+  </string>
+  <string id="st_raid_bm_title_full">
+    <text>Kara Pazar</text>
+  </string>
+  <string id="st_raid_bm_title_top">
+    <text>KARA</text>
+  </string>
+  <string id="st_raid_bm_update_static">
+    <text>Sonraki ürün yenilemesine: 41:12:05</text>
+  </string>
+  <string id="st_raid_bm_wear">
+    <text>Yıpranma</text>
+  </string>
+  <string id="st_raid_rank_experienced">
+    <text>deneyimli</text>
+  </string>
+  <string id="st_raid_rank_expert">
+    <text>uzman</text>
+  </string>
+  <string id="st_raid_rank_legend">
+    <text>efsane</text>
+  </string>
+  <string id="st_raid_rank_master">
+    <text>usta</text>
+  </string>
+  <string id="st_raid_rank_novice">
+    <text>acemi</text>
+  </string>
+  <string id="st_raid_rank_professional">
+    <text>profesyonel</text>
+  </string>
+  <string id="st_raid_rank_trainee">
+    <text>stajyer</text>
+  </string>
+  <string id="st_raid_rank_veteran">
+    <text>gazi</text>
+  </string>
+</string_table>

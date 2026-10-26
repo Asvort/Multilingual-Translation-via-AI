@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Inclinaison de l’arme près d’un abri</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Inertie de l’animation</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Plus la valeur est faible, plus l’animation est rapide.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Facteur de poids</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Plus la valeur est élevée, plus le poids de l’arme influe sur la vitesse de l’animation.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Tenir compte du silencieux pour le rayon</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Avec un silencieux installé, le rayon de déclenchement augmente d’environ 0,1 m.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Activer l’inclinaison manuelle</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Touche d’inclinaison manuelle</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>Décalage de l’arme sur X</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — à gauche. &gt; 0 — à droite</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Décalage de l’arme sur Y</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — vers le bas. &gt; 0 — vers le haut</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Décalage de l’arme sur Z</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — vers l’arrière. &gt; 0 — vers l’avant</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Variation du roulis de l’arme</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Lorsque l’arme est levée, elle s’incline d’un nombre de degrés aléatoire pour varier l’animation.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Cliquetis lors de l’inclinaison</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Inclinaison de l’arme près d’un abri</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Rayon de déclenchement (m)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Modificateur de longueur de l’arme</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Modifie la dépendance du rayon de déclenchement à la longueur de l’arme. Plus la valeur est élevée, plus l’écart entre armes courtes et longues est important.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>Utiliser les dimensions du modèle HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>Déboguer les dimensions du modèle HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Lorsqu’elle est activée, l’inclinaison dépend des dimensions réelles du modèle HUD. WCT effectue un raycast depuis l’os fire_bone et le décalage fire_point dans la direction du tir. EXE MODIFIÉS &gt;= 2025.04.22 REQUIS. Si la nouvelle méthode est indisponible, la méthode standard est utilisée.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Variation du lacet de l’arme</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Lorsque l’arme est levée, elle pivote horizontalement d’un nombre de degrés aléatoire pour varier l’animation.</text>
+  </string>
+</string_table>

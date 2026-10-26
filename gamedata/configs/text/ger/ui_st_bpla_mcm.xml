@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Aktiviere oder deaktiviere die PDA-Funktionen der UAV einzeln.
+		\n \nAlle Funktionen arbeiten erst, nachdem die UAV gekauft und vor einem Einsatz betankt wurde; hier kannst du unerwünschte Funktionen ausblenden. Änderungen werden sofort übernommen, ein neues Spiel ist nicht nötig.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Die Funktionen arbeiten erst, nachdem die UAV gekauft und vor einem Einsatz betankt wurde.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Artefaktfelder hervorheben</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Die Kreise von Anomaliefeldern auf der Karte werden cyan, wenn sich ein Artefakt darin befindet.
+		\n \nDeaktiviere diese Option, wenn du keine Feldhervorhebung möchtest.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Versteckmarkierungen</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Markiert bekannte Verstecke samt Inhalt auf der PDA-Karte, solange die UAV geladen ist.
+		\n \nDeaktiviere diese Option, wenn du die UAV nur für Artefakte verwendest.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Warnungen vor Artefaktdiebstahl</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>Hebt ein NPC in der Nähe ein Artefakt auf, sendet die UAV eine PDA-Nachricht mit Fraktion, Rüstung und Richtung (ohne Namen).
+		\n \nDeaktiviere diese Option, wenn du solche Warnungen nicht möchtest.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]UAV-Aufklärungsdrohne</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]UAV-Aufklärungsdrohne</text>
+  </string>
+</string_table>

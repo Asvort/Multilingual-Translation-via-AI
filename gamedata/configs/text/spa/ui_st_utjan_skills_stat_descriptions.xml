@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_player_skills_hint_bartering">
+    <text>Mejora los precios al comerciar.\n \nComprar y vender objetos da experiencia.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_insanity">
+    <text>Pierdes la cordura, pero obtienes regeneración y resistencia psi.\nTocar un instrumento duplica la regeneración.\n \nEl daño psi y tocar en combate dan experiencia.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_lockpicking">
+    <text>Reduce la dificultad al forzar contenedores cerrados.\n \nAbrir contenedores da experiencia.\n(La Llave Maestra no da experiencia.)\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_magloading">
+    <text>Aumenta la velocidad al cargar y descargar cargadores.\n \nEstas acciones dan experiencia.\nEl nivel máximo depende de Fuerza y Resistencia.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_medicine">
+    <text>Mejora temporalmente la recuperación de salud y la eliminación de radiación según el medicamento.\n \nUsarlo da experiencia.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_reloading">
+    <text>Aumenta la velocidad de recarga y desenfunde.\n \nEl uso normal de armas da experiencia.\nEl nivel máximo depende de Resistencia y Supervivencia.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_tinkering">
+    <text>Aumenta la probabilidad de no gastar un objeto de reparación al arreglar equipo.\n \nReparar equipo con herramientas de reparación da experiencia.\n \n</text>
+  </string>
+  <string id="st_skills_stats_discount_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Descuento del comerciante: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_discount_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Descuento del comerciante: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Velocidad al desenfundar: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Velocidad al desenfundar: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Velocidad de carga del cargador: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Velocidad de carga del cargador: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Dificultad al forzar cerraduras: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Dificultad al forzar cerraduras: %c[d_green]-$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Resistencia psi: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Resistencia psi: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_regen_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Regeneración psi: %c[d_green]$stat% / s</text>
+  </string>
+  <string id="st_skills_stats_refund_chance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Probabilidad de conservar el objeto de reparación: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Velocidad de recarga: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Velocidad de recarga: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Bonificación de recuperación: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Bonificación de recuperación: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Valor de venta: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Valor de venta: %c[d_green]+$stat%</text>
+  </string>
+</string_table>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="article_wpo">
+    <text>Silah bakımı</text>
+  </string>
+  <string id="article_wpo_text">
+    <text>
+			%c[pda_green]Sorular ve yanıtlar%c[ui_gray_1]\n \n
+			\n1. Silahım %100 durumdayken neden tutukluk yapıyor?\nC. Muhtemelen silahın bazı parçaları hasarlıdır. Durumlarını kontrol edin.\n2. Silahın tutukluğu nasıl giderilir?\nC. Kullanma tuşuna (varsayılan F) iki kez basın. Ya da envanterdeki silaha sağ tıklayıp “Tutukluğu gider” seçeneğini seçin.\n3. Parçaları değiştirince silahın durumu neden düşüyor?\nC. Silahı yeniden yağlamanız gerekir. Parça değişimi silahın durumunu %60'ın altına düşürmez. Kaybı azaltmak için Leatherman çok amaçlı aletini, tamamen önlemek için tezgâhı kullanın.\n4. Teknisyenler silah parçalarını neden onarmıyor?\nC. Parçaları kendiniz ayrı ayrı onarmalısınız. Teknisyenlerden parça satın alabilir veya silah onarım kitleri kullanabilirsiniz. Weapon Part Overhaul modunun temel amacı budur. \n \nWeapon Part Overhaul, Anomaly'deki bakım sistemini baştan aşağı değiştirir. Sistemi anlamak için bu kılavuzu dikkatle okuyun.\n \n
+			
+			%c[pda_green]I. Silah parçaları ve bakımı%c[ui_gray_1]\n
+			\n• Silahın genel durumunu (alışık olduğunuz durum çubuğunu) korumak artık daha kolay. Teknisyenler bunu %60 daha ucuza yeniler. Silah onarım eşyalarının tümü çok daha etkilidir.\n• Silah parçalarının bakıma ihtiyacı vardır. Durumunu görmek için imleci parçanın üzerine getirin.\n   ? Metin rengi genel durumu belirtir.\n%c[d_red]   ?  Eksik\n%c[d_orange]   ?  Hasarlı ve bakım yapılamaz\n%c[pda_yellow]   ? Kirli ve temizlenebilir%c[ui_gray_1]			
+			\n• Silahı sökerek parçalarını çıkarabilirsiniz. Namlu dışındaki tüm parçalar alınır.\n• Parçalar sürüklenip bırakılarak değiştirilebilir. %c[d_red]DİKKAT: SİLAHIN DURUMU %60'IN ÜZERİNDEYSE BU DEĞERİ DÜŞÜRÜR. Parça değişimindeki kaybı azaltmak için yanınızda Leatherman çok amaçlı aleti taşıyın. %c[ui_gray_1] 
+			\n• Gerekli onarım kitine sahipseniz parçaları tezgahta ücretsiz de değiştirebilirsiniz. %c[pda_yellow]Bu, namluyu değiştirmenin iki yolundan biridir.\n \n
+			%c[pda_green]II. Silah parçalarının hasarı ve tutukluklar%c[ui_gray_1]\n
+			\n• Parçaların 5 hasar seviyesi vardır: %c[d_red]kırık%c[ui_gray_1], %c[d_red]hasarlı%c[ui_gray_1], %c[d_orange]yıpranmış%c[ui_gray_1], %c[0,250,250,0]kirli%c[ui_gray_1], %c[d_green]işlevsel%c[ui_gray_1]
+			\n• Bir parça ne kadar hasarlıysa bozulma olasılığı o kadar yüksektir.\n• Üç tür arıza vardır: ateş almama, tutukluk ve ağır tutukluk.\n• Ateş almama ve tutukluk, normal tutukluk giderme işlemiyle düzeltilebilir.\n• Ağır tutukluğu gidermeden önce şarjörü silahtan çıkarın.\n• Namlu tutukluk olasılığını artırmaz. Ancak kir veya düşük durum, silah hasarını %50'ye kadar azaltabilir.\n• Durumu %85'in altında olan bir silahla ateş etmek (bu değer %c[pda_yellow]MCM: Parça hasarı için durum eşiği%c[ui_gray_1]) silahın durumuna zarar verebilir. \n• Şiddetli yağmurda ateş etmek silahı çok daha hızlı yıpratır.\n• Uzun atış serileri silahı aşırı ısıtır; bu da tutukluğa ve daha hızlı yıpranmaya yol açar.%c[pda_green]III. Ekonomi değişiklikleri%c[ui_gray_1]\n
+			\n• Temizleme kiti, silahın “kirli” parçalarını temizler (durumları %60'ın üzerindeyse).\n• Onarım kiti, durumu en kötü olan parçayı değiştirir.%c[pda_yellow]Bu, namluyu değiştirmenin başka bir yoludur.%c[ui_gray_1]
+			\n• Teknisyenler bazen silah parçalarını yüksek fiyat farkıyla satar.\n• Durumu %60'ın üzerindeki parçalar eğe, harbi veya çok amaçlı aletle onarılabilir.\n• Durumu %10'un üzerindeki parçalar, tüccarlarda satılan çok pahalı kitlerle onarılabilir.\n \nDiğer sorularınız için Discord'da arti#3278'e yazın (elbette İngilizce). ModDB yorumlarını okuyamayacak kadar tembelim.</text>
+  </string>
+  <string id="kb_unjam">
+    <text>Tutukluğu gider</text>
+  </string>
+  <string id="st_clean_half">
+    <text>durum şu değerin altındaysa etkililik yarıya düşer: </text>
+  </string>
+  <string id="st_damage_0">
+    <text>kırık:</text>
+  </string>
+  <string id="st_damage_1">
+    <text>hasarlı:</text>
+  </string>
+  <string id="st_damage_2">
+    <text>yıpranmış:</text>
+  </string>
+  <string id="st_damage_3">
+    <text>kirli:</text>
+  </string>
+  <string id="st_damage_4">
+    <text>işlevsel:</text>
+  </string>
+  <string id="st_damage_5">
+    <text>çalışır durumda:</text>
+  </string>
+  <string id="st_damage_missing">
+    <text>eksik:</text>
+  </string>
+  <string id="st_field_strip_fail">
+    <text>Bu silahtan çıkarılacak başka bir şey kalmadı.</text>
+  </string>
+  <string id="st_name_all">
+    <text>tümü</text>
+  </string>
+  <string id="st_name_barrel">
+    <text>namlu</text>
+  </string>
+  <string id="st_name_bolt">
+    <text>ateşleme iğnesi</text>
+  </string>
+  <string id="st_name_bolt_carrier">
+    <text>mekanizma taşıyıcısı</text>
+  </string>
+  <string id="st_name_chock">
+    <text>şok</text>
+  </string>
+  <string id="st_name_ejector">
+    <text>kovan fırlatıcı</text>
+  </string>
+  <string id="st_name_extractor">
+    <text>boş kovan çıkarıcı</text>
+  </string>
+  <string id="st_name_gas_tube">
+    <text>gaz bloğu</text>
+  </string>
+  <string id="st_name_hammers">
+    <text>horoz</text>
+  </string>
+  <string id="st_name_issues">
+    <text>DURUM:</text>
+  </string>
+  <string id="st_name_pump">
+    <text>pompalı mekanizma</text>
+  </string>
+  <string id="st_name_spring">
+    <text>geri tepme mekanizması</text>
+  </string>
+  <string id="st_name_trigger">
+    <text>tetik mekanizması</text>
+  </string>
+  <string id="st_news_cleaned">
+    <text>Temizlenen parçalar:</text>
+  </string>
+  <string id="st_news_fieldstrip">
+    <text>Çıkarılan parçalar:</text>
+  </string>
+  <string id="st_news_parts_alreadygood">
+    <text>Bu parçanın değiştirilmesi gerekmiyor.</text>
+  </string>
+  <string id="st_news_parts_barrel">
+    <text>%c[d_red]Namlu sahada değiştirilemez.</text>
+  </string>
+  <string id="st_news_parts_fail">
+    <text>%c[d_red]Silaha zaten daha kaliteli bir parça takılı.</text>
+  </string>
+  <string id="st_news_parts_incompatible">
+    <text>%c[d_red]Bu parça bu silahla uyumlu değil.</text>
+  </string>
+  <string id="st_news_parts_repair_success">
+    <text>Başarıyla onarıldı: </text>
+  </string>
+  <string id="st_news_parts_rusty">
+    <text>%c[d_red]Bu silah sahada sökülemeyecek kadar paslanmış.</text>
+  </string>
+  <string id="st_news_parts_success">
+    <text>%c[d_green]Parça başarıyla değiştirildi.</text>
+  </string>
+  <string id="st_news_parts_trigger">
+    <text>%c[d_red]Tetik mekanizması sahada değiştirilemez.</text>
+  </string>
+  <string id="st_partskit">
+    <text>Silah parçası onarım kiti</text>
+  </string>
+  <string id="st_partskit_descr">
+    <text>Mikro eğeler, soğuk kaynak için metal epoksi, elektroliz banyosu düzeneği, bol miktarda yağlayıcı, benzin damıtıkları ve başka çözücüler içeren yüksek teknolojili bir alet seti. Bu aletler bir Lada motorunu Ferrari'ye çevirebilir; diğer makine parçalarına neler yapabileceklerini düşünün. Yalnızca en harap metal hurdalar bu setle onarılamaz. Bölgede toplaması çok zor olduğundan teknisyenler çok sınırlı miktarda satar.\n\n</text>
+  </string>
+  <string id="st_wpn_service_cost">
+    <text>Servis ücreti:</text>
+  </string>
+  <string id="st_wpn_service_dropdown">
+    <text>Parça bakım menüsü</text>
+  </string>
+  <string id="st_wpn_service_hint">
+    <text>Parça bakımı</text>
+  </string>
+  <string id="st_wpo_repair">
+    <text>durumun %25'ini onar: </text>
+  </string>
+  <string id="ui_mcm_lst_easy">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_eng">
+    <text>İngilizce</text>
+  </string>
+  <string id="ui_mcm_lst_hard">
+    <text>Zor</text>
+  </string>
+  <string id="ui_mcm_lst_no">
+    <text>Görev</text>
+  </string>
+  <string id="ui_mcm_lst_ofc">
+    <text>Özgürlük</text>
+  </string>
+  <string id="ui_mcm_lst_rus">
+    <text>Rusça</text>
+  </string>
+  <string id="ui_mcm_lst_vanilla">
+    <text>Klasik</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_full">
+    <text>Tümü</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_none">
+    <text>Yok</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_yes">
+    <text>Yalnızlar</text>
+  </string>
+  <string id="ui_mcm_menu_wpo">
+    <text>WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpoecon">
+    <text>WPO ekonomisi</text>
+  </string>
+  <string id="ui_mcm_menu_wpojam">
+    <text>WPO tutukluğu</text>
+  </string>
+  <string id="ui_mcm_menu_wpomisc">
+    <text>WPO diğer</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode">
+    <text>Çocuk modu (tutukluk yok)</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode_desc">
+    <text>Niye ki?</text>
+  </string>
+  <string id="ui_mcm_wpo_title">
+    <text>Weapon Parts Overhaul ayarları</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon">
+    <text>Ekonomi ayarları</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll">
+    <text>Parça durumunun ağırlıklı dağılımı</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+    <text>Silah parçalarının ganimet olarak düşmesi için yeni bir formül kullanır. Silahın durumu, parçaların iyi veya kötü durumda çıkacağını belirler. Düşük değerler ganimet kalitesini artırır, yüksek değerler azaltır.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll">
+    <text>Silah durumunun ağırlıklı dağılımı</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll_desc">
+    <text>Dünyadaki silah durumunu Lagrange interpolasyonuna göre dağıtır. Genel ganimet kalitesini düşürür ve toplamayı teşvik eder. Sonraki seçenekle iyi çalışır.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation">
+    <text>Yağmurda yıpranma çarpanı</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation_desc">
+    <text>Yağmur altında kullanılan silahın yıpranma çarpanı.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easybarrel">
+    <text>Namlu tezgâh olmadan değiştirilsin.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easytrigger">
+    <text>Tetik mekanizması tezgâh olmadan değiştirilsin.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice">
+    <text>Teknisyen servis seviyesi</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+    <text>Teknisyenlerin sunduğu hizmet düzeyini belirler.	
+        \n\n Yalnızca silah temizliği: Silahın temel durumunu yeniler.
+        \n\n +Parça temizliği: Temel durumu yeniler ve gerekirse parçaları temizler.
+        \n\n Tam hizmet: Temel durumu yeniler, parçaları onarır ve değiştirir.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart">
+    <text>Satış için parçaların asgari durumu</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart_desc">
+    <text>Tüccarların TÜM silah parçalarını kabul etmesi için gereken asgari durum. TEK BİR parça bile bu değerin altındaysa silahı satın almazlar. Denetimi kapatmak için 0 yapın.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit">
+    <text>Onarım kitleri parçaları yeniler</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+    <text>Onarım kitleri silah parçalarını (en fazla %100'e kadar) yeniler. Bu seçenek kapalıysa yalnızca %25 durum ekler. Kapalı tutmak oyunu zorlaştırır.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype">
+    <text>Silah satış kuralları</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype_desc">
+    <text>Silah satışının nasıl işleyeceğini belirler:\n \n
+			- Klasik: Fiyat silahın durumuna göre belirlenir (dengeyi bozar).\n
+			- Normal: Satış fiyatı parçaların durumuna göre değişir; parçalar kırık veya sağlam sayılır (%60 ve üzeri). Önerilir.\n
+			- Zor: Silahın satılabilmesi için tüm parçalar sağlam olmalıdır (%60 üzeri).\n
+			Not: Yukarıdaki kurallardan bağımsız olarak eksik bir parça silahın satılmasını engeller.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold">
+    <text>Parça hasarı için durum eşiği</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold_desc">
+    <text>Parçaların hasar görebileceği silah durumu. Değer ne kadar düşükse parçaların hasar almaya başlaması için silahın o kadar kötü durumda olması gerekir.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam">
+    <text>Silah tutukluğu ayarları</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat">
+    <text>Silahın aşırı ısınmasını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat_desc">
+    <text>Silahlar ateş ettikçe ısınır; bu durum yıpranma hızını, tutukluk olasılığını ve iç parçaların hasar görmesini etkiler.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance">
+    <text>Tutukluk olasılığı çarpanı</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance_desc">
+    <text>Yeni silah tutukluğu mekaniğinin olasılık çarpanı.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_keybind">
+    <text>Tutukluğu giderme tuşu</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo">
+    <text>Eski mühimmat yıpranmayı etkiler</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo_desc">
+    <text>Eski mühimmat namlu aşınmasını ve tutukluk olasılığını artırır.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam">
+    <text>Ağır tutuklukta şarjörü çıkar</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam_desc">
+    <text>Etkinse, silah ağır biçimde tutuklandığında yeniden doldurma tuşuna (varsayılan R) basmak şarjörü çıkarır. Envanterde uğraşmanız gerekmez.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam">
+    <text>Ağır tutukluklara izin ver</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam_desc">
+    <text>Sözde “ağır tutukluğu” etkinleştirir veya devre dışı bırakır. Bu durumda silah tamamen boşaltılmalıdır.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc">
+    <text>Diğer ayarlar</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug">
+    <text>Hata ayıklama günlüğü</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug_desc">
+    <text>Oyun günlüğüne yazılacak ek hata ayıklama bilgileri.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_display">
+    <text>Parça durumunu göster</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_fun">
+    <text>Eğlence düzeyi</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity">
+    <text>Silah tutuklandığında küfür</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_desc">
+    <text>Silah tutuklandığında renkli ifadeler kullanılmasını sağlar.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_language">
+    <text>Küfür dili</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+    <text>Küfür sıklığını azalt</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+    <text>Bu seçenek açıkken küfürlü sözler arasına gecikme ekler. Fazla eğleniyorsanız kullanın.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity">
+    <text>Tutukluk bildirimlerinin ayrıntısı</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+    <text>Arayüzde silah tutukluğu bildirimlerini gösterir. Üç düzey vardır:\nYok: karışıklığı önlemek için yalnızca silahın genel durumu nedeniyle oluşan tutuklukta bildirim verir.\nNormal (önerilen): tutukluk ve giderildiğinde bildirim verir.\nTümü: ayrıca ağır tutuklukları ve parça hasarlarını da bildirir.</text>
+  </string>
+  <string id="ui_st_functional">
+    <text>Silah ateş etmeye hazır</text>
+  </string>
+  <string id="ui_st_heat1">
+    <text>, ancak ılık.</text>
+  </string>
+  <string id="ui_st_heat2">
+    <text>, ancak sıcak!</text>
+  </string>
+  <string id="ui_st_heat3">
+    <text>, ancak çok sıcak!</text>
+  </string>
+  <string id="ui_st_jam">
+    <text>Silah tutukluk yaptı!</text>
+  </string>
+  <string id="ui_st_misfire">
+    <text>Silah ateş almadı!</text>
+  </string>
+  <string id="ui_st_missing">
+    <text>Silahın parçaları eksik.</text>
+  </string>
+  <string id="ui_st_mockery_1">
+    <text>Silahın her seferinde tutukluk yapardı ama anlaşılan bu sana fazla geliyor.</text>
+  </string>
+  <string id="ui_st_mockery_2">
+    <text>Kolay tamirleri mi seviyorsun?</text>
+  </string>
+  <string id="ui_st_mockery_3">
+    <text>Madem öyle, taşıma kapasitesini de 600'e çıkarsana?</text>
+  </string>
+  <string id="ui_st_mockery_4">
+    <text>Beni hayal kırıklığına uğratıyorsun.</text>
+  </string>
+  <string id="ui_st_nothing">
+    <text>Elinizde ateşli silah yok.</text>
+  </string>
+  <string id="ui_st_oldjam">
+    <text>Silah kötü durumu nedeniyle tutukluk yaptı. Yeniden doldurun.</text>
+  </string>
+  <string id="ui_st_parts_damage">
+    <text>Silahın iç parçaları hasarlı.</text>
+  </string>
+  <string id="ui_st_superjam">
+    <text>Silah ağır biçimde tutukluk yaptı!</text>
+  </string>
+  <string id="ui_st_unjam">
+    <text>Silahın tutukluğu giderildi.</text>
+  </string>
+  <string id="ui_st_unjam_fail">
+    <text>Silah ağır biçimde tutuklandı: önce şarjörü boşaltın, ardından mekanizmayı kurun.</text>
+  </string>
+</string_table>

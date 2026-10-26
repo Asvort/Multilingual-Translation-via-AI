@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_balon_gas">
+    <text>Globo de gas
+		</text>
+  </string>
+  <string id="st_balon_gas_descr">
+    <text>\n \n
+		%c[d_red]ADVERTENCIA: Explota al impactar\n \n
+		%c[ui_gray_1]Cilindro de gas de metal pesado, revestido con polímero compatible e Hypalon para resistir la intemperie, la abrasión y los rayos UV. Este depósito plegable almacena gases industriales antes de embotellarlos a presión. En la Zona suele contener metano, propano, etano y butano para cocinar, calentarse o combatir. Un disparo directo puede prenderlo; la liberación repentina de energía expande el gas y provoca una explosión retardada y potente que lanza metralla metálica en todas direcciones. Estos cilindros han matado y mutilado a muchos en disputas entre facciones. Vacío, sirve para reparar armaduras.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] contiene: %c[ui_gray_1] gas natural refinado\n
+		%c[d_green] • %c[ui_gray_2] combustible culinario de alta calidad\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de activación: %c[ui_gray_1]impacto de bala o explosión\n
+		%c[d_purple] • %c[ui_gray_2] potencia de explosión: %c[ui_gray_1]muy alta\n
+		%c[d_purple] • %c[ui_gray_2] radio de explosión: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º medio de fragmentos: %c[ui_gray_1]28 (fragmentos metálicos pesados)\n
+		%c[d_purple] • %c[ui_gray_2] retardo de explosión: %c[ui_gray_1]~2 segundos\n
+		</text>
+  </string>
+  <string id="st_balon_gas_empty">
+    <text>Globo de gas (vacío)</text>
+  </string>
+  <string id="st_balon_gas_empty_descr">
+    <text>Cilindro de gas de metal pesado ya vacío, revestido con polímero compatible e Hypalon para resistir la intemperie, la abrasión y los rayos UV. Este depósito plegable almacena gases industriales antes de embotellarlos a presión. En la Zona suele contener metano, propano, etano y butano para cocinar, calentarse o combatir. Ahora está vacío, pero aún sirve para reparar trajes.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] objeto tecnológico\n
+		</text>
+  </string>
+  <string id="st_ied">
+    <text>Artefacto explosivo improvisado (químico)</text>
+  </string>
+  <string id="st_ied_descr">
+    <text>Explosivo improvisado hecho con varias sustancias químicas, un detonador eléctrico roto y un recipiente de bolas de acero. Los productos químicos tienen un olor intenso y son muy tóxicos. Este artefacto es mucho más potente que la variante OG-7V, más común. En la Zona se usa para abrirse paso en áreas cerradas y tender emboscadas; también se coloca junto a minas para aumentar la explosión. Puede ocultarse bien y resultar casi invisible para los demás.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto militar\n
+		%c[d_blue] • %c[ui_gray_2] imperceptible al colocarla en el suelo\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de activación: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] potencia de explosión: %c[ui_gray_1]muy alta\n
+		%c[d_purple] • %c[ui_gray_2] radio de explosión: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] radio de fragmentos: 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º medio de fragmentos: %c[ui_gray_1]580 (bolas de acero)\n
+		%c[d_purple] • %c[ui_gray_2] retardo de explosión: %c[ui_gray_1]ninguno\n
+		</text>
+  </string>
+  <string id="st_ied_rpg">
+    <text>Artefacto explosivo improvisado (ojiva OG-7V)</text>
+  </string>
+  <string id="st_ied_rpg_descr">
+    <text>Explosivo improvisado basado en una ojiva OG-7V y piezas de una batería de coche. Parece viejo y podría estallar en cualquier momento, pero el mecanismo impide la detonación salvo que una bala lo alcance directamente o reciba otra fuerza física potente. En la Zona se usa para abrirse paso en áreas cerradas y tender emboscadas, y suele colocarse junto a minas para aumentar la explosión. Puede ocultarse muy bien y hacerse casi invisible.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto militar\n
+		%c[d_blue] • %c[ui_gray_2] imperceptible al colocarla en el suelo\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de activación: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] potencia de explosión: %c[ui_gray_1]alta\n
+		%c[d_purple] • %c[ui_gray_2] radio de explosión: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º medio de fragmentos: %c[ui_gray_1]440 (metralla)\n
+		%c[d_purple] • %c[ui_gray_2] retardo de explosión: %c[ui_gray_1]ninguno\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel">
+    <text>Bidón de gasolina
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_descr">
+    <text>\n \n
+		%c[d_red]ADVERTENCIA: Explota al impactar\n \n
+		%c[ui_gray_1]Bidón grande de metal lleno de gasolina E95. El ejército ucraniano llevó muchos a la Zona para sus vehículos blindados. Cumplieron su función hasta el Segundo Desastre de Chernóbil, tras el cual los vehículos dejaron de funcionar por motivos aún desconocidos. Algunos habitantes de la Zona intentan reparar los restos; otros encontraron otro uso para los bidones: explosivos improvisados. Un impacto directo los prende y explotan tras una breve demora. Son pesados y aparatosos, pero muy potentes; uno bien colocado puede matar incluso a quien lleve la armadura más pesada. La explosión puede ser tan fuerte que el atacante también acabe siendo víctima, así que hay que usarlos con cuidado. Según cuentan, el veterano stalker Yuya se salvó una vez atrayendo a un pseudogigante a una trampa de bidones. Vació su último cargador de Makarov y el gigante estalló en llamas con un rugido que se oyó por todo Júpiter.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] contiene: %c[ui_gray_1] E95 gasoline\n
+		%c[d_green] • %c[ui_gray_2] combustible culinario de alta calidad\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de activación: %c[ui_gray_1]impacto de bala o explosión\n
+		%c[d_purple] • %c[ui_gray_2] potencia de explosión: %c[ui_gray_1]alta\n
+		%c[d_purple] • %c[ui_gray_2] radio de explosión: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º medio de fragmentos: %c[ui_gray_1]39 (fragmentos metálicos pesados)\n
+		%c[d_purple] • %c[ui_gray_2] retardo de explosión: %c[ui_gray_1]~3 segundos\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty">
+    <text>Bidón vacío</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty_descr">
+    <text>Bidón metálico vacío. Solo sirve como material para reparaciones básicas de trajes o para venderlo a los comerciantes.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto tecnológico\n
+		</text>
+  </string>
+  <string id="st_jerrycan_item">
+    <text>Bidón
+		</text>
+  </string>
+  <string id="st_metalcan_powder">
+    <text>Lata de pólvora
+		</text>
+  </string>
+  <string id="st_metalcan_powder_descr">
+    <text>\n \n
+		%c[d_red]ADVERTENCIA: Explota al impactar\n \n
+		%c[ui_gray_1]Lata metálica pequeña y bastante pesada, llena de una mezcla de productos químicos industriales explosivos, pernos, tuercas y pólvora negra recuperada de munición antigua. Esta infame trampa mortal fue diseñada por unos bandidos rusos llamados «Swireksters» y vendida a distintos grupos de bandidos de la Zona. Un disparo directo la hace estallar al instante, lanzando pernos metálicos y productos corrosivos en todas direcciones. Quien use esta arma mortal no debe bajar la guardia. Las piezas metálicas de la lata también sirven para reparaciones de emergencia de trajes.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto tecnológico\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de activación: %c[ui_gray_1]impacto de bala o explosión\n
+		%c[d_purple] • %c[ui_gray_2] potencia de explosión: %c[ui_gray_1]baja\n
+		%c[d_purple] • %c[ui_gray_2] radio de explosión: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º medio de fragmentos: %c[ui_gray_1]77 (pequeña metal pieces)\n
+		%c[d_purple] • %c[ui_gray_2] retardo de explosión: %c[ui_gray_1]ninguno\n
+		</text>
+  </string>
+  <string id="st_mine_descr">
+    <text>La PFM-1 (abreviatura de «mina antipersona de efecto explosivo»; nombre clave de la OTAN: «Loro verde») fue una mina antipersona estándar del Ejército Rojo, empleada sobre todo durante la invasión soviética de Afganistán. Su uso generalizado causó muchas víctimas civiles, especialmente niños, que a menudo confundían las minas dispersas con juguetes por su forma y color familiares. Así obtuvo el siniestro apodo de «Asesina de niños». Más tarde fue sustituida por modelos nuevos, pero muchas armas retiradas llegaron de algún modo a la Zona, donde la PFM-1 se convirtió en una trampa explosiva habitual. Se valora por su funcionalidad, facilidad de uso, tamaño compacto y poco peso. Su principal desventaja es la pequeña carga explosiva, que a menudo no basta para matar de una sola explosión a un stalker con armadura pesada. Úsala junto con otros explosivos como detonador. Si no está armada, no estallará ni siquiera al recibir un disparo.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] objeto militar\n
+		%c[d_blue] • %c[ui_gray_2] mina antipersona\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de activación: %c[ui_gray_1]presión\n
+		%c[d_purple] • %c[ui_gray_2] potencia de explosión: %c[ui_gray_1]pequeña\n
+		%c[d_purple] • %c[ui_gray_2] radio de explosión: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]ninguno\n
+		%c[d_purple] • %c[ui_gray_2] n.º medio de fragmentos: %c[ui_gray_1]ninguno\n
+		%c[d_purple] • %c[ui_gray_2] retardo de explosión: %c[ui_gray_1]ninguno\n
+		</text>
+  </string>
+  <string id="st_mine_name">
+    <text>Mina antipersona dispersable PFM-1</text>
+  </string>
+</string_table>

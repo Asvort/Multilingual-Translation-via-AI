@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="at_development_hud_position_lst_bottomleft">
+    <text>Unten links</text>
+  </string>
+  <string id="at_development_hud_position_lst_bottomright">
+    <text>Unten rechts</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerleft">
+    <text>Mitte links</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerright">
+    <text>Mitte rechts</text>
+  </string>
+  <string id="at_development_hud_position_lst_off">
+    <text>Aus</text>
+  </string>
+  <string id="at_development_hud_position_lst_topleft">
+    <text>Oben links</text>
+  </string>
+  <string id="at_development_hud_position_lst_topright">
+    <text>Oben rechts</text>
+  </string>
+  <string id="at_development_log_level_lst_debug">
+    <text>Debug</text>
+  </string>
+  <string id="at_development_log_level_lst_error">
+    <text>Fehler</text>
+  </string>
+  <string id="at_development_log_level_lst_info">
+    <text>Info</text>
+  </string>
+  <string id="at_development_log_level_lst_warn">
+    <text>Warnung</text>
+  </string>
+  <string id="st_at_reset_all_done">
+    <text>AlifeTactics: Alle Einstellungen wurden auf Standardwerte zurückgesetzt.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced">
+    <text>Streuung Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced_desc">
+    <text>Skalierung des Schusskegels erfahrener Stalker. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert">
+    <text>Streuung Experte</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert_desc">
+    <text>Schusskegel-Skalierung für Rang Experte. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend">
+    <text>Streuung Legende</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend_desc">
+    <text>Schusskegel-Skalierung für Rang Legende. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master">
+    <text>Streuung Meister</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master_desc">
+    <text>Schusskegel-Skalierung für Rang Meister. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice">
+    <text>Streuung Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice_desc">
+    <text>Skalierung des Schusskegels für Anfänger. Niedriger bedeutet enger und tödlicher. 1.00 entspricht dem Standardkegel.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional">
+    <text>Streuung Profi</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional_desc">
+    <text>Schusskegel-Skalierung für Rang Profi. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee">
+    <text>Streuung Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee_desc">
+    <text>Skalierung des Schusskegels für Auszubildende. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran">
+    <text>Streuung Veteran</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran_desc">
+    <text>Schusskegel-Skalierung für Rang Veteran. Niedriger bedeutet engere Treffergruppen.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced">
+    <text>Schießen in Bewegung: Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced_desc">
+    <text>Gibt an, welchen Anteil der bewegungsbedingten Streuungsstrafe ein erfahrener Stalker beim Schießen in Bewegung beibehält. 1,00 entspricht der vollständigen Standardstrafe; ein niedrigerer Wert sorgt für stabilere Schüsse.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert">
+    <text>Schießen in Bewegung: Experte</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert_desc">
+    <text>Anteil des Bewegungsmalus für Rang Experte. entspricht dem vollen Standardmalus; niedriger stabilisiert die Schüsse.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend">
+    <text>Schießen in Bewegung: Legende</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend_desc">
+    <text>Anteil des Bewegungsmalus für den Legendenrang. Bei 0.50 ist das Schießen in Bewegung so stabil wie im Stand.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master">
+    <text>Schießen in Bewegung: Meister</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master_desc">
+    <text>Anteil des Bewegungsmalus für Rang Meister. entspricht dem vollen Standardmalus; niedriger stabilisiert die Schüsse.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice">
+    <text>Schießen in Bewegung: Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice_desc">
+    <text>Gibt an, welchen Anteil der bewegungsbedingten Streuungsstrafe ein Anfängerer Stalker beim Schießen in Bewegung beibehält. 1,00 entspricht der vollständigen Standardstrafe; ein niedrigerer Wert sorgt für stabilere Schüsse.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional">
+    <text>Schießen in Bewegung: Profi</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional_desc">
+    <text>Anteil des Bewegungsmalus für Rang Profi. entspricht dem vollen Standardmalus; niedriger bedeutet präziseres Feuer.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee">
+    <text>Schießen in Bewegung: Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee_desc">
+    <text>Gibt an, welchen Anteil der bewegungsbedingten Streuungsstrafe ein in Ausbildunger Stalker beim Schießen in Bewegung beibehält. 1,00 entspricht der vollständigen Standardstrafe; ein niedrigerer Wert sorgt für stabilere Schüsse.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran">
+    <text>Schießen in Bewegung: Veteran</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran_desc">
+    <text>Anteil des Bewegungsmalus für Rang Veteran. entspricht dem vollen Standardmalus; niedriger stabilisiert die Schüsse.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_desc">
+    <text>Die Genauigkeit steigt mit dem Rang: Ein Meister schießt enger als ein Anfänger. Die Ränge lassen sich unten einstellen. Die Engine unterstützt eine Streukurve, doch Anomalys Standardwerte unterscheiden sich kaum.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled">
+    <text>Streuungskurve aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled_desc">
+    <text>Legt die Breite des Zielkegels je Rang fest: niedrige Ränge streuen stärker, hohe gruppieren enger. Aus: fester Zielkegel der Engine.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled">
+    <text>Schießen in Bewegung aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled_desc">
+    <text>Legt fest, wie stark ein Rang den Genauigkeitsmalus beim Schießen in Bewegung ausgleicht. Hohe Ränge bleiben präzise; aus gilt der volle Malus.</text>
+  </string>
+  <string id="ui_mcm_at_ammo_desc">
+    <text>Stalker verwenden tatsächlich mitgeführte Munition. Ab Veteran nutzen sie panzerbrechende Patronen aus dem Inventar mit echter Ballistik und wechseln bei Erschöpfung zu Standardmunition. Pro Kampf kann eine Packung verbraucht werden; schnelle Waffen und niedrigere Ränge brauchen sie schneller auf. Munition stammt aus Handel und Beute, NPCs lassen sie nicht fallen. Ranggrenze und Verbrauch: configs/alifetactics/at_ammo.ltx.</text>
+  </string>
+  <string id="ui_mcm_at_behaviors_desc">
+    <text>Geplant: neue Kampfaktionen, die dem Standardplaner fehlen, zuerst Nahkampf. Noch keine Einstellungen.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled">
+    <text>Kampfübernahme aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled_desc">
+    <text>Aus greift AlifeTactics nicht ein und die vorhandene KI steuert Kämpfe. Ein kann der Mod kurz einen Stalker für ein Manöver übernehmen.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions">
+    <text>Begleiter ignorieren</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions_desc">
+    <text>Ein verhindert, dass AlifeTactics deine Begleiter übernimmt; ihre KI und deine Befehle bleiben unter deiner Kontrolle. Aus erlaubt Manöver mit ihnen.</text>
+  </string>
+  <string id="ui_mcm_at_combat_desc">
+    <text>Ein Manöver übernimmt kurzzeitig vollständig einen Stalker, um eine Aktion auszuführen, die der Standard-Engine fehlt. Es bewertet Kampfereignisse, Werte, Welt, Gruppe, Fraktion, Entfernung, Deckung und Waffen. Gruppen koordinieren Bewegungen nach Fraktion. Bestehende Kampfscripte bleiben kompatibel; jedes Manöver wird einzeln aktiviert.</text>
+  </string>
+  <string id="ui_mcm_at_combat_hdr_maneuvers">
+    <text>Manöver</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank">
+    <text>Gegenflanke</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank_desc">
+    <text>Schießt ein Stalker auf ein entferntes Ziel und kommt ein feindlicher Spieler in Nahdistanz, dreht er sich zur nahen Gefahr, statt den Rücken zu zeigen.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee">
+    <text>Flucht</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee_desc">
+    <text>Der letzte Überlebende eines aufgeriebenen Trupps flieht mit geschulterter Waffe zu einer entfernten befreundeten Basis. Zuerst wartet er eine Feuerpause ab. Nur vorsichtige Fraktionen fliehen, Fanatiker nie.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite">
+    <text>Kite</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite_desc">
+    <text>Nähert sich ein Gegner unter die Mindestreichweite der Waffe, weicht der Stalker schießend auf seine Distanz zurück und nutzt eine zuvor geprüfte freie Linie.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff">
+    <text>Gezieltes Ausschalten</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff_desc">
+    <text>Hat die Waffe des Stalkers größere Reichweite, hält er seine Stellung und schießt einzeln. Nähert sich der Gegner, zieht er sich zurück; unter Beschuss oder im Fadenkreuz bleibt er nie stehen.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover">
+    <text>Nachladen in Deckung</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover_desc">
+    <text>Wird ein Stalker beim Nachladen in der Schusslinie überrascht, rennt er zur nächsten Deckung und lädt unterwegs fertig. Außerhalb von Sicht- oder Ziellinie bleibt das Verhalten gleich. Erfordert eine aktuelle Engine.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat">
+    <text>Rückzug</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat_desc">
+    <text>Schwer verletzt und in Reichweite des Schützen zieht sich der Stalker schießend hinter Deckung zurück, die den Abstand vergrößert. Ein Platz wird nicht doppelt belegt.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin">
+    <text>Deckung halten</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin_desc">
+    <text>Bei freier Schussbahn bleibt der Stalker in Deckung, statt zu einer geringfügig besseren Position zu wechseln. Wird die Position gefährlich, verlässt er sie. Erfordert eine aktuelle Engine-Version.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled">
+    <text>Entschlossenheit aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled_desc">
+    <text>Aus verhalten sich Stalker wie gewohnt: Die Engine bewertet ständig neu und wechselt für kleine Vorteile die Aktion, was hektische Bewegungen verursacht.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s">
+    <text>Maximale Bindungsdauer</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s_desc">
+    <text>Maximale Dauer einer Aktion, bevor die Engine ihn wieder bewegen darf. Dies ist eine Obergrenze, keine feste Zeit: Solange der Grund besteht, bleibt er dabei. Bei Sichtverlust oder blockiertem Schuss zieht er sich sofort zurück. Ein höherer Wert verlängert das Halten.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_desc">
+    <text>Standardmäßige Stalker überdenken ihre Entscheidungen bei jeder kleinen Änderung und bewegen sich dadurch hektisch. Diese Option lässt sie bei einer sinnvollen Aktion bleiben und erst wechseln, wenn der Gegner verschwindet, der Schuss blockiert wird oder die Sicht verloren geht. Bei freier Schussbahn halten sie ihre Deckung. Erfordert eine aktuelle Engine-Version; ältere Versionen nutzen das Standardverhalten.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture">
+    <text>Deckungshaltung</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture_desc">
+    <text>Erfahrene Schützen und Scharfschützen gehen hinter hüfthoher Deckung in die Hocke und stehen ohne Deckung auf. Die Option verbessert die Haltung im Kampf.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_desc">
+    <text>Kleine Verbesserungen für vom Standard-Engine gesteuerte Stalker: keine Übernahme, nur bessere Entscheidungen. Erfordert eine aktuelle Engine-Version.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled">
+    <text>Eigenbeschuss derselben Fraktion senken</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled_desc">
+    <text>Aus gilt der volle Standardschaden durch Eigenbeschuss.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor">
+    <text>Schadensmultiplikator derselben Fraktion</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor_desc">
+    <text>Schaden durch Treffer eines Fraktionsmitglieds. 0.00 bedeutet kein Schaden unter Verbündeten, 1.00 voller Standardschaden.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_desc">
+    <text>Mitglieder derselben Fraktion verursachen sich im Kreuzfeuer weniger Schaden; der Multiplikator wird unten eingestellt. Wirklich feindliche Fraktionen verursachen vollen Schaden. Deine Schüsse bleiben unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions">
+    <text>Handhabungsgeräusche</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions_desc">
+    <text>Feindliche Stalker reagieren auf gehörtes Nachladen, leeres Klicken oder Gegenstandsbenutzung in der Nähe. Die Reichweite ist kürzer als bei Bewegung. Nachladen und leeres Klicken werden untersucht; bei Gegenstandsgeräuschen drehen sie sich in Alarmbereitschaft zum Geräusch.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise">
+    <text>Bewegungsgeräusch</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise_desc">
+    <text>Feindliche Stalker hören deine Schritte. Grundreichweite beim Gehen: 5m; Sprinten multipliziert sie mit 1.6, eine Sprunglandung reicht 10m. Geduckte Bewegung ist lautlos. Oberflächen: Metall x1.25, Holz x1.15, Wasser x1.35, Gras x0.7, Erde und Sand x0.8; Regen verringert die Reichweite um bis zu 40%. Sie untersuchen Geräusche zu Fuß, ohne dich sofort als Feind einzustufen. Nur feindliche NPCs außerhalb des Kampfes reagieren.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire">
+    <text>Alarm durch neutrales Feuer</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire_desc">
+    <text>Neutrale und befreundete Stalker in der Nähe gehen in Alarmbereitschaft und wenden sich deinen Schüssen zu. Sie werden nicht feindlich, wechseln nicht die Position und beruhigen sich nach dem Feuer. Die Reichweite ist kurz.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult">
+    <text>Geräuschreichweite</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult_desc">
+    <text>Skaliert die Reichweite von Schritten und Handhabung. Unter 1 wird Schleichen leichter, über 1 hören Stalker besser.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_desc">
+    <text>Korrekturen der Gefahrenprüfung und Leichenuntersuchung sind immer aktiv; unten gibt es eine optionale Einstellung. Sie beheben alte Abstürze und Fehlbewertungen. Der Patch wird in das vorhandene Gefahrenscript integriert.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_list">
+    <text>1. Falsches Lesen der Gefahrenkonfiguration behoben.\n2. Zeitprüfung bei Mutantenleichen korrigiert.\n3. Absturz durch entfernte NPC-Referenz behoben.\n4. Ungültiger Gefahrenzeitwert korrigiert.\n5. Treffererinnerung ohne Schützen behoben.\n6. Hängende Animation beim Wechsel des Gefahrenstatus behoben.\n7. Nur die Deckungsreservierung des betreffenden Stalkers wird gelöscht.\n8. Absturz bei verschwindender Leiche während der Untersuchung behoben.\n9. Die Untersuchung steuert nicht mehr das falsche Gruppenmitglied.\n10. Der Ermittler geht zur gefundenen Deckung statt zu einem geräumten Ort.\n11. Konfigurationswerte werden aus Leistungsgründen nur einmal geparst.\n12. Der Gefahrenstatus eines toten Stalkers wird bei ID-Wiederverwendung gelöscht.\n13. Absturz bei Leichenreaktion vor Beginn der Untersuchung behoben.</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_fixes">
+    <text>Dauerhafte Fehlerkorrekturen (nicht umschaltbar)</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_gunfire">
+    <text>Schüsse</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_noise">
+    <text>Deine Geräusche</text>
+  </string>
+  <string id="ui_mcm_at_danger_hit_desc">
+    <text>Reaktionen auf Treffer. Entfernungen stammen aus der Gefahrenkonfiguration; AlifeTactics ergänzt Reaktionen, ändert aber keine Einstellungen.</text>
+  </string>
+  <string id="ui_mcm_at_danger_sound_desc">
+    <text>Reaktionen auf Schüsse nutzen die Gefahrenreichweiten deiner Konfiguration; Schritte und Handhabung haben kurze eigene Radien. Der Patch ist mit anderer Kampf-KI und Schleichmods kompatibel. Tarnung hängt davon ab, gesehen zu werden; Geräusch ändert die Erkennung nicht, geduckte Bewegung ist lautlos.</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled">
+    <text>Ballistik-Debugging</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled_desc">
+    <text>Zeichnet Ergebnisse naher Gefechte auf: Treffer nach Rang und Bewegung des Schützen, Schaden, knappe Fehlschüsse und Salvenlänge nach Waffentyp sowie das steuernde NPC-System (Maneuver, Commitment oder vanilla). Schreibt einmal pro Minute in alifetactics_world.log. Deaktiviert ohne Leistungsaufwand.</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all">
+    <text>Einstellungen zurücksetzen</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all_desc">
+    <text>Setzt alle AlifeTactics-Einstellungen im MCM auf Standardwerte zurück. Nach einem Update von einer Version mit anderer MCM-Struktur verwenden.</text>
+  </string>
+  <string id="ui_mcm_at_development_desc">
+    <text>Entwicklungswerkzeuge. DEBUG protokolliert mit Zeitangaben Manöver, Gefahrenprüfung, Aufdeckung, Heilung und Gegenstände, Schussgenauigkeit, Munition und Nachladen in alifetactics.log. Kostet Leistung; im normalen Spiel WARN verwenden.</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position">
+    <text>Position</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position_desc">
+    <text>Einblendung naher Stalker mit Rang, Name, Gesundheit, Logik, Gemütszustand und aktuellem Ziel samt Entfernung. Eine grüne Zeile mit Manövernamen markiert die Steuerung durch AlifeTactics. Aktualisiert sich zweimal pro Sekunde und verschwindet bei geöffnetem PDA. Ecke auswählen.</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level">
+    <text>Protokollstufe</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level_desc">
+    <text>Protokollumfang. ERROR: nur Fehler. WARN: Auffälligkeiten. INFO: Modulstart und Patch-Installation. DEBUG: vollständige Ereignisverfolgung mit Dauer.</text>
+  </string>
+  <string id="ui_mcm_at_development_reset_warning">
+    <text>Speichern oder verwerfen Sie zuerst ausstehende MCM-Änderungen. Andernfalls machen sie das Zurücksetzen beim nächsten Klick auf „Übernehmen“ rückgängig.</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled">
+    <text>Debugging des Weltverhaltens</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled_desc">
+    <text>Überwacht kämpfende NPCs in Spielnähe und erkennt Gleiten: Bewegung ohne Geh- oder Laufanimation, auch durch Treffer-Rückstoß. Zeigt das steuernde System des NPCs (Maneuver, Commitment oder vanilla) an und schreibt in alifetactics_world.log. Deaktiviert ohne Leistungsaufwand.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_desc">
+    <text>Verletzt du ein Gruppenmitglied, erfährt die ganze Gruppe vom Schützen, auch Patrouillen außerhalb der Hörweite und trotz Schalldämpfer. Das Grundspiel teilt nur gehörte Schüsse. AlifeTactics speichert den Schützen bei jedem Mitglied und versetzt die Gruppe in den Kampf; die Engine verbreitet die Information weiter. In aktuellen Engine-Versionen wird der Schütze außerdem zum vorrangigen sichtbaren Ziel. Beziehungen werden nicht verfälscht; ein lautloser Soforttod ohne Zeugen bleibt unbemerkt, die Leiche kann aber gefunden werden.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled">
+    <text>Aufdeckung aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled_desc">
+    <text>Aus: Standardverhalten. Die Gruppe erfährt nur bei gehörtem Schuss vom Schützen; entfernte Patrouillen werden nicht informiert.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min">
+    <text>Schützen vergessen nach (Spielminuten)</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min_desc">
+    <text>Spielminuten ohne neue Treffer, bis die Gruppe den Schützen vergisst. Der nächste Treffer löst erneut Alarm für die ganze Gruppe aus. Es zählt Spielzeit, keine Echtzeit.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate">
+    <text>Schützen bei Tötung nicht aufdecken</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate_desc">
+    <text>Tötet der Treffer das Ziel sofort, wird der Schütze nicht aufgedeckt: Das Opfer kann nicht mehr funken, sodass Schalldämpferschüsse und Angriffe von hinten unbemerkt bleiben. Die Gruppe kann dich weiterhin hören, sehen oder die Leiche finden. Wird das Ziel nur verletzt, wird der Schütze wie üblich gemeldet.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn">
+    <text>Schützen zum Ziel machen</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn_desc">
+    <text>Der aufgedeckte Schütze wird für jedes Mitglied zum vorrangigen Ziel, sodass sich die Gruppe ihm zuwendet statt auf einen entfernten sichtbaren Gegner fixiert zu bleiben. Aus: Der Schütze ist bekannt und kann angegriffen werden, aber ein sichtbarer Gegner bleibt wichtiger. Erfordert eine aktuelle Engine-Version.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_hdr_survivor">
+    <text>Heimlichkeit</text>
+  </string>
+  <string id="ui_mcm_at_effects_desc">
+    <text>Geplant: Kampfeffekte für den Spieler, zuerst Benommenheit. Noch keine Einstellungen.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled">
+    <text>Panzerbrechende NPC-Munition</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled_desc">
+    <text>Ein: geeignete Stalker verwenden und verbrauchen panzerbrechende Munition. Aus: alle nutzen Standardmunition, Vorräte bleiben erhalten.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables">
+    <text>Spielerreichweiten</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables_desc">
+    <text>Vom Spieler ausgehende Gefahr nutzt getrennte Aktortabellen, falls die Konfiguration sie unterscheidet. Das gilt nur, wenn das installierte Script diese Tabellen verwendet; sonst bleiben dessen Werte erhalten.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound">
+    <text>Feindliches Feuer</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound_desc">
+    <text>NPC reagieren auf gehörte, aber nicht sichtbare Feindschüsse: Sie drehen sich zum Geräusch, nehmen eine Kampfhaltung ein und suchen Deckung, sobald sie den Schützen sehen. Neutrales und befreundetes Feuer löst keinen Alarm aus. Die Reichweite stammt aus der Gefahrenkonfiguration.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass">
+    <text>Treffer aus der Ferne</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass_desc">
+    <text>Die Standard-KI ignoriert entfernte Schützen wegen einer Reichweitengrenze. Aktiviert zählt jeder direkte Treffer: Ein aus 200m getroffener Stalker dreht sich um und sucht Deckung.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled">
+    <text>NPC-Störungen unterdrücken</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled_desc">
+    <text>Ein: Fiktive NPC-Störungen werden deaktiviert. Aus: Standardverhalten der modifizierten EXE. Deine Waffen sind nicht betroffen.</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_curve">
+    <text>Rangkurve</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_move">
+    <text>Treffgenauigkeit beim Schießen in Bewegung</text>
+  </string>
+  <string id="ui_mcm_at_hdr_commitment_hold">
+    <text>Bindungsgrenze</text>
+  </string>
+  <string id="ui_mcm_at_hdr_heal_rate">
+    <text>Heilrate</text>
+  </string>
+  <string id="ui_mcm_at_hdr_healing_charge">
+    <text>Heilungsladung</text>
+  </string>
+  <string id="ui_mcm_at_hdr_hud">
+    <text>Debug-HUD</text>
+  </string>
+  <string id="ui_mcm_at_hdr_logging">
+    <text>Protokollierung</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_aim">
+    <text>Nachführgeschwindigkeit: </text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_lead">
+    <text>Zielvorhalt</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_qinterval">
+    <text>Feuertakt (Intervall)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_trigger">
+    <text>Feuerdisziplin (Feuerstoßlänge)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_vision">
+    <text>Kurve der Erkennungsgeschwindigkeit</text>
+  </string>
+  <string id="ui_mcm_at_hdr_retention">
+    <text>Gedächtnisdauer</text>
+  </string>
+  <string id="ui_mcm_at_hdr_visuals">
+    <text>Visuelle Ebene</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced">
+    <text>Heilungschance für Erfahrene (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced_desc">
+    <text>Heilungschance für Stalker des Rangs Erfahren.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master">
+    <text>Heilungschance für Meister (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master_desc">
+    <text>Heilungschance für Stalker des Rangs Meister.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice">
+    <text>Heilungschance für Anfänger (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice_desc">
+    <text>Chance, dass ein Anfänger beim ersten Auftauchen eine einmalige Heilungsladung erhält. Sie wird einmal unterhalb der Gesundheitsschwelle ohne Medkit ausgelöst. Standardmäßig gelten 50 % für jeden Rang.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran">
+    <text>Heilungschance für Veteranen (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran_desc">
+    <text>Heilungschance für Stalker des Rangs Veteran.</text>
+  </string>
+  <string id="ui_mcm_at_healing_desc">
+    <text>Verletzte Stalker heilen sich mit ihren Medkits und Verbänden; sie humpeln und zeigen außerhalb des Kampfes eine Heilanimation. Im Grundspiel sind die Listen für Heilgegenstände leer, daher wurden getragene Sets nie benutzt. AlifeTactics stellt die Listen beim Start wieder her. Unten lassen sich Heilrate, einmalige Ladung je Rang und Animationen einstellen.</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier">
+    <text>Heilraten-Multiplikator</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier_desc">
+    <text>Skaliert die Heilung pro Selbstheilungszyklus. Bei 2.0 heilt ein Medkit doppelt so schnell, bei 0.5 halb so schnell. Die Engine legt die Zykluszahl fest.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled">
+    <text>Heilanimation</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled_desc">
+    <text>Zu Beginn eines Heilzyklus zeigt der Stalker außerhalb des Kampfes die Benutzung eines Medkits oder Verbands. Die Engine beendet die Animation.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled">
+    <text>Heilung aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled_desc">
+    <text>Hauptschalter für Heilrate und einmalige Heilungsladung je Rang. Aus: standardmäßige Selbstheilung. Neustart erforderlich. Die Gegenstandslisten werden beim Start immer wiederhergestellt.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled">
+    <text>Hinkanimation</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled_desc">
+    <text>Außerhalb des Kampfes hinken Stalker unterhalb der Gesundheitsschwelle sichtbar; Haltung und Gang richten sich nach der getragenen Waffe. Kämpfende und Heilende sind ausgenommen.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold">
+    <text>Gesundheitsschwelle fürs Hinken</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold_desc">
+    <text>Gesundheitsanteil, unter dem der Stalker zu hinken beginnt. Ein niedrigerer Wert zeigt es erst bei schwereren Verletzungen.</text>
+  </string>
+  <string id="ui_mcm_at_jam_desc">
+    <text>NPC-Waffen klemmen nur tatsächlich und werden erst bei leerem Magazin nachgeladen. Modifizierte EXEs erzeugen fiktive Störungen, sodass selbst intakte Gewehre alle paar Schüsse nachgeladen werden. AlifeTactics deaktiviert dies für NPCs; deine Waffen bleiben unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_mutants_desc">
+    <text>Geplant: Kampfverhalten der Mutanten. Noch keine Einstellungen.</text>
+  </string>
+  <string id="ui_mcm_at_range_desc">
+    <text>Geplant: Kampfreichweite. Das Spiel begrenzt derzeit NPC-Kämpfe unabhängig von der Waffe. Noch keine Einstellungen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled">
+    <text>Nachführgeschwindigkeit aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled_desc">
+    <text>Wie genau der Lauf des Rangs einem beweglichen Ziel folgt. Ein höherer Wert verbessert die Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_desc">
+    <text>Der Rang bestimmt die Zielnachführung bei Bewegung und wie schnell Ziele auf Entfernung erkannt werden.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled">
+    <text>Feuerdisziplin aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled_desc">
+    <text>Skaliert Länge und Takt der Feuerstöße je Rang. Hohe Ränge schießen häufiger kurze, präzise Salven; niedrige bleiben beim Standard. Standardmäßig liegt die Längenskalierung mindestens auf Höhe des Intervalls, damit Treffer pro Minute nicht sinken. Aus: Standardstöße.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled">
+    <text>Zielvorhalt aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled_desc">
+    <text>Legt den Vorhalt anhand der tatsächlichen Flugzeit des Geschosses fest. Hohe Ränge halten korrekt vor, niedrige zu weit. Aus: fester Engine-Wert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced">
+    <text>Nachführgeschwindigkeit: Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced_desc">
+    <text>Wie genau der Lauf des Rangs Erfahrene einem beweglichen Ziel folgt. Ein höherer Wert verbessert die Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert">
+    <text>Nachführgeschwindigkeit: Experte</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert_desc">
+    <text>Wie genau der Lauf des Rangs Experte einem beweglichen Ziel folgt. Höher bedeutet genauere Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend">
+    <text>Nachführgeschwindigkeit: Legende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend_desc">
+    <text>Wie genau der Lauf des Rangs Legende einem beweglichen Ziel folgt. 2.50 entspricht der Zieloption der Hardcore-KI.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master">
+    <text>Nachführgeschwindigkeit: Meister</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master_desc">
+    <text>Wie genau der Lauf des Rangs Meister einem beweglichen Ziel folgt. Höher bedeutet genauere Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice">
+    <text>Nachführgeschwindigkeit: Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice_desc">
+    <text>Wie genau der Lauf des Rangs Anfänger einem beweglichen Ziel folgt, in Radiant pro Sekunde. 0.24 entspricht dem Engine-Standard.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional">
+    <text>Nachführgeschwindigkeit: Profi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional_desc">
+    <text>Wie genau der Lauf des Rangs Profi einem beweglichen Ziel folgt. Ein höherer Wert verbessert die Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee">
+    <text>Nachführgeschwindigkeit: Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee_desc">
+    <text>Wie genau der Lauf des Rangs Auszubildende einem beweglichen Ziel folgt. Ein höherer Wert verbessert die Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran">
+    <text>Nachführgeschwindigkeit: Veteran</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran_desc">
+    <text>Wie genau der Lauf des Rangs Veteran einem beweglichen Ziel folgt. Ein höherer Wert verbessert die Nachführung.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced">
+    <text>Zielvorhalt: Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced_desc">
+    <text>Vorhaltefehler für Rang Erfahrene gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert">
+    <text>Zielvorhalt: Experte</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert_desc">
+    <text>Vorhaltefehler für Rang Experte gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend">
+    <text>Zielvorhalt: Legende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend_desc">
+    <text>Vorhaltefehler für Rang Legende gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master">
+    <text>Zielvorhalt: Meister</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master_desc">
+    <text>Vorhaltefehler für Rang Meister gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice">
+    <text>Zielvorhalt: Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice_desc">
+    <text>Multiplikator des Vorhaltefehlers für Anfänger gegenüber dem physikalisch korrekten Wert. 2.00 zielt zu weit voraus, 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional">
+    <text>Zielvorhalt: Profi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional_desc">
+    <text>Vorhaltefehler für Rang Profi gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee">
+    <text>Zielvorhalt: Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee_desc">
+    <text>Vorhaltefehler für Rang Auszubildende gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran">
+    <text>Zielvorhalt: Veteran</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran_desc">
+    <text>Vorhaltefehler für Rang Veteran gegenüber dem physikalisch korrekten Wert. Über 1.00 wird zu weit vorgehalten; 1.00 ist korrekt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced">
+    <text>Feuertakt: Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Erfahrene. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert">
+    <text>Feuertakt: Experte</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Experte. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend">
+    <text>Feuertakt: Legende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Legende. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master">
+    <text>Feuertakt: Meister</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Meister. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice">
+    <text>Feuertakt: Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Anfänger. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional">
+    <text>Feuertakt: Profi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Profi. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee">
+    <text>Feuertakt: Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Auszubildende. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran">
+    <text>Feuertakt: Veteran</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran_desc">
+    <text>Multiplikator der Pause zwischen Salven für Rang Veteran. 1.00 ist Standard; unter 1 wird häufiger geschossen.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced">
+    <text>Feuerstoßlänge: Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Erfahrene. 1.00 ist Standard; unter 1 werden Salven kürzer und die ersten Schüsse präziser.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert">
+    <text>Feuerstoßlänge: Experte</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Experte. 1.00 ist Standard; unter 1 wird die Salve für präzise Anfangsschüsse gekürzt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend">
+    <text>Feuerstoßlänge: Legende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Legende. 1.00 ist Standard; unter 1 wird die Salve für präzise Anfangsschüsse gekürzt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master">
+    <text>Feuerstoßlänge: Meister</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Meister. 1.00 ist Standard; unter 1 wird die Salve für präzise Anfangsschüsse gekürzt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice">
+    <text>Feuerstoßlänge: Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Anfänger. 1.00 ist Standard; unter 1 werden Salven kürzer und die ersten Schüsse präziser.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional">
+    <text>Feuerstoßlänge: Profi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Profi. 1.00 ist Standard; unter 1 werden Salven kürzer und die ersten Schüsse präziser.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee">
+    <text>Feuerstoßlänge: Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Auszubildende. 1.00 ist Standard; unter 1 werden Salven kürzer und die ersten Schüsse präziser.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran">
+    <text>Feuerstoßlänge: Veteran</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran_desc">
+    <text>Multiplikator der Feuerstoßlänge für Rang Veteran. 1.00 ist Standard; unter 1 wird die Salve für präzise Anfangsschüsse gekürzt.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced">
+    <text>Erkennungsgeschwindigkeit: Erfahrene</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Erfahrene. Höher erkennt Ziele auf Entfernung schneller. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert">
+    <text>Erkennungsgeschwindigkeit: Experte</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Experte. Höher erkennt Ziele auf Entfernung schneller. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend">
+    <text>Erkennungsgeschwindigkeit: Legende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Legende. Höher erkennt Ziele auf Entfernung schneller. 2.00 erkennt Ziele doppelt so schnell wie der Ausgangswert. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master">
+    <text>Erkennungsgeschwindigkeit: Meister</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Meister. Höher erkennt Ziele auf Entfernung schneller. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice">
+    <text>Erkennungsgeschwindigkeit: Anfänger</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Anfänger. Höher erkennt Ziele auf Entfernung schneller. 1.00 lässt die aktuellen Einstellungen unverändert. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional">
+    <text>Erkennungsgeschwindigkeit: Profi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Profi. Höher erkennt Ziele auf Entfernung schneller. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee">
+    <text>Erkennungsgeschwindigkeit: Auszubildende</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Auszubildende. Höher erkennt Ziele auf Entfernung schneller. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran">
+    <text>Erkennungsgeschwindigkeit: Veteran</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran_desc">
+    <text>Erkennungsgeschwindigkeitsfaktor für Rang Veteran. Höher erkennt Ziele auf Entfernung schneller. Erkennung aus nächster Nähe bleibt unverändert.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled">
+    <text>Erkennungsgeschwindigkeit aktivieren</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled_desc">
+    <text>Legt je Rang fest, wie schnell ein Stalker Ziele auf Entfernung zusätzlich zu den Erkennungseinstellungen bemerkt. Hohe Ränge sehen dich früher. Aus: feste Engine-Geschwindigkeit.</text>
+  </string>
+  <string id="ui_mcm_at_resistance_desc">
+    <text>Geplant: Widerstandskraft von NPC abhängig von Rüstung, Ausrüstung, Schadensminderung und Artefakten. Noch keine Einstellungen.</text>
+  </string>
+  <string id="ui_mcm_at_title">
+    <text>AlifeTactics</text>
+  </string>
+  <string id="ui_mcm_menu_accuracy">
+    <text>Genauigkeit</text>
+  </string>
+  <string id="ui_mcm_menu_at">
+    <text>Lebenstaktiken</text>
+  </string>
+  <string id="ui_mcm_menu_behaviors">
+    <text>Verhalten</text>
+  </string>
+  <string id="ui_mcm_menu_combat">
+    <text>Kampf</text>
+  </string>
+  <string id="ui_mcm_menu_commitment">
+    <text>Entschlossenheit</text>
+  </string>
+  <string id="ui_mcm_menu_conduct">
+    <text>Verhalten</text>
+  </string>
+  <string id="ui_mcm_menu_crossfire">
+    <text>Kreuzfeuer</text>
+  </string>
+  <string id="ui_mcm_menu_danger">
+    <text>Gefahr</text>
+  </string>
+  <string id="ui_mcm_menu_development">
+    <text>Entwicklung</text>
+  </string>
+  <string id="ui_mcm_menu_disclosure">
+    <text>Entdeckung</text>
+  </string>
+  <string id="ui_mcm_menu_effectiveness">
+    <text>Effektivität</text>
+  </string>
+  <string id="ui_mcm_menu_effects">
+    <text>Effekte</text>
+  </string>
+  <string id="ui_mcm_menu_fixes">
+    <text>Fehlerbehebungen</text>
+  </string>
+  <string id="ui_mcm_menu_healing">
+    <text>Heilung</text>
+  </string>
+  <string id="ui_mcm_menu_hit">
+    <text>Treffer</text>
+  </string>
+  <string id="ui_mcm_menu_jam">
+    <text>Störungen</text>
+  </string>
+  <string id="ui_mcm_menu_maneuvers">
+    <text>Manöver</text>
+  </string>
+  <string id="ui_mcm_menu_mechanics">
+    <text>Mechaniken</text>
+  </string>
+  <string id="ui_mcm_menu_mutants">
+    <text>Mutanten</text>
+  </string>
+  <string id="ui_mcm_menu_range">
+    <text>Reichweite</text>
+  </string>
+  <string id="ui_mcm_menu_reaction">
+    <text>Reaktion</text>
+  </string>
+  <string id="ui_mcm_menu_resistance">
+    <text>Widerstand</text>
+  </string>
+  <string id="ui_mcm_menu_sound">
+    <text>Geräusch</text>
+  </string>
+</string_table>

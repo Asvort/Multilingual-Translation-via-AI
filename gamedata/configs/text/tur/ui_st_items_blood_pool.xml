@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_blood_pool_max_pool_size">
+    <text>Kan birikintisinin azami boyutu</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates">
+    <text>Güncelleme sayısı</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates_desc">
+    <text>Daha fazla güncelleme boyutun daha yumuşak artmasını sağlar (azami boyut değişmez).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime">
+    <text>Birikintinin ömrü (saniye)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime_desc">
+    <text>Birikintinin ortaya çıktıktan sonra kalma süresi (pool_lifetime - num_of_updates * update_freq = tamamen yok olana kadar geçen süre).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_title">
+    <text>Kan birikintisi</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq">
+    <text>Güncelleme sıklığı (saniye)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq_desc">
+    <text>Güncellemeler arasındaki süre. Daha düşük değer, birikintinin azami boyuta daha hızlı ulaşmasını sağlar.</text>
+  </string>
+  <string id="ui_mcm_menu_blood_pool">
+    <text>Kan birikintisi</text>
+  </string>
+</string_table>

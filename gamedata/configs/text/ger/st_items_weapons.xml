@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_axe">
+    <text>Axt</text>
+  </string>
+  <string id="st_axe2">
+    <text>Feuerwehraxt</text>
+  </string>
+  <string id="st_axe2_descr">
+    <text>Eine gewöhnliche Feuerwehraxt, meist aus Metall und hochwertigem Schmiedestahl, mit keilförmigem Kopf aus Schneide und Spitze. Die spitze Seite dient dazu, bei einem Brand Holzteile, Dächer, Fenster und Türen aufzubrechen. In den Händen eines Stalkers kann sie zum Werkzeug der Rache werden.\n \n%c[ui_gray_1]EIGENSCHAFTEN:\n%c[d_cyan] • %c[ui_gray_2] Nahkampfwaffe\n%c[d_cyan] • %c[ui_gray_2] größere Reichweite als Messer\n%c[d_cyan] • %c[ui_gray_2] Alltagswerkzeug\n%c[d_red] • %c[ui_gray_2] zum Zerlegen von Wild geeignet</text>
+  </string>
+  <string id="st_axe3">
+    <text>Jagdaxt</text>
+  </string>
+  <string id="st_axe3_descr">
+    <text>Eine Jagdaxt, die seit Jahrtausenden zum Holzhacken, als Waffe und sogar als zeremonieller Gegenstand dient. Es gibt viele Formen, doch meist besteht sie aus Kopf und Stiel. In der Zone kann eine Axt über Leben und Tod entscheiden.\n \n%c[ui_gray_1]EIGENSCHAFTEN:\n%c[d_cyan] • %c[ui_gray_2] Nahkampfwaffe\n%c[d_cyan] • %c[ui_gray_2] größere Reichweite als Messer\n%c[d_cyan] • %c[ui_gray_2] Alltagswerkzeug\n%c[d_red] • %c[ui_gray_2] zum Zerlegen von Wild geeignet</text>
+  </string>
+  <string id="st_axe_descr">
+    <text>Eine alte Axt, die einst einem Einheimischen gehörte. Wegen ihrer Sperrigkeit nehmen Stalker sie kaum auf längere Ausflüge mit.\n \n%c[ui_gray_1]EIGENSCHAFTEN:\n%c[d_cyan] • %c[ui_gray_2] Nahkampfwaffe\n%c[d_cyan] • %c[ui_gray_2] größere Reichweite als Messer\n%c[d_cyan] • %c[ui_gray_2] Alltagswerkzeug\n%c[d_red] • %c[ui_gray_2] zum Zerlegen von Wild geeignet</text>
+  </string>
+  <string id="st_dynamo_hand_descr">
+    <text>\n%c[ui_gray_1]Ein selbstgebauter, tragbarer Handgenerator mit einem einphasigen Asynchronmotor aus einem alten Elektrogerät. Die erzeugte Spannung läuft über einen Abwärtstransformator zu einem Gleichrichter mit sowjetischen D242-Dioden und lädt ein tragbares Energiegerät. Ein Kondensator an der Hilfswicklung des Motors sorgt für Selbsterregung. Der Rotor wird über ein Schneckengetriebe mit Nenndrehzahl von 1.300–1.500 U/min gedreht. Das Gerät besitzt ein amerikanisches Zeigeramperemeter von WESTON ELECTRICAL INSTRUMENT. Es ist schwer, aber in der Zone sehr geschätzt; geschickte Bastler können es verbessern.\n \n%c[ui_gray_2]EIGENSCHAFTEN:\n%c[d_cyan] • %c[ui_gray_2] technologisches Gerät\n%c[d_cyan] • %c[ui_gray_2] Nennleistung des Motors: 40 W%c[d_red] • %c[ui_gray_2] begrenzte Lebensdauer der Motor- und Getriebelager%c[d_cyan]</text>
+  </string>
+  <string id="st_dynamo_hand_name">
+    <text>Tragbarer Handgenerator</text>
+  </string>
+  <string id="st_grenade_f1">
+    <text>F-1-Granate</text>
+  </string>
+  <string id="st_grenade_f1_descr">
+    <text>Eine defensive Antipersonen-Handgranate mit Splitterwirkung. Sie ist dafür vorgesehen, feindliche Kräfte im Verteidigungskampf zu bekämpfen. Wegen des großen Splitterradius darf sie nur aus der Deckung geworfen werden.\n \n%c[d_purple] • %c[ui_gray_2] explosionskraft: %c[ui_gray_1]hoch\n%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]4.2 m\n%c[d_purple] • %c[ui_gray_2] Splitterwirkungsradius: %c[ui_gray_1]48 m\n%c[d_purple] • %c[ui_gray_2] Splitteranzahl: %c[ui_gray_1]380 (Kleinsplitter)\n%c[d_purple] • %c[ui_gray_2] Zündverzögerung: %c[ui_gray_1]~4 Sekunden</text>
+  </string>
+  <string id="st_grenade_launcher">
+    <text>GP-25-Unterlaufgranatwerfer „Kostjor”</text>
+  </string>
+  <string id="st_grenade_launcher_descr">
+    <text>Einzelschüssiger, von vorn zu ladender gezogener Unterlaufgranatwerfer für Sturmgewehre der Warschauer-Pakt-Staaten. Er wurde entwickelt, um die Feuerkraft eines Infanterietrupps deutlich zu erhöhen. Der Abzug spannt sich selbst; der Werfer besitzt eine manuelle Sicherung und verhindert automatisch einen Schuss, wenn er falsch am Gewehr montiert ist.\n \n %c[d_purple] • %c[ui_gray_2] Mündungsgeschwindigkeit: %c[ui_gray_1]~76 m/s\n %c[d_purple] • %c[ui_gray_2] Reichweite: %c[ui_gray_1]~300 m\n %c[d_purple] • %c[ui_gray_2] Nachladezeit: %c[ui_gray_1]langsam\n %c[d_purple] • %c[ui_gray_2] Munition: %c[ui_gray_1]40-mm-Granate VOG-25\n \n</text>
+  </string>
+  <string id="st_grenade_launcher_m203">
+    <text>M203-Unterlaufgranatwerfer</text>
+  </string>
+  <string id="st_grenade_launcher_m203_descr">
+    <text>Modifikation des einschüssigen M203 mit um drei Zoll verkürztem Lauf und Picatinny-Montage. Dank der geänderten Befestigung wird er weltweit häufig eingesetzt und passt auf die meisten derzeit hergestellten Gewehre. Trotz modernerer Bauart besitzt er weitgehend dieselben Eigenschaften wie sein sowjetisches Gegenstück, der GP-25.\n \n %c[d_purple] • %c[ui_gray_2] Mündungsgeschwindigkeit: %c[ui_gray_1]~76 m/s\n %c[d_purple] • %c[ui_gray_2] Reichweite: %c[ui_gray_1]~300 m\n %c[d_purple] • %c[ui_gray_2] Nachladezeit: %c[ui_gray_1]langsam\n %c[d_purple] • %c[ui_gray_2] Munition: %c[ui_gray_1]40-mm-Granate M203\n \n</text>
+  </string>
+  <string id="st_grenade_light">
+    <text>M67-Granate</text>
+  </string>
+  <string id="st_grenade_light_descr">
+    <text>Eine amerikanische Splitterhandgranate. Die M67 verwendet den Zünder M213 mit zwei Sicherungen: einem herkömmlichen Ringstift und einer Drahtschlaufe um den Zünder, die den Hebel festhält. Dank der zuverlässigen Sicherung kann sie getragen werden, indem der Zünderhebel am Ausrüstungsgurt eingehakt wird. Die kompakte Größe und dichte Splitterwirkung machten die M67 bei Fallschirmjägern, Marines und Spezialeinheiten beliebt.</text>
+  </string>
+  <string id="st_grenade_rgd5">
+    <text>RGD-5-Granate</text>
+  </string>
+  <string id="st_grenade_rgd5_descr">
+    <text>Eine sowjetische offensive Splitterhandgranate mit Verzögerungszünder. Sie soll feindliche Kräfte beim Explodieren mit Splittern des Gehäuses bekämpfen.\n \n%c[d_purple] • %c[ui_gray_2] explosionskraft: %c[ui_gray_1]mittel\n%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]3.2 m\n%c[d_purple] • %c[ui_gray_2] Splitterwirkungsradius: %c[ui_gray_1]43 m\n%c[d_purple] • %c[ui_gray_2] Splitteranzahl: %c[ui_gray_1]240 (Kleinsplitter)\n%c[d_purple] • %c[ui_gray_2] Zündverzögerung: %c[ui_gray_1]~4 Sekunden</text>
+  </string>
+  <string id="st_grenade_smoke">
+    <text>Rauchgranate</text>
+  </string>
+  <string id="st_grenade_smoke_descr">
+    <text>Eine Rauchhandgranate zum Erzeugen einer Rauchwand. Die Rauchwand bildet sich innerhalb von 10 Sekunden.</text>
+  </string>
+  <string id="st_grenade_thermite">
+    <text>Thermitgranate</text>
+  </string>
+  <string id="st_grenade_thermite_descr">
+    <text>Eine Brandgranate, auch Thermitgranate genannt. Bei der Detonation erzeugt eine heftige Thermitreaktion Temperaturen bis 2.200 °C: Aluminiumpulver reagiert mit Eisenoxid und bildet dabei einen Strom aus geschmolzenem Eisen und Aluminiumoxid. Sie enthält 600 oder 800 Gramm Thermitmischung.\n \n%c[d_purple] • %c[ui_gray_2] EXPLOSIONSKRAFT: %c[ui_gray_1]mittel (Hitzeschaden)\n%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]4.6 m\n%c[d_purple] • %c[ui_gray_2] Splitterwirkungsradius: %c[ui_gray_1]keine\n%c[d_purple] • %c[ui_gray_2] Splitteranzahl: %c[ui_gray_1]keine\n%c[d_purple] • %c[ui_gray_2] Zündverzögerung: %c[ui_gray_1]~4 Sekunden</text>
+  </string>
+  <string id="st_knife_6x4">
+    <text>6x4-Bajonett</text>
+  </string>
+  <string id="st_knife_6x4_descr">
+    <text>\n \n%c[ui_gray_1]Ein Standardbajonett der sowjetischen Streitkräfte für AKM- und AK-74-Gewehre. Es wurde aus dem Modell 6x3 entwickelt; die wichtigsten Änderungen betrafen Scheide und Griff. In der Zone ist es kaum zu gebrauchen.\n \n%c[d_red] • %c[d_red] nicht zum Zerlegen von Großwild geeignet</text>
+  </string>
+  <string id="st_knife_combat">
+    <text>M9-Bajonett</text>
+  </string>
+  <string id="st_knife_combat_descr">
+    <text>\n \n%c[ui_gray_1]Ein großes Mehrzweckmesser mit zuverlässigem gummiertem Griff, das US-Soldaten seit 1986 häufig verwenden. Es ist scharf und in gutem Zustand. Gegen Schutzwesten ist es wenig wirksam, doch die gezahnte Klinge schneidet Fleisch gut und verhindert, dass sich die Wunde schließt. Ideal, um verletzte Tiere zu töten oder Wachen lautlos anzugreifen.</text>
+  </string>
+  <string id="st_knife_hunting">
+    <text>Jagdmesser</text>
+  </string>
+  <string id="st_knife_hunting_descr">
+    <text>\n \n%c[ui_gray_1]Ein modernes, sehr robustes Jagdmesser aus Edelstahl. Die sauber geschliffene Klinge durchtrennt mühelos Häute und Weichteile selbst großer Mutanten. Es eignet sich auch gut zur Jagd, da es tiefe, blutende Wunden verursacht. Die Klinge ist jedoch nicht dafür ausgelegt, Schutzwesten zu durchdringen, was den Einsatz stark einschränkt.</text>
+  </string>
+  <string id="st_knife_m">
+    <text>Militärmesser</text>
+  </string>
+  <string id="st_knife_m_descr">
+    <text>\n \n%c[ui_gray_1]NICHT VERWENDET! Standard-Militärmesser.</text>
+  </string>
+  <string id="st_knife_needle">
+    <text>NR-40-Messer</text>
+  </string>
+  <string id="st_knife_needle_descr">
+    <text>\n \n%c[ui_gray_1]Dieses sowjetische Stahlmesser hat eine 152-mm-Klinge mit großer Fingermulde, einen schwarzen Holzgriff und ein S-förmiges Parierstück. Die umgekehrte Parierstange entspricht dem üblichen sowjetischen Griff mit der Schneide zum Körper. Eine grobe Stoffwicklung verbessert den Halt des Griffs. Das Messer ist recht klein und verursacht keine tiefen Wunden, kann aber Schutzwesten durchdringen.\n \n%c[d_red] • %c[d_red] nicht zum Zerlegen von Großwild geeignet</text>
+  </string>
+  <string id="st_knife_nr40">
+    <text>Einzigartiges NR-40-Messer</text>
+  </string>
+  <string id="st_knife_nr40_descr">
+    <text>\n \n%c[ui_gray_1]NICHT VERWENDET! Ein sehr seltenes sowjetisches Armeemesser von historischem und symbolischem Wert. Der Holzgriff trägt ein Metallabzeichen der Luftlandetruppen aus der Zeit des Großen Vaterländischen Kriegs. Solche Messer werden Stalkern für außergewöhnliche Leistungen verliehen, etwa für die Rettung eines Fraktionsführers während eines Auftrags. Jeder Stalker, der es trägt, genießt in der Zone Respekt.</text>
+  </string>
+  <string id="st_knife_swat">
+    <text>Klappmesser der Spezialeinheiten</text>
+  </string>
+  <string id="st_knife_swat_descr">
+    <text>Ein Klappmesser von hervorragender Qualität, ideal für Aufklärer. Es ist eine tödliche Waffe und das einzige Messer in der Zone, das sowohl Schutzwesten durchdringt als auch ungeschütztem Fleisch schwere Wunden zufügt. Eine ausgezeichnete Nahkampfwaffe.</text>
+  </string>
+  <string id="st_trg_sako">
+    <text>Sako TRG-42</text>
+  </string>
+  <string id="st_wpn_9a91">
+    <text>9A-91</text>
+  </string>
+  <string id="st_wpn_9a91_descr">
+    <text>Der kompakte Karabiner 9A-91 wurde 1992 vom Konstruktionsbüro für Gerätebau Tula als modernerer Konkurrent des SR-3 Wichr entwickelt. Der Gasdrucklader verriegelt mit einem Drehverschluss mit vier Warzen. Der Hahnabzug ermöglicht Einzel- und Dauerfeuer. Sicherung und Feuerwahlhebel sitzen links über dem Abzugsbügel; bei der modernisierten Version befinden sie sich rechts, damit links eine Optikschiene Platz hat. Frühe Modelle besaßen eine Mündungsbremse, die später entfiel. Der Schaft klappt nach oben und vorn. Bis auf Pistolengriff und Vorderschaft aus Kunststoff besteht die Waffe aus Stahl. Sie lässt sich gut verbergen; der Ladehebel ist einklappbar. Anders als beim AK bleibt dessen Schlitz stets offen.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, PSO-1M2-01 und PSO-1M\n%c[d_purple] • %c[ui_gray_2] Schalldämpfer für 9A-91/VSK-94\n \n</text>
+  </string>
+  <string id="st_wpn_abakan">
+    <text>AN-94</text>
+  </string>
+  <string id="st_wpn_abakan_camo">
+    <text>Tarnfarbener AN-94</text>
+  </string>
+  <string id="st_wpn_abakan_descr">
+    <text>Das Nikonow AN-94 „Abakan“ von 1994 basiert auf dem Kalaschnikow-System. Seine wichtigste Kampfeigenschaft ist eine zusätzliche Zweischuss-Salve mit hoher Kadenz. Der Rückstoß wirkt erst auf den Schützen, nachdem beide Geschosse den Lauf verlassen haben, was Präzision und Trefferbild verbessert. Spezialeinheiten und Kämpfer des Duty nutzen es, um Gegner in Schutzwesten auf relativ große Entfernung zu bekämpfen.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Umbau)\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n \n</text>
+  </string>
+  <string id="st_wpn_abakan_worn">
+    <text>Abgenutzter AN-94</text>
+  </string>
+  <string id="st_wpn_ace21">
+    <text>Galil ACE-21</text>
+  </string>
+  <string id="st_wpn_ace21_descr">
+    <text>Die Galil-ACE-Sturmgewehrfamilie wird von Israel Weapon Industries (IWI) entwickelt und gefertigt. Ihre Konstruktion basiert auf dem Galil, das seinerseits vom Kalaschnikow-AK abgeleitet wurde. Die ACE-Reihe legt Wert auf Ergonomie, einfache Bedienung, Zubehörkompatibilität und Vielseitigkeit. Sie ist für drei der weltweit verbreitetsten Patronen ausgelegt —5,56×45 NATO, 7,62×39 M43 und 7,62×51 NATO— und wird mit verschiedenen Lauflängen angeboten. Gegenüber den Vorgängern wurde der Ladehebel nach links verlegt, sodass der Schütze ihn betätigen kann, ohne die Schusshand vom Griff zu nehmen. Hinzu kommen ein Verschlussfang, integrierte Picatinny-Schienen für Optik und Zubehör sowie ein verstellbarer Teleskopschaft.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632 und EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_aek971">
+    <text>AEK-971</text>
+  </string>
+  <string id="st_wpn_aek971_camo">
+    <text>AEK-971 (Duty-Tarnanstrich)</text>
+  </string>
+  <string id="st_wpn_aek971_camo_descr">
+    <text>Ein 5,45×39-mm-Sturmgewehr, das im Mechanischen Werk Kowrow unter der Leitung von Stanislaw Kok­scharow auf Grundlage von Konstantinows SA-006 entwickelt wurde. Das ausgewogene Gassystem erleichtert die Kontrolle des Dauerfeuers. Es wurde in kleinen Stückzahlen für das russische Innenministerium gefertigt. Dieses Modell ist hellbeige mit roten Streifen lackiert und gehört zu Duty. Einige Mechanismen wurden von Hand angepasst oder durch zuverlässigere Teile ersetzt. Die engere Passung erhöhte den Druck im Lauf und damit die Mündungsgeschwindigkeit des Geschosses.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_aek971_descr">
+    <text>Ein 5,45×39-mm-Sturmgewehr, das im Mechanischen Werk Kowrow unter der Leitung von Stanislaw Kok­scharow auf Grundlage von Konstantinows SA-006 entwickelt wurde. Das ausgewogene Gassystem erleichtert die Kontrolle des Dauerfeuers. Es wurde in kleinen Stückzahlen für das russische Innenministerium gefertigt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_aek971_worn">
+    <text>Abgenutzter AEK-971</text>
+  </string>
+  <string id="st_wpn_aek973">
+    <text>AEK-973</text>
+  </string>
+  <string id="st_wpn_aek973_descr">
+    <text>Ein 7,62×39-mm-Sturmgewehr, das im Mechanischen Werk Kowrow unter der Leitung von Stanislaw Kok­scharow auf Grundlage von Konstantinows SA-006 entwickelt wurde. Das ausgewogene Gassystem erleichtert die Kontrolle des Dauerfeuers. Es wurde in kleinen Stückzahlen für das russische Innenministerium gefertigt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak">
+    <text>Kalashnikow-Sturmgewehr</text>
+  </string>
+  <string id="st_wpn_ak101">
+    <text>AK-101</text>
+  </string>
+  <string id="st_wpn_ak101_camo">
+    <text>Tarnfarbener AK-101</text>
+  </string>
+  <string id="st_wpn_ak101_descr">
+    <text>Das AK-101 ist eine Exportversion des standardmäßigen AK-74M der russischen Armee aus der „Hundert“-Serie von Kalaschnikow. Der wichtigste und praktisch einzige Unterschied zum AK-74M ist das Kaliber: Es verwendet 5,56×45-mm-NATO-Munition und passende Magazine; ansonsten sind die Gewehre identisch.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)
+%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632, EOTech, Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M
+%c[d_purple] • %c[ui_gray_2] ATG-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak102">
+    <text>AK-102</text>
+  </string>
+  <string id="st_wpn_ak102_descr">
+    <text>Kompaktes Kalaschnikow-Gewehr der „Hundert“-Serie auf Basis des vollformatigen AK-101, das seinerseits vom Standard-AK-74M der russischen Armee abgeleitet ist. Es hat einen verkürzten Lauf mit speziellem Mündungsfeuerdämpfer und eine bis 500 statt 1.000 Meter markierte Visierung. Es besitzt einen seitlich klappbaren Polymerschaft und eine Standard-Optikschiene an der linken Seite des Gehäuses.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632, EOTech, Cobra EKP-1S-03 und PSO-1M
+%c[d_purple] • %c[ui_gray_2] ATG-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak103">
+    <text>AK-103</text>
+  </string>
+  <string id="st_wpn_ak103_camo">
+    <text>Tarnfarbener AK-103</text>
+  </string>
+  <string id="st_wpn_ak103_descr">
+    <text>Das AK-103 ist eine Exportversion des Standard-AK-74M der russischen Armee aus der „Hundert“-Serie von Kalaschnikow. Der Hauptunterschied ist das Kaliber: Es verwendet 7,62×39-mm-M43-Munition und passende Magazine, auch von älteren AK/AKM-Gewehren; ansonsten sind die Gewehre identisch.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)
+%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M
+%c[d_purple] • %c[ui_gray_2] ATG-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak104">
+    <text>AK-104</text>
+  </string>
+  <string id="st_wpn_ak104_descr">
+    <text>Kompaktes Kalaschnikow-Gewehr der „Hundert“-Serie auf Basis des vollformatigen AK-103, das seinerseits vom Standard-AK-74M der russischen Armee abgeleitet ist. Es hat einen verkürzten Lauf mit speziellem Mündungsfeuerdämpfer und eine bis 500 statt 1.000 Meter markierte Visierung. Es besitzt einen seitlich klappbaren Polymerschaft und eine Standard-Optikschiene an der linken Seite des Gehäuses.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M
+%c[d_purple] • %c[ui_gray_2] ATG-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak105">
+    <text>AK-105</text>
+  </string>
+  <string id="st_wpn_ak105_descr">
+    <text>Kompaktes Kalaschnikow-Gewehr der „Hundert“-Serie auf Basis des vollformatigen AK-74M, das seinerseits vom Standard-AK-74M der russischen Armee abgeleitet ist. Es hat einen verkürzten Lauf mit speziellem Mündungsfeuerdämpfer und eine bis 500 statt 1.000 Meter markierte Visierung. Es besitzt einen seitlich klappbaren Polymerschaft und eine Standard-Optikschiene an der linken Seite des Gehäuses.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M
+%c[d_purple] • %c[ui_gray_2] ATG-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak12">
+    <text>AK-12</text>
+  </string>
+  <string id="st_wpn_ak12_descr">
+    <text>Das AK-12 ist ein Kalaschnikow-Sturmgewehrentwurf aus dem Jahr 2012. Die Bedienelemente wurden für eine einfachere Handhabung grundlegend überarbeitet: Der Sicherungs- und Feuerwahlhebel wurde geändert und links ergänzt; außerdem kam ein Verschlussfang hinzu, dessen Bedienelemente auf beiden Seiten sitzen. Eine weitere Neuerung sind Picatinny-Schienen. Gegenüber dem AK-74M im Kaliber 5,45×39 mm und dem AKM im Kaliber 7,62×39 mm bietet das AK-12 eine verbesserte Ergonomie. Die Arbeiten erhöhten die Präzision und Zuverlässigkeit der Mechanismen und verlängerten die Nutzungsdauer. Es verwendet einen Langhub-Gaskolben und einen Drehverschluss; Verschlussgruppe und Abzugsmechanismus wurden gegenüber dem AK-74 wesentlich überarbeitet. Das Gewehr besitzt einen neuen verstellbaren Polymer-Teleskopschaft, der zu beiden Seiten einklappbar ist und sich in Länge und Wangenauflage verstellen lässt. Die Laufachse liegt wie bei AR-15-Sturmgewehren auf einer Linie mit dem Schaft, wodurch der Rückstoßhebel kleiner und die Präzision höher wird.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632 und EOTech
+%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer
+%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74">
+    <text>AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_alt">
+    <text>AK-74 (Alternative)</text>
+  </string>
+  <string id="st_wpn_ak74_custom">
+    <text>Sonderanfertigung AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_descr">
+    <text>Ein 5,45×39-mm-Kalaschnikow-Sturmgewehr, 1970 von Michail Kalaschnikow entwickelt und 1974 von den sowjetischen Streitkräften eingeführt. Es ist eine Weiterentwicklung des AKM und entstand im Zuge der Umstellung auf die neue 5,45×39-mm-Munition mit geringem Impuls.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_eot">
+    <text>AK-74 „EOTech”</text>
+  </string>
+  <string id="st_wpn_ak74_eot_descr">
+    <text>Ein 5,45×39-mm-Kalaschnikow-Sturmgewehr, 1970 von Michail Kalaschnikow entwickelt und 1974 von den sowjetischen Streitkräften eingeführt. Es ist eine Weiterentwicklung des AKM und entstand im Zuge der Umstellung auf die neue 5,45×39-mm-Munition mit geringem Impuls. integriertes EOTech-Reflexvisier und vergrößertes 45-Schuss-Magazin.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] integriertes EOTech-Reflexvisier und vergrößertes 45-Schuss-Magazin\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_modern">
+    <text>Modernisierter AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_old">
+    <text>AK-74 (alt)</text>
+  </string>
+  <string id="st_wpn_ak74_old_descr">
+    <text>Ein 5,45×39-mm-Kalaschnikow-Sturmgewehr, 1970 von Michail Kalaschnikow entwickelt und 1974 von den sowjetischen Streitkräften eingeführt. Es ist eine Weiterentwicklung des AKM und entstand im Zuge der Umstellung auf die neue 5,45×39-mm-Munition mit geringem Impuls.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_red] • %c[d_red] Ein Visier lässt sich mangels Schwalbenschwanzaufnahme nicht montieren.\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_rusty">
+    <text>Verrosteter AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_rusty_descr">
+    <text>Ein 5,45×39-mm-Kalaschnikow-Sturmgewehr, 1970 von Michail Kalaschnikow entwickelt und 1974 von den sowjetischen Streitkräften eingeführt. Es ist eine Weiterentwicklung des AKM und entstand im Zuge der Umstellung auf die neue 5,45×39-mm-Munition mit geringem Impuls.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[d_red] ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_worn">
+    <text>Abgenutzter AK-74</text>
+  </string>
+  <string id="st_wpn_ak74m">
+    <text>AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_alt">
+    <text>AK-74M (Alternative)</text>
+  </string>
+  <string id="st_wpn_ak74m_camo">
+    <text>Tarnfarbener AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_custom">
+    <text>Sonderanfertigung AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_descr">
+    <text>Mitte der 1980er-Jahre entwickelten Konstrukteure des Ischewsker Maschinenbauwerks mehrere universelle, modifizierte Kalaschnikow-Modelle, die A-60 und A-61. Daraus entstand das erfolgreiche AK-74M im Kaliber 5,45×39 mm. Sein Aufbau entspricht weitgehend dem AK-74 und weist keine grundlegenden inneren Unterschiede auf. Es bewahrt die besten Eigenschaften der Kalaschnikow-Gewehre und ergänzt Verbesserungen für Gefecht und Betrieb. Das AK-74M verwirklicht die Idee eines Universalgewehrs, das vier Modelle ersetzte: AK-74, AK-74N, AKS-74 und AKS-74N.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74m_duty">
+    <text>AK-74M mit Duty-Tarnanstrich</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a">
+    <text>AK-74M PK-A</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a_descr">
+    <text>Mitte der 1980er-Jahre entwickelten Konstrukteure des Ischewsker Maschinenbauwerks mehrere universelle, modifizierte Kalaschnikow-Modelle, die A-60 und A-61. Daraus entstand das erfolgreiche AK-74M im Kaliber 5,45×39 mm. Sein Aufbau entspricht weitgehend dem AK-74 und weist keine grundlegenden inneren Unterschiede auf. Es bewahrt die besten Eigenschaften der Kalaschnikow-Gewehre und ergänzt Verbesserungen für Gefecht und Betrieb. Das AK-74M verwirklicht die Idee eines Universalgewehrs, das vier Modelle ersetzte: AK-74, AK-74N, AKS-74 und AKS-74N. Das integrierte PK-A-Reflexvisier sitzt auf einer MTK-83-Halterung.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] Das integrierte PK-A-Reflexvisier sitzt auf einer MTK-83-Halterung\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74m_worn">
+    <text>Abgenutzter AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74u">
+    <text>AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_camo">
+    <text>Tarnfarbener AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_custom">
+    <text>Sonderanfertigung AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_descr">
+    <text>Das verkürzte AKS-74U wurde als Hauptwaffe für Spezialeinheiten, Luftlandetruppen und andere Spezialverbände sowie für Besatzungen gepanzerter Fahrzeuge entwickelt, die eine kompakte, aber leistungsstarke persönliche automatische Waffe benötigen. In engen Räumen und Fahrzeugen ist es deutlich führiger als das vollformatige AKS-74; der kurze Lauf und die wesentlich geringere Mündungsgeschwindigkeit verringern jedoch die effektive Reichweite.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] PBS-4-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_old">
+    <text>Alter AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_old_descr">
+    <text>Das verkürzte AKS-74U wurde als Hauptwaffe für Spezialeinheiten, Luftlandetruppen und andere Spezialverbände sowie für Besatzungen gepanzerter Fahrzeuge entwickelt, die eine kompakte, aber leistungsstarke persönliche automatische Waffe benötigen. In engen Räumen und Fahrzeugen ist es deutlich führiger als das vollformatige AKS-74; der kurze Lauf und die wesentlich geringere Mündungsgeschwindigkeit verringern jedoch die effektive Reichweite.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_red] • %c[d_red] Ein Visier lässt sich mangels Schwalbenschwanzaufnahme nicht montieren.\n%c[d_purple] • %c[ui_gray_2] PBS-4-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty">
+    <text>Verrosteter AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty_descr">
+    <text>Das verkürzte AKS-74U wurde als Hauptwaffe für Spezialeinheiten, Luftlandetruppen und andere Spezialverbände sowie für Besatzungen gepanzerter Fahrzeuge entwickelt, die eine kompakte, aber leistungsstarke persönliche automatische Waffe benötigen. In engen Räumen und Fahrzeugen ist es deutlich führiger als das vollformatige AKS-74; der kurze Lauf und die wesentlich geringere Mündungsgeschwindigkeit verringern jedoch die effektive Reichweite.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_red] • %c[d_red] Ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_snag">
+    <text>Snags AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_snag_descr">
+    <text>Das verkürzte AKS-74U wurde als Hauptwaffe für Spezialeinheiten, Luftlandetruppen und andere Spezialverbände sowie für Besatzungen gepanzerter Fahrzeuge entwickelt, die eine kompakte, aber leistungsstarke persönliche automatische Waffe benötigen. In engen Räumen und Fahrzeugen ist es deutlich führiger als das vollformatige AKS-74; der kurze Lauf und die wesentlich geringere Mündungsgeschwindigkeit verringern jedoch die effektive Reichweite. Dieses Exemplar gehörte früher dem Stalker Snag.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes Cobra-EKP-1S-03-Reflexvisier\n%c[d_purple] • %c[ui_gray_2] integrierter PBS-4-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_worn">
+    <text>Abgenutzter AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak_descr">
+    <text>Das 7,62-mm-Kalaschnikow-Sturmgewehr AK wurde 1949 in der UdSSR eingeführt. Das AK und seine Varianten zählen zu den weltweit am weitesten verbreiteten Schusswaffen. Schätzungen zufolge entfällt auf diese Familie – einschließlich lizenzierter und unlizensierter Kopien sowie darauf basierender Fremdentwicklungen – bis zu ein Fünftel aller Handfeuerwaffen der Erde.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n%c[d_red] • %c[d_red] Ein Visier lässt sich mangels Schwalbenschwanzaufnahme nicht montieren.\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_akm">
+    <text>AKM</text>
+  </string>
+  <string id="st_wpn_akm_descr">
+    <text>Das AKM (modernisiertes Kalaschnikow-Sturmgewehr) ist eine verbesserte Version des AK. Obwohl es 1970 bei den sowjetischen Truppen durch das AK-74 ersetzt wurde, bleibt das AKM weltweit die am häufigsten verwendete Variante dieser Waffenfamilie.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_akm_worn">
+    <text>Abgenutzter AKM</text>
+  </string>
+  <string id="st_wpn_akms">
+    <text>AKMS</text>
+  </string>
+  <string id="st_wpn_akms_alt">
+    <text>AKMS (Alternative)</text>
+  </string>
+  <string id="st_wpn_akms_descr">
+    <text>Das AKMS ist eine AKM-Variante mit Klappschaft. Die Schaftbefestigung unterscheidet sich von der AKS-Ausführung: Der Schaft klappt nach unten und vorn unter das Gehäuse. Diese Variante wurde eigens für Fallschirmjäger entwickelt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_akms_worn">
+    <text>Abgenutzter AKMS</text>
+  </string>
+  <string id="st_wpn_aks">
+    <text>AKS</text>
+  </string>
+  <string id="st_wpn_aks74">
+    <text>AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_descr">
+    <text>Das AK-74 ist präziser und zuverlässiger als das AKM und wird in den meisten ehemaligen Sowjetrepubliken weiterhin verwendet. Das AKS-74 besitzt einen klappbaren Metallschaft und ist hauptsächlich für Luftsturmtruppen vorgesehen. In der Zone ist es die Hauptwaffe militärischer Stalker und vieler Einzelgänger.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_aks74_new">
+    <text>Neuer AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_rusty">
+    <text>Verrosteter AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_rusty_descr">
+    <text>Das AK-74 ist präziser und zuverlässiger als das AKM und wird in den meisten ehemaligen Sowjetrepubliken weiterhin verwendet. Das AKS-74 besitzt einen klappbaren Metallschaft und ist hauptsächlich für Luftsturmtruppen vorgesehen. In der Zone ist es die Hauptwaffe militärischer Stalker und vieler Einzelgänger.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_red] • %c[d_red] Ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_aks74_worn">
+    <text>Abgenutzter AKS-74</text>
+  </string>
+  <string id="st_wpn_aks_descr">
+    <text>Das AKS ist eine AK-Variante mit seitlich einklappbarem Metallschaft für Luftlandetruppen. Es wurde gleichzeitig mit dem AK eingeführt. Anfangs besaß es ein gestanztes Gehäuse; wegen der hohen Ausschussrate beim Stanzen wurde es ab 1951 gefräst.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n%c[d_red] • %c[d_red] Ein Visier lässt sich mangels Schwalbenschwanzaufnahme nicht montieren.\n%c[d_purple] • %c[ui_gray_2] GP-25-Unterlaufgranatwerfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_apb">
+    <text>APB</text>
+  </string>
+  <string id="st_wpn_apb_descr">
+    <text>Die APB (geräuschlose automatische Pistole) ist eine schallgedämpfte Variante der APS-Pistole. Sie bestand die Erprobung und wurde 1972 eingeführt, zunächst bei den sowjetischen Spezialeinheiten und später bei Spezialeinheiten ehemaliger Sowjetstaaten. Sie wurde im Afghanistan-Konflikt und in lokalen Konflikten auf dem Gebiet der ehemaligen UdSSR häufig und erfolgreich eingesetzt. Mit montiertem Schaft und Schalldämpfer wurde sie oft am Schulterriemen getragen und als Hauptwaffe verwendet. Sie unterscheidet sich kaum von der Standard-APS.\n \n</text>
+  </string>
+  <string id="st_wpn_aps">
+    <text>APS</text>
+  </string>
+  <string id="st_wpn_aps_descr">
+    <text>Eine Pistole, die Igor Stechkin Ende der 1940er- und Anfang der 1950er-Jahre entwickelte und die 1951 zusammen mit der Makarow-Pistole bei den sowjetischen Streitkräften eingeführt wurde. Die APS war für Offiziere im direkten Kampfeinsatz sowie für Soldaten und Unteroffiziere bestimmter Spezialeinheiten vorgesehen.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] APS-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_aps_worn">
+    <text>Abgenutzte APS</text>
+  </string>
+  <string id="st_wpn_ash12">
+    <text>ASch-12</text>
+  </string>
+  <string id="st_wpn_ash12_descr">
+    <text>Das großkalibrige 12,7-mm-Sturmgewehr ASH-12 wurde beim TsKIB SOO für Spezialeinheiten des russischen FSB zusammen mit dem Scharfschützengewehr VSSK entwickelt. Es bildet ein Waffen-Patronen-System: Das TsKIB SOO entwickelte dafür die neue 12,7×55-mm-Patrone SC-130. Sie bietet hohe Mannstoppwirkung bei Gefechten auf kurze Distanz, etwa im Häuserkampf und beim Stürmen von Räumen; zugleich sinkt die Geschossenergie mit zunehmender Entfernung schnell, wodurch das Risiko für Unbeteiligte geringer wird. Die ersten Lieferungen an den Auftraggeber erfolgten Ende 2011.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632, C-More Railway Tactical und EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_aug">
+    <text>Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_a3">
+    <text>Steyr AUG A3</text>
+  </string>
+  <string id="st_wpn_aug_a3_descr">
+    <text>Das Steyr AUG (Armee Universal Gewehr) ist ein von der österreichischen Firma Steyr-Daimler-Puch 1977 eingeführtes Handwaffensystem. Es nutzt ein Bullpup-Layout, bei dem Magazin und Verschlussgruppe hinter Feuerwahlgriff und Abzug liegen. Hersteller: Steyr Mannlicher GmbH &amp; Co KG. Beim AUG A3 ersetzt eine Picatinny-Schiene die integrierte Optikaufnahme früherer Modelle; dadurch lassen sich nahezu alle optischen, Nacht- und Reflexvisiere sowie Zielmodule und mechanische Visierungen montieren. Picatinny-Schienen ersetzen auch den klappbaren Vordergriff und ermöglichen verschiedene Vordergriffe, taktische Lampen, Laserzielmarkierer und sogar 40-mm-Unterlaufgranatwerfer.
+ 
+%c[ui_gray_2]ANBAUTEILE: 
+%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer
+%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632, C-More Railway Tactical und EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_aug_custom">
+    <text>Sonderanfertigung Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_descr">
+    <text>Steyr AUG A1 in Standardkonfiguration mit festem optischem 1,5×-Visier. AUG (Armee Universal Gewehr) ist ein österreichisches 5,56-mm-Bullpup-Sturmgewehr, das in den 1960er-Jahren von Steyr Mannlicher GmbH &amp; Co KG entwickelt wurde. 1978 wurde es als StG 77 zur Standardwaffe des österreichischen Heeres und ersetzte das 7,62-mm-StG 58 (einen lizenzierten FN FAL). Das Gewehr und seine Varianten wurden außerdem von den Streitkräften Argentiniens, Australiens, Malaysias, Neuseelands, Boliviens, Ecuadors, Irlands, Luxemburgs, Saudi-Arabiens, Tunesiens und Pakistans sowie der US-Grenzpolizei eingeführt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] integriertes 1,5×-Visier\n \n</text>
+  </string>
+  <string id="st_wpn_aug_freedom">
+    <text>Steyr AUG A1 mit Freedom-Tarnanstrich</text>
+  </string>
+  <string id="st_wpn_aug_merc">
+    <text>Modifizierte Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_modern">
+    <text>Modernisierte Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_modern_descr">
+    <text>Steyr AUG A1 in der Standardkonfiguration mit fest montiertem optischem 1,5-fach-Visier. Das AUG (Armee Universal Gewehr, „universelles Armegewehr“) ist ein österreichisches 5,56-mm-Sturmgewehr in Bullpup-Bauweise, das in den 1960er-Jahren von Steyr Mannlicher GmbH &amp; Co KG entwickelt wurde. 1978 wurde es als StG 77 als Standard-Handfeuerwaffe des österreichischen Bundesheers eingeführt und ersetzte das 7,62-mm-Automatikgewehr StG 58 (ein in Lizenz gefertigtes FN FAL). Das Gewehr und seine Varianten wurden außerdem von den Streitkräften Argentiniens, Australiens, Malaysias, Neuseelands, Boliviens, Ecuadors, Irlands, Luxemburgs, Saudi-Arabiens, Tunesiens und Pakistans sowie vom US-Grenzschutz eingeführt. Dieses Modell wurde für die NATO-Standardpatrone 7,62×51 modernisiert.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] integriertes 1,5×-Zielfernrohr\n \n</text>
+  </string>
+  <string id="st_wpn_aug_worn">
+    <text>Abgenutzte Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_beretta">
+    <text>Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_alt">
+    <text>Beretta 92F (Alternative)</text>
+  </string>
+  <string id="st_wpn_beretta_camo">
+    <text>Tarnfarbene Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_descr">
+    <text>Die Beretta 92F ist vermutlich die bekannteste Pistole des US-Militärs und löste die legendäre M1911 ab. Sie nutzt einen kurz zurücklaufenden, kippenden Lauf, besitzt ein Griffstück aus Aluminiumlegierung und einen verchromten Lauf. Sie ist sehr beliebt und wurde von mehreren Ländern eingeführt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_beretta_modern">
+    <text>Modernisierte Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_rusty">
+    <text>Verrostete Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_rusty_descr">
+    <text>Die Beretta 92F ist vermutlich die bekannteste Pistole des US-Militärs und löste die legendäre M1911 ab. Sie nutzt einen kurz zurücklaufenden, kippenden Lauf, besitzt ein Griffstück aus Aluminiumlegierung und einen verchromten Lauf. Sie ist sehr beliebt und wurde von mehreren Ländern eingeführt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_red] • %c[d_red] Ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_beretta_worn">
+    <text>Abgenutzte Beretta 92F</text>
+  </string>
+  <string id="st_wpn_bizon">
+    <text>PP-19-Maschinenpistole „Bizon”</text>
+  </string>
+  <string id="st_wpn_bizon_descr">
+    <text>1993 bauten Kalaschnikow und der jüngere Dragunow den ersten Prototyp der neuen Maschinenpistole PP-19 Bizon. Sie wurde für 9×18-mm-Makarow-Munition entwickelt, sowohl für Standard- als auch für modernisierte Patronen mit stärkerem Impuls. Kennzeichnend ist ein schneckenförmiges Unterlaufmagazin für 64 Patronen. Die PP-19 arbeitet mit unverriegeltem Masseverschluss; Abzugseinheit mit Hahn und Sicherung stammen von der AK-74. Der Schuss aus geschlossenem Verschluss verbessert die Präzision bei Einzelfeuer. Das ursprüngliche Modell besitzt Visierungen wie die AKS-74U.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Visiere Cobra EKP-1S-03, USP-1 „Tulpe“ und PSO-1M\n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_bm16">
+    <text>Abgesägte TOZ-66-Flinte</text>
+  </string>
+  <string id="st_wpn_bm16_alt">
+    <text>Verbesserte abgesägte TOZ-66-Flinte</text>
+  </string>
+  <string id="st_wpn_bm16_descr">
+    <text>Wenn eine günstige, wirksame und tödliche Waffe für kurze Distanzen gebraucht wird, sägen viele Anfänger-Stalker den Schaft und die Läufe der leicht erhältlichen doppelläufigen TOZ-66 ab. Dadurch wird die Flinte leicht und handlich, verliert aber an Präzision und Reichweite.\n \n</text>
+  </string>
+  <string id="st_wpn_bm16_full">
+    <text>TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_alt">
+    <text>TOZ-66 (Alternative)</text>
+  </string>
+  <string id="st_wpn_bm16_full_descr">
+    <text>Die TOZ-66 ist eine leistungsstarke, zuverlässige und wirksame Flinte, die sich jeder Stalker leisten kann. Sie ist jedoch groß und sperrig, weshalb viele ihr hart verdientes Geld lieber für eine moderne Pistole ausgeben.\n \n</text>
+  </string>
+  <string id="st_wpn_bm16_full_rusty">
+    <text>Verrosteter TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_worn">
+    <text>Abgenutzter TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_rusty">
+    <text>Verrostete abgesägte TOZ-66-Flinte</text>
+  </string>
+  <string id="st_wpn_bm16_worn">
+    <text>Abgenutzte abgesägte TOZ-66-Flinte</text>
+  </string>
+  <string id="st_wpn_colt1911">
+    <text>Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_alt">
+    <text>Colt M1911 (Alternative)</text>
+  </string>
+  <string id="st_wpn_colt1911_camo">
+    <text>Tarnfarbene Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_camo_descr">
+    <text>Die M1911 diente von 1911 bis 1985 beim US-Militär. Die außerordentlich zuverlässige und robuste Pistole wurde weltweit von Militär und Polizei sowie zur zivilen Selbstverteidigung eingesetzt. Bis heute ist sie beliebt. Dieses Modell ist dunkel beige mit roten Schlieren lackiert.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_custom">
+    <text>Sonderanfertigung Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_descr">
+    <text>Die M1911 diente von 1911 bis 1985 beim US-Militär. Die außerordentlich zuverlässige und robuste Pistole wurde weltweit von Militär und Polizei sowie zur zivilen Selbstverteidigung eingesetzt. Bis heute ist sie beliebt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_duty">
+    <text>Colt M1911 mit Duty-Tarnanstrich</text>
+  </string>
+  <string id="st_wpn_colt1911_duty_descr">
+    <text>Die M1911 diente von 1911 bis 1985 beim US-Militär. Die außerordentlich zuverlässige und robuste Pistole wurde weltweit von Militär und Polizei sowie zur zivilen Selbstverteidigung eingesetzt. Bis heute ist sie beliebt. Dieses Exemplar hat eine höhere Mannstoppwirkung und ist in den Farben von Duty gehalten.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_merc">
+    <text>Colt M1911 mit Söldner-Tarnanstrich</text>
+  </string>
+  <string id="st_wpn_colt1911_merc_descr">
+    <text>Die M1911 diente von 1911 bis 1985 beim US-Militär. Die außerordentlich zuverlässige und robuste Pistole wurde weltweit von Militär und Polizei sowie zur zivilen Selbstverteidigung eingesetzt. Bis heute ist sie beliebt. Im Vergleich zur gewöhnlichen M1911 ist diese Pistole präziser und ihr Lauf langlebiger.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_modern">
+    <text>Modernisierter Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_new">
+    <text>Neue Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty">
+    <text>Verrostete Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty_descr">
+    <text>Die M1911 diente von 1911 bis 1985 beim US-Militär. Die außerordentlich zuverlässige und robuste Pistole wurde weltweit von Militär und Polizei sowie zur zivilen Selbstverteidigung eingesetzt. Bis heute ist sie beliebt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_red] • %c[d_red] Ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_worn">
+    <text>Abgenutzte Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt_kimber">
+    <text>Colt „Kimber Desert Warrior”</text>
+  </string>
+  <string id="st_wpn_colt_kimber_descr">
+    <text>Eine verbesserte Colt M1911A1 von Kimber. Sie nutzt einen kurz zurücklaufenden Lauf, der durch Abkippen verriegelt. Die „Desert Warrior“ wurde für Spezialeinsätze des US Marine Corps entwickelt.\n \n</text>
+  </string>
+  <string id="st_wpn_cz52">
+    <text>CZ 52</text>
+  </string>
+  <string id="st_wpn_cz52_descr">
+    <text>Auf Forderung des Generalstabs der Tschechoslowakei begann Ceskoslovenska Zbrojovka 1946 mit der Entwicklung der CZ 52. Prototypen erprobten 9×19-mm-Munition sowie Browning- und verriegelte Verschlusssysteme; die CZ 482 lieferte die besten Ergebnisse und führte zu den CZ-491-Tests von 1949–1950. \nNach der Munitionsstandardisierung wurde die Pistole 1951 auf die sowjetische 7,62×25-mm-TT-Patrone umgestellt, als CZ 513 bezeichnet und als CZ 52 eingeführt. \nSie arbeitet mit kurzem Rücklauf. Trotz hoher Feuerkraft sind Konstruktion und Griffergonomie weniger gelungen als bei anderen einheimischen Pistolen.\n \n</text>
+  </string>
+  <string id="st_wpn_cz75">
+    <text>CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_auto">
+    <text>CZ-75 Automatic</text>
+  </string>
+  <string id="st_wpn_cz75_auto_descr">
+    <text>Die CZ-75 Auto ist ein vollautomatisches Modell von 1992 mit auf 150 mm verlängertem Lauf und Dauerfeuerfunktion.</text>
+  </string>
+  <string id="st_wpn_cz75_custom">
+    <text>Sonderanfertigung CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_descr">
+    <text>Die CZ 75 ist eine 1975 in der Tschechoslowakei entwickelte und weltweit verbreitete Pistole. Josef und František Koucký entwarfen sie in Uherský Brod. Die Serienfertigung begann 1977. Der Verschluss arbeitet mit kurzem Rücklauf; zum Entriegeln kippt der Lauf nach unten. Charles Petters Konstruktion führt den Verschluss auf inneren statt äußeren Rahmenführungen. Diese Nuten verlaufen über die gesamte Rahmenlänge, sorgen für eine stabile Bewegung nahezu ohne Spiel und tragen zur hohen Präzision bei. Wegen ihrer deutlich besseren Kampf- und Gebrauchseigenschaften gegenüber TT und Standard-PM wurde die Pistole bei Spezialdiensten der Tschechoslowakei und anderer Warschauer-Pakt-Staaten beliebt, darunter beim KGB der UdSSR.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_cz75_worn">
+    <text>Abgenutzte CZ-75</text>
+  </string>
+  <string id="st_wpn_desert_eagle">
+    <text>Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_custom">
+    <text>Sonderanfertigung Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_descr">
+    <text>Die Desert Eagle der US-Firma Magnum Research verwendet einen bei Gewehren üblichen Gasdruckmechanismus und kann daher größere Kaliber verschießen als herkömmliche Selbstladepistolen. Sie ist jedoch groß und schwer.\n \n</text>
+  </string>
+  <string id="st_wpn_desert_eagle_modern">
+    <text>Modernisierter Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble">
+    <text>Desert Eagle „Steppenadler”</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble_descr">
+    <text>Die von der US-Firma Magnum Research entwickelte Desert Eagle verwendet einen bei Gewehren üblichen Gasdruckmechanismus. Dadurch kann sie Geschosse eines wesentlich größeren Kalibers verschießen als herkömmliche Selbstladepistolen. Ihre beträchtliche Größe und ihr Gewicht sind Nachteile. Bei diesem Exemplar sind alle Komponenten sorgfältig abgestimmt, um eine außergewöhnlich hohe Präzision für eine Pistole dieser Art zu erzielen; der integrierte Mündungskompensator verringert den Rückstoß deutlich. Der Stalker Logan Williams brachte die Waffe in die Zone. Als Journalist-Fotograf getarnt gelangte er allein bis ins Zentrum von Pripjat. Sein Schicksal ist unbekannt, doch Gerüchten zufolge arbeitet er für zahlreiche Geheimdienste als Informant zu Fragen der Sperrzone.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes Docter-Sight-Reflexvisier\n \n</text>
+  </string>
+  <string id="st_wpn_desert_eagle_worn">
+    <text>Abgenutzter Desert Eagle</text>
+  </string>
+  <string id="st_wpn_fal">
+    <text>FN FAL</text>
+  </string>
+  <string id="st_wpn_fal_descr">
+    <text>Das FN FAL wird von Fabrique Nationale de Herstal in Belgien gefertigt und zählt zu den bekanntesten und verbreitetsten automatischen Gewehren der Welt. Es wurde zunächst für die deutsche Zwischenpatrone 7,92x33 mm aus dem Zweiten Weltkrieg entwickelt; später folgten Prototypen für die britische .280. Danach wurde es auf 7,62x51 mm NATO umgestellt, die als gemeinsame Patrone der NATO-Länder eingeführt wurde. Im Kalten Krieg erhielt es den Spitznamen rechter Arm der freien Welt.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632-, C-More-Railway-Tactical- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_famas3">
+    <text>FAMAS G2</text>
+  </string>
+  <string id="st_wpn_famas3_descr">
+    <text>Das 1994 entwickelte FAMAS G2 unterscheidet sich vom FAMAS F1 hauptsächlich durch das Gehäuse für NATO-STANAG-konforme M16-Magazine und die Dralllänge des Laufs. Es hat die höchste Kadenz aller Gewehre in der Zone.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632 und EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_flamewerfer">
+    <text>Flammenwerfer</text>
+  </string>
+  <string id="st_wpn_flamewerfer_descr">
+    <text>Ein selbstgebauter Flammenwerfer, der häufig ausfällt und nur eine geringe Reichweite hat. Sein äußerst skurriles Design lässt Zweifel an der geistigen Ausgeglichenheit des Stalkers aufkommen, der dieses Gerät zusammengebaut hat.</text>
+  </string>
+  <string id="st_wpn_fn2000">
+    <text>FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_camo">
+    <text>Tarnfarbener FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_custom">
+    <text>Modifizierter FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_descr">
+    <text>Dieses futuristisch wirkende belgische FN-Herstal-Gewehr wird in Serie gefertigt. Trotz des massigen Aussehens ist es ergonomisch, in allen Feuerarten angenehm zu bedienen und zuverlässig.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes Visier\n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble">
+    <text>FN F2000 „EOTech“</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble_descr">
+    <text>Dieses futuristisch wirkende belgische Gewehr ist trotz seiner massigen Form ergonomisch und zuverlässig. Bei diesem Modell wurde das Standard-Optikvisier durch ein EOTech-Reflexvisier ersetzt, was die Präzision deutlich beeinflusst. Die höhere Kadenz weist auf eine Auslegung für den Nahkampf hin.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes EOTech-Reflexvisier\n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_fn2000_worn">
+    <text>Abgenutztes FN F2000</text>
+  </string>
+  <string id="st_wpn_fn57">
+    <text>FN Five-seveN</text>
+  </string>
+  <string id="st_wpn_fn57_descr">
+    <text>Die FN Five-seveN ist eine von der belgischen Fabrique Nationale de Herstal entwickelte und gefertigte Selbstladepistole. Der Name verbindet „Five-seveN“ (5,7 mm, das Kaliber der Waffe, entsprechend .224) mit den Firmeninitialen FN. Sie ist eine vollformatige Selbstladepistole mit verzögertem Masseverschluss für 5,7×28-mm-Munition und verwendet umfangreich Polymer. Sie wird auf dem Zivilmarkt immer beliebter und ist auch bei Spezialeinheiten gefragt.\n \n</text>
+  </string>
+  <string id="st_wpn_fnc">
+    <text>FN FNC</text>
+  </string>
+  <string id="st_wpn_fnc_descr">
+    <text>Ein belgisches Gewehr, das Fabrique Nationale de Herstal 1976 als Ersatz für das veraltete FN FAL entwickelte und einführte, nachdem das erste FN CAL für die NATO-Patrone 5,56 mm gescheitert war. Drei Jahre später führte es die belgische Armee ein. Spätere kleinere Änderungen vergrößerten den Abzugsbügel und ergänzten Rillen am Feuerwahlgriff. Da der Sturmgewehrmarkt bei der Einführung bereits gesättigt war, verbreitete sich das FNC nicht weit.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n \n\n \n
+		</text>
+  </string>
+  <string id="st_wpn_fnp45">
+    <text>FNP-45</text>
+  </string>
+  <string id="st_wpn_fnp45_custom">
+    <text>FNP-45 Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_fnp45_descr">
+    <text>Die FN FNP-45 ist eine von FNH-USA, der US-Tochter des belgischen Unternehmens FN Herstal, entwickelte Selbstladepistole. Sie arbeitet mit kurzem Rücklauf. Ein einzelner Verriegelungsansatz am hinteren Lauf greift in das Auswurffenster des Verschlusses; beim Entriegeln senkt eine Browning-artige Steuerkurve den Lauf gegen einen Stahleinsatz im Griffstück. Das Griffstück besteht aus schlagfestem Polymer, der Verschluss aus Edelstahl. Sie verbindet bewährte, praktische Systeme mit moderner Konstruktion, Werkstoffen und Fertigungsverfahren.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_fnp45_worn">
+    <text>Abgenutzte FNP-45</text>
+  </string>
+  <string id="st_wpn_fnx45">
+    <text>FNX-45 Tactical</text>
+  </string>
+  <string id="st_wpn_fnx45_alt">
+    <text>FNX-45 Tactical (Alternative)</text>
+  </string>
+  <string id="st_wpn_fnx45_custom">
+    <text>FNX-45 Tactical Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_fnx45_descr">
+    <text>FNX-Pistolen werden in den USA von FNH USA gefertigt, der amerikanischen Tochter des belgischen Unternehmens FN Herstal. Sie wurden 2007–2009 für das US Joint Combat Pistol Program als neue Dienstpistole der US-Streitkräfte entwickelt. Das Programm war erfolglos, doch die Pistolen gingen für Polizei- und Zivilmärkte in den USA und im Ausland in Serie. Die FNX arbeitet mit kurzem Rücklauf und abkippendem Lauf. Eine Steuerkurve unter dem Lauf wirkt mit einem Stahleinsatz im Griffstück zusammen und verriegelt bzw. entriegelt den Lauf; ein oberer Laufansatz greift in das Auswurffenster des Verschlusses.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes FNX-Tactical-Reflexvisier\n%c[d_purple] • %c[ui_gray_2] integrierter GemTech-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_fort">
+    <text>Fort-17</text>
+  </string>
+  <string id="st_wpn_fort500">
+    <text>Fort-500</text>
+  </string>
+  <string id="st_wpn_fort500_descr">
+    <text>Die Vorderschaftrepetierflinte Fort-500 wurde Ende der 1990er Jahre vom Fort-Forschungs- und Produktionsverband des ukrainischen Innenministeriums für Polizei und Sicherheitsdienste entwickelt. Heute wird sie in begrenzter Zahl von Spezialeinheiten des Ministeriums genutzt und als Jagdvariante an Zivilisten verkauft.\n \n</text>
+  </string>
+  <string id="st_wpn_fort_descr">
+    <text>Die Fort-17 ist eine ukrainische Selbstladepistole für 9×18-mm-PM-Munition. Sie wurde im Frühjahr 2004 entwickelt und wird vom Forschungs- und Produktionsverband Fort gefertigt. Sie ist eine Fort-12-Variante mit schlagfestem, glasfaserverstärktem Polyamid-Polymergriffstück, abnehmbarer an die Schützenhand anpassbarer Griffschale und Picatinny-Schiene unter dem Lauf. Polymere senken Gewicht, Fertigungsaufwand und Produktionskosten.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_fort_rusty">
+    <text>Rostige Fort-17</text>
+  </string>
+  <string id="st_wpn_fort_rusty_descr">
+    <text>Die Fort-17 ist eine ukrainische Selbstladepistole für 9×18-mm-PM-Munition. Sie wurde im Frühjahr 2004 entwickelt und wird vom Forschungs- und Produktionsverband Fort gefertigt. Sie ist eine Fort-12-Variante mit schlagfestem, glasfaserverstärktem Polyamid-Polymergriffstück, abnehmbarer an die Schützenhand anpassbarer Griffschale und Picatinny-Schiene unter dem Lauf. Polymere senken Gewicht, Fertigungsaufwand und Produktionskosten.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_red] • %c[d_red] Ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_fort_snag">
+    <text>Fort-17 Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_fort_snag_descr">
+    <text>Die Fort-17 ist eine ukrainische Selbstladepistole für 9×18-mm-PM-Munition. Sie wurde im Frühjahr 2004 entwickelt und wird vom Forschungs- und Produktionsverband Fort gefertigt. Sie ist eine Fort-12-Variante mit schlagfestem, glasfaserverstärktem Polyamid-Polymergriffstück, abnehmbarer an die Schützenhand anpassbarer Griffschale und Picatinny-Schiene unter dem Lauf. Polymere senken Gewicht, Fertigungsaufwand und Produktionskosten.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_fort_worn">
+    <text>Abgenutzte Fort-17</text>
+  </string>
+  <string id="st_wpn_g3">
+    <text>G3A3</text>
+  </string>
+  <string id="st_wpn_g36">
+    <text>G36</text>
+  </string>
+  <string id="st_wpn_g36_camo">
+    <text>Tarnfarbenes G36</text>
+  </string>
+  <string id="st_wpn_g36_descr">
+    <text>Modernes westliches Sturmgewehr mit kurz hubendem Gaskolben statt verzögertem Masseverschluss. Die Änderungen haben sich bewährt: ein erstklassiges modernes Gewehr, leicht, zuverlässig und ergonomisch.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_g36_worn">
+    <text>Abgenutztes G36</text>
+  </string>
+  <string id="st_wpn_g36k">
+    <text>G36K</text>
+  </string>
+  <string id="st_wpn_g36k_descr">
+    <text>Das HK G36K ist ein verkürzter Karabiner auf G36-Basis, entwickelt als Ersatz für das veraltete G3 der Bundeswehr. Die zuverlässige und fertigungsgerechte G36-Familie wird von Militär, Polizei und Spezialeinheiten in über 30 Ländern genutzt. Die Laufkonstruktion erlaubt weder einen Mündungsgranatwerfer noch ein Bajonett. Es gibt zwei Varianten: die verbreitete mit 3×-Visier und Tragegriff sowie eine mit mechanischer Visierung und Picatinny-Schiene ohne integrierte Optik.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes G36-Zielfernrohr\n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_g36k_worn">
+    <text>Abgenutztes G36K</text>
+  </string>
+  <string id="st_wpn_g3_descr">
+    <text>Das HK G3 (Gewehr 3) ist ein deutsches automatisches Gewehr, das 1959 bei der Bundeswehr eingeführt wurde. Es nutzt einen verzögerten Masseverschluss in L-Form. Ladehebel und verlängerter vorderer Verschlussteil liegen in einer zylindrischen Abdeckung über dem Lauf, die an ein Gasrohr erinnert. Das Gewehr ist zuverlässig und einfach zu bedienen, enthält aber Kleinteile, die bei einer Teilzerlegung verloren gehen können. Der niedrigere Preis gegenüber dem belgischen FN FAL und dem amerikanischen M14 beruht auf der einfachen Konstruktion und vielen gestanzten, später Kunststoffteilen. 1997 wurde es durch das 5,56-mm-NATO-HK G36 ersetzt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632 und EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_g3_worn">
+    <text>Abgenutztes G3A3</text>
+  </string>
+  <string id="st_wpn_g3sg1">
+    <text>G3 SG1</text>
+  </string>
+  <string id="st_wpn_g3sg1_descr">
+    <text>Das Scharfschützengewehr G3 SG1 wurde 1973 von Heckler &amp; Koch für die Bundeswehr als Variante des Sturmgewehrs G3A3 entwickelt. Es entstand durch Überarbeitung serienmäßiger G3A3, die bei Werkstests hohe Präzision zeigten. Der verzögerte Masseverschluss nutzt Rollen, um den Verschluss abzubremsen und präzise Schüsse ohne Gasregler oder hin- und hergehenden Kolben zu ermöglichen. Es diente bei den Streitkräften Deutschlands und Italiens sowie bei Spezialeinheiten mehrerer Länder, darunter den USA.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes G3-Visier\n \n</text>
+  </string>
+  <string id="st_wpn_g3sg1_modern_descr">
+    <text>Das Scharfschützengewehr G3 SG1 wurde 1973 von Heckler &amp; Koch für die Bundeswehr als Variante des Sturmgewehrs G3A3 entwickelt. Es entstand durch Überarbeitung serienmäßiger G3A3, die bei Werkstests hohe Präzision zeigten. Der verzögerte Masseverschluss nutzt Rollen, um den Verschluss abzubremsen und präzise Schüsse ohne Gasregler oder hin- und hergehenden Kolben zu ermöglichen. Es diente bei den Streitkräften Deutschlands und Italiens sowie bei Spezialeinheiten mehrerer Länder, darunter den USA.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes G3-Visier\n \n</text>
+  </string>
+  <string id="st_wpn_g3sg1_worn">
+    <text>Abgenutztes G3 SG1</text>
+  </string>
+  <string id="st_wpn_g43">
+    <text>Karabiner 43</text>
+  </string>
+  <string id="st_wpn_g43_descr">
+    <text>Durch Anpassung des Gassystems des sowjetischen SVT-40 entwickelte Nazi-Deutschland auf Grundlage des früheren Gewehr 41 das Selbstladegewehr Gewehr 43. 1944 wurde es in Karabiner 43 umbenannt. Mit Zielfernrohr ZF-4 war es für seine Zeit ein wirksames Scharfschützengewehr.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer (nach Kaliberwechsel)\n%c[d_purple] • %c[ui_gray_2] integriertes ZF-41-Visier\n \n</text>
+  </string>
+  <string id="st_wpn_galil">
+    <text>Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_custom">
+    <text>Galil AR Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_galil_descr">
+    <text>Ein israelisches Gewehr, das Israel Galili auf Grundlage des finnischen Valmet RK-62 entwickelte, einer lizenzierten Kalaschnikow-Variante. Das Galil ist für den Einsatz in trockenem Gelände ausgelegt. Es gibt zwei Laufvarianten: für 5,56×45-mm- beziehungsweise 7,62×51-mm-Munition.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Galil-4×-Visier (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_galil_modern">
+    <text>Modernisiertes Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_worn">
+    <text>Abgenutztes Galil AR</text>
+  </string>
+  <string id="st_wpn_gauss">
+    <text>Gaußgewehr</text>
+  </string>
+  <string id="st_wpn_gauss_descr">
+    <text>Eine hochpräzise Hightech-Waffe, bekannt als „Produkt Nr. 62“, entwickelt von Forschern in geheimen Laboren innerhalb der Zone. Elektromagnete beschleunigen das Geschoss auf extreme Geschwindigkeit und sorgen für enorme Durchschlagskraft bei fast fehlendem Rückstoß. Partikel bestimmter Artefakte liefern die nötige Energie für die Akkus.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] verbessertes integriertes 4×-Visier\n \n</text>
+  </string>
+  <string id="st_wpn_glock">
+    <text>Glock 19</text>
+  </string>
+  <string id="st_wpn_glock_custom">
+    <text>Glock 19 Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_glock_descr">
+    <text>Die Glock 19 ist eine Selbstladepistole von Glock mit kürzerem Verschluss und Griff als die Glock 17. Sie entspricht der Konstruktion anderer Glock-Pistolen, außer den rückstoßladenden Modellen Glock 25 und 28. Sie arbeitet mit kurzem Rücklauf; zum Entriegeln kippt der Lauf durch das Zusammenspiel einer Steuerkurve mit dem Griffstück nach unten. Wie andere Glock-Pistolen bietet sie hohe Kampf- und Gebrauchstauglichkeit. Sie wurde für den Zivilmarkt sowie Spezialeinheiten und Offiziere entwickelt, bietet Feuerkraft einer vollformatigen Dienstpistole und wird weltweit von Polizei und Streitkräften genutzt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_glock_modern">
+    <text>Glock 19 (Alternative)</text>
+  </string>
+  <string id="st_wpn_glock_modern_descr">
+    <text>Die Glock 19 ist eine Selbstladepistole von Glock mit kürzerem Verschluss und Griff als die Glock 17. Sie entspricht der Konstruktion anderer Glock-Pistolen, außer den rückstoßladenden Modellen Glock 25 und 28. Sie arbeitet mit kurzem Rücklauf; zum Entriegeln kippt der Lauf durch das Zusammenspiel einer Steuerkurve mit dem Griffstück nach unten. Wie andere Glock-Pistolen bietet sie hohe Kampf- und Gebrauchstauglichkeit. Sie wurde für den Zivilmarkt sowie Spezialeinheiten und Offiziere entwickelt, bietet Feuerkraft einer vollformatigen Dienstpistole und wird weltweit von Polizei und Streitkräften genutzt. Diese modifizierte Ausführung unterstützt zusätzlich Dauerfeuer.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_glock_worn">
+    <text>Abgenutzte Glock 19</text>
+  </string>
+  <string id="st_wpn_grach">
+    <text>MP-443 Grach</text>
+  </string>
+  <string id="st_wpn_grach_descr">
+    <text>Die Yarygin-Pistole ist eine russische Selbstladepistole, entwickelt von einem Team unter W. A. Yarygin und gefertigt im Mechanischen Werk Ischewsk. 1990 schrieb das sowjetische Verteidigungsministerium den Wettbewerb „Grach“ für einen Ersatz der PM aus, die modernen Anforderungen nicht mehr vollständig entsprach. Yarygins Entwurf wurde 1993 eingereicht und gewann 2000 als MP-443 Grach. 2003 wurde sie als 9-mm-Yarygin-Pistole (PJa) bei den russischen Streitkräften eingeführt. Sie arbeitet mit kurzem Rücklauf und verriegeltem Lauf. Verschluss und Griffstück bestehen aus Kohlenstoffstahl, der Lauf aus Edelstahl. Sie ist handlich, gut ausbalanciert und hat einen angenehm weichen Abzug.\n \n</text>
+  </string>
+  <string id="st_wpn_grach_worn">
+    <text>Abgenutzte MP-443 Grach</text>
+  </string>
+  <string id="st_wpn_groza">
+    <text>OTs-14-4A</text>
+  </string>
+  <string id="st_wpn_groza_descr">
+    <text>Ein Gewehr-Granatwerfer-System mit etwa 70 % Teilegleichheit zum AKS-74U. Hauptunterschiede sind das Kaliber 9×39 mm, das Bullpup-Layout und größere Modernisierungsmöglichkeiten. Es wurde für schnelle Eingreiftruppen entwickelt und wird von Militär und Stalkern geschätzt, weil es Gegner in Schutzwesten oder hinter Deckung zuverlässig bekämpft. Je nach Auftrag lässt es sich in vier Konfigurationen montieren. Die verbreitete Zonenvariante besitzt einen integrierten GP-25-Unterlaufgranatwerfer.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PO-4×34-Visier\n%c[d_purple] • %c[ui_gray_2] integrierter GP-25-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_groza_nimble">
+    <text>OTs-14-1A „Groza-1“</text>
+  </string>
+  <string id="st_wpn_groza_nimble_descr">
+    <text>Eine verbesserte Variante des OTs-14-4A. Die „Groza-1“ verwendet die leichtere 7,62×39-mm-Patrone, wodurch Kadenz, gestreckte Flugbahn und Magazinkapazität verbessert werden. Sie wurde nur in kleinen Versuchsserien gefertigt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PO-4×34-Visier\n%c[d_purple] • %c[ui_gray_2] integrierter GP-25-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_gsh18">
+    <text>GSh-18</text>
+  </string>
+  <string id="st_wpn_gsh18_custom">
+    <text>GSh-18 Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_gsh18_descr">
+    <text>Eine russische Pistole, Ende der 1990er-Jahre im Konstruktionsbüro für Gerätebau Tula entwickelt. Ihr Name kombiniert die Anfangsbuchstaben der Konstrukteure Wassili Grjasew und Arkadi Schipunow mit der Zahl „18“ für die Magazinkapazität. Die Serienfertigung begann 2001; die Pistole wird exportiert. 2000 wurde sie bei Spezialeinheiten des russischen Justizministeriums eingeführt, 2001 bei Spezialeinheiten und bestimmten Mitarbeitern des Innenministeriums. Nach dem Sieg im Wettbewerb 2003 für einen Ersatz der Makarow wurde sie bei der russischen Armee eingeführt. Mit den panzerbrechenden Patronen 7N21 oder 7N31 durchschlägt sie auf 20 Meter 8 mm Stahl.\n \n</text>
+  </string>
+  <string id="st_wpn_gsh18_worn">
+    <text>Abgenutzte GSh-18</text>
+  </string>
+  <string id="st_wpn_hk416">
+    <text>HK416</text>
+  </string>
+  <string id="st_wpn_hk416_descr">
+    <text>Das HK416 ist ein deutsches Gewehr, das Heckler &amp; Koch auf Grundlage des M4-Karabiners entwickelte. Zunächst sollte es als austauschbarer oberer Baugruppenblock auf die unteren Gehäuse von M4 oder M16 passen; später kamen komplette Gewehre hinzu. Der Name verweist auf die Abstammung von M4 und M16. Das Gehäuse besteht aus Aluminiumlegierung, die Magazine aus Stahl; Standard-M16-Magazine sind ebenfalls verwendbar. Der Lauf ist im Handschutz freischwingend gelagert. Picatinny- oder Daniel-Defense-Schienen oben am Gehäuse und an allen vier Seiten des Handschutzes ermöglichen zahlreiche Anbauteile. Der mehrstufige Teleskopschaft ähnelt dem des M4. Das Gewehr ist präzise und modular und lässt sich an verschiedene Gefechtsarten anpassen.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] Visiere ACOG, Barska ES AC10632 und EOTech\n%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_hk417">
+    <text>HK417</text>
+  </string>
+  <string id="st_wpn_hk417_descr">
+    <text>Das automatische Gewehr Heckler &amp; Koch HK417 im NATO-Kaliber 7,62 mm wurde auf Grundlage des automatischen Gewehrs Heckler &amp; Koch HK416 im Kaliber 5,56 mm entwickelt. Die Entwicklung des HK417 begann 2005 und stützte sich auf die Erfahrungen der Koalitionstruppen in Afghanistan und im Irak, wo Waffen im Kaliber 5,56 mm unter bestimmten Bedingungen eine unzureichende effektive Reichweite sowie eine unzureichende Durchschlags- und Mannstoppwirkung ihrer kleinkalibrigen Geschosse zeigten. \nDas HK417 besitzt eine modulare Konstruktion, die weitgehend dem amerikanischen M16 entspricht. Ein wichtiger Unterschied: Das deutsche HK417 hat ein modifiziertes Gasdrucksystem mit einem herkömmlichen Kurzhub-Gaskolben. Es gibt weitere Unterschiede, doch alle wichtigen Bedienelemente sowie die Vorgehensweise beim Zerlegen und Zusammensetzen der Waffe wurden vom M16 übernommen. Dies liegt vor allem daran, dass die USA zu den wichtigsten Absatzmärkten des HK417 gehören. HK417-Gewehre stehen derzeit bei der Bundeswehr als G28 im Dienst und werden in andere Länder exportiert.\n\n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] ACOG- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa">
+    <text>Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_hpsa_alt">
+    <text>Browning Hi-Power (Alternative)</text>
+  </string>
+  <string id="st_wpn_hpsa_descr">
+    <text>Ein modifiziertes Modell einer Pistole aus der ersten Hälfte des 20. Jahrhunderts, ebenso zuverlässig, präzise und leistungsstark wie das Original. Sie gilt als eine der besten Pistolen des 20. Jahrhunderts und ist bei Stalkern beliebt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty">
+    <text>Rostige Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty_descr">
+    <text>Ein modifiziertes Modell einer Pistole aus der ersten Hälfte des 20. Jahrhunderts, ebenso zuverlässig, präzise und leistungsstark wie das Original. Sie gilt als eine der besten Pistolen des 20. Jahrhunderts und ist bei Stalkern beliebt.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_red] • %c[d_red] Ein Schalldämpfer kann nicht montiert werden.\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa_worn">
+    <text>Abgenutzte Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_k98">
+    <text>Karabiner 98 Kurz</text>
+  </string>
+  <string id="st_wpn_k98_descr">
+    <text>Während des Zweiten Weltkriegs wurden einige präzise Karabiner 98k ausgewählt und mit Zielfernrohren ZF-39 ausgestattet. Nazi-Deutschland verwendete sie als Scharfschützengewehre. In geübten Händen betrug ihre effektive Reichweite bis zu 1.000 Meter.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] ZF-Visiere\n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer (Alternative)\n \n</text>
+  </string>
+  <string id="st_wpn_kiparis">
+    <text>OTs-02 Kiparis</text>
+  </string>
+  <string id="st_wpn_kiparis_descr">
+    <text>Die OTs-02 (TKB-0217) „Kiparis“ ist eine Maschinenpistole, die 1972 im Auftrag des Verteidigungsministeriums der UdSSR (Entwicklungsprojekt „Kustarnik“) von den Konstrukteuren N. M. Afanasjew, D. P. Pleschkow und N. V. Truchatschow vom TsKIB SOO in Tula entwickelt wurde. Als Grundlage diente die Bauweise der tschechoslowakischen Maschinenpistole Scorpion Vz.61, Modell 1961. Der automatische Mechanismus der OTs-02 „Kiparis“ arbeitet mit dem Rückstoß eines unverriegelten Masseverschlusses. Das Abzugs- und Schlagwerk mit Hahn ermöglicht Einzel- und Dauerfeuer. Der Schuss wird bei geschlossenem Verschluss abgegeben, was die Treffgenauigkeit erhöht. Die offenen Visierungen bestehen aus einem Korn mit Kornschutz und einer verstellbaren Kimme. Die Waffe verwendet ein Kastenmagazin mit zweireihiger Patronenanordnung. Zur Verbesserung der Waffenstabilität ist ein Klappschaft angebracht, der in Transportstellung über das Gehäuse geklappt wird. Verschossene Hülsen werden nach oben und hinten ausgeworfen.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_kiparis_worn">
+    <text>Abgenutzte OTs-02 Kiparis</text>
+  </string>
+  <string id="st_wpn_l85">
+    <text>L85A1</text>
+  </string>
+  <string id="st_wpn_l85_alt">
+    <text>L85A1 (Alternative)</text>
+  </string>
+  <string id="st_wpn_l85_custom">
+    <text>L85A1 Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_l85_descr">
+    <text>Die Standard-Einzelwaffe der britischen Streitkräfte. Das ursprüngliche L85A1-Sturmgewehr hatte zahlreiche Konstruktionsmängel. Die deutsche Firma Heckler &amp; Koch modernisierte es und erhöhte die Zuverlässigkeit unter verschiedensten Klima- und Einsatzbedingungen.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes SUSAT-Visier\n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_l85_modern">
+    <text>Modernisiertes L85A1</text>
+  </string>
+  <string id="st_wpn_l85_worn">
+    <text>Abgenutztes L85A1</text>
+  </string>
+  <string id="st_wpn_l85a2">
+    <text>L85A2</text>
+  </string>
+  <string id="st_wpn_l85a2_alt">
+    <text>L85A2 (Alternative)</text>
+  </string>
+  <string id="st_wpn_l85a2_custom">
+    <text>L85A2 Sonderanfertigung</text>
+  </string>
+  <string id="st_wpn_l85a2_descr">
+    <text>Die Standard-Einzelwaffe der britischen Streitkräfte. Das ursprüngliche L85A1-Sturmgewehr hatte zahlreiche Konstruktionsmängel. Die deutsche Firma Heckler &amp; Koch modernisierte es und erhöhte die Zuverlässigkeit unter verschiedensten Klima- und Einsatzbedingungen.\n \n%c[ui_gray_2]ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] integriertes 4×-SUSAT-Visier\n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_l85a2_modern">
+    <text>Modernisierte L85A2</text>
+  </string>
+  <string id="st_wpn_l96a1">
+    <text>L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1_descr">
+    <text>Das Accuracy International L96A1 Tross / Arctic Warfare ist ein britisches Scharfschützengewehr, das die britische Armee Mitte der 1980er Jahre als L96 einführte. Es besitzt ein integriertes 10-fach-Zielfernrohr Leupold Mark 4 und einen Fünf-Schuss-Repetiermechanismus im Kaliber .308; die Magazine fassen fünf oder zehn Patronen. Das Präzisionsgewehr der Spitzenklasse ist für Zuverlässigkeit unter härtesten Bedingungen bekannt. Je nach Munition und Lauf erreicht es 0,4–0,7 MOA; manche Laborierungen gruppieren fünf Schüsse auf 11,6–20,3 mm bei 100 m.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] Leupold-Mark-4-Zielfernrohr (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_l96a1_worn">
+    <text>Abgenutzte L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1m">
+    <text>L96 AWSM</text>
+  </string>
+  <string id="st_wpn_l96a1m_descr">
+    <text>Das Accuracy International L96A1 Tross / Arctic Warfare ist ein britisches Scharfschützengewehr, das die britische Armee Mitte der 1980er Jahre als L96 einführte. Es besitzt ein integriertes 10-fach-Zielfernrohr Leupold Mark 4 und einen Fünf-Schuss-Repetiermechanismus im Kaliber .308; die Magazine fassen fünf oder zehn Patronen. Das Präzisionsgewehr der Spitzenklasse ist für Zuverlässigkeit unter härtesten Bedingungen bekannt. Je nach Munition und Lauf erreicht es 0,4–0,7 MOA; manche Laborierungen gruppieren fünf Schüsse auf 11,6–20,3 mm bei 100 m.Das L96 AWSM ist eine AWS-Variante für .338 Lapua Magnum.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] Leupold-Mark-4-Zielfernrohr (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300">
+    <text>LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_camo">
+    <text>Tarnfarbenes LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_custom">
+    <text>Individuelles LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_descr">
+    <text>Das verkürzte LR-300ML ist eine Weiterentwicklung der AR-15-Familie. Änderungen an oberem Gehäuse, Lauf, Gassystem und Verschluss verbesserten Handhabung und Zuverlässigkeit und senkten das Gewicht. Es ist präzise, aber schmutzempfindlich und für die Zone wenig geeignet.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2]NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2]ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n%c[d_purple] • %c[ui_gray_2]M203-Unterlaufgranatwerfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300_rusty">
+    <text>Rostiges LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_rusty_descr">
+    <text>Das verkürzte LR-300ML ist eine Weiterentwicklung der AR-15-Familie. Änderungen an oberem Gehäuse, Lauf, Gassystem und Verschluss verbesserten Handhabung und Zuverlässigkeit und senkten das Gewicht. Es ist präzise, aber schmutzempfindlich und für die Zone wenig geeignet.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_red] • %c[d_red]SCHALLDÄMPFER NICHT MONTIERBAR\n%c[d_purple] • %c[ui_gray_2]ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n%c[d_purple] • %c[ui_gray_2]M203-Unterlaufgranatwerfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300_worn">
+    <text>Abgenutztes LR-300ML</text>
+  </string>
+  <string id="st_wpn_m16">
+    <text>M16A4</text>
+  </string>
+  <string id="st_wpn_m16_descr">
+    <text>Das M16, offiziell Rifle, Caliber 5.56 mm, M16, ist ein amerikanisches Sturmgewehr auf Basis des AR-15. In den 1960er Jahren eingeführt, ersetzte es das M14 und rüstete 1966 die US-Truppen in Vietnam aus. Frühe Modelle galten als unzuverlässig, doch Anfang der 1970er Jahre war es eine vollwertige Dienstwaffe. Gegenüber dem AKM ist es im Einzelfeuer präziser und angenehmer zu handhaben, verlangt aber sorgfältigere Pflege und bessere Munition; bei starkem Staub und Schmutz ist das AKM zuverlässiger. M16-Varianten bleiben die Standardwaffe der US-Infanterie; weltweit wurden über acht Millionen Stück hergestellt.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple] • %c[ui_gray_2] NATO suppressor\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech sights\n%c[d_purple] • %c[ui_gray_2] M203 underbarrel grenade launcher\n \n</text>
+  </string>
+  <string id="st_wpn_m16_worn">
+    <text>Abgenutzte M16A4</text>
+  </string>
+  <string id="st_wpn_m16a2">
+    <text>M16A2</text>
+  </string>
+  <string id="st_wpn_m16a2_descr">
+    <text>Das M16A2 ist eine für SS109/M855-Munition angepasste Variante des M16A1. Es besitzt einen verstärkten Lauf mit 1:7-Drall, verbesserte Visierungen bis 800 m, neue schlagfeste Polymer-Handschutzteile und einen entsprechenden Schaft sowie Drei-Schuss-Feuerstoß statt Dauerfeuer (das Marine Corps nutzte auch eine vollautomatische Version). Der nur oben geschlitzte Mündungsfeuerdämpfer verringert den Hochschlag. Es verwendet leichte 30-Schuss-Kunststoffmagazine.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple] • %c[ui_gray_2] M203 underbarrel grenade launcher\n%c[d_purple] • %c[ui_gray_2] NATO suppressor\n \n</text>
+  </string>
+  <string id="st_wpn_m24">
+    <text>M24 SWS „Green Dragon“</text>
+  </string>
+  <string id="st_wpn_m249">
+    <text>M249 SAW</text>
+  </string>
+  <string id="st_wpn_m249_descr">
+    <text>Das M249 SAW ist die US-Version des leichten FN-Minimi-Maschinengewehrs von FN Herstal im Kaliber 5,56×45 mm; die Serienfertigung begann in den 1980er Jahren. Es dient in den Streitkräften vieler Länder, darunter Australien, Belgien, Kanada, Frankreich, Griechenland, Spanien, Italien, Indonesien, Malaysia, Neuseeland, Thailand, Schweden, Großbritannien und den USA. FN Herstal stellt es weiterhin her.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2]ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_m24_descr">
+    <text>Das M24 SWS (Sniper Weapon System) der US-Armee basiert auf der Remington 700 und ist ein magazingeladenes Repetiergewehr. Es besitzt ein Leupold-Ultra-M3A-10×40-Zielfernrohr, einen speziell behandelten Edelstahl-Lauf und einen auf den Schützen einstellbaren Verbundschaft.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2]M24-Scharfschützenzielfernrohr (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_m4">
+    <text>M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4_descr">
+    <text>Das M4 wurde in den USA auf Basis des M16A2 für Fahrzeugbesatzungen und Waffenteams entwickelt. Das US Special Operations Command führte es als einheitliches Gewehr aller amerikanischen Spezialkräfte ein. Auch das Heer stellt darauf um, da der kürzere Karabiner für ein Heer mit zunehmend motorisierter Infanterie, Fahrzeugbesatzungen und Unterstützungstruppen praktischer ist. Die Hauptunterschiede zum M16A2 sind der kürzere Lauf und der Teleskopschaft.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2]NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2]ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n%c[d_purple] • %c[ui_gray_2]M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_m4_worn">
+    <text>Abgenutztes M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4a1">
+    <text>M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_camo">
+    <text>Tarnfarbenes M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_custom">
+    <text>Individuelles M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_descr">
+    <text>Der M4A1-Karabiner wurde 1996 für Spezialkräfte auf Basis des M16A3 entwickelt und kehrte von Drei-Schuss-Feuerstößen zu vollautomatischem Feuer zurück. Neben kurzem Lauf und Teleskopschaft besitzt er einen abnehmbaren Tragegriff und austauschbare Visierungen, darunter Zielfernrohr, Reflexvisier und Nachtsichtgerät. Technisch unterscheiden sich M4 und M4A1 nur wenig von den entsprechenden Varianten M16A2 und M16A3.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2]NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2]ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n%c[d_purple] • %c[ui_gray_2]M203-Unterlaufgranatwerfer (after modification)\n \n</text>
+  </string>
+  <string id="st_wpn_m4a1_freedom">
+    <text>M4A1 im Freiheit-Tarnmuster</text>
+  </string>
+  <string id="st_wpn_m4a1_worn">
+    <text>Abgenutztes M4A1</text>
+  </string>
+  <string id="st_wpn_m60">
+    <text>M60</text>
+  </string>
+  <string id="st_wpn_m60_descr">
+    <text>Das M60 ist ein amerikanisches Mehrzweck-Maschinengewehr, das nach dem Zweiten Weltkrieg entwickelt und 1957 von Heer und Marine Corps eingeführt wurde. Konstruktionsmängel und Aussehen brachten ihm den Spitznamen „Schwein“ ein. Seit den 1980er Jahren wurde es durch modernere Waffen wie das belgische M240 verdrängt, wird aber weiterhin hergestellt und oft in Nebenrollen eingesetzt. Es verbindet den Gasdrucklader des deutschen FG 42 mit dem Gurtsystem des MG 42. Die leichteren M60E3- und E4-Versionen für US-Spezialkräfte sind zuverlässiger und beheben mehrere ursprüngliche Schwächen.\n \n</text>
+  </string>
+  <string id="st_wpn_m79">
+    <text>M79</text>
+  </string>
+  <string id="st_wpn_m79_descr">
+    <text>Der M79 ist ein einschüssiger 40-mm-Granatwerfer, der 1961 von der US-Armee eingeführt wurde. Springfield Armory entwickelte ihn von 1951 bis 1961; sein inoffizieller Spitzname lautet „Elefantengewehr“.\n \n</text>
+  </string>
+  <string id="st_wpn_m82">
+    <text>Barrett M82</text>
+  </string>
+  <string id="st_wpn_m82_descr">
+    <text>Das Barrett M82, bei den US-Streitkräften als M107 bezeichnet, ist ein großkalibriges halbautomatisches Scharfschützengewehr von Barrett Firearms Manufacturing und wird von zahlreichen Ländern eingesetzt. Sein Drehkopfverschluss ist für den Antimaterialeinsatz ausgelegt, doch meist wird es gegen feindliche Infanterie verwendet.\n \n</text>
+  </string>
+  <string id="st_wpn_m98b">
+    <text>Barrett M98B „Bravo“</text>
+  </string>
+  <string id="st_wpn_m98b_descr">
+    <text>Das hochpräzise Repetier-Scharfschützengewehr M98B wurde von Barrett Firearms von Grund auf entwickelt. Es verschießt .338-Lapua-Magnum-Patronen aus einem herausnehmbaren Kastenmagazin und bietet selbst auf extreme Entfernungen beeindruckende Präzision und Mannstoppwirkung.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2]Leupold-Mark-4-Zielfernrohr (integriert)\n%c[d_purple] • %c[ui_gray_2]SR-25-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_mk14">
+    <text>Mk 14 EBR</text>
+  </string>
+  <string id="st_wpn_mk14_descr">
+    <text>Das Mark 14 Enhanced Battle Rifle der US Navy ist ein amerikanisches Präzisionsgewehr, das von den Spezialeinsatzkräften der Marine auf Basis des M14 entwickelt wurde. Es wird von mehreren Spezialeinheiten, darunter den SEALs, eingesetzt.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632-, C-More-Railway-Tactical- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_mosin">
+    <text>Mosin-Gewehr</text>
+  </string>
+  <string id="st_wpn_mosin_descr">
+    <text>Ein leicht abgenutztes Mosin-Gewehr. Das 7,62-mm-Modell 1891/30 wurde von 1930 bis 1945 als Standardwaffe der sowjetischen Infanterie gefertigt. Im Großen Vaterländischen Krieg diente es mit einem 4-fachen PE- oder 3,5-fachen PU-Zielfernrohr auch erfolgreich als Scharfschützengewehr.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple]• %c[ui_gray_2]PU-Zielfernrohr\n \n</text>
+  </string>
+  <string id="st_wpn_mosin_worn">
+    <text>Abgenutztes Mosin-Gewehr</text>
+  </string>
+  <string id="st_wpn_mossberg590">
+    <text>Mossberg 590A1</text>
+  </string>
+  <string id="st_wpn_mossberg590_descr">
+    <text>Die Mossberg 590 wurde Mitte der 1970er Jahre von O.F. Mossberg &amp; Sons als militarisierte Variante der beliebten Mossberg 500 entwickelt. Zu den Änderungen zählen verstärkte Teile, ein Hitzeschild am Lauf, eine widerstandsfähigere matte Außenbeschichtung und ein Metallabzugsbügel. Sie ist eine Vorderschaftrepetierflinte mit glattem Lauf und festem Röhrenmagazin unter dem Lauf. Ein schwenkbarer Verschlussriegel greift hinter dem Lauf in die Verriegelung; das Gehäuse besteht aus Aluminiumlegierung. Die Sicherung oben am hinteren Gehäuseteil ist für Rechts- und Linkshänder gleichermaßen geeignet.\n \n</text>
+  </string>
+  <string id="st_wpn_mossberg590_worn">
+    <text>Abgenutzte Mossberg 590A1</text>
+  </string>
+  <string id="st_wpn_mp133">
+    <text>MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_descr">
+    <text>Russische Vorderschaftrepetierflinte fur Jagd, Sport, Sicherheit und Selbstverteidigung. Auf Basis der IZH-81 entwickelt und seit 2000 in Ischewsk in Serie gefertigt.\n \n</text>
+  </string>
+  <string id="st_wpn_mp133_rusty">
+    <text>Rostige MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_worn">
+    <text>Abgenutzte MP-133</text>
+  </string>
+  <string id="st_wpn_mp153">
+    <text>MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_descr">
+    <text>Russische Selbstladeflinte namens Murka fur Jagd, Sport, Polizei und Selbstverteidigung. Nach dem letzten Schuss bleibt der Verschluss offen, was das Nachladen erleichtert und die leere Waffe anzeigt. Beliebt wegen Preis, Zuverlassigkeit und Haltbarkeit, jedoch schwerer als manche Konkurrenz.\n \n</text>
+  </string>
+  <string id="st_wpn_mp153_rusty">
+    <text>Rostige MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_worn">
+    <text>Abgenutzte MP-153</text>
+  </string>
+  <string id="st_wpn_mp412">
+    <text>MP-412 Rex</text>
+  </string>
+  <string id="st_wpn_mp412_descr">
+    <text>Der MP-412 Rex ist ein in Russland gefertigter Revolver für .357-Smith-&amp;-Wesson-Magnum- (9×33 mm) und .38-Smith-&amp;-Wesson-Special-Patronen (9,1×29 mm), der Ende der 1990er im Ischewsker Mechanischen Werk entwickelt wurde. Er war für den Export vorgesehen (REX steht für «Revolver for Export»), ging jedoch nie in die Serienproduktion. Der neue Revolver von Ischmasch besitzt zwei besondere Merkmale: einen abknickbaren Rahmen nach Art der Smith-&amp;-Wesson-Revolver des späten 19. und frühen 20. Jahrhunderts sowie einen Polymerrahmen, genauer dessen unteren Teil samt Griff. Der obere, den Lauf haltende Teil besteht aus Stahl. Der Revolver hat einen abschaltbaren Auswerfer: eingeschaltet wirft er beim Öffnen des Rahmens die Hülsen aus der Trommel; ausgeschaltet hebt er sie nur teilweise an.\n \n</text>
+  </string>
+  <string id="st_wpn_mp5">
+    <text>MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_alt">
+    <text>MP5A3 (Alternative)</text>
+  </string>
+  <string id="st_wpn_mp5_custom">
+    <text>Spezial-MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_descr">
+    <text>Die MP5A3 ist eine MP5-Variante mit ausziehbarer Metallschulterstütze. Diese Maschinenpistole ist dank ihrer Zuverlässigkeit, einfachen Handhabung und hohen Präzision sehr beliebt. Sie wurde von Militär- und Polizeieinheiten vieler Länder übernommen, gelangte auf den Schwarzmarkt und schließlich auch in die Zone.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] ACOG- und Barska-ES-AC10632-Visiere
+%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_mp5_nimble">
+    <text>MP5A3 «Flink»</text>
+  </string>
+  <string id="st_wpn_mp5_nimble_descr">
+    <text>Ein Prototyp einer Maschinenpistole auf Basis der HK MP5A3. Als nächste Generation entwickelt, übertrifft sie ihren Vorgänger durch größeres Kaliber, höhere Feuerrate und bessere Präzision.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] ACOG- und Barska-ES-AC10632-Visiere
+%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_mp5_worn">
+    <text>Abgenutzte MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5sd">
+    <text>MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_custom">
+    <text>Spezial-MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_descr">
+    <text>Die MP5SD wurde auf Basis der MP5A2 für Spezialeinheiten von Armee und Polizei entwickelt. Sie ist mit festem Schaft als MP5SD2, mit Klappschaft als MP5SD3 oder ohne Schaft als MP5SD4 erhältlich. Anders als die normale MP5 besitzt sie einen integrierten Schalldämpfer. Sie verschießt standardmäßige 9-mm-Parabellum-Munition mit Überschall-Mündungsgeschwindigkeit. Dreißig Bohrungen im Lauf leiten einen Teil der Gase in die Expansionskammer des Schalldämpfers und senken die Geschossgeschwindigkeit auf Unterschall.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] integrierter Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_mp5sd_new">
+    <text>Neue MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_worn">
+    <text>Abgenutzte MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp7">
+    <text>HK MP7</text>
+  </string>
+  <string id="st_wpn_mp7_descr">
+    <text>Die Heckler &amp; Koch MP7 ist eine Personal Defense Weapon, die Ende der 1990er Jahre für Soldaten ohne vollwertiges Gewehr entwickelt wurde, etwa Fahrzeugbesatzungen und Geschützmannschaften. Die Verbreitung von Schutzwesten verringerte die Wirksamkeit gewöhnlicher Pistolenmunition. Die Produktion begann 2001; deutsche Spezialeinheiten führten sie ein, 2006 folgten die gesamten deutschen Streitkräfte. Die britische Militärpolizei nutzt sie seit 2005. Sie konkurriert mit der FN P90 um einen Platz im NATO-Standardarsenal.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632-, C-more-Railway-Tactical- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_oc33">
+    <text>OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_oc33_descr">
+    <text>Die OTs-33-Pistole wurde Mitte der 1990er von I. J. Stechkin beim ZKIB SOO entwickelt, um seine veraltete und längst nicht mehr produzierte APS zu ersetzen. Nach der Eingliederung des ZKIB SOO in das Tulaer Konstruktionsbüro für Geräte übernahm KBP Herstellung und Vermarktung der OTs-33. Kleine Stückzahlen dienen bei verschiedenen Einheiten des russischen Innenministeriums. Gegenüber Stechkins APS bietet die OTs-33 bessere Leistung, eine einfachere Konstruktion und leichtere Handhabung. Schalldämpfer und weitere Zubehörteile lassen sich montieren.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] APS-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_oc33_rusty">
+    <text>Rostige OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_oc33_rusty_descr">
+    <text>Die OTs-33-Pistole wurde Mitte der 1990er von I. J. Stechkin beim ZKIB SOO entwickelt, um seine veraltete und längst nicht mehr produzierte APS zu ersetzen. Nach der Eingliederung des ZKIB SOO in das Tulaer Konstruktionsbüro für Geräte übernahm KBP Herstellung und Vermarktung der OTs-33. Kleine Stückzahlen dienen bei verschiedenen Einheiten des russischen Innenministeriums. Gegenüber Stechkins APS bietet die OTs-33 bessere Leistung, eine einfachere Konstruktion und leichtere Handhabung. Schalldämpfer und weitere Zubehörteile lassen sich montieren.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_red] • %c[d_red] Schalldämpfer kann nicht montiert werden\n \n</text>
+  </string>
+  <string id="st_wpn_oc33_worn">
+    <text>Abgenutzte OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_p90">
+    <text>FN P90</text>
+  </string>
+  <string id="st_wpn_p90_descr">
+    <text>Die FN P90 ist eine belgische persönliche Verteidigungswaffe (PDW), die FN Herstal 1986–1987 vor allem für Panzerbesatzungen und Fahrer von Kampffahrzeugen entwickelte. Sie besitzt ein fortschrittliches, ergonomisches Design. Die SS190-Patrone im Kaliber 5,7×28 mm wurde eigens für die P90 entwickelt und bietet hohe Durchschlagskraft bei geringer Abprallneigung. Ihr Geschoss erreicht 715 m/s Mündungsgeschwindigkeit und kann eine Titan-Kevlar-Weste nach NATO-CRISAT-Anforderungen auf bis zu 20 Meter durchschlagen.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] .57-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_pb">
+    <text>PB</text>
+  </string>
+  <string id="st_wpn_pb_custom">
+    <text>Modifizierte PB</text>
+  </string>
+  <string id="st_wpn_pb_descr">
+    <text>Die 1967 eingeführte schallgedämpfte PB-Pistole (GRAU-Index 6P9) wurde auf Basis der Makarow für militärische Aufklärungsteams und Mitarbeiter des sowjetischen KGB entwickelt. Ihr integrierter Schalldämpfer senkt die Geschossgeschwindigkeit auf Unterschall.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] 6P9-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_pb_worn">
+    <text>Abgenutzte PB</text>
+  </string>
+  <string id="st_wpn_pkm_zulus">
+    <text>Zulus PKM</text>
+  </string>
+  <string id="st_wpn_pkm_zulus_descr">
+    <text>Dieses Maschinengewehr gehörte Zulu. Sein Rücklaufmechanismus ist besonders zuverlässig. Die Modifikationen haben die Waffe schwerer gemacht, was für den Vorbesitzer jedoch kein Problem war. Außerdem ist ein Reflexvisier montiert, mit dem sich Ziele schnell erfassen lassen.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-Reflexvisier (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_pkp">
+    <text>PKP «Petscheneg»</text>
+  </string>
+  <string id="st_wpn_pkp_descr">
+    <text>Das 7,62-mm-Maschinengewehr PKP «Petscheneg» ist ein russisches Universalmaschinengewehr auf Basis der PKM. Es dient zur Bekämpfung von Gegnern, Feuerstellungen, Fahrzeugen und Luftzielen. Die von TsNIITochMash entwickelte Waffe nutzt eine durch Pulvergase angetriebene Zwangsluftkühlung des Laufs. Der verstellbare Gasregler ermöglicht den Einsatz in allen Klimazonen. Der außen gerippte Lauf liegt in einer Metallabdeckung. Austretende Gase erzeugen vorn in der Abdeckung Unterdruck; hintere Lüftungsöffnungen führen beim Schießen kontinuierlich kühle Luft am Lauf entlang. Die Kühlung verringert die Streuung und verlängert die Lebensdauer des Laufs. Die Pecheneg übernimmt bis zu 80 % der PKM-Bauteile, darunter Gehäuse und Lafette. Laut Entwicklern steigt die Feuerwirksamkeit von der Lafette um 150 % und vom Zweibein um 250 %.\n \n</text>
+  </string>
+  <string id="st_wpn_pm">
+    <text>Makarow-PM</text>
+  </string>
+  <string id="st_wpn_pm_actor">
+    <text>Auszeichnungs-Makarow-PM</text>
+  </string>
+  <string id="st_wpn_pm_actor_descr">
+    <text>Ein personalisierter Makarow, der Degtjarjow als Auszeichnung verliehen wurde. Die Gravur lautet: «Für die erfolgreiche Erfüllung besonders gefährlicher Aufträge und den dabei bewiesenen Heldenmut und Mut».\n \n</text>
+  </string>
+  <string id="st_wpn_pm_custom">
+    <text>Spezial-Makarow-PM</text>
+  </string>
+  <string id="st_wpn_pm_descr">
+    <text>Die in der Zone häufigste Pistole und ein Erbe der Sowjetzeit: Die Makarow PM zählt zu den besten kompakten Selbstverteidigungswaffen. Sie ist klein, äußerst zuverlässig und einfach zu bedienen und zu warten. Zu ihren Nachteilen zählen geringe Reichweite und Präzision, mäßige Geschosswirkung sowie ein recht hohes Gewicht bei kleinem Magazin im Vergleich zu modernen Pistolen derselben Klasse.\n \n</text>
+  </string>
+  <string id="st_wpn_pm_rusty">
+    <text>Rostiger Makarow-PM</text>
+  </string>
+  <string id="st_wpn_pm_rusty_descr">
+    <text>Die in der Zone häufigste Pistole und ein Erbe der Sowjetzeit: Die Makarow PM zählt zu den besten kompakten Selbstverteidigungswaffen. Sie ist klein, äußerst zuverlässig und einfach zu bedienen und zu warten. Zu ihren Nachteilen zählen geringe Reichweite und Präzision, mäßige Geschosswirkung sowie ein recht hohes Gewicht bei kleinem Magazin im Vergleich zu modernen Pistolen derselben Klasse.\n \n</text>
+  </string>
+  <string id="st_wpn_pm_worn">
+    <text>Abgenutzter Makarow-PM</text>
+  </string>
+  <string id="st_wpn_pmm">
+    <text>PMM</text>
+  </string>
+  <string id="st_wpn_pmm_descr">
+    <text>Die 9-mm-Makarow-PMM ist eine modernisierte russische Pistole, die Anfang der 1990er im Rahmen des Forschungsprogramms «Grach» entwickelt wurde. Das Griffstück wurde verstärkt und der Verschluss schwerer ausgeführt. Spiralnuten im Patronenlager ermöglichen die Verwendung der hochimpulsigen 9×18-mm-PMM-Munition. Beim Schuss drückt der Gasdruck die Hülsenwände in drei Nuten des Patronenlagers und hält die Hülse dort, bis das Geschoss den Lauf verlassen hat und der Druck sinkt; anschließend wird die Hülse ausgezogen und ausgeworfen. Die neue Patrone erhöht den maximalen Laufinnendruck um 15 % und damit leicht den Rückstoß. 70 % der PMM-Teile sind mit der Makarow PM austauschbar.\n \n</text>
+  </string>
+  <string id="st_wpn_pp2000">
+    <text>PP-2000</text>
+  </string>
+  <string id="st_wpn_pp2000_descr">
+    <text>Die PP-2000 ist eine russische 9-mm-Maschinenpistole, entwickelt von einem Team des Tulaer Konstruktionsbüros für Geräte unter W. P. Grjasjew und A. G. Shipunow. Sie ist für Polizeieinheiten im urbanen Einsatz und als Selbstverteidigungswaffe bestimmter Militärangehöriger gedacht. Die Serienfertigung für das russische Innenministerium begann 2006. Das Gehäuse besteht aus hochfestem Kunststoff, der Lauf ist verchromt. Schalldämpfer sowie Reflex- oder Zielfernrohr können montiert werden; Serienmodelle besitzen eine Universalschiene auf dem Gehäusedeckel.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ppsh41">
+    <text>PPSh-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_camo">
+    <text>Tarnfarbene PPSh-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_descr">
+    <text>Diese Maschinenpistole wurde vom sowjetischen Konstrukteur Georgi Schpagin entwickelt und 1941 eingeführt. Sie wurde im Großen Vaterländischen Krieg und in vielen Nachkriegskonflikten intensiv eingesetzt. Die UdSSR nahm sie 1951 außer Dienst und ersetzte sie durch das Kalaschnikow-Gewehr, doch Streitkräfte und bewaffnete Gruppen weltweit nutzten sie noch lange, etwa in den Korea- und Vietnamkriegen, den beiden Afghanistan-Kriegen und im Irakkrieg.\n \n</text>
+  </string>
+  <string id="st_wpn_ppsh41_new">
+    <text>Modifizierte PPSh-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_old">
+    <text>Alte PPSh-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_rusty">
+    <text>Rostige PPSh-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_worn">
+    <text>Abgenutzte PPSh-41</text>
+  </string>
+  <string id="st_wpn_protecta">
+    <text>Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_aim">
+    <text>Modifizierte Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_aim_descr">
+    <text>Eine glattläufige Kampfflinte mit Revolvermechanismus, die paramilitärischen Einheiten hohe Feuerkraft bieten soll. Gegenüber der russischen Saiga-12 und der amerikanischen AA-12 gilt sie heute als veraltet, war in den 1980ern jedoch revolutionär. Ihre Stärken sind hohe Kapazität und praktische Feuerrate; dafür ist sie groß, schwer und langsam nachzuladen. In der Zone selten, wird sie vor allem zur Säuberung geschlossener Räume von Mutanten eingesetzt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Aimpoint-Reflexvisier (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_camo">
+    <text>Tarnfarbene Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_custom">
+    <text>Modifizierte Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_descr">
+    <text>Eine glattläufige Kampfflinte mit Revolvermechanismus, die paramilitärischen Einheiten hohe Feuerkraft bieten soll. Gegenüber der russischen Saiga-12 und der amerikanischen AA-12 gilt sie heute als veraltet, war in den 1980ern jedoch revolutionär. Ihre Stärken sind hohe Kapazität und praktische Feuerrate; dafür ist sie groß, schwer und langsam nachzuladen. In der Zone selten, wird sie vor allem zur Säuberung geschlossener Räume von Mutanten eingesetzt.\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_nimble">
+    <text>Spezial-Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_nimble_descr">
+    <text>Eine glattläufige Kampfflinte mit Revolvermechanismus, die paramilitärischen Einheiten hohe Feuerkraft bieten soll. Gegenüber der russischen Saiga-12 und der amerikanischen AA-12 gilt sie heute als veraltet, war in den 1980ern jedoch revolutionär. Ihre Stärken sind hohe Kapazität und praktische Feuerrate; dafür ist sie groß, schwer und langsam nachzuladen. In der Zone selten, wird sie vor allem zur Säuberung geschlossener Räume von Mutanten eingesetzt. Dieses modifizierte Exemplar soll einem Mitglied der Duty mit dem Codenamen «Tank» gehört haben, über den wenig bekannt ist.\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_rusty">
+    <text>Rostige Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_worn">
+    <text>Abgenutzte Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_remington700">
+    <text>Remington 700</text>
+  </string>
+  <string id="st_wpn_remington700_descr">
+    <text>Die Gewehre der Modellreihe 700 werden seit 1962 von Remington in den USA hergestellt. Sie ist möglicherweise das meistverbreitete amerikanische Jagd- und Scharfschützengewehr mit Zylinderverschluss. Sie ist ein Spitzenprodukt von Remington Arms. Es gibt zahlreiche Varianten für unterschiedliche Patronen; die Standardpatrone ist jedoch 7,62×51 mm NATO. Die Magazinkapazität hängt vom Kaliber ab und beträgt 3 bis 5 Schuss. \nDie Konstruktion des Modells 700 diente und dient als Grundlage für zahlreiche spezialisierte Scharfschützengewehre. Das US Marine Corps gehörte zu den ersten, die das Modell 700 als Grundlage für eine hochpräzise Scharfschützenwaffe auswählten. \nDie in Vietnam und bis Ende der 1970er-Jahre eingesetzten M40-Gewehre basierten auf dem Modell 700BDL. Die modernen M40A1-Gewehre des US Marine Corps werden weiterhin auf Grundlage desselben Modells gebaut. Als die US Army beschloss, von selbstladenden halbautomatischen Scharfschützengewehren auf manuell nachzuladende Gewehre mit Zylinderverschluss umzusteigen, wurde das Modell 700 erneut als Grundlage für das M24 ausgewählt.\n\n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] KZRP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_remington870">
+    <text>Remington 870</text>
+  </string>
+  <string id="st_wpn_remington870_descr">
+    <text>Die Remington 870 ist eine Vorderschaftrepetierflinte mit glattem Lauf und Röhrenmagazin unter dem Lauf. Die häufigste Variante hat Kaliber 12, daneben gibt es weitere Kaliber. Sie wird von Sicherheitskräften und zur Jagd eingesetzt. In den 1970er Jahren entstand eine Militärversion mit Sieben-Schuss-Magazin, Bajonett und Hitzeschutz; die äußeren Metallteile sind matt beschichtet, um Reflexionen und Korrosion zu verhindern.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] Barska-ES-AC10632-, C-more-Railway-Tactical- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_rg6">
+    <text>RG-6</text>
+  </string>
+  <string id="st_wpn_rg6_descr">
+    <text>Dieser Revolvergranatwerfer erhöht die Feuerkraft der Infanterie im Häuserkampf. Er kam in einigen lokalen Konflikten zum Einsatz, etwa im Tschetschenienkrieg. Die von vorn geladene Trommel besitzt sechs Kammern aus gezogenen Läufen, ähnlich denen von Unterlaufgranatwerfern. Er ist für Gegner in Deckung und Flächenfeuer gedacht und eignet sich auch für Angriffe auf gut gesicherte Anlagen oder den Kampf gegen besonders widerstandsfähige Kreaturen.\n \n</text>
+  </string>
+  <string id="st_wpn_rp">
+    <text>PKM</text>
+  </string>
+  <string id="st_wpn_rp_descr">
+    <text>Ein leichtes Maschinengewehr, das Mitte der 1970er entwickelt wurde, um beim Wechsel auf die impulsschwache 5,45×39-mm-Patrone das RPK im Kaliber 7,62×39 mm abzulösen. Es basiert auf der AK-74 und besitzt ein größeres Magazin.\n \n</text>
+  </string>
+  <string id="st_wpn_rpd">
+    <text>RPD</text>
+  </string>
+  <string id="st_wpn_rpd_descr">
+    <text>Das 7,62-mm-Degtjarew-Leichtmaschinengewehr (RPD) ist eine sowjetische Waffe, die 1944 für die 7,62×39-mm-Patrone entwickelt wurde. Sie gehörte zu den ersten Waffen für die Patrone von 1943. Von Anfang der 1950er bis Mitte der 1960er war sie die wichtigste Unterstützungswaffe auf Gruppenebene und wurde danach schrittweise durch die besser vereinheitlichbare RPK ersetzt. RPD befinden sich weiterhin in Armeereserven. Wie viele sowjetische Waffen wurde sie breit an verbündete Länder exportiert und im Ausland gefertigt, etwa in China als Typ 56. US-Firmen wie DC Arms bauen auch modernisierte Ausführungen mit Teleskopschaft, Picatinny-Handschutz, ergonomischem Zweibein und Kunststoffgriff.\n \n</text>
+  </string>
+  <string id="st_wpn_rpg7">
+    <text>RPG-7</text>
+  </string>
+  <string id="st_wpn_rpg7_descr">
+    <text>Einfachheit, Robustheit, niedrige Kosten und Wirksamkeit machten die RPG-7 zur weltweit beliebtesten rückstoßfreien Panzerabwehrwaffe. Sie wird heute in verschiedenen Varianten von neun Ländern gefertigt und steht in mehr als 40 Ländern im Dienst.\n \n</text>
+  </string>
+  <string id="st_wpn_rpk">
+    <text>RPK</text>
+  </string>
+  <string id="st_wpn_rpk74">
+    <text>RPK-74</text>
+  </string>
+  <string id="st_wpn_rpk74_descr">
+    <text>Ein leichtes Maschinengewehr, das Mitte der 1970er entwickelt wurde, um beim Wechsel auf die impulsschwache 5,45×39-mm-Patrone die RPK im Kaliber 7,62×39 mm abzulösen. Es basiert auf der AK-74 und hat ein größeres Magazin.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere
+%c[d_purple] • %c[ui_gray_2] TGP-A-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_rpk74_worn">
+    <text>Abgenutzte RPK-74</text>
+  </string>
+  <string id="st_wpn_rpk_descr">
+    <text>Das 7,62-mm-Kalaschnikow-Leichtmaschinengewehr (RPK) basiert auf der AKM und wurde 1961 von der Sowjetarmee eingeführt. Es ersetzte das Degtjarew-Leichtmaschinengewehr, da es stärker mit anderen eingeführten Waffen vereinheitlicht werden konnte. Die RPK wurde in mehr als 20 Ländern übernommen; mehrere Länder fertigen Varianten oder Nachbauten. Jugoslawien stellte etwa die 72B1 «Kalaschnikow-System» im Kaliber 7,62×39 mm mit Kühlrippen am Lauf sowie die 72AB1 mit Metallschaft her.\n \n</text>
+  </string>
+  <string id="st_wpn_rpk_worn">
+    <text>Abgenutzte RPK</text>
+  </string>
+  <string id="st_wpn_saiga12s">
+    <text>Saiga-12S</text>
+  </string>
+  <string id="st_wpn_saiga12s_descr">
+    <text>Die Saiga-12S ist eine Flintenvariante mit klappbarem Kunststoffschaft, AK-artigem Feuerwahlgriff und jagdlichem Handschutz. Der Lauf ist 580 oder 680 mm lang. Korn und Kimme – oder auf Sonderbestellung eine verstellbare Visierleiste – sitzen über dem Gasrohr.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere
+%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_saiga12s_worn">
+    <text>Abgenutzte Saiga-12S</text>
+  </string>
+  <string id="st_wpn_scar">
+    <text>FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_custom">
+    <text>Tarnfarbene FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_descr">
+    <text>FN SCAR (Kampf- und Sturmgewehr der Spezialkräfte) ist ein Waffensystem, das der US-Zweig des belgischen Unternehmens FN Herstal für einen Wettbewerb von 2004 zur Entwicklung eines neuen Gewehrs für US SOCOM entwickelte. Das System gewann im Dezember 2004; die Gewehre werden derzeit bei den US Rangers eingeführt. Die Familie umfasst SCAR-H und SCAR-L. Die SCAR-H (Heavy) ist für 7,62×51-mm-NATO-Munition ausgelegt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_scar_new">
+    <text>Neue FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_worn">
+    <text>Abgenutzte FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_sig220">
+    <text>SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_custom">
+    <text>Spezial-SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_descr">
+    <text>Die für die Schweizer Armee entwickelte SIG P220 wurde zur Grundlage einer ganzen Pistolenfamilie. Diese Pistolen zeichnen sich durch höchste Fertigungsqualität aus, ohne Abstriche bei Robustheit oder Funktionalität. Die SIG P220 wurde von Armeen und Polizeikräften in Japan, Österreich, Frankreich, der Schweiz und weiteren Ländern eingeführt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_nimble">
+    <text>SIG P220 «Alpinist»</text>
+  </string>
+  <string id="st_wpn_sig220_nimble_descr">
+    <text>Ein einzigartiges SIG-P220-Modell, das in kleiner Stückzahl für eine unbekannte Spezialeinheit gefertigt wurde. Diese Variante besitzt einen Lauf aus besonders widerstandsfähigem Stahl und eine Polymer-Laufabdeckung.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_rusty">
+    <text>Rostige SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_rusty_descr">
+    <text>Die für die Schweizer Armee entwickelte SIG P220 wurde zur Grundlage einer ganzen Pistolenfamilie. Diese Pistolen zeichnen sich durch höchste Fertigungsqualität aus, ohne Abstriche bei Robustheit oder Funktionalität. Die SIG P220 wurde von Armeen und Polizeikräften in Japan, Österreich, Frankreich, der Schweiz und weiteren Ländern eingeführt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_red] • %c[d_red] Schalldämpfer kann nicht montiert werden\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_worn">
+    <text>Abgenutzte SIG P220</text>
+  </string>
+  <string id="st_wpn_sig550">
+    <text>SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_camo">
+    <text>Tarnfarbene SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_custom">
+    <text>Spezial-SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_descr">
+    <text>Ein Vertreter einer relativ neuen Sturmgewehrfamilie. Hohe Zuverlässigkeit, Präzision und einfache Handhabung machen es zu einer der besten Waffen seiner Klasse. Es besitzt einen seitlich klappbaren Skelettschaft und ein leichtes Aluminiumzweibein unter dem Kunststoffhandschutz. In der Zone ist es selten und teuer; erfahrene Stalker bestellen es meist gezielt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_rusty">
+    <text>Rostiger SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_rusty_descr">
+    <text>Ein Vertreter einer relativ neuen Sturmgewehrfamilie. Hohe Zuverlässigkeit, Präzision und einfache Handhabung machen es zu einer der besten Waffen seiner Klasse. Es besitzt einen seitlich klappbaren Skelettschaft und ein leichtes Aluminiumzweibein unter dem Kunststoffhandschutz. In der Zone ist es selten und teuer; erfahrene Stalker bestellen es meist gezielt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_red] • %c[d_red] Schalldämpfer kann nicht montiert werden
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_sniper">
+    <text>SIG SG550-1 Sniper</text>
+  </string>
+  <string id="st_wpn_sig550_sniper_descr">
+    <text>Eine Scharfschützenvariante des beliebten Schweizer Selbstladegewehrs. Das SG 550-S bildet einen Mittelweg zwischen Scharfschützen- und Sturmgewehr und vereint Stärken beider Waffentypen. Es hat jedoch auch Nachteile: für ein Scharfschützengewehr zu geringe Stoppwirkung und Präzision sowie keinen Vollautomatikmodus. Trotzdem gehört es in der Tschernobyl-Sperrzone zu den bevorzugten Waffen von Söldnern und erfahrenen Stalkern.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer
+%c[d_purple] • %c[ui_gray_2] Kahles-ZF95-Visier (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_strelok">
+    <text>SIG SG550 «Pfeil»</text>
+  </string>
+  <string id="st_wpn_sig550_strelok_descr">
+    <text>Obwohl dieses Sturmgewehr eindeutig nicht neu ist, wurde es von seinem Vorbesitzer sorgfältig behandelt. Das Gewehr wurde vollständig überholt und seine Teile genau angepasst, wodurch die Stoppwirkung etwas zunahm. In den Schaft sind sauber der Buchstabe «C» und 16 kleine Kreuze geschnitzt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_worn">
+    <text>Abgenutzte SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig552">
+    <text>SIG SG552 Commando</text>
+  </string>
+  <string id="st_wpn_sig552_descr">
+    <text>Eine kompakte Ausführung des Sturmgewehrs SIG SG 550 mit 226-mm-Lauf, entwickelt für Spezialeinheiten der Polizei. Anders als bei der SG 550 sitzt die Rückholfeder hinter dem Verschlussträger und wirkt direkt auf ihn statt auf die Gasstange. Das Gewehr besitzt einen geänderten Mündungsfeuerdämpfer und kann mit Picatinny-Schienen für Zubehör ausgestattet werden.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_sig552_worn">
+    <text>Abgenutzte SIG SG552 Commando</text>
+  </string>
+  <string id="st_wpn_sks">
+    <text>SKS-45</text>
+  </string>
+  <string id="st_wpn_sks_descr">
+    <text>Ein sowjetischer Selbstladekarabiner von Sergei Simonow, 1949 eingeführt. Anfang der 1950er wurde er an der Front durch die AK ersetzt, blieb jedoch jahrzehntelang in Reserve und wird noch heute als Paradewaffe verwendet.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple]• %c[ui_gray_2] PU-Zielfernrohr\n \n</text>
+  </string>
+  <string id="st_wpn_sks_modern">
+    <text>Modifizierter SKS-45</text>
+  </string>
+  <string id="st_wpn_sks_worn">
+    <text>Abgenutzter SKS-45</text>
+  </string>
+  <string id="st_wpn_spas12">
+    <text>SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_custom">
+    <text>Spezial-SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_descr">
+    <text>Eine glattläufige Selbstladeflinte für Spezialeinsätze mit umschaltbaren Feuermodi. In der zweiten Hälfte des 20. Jahrhunderts entwickelt, dient sie weiterhin als vielseitige Kampfflinte für Polizei und Sturmtruppen. Sie ist zuverlässig und taktisch flexibel. Trotz hohem Gewicht, komplexer Konstruktion und Preis ist sie in der Zone als wirksame Mutantenabwehr beliebt.\n \n</text>
+  </string>
+  <string id="st_wpn_spas12_nimble">
+    <text>Modifizierte SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_nimble_descr">
+    <text>Eine glattläufige Selbstladeflinte für Spezialeinsätze mit umschaltbaren Feuermodi. In der zweiten Hälfte des 20. Jahrhunderts entwickelt, bleibt sie eine vielseitige Waffe für Polizei und Sturmtruppen. Zuverlässig und taktisch flexibel, ist sie trotz Gewicht, komplexer Konstruktion und Preis in der Zone beliebt. Bei diesem Exemplar wurden Mechanismen leicht überarbeitet und Bauteile präzise angepasst, wodurch die Stoppwirkung deutlich zunahm. Die engeren Toleranzen verkürzen jedoch die Lebensdauer des Laufs. Zuvor gehörte sie Ant.\n \n</text>
+  </string>
+  <string id="st_wpn_spas12_rusty">
+    <text>Rostige SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_worn">
+    <text>Abgenutzte SPAS-12</text>
+  </string>
+  <string id="st_wpn_sr25">
+    <text>SR-25</text>
+  </string>
+  <string id="st_wpn_sr25_descr">
+    <text>Die SR-25 ist ein von Eugene Stoner in den 1990ern auf Basis der AR-15 entwickeltes Selbstlade-Scharfschützengewehr. Über 60 % der Teile sind mit der AR-15 austauschbar. Sie arbeitet mit Gasdruck und besitzt ein zweiteiliges Aluminiumgehäuse, das mit Querstiften verbunden ist. Der Abzug ermöglicht nur Einzelfeuer. Ihre hohe Präzision machte sie bei zivilen Schützen in den USA und Polizeischarfschützen beliebt. In den 1990ern wurde eine Version mit Zielfernrohr und schnell abnehmbarem Schalldämpfer bei den Spezialkräften der US-Marine als Mark 11 Model 0 eingeführt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] SR-25-Spezialschalldämpfer
+%c[d_purple] • %c[ui_gray_2] Leupold-Mark-4-Visier (integriert)
+%c[d_purple] • %c[ui_gray_2] M203-Unterlaufgranatwerfer\n \n</text>
+  </string>
+  <string id="st_wpn_sv98">
+    <text>SW-98</text>
+  </string>
+  <string id="st_wpn_sv98_custom">
+    <text>Spezial-SW-98</text>
+  </string>
+  <string id="st_wpn_sv98_descr">
+    <text>Die SW-98 ist ein russisches Repetier-Scharfschützengewehr, das 1998 bis 2000 von einem Team unter Wladimir Stronski entwickelt und von Ischmasch in Serie gefertigt wurde. Es dient zur Bekämpfung sichtbarer, beweglicher oder verborgener Gegner mit oder ohne persönliche Schutzausrüstung auf bis zu 1.000 m. Das Gewehr wird von Einheiten des russischen Innenministeriums verwendet.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] PKS-07-Visier (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_sv98_worn">
+    <text>Abgenutzte SW-98</text>
+  </string>
+  <string id="st_wpn_svd">
+    <text>SVD</text>
+  </string>
+  <string id="st_wpn_svd_custom">
+    <text>Modifizierte SVD</text>
+  </string>
+  <string id="st_wpn_svd_descr">
+    <text>Die SVD sollte ursprünglich jeder sowjetischen Infanteriegruppe einen Scharfschützen ermöglichen und war keine Waffe einer eigenen spezialisierten Scharfschützenbrigade. Für ein Scharfschützengewehr ist sie relativ leicht, gut ausbalanciert und halbautomatisch. Ihre Präzision ist gut, aber nicht herausragend; die effektive Reichweite beträgt bis zu 800 Meter.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere
+%c[d_purple] • %c[ui_gray_2] KZRZP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_svd_nimble">
+    <text>SVD «Luchs»</text>
+  </string>
+  <string id="st_wpn_svd_nimble_descr">
+    <text>Eine individuell gefertigte Variante des SVD-Scharfschützengewehrs. Äußerlich unterscheidet sie sich kaum vom Standardmodell, bietet im Einsatz jedoch ein deutlich besseres Verhältnis aus Präzision und Stoppwirkung.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] 1P59-«Giperon»-Visier (integriert)
+%c[d_purple] • %c[ui_gray_2] KZRZP-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_svd_rusty">
+    <text>Rostige SVD</text>
+  </string>
+  <string id="st_wpn_svd_rusty_descr">
+    <text>Die SVD sollte jeder sowjetischen Infanteriegruppe einen Scharfschützen ermöglichen und war nicht für eine eigene Spezialbrigade gedacht. Für ein Scharfschützengewehr ist sie leicht, gut ausbalanciert und halbautomatisch. Die Präzision ist gut, aber nicht herausragend; die effektive Reichweite beträgt bis zu 800 m.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere
+%c[d_red] • %c[d_red] Schalldämpfer kann nicht montiert werden\n \n</text>
+  </string>
+  <string id="st_wpn_svd_worn">
+    <text>Abgenutzte SVD</text>
+  </string>
+  <string id="st_wpn_svt40">
+    <text>SWT-40</text>
+  </string>
+  <string id="st_wpn_svt40_descr">
+    <text>Das 7,62-mm-Tokarew-Selbstladegewehr Modell 1940 wurde 1940 bei der Roten Armee eingeführt und ersetzte das 7,62-mm-Scharfschützengewehr Modell 1891/30. Es nutzt einen Kurzhub-Gaskolben und verriegelt durch vertikales Kippen des Verschlusses. Der Schaft besteht aus mehreren Teilen, der Abzug ist hahngetrieben und die Sicherung blockiert den Abzug. Scharfschützen-SVT-40 wurden vor allem gegen weit entfernte Ziele eingesetzt, die nur kurz im Sichtfeld des Schützen auftauchten.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple]• %c[ui_gray_2] spezielles PU-Zielfernrohr\n \n</text>
+  </string>
+  <string id="st_wpn_svt40_modern">
+    <text>Modifizierte SWT-40</text>
+  </string>
+  <string id="st_wpn_svt40_rusty">
+    <text>Rostige SWT-40</text>
+  </string>
+  <string id="st_wpn_svt40_worn">
+    <text>Abgenutzte SWT-40</text>
+  </string>
+  <string id="st_wpn_svu">
+    <text>OTs-03 SWU</text>
+  </string>
+  <string id="st_wpn_svu_alt">
+    <text>OTs-03 SWU (Alternative)</text>
+  </string>
+  <string id="st_wpn_svu_descr">
+    <text>Die OTs-03 SVU ist eine modernisierte SVD-Scharfschützenwaffe, ursprünglich für die sowjetischen Luftlandetruppen entwickelt, aber nie in Produktion genommen. Anfang der 1990er wurde sie vom russischen Innenministerium eingeführt. Die kompakte Bullpup-Bauweise besitzt eine starke Mündungsbremse, die Rückstoß und Schusslärm verringert.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_svu_nimble">
+    <text>OTs-03 SWU-A</text>
+  </string>
+  <string id="st_wpn_svu_nimble_descr">
+    <text>Ein verkürztes Scharfschützengewehr mit höherer Feuerrate und das kompakteste Modell der SVU/SVD-Familie. Sein besonderes Merkmal ist der auf Wunsch des russischen Innenministeriums ergänzte Vollautomatikmodus. Obwohl es nicht für den Nahkampf gedacht ist, hilft dieser Modus, wenn der Schütze entdeckt wird. Die geringere Größe mindert Präzision und Geschossgeschwindigkeit. Gegen den starken Rückstoß im Automatikmodus besitzt die SVU-A einen integrierten Schalldämpfer mit Mündungsfeuerdämpfer, der zugleich als wirksame Mündungsbremse dient. Dieses Gewehr gehörte früher Max, dem legendären Hüter der Fraktion Freiheit.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere\n \n</text>
+  </string>
+  <string id="st_wpn_svu_worn">
+    <text>Abgenutzte OTs-03 SWU</text>
+  </string>
+  <string id="st_wpn_toz194">
+    <text>TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_descr">
+    <text>Die TOZ-194 ist eine russische Pumpflinte, die Mitte der 1990er auf Basis der TOZ-94 entwickelt und im Tulaer Waffenwerk gefertigt wurde. Sie wird über den beweglichen Vorderschaft von Hand nachgeladen; das Röhrenmagazin sitzt unter dem Lauf. Vorderschaft und Pistolengriff bestehen aus Kunststoff, ein Schaft fehlt. Die offene Visierung ist nicht verstellbar. Gegenüber der TOZ-94 ist sie vielseitiger, fasst mehr Patronen und ist kleiner und leichter.\n \n</text>
+  </string>
+  <string id="st_wpn_toz194_rusty">
+    <text>Rostige TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_worn">
+    <text>Abgenutzte TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz34">
+    <text>TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_bull">
+    <text>TOZ-34 «Bull»</text>
+  </string>
+  <string id="st_wpn_toz34_bull_descr">
+    <text>Eine handgefertigte Modifikation der TOZ-34 für «Bull»-Patronen. Jetzt kann sie sogar einen Panzer stoppen. Sie sieht zwar wie eine verzierte TOZ-34 aus, doch bei genauerem Hinsehen erkennt man einen Lauf aus einzigartigem Metall und einen Schaft aus Kohlefaser. Wer dieses Wunderwerk gebaut hat, bleibt ein Rätsel…\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_custom">
+    <text>Spezial-TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_decor">
+    <text>Verzierter TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_descr">
+    <text>Die Bockdoppelflinte TOZ-34 wurde 1965 von den talentierten Konstrukteuren N. I. Korowjakow und W. P. Otschewnew im Tulaer Waffenwerk entwickelt. Ihr günstiger Preis, hohe Stoppwirkung und die Möglichkeit, beide Läufe zugleich abzufeuern, machten sie bei Anfängern am Rand der Zone schnell beliebt. Gegen Mutanten ist sie besonders wirksam.\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_mark4">
+    <text>TOZ-34 «Bison»</text>
+  </string>
+  <string id="st_wpn_toz34_mark4_descr">
+    <text>Die Bockdoppelflinte «Bison» wurde 1965 von den Tulaer Waffenkonstrukteuren N. I. Korowjakow und W. P. Otschewnew entwickelt. Niedriger Preis, hohe Stoppwirkung und die Möglichkeit, beide Läufe zugleich abzufeuern, machten sie bei Anfängern am Rand der Zone schnell beliebt. Präzision und Wirkung machen sie besonders effektiv gegen Mutanten. Dieses Modell besitzt ein integriertes Leupold-Mark-4-Zielfernrohr mit variabler Vergrößerung und erhöhte Präzision und Letalität.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Leupold-Mark-4-Visier (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_obrez">
+    <text>Abgesägte TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_custom">
+    <text>Spezial-abgesägte TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_decor">
+    <text>Verzierte abgesägte TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_descr">
+    <text>Eine TOZ-34 mit gekürzten Läufen für bessere Führigkeit. Die Bockdoppelflinte wurde 1965 von den Tulaer Waffenkonstrukteuren N. I. Korowjakow und W. P. Otschewnew entwickelt. Niedriger Preis, hohe Stoppwirkung und die Möglichkeit, beide Läufe zugleich abzufeuern, machten sie bei Anfängern am Rand der Zone schnell beliebt. Gegen Mutanten ist sie besonders wirksam.\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_rusty">
+    <text>Rostige abgesägte TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_worn">
+    <text>Abgenutzte abgesägte TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_rusty">
+    <text>Rostige TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_worn">
+    <text>Abgenutzte TOZ-34</text>
+  </string>
+  <string id="st_wpn_trg_descr">
+    <text>Ein Scharfschützengewehr des finnischen Waffenherstellers SAKO. Die TRG-42 ist keine verbesserte Version eines bestehenden Gewehrs, sondern eine vollständige Neuentwicklung. Ihre gleichbleibend hohe Präzision und Zuverlässigkeit machten sie bei Schießwettbewerben und Militäreinsätzen mit Scharfschützenunterstützung beliebt.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] FINDOT-Visier (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_tt33">
+    <text>TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_modern">
+    <text>Modifizierte TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_rusty">
+    <text>Rostige TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_worn">
+    <text>Abgenutzte TT-33</text>
+  </string>
+  <string id="st_wpn_type63">
+    <text>Typ 63</text>
+  </string>
+  <string id="st_wpn_type63_descr">
+    <text>Die Type 63 ist ein chinesisches Automatikgewehr auf Basis der SKS und sollte den Selbstladekarabiner Type 56 ersetzen. Der Verschlussmechanismus stammt von der Type 56, einer lizenzierten AK-Variante. Frühe Modelle haben ein gefrästes, spätere ein gestanztes Gehäuse. Statt des festen SKS-Magazins nutzt sie abnehmbare 20- oder 30-Schuss-Magazine, die weiterhin mit Ladestreifen an der Waffe befüllt werden können. Zusätzlich gibt es Vollautomatik. Die Volksbefreiungsarmee nahm sie 1978 wegen geringer Wirksamkeit außer Dienst.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] PU-Zielfernrohr\n \n</text>
+  </string>
+  <string id="st_wpn_umirotvoritel">
+    <text>Unbekannte Waffe</text>
+  </string>
+  <string id="st_wpn_umirotvoritel_descr">
+    <text>Ein unbekanntes Waffenmodell. Offenbar defekt: Das Betätigen des Abzugs bewirkt nichts. Das Exemplar ist schwer und eindeutig hochtechnologisch. Anscheinend ist es keine Feuerwaffe und funktioniert vermutlich mit elektromagnetischen Feldern. Sein zerstörerisches Potenzial lässt sich nur erahnen.\n \n</text>
+  </string>
+  <string id="st_wpn_ump45">
+    <text>UMP-45</text>
+  </string>
+  <string id="st_wpn_ump45_custom">
+    <text>Spezial-UMP-45</text>
+  </string>
+  <string id="st_wpn_ump45_descr">
+    <text>Die Maschinenpistole UMP (Universal Machinen Pistole) wurde als günstigere und etwas modernere Alternative zur teuren MP5 entwickelt und 1996 vorgestellt. Mit .45-ACP-Munition bietet sie höhere Stoppwirkung, aber auch stärkeren Rückstoß. Für bessere Kontrolle im Automatikfeuer wurde die Feuerrate gegenüber der MP5 deutlich reduziert.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere
+%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_ump45_worn">
+    <text>Abgenutzte UMP-45</text>
+  </string>
+  <string id="st_wpn_usas12">
+    <text>USAS-12</text>
+  </string>
+  <string id="st_wpn_usas12_descr">
+    <text>Die USAS-12 ist eine vollautomatische Flinte, die John Trevor Ende der 1980er auf Grundlage von Ideen des Atchisson-Assault-Shotgun-Entwicklers Maxwell Atchisson entwickelte. Sie nutzt einen Gasdrucklader mit Drehverschluss. Wie bei der AAS/AA-12 lässt der hohle Kunststoffschaft die Verschlussgruppe nach hinten in den Schaft gleiten und verringert so Feuerrate und Rückstoß. Für beidhändige Bedienung befinden sich Auswurffenster und Aussparungen für den Ladehebel auf beiden Seiten des Gehäuses. Der dreistufige Feuerwahlhebel ähnelt dem der M16. Ein Tragegriff ist ins Gehäuse integriert.\n \n</text>
+  </string>
+  <string id="st_wpn_usp">
+    <text>USP45</text>
+  </string>
+  <string id="st_wpn_usp_alt">
+    <text>USP45 (Alternative)</text>
+  </string>
+  <string id="st_wpn_usp_custom">
+    <text>Spezial-USP45</text>
+  </string>
+  <string id="st_wpn_usp_descr">
+    <text>Die USP von Heckler &amp; Koch ist eine Selbstladepistole des deutschen Unternehmens, die 1993 vorgestellt wurde. Sie wurde für Polizei und Militär entwickelt und zeichnet sich durch hohe Haltbarkeit, Zuverlässigkeit und gute Präzision aus. Nachteile sind ihre beträchtliche Größe selbst in der Kompaktversion, ein relativ hoher Schwerpunkt und der massive Verschluss, der verdecktes Tragen etwas erschwert.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] .45-ACP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_match">
+    <text>USP Match</text>
+  </string>
+  <string id="st_wpn_usp_match_descr">
+    <text>Die USP Match ist eine reine Sportversion der Pistole. Neben dem längeren Lauf besitzt sie ein Zusatzgewicht nahe der Mündung, das das Hochschlagen verringert. Der Lauf hat Polygonzüge, und der Abzugswiderstand ist einstellbar. Die Produktion endete 1999; Nachfolger war die USP Elite. Laut verfügbaren Informationen gehörte sie einst einem Söldner mit dem Spitznamen Wolfshund.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_nimble">
+    <text>USP «Marsch»</text>
+  </string>
+  <string id="st_wpn_usp_nimble_descr">
+    <text>Eine kompakte großkalibrige Pistole mit kurzem Rücklauf und leichtem Verschluss. Laut verfügbaren Informationen gehörte sie einst einem Söldner mit dem Spitznamen Wolfshund. Vermutlich handelt es sich um eine modifizierte USP Compact.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] GemTech-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_worn">
+    <text>Abgenutzte USP45</text>
+  </string>
+  <string id="st_wpn_val">
+    <text>AS Wal</text>
+  </string>
+  <string id="st_wpn_val_descr">
+    <text>Das Spezialgewehr AS Wal wurde auf Basis des leisen Scharfschützengewehrs WSS Wintores für Spezialeinheiten der Sowjetarmee und des Innenministeriums entwickelt. Es soll Gegner mit moderner persönlicher Schutzausrüstung bekämpfen, ohne die Position des Schützen preiszugeben. Integrierter Schalldämpfer und schweres Unterschallgeschoss im Kaliber 9×39 mm minimieren Schussgeräusch und Mündungsfeuer.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M2-1-Visiere
+%c[d_purple] • %c[ui_gray_2] WSS-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_val_modern">
+    <text>Modifizierter AS Wal</text>
+  </string>
+  <string id="st_wpn_val_modern_descr">
+    <text>Das Spezialgewehr AS Wal wurde aus der leisen WSS Wintores für sowjetische Spezialeinheiten entwickelt. Es soll Gegner mit moderner Schutzausrüstung bekämpfen, ohne die Position des Schützen zu verraten. Integrierter Schalldämpfer und schweres Unterschallgeschoss im Kaliber 9×39 mm minimieren Geräusch und Mündungsfeuer.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere
+%c[d_purple] • %c[ui_gray_2] WSS-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_val_worn">
+    <text>Abgenutzter AS Wal</text>
+  </string>
+  <string id="st_wpn_vepr12">
+    <text>Vepr-12 «Molot»</text>
+  </string>
+  <string id="st_wpn_vepr12_descr">
+    <text>Die Vepr-12 Molot ist ein russischer Selbstlade-Glattlaufkarabiner auf Basis des Kalaschnikow-Leichtmaschinengewehrs. Sie ist für Jagd, Sportschießen – meist IPSC im offenen Bereich –, Selbstverteidigung und den Dienstgebrauch gedacht und konkurriert direkt mit der Saiga-12-Reihe. Sie übernimmt Aufbau und gasbetriebenen Drehverschluss der RPK, doch Verschlussgruppe und Gehäuse wurden für Flintenmunition angepasst; der Abzug besitzt keinen automatischen Unterbrecher.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M-Visiere
+%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_vihr">
+    <text>SR-3M «Wichr»</text>
+  </string>
+  <string id="st_wpn_vihr_descr">
+    <text>Die SR-3 «Wichr» ist ein kompaktes russisches Sturmgewehr, das 1994 von A. D. Borissow und W. N. Lewtschenko beim TsNIITochMash in Klimowsk entwickelt wurde. A. I. Taschlykow überarbeitete den Entwurf; die Serienproduktion begann 1996. Sie basiert auf dem leisen AS Wal und teilt wichtige Bauteile, was Herstellung und Wartung vereinfacht. Wie die AS Wal nutzt sie Gasdruck und verriegelt mit sechs Warzen. Die spätere SR-3M kann Schalldämpfer, 30-Schuss-Metallmagazine sowie optische und Nachtsichtvisiere aufnehmen; außerdem besitzt sie einen von der AS Wal übernommenen links klappbaren Skelettschaft, eine SVD-artige Sicherung und einen neuen Handschutz.
+ 
+%c[ui_gray_2]ZUBEHÖR:
+%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip-, PSO-1M- und PSO-1M2-1-Visiere
+%c[d_purple] • %c[ui_gray_2] SR-3M-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez">
+    <text>VSS Wintores</text>
+  </string>
+  <string id="st_wpn_vintorez_1pn93_descr">
+    <text>Das gemeinsam mit dem Spezialsturmgewehr Val entwickelte Spezialscharfschützengewehr Vintorez ist für geräuscharmes Schießen ausgelegt. Es wird hauptsächlich von Spezialeinheiten bei verdeckten Einsätzen verwendet. Es verschießt spezielle Unterschallmunition 9x39 SP-5 und SP-6.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 1PN93-Malysh-Zielfernrohr (integriert)\n%c[d_purple] • %c[ui_gray_2] VSS-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_alt">
+    <text>VSS Wintores (Alternative)</text>
+  </string>
+  <string id="st_wpn_vintorez_descr">
+    <text>Das gemeinsam mit dem Spezialsturmgewehr Val entwickelte Spezialscharfschützengewehr Vintorez ist für geräuscharmes Schießen ausgelegt. Es wird hauptsächlich von Spezialeinheiten bei verdeckten Einsätzen verwendet. Es verschießt spezielle Unterschallmunition 9x39 SP-5 und SP-.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M2-1-Zielfernrohre\n%c[d_purple] • %c[ui_gray_2] VSS-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble">
+    <text>VSS Priboi</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble_descr">
+    <text>Eine besondere Variante des berühmten VSS-Scharfschützengewehrs, umfassend modernisiert. Der interne Mechanismus wurde durch eine verbesserte Ausführung ersetzt, wodurch Mündungsgeschwindigkeit und Präzision zunahmen. Dadurch wurden die effektive Reichweite und die Flugbahn schwerer Unterschallmunition verbessert.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PSO-1-Zielfernrohr (integriert)\n%c[d_purple] • %c[ui_gray_2] VSS-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_worn">
+    <text>Abgenutzte VSS Wintores</text>
+  </string>
+  <string id="st_wpn_vityaz">
+    <text>PP-19-01 Wityas</text>
+  </string>
+  <string id="st_wpn_vityaz_descr">
+    <text>Eine 2004 entwickelte PP-19-Variante mit gebogenem 30-Schuss-Magazin für 9x19-mm-Munition. Sie wird von Streifenpolizei, Verkehrspolizei, Werkschutz und Einheiten des russischen Innenministeriums verwendet.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632- und EOTech-Visiere\n%c[d_purple] • %c[ui_gray_2] PBS-1-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_vsk94">
+    <text>VSK-94</text>
+  </string>
+  <string id="st_wpn_vsk94_descr">
+    <text>Das schallgedämpfte Scharfschützengewehr VSK-94 wurde im Tulaer Konstruktionsbüro auf Basis des kompakten 9A-91 als günstigere Alternative zum 9-mm-Spezialscharfschützengewehr VSS Wintores entwickelt.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] Cobra-EKP-1S-03-, USP-1-Tulip- und PSO-1M2-1-Zielfernrohre\n%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94-Schalldämpfer (integriert)\n \n</text>
+  </string>
+  <string id="st_wpn_vsk94_worn">
+    <text>Abgenutzte VSK-94</text>
+  </string>
+  <string id="st_wpn_vssk">
+    <text>VSSK Wychlop</text>
+  </string>
+  <string id="st_wpn_vssk_descr">
+    <text>Das Vychlop (großkalibriges Spezial-Scharfschützengewehr) ist ein schallgedämpftes Bullpup-Gewehr großen Kalibers. Es dient dazu, leicht oder gar nicht gepanzerte Fahrzeuge sowie Personen mit persönlicher Schutzausrüstung, auch schweren Westen, auf bis zu 600 Meter geräusch- und blitzarm zu bekämpfen.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] PKS-07-Zielfernrohr (integriert)</text>
+  </string>
+  <string id="st_wpn_vz61">
+    <text>Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_alt">
+    <text>Skorpion vz.61 (Alternative)</text>
+  </string>
+  <string id="st_wpn_vz61_camo">
+    <text>Tarnfarbenes Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_descr">
+    <text>Ursprünglich im Kaliber .32 ACP wurde diese Maschinenpistole 1961 von der tschechoslowakischen Armee als vz.61 (Samopal Vzor 1961, Maschinenpistole Modell 1961) eingeführt. Diese Variante wurde wegen des Mangels an 7,65x17-mm-Munition in der Zone auf 9 mm umgerüstet.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer (nach Umbau)\n \n</text>
+  </string>
+  <string id="st_wpn_vz61_freedom">
+    <text>Skorpion vz.61 mit Freiheit-Tarnmuster</text>
+  </string>
+  <string id="st_wpn_vz61_rusty">
+    <text>Rostiges Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_rusty_descr">
+    <text>Ursprünglich im Kaliber .32 ACP wurde diese Maschinenpistole 1961 von der tschechoslowakischen Armee als vz.61 (Samopal Vzor 1961, Maschinenpistole Modell 1961) eingeführt. Wegen des Mangels an 7,65x17-mm-Munition in der Zone wurde diese Variante auf 9 mm umgerüstet.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_red] • %c[d_red] Schalldämpfer kann nicht montiert werden\n \n</text>
+  </string>
+  <string id="st_wpn_vz61_worn">
+    <text>Abgenutztes Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_wa2000">
+    <text>Walther WA 2000</text>
+  </string>
+  <string id="st_wpn_wa2000_descr">
+    <text>In den 1980er Jahren wollte Walther ein grundlegend neues Scharfschützengewehr schaffen und entwickelte das Bullpup-Gewehr WA 2000. Trotz vielversprechender Leistung wurde es bei einem Preis von rund 5.000 Dollar nirgends eingeführt. Die Fertigung lief von 1982 bis November 1988; nur 176 Stück entstanden, weshalb es heute eine Sammlerrarität ist. Wegen seiner Beliebtheit bauten später auch unabhängige Büchsenmacher Exemplare.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] KZRP-Schalldämpfer (nach Modifikation)\n \n</text>
+  </string>
+  <string id="st_wpn_walther">
+    <text>Walther P99</text>
+  </string>
+  <string id="st_wpn_walther_custom">
+    <text>Spezial-Walther P99</text>
+  </string>
+  <string id="st_wpn_walther_descr">
+    <text>Die Walther P99 bietet eine klassenbeste Ergonomie und arbeitet mit kurzem Rückstoß des Laufs. Das Griffstück besteht aus leichtem Polymer. Die für Polizei und Zivilmarkt entwickelte Pistole wird von Polizeieinheiten in mehreren Ländern verwendet.\n \n%c[ui_gray_2] ANBAUTEILE: \n%c[d_purple] • %c[ui_gray_2] 9-mm-Schalldämpfer\n \n</text>
+  </string>
+  <string id="st_wpn_walther_worn">
+    <text>Abgenutzte Walther P99</text>
+  </string>
+  <string id="st_wpn_xm8">
+    <text>HK XM8</text>
+  </string>
+  <string id="st_wpn_xm8_descr">
+    <text>Die XM8-Familie wurde gemeinsam vom US-Rüstungskonzern ATK und Heckler &amp; Koch aus Deutschland auf Basis des HK G36 entwickelt. Sie sollte M16 und M4A1 durch ein leichteres, zuverlässigeres Gewehr ersetzen. Neue Patronen mit leichten Verbundstoffhülsen versprachen 20 % weniger Gewicht als beim M16. Die Produktion war für etwa 2006 vorgesehen; US-Militärtests 2004 fielen positiv aus, doch im Oktober 2005 wurde das Projekt offiziell eingestellt und 2006 die Arbeit beendet. Zum Testzeitpunkt wurde eine XM8 auf 700 Dollar geschätzt.\n \n%c[ui_gray_2]ZUBEHÖR: \n%c[d_purple] • %c[ui_gray_2] NATO-Schalldämpfer\n%c[d_purple] • %c[ui_gray_2] ACOG-, Barska-ES-AC10632-, C-more-Railway-Tactical- und EOTech-Visiere\n \n</text>
+  </string>
+  <string id="wpn_tt33_descr">
+    <text>Die legendäre sowjetische TT-33 ist eine verbesserte Version der halbautomatischen TT-30, die 1930 als Ersatz für den veralteten Nagant-Revolver von 1895 entwickelt wurde. Obwohl die Produktion in Russland von 1933 bis 1954 lief, sind einige Exemplare weiterhin im Dienst und werden in Ländern der Dritten Welt gefertigt. Die einfache Konstruktion senkt die Herstellungskosten und erleichtert die Wartung. Die für eine Pistole ungewöhnlich starke Patrone bietet hohe Durchschlagskraft und etwa 500 J Mündungsenergie.\n \n</text>
+  </string>
+</string_table>

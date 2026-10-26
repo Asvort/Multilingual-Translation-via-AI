@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="article_wpo">
+    <text>Waffenwartung</text>
+  </string>
+  <string id="article_wpo_text">
+    <text>
+			%c[pda_green]Fragen und Antworten%c[ui_gray_1]\n \n
+			\n1. Warum klemmt meine Waffe trotz 100 % Zustand?\nA. Wahrscheinlich sind einige Waffenteile beschädigt. Prüfe ihren Zustand.\n2. Wie behebe ich eine Ladehemmung?\nA. Drücke zweimal die Benutzungstaste (standardmäßig F). Oder klicke im Inventar mit der rechten Maustaste auf die Waffe und wähle „Ladehemmung beheben“.\n3. Warum sinkt der Zustand meiner Waffe beim Teiletausch?\nA. Du musst die Waffe erneut schmieren. Der Teiletausch senkt ihren Zustand nicht unter 60 %. Mit einem Leatherman-Multitool kannst du den Verlust verringern, an einer Werkbank ganz vermeiden.\n4. Warum reparieren Techniker keine Waffenteile?\nA. Die Teile müssen einzeln repariert werden. Du kannst sie bei Technikern kaufen oder Waffenreparatursets verwenden. Das ist der Grundgedanke von Weapon Part Overhaul. \n \nWeapon Part Overhaul verändert die Wartung in Anomaly grundlegend. Lies diese Anleitung aufmerksam, um das System richtig zu verstehen.\n \n
+			
+			%c[pda_green]I. Waffenteile und Wartung%c[ui_gray_1]\n
+			\n• Der allgemeine Zustand deiner Waffe (der gewohnte Zustandsbalken) lässt sich jetzt leichter erhalten. Techniker stellen ihn 60 % günstiger wieder her. Alle Gegenstände zur Waffenreparatur sind deutlich wirksamer.\n• Waffenteile müssen gewartet werden. Fahre mit dem Mauszeiger über ein Teil, um seinen Zustand zu sehen.\n   ? Die Textfarbe zeigt den allgemeinen Zustand an.\n%c[d_red]   ?  Fehlt\n%c[d_orange]   ?  Beschädigt und nicht wartbar\n%c[pda_yellow]   ? Verschmutzt und kann gereinigt werden%c[ui_gray_1]			
+			\n• Waffenteile lassen sich durch Zerlegen der Waffe ausbauen. Dabei werden alle Teile außer dem Lauf entfernt.\n• Waffenteile lassen sich per Ziehen und Ablegen austauschen. %c[d_red]ACHTUNG: DAS VERRINGERT DEN ZUSTAND DEINER WAFFE, WENN ER ÜBER 60 % LIEGT. Trage ein Leatherman-Multitool bei dir, um den Verlust beim Teiletausch zu verringern. %c[ui_gray_1] 
+			\n• Mit dem passenden Reparaturset kannst du Teile auch kostenlos an einer Werkbank ersetzen. %c[pda_yellow]Das ist eine von zwei Möglichkeiten, den Lauf zu ersetzen.\n \n
+			%c[pda_green]II. Schäden an Waffenteilen und Ladehemmungen%c[ui_gray_1]\n
+			\n• Teile haben 5 Schadensstufen: %c[d_red]defekt%c[ui_gray_1], %c[d_red]beschädigt%c[ui_gray_1], %c[d_orange]abgenutzt%c[ui_gray_1], %c[0,250,250,0]verschmutzt%c[ui_gray_1], %c[d_green]funktionsfähig%c[ui_gray_1]
+			\n• Je stärker ein Teil beschädigt ist, desto höher ist die Ausfallwahrscheinlichkeit.\n• Es gibt drei Arten von Fehlfunktionen: Fehlzündung, Ladehemmung und schwere Ladehemmung.\n• Fehlzündungen und Ladehemmungen lassen sich mit der normalen Funktion zum Beheben beheben.\n• Bei einer schweren Ladehemmung muss zuerst das Magazin aus der Waffe entfernt werden.\n• Läufe erhöhen nicht die Wahrscheinlichkeit einer Ladehemmung. Schmutz oder ein schlechter Zustand können den Waffenschaden jedoch um bis zu 50 % senken.\n• Schüsse mit einer Waffe unter 85 % Zustand (änderbar unter %c[pda_yellow]MCM: Zustandsschwelle für Teileschäden%c[ui_gray_1]) können den Zustand der Waffe verschlechtern. \n• Schüsse bei starkem Regen verschleißen die Waffe deutlich schneller.\n• Lange Feuerstöße überhitzen die Waffe. Das kann zu Ladehemmungen und schnellerem Verschleiß führen.%c[pda_green]III. Änderungen an der Wirtschaft%c[ui_gray_1]\n
+			\n• Ein Reinigungsset säubert „verschmutzte“ Waffenteile (bei über 60 % Zustand).\n• Ein Reparaturset ersetzt das Teil mit dem schlechtesten Zustand.%c[pda_yellow]Das ist eine weitere Möglichkeit, den Lauf zu ersetzen.%c[ui_gray_1]
+			\n• Techniker verkaufen Waffenteile gelegentlich mit einem erheblichen Aufpreis.\n• Waffenteile mit über 60 % Zustand lassen sich mit Feile, Putzstock oder Multitool reparieren.\n• Waffenteile mit über 10 % Zustand lassen sich mit sehr teuren Reparatursets von Händlern reparieren.\n \nBei weiteren Fragen schreib arti#3278 auf Discord (natürlich auf Englisch). Ich bin zu faul, Kommentare auf ModDB zu lesen.</text>
+  </string>
+  <string id="kb_unjam">
+    <text>Ladehemmung beheben</text>
+  </string>
+  <string id="st_clean_half">
+    <text>Wirksamkeit halbiert sich bei einem Zustand unter </text>
+  </string>
+  <string id="st_damage_0">
+    <text>zerbrochen:</text>
+  </string>
+  <string id="st_damage_1">
+    <text>beschädigt:</text>
+  </string>
+  <string id="st_damage_2">
+    <text>abgenutzt:</text>
+  </string>
+  <string id="st_damage_3">
+    <text>verschmutzt:</text>
+  </string>
+  <string id="st_damage_4">
+    <text>funktionsfähig:</text>
+  </string>
+  <string id="st_damage_5">
+    <text>betriebsbereit:</text>
+  </string>
+  <string id="st_damage_missing">
+    <text>fehlt:</text>
+  </string>
+  <string id="st_field_strip_fail">
+    <text>Aus dieser Waffe lässt sich nichts mehr ausbauen.</text>
+  </string>
+  <string id="st_name_all">
+    <text>alle</text>
+  </string>
+  <string id="st_name_barrel">
+    <text>Lauf</text>
+  </string>
+  <string id="st_name_bolt">
+    <text>Schlagbolzen</text>
+  </string>
+  <string id="st_name_bolt_carrier">
+    <text>Verschlussträger</text>
+  </string>
+  <string id="st_name_chock">
+    <text>Choke</text>
+  </string>
+  <string id="st_name_ejector">
+    <text>Auswerfer</text>
+  </string>
+  <string id="st_name_extractor">
+    <text>Auszieher</text>
+  </string>
+  <string id="st_name_gas_tube">
+    <text>Gasblock</text>
+  </string>
+  <string id="st_name_hammers">
+    <text>Hahn</text>
+  </string>
+  <string id="st_name_issues">
+    <text>ZUSTAND:</text>
+  </string>
+  <string id="st_name_pump">
+    <text>Pumpmechanismus</text>
+  </string>
+  <string id="st_name_spring">
+    <text>Rückstoßmechanismus</text>
+  </string>
+  <string id="st_name_trigger">
+    <text>Abzugsmechanismus</text>
+  </string>
+  <string id="st_news_cleaned">
+    <text>Gereinigte Teile:</text>
+  </string>
+  <string id="st_news_fieldstrip">
+    <text>Entfernte Teile:</text>
+  </string>
+  <string id="st_news_parts_alreadygood">
+    <text>Dieses Teil muss nicht ersetzt werden.</text>
+  </string>
+  <string id="st_news_parts_barrel">
+    <text>%c[d_red]Der Lauf kann im Feld nicht ersetzt werden.</text>
+  </string>
+  <string id="st_news_parts_fail">
+    <text>%c[d_red]An dieser Waffe ist bereits ein hochwertigeres Teil eingebaut.</text>
+  </string>
+  <string id="st_news_parts_incompatible">
+    <text>%c[d_red]Dieses Teil ist mit dieser Waffe nicht kompatibel.</text>
+  </string>
+  <string id="st_news_parts_repair_success">
+    <text>Erfolgreich repariert: </text>
+  </string>
+  <string id="st_news_parts_rusty">
+    <text>%c[d_red]Diese Waffe ist zu verrostet, um sie im Feld zu zerlegen.</text>
+  </string>
+  <string id="st_news_parts_success">
+    <text>%c[d_green]Teil erfolgreich ersetzt.</text>
+  </string>
+  <string id="st_news_parts_trigger">
+    <text>%c[d_red]Der Abzugsmechanismus kann im Feld nicht ersetzt werden.</text>
+  </string>
+  <string id="st_partskit">
+    <text>Reparaturset für Waffenteile</text>
+  </string>
+  <string id="st_partskit_descr">
+    <text>Ein hochmodernes Werkzeugset mit Mikrofeilen, Metall-Epoxidharz für Kaltschweißungen, einer Elektrolysebad-Anlage sowie reichlich Schmiermitteln, Benzindestillaten und anderen Lösungsmitteln. Damit lässt sich ein Lada-Motor in einen Ferrari verwandeln, ganz zu schweigen von anderen Maschinenteilen. Nur völlig zerstörter Schrott kann mit diesem Set nicht wiederhergestellt werden. In der Zone ist es schwer zusammenzustellen, daher verkaufen Techniker nur sehr geringe Mengen.\n\n</text>
+  </string>
+  <string id="st_wpn_service_cost">
+    <text>Servicekosten:</text>
+  </string>
+  <string id="st_wpn_service_dropdown">
+    <text>Menü für Teilewartung</text>
+  </string>
+  <string id="st_wpn_service_hint">
+    <text>Teilewartung</text>
+  </string>
+  <string id="st_wpo_repair">
+    <text>Zustand um 25 % wiederherstellen: </text>
+  </string>
+  <string id="ui_mcm_lst_easy">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_eng">
+    <text>Englisch</text>
+  </string>
+  <string id="ui_mcm_lst_hard">
+    <text>Schwer</text>
+  </string>
+  <string id="ui_mcm_lst_no">
+    <text>Pflicht</text>
+  </string>
+  <string id="ui_mcm_lst_ofc">
+    <text>Freiheit</text>
+  </string>
+  <string id="ui_mcm_lst_rus">
+    <text>Russisch</text>
+  </string>
+  <string id="ui_mcm_lst_vanilla">
+    <text>Klassisch</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_full">
+    <text>Alle</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_none">
+    <text>Keine</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_yes">
+    <text>Einzelgänger</text>
+  </string>
+  <string id="ui_mcm_menu_wpo">
+    <text>WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpoecon">
+    <text>WPO-Wirtschaft</text>
+  </string>
+  <string id="ui_mcm_menu_wpojam">
+    <text>WPO-Waffenhemmungen</text>
+  </string>
+  <string id="ui_mcm_menu_wpomisc">
+    <text>WPO-Sonstiges</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode">
+    <text>Kindermodus (keine Ladehemmungen)</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode_desc">
+    <text>Und wozu?</text>
+  </string>
+  <string id="ui_mcm_wpo_title">
+    <text>Einstellungen für Weapon Parts Overhaul</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon">
+    <text>Wirtschaftseinstellungen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll">
+    <text>Gewichtete Verteilung des Komponentenzustands</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+    <text>Verwendet eine neue Formel für Waffenkomponenten als Beute. Der Zustand der Waffe bestimmt, ob die Teile gut oder schlecht erhalten sind. Niedrige Werte verbessern die Beutequalität, hohe senken sie.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll">
+    <text>Gewichtete Verteilung des Waffenzustands</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll_desc">
+    <text>Verteilt den Zustand von Waffen in der Welt anhand der Lagrange-Interpolation. Dadurch sinkt die allgemeine Beutequalität und Plündern wird attraktiver. Passt gut zur nächsten Option.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation">
+    <text>Verschleißmultiplikator bei Regen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation_desc">
+    <text>Multiplikator für den Waffenverschleiß bei Verwendung im Regen.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easybarrel">
+    <text>Läufe ohne Werkbank ersetzen.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easytrigger">
+    <text>Abzugsmechanismen ohne Werkbank ersetzen.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice">
+    <text>Servicestufe des Technikers</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+    <text>Legt den Umfang der Technikerleistungen fest.	
+        \n\n Nur Waffenreinigung: Stellt nur den Grundzustand der Waffe wieder her.
+        \n\n +Teilereinigung: Stellt den Grundzustand wieder her und reinigt Teile bei Bedarf.
+        \n\n Komplettservice: Stellt den Grundzustand wieder her, repariert und ersetzt Teile.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart">
+    <text>Mindestzustand von Teilen für den Verkauf</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart_desc">
+    <text>Mindestzustand, den ALLE Waffenteile haben müssen, damit Händler die Waffe annehmen. Liegt auch nur EIN Teil darunter, kaufen sie die Waffe nicht. Mit 0 wird diese Prüfung deaktiviert.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit">
+    <text>Reparatursets stellen Komponenten wieder her</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+    <text>Reparatursets stellen Waffenteile wieder her (bis zu 100 %). Ist die Option deaktiviert, erhöhen sie den Zustand nur um 25 %. Ohne diese Funktion wird das Spiel anspruchsvoller.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype">
+    <text>Regeln für den Waffenverkauf</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype_desc">
+    <text>Legt fest, wie der Waffenverkauf funktioniert:\n \n
+			- Klassisch: Der Preis richtet sich nach dem Zustand der Waffe (unausgewogen).\n
+			- Normal: Der Verkaufspreis hängt vom Zustand der einzelnen Teile ab; sie gelten als defekt oder intakt (ab 60 %). Empfohlen.\n
+			- Schwer: Alle Teile müssen intakt sein (über 60 %), damit die Waffe verkauft werden kann.\n
+			Hinweis: Ein fehlendes Teil macht die Waffe unabhängig von den obigen Regeln unverkäuflich.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold">
+    <text>Zustandsschwelle für Teileschäden</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold_desc">
+    <text>Waffenzustand, ab dem Teile beschädigt werden können. Je niedriger der Wert, desto stärker muss die Waffe beschädigt sein, bevor ihre Teile Schaden nehmen.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam">
+    <text>Einstellungen zu Waffenhemmungen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat">
+    <text>Überhitzung von Waffen aktivieren</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat_desc">
+    <text>Waffen werden beim Schießen heiß. Das beeinflusst den Verschleiß, die Wahrscheinlichkeit einer Ladehemmung und Schäden an den Innenteilen.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance">
+    <text>Multiplikator für die Wahrscheinlichkeit einer Ladehemmung</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance_desc">
+    <text>Multiplikator für die Wahrscheinlichkeit der neuen Waffenhemmungsmechanik.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_keybind">
+    <text>Taste zum Beheben einer Ladehemmung</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo">
+    <text>Alte Munition beeinflusst den Verschleiß</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo_desc">
+    <text>Alte Munition erhöht den Laufverschleiß und die Wahrscheinlichkeit einer Ladehemmung.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam">
+    <text>Magazin bei schwerer Ladehemmung auswerfen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam_desc">
+    <text>Ist die Option aktiv, wird bei schwerer Ladehemmung durch Drücken der Nachladetaste (standardmäßig R) das Magazin ausgeworfen. So muss man nicht im Inventar suchen.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam">
+    <text>Schwere Ladehemmungen zulassen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam_desc">
+    <text>Aktiviert oder deaktiviert die sogenannte „schwere Ladehemmung“. In diesem Fall muss die Waffe vollständig entladen werden.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc">
+    <text>Sonstige Einstellungen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug">
+    <text>Debugprotokoll</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug_desc">
+    <text>Zusätzliche Debug-Informationen, die in das Spielprotokoll geschrieben werden.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_display">
+    <text>Teilezustand anzeigen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_fun">
+    <text>Spaßstufe</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity">
+    <text>Fluchen bei Waffenhemmungen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_desc">
+    <text>Aktiviert derbe Ausdrücke bei einer Ladehemmung.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_language">
+    <text>Sprache der Flüche</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+    <text>Fluchhäufigkeit verringern</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+    <text>Fügt bei aktivierter Option eine Verzögerung zwischen den Flüchen ein. Verwende sie, wenn du zu viel Spaß hast.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity">
+    <text>Detailgrad der Meldungen zu Waffenhemmungen</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+    <text>Zeigt Meldungen zu Waffenhemmungen an. Es gibt drei Stufen:\nKeine: Meldung nur bei einer durch den allgemeinen Zustand verursachten Ladehemmung, um Verwirrung zu vermeiden.\nNormal (empfohlen): Meldung bei einer Ladehemmung und ihrer Behebung.\nAlle: zusätzlich Meldungen zu schweren Ladehemmungen und beschädigten Komponenten.</text>
+  </string>
+  <string id="ui_st_functional">
+    <text>Waffe ist schussbereit</text>
+  </string>
+  <string id="ui_st_heat1">
+    <text>, aber warm.</text>
+  </string>
+  <string id="ui_st_heat2">
+    <text>, aber heiß!</text>
+  </string>
+  <string id="ui_st_heat3">
+    <text>, aber sehr heiß!</text>
+  </string>
+  <string id="ui_st_jam">
+    <text>Waffe hat Ladehemmung!</text>
+  </string>
+  <string id="ui_st_misfire">
+    <text>Waffe hat versagt!</text>
+  </string>
+  <string id="ui_st_missing">
+    <text>Waffenteile fehlen.</text>
+  </string>
+  <string id="ui_st_mockery_1">
+    <text>Deine Waffe würde ständig klemmen, aber das scheint dir zu viel zu sein.</text>
+  </string>
+  <string id="ui_st_mockery_2">
+    <text>Magst du einfache Reparaturen?</text>
+  </string>
+  <string id="ui_st_mockery_3">
+    <text>Wenn du schon dabei bist, warum erhöhst du nicht gleich das Traggewicht auf 600?</text>
+  </string>
+  <string id="ui_st_mockery_4">
+    <text>Du enttäuschst mich.</text>
+  </string>
+  <string id="ui_st_nothing">
+    <text>Du hast keine Schusswaffe in der Hand.</text>
+  </string>
+  <string id="ui_st_oldjam">
+    <text>Die Waffe klemmte wegen ihres schlechten Zustands. Lade sie nach.</text>
+  </string>
+  <string id="ui_st_parts_damage">
+    <text>Die inneren Waffenteile sind beschädigt.</text>
+  </string>
+  <string id="ui_st_superjam">
+    <text>Waffe ist schwer verklemmt!</text>
+  </string>
+  <string id="ui_st_unjam">
+    <text>Ladehemmung behoben.</text>
+  </string>
+  <string id="ui_st_unjam_fail">
+    <text>Die Waffe klemmt stark: Magazin entladen und anschließend den Verschluss betätigen.</text>
+  </string>
+</string_table>

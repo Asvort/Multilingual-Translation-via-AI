@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_desc_PDM_disp_accel_factor">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Oyuncu hızlandıkça mermi dağılımını artıran çarpan.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_PDM_disp_base">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Temel PDM. fire_dispersion_base gibi isabeti etkiler; düşük değer isabeti artırır. control_inertion_factor ile birlikte silahın kullanımını da etkiler.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] Bu bir istatistik parametresidir.</text>
+  </string>
+  <string id="st_desc_PDM_disp_crouch">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Oyuncu çömelmişken dağılımı etkileyen çarpan.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_PDM_disp_crouch_no_acc">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Oyuncu çömelip hareketsizken dağılımı etkileyen çarpan (en yüksek isabet durumu).\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_PDM_disp_vel_factor">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Oyuncunun hızına bağlı olarak mermi dağılımını artıran çarpan.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_ammo_elapsed">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Şarjör kapasitesi.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_ammo_mag_size">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Bu sayı elapsed değişkeniyle aynı olmalıdır; aksi hâlde değer uygulanmayabilir.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_bullet_speed">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Saniye başına metre cinsinden hız.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_dispersion">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Nişan almadan ateş ederken oluşan dağılım.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]Motor bu değeri sınırlamaz; negatif değerler negatif geri tepmeye yol açar.</text>
+  </string>
+  <string id="st_desc_cam_dispersion_frac">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Dağılımı etkileyen ek bir çarpan.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_dispersion_inc">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Her atışta dağılımın ne kadar arttığı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]Motor bu değeri sınırlamaz; negatif değerler negatif geri tepmeye yol açar.</text>
+  </string>
+  <string id="st_desc_cam_max_angle">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Geri tepmenin nişangâhı başlangıç noktasından saptırabileceği en büyük açı; burada 50 derece yukarı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_max_angle_horz">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]En büyük yatay sapma.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_relax_speed">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Nişangâhın "nötr" konumuna dönme hızı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range (derece)</text>
+  </string>
+  <string id="st_desc_cam_relax_speed_ai">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Bir seriden sonra yapay zekânın nişanını toparlama hızı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_return">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Kamera daha sonra hedefinize geri dönüyor mu?\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_cam_step_angle_horz">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Ateş ederken oluşan yatay geri tepme. 0 dikey geri tepmeye, negatif değer sola geri tepmeye yol açar.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_condition_queue_shot_dec">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Tam otomatik atışta her mermide silahın ne kadar kondisyon kaybettiği.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Hesaplama\n%c[ui_gray_3]condition loss per shot = (condition_shot_dec) x (weapon_degredation) x (impair) x (condition_shot_dec_k)\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] her silahın bölümünde tanımlanır. "condition_queue_shot_dec" değerini bununla aynı yapın.\n%c[d_purple]• %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] oyundaki genel yıpranmayı denetlemeyi sağlayan bir konsol komutudur (varsayılan 1).\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] silahın kullandığı mühimmat bölümünde tanımlı bir parametredir.\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] silaha takılı susturucunun bölümünde tanımlı bir parametredir (yoksa varsayılan değer 1’dir).</text>
+  </string>
+  <string id="st_desc_condition_shot_dec">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Her atışta silahın ne kadar kondisyon kaybettiği.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Hesaplama\n%c[ui_gray_3]condition loss per shot = (condition_shot_dec) x (weapon_degredation) x (impair) x (condition_shot_dec_k)\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] her silahın bölümünde tanımlanır. "condition_queue_shot_dec" değerini bununla aynı yapın.\n%c[d_purple]• %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] oyundaki genel yıpranmayı denetlemeyi sağlayan bir konsol komutudur (varsayılan 1).\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] silahın kullandığı mühimmat bölümünde tanımlı bir parametredir.\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] silaha takılı susturucunun bölümünde tanımlı bir parametredir (yoksa varsayılan değer 1’dir).</text>
+  </string>
+  <string id="st_desc_control_inertion_factor">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Silaha uygulanan «fren» miktarı; hızlı ve isabetli döndürmeyi zorlaştırır. PKm ve SVD’de belirgindir. Kullanım istatistiğini etkiler.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] Bu bir istatistik parametresidir.</text>
+  </string>
+  <string id="st_desc_cost">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Silahın temel fiyatı (birçok ekonomi etkeninden etkilenir).\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_crosshair_inertion">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Kamerayı hareket ettirmenin eylemsizliği; ani bir hareket yaptığınızda nişangâhın hedeften ne kadar sapacağını belirler. Kullanım istatistiğini etkiler.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_fire_dispersion_base">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Derece cinsinden temel saçılma konisi; ilk serinin isabet oranını belirler. Temel isabeti ve görüntülenen isabet istatistiğini etkiler.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] Bu bir istatistik parametresidir.</text>
+  </string>
+  <string id="st_desc_fire_dispersion_condition_factor">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Silahın kondisyonunun dağılımı ne ölçüde etkilediği; yüksek değerler daha belirgin bozulmaya yol açar.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_fire_distance">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Merminin "öldüğü" mesafe (metre); bu mesafenin ötesindeki hedefler vurulmaz.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_hit_impulse">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Merminin fiziksel kuvveti. Yüksek değerler daha çarpıcı ragdoll ölümlerine yol açar.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_hit_power">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Merminin verdiği hasar.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[d_cyan](!)%c[ui_gray_2] Bu bir istatistik parametresidir.\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]Her değer farklı bir zorluk seviyesinde kullanılır:\nUsta -&gt; Kıdemli -&gt; Avcı -&gt; Acemi\nAnomaly’de Vanilla zorluğu kullanılmaz; tüm seviyelerde aynı değeri kullanın.</text>
+  </string>
+  <string id="st_desc_holder_fov_modifier">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Silahı taşırken yapay zekânın görüş alanı. 1,0 değeri yaklaşık 180 dereceye karşılık gelir.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_holder_range_modifier">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Silahı taşırken yapay zekânın etkili görüş mesafesi.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_max_radius">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Yapay zekânın dostu düşmandan ayırt edebileceği en büyük yarıçap.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_min_radius">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Metre cinsinden görülebileceğiniz en küçük yarıçap. İlginç durumlara yol açabilir.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_misfire_end_condition">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Tekleme olasılığının artmayı bıraktığı silah kondisyonu.\nKondisyon bu değerin altındayken tekleme olasılığı "misfire_end_prob" değerinde sabitlenir.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Hesaplama tekleme olasılığı%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] silahın mevcut kondisyonu\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" değeri\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" değeri\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" değeri\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" değeri\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] değerler farklıysa (start_con - end_con), aynıysa yalnızca (start_con)</text>
+  </string>
+  <string id="st_desc_misfire_end_prob">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Tekleme olasılığının ulaşabileceği son değer.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Hesaplama tekleme olasılığı%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] silahın mevcut kondisyonu\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" değeri\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" değeri\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" değeri\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" değeri\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] değerler farklıysa (start_con - end_con), aynıysa yalnızca (start_con)</text>
+  </string>
+  <string id="st_desc_misfire_probability">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Herhangi bir anda tekleme olasılığı (bu parametre kullanılmaz).\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_misfire_start_condition">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Tekleme olasılığının artmaya başladığı silah kondisyonu.\nKondisyon bu değerin üzerindeyken tekleme olmaz.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Hesaplama tekleme olasılığı%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] silahın mevcut kondisyonu\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" değeri\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" değeri\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" değeri\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" değeri\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] değerler farklıysa (start_con - end_con), aynıysa yalnızca (start_con)</text>
+  </string>
+  <string id="st_desc_misfire_start_prob">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Başlangıç tekleme olasılığı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Hesaplama tekleme olasılığı%c[ui_gray_2]\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] silahın mevcut kondisyonu\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" değeri\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" değeri\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" değeri\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" değeri\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] değerler farklıysa (start_con - end_con), aynıysa yalnızca (start_con)</text>
+  </string>
+  <string id="st_desc_reload_dof">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Şarjör değiştirirken alan derinliği.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_rpm">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Dakikadaki atış sayısı olarak ateş hızı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_rpm_empty_click">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Mühimmat yokken ateş etmeye çalışıldığında boş silah sesinin çalma sıklığı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_scope_zoom_factor">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Dürbünden nişan alırken görüş alanının ne kadar yakınlaştırıldığı. Varsayılan değer 1’dir.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_cam_dispersion">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Yalnızca gez ve dürbün nişangâhlarını etkileyen dağılım.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range (derece)\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_dispersion" değerini kullanır.\nMotor bu değeri sınırlamaz; negatif değerler negatif geri tepmeye yol açar.</text>
+  </string>
+  <string id="st_desc_zoom_cam_dispersion_frac">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Yalnızca gez ve dürbün nişangâhlarında etkili olan ek dağılım çarpanı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_dispersion_frac" değerini kullanır.</text>
+  </string>
+  <string id="st_desc_zoom_cam_dispersion_inc">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Yalnızca gez ve dürbün nişangâhlarında her atışta dağılıma eklenen miktar.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range (derece)\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_dispersion_inc" değerini kullanır.\nMotor bu değeri sınırlamaz; negatif değerler negatif geri tepmeye yol açar.</text>
+  </string>
+  <string id="st_desc_zoom_cam_max_angle">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Geri tepmenin nişangâhı merkezden saptırabileceği en büyük açı: 50 derece yukarı. Yalnızca gez ve dürbün nişangâhlarını etkiler.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_max_angle" değerini kullanır.</text>
+  </string>
+  <string id="st_desc_zoom_cam_max_angle_horz">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Yalnızca gez ve dürbün nişangâhlarında en büyük yatay sapma.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_max_angle_horz" değerini kullanır.</text>
+  </string>
+  <string id="st_desc_zoom_cam_relax_speed">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Gez ve dürbün nişangâhlarının nötr konuma dönme hızı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range (derece)\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_relax_speed" değerini kullanır.</text>
+  </string>
+  <string id="st_desc_zoom_cam_relax_speed_ai">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Yapay zekânın gez veya dürbünle ateş ettikten sonra nişanını toparlama hızı.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_cam_step_angle_horz">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Ateş ederken yatay geri tepme: 0 dikey, negatif değer sola geri tepmeye yol açar. Yalnızca gez ve dürbün nişangâhlarını etkiler.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range\n \n%c[pda_blue]Notlar\n%c[ui_gray_2]bu parametre silah bölümünde tanımlı değilse motor "cam_step_angle_horz" değerini kullanır.</text>
+  </string>
+  <string id="st_desc_zoom_dof">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Gez ve arpacık kullanırken alan derinliği değiştiricisi.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_enabled">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Gez ve arpacık kullanımına izin verilip verilmediğini belirtir.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_desc_zoom_rotate_time">
+    <text>\n \n%c[pda_green]Açıklama\n%c[ui_gray_2]Dürbünle nişan almak için gereken süre.\n \n%c[pda_red]Aralık\n%c[ui_gray_2]$range</text>
+  </string>
+  <string id="st_ui_dbg_exec">
+    <text>İşlev yürütücüsü</text>
+  </string>
+  <string id="st_ui_dbg_exec_btn">
+    <text>Çalıştır</text>
+  </string>
+  <string id="st_ui_dbg_help">
+    <text>%c[ui_gray_2]Hata ayıklama modundaki ana menü tuş atamaları:\n \n%c[d_orange]Yalnızca oyun yüklüyken:\n%c[pda_blue]• %c[ui_gray_3]F7:%c[ui_gray_2] Anomaly hata ayıklayıcısını başlat\n%c[pda_blue]• %c[ui_gray_3]1:%c[ui_gray_2] Hata ayıklama HUD'ı: sol paneldeki bilgi gösterimini değiştir\n%c[pda_blue]• %c[ui_gray_3]2:%c[ui_gray_2] Hata ayıklama HUD'ı: orta paneldeki bilgi gösterimini değiştir\n%c[pda_blue]• %c[ui_gray_3]3:%c[ui_gray_2] Hata ayıklama HUD'ı: sağ paneldeki bilgi gösterimini değiştir\n \n%c[d_orange]Oyun yüklü değilken:\n%c[pda_blue]• %c[ui_gray_3]F2:%c[ui_gray_2] Test haritasını başlat\n \n%c[d_orange]Her iki durumda da:\n%c[pda_blue]• %c[ui_gray_3]Sayısal tuş takımı 0:%c[ui_gray_2] system_ini() dosyasını yeniden yükle</text>
+  </string>
+  <string id="st_ui_dbg_hud_about">
+    <text>%c[ui_gray_1]Tronex/Rezy\n2019/9/15\nSilah HUD düzenleyicisi\n \n%c[pda_green]Hakkında%c[ui_gray_2]\nSilah HUD düzenleyicisi, silah HUD’sinin konumunu ve yönünü gerçek zamanlı olarak değiştirmenizi sağlar.\nEtkileşimli ve kullanımı kolay arayüz, ayarlanan konumu geçici "temp_hud.ltx" dosyasına kaydetmenizi sağlar.\nDüzenlenen değerler, üzerinde çalıştığınız silahlar için geçici olarak önbelleğe alınır. Düzenleyiciyi kapattıktan sonra bunlara dönebilirsiniz (kaydedilmemiş değişiklikler varsa oyundan çıkmayın veya oyunu yeniden yüklemeyin).\n \n%c[pda_red]Dikkat%c[ui_gray_2]\nSilah yapılandırma dosyaları açılmalı ve (%c[ui_gray_3]gamedata/configs/items/weapons%c[ui_gray_2]) konumunda bulunmalıdır.\nHUD parametrelerine kaydedilen değişiklikler oyunu yeniden başlatana kadar uygulanmaz.\nNişan konumunu etkileyen parametreler için önce seçeneklerden nişan geçişini etkinleştirip silahla nişan alın; sonra değişiklikleri görmek için düzenleyiciyi kullanın.\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) değişiklik sırasında özgün parametreleri kaydeder; Sıfırla düğmesiyle geri yükleyebilirsiniz.\nYapılandırma dosyalarının yedeğini almayı unutmayın.\n \n%c[pda_blue]Kısayollar%c[ui_gray_2]\n \n%c[d_purple]• %c[ui_gray_3]Ok tuşları: %c[ui_gray_2]parametreler arasında gezinme.\n%c[d_purple]• %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]seçili değeri artırma/azaltma.\n%c[d_purple]• %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]seçili parametrenin tüm değerlerini artırma/azaltma.\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]değer adımını 10 kat artırma / 2 parametre atlama.\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]değer adımını 50 kat artırma / 3 parametre atlama.\n%c[d_purple]• %c[ui_gray_3]Numpad 5: %c[ui_gray_2]geçerli istatistikleri kopyalama.\n%c[d_purple]• %c[ui_gray_3]Numpad 6: %c[ui_gray_2]saklanan istatistikleri yapıştırma.\n%c[d_purple]• %c[ui_gray_3]G: %c[ui_gray_2]nişangâhı açma/kapatma.\n \n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]yardım penceresini gösterme.\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]düzenleyiciyi kapatma.</text>
+  </string>
+  <string id="st_ui_dbg_hud_alignment">
+    <text>Nişangâhı aç/kapat</text>
+  </string>
+  <string id="st_ui_dbg_hud_copy">
+    <text>Ayarları kopyala</text>
+  </string>
+  <string id="st_ui_dbg_hud_current_file">
+    <text>Dosyaya kaydet</text>
+  </string>
+  <string id="st_ui_dbg_hud_paste">
+    <text>Ayarları yapıştır</text>
+  </string>
+  <string id="st_ui_dbg_hud_ratio">
+    <text>4:3 ve 16:9 parametrelerine uygula</text>
+  </string>
+  <string id="st_ui_dbg_hud_reload">
+    <text>Ayarları sıfırla</text>
+  </string>
+  <string id="st_ui_dbg_hud_resume">
+    <text>Devam et</text>
+  </string>
+  <string id="st_ui_dbg_hud_title">
+    <text>Silah HUD düzenleyicisi</text>
+  </string>
+  <string id="st_ui_dbg_item_about">
+    <text>%c[ui_gray_1]Tronex\n2019/10/8\nEşya düzenleyicisi\n \n%c[pda_green]Hakkında%c[ui_gray_2]\nEşya düzenleyicisi, eşya yapılandırmalarını düzenlemenizi ve değişiklikleri doğrudan oyun içinde kaydedip denemenizi sağlar.\nEtkileşimli ve kullanımı kolay arayüz; silah, kıyafet ve eser düzenlemeyi destekler.\nEtkin eşyanın istatistikleriyle karşılaştırmak için listeden benzer bir eşya seçebilirsiniz.\nDüzenlenen değerler üzerinde çalıştığınız eşya için geçici olarak önbelleğe alınır; düzenleyiciyi kapattıktan sonra geri dönebilirsiniz.\n \n%c[pda_red]Dikkat%c[ui_gray_2]\nEşya yapılandırmaları açılmalı ve (%c[ui_gray_3]gamedata/configs/items%c[ui_gray_2]) konumunda bulunmalıdır.\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) değişiklik sırasında özgün parametreleri saklar; Sıfırla düğmesiyle geri yükleyebilirsiniz.\nYapılandırma dosyalarının yedeğini almayı unutmayın.\n \n%c[pda_blue]Kısayollar%c[ui_gray_2]\n \n%c[d_purple]• %c[ui_gray_3]Ok tuşları: %c[ui_gray_2]parametreler arasında gezinme.\n%c[d_purple]• %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]seçili değeri artırma/azaltma.\n%c[d_purple]• %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]seçili parametrenin tüm değerlerini artırma/azaltma.\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]değer adımını 10 kat artırma / 2 parametre atlama.\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]değer adımını 50 kat artırma / 3 parametre atlama.\n%c[d_purple]• %c[ui_gray_3]Numpad 5: %c[ui_gray_2]geçerli istatistikleri kopyalama.\n%c[d_purple]• %c[ui_gray_3]Numpad 6: %c[ui_gray_2]saklanan istatistikleri yapıştırma.\n \n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]yardım penceresini gösterme.\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]düzenleyiciyi kapatma.</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_Reset">
+    <text>Sıfırla</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_apply">
+    <text>Uygula</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_copy">
+    <text>Kopyala</text>
+  </string>
+  <string id="st_ui_dbg_item_btn_paste">
+    <text>Yapıştır</text>
+  </string>
+  <string id="st_ui_dbg_item_compare">
+    <text>Karşılaştırma</text>
+  </string>
+  <string id="st_ui_dbg_item_list">
+    <text>Liste</text>
+  </string>
+  <string id="st_ui_dbg_item_stats">
+    <text>İstatistikler</text>
+  </string>
+  <string id="st_ui_dbg_launcher_action">
+    <text>Eylemi çalıştır</text>
+  </string>
+  <string id="st_ui_dbg_launcher_console">
+    <text>Konsol</text>
+  </string>
+  <string id="st_ui_dbg_launcher_editor">
+    <text>Düzenleyici listesi</text>
+  </string>
+  <string id="st_ui_dbg_launcher_target">
+    <text>Hedefte çalıştır</text>
+  </string>
+  <string id="st_ui_dbg_launcher_toggle">
+    <text>Komutu aç/kapat</text>
+  </string>
+  <string id="st_ui_dbg_lighting_title">
+    <text>Aydınlatma düzenleyicisi</text>
+  </string>
+  <string id="st_ui_dbg_logic">
+    <text>NPC mantığı</text>
+  </string>
+  <string id="st_ui_dbg_logic_file">
+    <text>INI dosya adı</text>
+  </string>
+  <string id="st_ui_dbg_logic_logic">
+    <text>Etkin mantık</text>
+  </string>
+  <string id="st_ui_dbg_logic_revert">
+    <text>Mantığı geri yükle</text>
+  </string>
+  <string id="st_ui_dbg_logic_section">
+    <text>Etkin bölüm</text>
+  </string>
+  <string id="st_ui_dbg_logic_set">
+    <text>Mantığı ayarla</text>
+  </string>
+  <string id="st_ui_dbg_spawn_btn">
+    <text>Oluştur</text>
+  </string>
+  <string id="st_ui_dbg_spawn_icon">
+    <text>Simgeye göre</text>
+  </string>
+  <string id="st_ui_dbg_spawn_inv">
+    <text>Envanterde oluştur</text>
+  </string>
+  <string id="st_ui_dbg_spawn_list">
+    <text>Listeye göre</text>
+  </string>
+  <string id="st_ui_dbg_spawn_log">
+    <text>Günlük</text>
+  </string>
+  <string id="st_ui_dbg_spawn_name">
+    <text>Bölüme göre oluştur</text>
+  </string>
+  <string id="st_ui_dbg_spawn_nearby">
+    <text>Oyuncunun yanında oluştur</text>
+  </string>
+  <string id="st_ui_dbg_spawn_point">
+    <text>İmleçte oluştur</text>
+  </string>
+  <string id="st_ui_dbg_spawn_smart">
+    <text>Akıllı bölgede oluştur</text>
+  </string>
+  <string id="st_ui_dbg_spawn_smart_list">
+    <text>Akıllı bölge seç</text>
+  </string>
+  <string id="st_ui_dbg_spawn_smart_lvl">
+    <text>Seviye seç</text>
+  </string>
+  <string id="st_ui_dbg_spawn_type">
+    <text>Eşya türü</text>
+  </string>
+  <string id="st_ui_dbg_weather_about">
+    <text>%c[ui_gray_1]Tronex / Rezy\nEklendi: 2019/6/1\nSon düzenleme: 2020/2/22\nAnomaly Hava Durumu Düzenleyicisi 2.0\n \n%c[pda_green]Bilgi%c[ui_gray_2]\nDüzenleyici, hava durumu değerlerini dakika hassasiyetinde gerçek zamanlı olarak değiştirmeni sağlar.\nGrafik arayüz etkileşimli ve kullanımı kolaydır; hava durumu dosyalarını anında değiştirebilir veya oluşturabilirsin.\nDeğiştirilen değerler, üzerinde çalıştığın hava durumları ve saatler için geçici olarak önbelleğe alınır.\nDüzenleyiciyi kapatsan bile bu değerlere geri dönebilirsin (kaydetmediğin değişiklikler varken çıkma veya yeniden yükleme yapma).\n(Görüntüleyici) modunda, zaman kaydırıcısıyla hava durumu değişikliklerini izleyebilirsin.\n \n%c[pda_blue]Tuş atamaları%c[ui_gray_2]\n\n%c[d_purple]• %c[ui_gray_3]Ok tuşları: %c[ui_gray_2]parametreler arasında gezin.\n%c[d_purple]• %c[ui_gray_3]Sol Shift (basılı tut): %c[ui_gray_2]değer adımı x10 / 2 parametre atla.\n%c[d_purple]• %c[ui_gray_3]Sol Alt (basılı tut): %c[ui_gray_2]değer adımı x50 / 3 parametre atla.\n\n%c[d_purple]• %c[ui_gray_3]R/F: %c[ui_gray_2]seçili değeri artır/azalt.\n%c[d_purple]• %c[ui_gray_3]T/G: %c[ui_gray_2]seçili parametrenin tüm değerlerini artır/azalt.\n%c[d_purple]• %c[ui_gray_3]Q/A: %c[ui_gray_2]sonraki/önceki saati seç.\n%c[d_purple]• %c[ui_gray_3]W/S: %c[ui_gray_2]sonraki/önceki dakikayı seç.\n%c[d_purple]• %c[ui_gray_3]E/D: %c[ui_gray_2]sonraki/önceki kayıtlı anı seç.\n\n%c[d_purple]• %c[ui_gray_3]Z: %c[ui_gray_2]görüntüleyici modunu başlat.\n\n%c[d_purple]• %c[ui_gray_3]C: %c[ui_gray_2]seçili parametre değerini kopyala.\n%c[d_purple]• %c[ui_gray_3]C + CTRL: %c[ui_gray_2]mevcut ayarları kopyala.\n%c[d_purple]• %c[ui_gray_3]V: %c[ui_gray_2]kopyalanan parametre değerini yapıştır/uygula.\n%c[d_purple]• %c[ui_gray_3]V + CTRL: %c[ui_gray_2]mevcut ayarlara yapıştır/uygula.\n\n%c[d_purple]• %c[ui_gray_3]Delete: %c[ui_gray_2]mevcut değiştirilmiş anı sıfırla.\n%c[d_purple]• %c[ui_gray_3]Delete + CTRL: %c[ui_gray_2]değiştirilmiş tüm anları sıfırla.\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]yardım penceresini aç/kapat.\n%c[d_purple]• %c[ui_gray_3]Esc veya Home: %c[ui_gray_2]düzenleyiciyi kapat.</text>
+  </string>
+  <string id="st_ui_dbg_weather_clear">
+    <text>Önbellekteki değerleri temizle</text>
+  </string>
+  <string id="st_ui_dbg_weather_copy">
+    <text>Ayarları kopyala</text>
+  </string>
+  <string id="st_ui_dbg_weather_exit">
+    <text>Çıkış (hava durumu motorda duraklatılmış kalır)</text>
+  </string>
+  <string id="st_ui_dbg_weather_file">
+    <text>Hava durumu dosyasını seç</text>
+  </string>
+  <string id="st_ui_dbg_weather_help">
+    <text>Hakkında</text>
+  </string>
+  <string id="st_ui_dbg_weather_paste">
+    <text>Ayarları yapıştır</text>
+  </string>
+  <string id="st_ui_dbg_weather_playing">
+    <text>Otomatik oynatma</text>
+  </string>
+  <string id="st_ui_dbg_weather_resume">
+    <text>Hava durumunu sürdür ve çık</text>
+  </string>
+  <string id="st_ui_dbg_weather_save">
+    <text>Adını aşağıdaki kutuya yazdıysan yeni bir dosyaya, aksi hâlde mevcut dosyaya kaydet.\nÖzel dosyaların adı «w_» ile başlamalıdır.</text>
+  </string>
+  <string id="st_ui_dbg_weather_save_msg_error">
+    <text>Yeni dosya (%s) geçerli değil.\nDosya adı "w_" ile başlamalıdır.\nİpucu: ad boş bırakılırsa geçerli dosyaya kaydedilir.</text>
+  </string>
+  <string id="st_ui_dbg_weather_save_msg_new">
+    <text>Yeni dosyaya (%s) kaydedip devam edilsin mi?</text>
+  </string>
+  <string id="st_ui_dbg_weather_save_msg_old">
+    <text>Mevcut dosyaya (%s) kaydedip devam edilsin mi?</text>
+  </string>
+  <string id="st_ui_dbg_weather_time">
+    <text>Saati seç</text>
+  </string>
+  <string id="st_ui_dbg_weather_title">
+    <text>Hava Durumu Düzenleyicisi 2.0</text>
+  </string>
+  <string id="st_ui_dbg_weather_viewer">
+    <text>Görüntüleyici modu</text>
+  </string>
+</string_table>

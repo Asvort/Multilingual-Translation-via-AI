@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_motionblur_title">
+    <text>Motion Blur - Settings</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_camera_mcm">
+    <text>Camera Motion Intensity</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_camera_mcm_desc">
+    <text>You can adjust the intensity or completely disable the motion blur effect caused by the movement of the camera.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_hudonly_mcm">
+    <text>HUD Only</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_hudonly_mcm_desc">
+    <text>Apply the motion blur effect to only HUD elements. ( Hands, Weapons, etc. )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_intensity_mcm">
+    <text>Overall Intensity</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_intensity_mcm_desc">
+    <text>Set the intensity of the motion blur effect. Set the value to 0 to disable the effect.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_quality_mcm">
+    <text>Quality</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_motionblur_quality_mcm_desc">
+    <text>Define the amount of samples used to create the motion blur effect. [ 4 - 6 - 8 - 12 ]</text>
+  </string>
+</string_table>

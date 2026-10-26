@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bm_delivery_arrived">
+    <text>Items arrived at home stash: %d. Check your box.</text>
+  </string>
+  <string id="st_bm_purchased_delayed">
+    <text>Deal closed. -%d %s. Rare item — delivery in %d days.</text>
+  </string>
+  <string id="st_bm_purchased_stash">
+    <text>Deal closed. -%d %s. Item sent to home stash.</text>
+  </string>
+  <string id="st_raid_eur_10">
+    <text>10 euros</text>
+  </string>
+  <string id="st_raid_eur_100">
+    <text>100 euros</text>
+  </string>
+  <string id="st_raid_eur_1000">
+    <text>Bundle 1,000 EUR</text>
+  </string>
+  <string id="st_raid_eur_1000_descr">
+    <text>A small wad of euro banknotes, rubber-banded together. Someone kept this close at hand. \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] can be deposited into a wallet.\n \n
+        </text>
+  </string>
+  <string id="st_raid_eur_100_descr">
+    <text>A 100 euro banknote. Worth keeping in a safe place.</text>
+  </string>
+  <string id="st_raid_eur_10_descr">
+    <text>A 10 euro banknote. Not much, but cash is cash.</text>
+  </string>
+  <string id="st_raid_eur_50">
+    <text>50 euros</text>
+  </string>
+  <string id="st_raid_eur_5000">
+    <text>Bundle 5,000 EUR</text>
+  </string>
+  <string id="st_raid_eur_5000_descr">
+    <text>A thick wad of euro banknotes, neatly counted. Finding this kind of money means you stumbled onto something serious. \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] can be deposited into a wallet.\n \n
+        </text>
+  </string>
+  <string id="st_raid_eur_50_descr">
+    <text>A 50 euro banknote. A decent amount of cash.</text>
+  </string>
+  <string id="st_raid_eur_pack">
+    <text>Bundle 10,000 EUR</text>
+  </string>
+  <string id="st_raid_eur_pack_descr">
+    <text>A thick wad of euro banknotes, neatly counted. Serious money. You wonder how many people had to die for this much cash to end up out here, in the middle of nowhere. \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] can be deposited into a wallet.\n \n
+        </text>
+  </string>
+  <string id="st_raid_exchange_limit_eur">
+    <text>Voron accepted: %d/%d EUR this period. Excess returned.</text>
+  </string>
+  <string id="st_raid_exchange_limit_usd">
+    <text>Voron accepted: %d/%d USD this period. Excess returned.</text>
+  </string>
+  <string id="st_raid_money_suitcase">
+    <text>Suitcase</text>
+  </string>
+  <string id="st_raid_money_suitcase_descr">
+    <text>An old suitcase. Its content is unknown, but shaking it reveals that it is definitely holding something... \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] highly valuable.\n \n
+        </text>
+  </string>
+  <string id="st_raid_pack_to_wallet">
+    <text>Pack into wallet</text>
+  </string>
+  <string id="st_raid_store_all_in_wallet">
+    <text>Store all (%d pcs / %d %s)</text>
+  </string>
+  <string id="st_raid_store_in_wallet">
+    <text>Store in wallet</text>
+  </string>
+  <string id="st_raid_suitcase_opened">
+    <text>The suitcase contained: %d EUR and %d USD</text>
+  </string>
+  <string id="st_raid_usd_10">
+    <text>10 dollars</text>
+  </string>
+  <string id="st_raid_usd_100">
+    <text>100 dollars</text>
+  </string>
+  <string id="st_raid_usd_1000">
+    <text>Bundle 1,000 USD</text>
+  </string>
+  <string id="st_raid_usd_1000_descr">
+    <text>A small wad of dollar banknotes, rubber-banded together. Someone kept this for a rainy day. \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] can be deposited into a wallet.\n \n
+        </text>
+  </string>
+  <string id="st_raid_usd_100_descr">
+    <text>A 100 dollar banknote. The most recognizable bill in the world, even out here.</text>
+  </string>
+  <string id="st_raid_usd_10_descr">
+    <text>A 10 dollar banknote. The good old greenback, still accepted almost anywhere.</text>
+  </string>
+  <string id="st_raid_usd_50">
+    <text>50 dollars</text>
+  </string>
+  <string id="st_raid_usd_5000">
+    <text>Bundle 5,000 USD</text>
+  </string>
+  <string id="st_raid_usd_5000_descr">
+    <text>A thick wad of dollar banknotes, neatly counted. With this kind of money, a stalker could fund an entire expedition. \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] can be deposited into a wallet.\n \n
+        </text>
+  </string>
+  <string id="st_raid_usd_50_descr">
+    <text>A 50 dollar banknote. Solid cash.</text>
+  </string>
+  <string id="st_raid_usd_pack">
+    <text>Bundle 10,000 USD</text>
+  </string>
+  <string id="st_raid_usd_pack_descr">
+    <text>A thick wad of dollar banknotes, neatly counted. Serious money. Someone is going to be very unhappy about losing this. \n \n
+                        %c[0, 252, 186, 23] - %c[0, 156, 122, 39] can be deposited into a wallet.\n \n
+        </text>
+  </string>
+  <string id="st_raid_wallet_balance">
+    <text>Wallet: %d EUR / %d USD</text>
+  </string>
+  <string id="st_raid_wallet_check">
+    <text>Check balance</text>
+  </string>
+  <string id="st_raid_wallet_empty">
+    <text>Wallet is empty</text>
+  </string>
+  <string id="st_raid_withdraw_all_eur">
+    <text>Withdraw all EUR</text>
+  </string>
+  <string id="st_raid_withdraw_all_usd">
+    <text>Withdraw all USD</text>
+  </string>
+</string_table>

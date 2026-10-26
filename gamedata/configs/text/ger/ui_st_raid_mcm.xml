@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Hoch</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Niedrig</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Standard</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Beschleunigter Fortschritt (20–30 Spielstunden)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Standardfortschritt (30–40 Spielstunden)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Schneller Fortschritt (10–20 Spielstunden)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Grim Raid</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Bevölkerung von Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Speichern an Lagerfeuern erlauben</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Ermöglicht das Speichern an Lagerfeuern.\n\nBei aktivierter Option funktionieren auch Konsolenspeicherungen mit «save spielstandname».\n\n%c[200, 235, 76, 52]Achtung! Es wird empfohlen, während eines Raids nicht zu speichern, da dies das Spielerlebnis beeinträchtigt.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>Der echte „Dunkelheitsmodus“ verwendet die Standardwerte.</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Versicherung beim Informanten (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Chance, Gegenstände in den Plätzen nach dem Kauf einer „Versicherung“ beim Informanten zu behalten.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Gegenstände nach dem Tod behalten</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Prozentualer Anteil der ausgerüsteten Gegenstände, die nach dem Tod garantiert im Inventar bleiben.\n\nBei 60 % bleiben beispielsweise 6 zufällig ausgewählte Gegenstände von insgesamt 10 erhalten.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Progressiver Verlust von Gegenständen</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>Die Zahl der nach dem Tod behaltenen Gegenstände hängt vom Rang ab. Je höher der Rang, desto weniger Gegenstände bleiben. Diese Option deaktiviert den Regler darunter, der die Zahl der behaltenen Gegenstände festlegt.\nNeuling - Verlust von 10 % der Gegenstände\nAnfänger - Verlust von 20 % der Gegenstände\nErfahrener - Verlust von 30 % der Gegenstände\nProfi - Verlust von 40 % der Gegenstände\nVeteran - Verlust von 50 % der Gegenstände\nExperte - Verlust von 60 % der Gegenstände\nMeister - Verlust von 70 % der Gegenstände\nLegende - Verlust von 33 % der Gegenstände\n\nBei deaktivierter Option lässt sich der Prozentsatz unter «Nach dem Tod behaltene Gegenstände» einstellen.</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Rangpunkteverlust bei Tod (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Prozentualer Rangverlust beim Tod.\n\nBeeinflusst die Entwicklung des Charakters.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Bevölkerung von Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Spawnmultiplikator der Simulation</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>Standardmäßig entsprechen 100 % den ursprünglichen Simulationseinstellungen. Ändere den Wert um 20–50 %, um einen deutlichen Unterschied zu erzielen.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Gebietsbevölkerung-Voreinstellung</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>Legt die Truppzahl beim Startspawn und bei möglichen zusätzlichen Spawns fest. Funktioniert nur in Standard-Raids.\nDie Standardeinstellung wird empfohlen, da das Spiel darauf abgestimmt wurde.</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>Fortschrittsgeschwindigkeit</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Legt Aufgabenbelohnungen fest: Rang, Geld und Ansehen bei Auftraggebern.\nDie Standardeinstellung wird empfohlen, da das Spiel darauf abgestimmt wurde.</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Grim Raid</text>
+  </string>
+</string_table>

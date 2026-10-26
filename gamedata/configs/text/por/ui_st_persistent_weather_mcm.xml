@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_persistent_weather">
+    <text>Clima persistente</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled">
+    <text>Ativar o mod</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled_desc">
+    <text>Ativa o sistema de clima persistente. O clima é salvo e restaurado ao carregar um jogo.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay">
+    <text>Atraso mínimo na mudança de nível (minutos)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay_desc">
+    <text>Tempo mínimo de jogo que deve passar antes de o clima poder mudar na troca de nível. Se viajar antes disso, o clima permanece. Use 0 para desativar.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance">
+    <text>Chance de manter o clima ao mudar de nível (%)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance_desc">
+    <text>Chance (0-100%) de manter o mesmo clima ao viajar para outro local. Em 0%, o clima sempre muda na transição (comportamento original); em 100%, ele sempre permanece.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_title">
+    <text>Clima persistente</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout">
+    <text>Tempo máximo no subterrâneo (minutos)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout_desc">
+    <text>Tempo real que você pode ficar no subterrâneo antes de permitir uma mudança no clima. Padrão: 10 minutos.</text>
+  </string>
+</string_table>

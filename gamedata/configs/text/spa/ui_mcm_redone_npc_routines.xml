@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Intervalo de comprobación de smart-terrain (segundos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>Cada cuánto se comprueba cada smart-terrain activo para rotar las tareas de los NPC.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Tiempo máximo de espera para reutilizar animpoint (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Tiempo máximo que un animpoint vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Tiempo mínimo de espera para reutilizar animpoint (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Tiempo mínimo que un animpoint vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de comportamiento (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Tiempo máximo que una tarea de comportamiento vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de comportamiento (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Tiempo mínimo que una tarea de comportamiento vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de acampada (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Tiempo máximo que una tarea de acampada vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de acampada (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Tiempo mínimo que una tarea de acampada vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de recolector (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Tiempo máximo que una tarea de recolector vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de recolector (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Tiempo mínimo que una tarea de recolector vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Controla cuánto tiempo una tarea vacante permanece no disponible antes de que otro NPC pueda volver a usarla mediante Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de guardia (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Tiempo máximo que una tarea de guardia vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de guardia (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Tiempo mínimo que una tarea de guardia vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Tiempos de espera para reutilizar tareas</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Tiempo máximo que una tarea de patrulla vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Tiempo mínimo que una tarea de patrulla vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de dormir (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Tiempo máximo que una tarea de dormir vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de dormir (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Tiempo mínimo que una tarea de dormir vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Tiempo máximo de espera para reutilizar el puesto de cobertura inteligente (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Tiempo máximo que un puesto de cobertura inteligente vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Tiempo mínimo de espera para reutilizar el puesto de cobertura inteligente (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Tiempo mínimo que un puesto de cobertura inteligente vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de francotirador (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Tiempo máximo que una tarea de francotirador vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de francotirador (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Tiempo mínimo que una tarea de francotirador vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Tiempo máximo de espera para reutilizar la tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Tiempo máximo que una tarea de patrulla vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Tiempo mínimo de espera para reutilizar la tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Tiempo mínimo que una tarea de patrulla vacante no estará disponible para Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Depuración</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Mensajes de depuración</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Registra en el log cada cambio dinámico de tarea realizado correctamente. Se recomienda durante las pruebas beta.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Depuración</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Activar la actividad inteligente</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Activa o desactiva la rotación dinámica de tareas en smart-terrain para los NPC compatibles con la simulación.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Ajustes generales</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Actividad inteligente</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>ANIMPOINT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>COMPORTAMIENTO</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>ACAMPADA</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>RECOLECTOR</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>GUARDIA</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>PATRULLA</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>SUEÑO</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>COBERTURA INTELIGENTE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>FRANCOTIRADOR</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>ERRANTE</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Retraso entre intentos (segundos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Cuánto espera un NPC antes de volver a intentarlo si no hay una nueva tarea adecuada o la rotación está bloqueada temporalmente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Tiempo máximo en tarea de animpoint (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de animpoint antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Tiempo mínimo en tarea de animpoint (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de animpoint antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Tiempo máximo en tarea de comportamiento (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de comportamiento antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Tiempo mínimo en tarea de comportamiento (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de comportamiento antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Tiempo máximo en tarea de acampada (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de acampada antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Tiempo mínimo en tarea de acampada (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de acampada antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Tiempo máximo en tarea de recolector (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de recolector antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Tiempo mínimo en tarea de recolector (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de recolector antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Controla cuánto tiempo suele mantener un NPC cada actividad antes de cambiar a otra tarea disponible.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Tiempo máximo en tarea de guardia (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de guardia antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Tiempo mínimo en tarea de guardia (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de guardia antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Duración de las tareas</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Tiempo máximo en tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de patrulla antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Tiempo mínimo en tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de patrulla antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Tiempo máximo en tarea de dormir (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de dormir antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Tiempo mínimo en tarea de dormir (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de dormir antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Tiempo máximo en puesto de cobertura inteligente (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Tiempo máximo que un NPC permanece en un puesto de cobertura inteligente antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Tiempo mínimo en puesto de cobertura inteligente (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Tiempo mínimo que un NPC permanece en un puesto de cobertura inteligente antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Tiempo máximo en tarea de francotirador (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de francotirador antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Tiempo mínimo en tarea de francotirador (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de francotirador antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Tiempo máximo en tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Tiempo máximo que un NPC mantiene una tarea de patrulla antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Tiempo mínimo en tarea de patrulla (minutos)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Tiempo mínimo que un NPC mantiene una tarea de patrulla antes de que pueda cambiar.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Job Reuse Cooldowns</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Depuración</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>General</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Job Stay Times</text>
+  </string>
+</string_table>

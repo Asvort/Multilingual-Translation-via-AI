@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_blood_pool_max_pool_size">
+    <text>Maximale Blutlappengröße</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates">
+    <text>Anzahl der Aktualisierungen</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates_desc">
+    <text>Mehr Aktualisierungen sorgen für einen gleichmäßigeren Größenanstieg (die Maximalgröße bleibt unverändert).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime">
+    <text>Lebensdauer der Blutlache (Sekunden)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime_desc">
+    <text>Wie lange die Blutlache nach dem Erscheinen bestehen bleibt (pool_lifetime - num_of_updates * update_freq = Zeit bis zum vollständigen Verschwinden).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_title">
+    <text>Blutlache</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq">
+    <text>Aktualisierungsintervall (Sekunden)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq_desc">
+    <text>Zeit zwischen Aktualisierungen. Ein niedrigerer Wert lässt die Blutlache schneller ihre Maximalgröße erreichen.</text>
+  </string>
+  <string id="ui_mcm_menu_blood_pool">
+    <text>Blutlache</text>
+  </string>
+</string_table>

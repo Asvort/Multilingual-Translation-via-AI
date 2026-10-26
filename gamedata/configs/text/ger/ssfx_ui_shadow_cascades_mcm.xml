@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_shw_cascades_high">
+    <text>Hoch</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_low">
+    <text>Niedrig (Anomaly-Standard)</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_medium">
+    <text>Mittel</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_ultra">
+    <text>Ultra (starke Leistungseinbußen)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades">
+    <text>Schattenkaskaden</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+    <text>Grasschattenweite (Sonne)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+    <text>Legt die Darstellungsweite der von der Sonne geworfenen Grasschatten als Prozentsatz der Grasdarstellungsweite fest. Ein niedrigerer Wert verbessert die Leistung.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+    <text>Maximale Grasschattenweite</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+    <text>[ NUR ULTRA-QUALITÄT ] Legt die Darstellungsweite von Grasschatten durch ungerichtete Lichtquellen fest. Ein niedrigerer Wert verbessert die Leistung, aber die Schatten können früher sichtbar abbrechen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+    <text>Qualität der Grasschatten</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+    <text>[ LOW ] Grasschatten werden nur in der NAHEN Kaskade dargestellt (Anomaly-Standardverhalten). [ MEDIUM ] Sie erscheinen in der NAHEN und MITTLEREN Kaskade. [ HIGH ] Sie erscheinen in allen Kaskaden und in volumetrischen Sonnenstrahlen. [ ULTRA ] Alle Lichtquellen werfen Grasschatten.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+    <text>Größe der nahen Kaskade</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+    <text>Ein niedrigerer Wert verbessert die Qualität der Sonnenschatten.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+    <text>Größe der mittleren Kaskade</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+    <text>Ein niedrigerer Wert verbessert die Qualität der Sonnenschatten.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+    <text>Größe der fernen Kaskade</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+    <text>Diese Kaskade legt die maximale Darstellungsweite der Sonnenschatten fest. Niedrigere Werte verbessern die Leistung, höhere verbessern entfernte Schatten auf Kosten der Leistung.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_title">
+    <text>Einstellungen der Schattenkaskaden</text>
+  </string>
+</string_table>

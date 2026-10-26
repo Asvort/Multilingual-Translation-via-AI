@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_nda">
+    <text>NDA — NPC гинуть в аномаліях</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay">
+    <text>Пам’ять про аномалію (с)</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay_desc">
+    <text>Як довго NPC пам’ятає виявлену аномалію після виходу з області. Для запам’ятаних аномалій повторна перевірка промаху не виконується, тож NPC і надалі їх оминає. 0 вимикає пам’ять. За замовчуванням: 30 с.</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius">
+    <text>Радіус виявлення (м)</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius_desc">
+    <text>Відстань, з якої NPC виявляють аномалії. Більше значення дає змогу помітити їх раніше, але обмежує пошук шляху. За замовчуванням: 30 м.</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses">
+    <text>Не активувати на тілах</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses_desc">
+    <text>Не дає аномаліям активуватися на тілах. Це запобігає помилкам фізики ragdoll і покращує продуктивність.</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies">
+    <text>Заборонити обшук тіл в аномаліях</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies_desc">
+    <text>Не дозволяє NPC заходити в поля аномалій, щоб обшукувати тіла. Це запобігає ланцюгу смертей, коли сталкери йдуть один за одним в аномалію. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled">
+    <text>Область взаємодії</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled_desc">
+    <text>З аномаліями взаємодіють і можуть зазнати шкоди лише NPC у радіусі області навколо гравця. NPC поза нею не отримують шкоди від аномалій. Вимкніть параметр, щоб обробляти всіх активних NPC незалежно від відстані.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius">
+    <text>Радіус області (м)</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius_desc">
+    <text>Радіус області взаємодії навколо гравця. NPC за її межами захищені від шкоди аномалій. За замовчуванням: 150 м. Використовується лише з увімкненою областю взаємодії.</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay">
+    <text>Затримка перебудови кешу (с)</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay_desc">
+    <text>Затримка перед перебудовою кешу аномалій після викиду чи пси-шторму. Потрібна для сумісності з модом Arrival. За замовчуванням: 2,5 с.</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers">
+    <text>Очистити старі позначки</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers_desc">
+    <text>Видаляє залишені з попередніх сеансів позначки аномалій і смертей. Увімкніть, застосуйте, потім вимкніть. Дія одноразова.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier">
+    <text>Бій</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier_desc">
+    <text>Множник шансу промаху, коли NPC у бою. Відволічені NPC значно частіше не помічають аномалії. Типово: 3,0x.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage">
+    <text>Шкода лише в бою</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage_desc">
+    <text>NPC отримують шкоду від аномалій лише в бою. Поза боєм вони виявляють і оминають аномалії, але не зазнають шкоди від близьких полів. Увімкнений параметр перекриває імунітет під час ходьби й стояння, період захисту та множники промаху за рухом і рангом; поза боєм NPC і так невразливі. Вимкніть його, щоб застосувати ці параметри. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_community_excl_title">
+    <text>Винятки за угрупованнями</text>
+  </string>
+  <string id="ui_mcm_nda_damage_title">
+    <text>Налаштування шкоди</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot">
+    <text>Позначка загибелі від аномалії на мапі</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot_desc">
+    <text>Тимчасово позначає на мапі сталкера, який загинув в аномалії. Червона позначка зникає за 5 хвилин і не зберігається.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news">
+    <text>Новини про загибель в аномалії</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news_desc">
+    <text>Показує новину про кожного сталкера, який загинув в аномалії: ім’я, ранг і угруповання, аномалію та місце (рівень і координати).</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode">
+    <text>Режим налагодження</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode_desc">
+    <text>Умикає журнал налагодження в консолі: перевірки виявлення, події шкоди та причини смерті.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_title">
+    <text>Налаштування налагодження</text>
+  </string>
+  <string id="ui_mcm_nda_detection_title">
+    <text>Налаштування виявлення</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult">
+    <text>Захист екіпірування</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult_desc">
+    <text>Зменшує шкоду від аномалій залежно від екіпірування NPC. Значення захисту зчитуються з конфігурацій костюмів (опік, електрика, хімія тощо).</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance">
+    <text>Обхід засобами рушія (feel)</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance_desc">
+    <text>На розріджених полях система feel рушія прокладає NPC шлях в обхід аномалій; вони також кидають болти. Вона оминає всі типи аномалій, на відміну від скриптових обмежень, що блокують лише форми, які впливають на навігаційну сітку (кислотні та електричні поля заблокувати не можна). Використовуйте лише на розріджених полях: у щільних або закритих скупченнях feel може зависнути чи спричинити виліт. Для максимальної стабільності вимкніть. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density">
+    <text>Межа щільності для feel</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density_desc">
+    <text>Максимум аномалій приблизно в радіусі 12 м, щоб поле вважалося розрідженим і використовувався обхід feel рушія. У щільніших полях діють скриптові обмеження та пробігання наскрізь. Вище значення вмикає feel у більш насичених зонах: обхід кращий, але ризик зависання чи вильоту вищий; нижче — безпечніше. Типово: 3.</text>
+  </string>
+  <string id="ui_mcm_nda_general_title">
+    <text>Загальні налаштування</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage">
+    <text>Гріх: ігнорувати шкоду аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage_desc">
+    <text>NPC угруповання «Гріх» (Greh) невразливі до шкоди аномалій. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions">
+    <text>Гріх: ігнорувати обхід аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions_desc">
+    <text>До NPC угруповання «Гріх» (Greh) не застосовуються обмеження пошуку шляху для обходу аномалій. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance">
+    <text>Імунітет за 0% промаху</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance_desc">
+    <text>NPC із базовим шансом промаху 0% стають повністю невразливими до шкоди аномалій. Захист для ветеранів.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army">
+    <text>Смерті військових/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army_desc">
+    <text>Максимум NPC фракції «Військові», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit">
+    <text>Смерті бандитів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit_desc">
+    <text>Максимум NPC-бандитів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky">
+    <text>Смерті «Чистого неба»/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky_desc">
+    <text>Максимум NPC угруповання «Чисте небо», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg">
+    <text>Смерті «Долгу»/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg_desc">
+    <text>Максимум NPC із угруповання «Долг», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog">
+    <text>Смерті екологів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog_desc">
+    <text>Максимум NPC фракції «Екологи», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom">
+    <text>Смерті «Волі»/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom_desc">
+    <text>Максимум NPC фракції «Свобода», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh">
+    <text>Смерті «Гріха»/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh_desc">
+    <text>Максимум NPC угруповання «Гріх», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_header">
+    <text>За угрупованням</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg">
+    <text>Смерті ISG/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg_desc">
+    <text>Максимум NPC ISG, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer">
+    <text>Смерті найманців/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer_desc">
+    <text>Максимум NPC фракції «Найманці», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith">
+    <text>Смерті «Моноліту»/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith_desc">
+    <text>Максимум NPC фракції «Моноліт», яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade">
+    <text>Смерті ренегатів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade_desc">
+    <text>Максимум NPC-ренегатів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker">
+    <text>Смерті одинаків/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker_desc">
+    <text>Максимум NPC-одинаків, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied">
+    <text>Смерті зомбованих/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied_desc">
+    <text>Максимум зомбованих NPC, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global">
+    <text>Усього смертей/хв (усі NPC)</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global_desc">
+    <text>Загальний ліміт смертей NPC від аномалій за хвилину, незалежно від угруповання чи рангу. Після досягнення ліміту за ковзну хвилину всі NPC перестають отримувати шкоду від аномалій, доки старі смерті не вийдуть із проміжку. Цей головний ліміт додається до обмежень за угрупованням і рангом. 0 = без обмежень. Типово: 3.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced">
+    <text>Смерті досвідчених/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced_desc">
+    <text>Максимум NPC досвідчених, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert">
+    <text>Смерті експертів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert_desc">
+    <text>Максимум NPC-експертів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_header">
+    <text>За рангом</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend">
+    <text>Смерті легенд/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend_desc">
+    <text>Максимум NPC-легенд, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master">
+    <text>Смерті майстрів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master_desc">
+    <text>Максимум NPC-майстрів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice">
+    <text>Смерті новачків/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice_desc">
+    <text>Максимум NPC новачків, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional">
+    <text>Смерті професіоналів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional_desc">
+    <text>Максимум NPC професіоналів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee">
+    <text>Смерті стажерів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee_desc">
+    <text>Максимум NPC стажерів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran">
+    <text>Смерті ветеранів/хв</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran_desc">
+    <text>Максимум NPC ветеранів, яких аномалії можуть убити за хвилину. 0 = без обмежень.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit">
+    <text>Увімкнути обмеження смертей</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit_desc">
+    <text>Обмежує кількість NPC, яких аномалії можуть убити за хвилину, окремо за угрупованням і рангом. NPC захищений, якщо за ковзну хвилину ліміту досягне його угруповання АБО ранг. 0 означає без обмежень. Головний перемикач усіх лімітів. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_title">
+    <text>Обмеження смертей від аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores">
+    <text>Старі жорстко задані винятки</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores_desc">
+    <text>І далі пропускати поля аномалій, які раніше жорстко виключили, бо NPC не могли безпечно обходити щільні або закриті скупчення (Кордон, Звалище, Дика територія, Армійські склади). Вимкніть, щоб NDA обробляв їх за поточною схемою: оминав аномалії, блокував шкоду та дозволяв перевіряти тіла всередині. Аномалії без радіуса пропускаються завжди. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled">
+    <text>Увімкнути NDA</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled_desc">
+    <text>Повністю вмикає або вимикає мод NDA. Якщо його вимкнено, NPC повністю ігнорують аномалії.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage">
+    <text>Моноліт: ігнорувати шкоду аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage_desc">
+    <text>NPC угруповання «Моноліт» невразливі до шкоди аномалій завдяки своїй вірі. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions">
+    <text>Моноліт: ігнорувати обхід аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions_desc">
+    <text>До NPC угруповання «Моноліт» не застосовуються обмеження пошуку шляху для обходу аномалій. Типово: вимкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_movement_title">
+    <text>Множники стану руху</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout">
+    <text>Час до виходу із глухого кута (с)</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout_desc">
+    <text>Як довго NPC може намагатися обійти поле без просування (наприклад, ходити колами), перш ніж вирішить пробігти крізь нього й отримати шкоду. Типово: 20 с.</text>
+  </string>
+  <string id="ui_mcm_nda_pathfinding_title">
+    <text>Налаштування обходу</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance">
+    <text>Досвідчений</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance_desc">
+    <text>Базовий шанс, що досвідчені сталкери не помітять аномалію. Типово: 30%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance">
+    <text>Експерт</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-експерти не помітять аномалію. Типово: 5%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance">
+    <text>Легенда</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-легенди не помітять аномалію. Типово: 0%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance">
+    <text>Майстер</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-майстри не помітять аномалію. Типово: 0%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance">
+    <text>Новачок</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-новачки не помітять аномалію. Що він вищий, то ймовірніше вони зайдуть у неї. Типово: 75%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance">
+    <text>Професіонал</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-професіонали не помітять аномалію. Типово: 15%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_title">
+    <text>Базовий шанс промаху за рангом (%)</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance">
+    <text>Стажер</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-стажери не помітять аномалію. Типово: 50%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance">
+    <text>Ветеран</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance_desc">
+    <text>Базовий шанс, що сталкери-ветерани не помітять аномалію. За 0% вони ніколи не заходять в аномалії. Типово: 10%.</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius">
+    <text>Глобальний пошук шляху</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius_desc">
+    <text>Якщо ввімкнено, усі NPC оминають аномалії незалежно від відстані. Якщо вимкнено, обмеження діють лише на NPC у радіусі ефекту.</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier">
+    <text>Під час бігу</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier_desc">
+    <text>Множник шансу промаху, коли NPC біжить. Що він вищий, то ймовірніше NPC не помітить аномалію. Типово: 1,2x.</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period">
+    <text>Період захисту (с)</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period_desc">
+    <text>Коли спокійний NPC починає бігти, він іще вказану кількість секунд не отримує шкоди від аномалій. Це не дає сталкеру, який тікає, миттєво зазнати шкоди. У бою не діє. 0 вимикає період. Типово: 10.</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies">
+    <text>Показувати аномалії на мапі</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies_desc">
+    <text>Показує всі аномалії з кешу позначками на мапі КПК. Корисно для налагодження пошуку шляху. Вимкніть, щоб прибрати позначки.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity">
+    <text>Імунітет NPC у стані спокою</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity_desc">
+    <text>Стоячи на місці поза боєм, NPC завжди виявляють і оминають аномалії та не отримують шкоди. Захищає охоронців і тих, хто відпочиває в таборі, якщо їхня точка стоїть у полі аномалії: інакше вони знову й знову гинуть, намагаючись лишитися там. Не залежить від імунітету під час ходьби, тож ходьба й біг можуть бути смертельними. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier">
+    <text>Стоячи</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier_desc">
+    <text>Множник шансу промаху, коли NPC стоїть. Менше значення означає уважніше спостереження. Типово: 0,3x.</text>
+  </string>
+  <string id="ui_mcm_nda_title">
+    <text>NDA v3.0 — NPC гинуть в аномаліях</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug">
+    <text>Докладне налагодження</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug_desc">
+    <text>Умикає докладний журнал: дані циклу оновлення, перебудови кешу та зміни обмежень. Записів буде дуже багато!</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity">
+    <text>Імунітет NPC під час ходьби</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity_desc">
+    <text>Під час ходьби поза боєм NPC завжди виявляють і оминають аномалії та не отримують від них шкоди. Діє лише під час ходьби: для стояння є окремий параметр, а біг і бій використовують множники стану руху. Типово: увімкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier">
+    <text>Під час ходьби</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier_desc">
+    <text>Множник шансу промаху, коли NPC іде. Типово: 0,6x.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage">
+    <text>Зомбовані: ігнорувати шкоду аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage_desc">
+    <text>Зомбовані сталкери невразливі до шкоди аномалій. Типово: вимкнено.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions">
+    <text>Зомбовані: ігнорувати обхід аномалій</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions_desc">
+    <text>Для зомбованих сталкерів не діють обмеження пошуку шляху для обходу аномалій: позбавлені розуму, вони бредуть прямо крізь них. Типово: увімкнено.</text>
+  </string>
+</string_table>

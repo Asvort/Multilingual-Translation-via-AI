@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>El UAV ya tiene combustible para esta incursión.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>El UAV ya está comprado. Se ha devuelto el dinero.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>UAV repostado (se ha consumido 1 bidón de combustible). En esta incursión: marcadores de alijos, resaltado de campos con artefactos y avisos de robo.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>UAV repostado (se han gastado 45 000 RU). En esta incursión: marcadores de alijos, resaltado de campos con artefactos y avisos de robo.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>Ya está repostado para la próxima incursión.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>Repostar UAV: %s RU o 1 bidón de combustible</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>No hay bidón de combustible ni dinero suficiente (45 000 RU). No es posible repostar.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Primero compra el UAV en las mejoras del cuaderno del refugio.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>Dron de reconocimiento UAV comprado. Ha aparecido una estación de control en el refugio, junto a la zona del médico y el comerciante: acércate al portátil con un bidón de combustible (o 45 000 RU) para repostarlo antes de una incursión.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>Estación de control del UAV</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Encarga a Shustryi un dron autónomo de reconocimiento UAV con estación de control. Tras comprarlo, aparecerá una estación de control en el refugio, junto a la zona del médico y el comerciante; acércate al portátil y reposta el dron con un solo botón. \n \n
+		Funciones disponibles mientras el UAV está cargado: \n
+		- Todos los alijos conocidos y su contenido se resaltan en el mapa del PDA. \n
+		- Los círculos de los campos anómalos se vuelven cian cuando contienen un artefacto (detector de artefactos). \n
+		- Si un PNJ recoge un artefacto, el UAV envía una alerta al PDA (facción, armadura y dirección). \n \n
+		Repostaje: 1 bidón de combustible (si está en el inventario) o 45 000 RU. El combustible tiene prioridad. La carga se consume al regresar al refugio.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>Dron de reconocimiento UAV</text>
+  </string>
+</string_table>

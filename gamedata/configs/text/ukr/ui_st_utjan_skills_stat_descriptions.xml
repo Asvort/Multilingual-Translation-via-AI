@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_player_skills_hint_bartering">
+    <text>Покращує ціни під час торгівлі.\n \nКупівля й продаж предметів дають досвід.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_insanity">
+    <text>Ви втрачаєте розум, але отримуєте пси-регенерацію та захист.\nГра на інструменті подвоює регенерацію.\n \nПси-шкода й гра в бою дають досвід.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_lockpicking">
+    <text>Знижує складність зламування замкнених контейнерів.\n \nВідкриття контейнерів дає досвід.\n(Використання відмички «Скелетний ключ» не дає досвіду.)\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_magloading">
+    <text>Збільшує швидкість спорядження й розряджання магазинів.\n \nЦі дії дають досвід.\nМаксимальний рівень обмежений Силою та Витривалістю.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_medicine">
+    <text>Тимчасово покращує відновлення здоров’я та виведення радіації залежно від препарату.\n \nМедикаменти дають досвід.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_reloading">
+    <text>Збільшує швидкість перезаряджання та вихоплювання зброї.\n \nЗвичайне використання зброї дає досвід.\nМаксимум обмежений Витривалістю та Виживанням.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_tinkering">
+    <text>Збільшує шанс не витратити ремонтний предмет під час ремонту спорядження.\n \nРемонт спорядження за допомогою ремонтних засобів дає досвід.\n \n</text>
+  </string>
+  <string id="st_skills_stats_discount_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Знижка у торговців: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_discount_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Знижка у торговців: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Швидкість вихоплювання зброї: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Швидкість вихоплювання зброї: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Швидкість спорядження магазинів: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Швидкість спорядження магазинів: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Складність зламування замків: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Складність зламування замків: %c[d_green]-$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Пси-захист: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Пси-захист: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_regen_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Пси-регенерація: %c[d_green]$stat% / сек</text>
+  </string>
+  <string id="st_skills_stats_refund_chance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Шанс не витратити ремонтну приналежність: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Швидкість перезаряджання: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Швидкість перезаряджання: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Бонус відновлення: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Бонус відновлення: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Вартість продажу: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Вартість продажу: %c[d_green]+$stat%</text>
+  </string>
+</string_table>

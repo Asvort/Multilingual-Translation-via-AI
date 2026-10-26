@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ssr">
+    <text>SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm">
+    <text>Desfoque</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm_desc">
+    <text>Define o nível de desfoque dos reflexos.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm">
+    <text>Intensidade geral</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm_desc">
+    <text>Intensidade geral dos reflexos.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm">
+    <text>Qualidade (etapas)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm_desc">
+    <text>[ REQUER REINÍCIO ] Número de etapas usadas para renderizar reflexos. Esta opção pode afetar bastante o desempenho. [ 8, 16, 24, 32, 48, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm">
+    <text>Escala de renderização</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm_desc">
+    <text>Escala da renderização SSR. Valores menores reduzem a qualidade visual, mas melhoram o desempenho. Se reduzir a escala, considere aumentar o desfoque para disfarçar a perda de qualidade.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm">
+    <text>Intensidade do céu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm_desc">
+    <text>Intensidade do reflexo do céu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm">
+    <text>Acumulação temporal</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm_desc">
+    <text>Controla o quanto quadros anteriores são usados para estabilizar os reflexos. Isso reduz o ruído e melhora o SSR, mas valores altos podem gerar rastros.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_title">
+    <text>Configurações de reflexos no espaço da tela</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm">
+    <text>Usar ruído</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm_desc">
+    <text>Ativa ou desativa o ruído para melhorar a reconstrução do SSR. Recomendado com valores altos de desfoque.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm">
+    <text>Intensidade máxima nas armas</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm_desc">
+    <text>Intensidade máxima dos reflexos nas armas.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm">
+    <text>Intensidade nas armas</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm_desc">
+    <text>Intensidade dos reflexos nas armas.</text>
+  </string>
+</string_table>

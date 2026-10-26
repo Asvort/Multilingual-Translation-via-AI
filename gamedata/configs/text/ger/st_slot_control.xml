@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="slot_duplicate_item_1">
+    <text>Sie tragen bereits eine ballistische Einlage.</text>
+  </string>
+  <string id="slot_duplicate_item_2">
+    <text>Sie tragen bereits einen Trinkrucksack.</text>
+  </string>
+  <string id="slot_duplicate_item_4">
+    <text>Sie tragen bereits ein Rucksackgestell.</text>
+  </string>
+  <string id="slot_duplicate_item_8">
+    <text>Ein Umweltkontrollmodul ist bereits angebracht.</text>
+  </string>
+  <string id="slot_duplicate_item_exo">
+    <text>Am Exoskelett passt kein Rucksackgestell.</text>
+  </string>
+  <string id="st_armor_absorbed">
+    <text>Die Panzereinlage hat den Aufprall abgefangen.</text>
+  </string>
+  <string id="st_armor_broken">
+    <text>Die ballistische Einlage ist vollständig zerstört.</text>
+  </string>
+  <string id="st_armor_penetrated">
+    <text>Geschoss durchschlug die Einlage!</text>
+  </string>
+  <string id="st_camelbak_capacity">
+    <text>Kapazität</text>
+  </string>
+  <string id="st_camelbak_drink">
+    <text>Sie nehmen einen Schluck aus dem Trinkrucksack.</text>
+  </string>
+  <string id="st_camelbak_fill">
+    <text>Trinkrucksack gefüllt.</text>
+  </string>
+  <string id="st_camelbak_full">
+    <text>Der Trinkrucksack ist bereits voll.</text>
+  </string>
+  <string id="st_lsm">
+    <text>Lebenserhaltungsmodul</text>
+  </string>
+  <string id="st_lsm_desc">
+    <text>Ein veraltetes militärisches Lebenserhaltungsmodul. Für kurze Zeit nach dem Zweiten Tschernobyl-Unfall investierte der ukrainische Sicherheitsdienst in ein tragbares, automatisches Lebenserhaltungssystem, das die Leistungsfähigkeit seiner Feldkräfte verbessern sollte. Es war vor allem für besondere Situationen gedacht: starker irregulärer Widerstand wurde erwartet, Nachschublinien waren unterbrochen und Feldlazarette ließen sich wegen der tödlichen Gefahren der Zone praktisch nicht einrichten. Die Module wurden an mehrere Kampf- und Aufklärungsbataillone ausgegeben. Obwohl sie wirksam waren, blieben sie bei den regulären Streitkräften unbeliebt. Das Hauptgerät wird am linken Oberschenkel getragen und ist über zwei sterile Gummischläuche und ein elektronisches Kabel mit einer verstellbaren Manschette am Unterarm verbunden. Erkennt das System drastische Änderungen von Blutdruck und Herzfrequenz, verabreicht es über Schnellinjektionsnadeln in der Manschette passende Mengen Stabilisatoren und Morphin. Es ist für das Tragen mit der üblichen Kampfkleidung ausgelegt und besitzt einen Lautsprecher, der den Träger alarmiert. Morphin- und Stabilisatorbehälter lassen sich mit Kartuschen wechseln; mangels geeigneter Ausrüstung recyceln die meisten Stalker jedoch Stimulatoren und andere Autoinjektoren, um sie wieder aufzufüllen.\n \n%c[ui_gray_2]EIGENSCHAFTEN:\n%c[d_cyan] • %c[ui_gray_2] technischer Gegenstand\n%c[d_cyan] • %c[ui_gray_2] hohe Qualität\n%c[d_cyan] • %c[ui_gray_2] nur ein Umweltkontrollmodul kann ausgerüstet werden\n</text>
+  </string>
+  <string id="st_lsm_up">
+    <text>Verbessertes Lebenserhaltungsmodul</text>
+  </string>
+  <string id="st_lsm_up_desc">
+    <text>Modernisiertes Lebenserhaltungsmodul der Spezialeinheiten. Diese verbesserten Modelle beruhen auf der ursprünglichen Konstruktion und wurden mithilfe von Forschungen und in der Zone gesammelten Proben entwickelt. Die Behälter für Schmerzmittel und Stabilisatoren wurden vergrößert; kleine Artefaktfragmente sorgen für einen passiven positiven Effekt. Wegen der schwierigen Beschaffung geeigneter Fertigungsmaterialien wurden nur wenige hergestellt. Dennoch sind sie bei Speznas-Einheiten und Ökologen sehr begehrt, obwohl der Schmerz des Unterarminjektors womöglich noch stärker ist als zuvor.\n \n%c[ui_gray_2]EIGENSCHAFTEN:\n%c[d_cyan] • %c[ui_gray_2] technischer Gegenstand\n%c[d_cyan] • %c[ui_gray_2] hohe Qualität\n%c[d_cyan] • %c[ui_gray_2] nur ein Umweltkontrollmodul kann ausgerüstet werden\n</text>
+  </string>
+  <string id="ui_mcm_menu_slotControl">
+    <text>Überarbeitung der Anzugaufsätze</text>
+  </string>
+  <string id="ui_mcm_slotControl_ballisticMessage">
+    <text>Über den Zustand der Einlage informieren.</text>
+  </string>
+  <string id="ui_mcm_slotControl_camelbakMessage">
+    <text>Melden, wenn der Spieler daraus trinkt.</text>
+  </string>
+  <string id="ui_mcm_slotControl_camelbakThreshold">
+    <text>Durstwert zum Auslösen des Trinkrucksacks</text>
+  </string>
+  <string id="ui_mcm_slotControl_title">
+    <text>Überarbeitung der Anzugaufsätze</text>
+  </string>
+</string_table>

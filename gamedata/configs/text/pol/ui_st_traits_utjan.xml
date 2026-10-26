@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_btn_disable">
+    <text>Wyłącz</text>
+  </string>
+  <string id="st_btn_enable">
+    <text>Włącz</text>
+  </string>
+  <string id="st_btn_learn">
+    <text>Naucz się</text>
+  </string>
+  <string id="st_btn_learn_learned">
+    <text>Nauczono</text>
+  </string>
+  <string id="st_btn_learn_locked">
+    <text>Zablokowane</text>
+  </string>
+  <string id="st_itm_desc_trait_respec">
+    <text>„Sunset Sarsaparilla” to gazowany napój na bazie korzenia.\nFirmę Sunset Sarsaparilla założono w 1918 roku. Zasłynęła w dawnych Stanach Zjednoczonych z bezalkoholowego napoju o smaku sarsaparilli.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n%c[d_blue] • %c[ui_gray_2] napój\n%c[d_blue] • %c[ui_gray_2] importowany\n%c[d_blue] • %c[ui_gray_2] wysoka jakość\n%c[d_red] • %c[ui_gray_2] może powodować niewydolność nerek\n \n%c[ui_gray_3]Wypij, aby zresetować wszystkie cechy</text>
+  </string>
+  <string id="st_itm_name_trait_respec">
+    <text>Sunset Sarsaparilla</text>
+  </string>
+  <string id="st_requires_trait">
+    <text>Wymaga cechy</text>
+  </string>
+  <string id="st_trait_desc_big_guns_reload">
+    <text>„Naprawdę nie trzeba przeładowywać po wystrzeleniu zaledwie dwóch nabojów z magazynka na 30...”\n \nPrzeładowujesz karabiny szturmowe, snajperskie i strzelby o 15% szybciej.</text>
+  </string>
+  <string id="st_trait_desc_bloodlust">
+    <text>„Jeśli krwawisz, wiesz, co robić”.\n \nDrapieżnik poprawia też obsługę broni. \\nPrzeładowujesz ją i dobywasz do 25% szybciej.</text>
+  </string>
+  <string id="st_trait_desc_butcher">
+    <text>„Ostrożnie oprawiasz ciała mutantów, by zdobyć więcej łupów”.\n \nSzansa na dodatkową część mutanta podczas oprawiania jest większa o 50%.</text>
+  </string>
+  <string id="st_trait_desc_faction_cashback_other">
+    <text>„Umiesz targować się z nieznajomymi”.\n \nCeny u handlarzy z innych frakcji są korzystniejsze o 5%.</text>
+  </string>
+  <string id="st_trait_desc_faction_cashback_self">
+    <text>„Handlarze z twojej frakcji zawsze cieszą się na twój widok”.\n \nCeny u handlarzy z twojej frakcji są korzystniejsze o 5%.</text>
+  </string>
+  <string id="st_trait_desc_lockpicking_bonus">
+    <text>„Co jest w środku?”\n \nPoziom trudności otwierania zamków w zamkniętych pojemnikach spada o 10%.</text>
+  </string>
+  <string id="st_trait_desc_lone_stalker">
+    <text>„Komu w ogóle potrzebni są przyjaciele?”\n \nGdy nie masz towarzyszy, udźwig wzrasta o 5 kg, a otrzymywane obrażenia spadają o 10%.</text>
+  </string>
+  <string id="st_trait_desc_mag_loading_bonus">
+    <text>„Weź trochę nabojów i po prostu je tam włóż”.\n \nŁadowanie magazynków przebiega o 25% szybciej.</text>
+  </string>
+  <string id="st_trait_desc_mag_unloading_bonus">
+    <text>„Rozładowywanie każdego znalezionego magazynka wydaje ci się dobrym pomysłem”.\n \nRozładowywanie magazynków jest o 30% szybsze.</text>
+  </string>
+  <string id="st_trait_desc_medicine_boost">
+    <text>„Gratulacje, znalazłeś lek na dziury po kulach”.\n \nUżycie leków na krótko zwiększa regenerację zdrowia i usuwanie promieniowania o 10%.</text>
+  </string>
+  <string id="st_trait_desc_melee_defense">
+    <text>„Z nożem w ręku nawet wybuchy mniej bolą”.\n \nTrzymając broń do walki wręcz, otrzymujesz o 20% mniej obrażeń fizycznych.</text>
+  </string>
+  <string id="st_trait_desc_melee_mutant">
+    <text>„Po co marnować amunicję, skoro można po prostu uderzyć?”\n \nZadajesz mutantom o 15% więcej obrażeń w walce wręcz.</text>
+  </string>
+  <string id="st_trait_desc_mutant_resist">
+    <text>„Twoja skóra stwardniała w walce z mutantami”.\n \nOtrzymujesz o 10% mniej obrażeń od ataków mutantów.</text>
+  </string>
+  <string id="st_trait_desc_pack_mule">
+    <text>„Naprawdę nie musisz zbierać wszystkiego...”\n \nUdźwig wzrasta o 10%. \\nPrędkość sprintu spada o 5%.</text>
+  </string>
+  <string id="st_trait_desc_pain_rush">
+    <text>„AAAAAAAH!”\n \nPo otrzymaniu obrażeń prędkość ruchu wzrasta na 10 sekund, \\nmaksymalnie o 25%.</text>
+  </string>
+  <string id="st_trait_desc_pain_train">
+    <text>„AAAAAAAHHHHHHHHHHHHH!!!”\n \nPrzypływ bólu zwiększa też regenerację wytrzymałości do 5% na sekundę. \\nEfekt trwa o 5 sekund dłużej.</text>
+  </string>
+  <string id="st_trait_desc_predator">
+    <text>„Nie mam czasu krwawić”.\n \nZabicie stalkera lub mutanta zmniejsza krwawienie o 5% na 10 sekund.</text>
+  </string>
+  <string id="st_trait_desc_psy_resist_controller">
+    <text>„Twój umysł nie jest już taki jak wtedy, gdy po raz pierwszy wkroczyłeś do Zony...”\n \nOtrzymujesz o 25% mniej obrażeń od ataków psi kontrolerów.</text>
+  </string>
+  <string id="st_trait_desc_sidearm_quickdraw">
+    <text>„Pamiętaj, dobycie pistoletu jest zawsze szybsze niż przeładowanie”.\n \nChowasz broń o 25% szybciej, a pistolety dobywasz o 50% szybciej.</text>
+  </string>
+  <string id="st_trait_desc_small_guns_reload">
+    <text>„Rzucajcie broń... i magazynki!”\n \nPrzeładowujesz pistolety i pistolety maszynowe o 25% szybciej.</text>
+  </string>
+  <string id="st_trait_desc_sprinter">
+    <text>„Muszę biec szybciej...\nNie chcę trafić na emisję”.\n \nPrędkość sprintu wzrasta o 8%. \\nUdźwig spada o 3%.</text>
+  </string>
+  <string id="st_trait_desc_squad_leader">
+    <text>„Eksploracja Zony jest bezpieczniejsza z kaem... to znaczy, z towarzyszem!”\n \nTwoi towarzysze zadają o 15% więcej obrażeń i otrzymują o 25% mniej.</text>
+  </string>
+  <string id="st_trait_desc_strider">
+    <text>„Muszę iść szybciej...\nNie chcę spóźnić się na spotkanie”.\n \nPrędkość chodzenia wzrasta o 6%. \\nUdźwig spada o 1 kg.</text>
+  </string>
+  <string id="st_trait_desc_strong_back">
+    <text>„Kręgosłup wzmocnił ci się od noszenia nowicjuszy na plecach!”\n \nUdźwig wzrasta o 4 kg.</text>
+  </string>
+  <string id="st_trait_desc_thick_skull">
+    <text>„Może to promieniowanie albo sama Zona, ale twoja czaszka stwardniała...”\n \nOtrzymujesz o 10% mniej obrażeń od trafień w głowę.\nCeny u handlarzy są o 3% gorsze.</text>
+  </string>
+  <string id="st_trait_desc_tinkering_armor">
+    <text>„Nie musiałbyś tak często naprawiać kombinezonu, gdybyś po prostu nie dawał się ranić”.\n \nSzansa na niewykorzystanie materiałów przy naprawie kamizelek i hełmów wzrasta o 15%.</text>
+  </string>
+  <string id="st_trait_desc_tinkering_parts">
+    <text>„Stalkerzy zazdroszczą ci doskonale utrzymanego wyposażenia”.\n \nSzansa na niewykorzystanie zestawu naprawczego przy naprawie części i narzędzi wzrasta o 25%.</text>
+  </string>
+  <string id="st_trait_desc_tinkering_weapon">
+    <text>„Ostrzał tushkanów ogniem ciągłym niszczy broń”.\n \nSzansa na niewykorzystanie materiałów podczas naprawy broni wzrasta o 15%.</text>
+  </string>
+  <string id="st_trait_name_big_guns_reload">
+    <text>Adept ciężkiej broni</text>
+  </string>
+  <string id="st_trait_name_bloodlust">
+    <text>Żądza krwi</text>
+  </string>
+  <string id="st_trait_name_butcher">
+    <text>Rzeźnik</text>
+  </string>
+  <string id="st_trait_name_faction_cashback_other">
+    <text>Wędrowny handlarz</text>
+  </string>
+  <string id="st_trait_name_faction_cashback_self">
+    <text>Swój człowiek</text>
+  </string>
+  <string id="st_trait_name_lockpicking_bonus">
+    <text>Włamywacz</text>
+  </string>
+  <string id="st_trait_name_lone_stalker">
+    <text>Samotny stalker</text>
+  </string>
+  <string id="st_trait_name_mag_loading_bonus">
+    <text>Szybkie ładowanie</text>
+  </string>
+  <string id="st_trait_name_mag_unloading_bonus">
+    <text>Amator amunicji</text>
+  </string>
+  <string id="st_trait_name_medicine_boost">
+    <text>Medyk</text>
+  </string>
+  <string id="st_trait_name_melee_defense">
+    <text>Postawa obronna</text>
+  </string>
+  <string id="st_trait_name_melee_mutant">
+    <text>Łowca mutantów</text>
+  </string>
+  <string id="st_trait_name_mutant_resist">
+    <text>Gruba skóra</text>
+  </string>
+  <string id="st_trait_name_pack_mule">
+    <text>Muł juczny</text>
+  </string>
+  <string id="st_trait_name_pain_rush">
+    <text>Przypływ bólu</text>
+  </string>
+  <string id="st_trait_name_pain_train">
+    <text>Pociąg bólu</text>
+  </string>
+  <string id="st_trait_name_predator">
+    <text>Drapieżnik</text>
+  </string>
+  <string id="st_trait_name_psy_resist_controller">
+    <text>Hart ducha</text>
+  </string>
+  <string id="st_trait_name_sidearm_quickdraw">
+    <text>Szybkie dobycie</text>
+  </string>
+  <string id="st_trait_name_small_guns_reload">
+    <text>Rewolwerowiec</text>
+  </string>
+  <string id="st_trait_name_sprinter">
+    <text>Sprinter</text>
+  </string>
+  <string id="st_trait_name_squad_leader">
+    <text>Dowódca</text>
+  </string>
+  <string id="st_trait_name_strider">
+    <text>Piechur</text>
+  </string>
+  <string id="st_trait_name_strong_back">
+    <text>Mocne plecy</text>
+  </string>
+  <string id="st_trait_name_thick_skull">
+    <text>Twarda głowa</text>
+  </string>
+  <string id="st_trait_name_tinkering_armor">
+    <text>Technik pancerza</text>
+  </string>
+  <string id="st_trait_name_tinkering_parts">
+    <text>Specjalista napraw</text>
+  </string>
+  <string id="st_trait_name_tinkering_weapon">
+    <text>Rusznikaż</text>
+  </string>
+  <string id="st_traits_avail_txt">
+    <text>Punkty cech:</text>
+  </string>
+  <string id="st_traits_reminder">
+    <text>Masz niewydane punkty cech!</text>
+  </string>
+  <string id="st_traits_title">
+    <text>Cechy postaci</text>
+  </string>
+  <string id="st_traits_total_level">
+    <text>Łączny poziom cech</text>
+  </string>
+  <string id="st_traits_use_respec">
+    <text>wypij</text>
+  </string>
+</string_table>

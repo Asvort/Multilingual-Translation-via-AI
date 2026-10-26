@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ao">
+    <text>Occlusion ambiante</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_blur_mcm">
+    <text>Flou</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_blur_mcm_desc">
+    <text>Intensité de base du flou pour lisser le résultat de l’occlusion ambiante.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_distance_mcm">
+    <text>Distance maximale</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_distance_mcm_desc">
+    <text>Distance maximale de rendu de l’occlusion ambiante.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_flora_int_mcm">
+    <text>Intensité de la flore</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_flora_int_mcm_desc">
+    <text>Intensité sur la flore (herbe, arbres, etc.), en pourcentage de l’intensité globale. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_global_int_mcm">
+    <text>Intensité globale</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_global_int_mcm_desc">
+    <text>Intensité générale de l’occlusion ambiante. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_hud_int_mcm">
+    <text>Intensité du HUD</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_hud_int_mcm_desc">
+    <text>Intensité sur les éléments du HUD (armes, bras, etc.), en pourcentage de l’intensité globale. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_max_occ_mcm">
+    <text>Occlusion maximale</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_max_occ_mcm_desc">
+    <text>Occlusion maximale possible d’un pixel. [ 0.0 = noir total ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_quality_mcm">
+    <text>Qualité</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_quality_mcm_desc">
+    <text>[ REDÉMARRAGE REQUIS ] Nombre d’échantillons utilisés pour l’occlusion ambiante. Le réglage Très élevé peut fortement affecter les performances. [ 2, 4, 8 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_radius_mcm">
+    <text>Rayon général</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_radius_mcm_desc">
+    <text>Distance maximale utilisée pour tester l’occlusion d’un pixel. Si vous l’augmentez, il faudra peut-être ajuster l’intensité de l’effet.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_res_mcm">
+    <text>Résolution</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_res_mcm_desc">
+    <text>Résolution utilisée pour calculer l’occlusion ambiante.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_title">
+    <text>Paramètres de l’occlusion ambiante</text>
+  </string>
+</string_table>

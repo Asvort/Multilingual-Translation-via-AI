@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_nerfs_freq_preset">
+    <text>Frecuencia del preajuste %s: %s MHz</text>
+  </string>
+  <string id="ui_mcm_menu_nerfmain">
+    <text>Ajustes principales</text>
+  </string>
+  <string id="ui_mcm_menu_nerfpresets">
+    <text>Preajustes</text>
+  </string>
+  <string id="ui_mcm_menu_nerfs">
+    <text>Fuentes NERF</text>
+  </string>
+  <string id="ui_mcm_menu_nerfwidget">
+    <text>Accesibilidad</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header1">
+    <text>Puedes definir hasta nueve frecuencias y asignar una tecla rápida distinta a cada una.</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header2">
+    <text>Si activas la rueda del ratón, mantén Ctrl mientras la giras para recorrer estos preajustes.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_binaries">
+    <text>Binarios modificados por demonized: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs">
+    <text>Activar el registro de depuración</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs_desc">
+    <text>El registro es extenso, pero contiene información útil para depurar. Si vas a informar de un problema, PRIMERO:\n\n1. Activa esta opción.\n2. Sal completamente del juego.\n3. Carga la partida y reproduce el problema, a ser posible sin otros complementos.\n4. Sal del juego.\n\nDespués, comprime el registro de [anomaly_folder]/appdata/logs y súbelo a algún sitio en línea.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr">
+    <text>Activar compatibilidad con Reworked RF Receiver</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr_desc">
+    <text>Si está instalado Reworked RF Receiver de Coverdrave, NERFS usa sus ajustes MCM para estado de uso, pitidos y cambios de frecuencia. Las demás mejoras de RRFR ya están incluidas.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header1">
+    <text>New Extensible RF Sources mejora el detector RF de varias formas:\n• Amplía el rango de frecuencias de 300 a 999 (configurable abajo).\n• Añade nuevas fuentes interesantes de interferencias RF.\n• Traslada todas las fuentes RF a una estructura LTX ampliable, modificable y sin conflictos.\n• Añade notas saqueables (con artículos de enciclopedia) que pueden aparecer aleatoriamente en cadáveres de stalkers y enseñan frecuencias útiles (solo versión completa; enlace abajo).\n• Añade un indicador opcional de intensidad de señal en el HUD por accesibilidad o preferencia.\n• Es compatible con Reworked RF Receiver y TB’s RF Tasks.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header2">
+    <text>Más información y descarga de la versión completa de NERFS en Moddb:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header_dar">
+    <text>Versión mínima del framework para incluirlo en Devices of Anomaly Redone</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq">
+    <text>Frecuencia RF máxima</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq_desc">
+    <text>El receptor RF puede mostrar números de hasta tres cifras, pero el juego limita su rango de funcionamiento a VHF (30–300 MHz). Aun así, algunas fuentes de señal del juego base están fuera de ese rango. Esta opción amplía dos parámetros: el rango de frecuencias de funcionamiento del receptor y el rango que el juego utiliza al asignar tareas para buscar señales.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel">
+    <text>Usar la rueda del ratón para cambiar la frecuencia</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel_desc">
+    <text>Si está activada, puedes usar la rueda del ratón para cambiar la frecuencia hacia arriba o hacia abajo. Como en el juego original, mantén pulsada Mayús o Alt para cambiar el incremento a 10 o 50, respectivamente. ¡Con la rueda los cambios son mucho más rápidos!\nEsta función requiere los binarios modificados de la versión 20230701 o posterior. Actualmente no es compatible con GAMMA.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset1">
+    <text>Tecla del preajuste 1</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset2">
+    <text>Tecla del preajuste 2</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset3">
+    <text>Tecla del preajuste 3</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset4">
+    <text>Tecla del preajuste 4</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset5">
+    <text>Tecla del preajuste 5</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset6">
+    <text>Tecla del preajuste 6</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset7">
+    <text>Tecla del preajuste 7</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset8">
+    <text>Tecla del preajuste 8</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset9">
+    <text>Tecla del preajuste 9</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset1_freq">
+    <text>Frecuencia del preajuste 1</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset2_freq">
+    <text>Frecuencia del preajuste 2</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset3_freq">
+    <text>Frecuencia del preajuste 3</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset4_freq">
+    <text>Frecuencia del preajuste 4</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset5_freq">
+    <text>Frecuencia del preajuste 5</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset6_freq">
+    <text>Frecuencia del preajuste 6</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset7_freq">
+    <text>Frecuencia del preajuste 7</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset8_freq">
+    <text>Frecuencia del preajuste 8</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset9_freq">
+    <text>Frecuencia del preajuste 9</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_a">
+    <text>Alfa</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_b">
+    <text>Azul</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_g">
+    <text>Verde</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_r">
+    <text>Rojo</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_em_header">
+    <text>\n\nEl indicador parpadea con este color durante las emisiones.\nPredeterminado (rojo): 128,200,0,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_header1">
+    <text>El widget de accesibilidad es un indicador visual sencillo en el HUD que muestra la intensidad de la señal RF. Está pensado para personas sordas o con dificultades auditivas, pero puede usarlo cualquiera a quien le cueste distinguir las señales de audio del ruido de fondo. La posición y los colores del indicador se pueden personalizar según las preferencias o para personas con daltonismo. El widget SOLO aparecerá cuando el jugador tenga el detector RF en la mano.\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy">
+    <text>Posición XY de la esquina superior izquierda del widget:</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy_desc">
+    <text>0,0 es arriba a la izquierda y 1024,768 abajo a la derecha. Se adapta a la resolución. Predeterminado (centro inferior): 491,670.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_hi_header">
+    <text>\n\nEl indicador parpadea con este color cuando la señal es alta.\nPredeterminado (verde): 255,0,250,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_lo_header">
+    <text>\n\nEl indicador parpadea con este color cuando la señal es débil.\nPredeterminado (gris): 255,50,50,50\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_x">
+    <text>Coordenada X (horizontal, de izquierda a derecha)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_y">
+    <text>Coordenada Y (vertical, de arriba abajo)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_show">
+    <text>Mostrar el widget de accesibilidad</text>
+  </string>
+  <string id="ui_mcm_nerfs_scrolldown">
+    <text>** Desplázate hacia abajo para ver más opciones **</text>
+  </string>
+</string_table>

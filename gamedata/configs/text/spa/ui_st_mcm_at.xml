@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="at_development_hud_position_lst_bottomleft">
+    <text>Abajo a la izquierda</text>
+  </string>
+  <string id="at_development_hud_position_lst_bottomright">
+    <text>Abajo a la derecha</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerleft">
+    <text>Centro izquierda</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerright">
+    <text>Centro derecha</text>
+  </string>
+  <string id="at_development_hud_position_lst_off">
+    <text>Desactivado</text>
+  </string>
+  <string id="at_development_hud_position_lst_topleft">
+    <text>Arriba a la izquierda</text>
+  </string>
+  <string id="at_development_hud_position_lst_topright">
+    <text>Arriba a la derecha</text>
+  </string>
+  <string id="at_development_log_level_lst_debug">
+    <text>Depuración</text>
+  </string>
+  <string id="at_development_log_level_lst_error">
+    <text>Error</text>
+  </string>
+  <string id="at_development_log_level_lst_info">
+    <text>Información</text>
+  </string>
+  <string id="at_development_log_level_lst_warn">
+    <text>Advertencia</text>
+  </string>
+  <string id="st_at_reset_all_done">
+    <text>AlifeTactics: todos los ajustes se restablecieron a los valores predeterminados.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced">
+    <text>Dispersión de experimentado</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced_desc">
+    <text>Escala del cono de disparo para stalkers experimentados. Menor significa disparos más precisos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert">
+    <text>Dispersión experto</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert_desc">
+    <text>Escala del cono de disparo para rango experto. Un valor menor agrupa más los disparos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend">
+    <text>Dispersión leyenda</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend_desc">
+    <text>Escala del cono de disparo para rango leyenda. Un valor menor agrupa más los disparos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master">
+    <text>Dispersión maestro</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master_desc">
+    <text>Escala del cono de disparo para rango maestro. Un valor menor agrupa más los disparos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice">
+    <text>Dispersión de novato</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice_desc">
+    <text>Escala del cono de disparo para novatos. Menor significa más precisión y letalidad. 1.00 equivale al cono estándar.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional">
+    <text>Dispersión profesional</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional_desc">
+    <text>Escala del cono de disparo para rango profesional. Un valor menor agrupa más los disparos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee">
+    <text>Dispersión de aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee_desc">
+    <text>Escala del cono de disparo para aprendices. Menor significa disparos más precisos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran">
+    <text>Dispersión veterano</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran_desc">
+    <text>Escala del cono de disparo para rango veterano. Un valor menor agrupa más los disparos.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced">
+    <text>Disparo en movimiento: experimentado</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced_desc">
+    <text>Indica qué parte de la penalización por dispersión al moverse conserva un stalker experimentado al disparar en movimiento. 1.00 representa la penalización completa del juego base; un valor menor estabiliza el fuego.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert">
+    <text>Disparo en movimiento: experto</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert_desc">
+    <text>Parte de la penalización por movimiento que conserva el rango experto. es la penalización estándar completa; menos estabiliza el disparo.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend">
+    <text>Disparo en movimiento: leyenda</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend_desc">
+    <text>Parte de la penalización por movimiento que conserva el rango leyenda. Con 0.50, el disparo en movimiento es tan estable como de pie.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master">
+    <text>Disparo en movimiento: maestro</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master_desc">
+    <text>Parte de la penalización por movimiento que conserva el rango maestro. es la penalización estándar completa; menos estabiliza el disparo.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice">
+    <text>Disparo en movimiento: novato</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice_desc">
+    <text>Indica qué parte de la penalización por dispersión al moverse conserva un stalker novato al disparar en movimiento. 1.00 representa la penalización completa del juego base; un valor menor estabiliza el fuego.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional">
+    <text>Disparo en movimiento: profesional</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional_desc">
+    <text>Parte de la penalización por movimiento que conserva el rango profesional. es la penalización estándar completa; menos significa más precisión.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee">
+    <text>Disparo en movimiento: aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee_desc">
+    <text>Indica qué parte de la penalización por dispersión al moverse conserva un stalker en formación al disparar en movimiento. 1.00 representa la penalización completa del juego base; un valor menor estabiliza el fuego.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran">
+    <text>Disparo en movimiento: veterano</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran_desc">
+    <text>Parte de la penalización por movimiento que conserva el rango veterano. es la penalización estándar completa; menos estabiliza el disparo.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_desc">
+    <text>La precisión aumenta con el rango: un maestro agrupa mejor que un novato. Ajusta cada rango abajo. El motor admite una curva de dispersión, pero los valores estándar de Anomaly apenas varían.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled">
+    <text>Activar curva de dispersión</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled_desc">
+    <text>Define la amplitud del cono de apuntado por rango: los rangos bajos dispersan más y los altos agrupan mejor. Desactivado, se usa el cono fijo del motor.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled">
+    <text>Activar disparo en movimiento</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled_desc">
+    <text>Define cuánto compensa cada rango la penalización de precisión al disparar en movimiento. Los rangos altos mantienen la precisión; desactivado, se aplica toda la penalización.</text>
+  </string>
+  <string id="ui_mcm_at_ammo_desc">
+    <text>Los stalkers usan la munición que llevan. Desde veterano, usan proyectiles perforantes de su inventario con balística real y vuelven a la munición estándar al agotarse. Cada combate puede consumir una caja; armas rápidas y rangos bajos la gastan antes. La munición se obtiene comerciando o saqueando y no aparece como botín al morir. El umbral de rango y consumo se ajustan en configs/alifetactics/at_ammo.ltx.</text>
+  </string>
+  <string id="ui_mcm_at_behaviors_desc">
+    <text>En desarrollo: nuevas acciones de combate ausentes del planificador estándar, empezando por el combate cuerpo a cuerpo. Aún no hay opciones.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled">
+    <text>Activar control de combate</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled_desc">
+    <text>Desactivado, AlifeTactics no interviene y se usa la IA actual. Activado, puede tomar temporalmente el control de un stalker para una maniobra.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions">
+    <text>Ignorar compañeros</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions_desc">
+    <text>Activado, AlifeTactics no controla a tus compañeros; su IA y tus órdenes siguen bajo tu control. Desactívalo para permitir maniobras con ellos.</text>
+  </string>
+  <string id="ui_mcm_at_combat_desc">
+    <text>Una maniobra toma temporalmente el control total de un stalker para realizar acciones que el motor estándar no contempla. Analiza el combate, las estadísticas, el entorno, la facción, la distancia, la cobertura y las armas. Los escuadrones pueden coordinar movimientos y cada facción favorece sus propias tácticas. No reemplaza otros scripts de combate y cada maniobra se activa por separado.</text>
+  </string>
+  <string id="ui_mcm_at_combat_hdr_maneuvers">
+    <text>Maniobras</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank">
+    <text>Contraataque de flanco</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank_desc">
+    <text>Si un stalker dispara a un objetivo lejano y un jugador hostil se acerca, se vuelve para atacar la amenaza cercana en vez de darle la espalda.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee">
+    <text>Huir</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee_desc">
+    <text>El último miembro de un escuadrón derrotado huye con el arma colgada hacia una base aliada lejana. Espera a que cese el fuego. Solo huyen facciones cautelosas; los fanáticos nunca.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite">
+    <text>Hostigar en retirada</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite_desc">
+    <text>Si un enemigo entra en la distancia mínima del arma, el stalker retrocede hasta su alcance mientras dispara por una ruta que ha comprobado que está despejada.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff">
+    <text>Eliminación a distancia</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff_desc">
+    <text>Si el arma del stalker supera en alcance a la del enemigo, mantiene la posición y dispara tiros individuales. Se retira cuando el enemigo se acerca y nunca se queda bajo fuego o bajo tu mira.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover">
+    <text>Recargar a cubierto</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover_desc">
+    <text>Si sorprenden a un stalker recargando en la línea de fuego, corre a la cobertura más cercana y termina allí. Recargar fuera de la vista o del apuntado no cambia. Requiere una versión reciente del motor.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat">
+    <text>Retirada</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat_desc">
+    <text>Gravemente herido y con el tirador cerca, el stalker retrocede disparando hasta una cobertura que aumente la distancia. Cada uno ocupa una cobertura distinta.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin">
+    <text>Fijar cobertura</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin_desc">
+    <text>Con una línea de tiro despejada, el stalker conserva su cobertura en vez de moverse a otra apenas mejor, evitando desplazamientos innecesarios. Si la posición queda comprometida, se retira. Requiere una versión reciente del motor.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled">
+    <text>Activar compromiso</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled_desc">
+    <text>Desactivado, los stalkers usan el comportamiento estándar: el motor recalcula la situación y cambia sus acciones por pequeñas ventajas, provocando movimientos erráticos.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s">
+    <text>Tiempo máximo comprometido</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s_desc">
+    <text>Tiempo máximo durante el que mantiene una acción antes de que el motor pueda moverlo. Es un límite, no una duración fija: continúa mientras la acción tenga sentido. Se retira cuando pierde la visión o el tiro deja de estar despejado. Un valor mayor prolonga la posición.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_desc">
+    <text>Los stalkers estándar reconsideran sus acciones ante cualquier cambio pequeño y se mueven de forma errática. Esta opción hace que mantengan una acción mientras tenga sentido y cambien si pierden de vista al enemigo, se bloquea el disparo o el objetivo desaparece. Si tienen un tiro claro, conservan la cobertura. Requiere una versión reciente del motor; en versiones antiguas se mantiene el comportamiento estándar.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture">
+    <text>Postura en cobertura</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture_desc">
+    <text>Los tiradores experimentados y francotiradores se agachan tras una cobertura a la altura del pecho y se ponen de pie si no la hay. La opción mejora la postura de combate.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_desc">
+    <text>Pequeñas mejoras de combate para stalkers controlados por el motor estándar: sin tomar el control, solo mejores decisiones. Requiere una versión reciente del motor.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled">
+    <text>Reducir fuego amigo de la misma facción</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled_desc">
+    <text>Desactivado, se aplica el daño amistoso estándar completo.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor">
+    <text>Multiplicador de daño de la facción</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor_desc">
+    <text>Daño de un impacto entre miembros de la misma facción. 0.00 significa que no se dañan; 1.00 es el daño estándar completo.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_desc">
+    <text>Los miembros de una misma facción se infligen menos daño en fuego cruzado; ajusta el multiplicador abajo. Se respetan las relaciones reales, así que las facciones enemigas causan daño completo. Tus disparos no cambian.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions">
+    <text>Ruido de manipulación</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions_desc">
+    <text>Los stalkers hostiles reaccionan al oír una recarga, un disparo en vacío o el uso cercano de un objeto. El alcance es menor que el del movimiento. Recargar o hacer clic en vacío los lleva a investigar; al usar un objeto se ponen en alerta hacia el sonido.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise">
+    <text>Ruido de movimiento</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise_desc">
+    <text>Los stalkers hostiles oyen tus pasos. Radio base al caminar: 5m; correr lo multiplica por 1.6 y aterrizar de un salto alcanza 10m. Agacharse es silencioso. Superficies: metal x1.25, madera x1.15, agua x1.35, hierba x0.7, tierra y arena x0.8; la lluvia reduce el alcance hasta un 40%. Investigan el sonido caminando, sin asumir que eres un enemigo. Solo reaccionan hostiles fuera de combate.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire">
+    <text>Alerta por disparos neutrales</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire_desc">
+    <text>Los stalkers neutrales y aliados cercanos se ponen en alerta y miran hacia tus disparos. No se vuelven hostiles ni cambian de posición, y se calman cuando cesa el fuego. El alcance es corto y no llega a la detección de combate.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult">
+    <text>Alcance del ruido</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult_desc">
+    <text>Escala el alcance de los pasos y acciones. Menos de 1 facilita el sigilo; más de 1 agudiza el oído de los stalkers.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_desc">
+    <text>Las correcciones de peligro e investigación de cadáveres siempre están activas; abajo hay un ajuste opcional. Solucionan fallos y errores antiguos. Se integran en el script de peligro instalado.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_list">
+    <text>1. Se corrigió la lectura de las filas de peligro.\n2. Se corrigió el control de tiempo ante cadáveres mutantes.\n3. Se corrigió el fallo por referencias NPC eliminadas.\n4. Se corrigió un valor de tiempo de peligro inválido.\n5. Se corrigió la memoria de impacto cuando falta el tirador.\n6. Se corrigió una animación persistente al cambiar de estado.\n7. Ahora solo se borra la reserva de cobertura propia.\n8. Se corrigió el fallo si desaparece un cadáver durante la investigación.\n9. La investigación ya no controla al miembro equivocado.\n10. El investigador va a la cobertura encontrada, no a un punto despejado.\n11. La configuración se analiza una vez, mejorando el rendimiento.\n12. El peligro de un stalker muerto se limpia al reutilizar su ID.\n13. Se corrigió el fallo si la reacción al cadáver ocurre antes de iniciar la investigación.</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_fixes">
+    <text>Correcciones permanentes (sin interruptor)</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_gunfire">
+    <text>Disparos</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_noise">
+    <text>Tus ruidos</text>
+  </string>
+  <string id="ui_mcm_at_danger_hit_desc">
+    <text>Reacciones al recibir impactos. Las distancias vienen de la configuración de peligro; AlifeTactics añade reacciones, no cambia sus parámetros.</text>
+  </string>
+  <string id="ui_mcm_at_danger_sound_desc">
+    <text>Las reacciones a disparos usan las distancias de peligro de tu configuración; tus pasos y acciones usan radios cortos propios. Se integra como parche y es compatible con otros sistemas de IA y mods de sigilo. El sigilo depende de ser visto (luz, cobertura, postura); el sonido no altera la detección y caminar agachado es silencioso.</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled">
+    <text>Depuración de balística</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled_desc">
+    <text>Registra los resultados de los enfrentamientos cercanos: aciertos por rango y movimiento del tirador, daño, disparos que pasan cerca y longitud de ráfagas por tipo de arma, además del sistema que controla al NPC (Maneuver, Commitment o vanilla). Escribe en alifetactics_world.log una vez por minuto. Desactivado, no consume recursos.</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all">
+    <text>Restablecer valores</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all_desc">
+    <text>Restaura los valores predeterminados de todos los ajustes de AlifeTactics en MCM. Úsalo tras actualizar desde una versión con una estructura de MCM distinta.</text>
+  </string>
+  <string id="ui_mcm_at_development_desc">
+    <text>Herramientas de desarrollo. DEBUG registra cada sistema con tiempos: maniobras, peligro, revelación, curación y objetos, precisión por disparo, munición y recargas. Se guarda en alifetactics.log y tiene coste; para jugar normalmente, usa WARN.</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position">
+    <text>Posición</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position_desc">
+    <text>Superposición de stalkers cercanos: rango, nombre, salud, lógica, estado mental y objetivo actual con distancia. Una fila verde con el nombre del maniobra indica que AlifeTactics controla al stalker. Se actualiza dos veces por segundo y se oculta con la PDA abierta. Elige una esquina.</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level">
+    <text>Nivel de registro</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level_desc">
+    <text>Detalle del registro. ERROR: solo fallos. WARN: anomalías. INFO: inicio de módulos e instalación de parches. DEBUG: traza completa de eventos y duración.</text>
+  </string>
+  <string id="ui_mcm_at_development_reset_warning">
+    <text>Guarda o descarta primero los cambios pendientes de MCM. De lo contrario, se aplicarán al pulsar «Aceptar» y anularán el restablecimiento.</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled">
+    <text>Depuración del comportamiento del mundo</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled_desc">
+    <text>Vigila a los NPC en combate cerca del jugador y detecta deslizamientos: desplazamiento sin animación de caminar o correr, incluido el empujón de un impacto. Indica el sistema que controla al NPC (Maneuver, Commitment o vanilla) y registra los datos en alifetactics_world.log. Desactivado, no consume recursos.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_desc">
+    <text>Si hieres a un miembro del escuadrón, todos conocen al tirador, incluso las patrullas fuera del alcance auditivo y con armas silenciadas. El juego base solo comparte lo que oyen. AlifeTactics registra al tirador en la memoria de cada miembro y activa el combate del escuadrón; después el motor distribuye la información. En motores recientes también pasa a ser el objetivo prioritario visible. No se alteran las relaciones; una muerte instantánea sin testigos sigue siendo silenciosa, aunque pueden encontrar el cuerpo.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled">
+    <text>Activar revelación</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled_desc">
+    <text>Desactivado: comportamiento estándar; el escuadrón solo detecta al tirador si oye el disparo y las patrullas lejanas no reciben el aviso.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min">
+    <text>Olvidar al tirador tras (minutos de juego)</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min_desc">
+    <text>Minutos de juego sin nuevos impactos antes de que el escuadrón olvide al tirador. El siguiente impacto vuelve a alertar a todo el grupo. Se cuenta el tiempo de juego, no el real.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate">
+    <text>No revelar al tirador al matar</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate_desc">
+    <text>Si el impacto mata al objetivo al instante, no se revela al tirador: la víctima no puede avisar por radio, así que los disparos silenciados y ataques por la espalda pasan desapercibidos. El escuadrón aún puede encontrarte por sonido, vista o el cadáver. Si solo queda herido, se revela como siempre.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn">
+    <text>Priorizar al tirador</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn_desc">
+    <text>El tirador revelado pasa a ser el objetivo prioritario de cada miembro, que se vuelve hacia él en vez de seguir apuntando a un enemigo visible lejano. Desactivado, conocen al tirador y pueden atacarlo, pero un enemigo a la vista sigue teniendo prioridad. Requiere una versión reciente del motor.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_hdr_survivor">
+    <text>Sigilo</text>
+  </string>
+  <string id="ui_mcm_at_effects_desc">
+    <text>En desarrollo: efectos de combate para el jugador, primero la conmoción. Aún no hay opciones.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled">
+    <text>Munición perforante de NPC</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled_desc">
+    <text>Activado: los stalkers aptos usan y consumen munición perforante. Desactivado: todos usan munición estándar y no consumen reservas.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables">
+    <text>Distancias del jugador</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables_desc">
+    <text>El peligro causado por el jugador usa tablas de actor separadas si la configuración las distingue. Solo se aplica si el script instalado las utiliza; si no, se conservan sus propios valores.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound">
+    <text>Disparos enemigos</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound_desc">
+    <text>Los NPC reaccionan a disparos enemigos que oyen pero no ven: se vuelven hacia el sonido, adoptan postura de combate y buscan cobertura al ver al tirador. No reaccionan a disparos neutrales o aliados. La distancia depende de la configuración de peligro.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass">
+    <text>Impactos lejanos</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass_desc">
+    <text>La IA estándar ignora disparos lejanos por un límite de distancia. Activado, todo impacto directo cuenta: un stalker alcanzado a 200m se gira y busca cobertura.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled">
+    <text>Suprimir atascos de NPC</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled_desc">
+    <text>Activado: se deshabilitan los atascos ficticios de NPC. Desactivado: se usa el comportamiento estándar del ejecutable modificado. Tus armas no se ven afectadas.</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_curve">
+    <text>Curva de rangos</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_move">
+    <text>Precisión al disparar en movimiento</text>
+  </string>
+  <string id="ui_mcm_at_hdr_commitment_hold">
+    <text>Límite de compromiso</text>
+  </string>
+  <string id="ui_mcm_at_hdr_heal_rate">
+    <text>Velocidad de curación</text>
+  </string>
+  <string id="ui_mcm_at_hdr_healing_charge">
+    <text>Carga de curación</text>
+  </string>
+  <string id="ui_mcm_at_hdr_hud">
+    <text>HUD de depuración</text>
+  </string>
+  <string id="ui_mcm_at_hdr_logging">
+    <text>Registro</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_aim">
+    <text>Velocidad de seguimiento: </text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_lead">
+    <text>Anticipación del objetivo</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_qinterval">
+    <text>Cadencia de fuego (intervalo)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_trigger">
+    <text>Disciplina de fuego (tamaño de ráfaga)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_vision">
+    <text>Curva de velocidad de detección</text>
+  </string>
+  <string id="ui_mcm_at_hdr_retention">
+    <text>Retención</text>
+  </string>
+  <string id="ui_mcm_at_hdr_visuals">
+    <text>Capa visual</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced">
+    <text>Probabilidad de carga para experimentado (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced_desc">
+    <text>Probabilidad de carga de curación para stalkers experimentados.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master">
+    <text>Probabilidad de carga para maestro (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master_desc">
+    <text>Probabilidad de carga curativa para stalkers de rango maestro.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice">
+    <text>Probabilidad de carga para novato (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice_desc">
+    <text>Probabilidad de que un novato obtenga una carga de curación única al aparecer por primera vez. Se activa una vez al bajar del umbral de salud si no lleva botiquín. El juego base usa un 50% para todos los rangos.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran">
+    <text>Probabilidad de carga para veterano (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran_desc">
+    <text>Probabilidad de carga de curación para stalkers veteranos.</text>
+  </string>
+  <string id="ui_mcm_at_healing_desc">
+    <text>Los stalkers heridos se curan con los botiquines y vendas que llevan; cojean si están heridos y reproducen la animación al curarse fuera de combate. El juego base tiene vacías las listas de objetos curativos, así que nunca usaban lo que llevaban. AlifeTactics las restaura al iniciar. Ajusta abajo la velocidad, la carga única por rango y las animaciones.</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier">
+    <text>Multiplicador de curación</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier_desc">
+    <text>Multiplica la salud restaurada en cada ciclo. Con 2.0 el botiquín cura el doble de rápido; con 0.5, a la mitad. El motor fija el número de ciclos.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled">
+    <text>Animación de curación</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled_desc">
+    <text>Al iniciar un ciclo de curación fuera de combate, el stalker hace el gesto de usar un botiquín o una venda. El motor termina la animación.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled">
+    <text>Activar curación</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled_desc">
+    <text>Interruptor general para ajustar la velocidad de curación y la carga única por rango. Desactivado, se usa la autocuración estándar. Requiere reiniciar. Las listas de objetos se restauran al iniciar en cualquier caso.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled">
+    <text>Animación de cojera</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled_desc">
+    <text>Fuera de combate, los stalkers por debajo del umbral de salud cojean visiblemente; la postura y el paso dependen del arma que llevan. No afecta a quienes luchan o se están curando.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold">
+    <text>Umbral de salud para cojear</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold_desc">
+    <text>Fracción de salud por debajo de la cual el stalker empieza a cojear. Un valor menor retrasa la señal hasta que esté más herido.</text>
+  </string>
+  <string id="ui_mcm_at_jam_desc">
+    <text>Las armas de los NPC solo se atascan de verdad y se recargan cuando el cargador está vacío. En ejecutables modificados, un atasco ficticio hace que recarguen rifles en buen estado cada pocos disparos. AlifeTactics desactiva esa tirada para NPC; tus armas conservan el comportamiento estándar.</text>
+  </string>
+  <string id="ui_mcm_at_mutants_desc">
+    <text>En desarrollo: comportamiento de combate de los mutantes. Aún no hay opciones.</text>
+  </string>
+  <string id="ui_mcm_at_range_desc">
+    <text>En desarrollo: distancia de combate. El juego limita actualmente el alcance de combate de los NPC sin importar el arma. Aún no hay opciones.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled">
+    <text>Activar velocidad de seguimiento</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled_desc">
+    <text>Precisión con la que el cañón de rango sigue un objetivo en movimiento. Un valor mayor mejora el seguimiento.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_desc">
+    <text>El rango determina cómo sigue el arma a un objetivo en movimiento y con qué rapidez se detectan objetivos lejanos.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled">
+    <text>Activar disciplina de fuego</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled_desc">
+    <text>Ajusta la longitud y frecuencia de las ráfagas por rango. Los rangos altos disparan ráfagas cortas y precisas con más frecuencia; los bajos mantienen el comportamiento estándar. Por defecto, la escala de longitud no queda por debajo del intervalo, así que los impactos por minuto no disminuyen. Desactivado, se usan las ráfagas estándar.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled">
+    <text>Activar anticipación del objetivo</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled_desc">
+    <text>Cuánto se adelanta el disparo a un objetivo en movimiento según el tiempo real de vuelo de la bala. Los rangos altos calculan bien y los bajos se adelantan demasiado. Desactivado, se usa el valor fijo del motor.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced">
+    <text>Velocidad de seguimiento: experimentado</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced_desc">
+    <text>Precisión con la que el cañón de rango experimentado sigue un objetivo en movimiento. Un valor mayor mejora el seguimiento.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert">
+    <text>Velocidad de seguimiento: experto</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert_desc">
+    <text>Precisión con la que el cañón de rango experto sigue un objetivo en movimiento. Un valor mayor lo sigue de cerca.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend">
+    <text>Velocidad de seguimiento: leyenda</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend_desc">
+    <text>Precisión con la que el cañón de rango leyenda sigue un objetivo móvil. 2.50 coincide con la opción de puntería de la IA hardcore.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master">
+    <text>Velocidad de seguimiento: maestro</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master_desc">
+    <text>Precisión con la que el cañón de rango maestro sigue un objetivo en movimiento. Un valor mayor lo sigue de cerca.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice">
+    <text>Velocidad de seguimiento: novato</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice_desc">
+    <text>Precisión con la que el cañón de rango novato sigue un objetivo en movimiento, en radianes por segundo. 0.24 coincide con el valor estándar del motor.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional">
+    <text>Velocidad de seguimiento: profesional</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional_desc">
+    <text>Precisión con la que el cañón de rango profesional sigue un objetivo en movimiento. Un valor mayor mejora el seguimiento.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee">
+    <text>Velocidad de seguimiento: aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee_desc">
+    <text>Precisión con la que el cañón de rango aprendiz sigue un objetivo en movimiento. Un valor mayor mejora el seguimiento.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran">
+    <text>Velocidad de seguimiento: veterano</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran_desc">
+    <text>Precisión con la que el cañón de rango veterano sigue un objetivo en movimiento. Un valor mayor mejora el seguimiento.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced">
+    <text>Anticipación del objetivo: experimentado</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced_desc">
+    <text>Error de anticipación del rango experimentado respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert">
+    <text>Anticipación del objetivo: experto</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert_desc">
+    <text>Error de anticipación del rango experto respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend">
+    <text>Anticipación del objetivo: leyenda</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend_desc">
+    <text>Error de anticipación del rango leyenda respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master">
+    <text>Anticipación del objetivo: maestro</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master_desc">
+    <text>Error de anticipación del rango maestro respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice">
+    <text>Anticipación del objetivo: novato</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice_desc">
+    <text>Multiplicador del error de anticipación del novato sobre el cálculo físico correcto. 2.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional">
+    <text>Anticipación del objetivo: profesional</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional_desc">
+    <text>Error de anticipación del rango profesional respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee">
+    <text>Anticipación del objetivo: aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee_desc">
+    <text>Error de anticipación del rango aprendiz respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran">
+    <text>Anticipación del objetivo: veterano</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran_desc">
+    <text>Error de anticipación del rango veterano respecto al cálculo físico correcto. Más de 1.00 se adelanta demasiado; 1.00 es exacto.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced">
+    <text>Cadencia de fuego: experimentado</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango experimentado. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert">
+    <text>Cadencia de fuego: experto</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango experto. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend">
+    <text>Cadencia de fuego: leyenda</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango leyenda. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master">
+    <text>Cadencia de fuego: maestro</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango maestro. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice">
+    <text>Cadencia de fuego: novato</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango novato. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional">
+    <text>Cadencia de fuego: profesional</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango profesional. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee">
+    <text>Cadencia de fuego: aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango aprendiz. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran">
+    <text>Cadencia de fuego: veterano</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran_desc">
+    <text>Multiplicador de la pausa entre ráfagas para rango veterano. 1.00 es estándar; menos dispara con más frecuencia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced">
+    <text>Tamaño de ráfaga: experimentado</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced_desc">
+    <text>Multiplicador de la longitud de ráfaga del rango experimentado. 1.00 es el valor estándar; por debajo de 1, ráfagas más cortas y precisas al inicio.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert">
+    <text>Tamaño de ráfaga: experto</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert_desc">
+    <text>Multiplicador de longitud de ráfaga del rango experto. 1.00 es estándar; menos acorta la ráfaga para conservar precisión inicial.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend">
+    <text>Tamaño de ráfaga: leyenda</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend_desc">
+    <text>Multiplicador de longitud de ráfaga del rango leyenda. 1.00 es estándar; menos acorta la ráfaga para conservar precisión inicial.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master">
+    <text>Tamaño de ráfaga: maestro</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master_desc">
+    <text>Multiplicador de longitud de ráfaga del rango maestro. 1.00 es estándar; menos acorta la ráfaga para conservar precisión inicial.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice">
+    <text>Tamaño de ráfaga: novato</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice_desc">
+    <text>Multiplicador de la longitud de ráfaga del rango novato. 1.00 es el valor estándar; por debajo de 1, ráfagas más cortas y precisas al inicio.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional">
+    <text>Tamaño de ráfaga: profesional</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional_desc">
+    <text>Multiplicador de la longitud de ráfaga del rango profesional. 1.00 es el valor estándar; por debajo de 1, ráfagas más cortas y precisas al inicio.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee">
+    <text>Tamaño de ráfaga: aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee_desc">
+    <text>Multiplicador de la longitud de ráfaga del rango aprendiz. 1.00 es el valor estándar; por debajo de 1, ráfagas más cortas y precisas al inicio.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran">
+    <text>Tamaño de ráfaga: veterano</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran_desc">
+    <text>Multiplicador de longitud de ráfaga del rango veterano. 1.00 es estándar; menos acorta la ráfaga para conservar precisión inicial.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced">
+    <text>Velocidad de detección: experimentado</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced_desc">
+    <text>Factor de velocidad de detección para rango experimentado. Un valor mayor detecta antes los objetivos lejanos. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert">
+    <text>Velocidad de detección: experto</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert_desc">
+    <text>Factor de velocidad de detección para rango experto. Un valor mayor detecta antes los objetivos lejanos. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend">
+    <text>Velocidad de detección: leyenda</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend_desc">
+    <text>Factor de velocidad de detección para rango leyenda. Un valor mayor detecta antes los objetivos lejanos. 2.00 detecta objetivos el doble de rápido que la base. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master">
+    <text>Velocidad de detección: maestro</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master_desc">
+    <text>Factor de velocidad de detección para rango maestro. Un valor mayor detecta antes los objetivos lejanos. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice">
+    <text>Velocidad de detección: novato</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice_desc">
+    <text>Factor de velocidad de detección para rango novato. Un valor mayor detecta antes los objetivos lejanos. 1.00 no cambia la configuración actual. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional">
+    <text>Velocidad de detección: profesional</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional_desc">
+    <text>Factor de velocidad de detección para rango profesional. Un valor mayor detecta antes los objetivos lejanos. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee">
+    <text>Velocidad de detección: aprendiz</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee_desc">
+    <text>Factor de velocidad de detección para rango aprendiz. Un valor mayor detecta antes los objetivos lejanos. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran">
+    <text>Velocidad de detección: veterano</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran_desc">
+    <text>Factor de velocidad de detección para rango veterano. Un valor mayor detecta antes los objetivos lejanos. La detección a quemarropa no cambia.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled">
+    <text>Activar velocidad de detección</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled_desc">
+    <text>Define la rapidez con que cada rango detecta objetivos a distancia, además de la configuración de detección. Los rangos altos te ven antes. Desactivado, se usa la velocidad fija del motor.</text>
+  </string>
+  <string id="ui_mcm_at_resistance_desc">
+    <text>En desarrollo: resistencia de los NPC según armadura, equipo, mitigación de daño y artefactos. Aún no hay opciones.</text>
+  </string>
+  <string id="ui_mcm_at_title">
+    <text>AlifeTactics</text>
+  </string>
+  <string id="ui_mcm_menu_accuracy">
+    <text>Precisión</text>
+  </string>
+  <string id="ui_mcm_menu_at">
+    <text>Tácticas de vida</text>
+  </string>
+  <string id="ui_mcm_menu_behaviors">
+    <text>Comportamientos</text>
+  </string>
+  <string id="ui_mcm_menu_combat">
+    <text>Combate</text>
+  </string>
+  <string id="ui_mcm_menu_commitment">
+    <text>Compromiso</text>
+  </string>
+  <string id="ui_mcm_menu_conduct">
+    <text>Conducta</text>
+  </string>
+  <string id="ui_mcm_menu_crossfire">
+    <text>Fuego cruzado</text>
+  </string>
+  <string id="ui_mcm_menu_danger">
+    <text>Peligro</text>
+  </string>
+  <string id="ui_mcm_menu_development">
+    <text>Desarrollo</text>
+  </string>
+  <string id="ui_mcm_menu_disclosure">
+    <text>Detección</text>
+  </string>
+  <string id="ui_mcm_menu_effectiveness">
+    <text>Eficacia</text>
+  </string>
+  <string id="ui_mcm_menu_effects">
+    <text>Efectos</text>
+  </string>
+  <string id="ui_mcm_menu_fixes">
+    <text>Correcciones</text>
+  </string>
+  <string id="ui_mcm_menu_healing">
+    <text>Curación</text>
+  </string>
+  <string id="ui_mcm_menu_hit">
+    <text>Impacto</text>
+  </string>
+  <string id="ui_mcm_menu_jam">
+    <text>Atascos</text>
+  </string>
+  <string id="ui_mcm_menu_maneuvers">
+    <text>Maniobras</text>
+  </string>
+  <string id="ui_mcm_menu_mechanics">
+    <text>Mecánicas</text>
+  </string>
+  <string id="ui_mcm_menu_mutants">
+    <text>Mutantes</text>
+  </string>
+  <string id="ui_mcm_menu_range">
+    <text>Alcance</text>
+  </string>
+  <string id="ui_mcm_menu_reaction">
+    <text>Reacción</text>
+  </string>
+  <string id="ui_mcm_menu_resistance">
+    <text>Resistencia</text>
+  </string>
+  <string id="ui_mcm_menu_sound">
+    <text>Sonido</text>
+  </string>
+</string_table>

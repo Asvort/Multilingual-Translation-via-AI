@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_already_repair">
+    <text>--- Der Austausch der Teile ist abgeschlossen. Um die Waffenqualität zu erhöhen, muss ihr Zustand 100 % betragen.</text>
+  </string>
+  <string id="st_awr_back">
+    <text>Zurück</text>
+  </string>
+  <string id="st_awr_ctrl">
+    <text>%sDamit Gegenstände nicht versehentlich zerlegt werden,\nkann der Vorgang nur bei gedrückter ALT-Taste ausgeführt werden%s</text>
+  </string>
+  <string id="st_awr_dead_mechanic">
+    <text>%sDer Techniker %s wurde von %s getötet.%s \nDu brauchst keine Erlaubnis mehr, um seinen Schraubstock zu benutzen.</text>
+  </string>
+  <string id="st_awr_dialog_1">
+    <text>Kann ich deinen Schraubstock benutzen? Ich muss etwas reparieren.</text>
+  </string>
+  <string id="st_awr_dialog_2">
+    <text>Na gut ... Für tausend Rubel kannst du ihn benutzen.</text>
+  </string>
+  <string id="st_awr_dialog_3">
+    <text>Hier.</text>
+  </string>
+  <string id="st_awr_dialog_4">
+    <text>Gut. Ich ruhe mich kurz aus. In der Zwischenzeit mach schnell. Ich muss heute noch mehr Arbeit erledigen.</text>
+  </string>
+  <string id="st_awr_dialog_5">
+    <text>So viel habe ich nicht.</text>
+  </string>
+  <string id="st_awr_dialog_6">
+    <text>Verstanden.</text>
+  </string>
+  <string id="st_awr_dialog_7">
+    <text>Nach allem, was du für mich getan hast? Natürlich! Trotzdem solltest du dich beeilen. Ich muss heute noch mehr Arbeit erledigen.</text>
+  </string>
+  <string id="st_awr_exit">
+    <text>Beenden</text>
+  </string>
+  <string id="st_awr_help_0">
+    <text>Anleitung</text>
+  </string>
+  <string id="st_awr_help_1">
+    <text>Der Reparaturvorgang hängt von der Gesamtqualität der Waffe (neu, abgenutzt, rostig) und ihrem aktuellen Zustand ab. Die Werte 0–65, 0–75 und 0–85 bestimmen außerdem den Zustand für jede Qualitätsstufe: 0–65 % bei rostigen, 0–75 % bei abgenutzten und 0–85 % bei neuen Waffen.</text>
+  </string>
+  <string id="st_awr_help_2">
+    <text>Reparatur- und Verbesserungsverfahren (Waffen mit einem Zustand von 0–65/0–75/0–85):</text>
+  </string>
+  <string id="st_awr_help_3">
+    <text>1. Wähle ein Reparaturset, um den Lauf durch einen anderen desselben Kalibers mit einem Zustand von 0–20/0–25/0–30 zu ersetzen, oder verwende ein Waffenverbesserungsset bei einem Zustand von 20–65/25–75/30–85. Doppelklicke dazu auf den Namen des Sets in der Liste.\n2. Wähle ein Teil mit einem einzelnen Mausklick in der Liste aus. Bei der Reparatur von Waffen in schlechtem Zustand werden die Teile in einer bestimmten Reihenfolge ersetzt:\n \nBei einem Zustand von 0–20/0–25/0–30 %: Lauf ersetzen\nBei einem Zustand von 20–35/25–45/30–55 %: Abzug (Abzugsmechanismus) ersetzen\nBei einem Zustand von 35–45/45–60/55–70 %: Verschlusskopf ersetzen\nBei einem Zustand von 45–55/60–70/70–80 %: Gasrohr ersetzen\nBei einem Zustand von 55–65/70–75/80–85 %: Verschlussträger ersetzen\n \n3. Klicke auf das Bild des gerade ausgetauschten Teils (ein ausgewähltes, verfügbares Teil wird durch ein grünes Licht angezeigt). Jeder Austauschversuch verbraucht eine Ladung des Gürtels. set\n4. Bei erfolgreichem Austausch wird der Vorgang für alle Teile in der angegebenen Reihenfolge wiederholt.\n5. Wenn das Teil beschädigt wurde, versuche es erneut, sofern du ein Reparaturset und weitere Waffenteile hast.\n6. Alle ausgetauschten Teile bleiben erhalten, bis sich der Zustand der Waffe verschlechtert. Um die Qualität dann zu verbessern, müssen die Teile erneut ersetzt werden.\n7. Wenn alle fünf Teile ausgetauscht wurden, ändert sich die Waffenqualität entsprechend. Wurde mindestens ein abgenutztes Teil eingesetzt, wird die Waffenqualität auf „abgenutzt“ gesetzt, selbst wenn die anderen Teile durch neue ersetzt wurden.</text>
+  </string>
+  <string id="st_awr_help_4">
+    <text>Die festgelegte Reihenfolge beim Austausch der Waffenteile sorgt dafür, dass die Teile zum Zustand der Waffe passen. Das Spiel speichert alle ausgetauschten Teile jeder Waffe, die im Schraubstock jemals teilweise repariert wurde. Dadurch kannst du die Reparatur an derselben Stelle fortsetzen, ohne Teile erneut auszutauschen, sofern sich der Zustand der Waffe nach der Reparatur nicht verschlechtert hat.</text>
+  </string>
+  <string id="st_awr_help_5">
+    <text>Waffenverbesserungen sind bei rostigen oder abgenutzten Waffen nur bei einem Zustand von 95–100 % verfügbar:</text>
+  </string>
+  <string id="st_awr_help_6">
+    <text>1. Wähle in der Liste ein Reparaturset zum Laufwechsel oder ein Waffenverbesserungsset aus, indem du auf den Namen des Sets doppelklickst. Bei Verbesserungen ist die Austauschreihenfolge nicht verfügbar.\n2. Wähle das zum Reparaturset passende Teil mit einem einzelnen Mausklick aus. Bei Verbesserungen können nur funktionstüchtige Teile verwendet werden.\n3. Klicke auf das Bild des gerade ausgetauschten Teils.\n4. Bei erfolgreichem Austausch wird das Verfahren für alle anderen Waffenteile wiederholt.\n5. Wenn das Teil beschädigt wurde, versuche es erneut, sofern du ein Reparaturset und weitere Waffenteile hast.\n6. Alle ausgetauschten Teile bleiben erhalten, bis sich der Zustand der Waffe verschlechtert. Um die Qualität dann zu verbessern, müssen die Teile erneut ersetzt werden.\n7. Wenn alle fünf Teile durch neue ersetzt wurden, wird die Waffenqualität auf „neu“ geändert.</text>
+  </string>
+  <string id="st_awr_sell_dialog_1">
+    <text>Ich habe Ersatzteile. Weißt du, wer sie kaufen würde?</text>
+  </string>
+  <string id="st_awr_sell_dialog_2">
+    <text>Techniker wie ich sammeln allerlei Kram. Vielleicht kaufe ich dir ab, was du hast. Natürlich zum richtigen Preis.</text>
+  </string>
+  <string id="st_awr_sell_dialog_3">
+    <text>Und was kannst du anbieten?</text>
+  </string>
+  <string id="st_awr_sell_dialog_4">
+    <text>Für jedes funktionstüchtige Teil kann ich dir 300 RU für ein neues und 150 für ein abgenutztes geben. Für den restlichen Kram bekommst du 250 für neue und 125 für abgenutzte Teile. Hm, 60 sollte für rostige Teile reichen. Die sind nicht besonders nützlich.</text>
+  </string>
+  <string id="st_awr_sell_dialog_5">
+    <text>Hm ... Nun, dein Angebot ist so lala. Aber diese Teile kann ich nicht gebrauchen. Hier, gib mir das Geld.</text>
+  </string>
+  <string id="st_awr_sell_dialog_6">
+    <text>Das ist mir etwas zu wenig. Ich überlege es mir.</text>
+  </string>
+  <string id="st_awr_sell_dialog_7">
+    <text>War nett, mit dir Geschäfte zu machen. Wenn du weitere Ersatzteile findest, weißt du, wo du mich findest.</text>
+  </string>
+  <string id="st_awr_sell_dialog_8">
+    <text>Äh, das merke ich mir. Danke.</text>
+  </string>
+  <string id="st_awr_timer_msg_off">
+    <text>%sDie Zeit ist um%s</text>
+  </string>
+  <string id="st_awr_timer_msg_on">
+    <text>%sDu hast fünf Minuten%s</text>
+  </string>
+  <string id="st_bar_no_need_new">
+    <text>--- Der Lauf dieser Waffe muss nicht ausgetauscht werden.</text>
+  </string>
+  <string id="st_bar_no_need_old">
+    <text>--- Der Lauf dieser Waffe muss nicht ausgetauscht werden. Um ihre Qualität zu erhöhen, muss ihr Zustand 100 % betragen.</text>
+  </string>
+  <string id="st_by_unknown">
+    <text>unbekannt</text>
+  </string>
+  <string id="st_cond_grow">
+    <text>Zustand: %i%%</text>
+  </string>
+  <string id="st_current_condition">
+    <text>Aktueller Zustand: </text>
+  </string>
+  <string id="st_detail_fail">
+    <text>--- Teil [%s] wurde beim Austausch beschädigt</text>
+  </string>
+  <string id="st_detail_success">
+    <text>+++ Teil [%s] wurde erfolgreich eingebaut</text>
+  </string>
+  <string id="st_dis_count">
+    <text>Stk.</text>
+  </string>
+  <string id="st_dis_news">
+    <text>[AWR]</text>
+  </string>
+  <string id="st_dis_text_1">
+    <text>%s%s %s%s wurde zerlegt</text>
+  </string>
+  <string id="st_dis_text_10">
+    <text>%sDu hast %s%s zerlegt, aber keine Teile erhalten.</text>
+  </string>
+  <string id="st_dis_text_11">
+    <text>%s%s %s %s%s</text>
+  </string>
+  <string id="st_dis_text_2">
+    <text>%sDu hast versucht, %s %s zu zerlegen, aber keine Teile erhalten.</text>
+  </string>
+  <string id="st_dis_text_3">
+    <text>%sBenötigte Werkzeuge fehlen %s %s</text>
+  </string>
+  <string id="st_dis_text_4">
+    <text>\nMunition entfernt: %i vom Typ PC %s\nErhaltene Gegenstände: </text>
+  </string>
+  <string id="st_dis_text_5">
+    <text>%sDu konntest Teil %s wiederherstellen\n%s</text>
+  </string>
+  <string id="st_dis_text_6">
+    <text>%sTeil %s konnte nicht wiederhergestellt werden</text>
+  </string>
+  <string id="st_dis_text_7">
+    <text>%s%s %s %s%s</text>
+  </string>
+  <string id="st_dis_text_8">
+    <text>%s%s %s %s%s wurde abgeschnitten</text>
+  </string>
+  <string id="st_dis_text_9">
+    <text>\nErhaltene Teile: </text>
+  </string>
+  <string id="st_ending_1">
+    <text>e</text>
+  </string>
+  <string id="st_ending_2">
+    <text>e</text>
+  </string>
+  <string id="st_ending_3">
+    <text>o</text>
+  </string>
+  <string id="st_handsfree">
+    <text>Deine Hände sind voll</text>
+  </string>
+  <string id="st_mech_tiski">
+    <text>Schraubstock des Technikers\n</text>
+  </string>
+  <string id="st_mech_tiski_w">
+    <text>Schraubstock des Technikers mit %s</text>
+  </string>
+  <string id="st_no_barrel">
+    <text>--- Vor dem Laufwechsel können keine Teile ausgetauscht werden</text>
+  </string>
+  <string id="st_no_barrel_to_kit">
+    <text>--- Keine kompatiblen Läufe des Kalibers [%s]</text>
+  </string>
+  <string id="st_no_details">
+    <text>--- Für [%s] sind keine Teile verfügbar</text>
+  </string>
+  <string id="st_no_weap">
+    <text>Du musst eine Waffe ziehen, um den Schraubstock zu benutzen</text>
+  </string>
+  <string id="st_not_in_list">
+    <text>Du hast nicht das nötige Wissen, um diese Waffe zu reparieren</text>
+  </string>
+  <string id="st_part_no_need_new">
+    <text>--- Die Waffenteile müssen nicht ausgetauscht werden</text>
+  </string>
+  <string id="st_part_no_need_old">
+    <text>--- Die Waffenteile müssen nicht ausgetauscht werden. Um die Qualität zu erhöhen, muss der Zustand 100 % betragen.</text>
+  </string>
+  <string id="st_quality_good">
+    <text>++++ Alle Teile wurden durch funktionstüchtige ersetzt. Die Waffe ist jetzt in neuwertigem Zustand.</text>
+  </string>
+  <string id="st_quality_wgood">
+    <text>++++ Alle Teile wurden ausgetauscht. Die Waffenqualität hat sich nicht geändert.</text>
+  </string>
+  <string id="st_quality_worn">
+    <text>++++ Mindestens ein Teil wurde durch ein abgenutztes ersetzt. Die Waffenqualität wurde auf „abgenutzt“ geändert.</text>
+  </string>
+  <string id="st_sel_detail">
+    <text>--- Klicke auf das Bild des entsprechenden Teils, um den Austausch zu beginnen</text>
+  </string>
+  <string id="st_selected_good">
+    <text>--- Ausgewählt%s: [%s] Chance auf erfolgreiche Reparatur: %i%%</text>
+  </string>
+  <string id="st_selected_r_kit">
+    <text>--- Ausgewählt: [%s]</text>
+  </string>
+  <string id="st_selected_worn">
+    <text>--- Ausgewählt%s: [%s] Chance auf erfolgreiche Reparatur: %i%% Zum Reparieren musst du das Teil instand setzen</text>
+  </string>
+  <string id="st_stolen_1">
+    <text>Während deiner Abwesenheit wurde der Abzugsmechanismus aus deiner Waffe gestohlen. Ihr Zustand hat sich verschlechtert.</text>
+  </string>
+  <string id="st_stolen_2">
+    <text>Während deiner Abwesenheit wurde der Verschlusskopf aus deiner Waffe gestohlen. Ihr Zustand hat sich verschlechtert.</text>
+  </string>
+  <string id="st_stolen_3">
+    <text>Während deiner Abwesenheit wurde der Verschlussträger aus deiner Waffe gestohlen. Ihr Zustand hat sich verschlechtert.</text>
+  </string>
+  <string id="st_text_mode">
+    <text>[MODUS]:%s%s</text>
+  </string>
+  <string id="st_text_mode_1">
+    <text>INSTANDSETZUNG</text>
+  </string>
+  <string id="st_text_mode_2">
+    <text>REPARATUR MIT MÖGLICHER INSTANDSETZUNG</text>
+  </string>
+  <string id="st_text_mode_3">
+    <text>NICHT VERFÜGBAR</text>
+  </string>
+  <string id="st_text_status">
+    <text>[ZUSTAND]:%s%s%%</text>
+  </string>
+  <string id="st_text_warning_mode_1_1">
+    <text>[Achtung]: In diesem Modus können nur rostige und abgenutzte Waffen verbessert werden</text>
+  </string>
+  <string id="st_text_warning_mode_1_3">
+    <text>%sBei Verbesserungen können nur funktionstüchtige Teile verwendet werden</text>
+  </string>
+  <string id="st_text_warning_mode_1_4">
+    <text>%sNach der Verbesserung beträgt der Zustand der Waffe %s%% und ihre Qualität ist neu</text>
+  </string>
+  <string id="st_text_warning_mode_2_1">
+    <text>[Achtung]: In diesem Modus können Waffen repariert und verbessert werden</text>
+  </string>
+  <string id="st_text_warning_mode_2_3">
+    <text>%sDie Waffenqualität entspricht dem ausgetauschten Teil mit der niedrigsten Qualität</text>
+  </string>
+  <string id="st_text_warning_mode_2_4">
+    <text>%sNach Abschluss der Reparatur ohne Verbesserung beträgt der Zustand der Waffe %i%%</text>
+  </string>
+  <string id="st_text_warning_mode_2_5">
+    <text>%sNach Abschluss der Reparatur mit Verbesserung: %i%% bei abgenutzten und %i%% bei neuen Waffen</text>
+  </string>
+  <string id="st_text_warning_mode_3_1">
+    <text>[WARNUNG]: Die Waffenqualität ist bereits maximal. Eine weitere Instandsetzung ist nicht möglich.</text>
+  </string>
+  <string id="st_text_warning_mode_3_2">
+    <text>[WARNUNG]: Diese Waffe kann nicht repariert werden, da ihr Zustand für ihre Qualitätsstufe bereits maximal ist.</text>
+  </string>
+  <string id="st_text_warning_mode_3_3">
+    <text>%sEine Verbesserung ist erst möglich, wenn der Zustand auf 100%% gestiegen ist</text>
+  </string>
+  <string id="st_text_warning_mode_help">
+    <text>Drücke F1, um die Hilfe aufzurufen</text>
+  </string>
+  <string id="st_text_wpn">
+    <text>[WAFFE]:%s%s</text>
+  </string>
+  <string id="st_unload">
+    <text>Vor der Wartung muss die Waffe entladen und von allen Aufsätzen befreit werden</text>
+  </string>
+</string_table>

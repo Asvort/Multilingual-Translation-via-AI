@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_desc_mcm">
+    <text>Te damos la bienvenida al menú de configuración de mods de Anomaly (MCM).\n\n\nMCM no hace nada por sí solo: permite que otros mods y complementos muestren su interfaz de ajustes.\n\n\nLa ventana de MCM tiene dos paneles.\n\n\nEl panel de menú de la izquierda enumera en orden alfabético los mods y complementos instalados que usan MCM.\n\nTiene tres niveles: el menú principal de cada mod y dos submenús.\n\nEl menú del propio MCM aparece primero.\n\nAl pulsar el menú principal o un submenú de un mod, el panel de la derecha abre su interfaz de ajustes.\n\nPuede incluir: un banner gráfico y el título de la interfaz en la parte superior; nombres de ajustes, con posibles descripciones emergentes al pasar el cursor; casillas de verificación; deslizadores; listas desplegables; y descripciones de texto, como esta.</text>
+  </string>
+  <string id="ui_mcm_desc_mcm2">
+    <text>Los errores de MCM o los cierres relacionados con ui_mcm.script suelen deberse a alguno de los mods o complementos que usan MCM.\nInforma de ellos al autor del mod correspondiente.</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_alt">
+    <text>Tecla Alt</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+    <text>Tecla Control</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_none">
+    <text>Sin modificador</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_shift">
+    <text>Tecla Shift</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_dtap">
+    <text>Doble pulsación</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_hold">
+    <text>Pulsación larga</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_press">
+    <text>Pulsación simple</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb">
+    <text>Los atajos de MCM funcionan «al estilo Minecraft»: haz clic en el recuadro y pulsa una tecla.\nHaz clic o pulsa Esc para cancelar.\nSi la tecla mostrada no coincide o MCM ignora alguna, ajusta mcm_key_localization.ltx a tu distribución. Las teclas asignadas a varios atajos de MCM o a una tecla del motor se resaltan en rojo.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb2">
+    <text>El color rojo no siempre indica un problema: las teclas pueden usarse en interfaces distintas o una combinación puede requerir Shift.\n\n\nMCM no sabe qué hace cada complemento; debes determinar si el conflicto importa.\n\n\nCon un cambio pendiente el color se actualiza bien; con varios puede fallar.\n\nAplica los cambios y vuelve a abrir MCM para comprobarlo.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all">
+    <text>Este panel reúne todos los atajos de MCM en el mismo orden en que aparecen sus mods en la lista de la izquierda.\nNo puede incluir otros ajustes de los complementos que afecten al comportamiento de una tecla.\nConsulta siempre el panel del mod de origen y su documentación.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all2">
+    <text>Los cambios pendientes de otros paneles no se reflejan aquí, ni los de este panel aparecen en los demás.\n\nAplica los cambios antes y después de usarlo.\n\nSobre las teclas marcadas en rojo: quizá no haya conflicto si se usan en interfaces distintas o una requiere Shift.\n\nMCM no conoce el uso que hace cada complemento; debes valorar si el conflicto importa.\n\nCon varios cambios pendientes, el color puede no actualizarse bien.\n\nAplica los cambios y vuelve a abrir MCM para comprobarlo.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_conflicts">
+    <text>Este panel reúne por tecla todos los atajos de MCM marcados como conflictivos.\n\nSi una tecla aparece una sola vez, probablemente entra en conflicto con un atajo del motor, listado en las opciones normales de Anomaly.\nEl panel no incluye ajustes adicionales de los mods que puedan cambiar su comportamiento.\nConsulta siempre el panel del mod de origen y su documentación.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_log">
+    <text>Esta utilidad para autores de complementos permite sacar sus registros del registro de X-Ray y de la consola.\n\n\nIncluye controles para ajustar el funcionamiento y reducir la demora y las escrituras en el SSD.\n\nLos archivos llevan el nombre del script que los crea y el identificador de sesión de MCM; se guardan en appdata/logs/mcm/.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode">
+    <text>Modo de entrada</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode_desc">
+    <text>El atajo anterior se activará cuando la tecla se use de esta manera.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier">
+    <text>Con tecla modificadora</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier_desc">
+    <text>El atajo anterior solo se activa si también mantienes pulsada esta tecla.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml">
+    <text>Nombres de mods siempre en inglés</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml_desc">
+    <text>Fuerza la traducción al inglés de los nombres de los complementos para mejorar el orden, ya que algunos solo tienen nombre en inglés.\n(!) Hay que reiniciar el juego para que el ajuste surta efecto.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset">
+    <text>Recargar todos los menús</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset_desc">
+    <text>Al marcar esta opción y hacer clic en Aplicar, MCM recargará todos los menús. Es una herramienta de depuración que no hace falta en el uso normal.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+    <text>Intervalo para doble pulsación</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+    <text>Indica cuánto tiempo puede pasar entre dos pulsaciones para que cuenten como doble pulsación.\n\nSolo se aplica a complementos que detectan dobles pulsaciones mediante MCM.\nTambién puede aumentar la demora de algunas pulsaciones simples, así que conviene mantenerlo lo más bajo posible.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+    <text>Multiplicador de pulsación larga</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+    <text>Este multiplicador se aplica al intervalo de doble pulsación y determina cuánto debe mantenerse una tecla para contar como pulsación larga.\n\nSolo lo usan complementos que detectan pulsaciones largas mediante MCM.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous">
+    <text>Permitir escritura continua en archivos</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous_desc">
+    <text>Los registros suelen actualizarse por lotes, por lo que un cierre puede hacer que se pierda información.\n\nEl autor de un complemento puede pedirte que actives esta opción para actualizar su registro de inmediato.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2">
+    <text>Activar registro de depuración</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+    <text>Activa el registro de depuración propio de MCM; habilítalo antes de informar de errores de MCM.\n\n\nOtros complementos también pueden usar esta opción para activar sus registros.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable">
+    <text>Activar registro de MCM</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable_desc">
+    <text>Al desmarcar esta opción, no se crearán ni actualizarán nuevos registros.\nEs posible que el cambio no surta efecto hasta cargar una partida nueva.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs">
+    <text>Número de registros que se conservarán</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+    <text>Cuando los registros de un script superen este número, se eliminarán los más antiguos.\nSi el juego se bloquea, no se borrarán.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq">
+    <text>Intervalo entre guardados automáticos del registro (ms)</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+    <text>Los registros también se guardan al entrar en distintas pantallas de la interfaz y al guardar o cargar partidas,\nindependientemente de este valor.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp">
+    <text>Frecuencia de marcas de tiempo del registro X-Ray</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+    <text>MCM añade marcas de tiempo al registro de X-Ray para coordinar eventos con los registros de MCM.\nEste valor define el intervalo mínimo entre marcas.\nSi nada más escribe en la consola, MCM tampoco lo hará.</text>
+  </string>
+  <string id="ui_mcm_menu_mcm">
+    <text>MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_about">
+    <text>Acerca de</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_all_kb">
+    <text>Todos los atajos</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb">
+    <text>Atajos de teclado de MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_conflicts">
+    <text>Conflictos de teclas</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_main">
+    <text>Principal</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_log">
+    <text>Registro</text>
+  </string>
+  <string id="ui_mcm_menu_search">
+    <text>Buscar...</text>
+  </string>
+  <string id="ui_mcm_menu_search_clear">
+    <text>Clic derecho para borrar</text>
+  </string>
+  <string id="ui_mm_menu_mcm">
+    <text>Menú de configuración de mods</text>
+  </string>
+</string_table>

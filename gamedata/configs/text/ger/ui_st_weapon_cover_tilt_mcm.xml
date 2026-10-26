@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Waffenneigung an Deckungen</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Animationsverzögerung</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Ein niedrigerer Wert beschleunigt die Animation.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Gewichtsfaktor</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Je höher der Wert, desto stärker beeinflusst das Waffengewicht die Animationsgeschwindigkeit.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Schalldämpfer beim Radius berücksichtigen</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Mit montiertem Schalldämpfer erhöht sich der Auslöseradius um etwa 0,1 m.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Manuelles Neigen aktivieren</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Taste für manuelles Neigen</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>Waffenversatz auf der X-Achse</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — nach links. &gt; 0 — nach rechts</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Waffenversatz auf der Y-Achse</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — nach unten. &gt; 0 — nach oben</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Waffenversatz auf der Z-Achse</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — nach hinten. &gt; 0 — nach vorn</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Zufällige Rollbewegung der Waffe</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Beim Anheben neigt sich die Waffe zufällig um die angegebene Gradzahl, um die Animation abwechslungsreicher zu machen.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Klappern beim Neigen</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Waffenneigung an Deckungen</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Auslöseradius (m)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Waffenlängenmodifikator</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Ändert, wie stark der Auslöseradius von der Waffenlänge abhängt. Ein höherer Wert vergrößert den Unterschied zwischen kurzen und langen Waffen.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>HUD-Modellabmessungen verwenden</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>HUD-Modellabmessungen debuggen</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Wenn aktiviert, bestimmen die tatsächlichen HUD-Modellabmessungen die Neigung. WCT führt einen Raycast vom Knochen fire_bone und dem fire_point-Versatz in Schussrichtung aus. MODIFIZIERTE EXE &gt;= 2025.04.22 ERFORDERLICH. Ist die neue Methode nicht verfügbar, wird die Standardmethode verwendet.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Zufällige Gierbewegung der Waffe</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Beim Anheben dreht sich die Waffe zufällig um die angegebene Gradzahl, um die Animation abwechslungsreicher zu machen.</text>
+  </string>
+</string_table>

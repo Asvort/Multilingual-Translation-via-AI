@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_water">
+    <text>Su</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm">
+    <text>Bulanıklık</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm_desc">
+    <text>Yansımaların bulanıklık yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm">
+    <text>Bulanıklık deseni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm_desc">
+    <text>Yansıma bulanıklığına ne kadar çeşitlilik ekleneceği. ( 0 = devre dışı )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm">
+    <text>Işık kırınımı yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm_desc">
+    <text>Kaustik efektinin yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm">
+    <text>Dalga bozulması</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm_desc">
+    <text>Yansıma ve kırılma bozulmasının yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm">
+    <text>Paralaks yüksekliği</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm_desc">
+    <text>Dalga paralaks efektinin maksimum yüksekliği.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm">
+    <text>Paralaks kalitesi</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Dalga paralaks efektinde kullanılan örnek sayısı. Düşük değerler performansı artırabilir. [ 8, 16, 32 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm">
+    <text>Yansıma yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm_desc">
+    <text>Su yansımalarının yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm">
+    <text>Dalgalanma yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm_desc">
+    <text>Yağmur dalgalanması efektinin yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm">
+    <text>Yumuşak kenar</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm_desc">
+    <text>Su kenarlarının yumuşaklığını ayarlar.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm">
+    <text>Parlak yansıma yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm_desc">
+    <text>Sudaki aynasal parlaklığın yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm">
+    <text>SSR kalitesi</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Yansımaları oluşturmak için kullanılan örnek sayısı. Yüksek değerler performansı ciddi ölçüde düşürebilir ve gölgelendirici önbelleği temizlendikten sonraki ilk yüklemeyi uzatabilir. [ 8, 16, 24, 32, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm">
+    <text>SSR çözünürlüğü</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm_desc">
+    <text>SSR görüntüleme çözünürlüğü. Çözünürlüğü düşürmek performansı artırabilir. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_title">
+    <text>Su ayarları</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm">
+    <text>Su bulanıklığı</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm_desc">
+    <text>Su bulanıklığını ayarlar. [ 0.0 = berrak su ]</text>
+  </string>
+</string_table>

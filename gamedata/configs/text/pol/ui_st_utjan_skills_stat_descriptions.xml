@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_player_skills_hint_bartering">
+    <text>Poprawia ceny handlu.\n \nKupowanie i sprzedawanie przedmiotów daje doświadczenie.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_insanity">
+    <text>Tracisz rozum, ale zyskujesz regenerację i odporność psi.\nGra na instrumencie podwaja regenerację.\n \nObrażenia psi i granie w walce dają doświadczenie.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_lockpicking">
+    <text>Zmniejsza trudność otwierania zamkniętych pojemników.\n \nOtwieranie pojemników daje doświadczenie.\n(Użycie wytrycha Szkieletowy klucz nie daje doświadczenia.)\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_magloading">
+    <text>Przyspiesza ładowanie i rozładowywanie magazynków.\n \nTe czynności dają doświadczenie.\nMaksymalny poziom ograniczają Siła i Wytrzymałość.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_medicine">
+    <text>Tymczasowo poprawia regenerację zdrowia i usuwanie promieniowania zależnie od leku.\n \nLeki dają doświadczenie.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_reloading">
+    <text>Przyspiesza przeładowanie i dobywanie broni.\n \nZwykłe używanie broni daje doświadczenie.\nMaksymalny poziom ograniczają Wytrzymałość i Przetrwanie.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_tinkering">
+    <text>Zwiększa szansę na niezużycie przedmiotu naprawczego.\n \nNaprawianie sprzętu za pomocą materiałów naprawczych daje doświadczenie.\n \n</text>
+  </string>
+  <string id="st_skills_stats_discount_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Zniżka u handlarzy: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_discount_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Zniżka u handlarzy: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szybkość dobywania broni: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szybkość dobywania broni: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szybkość ładowania magazynka: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szybkość ładowania magazynka: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Trudność otwierania zamków: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Trudność otwierania zamków: %c[d_green]-$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Odporność psi: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Odporność psi: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_regen_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Regeneracja psi: %c[d_green]$stat% / s</text>
+  </string>
+  <string id="st_skills_stats_refund_chance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szansa na zachowanie przedmiotu naprawczego: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szybkość przeładowania: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Szybkość przeładowania: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Premia do regeneracji: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Premia do regeneracji: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Wartość sprzedaży: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Wartość sprzedaży: %c[d_green]+$stat%</text>
+  </string>
+</string_table>

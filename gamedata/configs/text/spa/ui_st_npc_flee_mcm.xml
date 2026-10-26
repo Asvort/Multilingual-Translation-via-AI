@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_npc_flee">
+    <text>Huida de los PNJ</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cancel_on_hit">
+    <text>Cancelar la huida si el PNJ recibe un impacto</text>
+  </string>
+  <string id="ui_mcm_npc_flee_companion_pwr">
+    <text>Multiplicador de fuerza de compañeros</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time">
+    <text>Tiempo de cobertura del escuadrón (0 para desactivar)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time_desc">
+    <text>El PNJ más alejado cubrirá la retirada de su escuadrón.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_pwr_mult">
+    <text>Multiplicador de fuerza de los enemigos</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_radius">
+    <text>Radio de enemigos</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_upd_radius">
+    <text>Radio de enemigos 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_dbg">
+    <text>Depuración (imprimir en consola)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time">
+    <text>Tiempo de protección contra la huida (s)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time_desc">
+    <text>Cuando un PNJ deja de huir, no podrá volver a hacerlo durante este tiempo.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist">
+    <text>Distancia mínima para huir</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+    <text>Solo se elige un objetivo para huir si está a más distancia que este valor.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_pwr_mult">
+    <text>Multiplicador de fuerza de los aliados</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_radius">
+    <text>Radio de aliados</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_upd_radius">
+    <text>Radio de aliados 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_after">
+    <text>Radio 2 (durante la huida; radio menor para cancelarla si hay enemigos más débiles cerca)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_before">
+    <text>Radio (antes de huir, calcula la fuerza de enemigos y aliados solo dentro de este radio)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_others">
+    <text>Varios</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_power">
+    <text>Fuerza (huye si "enemies_power &gt; friends_power*threshold_mult")</text>
+  </string>
+  <string id="ui_mcm_npc_flee_hits_to_cancel">
+    <text>Número de impactos para cancelar la huida</text>
+  </string>
+  <string id="ui_mcm_npc_flee_smoke_enabled">
+    <text>Granadas de humo</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time">
+    <text>Primeros segundos de huida que no se pueden cancelar</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time_desc">
+    <text>Los primeros segundos tras empezar a huir no pueden cancelarse por enemigos débiles ni por impactos.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_threshold_mult">
+    <text>Multiplicador del umbral</text>
+  </string>
+  <string id="ui_mcm_npc_flee_title">
+    <text>Huida de los PNJ</text>
+  </string>
+</string_table>

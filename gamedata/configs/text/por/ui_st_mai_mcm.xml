@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Raio de detecção (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>Distância para NPCs detectarem anomalias. Maior = detecção antecipada e mais restrições de rota. Padrão: 30 m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Bloquear em cadáveres</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Impede anomalias em cadáveres. Evita falhas de física ragdoll e melhora o desempenho.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Atraso na reconstrução do cache (s)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Atraso antes de reconstruir o cache após emissão ou tempestade psi. Necessário para Arrival. Padrão: 2,5 s</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Limpar marcadores antigos</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Remove marcas de sessões anteriores. Ative, aplique e desative. Ação única.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>Em combate</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Multiplicador de erro em combate. NPCs distraídos entram mais em anomalias. Padrão: 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Configurações de dano</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Modo de depuração</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Registra detecções, dano e causas de morte no console.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Configurações de detecção</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Raio de efeito (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>NPCs além da distância ficam protegidos do dano de anomalias. Evita mortes distantes. Padrão: 300 m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Proteção da roupa</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Reduz o dano conforme a roupa do NPC, usando proteções contra fogo, choque, químicos etc.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Configurações gerais</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Imune com 0% de chance de erro</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>NPCs com chance base de erro de 0% são imunes ao dano de anomalias. Proteção para veteranos.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>Ativar MAI</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Ativa ou desativa o MAI. Desativado, NPCs ignoram anomalias.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Multiplicadores do estado de movimento</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Experiente</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Chance base de erro de stalkers experientes. Padrão: 50%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Especialista</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Chance base de erro de especialistas. Padrão: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Lenda</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Chance base de erro de lendas. Padrão: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Mestre</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Chance base de erro de mestres. Padrão: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Novato</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Chance base de erro de novatos. 100% significa que podem entrar sempre em anomalias. Padrão: 100%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Profissional</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Chance base de erro de profissionais. Padrão: 25%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Chance base de erro por patente (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Aprendiz</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Chance base de erro de aprendizes. Padrão: 75%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Veterano</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Chance base de erro de veteranos. 0% significa que nunca entrarão em anomalias. Padrão: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Busca global de caminho</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Ativado: todos evitam anomalias em qualquer distância. Desativado: restrições só no raio de efeito.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Correndo</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Multiplicador de erro ao correr. Maior = maior chance de não notar anomalias. Padrão: 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Mostrar anomalias no mapa</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Marca anomalias em cache no PDA para depurar rotas. Desative para remover.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Parado</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Multiplicador de erro com NPC parado. Menor = observa melhor. Padrão: 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — Interação entre mutantes e anomalias</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Depuração detalhada</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Detalha atualizações, cache e restrições. Muitas mensagens!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Caminhando</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Multiplicador de erro ao caminhar. Padrão: 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Interação com anomalias</text>
+  </string>
+</string_table>

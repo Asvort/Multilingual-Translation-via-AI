@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_nda">
+    <text>NDA - Les PNJ meurent dans les anomalies</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay">
+    <text>Mémoire des anomalies (s)</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay_desc">
+    <text>Durée pendant laquelle un PNJ garde en mémoire une anomalie détectée après avoir quitté la zone. Une anomalie mémorisée ignore le jet d’échec, ce qui garantit son évitement. 0 désactive la mémoire. Par défaut : 30 s.</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius">
+    <text>Rayon de détection (m)</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius_desc">
+    <text>Distance à laquelle les PNJ détectent les anomalies. Une valeur plus élevée permet une détection plus précoce, mais impose davantage de restrictions au calcul d’itinéraire. Par défaut : 30 m.</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses">
+    <text>Bloquer sur les corps</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses_desc">
+    <text>Empêche les anomalies de s’activer sur les corps. Évite les bugs de physique ragdoll et améliore les performances.</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies">
+    <text>Bloquer le pillage dans les anomalies</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies_desc">
+    <text>Empêche les PNJ d’entrer dans les champs d’anomalies pour piller les corps. Évite les morts en chaîne lorsque les stalkers se suivent dans une anomalie. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled">
+    <text>Zone d’interaction</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled_desc">
+    <text>Seuls les PNJ dans le rayon autour du joueur interagissent avec les anomalies et peuvent être blessés ou les éviter. Les PNJ hors de cette zone ne subissent pas de dégâts d’anomalie. Désactivez pour traiter tous les PNJ actifs, quelle que soit la distance.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius">
+    <text>Rayon de la zone (m)</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius_desc">
+    <text>Rayon de la zone d’interaction autour du joueur. Les PNJ au-delà sont protégés des dégâts d’anomalie. Par défaut : 150 m. Utilisé uniquement si la zone d’interaction est activée.</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay">
+    <text>Délai de reconstruction du cache (s)</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay_desc">
+    <text>Délai avant la reconstruction du cache des anomalies après une émission ou une tempête psy. Nécessaire à la compatibilité avec le mod Arrival. Par défaut : 2,5 s.</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers">
+    <text>Nettoyer les anciens marqueurs</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers_desc">
+    <text>Supprime les marqueurs d’anomalies et de décès restés des sessions précédentes. Activez, appliquez, puis désactivez. Action ponctuelle.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier">
+    <text>Combat</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier_desc">
+    <text>Multiplicateur de chance de rater lorsque le PNJ est en combat. Distrait, il risque beaucoup plus de foncer dans une anomalie. Par défaut : 3,0x.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage">
+    <text>Dégâts uniquement en combat</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage_desc">
+    <text>Les PNJ ne subissent des dégâts d’anomalie qu’en combat. Hors combat, ils les détectent et les évitent toujours, mais ne sont pas blessés par les champs proches. Activée, cette option remplace les immunités en marche ou à l’arrêt, la période de grâce et les multiplicateurs de raté liés au mouvement et au rang ; hors combat, les PNJ sont déjà immunisés. Désactivez-la pour utiliser ces réglages. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_community_excl_title">
+    <text>Exclusions de faction</text>
+  </string>
+  <string id="ui_mcm_nda_damage_title">
+    <text>Paramètres des dégâts</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot">
+    <text>Marqueur de décès par anomalie sur la carte</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot_desc">
+    <text>Marque temporairement sur la carte un stalker tué par une anomalie. Le marqueur rouge disparaît après 5 minutes et n’est pas sauvegardé.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news">
+    <text>Actualités sur les morts par anomalie</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news_desc">
+    <text>Affiche une actualité lorsqu’un stalker meurt dans une anomalie : nom, rang, faction, anomalie responsable et lieu (niveau et coordonnées).</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode">
+    <text>Mode débogage</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode_desc">
+    <text>Active les journaux de débogage dans la console : jets de détection, événements de dégâts et attribution des décès.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_title">
+    <text>Paramètres de débogage</text>
+  </string>
+  <string id="ui_mcm_nda_detection_title">
+    <text>Paramètres de détection</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult">
+    <text>Protection de la tenue</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult_desc">
+    <text>Réduit les dégâts d’anomalie selon la tenue du PNJ. Les valeurs de protection sont lues dans la configuration de la tenue (brûlure, électrocution, produits chimiques, etc.).</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance">
+    <text>Évitement du moteur (feel)</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance_desc">
+    <text>Dans les champs peu denses, laisse le système feel du moteur guider les PNJ autour des anomalies ; ils lancent aussi des boulons. Il évite tous les types, contrairement aux restrictions du script qui ne bloquent que les formes affectant le maillage de navigation (les champs acides et électriques ne peuvent pas être bloqués). À réserver aux zones peu denses : feel peut se figer ou planter dans les groupes denses ou fermés. Désactivez pour une stabilité maximale. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density">
+    <text>Limite de densité de feel</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density_desc">
+    <text>Nombre maximal d’anomalies dans un rayon d’environ 12 m pour qu’un champ soit considéré peu dense et utilise l’évitement feel du moteur. Les champs plus denses utilisent les restrictions du script et la traversée en courant. Une valeur élevée active feel dans des zones plus chargées, améliorant l’évitement mais augmentant le risque de blocage ou de plantage ; une valeur basse est plus sûre. Par défaut : 3.</text>
+  </string>
+  <string id="ui_mcm_nda_general_title">
+    <text>Paramètres généraux</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage">
+    <text>Péché : ignorer les dégâts d’anomalie</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage_desc">
+    <text>Les PNJ de la faction Péché (Greh) sont immunisés contre les dégâts d’anomalie. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions">
+    <text>Péché : ignorer l’évitement des anomalies</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions_desc">
+    <text>Les PNJ de la faction Péché (Greh) ne subissent pas les restrictions de navigation destinées à éviter les anomalies. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance">
+    <text>Immunité à 0 % de raté</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance_desc">
+    <text>Les PNJ ayant 0 % de chance de rater de base deviennent totalement immunisés aux dégâts d’anomalie. Une sécurité pour les vétérans.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army">
+    <text>Morts des militaires/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army_desc">
+    <text>Nombre maximal de PNJ Militaires tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit">
+    <text>Morts de bandits/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit_desc">
+    <text>Nombre maximal de PNJ bandits tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky">
+    <text>Morts de Clear Sky/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky_desc">
+    <text>Nombre maximal de PNJ de Clear Sky tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg">
+    <text>Morts du Devoir/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg_desc">
+    <text>Nombre maximal de PNJ du Devoir tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog">
+    <text>Morts des écologistes/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog_desc">
+    <text>Nombre maximal de PNJ Écologistes tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom">
+    <text>Morts de la Liberté/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom_desc">
+    <text>Nombre maximal de PNJ Liberté tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh">
+    <text>Morts du Péché/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh_desc">
+    <text>Nombre maximal de PNJ du Péché tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_header">
+    <text>Par faction</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg">
+    <text>Morts de l’ISG/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg_desc">
+    <text>Nombre maximal de PNJ de l’ISG tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer">
+    <text>Morts de mercenaires/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer_desc">
+    <text>Nombre maximal de PNJ Mercenaires tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith">
+    <text>Morts du Monolithe/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith_desc">
+    <text>Nombre maximal de PNJ Monolithe tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade">
+    <text>Morts des renégats/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade_desc">
+    <text>Nombre maximal de PNJ renégats tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker">
+    <text>Morts de solitaires/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker_desc">
+    <text>Nombre maximal de PNJ solitaires tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied">
+    <text>Morts de zombies/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied_desc">
+    <text>Nombre maximal de PNJ zombies tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global">
+    <text>Morts totales/min (tous les PNJ)</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global_desc">
+    <text>Limite général de PNJ tués par les anomalies par minute, toutes factions et tous rangs confondus. Une fois atteint sur la minute glissante, aucun PNJ ne subit de dégâts d’anomalie avant que les morts les plus anciennes sortent de l’intervalle. Cette limite principale s’ajoute aux limites par faction et rang. 0 = illimité. Par défaut : 3.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced">
+    <text>Morts des expérimentés/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced_desc">
+    <text>Nombre maximal de PNJ expérimentés tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert">
+    <text>Morts des experts/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert_desc">
+    <text>Nombre maximal de PNJ experts tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_header">
+    <text>Par rang</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend">
+    <text>Morts des légendes/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend_desc">
+    <text>Nombre maximal de PNJ légendaires tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master">
+    <text>Morts des maîtres/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master_desc">
+    <text>Nombre maximal de PNJ maîtres tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice">
+    <text>Morts de novices/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice_desc">
+    <text>Nombre maximal de PNJ novices tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional">
+    <text>Morts des professionnels/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional_desc">
+    <text>Nombre maximal de PNJ professionnels tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee">
+    <text>Morts des apprentis/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee_desc">
+    <text>Nombre maximal de PNJ apprentis tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran">
+    <text>Morts des vétérans/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran_desc">
+    <text>Nombre maximal de PNJ vétérans tués par les anomalies par minute. 0 = illimité.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit">
+    <text>Activer la limite de morts</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit_desc">
+    <text>Limite le nombre de PNJ tués par les anomalies chaque minute, séparément par faction et rang. Un PNJ est protégé dès que sa faction OU son rang atteint sa limite sur la minute glissante. 0 signifie sans limite. Interrupteur général de toutes les limites. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_title">
+    <text>Limite de morts par anomalie</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores">
+    <text>Anciennes exclusions codées en dur</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores_desc">
+    <text>Continuer à ignorer les champs d’anomalies exclus auparavant, lorsque les PNJ ne pouvaient contourner sûrement des groupes denses ou fermés (Cordon, Décharge, Territoire sauvage, Entrepôts de l’armée). Désactivez pour que NDA les gère avec son système actuel : éviter les anomalies, supprimer les dégâts et autoriser la vérification des corps à l’intérieur. Les anomalies sans rayon sont toujours ignorées. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled">
+    <text>Activer NDA</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled_desc">
+    <text>Active ou désactive entièrement le mod NDA. Lorsqu’il est désactivé, les PNJ ignorent complètement les anomalies.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage">
+    <text>Monolithe : ignorer les dégâts d’anomalie</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage_desc">
+    <text>Les PNJ de la faction Monolithe sont immunisés contre les dégâts d’anomalie, protégés par leur foi. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions">
+    <text>Monolithe : ignorer l’évitement des anomalies</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions_desc">
+    <text>Les PNJ de la faction Monolithe ne subissent pas les restrictions de navigation destinées à éviter les anomalies. Par défaut : désactivé.</text>
+  </string>
+  <string id="ui_mcm_nda_movement_title">
+    <text>Multiplicateurs selon l’état de déplacement</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout">
+    <text>Délai avant blocage (s)</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout_desc">
+    <text>Durée pendant laquelle un PNJ peut tenter de contourner un champ sans progresser, par exemple en tournant en rond, avant de foncer à travers et de subir des dégâts. Par défaut : 20 s.</text>
+  </string>
+  <string id="ui_mcm_nda_pathfinding_title">
+    <text>Paramètres d’évitement</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance">
+    <text>Expérimenté</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance_desc">
+    <text>Chance de base que les stalkers expérimentés ne remarquent pas les anomalies. Par défaut : 30%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance">
+    <text>Expert</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance_desc">
+    <text>Chance de base que les stalkers experts ne remarquent pas les anomalies. Par défaut : 5%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance">
+    <text>Légende</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance_desc">
+    <text>Chance de base que les stalkers légendaires ne remarquent pas les anomalies. Par défaut : 0%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance">
+    <text>Maître</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance_desc">
+    <text>Chance de base que les stalkers maîtres ne remarquent pas les anomalies. Par défaut : 0%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance">
+    <text>Novice</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance_desc">
+    <text>Chance de base que les stalkers novices ne remarquent pas les anomalies. Plus elle est élevée, plus ils risquent d’y entrer. Par défaut : 75%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance">
+    <text>Professionnel</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance_desc">
+    <text>Chance de base que les stalkers professionnels ne remarquent pas les anomalies. Par défaut : 15%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_title">
+    <text>Probabilité de base de rater selon le rang (%)</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance">
+    <text>Apprenti</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance_desc">
+    <text>Chance de base que les stalkers apprentis ne remarquent pas les anomalies. Par défaut : 50%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance">
+    <text>Vétéran</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance_desc">
+    <text>Chance de base que les stalkers vétérans ne remarquent pas les anomalies. À 0 %, ils n’y entrent jamais. Par défaut : 10%.</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius">
+    <text>Calcul d’itinéraire global</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius_desc">
+    <text>Activé, tous les PNJ évitent les anomalies quelle que soit la distance. Désactivé, les restrictions ne concernent que les PNJ dans le rayon d’effet.</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier">
+    <text>En course</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier_desc">
+    <text>Multiplicateur de chance de rater lorsque le PNJ court. Plus la valeur est élevée, plus il risque de manquer une anomalie. Par défaut : 1,2x.</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period">
+    <text>Période de grâce (s)</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period_desc">
+    <text>Lorsqu’un PNJ calme se met à courir, il reste immunisé aux dégâts d’anomalie pendant ces secondes supplémentaires, afin qu’un stalker en fuite ne soit pas blessé immédiatement. Hors combat. 0 désactive cette période. Par défaut : 10.</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies">
+    <text>Afficher les anomalies sur la carte</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies_desc">
+    <text>Affiche toutes les anomalies en cache sur la carte du PDA. Utile pour déboguer le calcul d’itinéraire. Désactivez l’option pour retirer les marqueurs.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity">
+    <text>Immunité à l’arrêt</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity_desc">
+    <text>À l’arrêt hors combat, les PNJ détectent et évitent toujours les anomalies sans subir de dégâts. Protège les gardes et campeurs dont le poste se trouve dans un champ : sinon, ils s’obstinent à rester là et meurent à répétition. Indépendant de l’immunité en marche ; marcher et courir peuvent donc rester mortels. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier">
+    <text>À l’arrêt</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier_desc">
+    <text>Multiplicateur de chance de rater lorsque le PNJ est à l’arrêt. Plus la valeur est basse, plus son observation est attentive. Par défaut : 0,3x.</text>
+  </string>
+  <string id="ui_mcm_nda_title">
+    <text>NDA v3.0 - Les PNJ meurent dans les anomalies</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug">
+    <text>Débogage détaillé</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug_desc">
+    <text>Active les journaux détaillés : boucle de mise à jour, reconstructions du cache et changements de restrictions. Cela génère énormément de messages !</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity">
+    <text>Immunité en marchant</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity_desc">
+    <text>En marchant hors combat, les PNJ détectent et évitent toujours les anomalies sans subir de dégâts. Ce réglage ne concerne que la marche : l’arrêt a sa propre option, tandis que la course et le combat utilisent les multiplicateurs de mouvement. Par défaut : activé.</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier">
+    <text>En marche</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier_desc">
+    <text>Multiplicateur de chance de rater lorsque le PNJ marche. Par défaut : 0,6x.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage">
+    <text>Zombifiés : ignorer les dégâts d’anomalie</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage_desc">
+    <text>Les stalkers zombifiés sont immunisés contre les dégâts d’anomalie. Par défaut : désactivé.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions">
+    <text>Zombifiés : ignorer l’évitement des anomalies</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions_desc">
+    <text>Les stalkers zombifiés ne subissent pas de restrictions de navigation pour éviter les anomalies : privés de raison, ils avancent droit dedans. Par défaut : activé.</text>
+  </string>
+</string_table>

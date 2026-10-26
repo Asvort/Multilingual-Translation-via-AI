@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_npc_flee">
+    <text>Fuite des PNJ</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cancel_on_hit">
+    <text>Annuler la fuite si le PNJ est touché</text>
+  </string>
+  <string id="ui_mcm_npc_flee_companion_pwr">
+    <text>Multiplicateur de puissance des compagnons</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time">
+    <text>Durée de couverture de l’escouade (0 pour désactiver)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time_desc">
+    <text>Le PNJ le plus éloigné couvrira la fuite de son escouade.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_pwr_mult">
+    <text>Multiplicateur de puissance des ennemis</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_radius">
+    <text>Rayon des ennemis</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_upd_radius">
+    <text>Rayon des ennemis 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_dbg">
+    <text>Débogage (afficher dans la console)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time">
+    <text>Durée de protection contre la fuite (s)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time_desc">
+    <text>Quand un PNJ cesse de fuir, il ne peut pas recommencer pendant cette durée.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist">
+    <text>Distance minimale de fuite</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+    <text>Une cible de fuite n’est choisie que si elle est plus éloignée que cette valeur.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_pwr_mult">
+    <text>Multiplicateur de puissance des alliés</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_radius">
+    <text>Rayon des alliés</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_upd_radius">
+    <text>Rayon des alliés 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_after">
+    <text>Rayon 2 (pendant la fuite, réduit le rayon pour l’annuler si des ennemis plus faibles sont proches)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_before">
+    <text>Rayon (avant la fuite, calcule la puissance des ennemis et alliés uniquement dans ce rayon)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_others">
+    <text>Divers</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_power">
+    <text>Puissance (fuite si "enemies_power &gt; friends_power*threshold_mult")</text>
+  </string>
+  <string id="ui_mcm_npc_flee_hits_to_cancel">
+    <text>Nombre de coups pour annuler la fuite</text>
+  </string>
+  <string id="ui_mcm_npc_flee_smoke_enabled">
+    <text>Grenades fumigènes</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time">
+    <text>Premières secondes de fuite non annulables</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time_desc">
+    <text>Les premières secondes après le début de la fuite ne peuvent pas être annulées par un ennemi faible ou des coups.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_threshold_mult">
+    <text>Multiplicateur de seuil</text>
+  </string>
+  <string id="ui_mcm_npc_flee_title">
+    <text>Fuite des PNJ</text>
+  </string>
+</string_table>

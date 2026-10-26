@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Интервал проверки смарт-террейнов (сек.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>Как часто каждый активный смарт-террейн проверяется на возможность смены работы НПС.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Аним-точка: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «аним-точка» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Аним-точка: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «аним-точка» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Поведение: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «поведение» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Поведение: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «поведение» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Засада: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «засада» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Засада: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «засада» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Сбор: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «сбор» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Сбор: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «сбор» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Определяет, как долго освобождённая работа остаётся недоступной, прежде чем другой НПС сможет занять её снова.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Охрана: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «охрана» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Охрана: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «охрана» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Задержки повторного использования</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Патруль: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «патруль» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Патруль: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «патруль» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Сон: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «сон» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Сон: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «сон» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Смарт-укрытие: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «смарт-укрытие» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Смарт-укрытие: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «смарт-укрытие» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Снайпер: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «снайпер» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Снайпер: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «снайпер» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Маршрут: макс. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Максимальное время, в течение которого освобождённая работа «маршрут» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Маршрут: мин. задержка повтора (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Минимальное время, в течение которого освобождённая работа «маршрут» остаётся недоступной для повторного назначения.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Отладка</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Отладочные сообщения</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Записывать в лог каждую успешную динамическую смену работы. Рекомендуется во время бета-тестирования.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Отладка</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Включить динамическую активность</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Включает или отключает динамическую смену работ на смарт-террейнах для поддерживаемых симуляционных НПС.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Общие настройки</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Активность смарт-террейнов</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>АНИМ-ТОЧКА</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>ПОВЕДЕНИЕ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>ЗАСАДА</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>СБОРЩИК</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>ОХРАНА</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>ПАТРУЛЬ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>СОН</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>СМАРТ-УКРЫТИЕ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>СНАЙПЕР</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>МАРШРУТ</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Задержка повтора (сек.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Сколько времени НПС ждёт перед повторной попыткой, если подходящей новой работы нет или смена временно заблокирована.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Аним-точка: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «аним-точка», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Аним-точка: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «аним-точка», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Поведение: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «поведение», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Поведение: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «поведение», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Засада: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «засада», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Засада: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «засада», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Сбор: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «сбор», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Сбор: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «сбор», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Определяет, как долго НПС обычно выполняет каждый вид работы, прежде чем сможет перейти к другой доступной работе.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Охрана: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «охрана», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Охрана: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «охрана», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Время выполнения работ</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Патруль: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «патруль», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Патруль: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «патруль», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Сон: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «сон», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Сон: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «сон», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Смарт-укрытие: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «смарт-укрытие», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Смарт-укрытие: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «смарт-укрытие», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Снайпер: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «снайпер», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Снайпер: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «снайпер», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Маршрут: максимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Максимальное время, в течение которого НПС сохраняет работу «маршрут», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Маршрут: минимум (мин.)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Минимальное время, в течение которого НПС сохраняет работу «маршрут», прежде чем сможет сменить её.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Задержки повторного использования</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Отладка</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>Общие</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Время выполнения работ</text>
+  </string>
+</string_table>

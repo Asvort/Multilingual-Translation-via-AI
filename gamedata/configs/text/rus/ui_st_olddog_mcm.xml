@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_olddog">
+    <text>Old Dog HUD</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow">
+    <text>Счётчик патронов</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow_desc">
+    <text>Показывает полный боезапас каждого из 3 типов боеприпасов, имеющихся в инвентаре.</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar">
+    <text>Шкала состояния брони</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar_desc">
+    <text>Показывает шкалу состояния брони.</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext">
+    <text>Показывать %-состояние брони</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext_desc">
+    <text>Показывает состояние брони в процентах оранжевого цвета. \n%c[ui_gray_2]Если шкала состояния брони отключена, то эта настройка не имеет какого-либо эффекта.</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow">
+    <text>Шкала кровотечения</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow_desc">
+    <text>Показывает величину кровопотери в данный момент в виде шкалы, расположенной рядом со шкалой здоровья (направление: слева направо).</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar">
+    <text>Шкала восстановления здоровья</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar_desc">
+    <text>Показывает уровень восстанавливаемого здоровья в виде его иконок 1-на-10, расположенных сверху и внизу шкалы кровотечения. \n Рекомендуется включение опции «Шкала кровотечения».</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow">
+    <text>Плохие патроны</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow_desc">
+    <text>Возвращает в игру плохие патроны, где это имеет смысл (например, при неимении их хороших аналогов).</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow">
+    <text>Шкала облучения</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow_desc">
+    <text>Показывает количество поглощённой Вами радиации в виде иконки, расположенной сбоку от шкал выносливости и пси-здоровья (направление: снизу вверх).</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide">
+    <text>Спрятать при убирании оружия</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide_desc">
+    <text>Скрывает шкалу состояния оружия, когда Вы убираете оружие. \n%c[ui_gray_2]Если шкала состояния оружия отключена, то эта настройка не имеет какого-либо эффекта.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow">
+    <text>Шкала состояния оружия</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow_desc">
+    <text>Показывает шкалу состояния оружия.</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext">
+    <text>Показывать %-состояние оружия</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext_desc">
+    <text>Показывает состояние оружия в процентах оранжевого цвета. \n%c[ui_gray_2]Если шкала состояния оружия отключена, то эта настройка не имеет какого-либо эффекта.</text>
+  </string>
+  <string id="ui_mm_video_hud_dogslide">
+    <text>Настройки Old Dog</text>
+  </string>
+</string_table>

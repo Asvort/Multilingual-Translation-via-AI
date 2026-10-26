@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_visbody_no_model_msg">
+    <text>VISIBLE BODY: УВАГА: модель не знайдено: </text>
+  </string>
+  <string id="st_visbody_no_model_msg_2">
+    <text>VISIBLE BODY: Якщо під час попереднього завантаження цього не було, перевдягніть костюм і збережіться.</text>
+  </string>
+  <string id="st_visbody_no_sec_msg">
+    <text>VISIBLE BODY: УВАГА: секцію Outfit-Body не знайдено: </text>
+  </string>
+  <string id="ui_mcm_menu_swm_legs">
+    <text>SWM Visible Body</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled">
+    <text>Вимкнути відображення тіла (безпечне видалення; див. опис)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled_desc">
+    <text>Ця опція дає змогу безпечно видалити додаток.\n1) Увімкніть опцію.\n2) Переконайтеся, що модель тіла зникла.\n3) Збережіть гру, вийдіть і вимкніть додаток.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood">
+    <text>(Експериментально) Увімкнути сліди крові на тілі</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood_desc">
+    <text>Сильні фізичні удари можуть залишати сліди крові. Через обмеження рушія вони з’являються не завжди й швидко зникають; налаштування ще обмежене.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_debug_warnings">
+    <text>Увімкнути попередження налагодження</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt">
+    <text>(Експериментально) Увімкнути сліди бруду на тілі</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt_desc">
+    <text>Ходіння по бруду чи воді може залишити бруд на тілі. Через обмеження рушія він з’являється не завжди й швидко зникає; налаштування не завершене.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims">
+    <text>Увімкнути випадкові анімації бездіяльності</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims_desc">
+    <text>Коли персонаж стоїть без діла, після паузи відтворюються анімації очікування. Вони запускаються лише під час погляду вниз і супроводжуються тихим звуком руху.\nПримітки:\n1) Анімації розраховані на ввімкнену опцію бойового/спокійного стану й виглядають краще з нею.\n2) Зміна тривалості паузи може застосуватися не відразу.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+    <text>Ховати тіло в низькому присіді</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_max_cooldown">
+    <text>Максимальна пауза між анімаціями</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_min_cooldown">
+    <text>Мінімальна пауза між анімаціями (с)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset">
+    <text>Положення тіла (ближче/далі від центру екрана)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_noncombat">
+    <text>Положення тіла (ближче/далі) у спокійному стані</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_side">
+    <text>Положення тіла (ліворуч/праворуч)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_title">
+    <text>SWM Visible Body. Портовано з Shoker Weapon Mod (CoP), автор Shoker та інші.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+    <text>Увімкнути звуки кроків під час повороту</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo">
+    <text>Увімкнути звуки кроків екзокостюма під час повороту</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo_desc">
+    <text>Додає звуки сервомоторів екзокостюма до звичайних кроків.\nПотрібен додаток Exo Servo Sounds.\nГучність налаштовується там.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_turn_step_sound_volume">
+    <text>Гучність кроків</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state">
+    <text>Увімкнути стани бойової готовності та спокою</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state_desc">
+    <text>Якщо опцію ввімкнено, деякі анімації тіла замінюються новими, коли персонаж не перебуває в бойовому стані (тримає зброю, не опустив її або бере участь у бою).\nЯкщо опцію вимкнено, відтворюються лише стандартні анімації.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_hd_models">
+    <text>Використовувати HD-моделі (потрібен додаток HD Models Pack!)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state">
+    <text>Увімкнути стани уповільненого руху</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state_desc">
+    <text>Якщо ввімкнено, анімації залежать від швидкості. За повільного спринту може відтворюватися біг підтюпцем.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_special_noncombat_shift">
+    <text>Особливе положення тіла у спокійному стані</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled">
+    <text>Увімкнути відображення покращень броні</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled_desc">
+    <text>Якщо на костюмі встановлено покращення броні, відображатиметься бронежилет.\nНаразі це реалізовано лише для деяких курток і костюмів SSP-99.</text>
+  </string>
+</string_table>

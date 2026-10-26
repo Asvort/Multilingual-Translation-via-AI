@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ssr">
+    <text>SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm">
+    <text>Rozmycie</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm_desc">
+    <text>Określa stopień rozmycia odbić.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm">
+    <text>Ogólna intensywność</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm_desc">
+    <text>Ogólna intensywność odbić.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm">
+    <text>Jakość (kroki)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm_desc">
+    <text>[ WYMAGANE PONOWNE URUCHOMIENIE ] Liczba kroków renderowania odbić. To ustawienie może znacznie obniżyć wydajność. [ 8, 16, 24, 32, 48, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm">
+    <text>Skala renderowania</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm_desc">
+    <text>Skala renderowania SSR. Niższe wartości obniżają jakość obrazu, ale poprawiają wydajność. Po jej zmniejszeniu można zwiększyć rozmycie, by ukryć spadek jakości.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm">
+    <text>Intensywność nieba</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm_desc">
+    <text>Intensywność odbicia skyboxa.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm">
+    <text>Akumulacja czasowa</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm_desc">
+    <text>Określa stopień wykorzystania poprzednich klatek do stabilizacji odbić. Zmniejsza szum i poprawia SSR, ale wysokie wartości mogą tworzyć smugi.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_title">
+    <text>Ustawienia odbić w przestrzeni ekranu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm">
+    <text>Użyj szumu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm_desc">
+    <text>Włącza lub wyłącza szum poprawiający rekonstrukcję SSR. Zalecane przy dużym rozmyciu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm">
+    <text>Maksymalna intensywność odbić broni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm_desc">
+    <text>Maksymalna intensywność odbić na broni.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm">
+    <text>Intensywność odbić broni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm_desc">
+    <text>Intensywność odbić na broni.</text>
+  </string>
+</string_table>

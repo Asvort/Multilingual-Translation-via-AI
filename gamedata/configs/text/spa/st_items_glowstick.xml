@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_device_glowstick">
+    <text>Barra luminosa (verde)</text>
+  </string>
+  <string id="st_device_glowstick_blue">
+    <text>Barra luminosa (cian)</text>
+  </string>
+  <string id="st_device_glowstick_blue_descr">
+    <text>Produce luz mediante una reacción química. Los stalkers usan estas fuentes de luz química como iluminación autónoma en emergencias y cuando no hay otra iluminación disponible. Son autosuficientes, duraderas, ignífugas, impermeables y aptas para almacenarse durante mucho tiempo, por lo que tienen muchos usos. \nEsta variante emite luz cian. Su alcance es mucho menor que el promedio, pero ofrece la máxima iluminación. Es ideal bajo tierra o, incluso de día, para iluminar rincones difíciles de ver.\n \n%c[0,140,140,140]PROPIEDADES:\n%c[0,153,255,255] • %c[0,140,140,140] objeto tecnológico\n%c[0,153,255,255] • %c[0,140,140,140] tiempo de funcionamiento: 30 minutos reales \n%c[0,153,255,255] • %c[0,140,140,140] Alcance: 6 metros</text>
+  </string>
+  <string id="st_device_glowstick_descr">
+    <text>Produce luz mediante una reacción química. Los stalkers usan estas fuentes de luz química como iluminación autónoma en emergencias y cuando no hay otra iluminación disponible. Son autosuficientes, duraderas, ignífugas, impermeables y aptas para almacenarse durante mucho tiempo, por lo que tienen muchos usos. \nEsta variante emite luz verde con un alcance y una iluminación equilibrados, adecuada para casi cualquier situación.\n \n%c[0,140,140,140]PROPIEDADES:\n%c[0,153,255,255] • %c[0,140,140,140] objeto tecnológico\n%c[0,153,255,255] • %c[0,140,140,140] tiempo de funcionamiento: 40 minutos reales \n%c[0,153,255,255] • %c[0,140,140,140] Alcance: 12 metros</text>
+  </string>
+  <string id="st_device_glowstick_orange">
+    <text>Barra luminosa (naranja)</text>
+  </string>
+  <string id="st_device_glowstick_orange_descr">
+    <text>Produce luz mediante una reacción química. Los stalkers usan estas fuentes de luz química como iluminación autónoma en emergencias y cuando no hay otra iluminación disponible. Son autosuficientes, duraderas, ignífugas, impermeables y aptas para almacenarse durante mucho tiempo, por lo que tienen muchos usos. \nEsta variante emite luz naranja, con un alcance casi igual al de la verde pero menos iluminación; es mejor para ojos sensibles.\n \n%c[0,140,140,140]PROPIEDADES:\n%c[0,153,255,255] • %c[0,140,140,140] objeto tecnológico\n%c[0,153,255,255] • %c[0,140,140,140] tiempo de funcionamiento: 40 minutos reales \n%c[0,153,255,255] • %c[0,140,140,140] Alcance: 10 metros</text>
+  </string>
+  <string id="st_device_glowstick_red">
+    <text>Barra luminosa (roja)</text>
+  </string>
+  <string id="st_device_glowstick_red_descr">
+    <text>Produce luz mediante una reacción química. Los stalkers usan estas fuentes de luz química como iluminación autónoma en emergencias y cuando no hay otra iluminación disponible. Son autosuficientes, duraderas, ignífugas, impermeables y aptas para almacenarse durante mucho tiempo, por lo que tienen muchos usos. \nEsta variante emite luz roja, alcanza mucho más lejos pero ilumina menos, por lo que es popular entre los soldados.\n \n%c[0,140,140,140]PROPIEDADES:\n%c[0,153,255,255] • %c[0,140,140,140] objeto tecnológico\n%c[0,153,255,255] • %c[0,140,140,140] tiempo de funcionamiento: 60 minutos reales \n%c[0,153,255,255] • %c[0,140,140,140] Alcance: 24 metros</text>
+  </string>
+  <string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+    <text>Parpadeo de luces en el Quemador y la Máquina Milagrosa</text>
+  </string>
+  <string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+    <text>Mientras el Quemador y la Máquina Milagrosa están activos, las lámparas y linternas parpadean, lo que da un motivo para llevar barras luminosas.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_equip_next">
+    <text>Equipar la siguiente barra luminosa tras lanzarla</text>
+  </string>
+  <string id="ui_mcm_glowsticks_keybind">
+    <text>Tecla de lanzamiento</text>
+  </string>
+  <string id="ui_mcm_glowsticks_keybind_desc">
+    <text>Tecla utilizada para lanzar barras luminosas.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_loot_chance">
+    <text>Probabilidad de encontrar barras luminosas en cadáveres</text>
+  </string>
+  <string id="ui_mcm_glowsticks_loot_chance_desc">
+    <text>Probabilidad de encontrar barras luminosas en cadáveres.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_sort_worst">
+    <text>Usar primero las barras luminosas con peor estado</text>
+  </string>
+  <string id="ui_mcm_glowsticks_sort_worst_desc">
+    <text>Si se activa, el jugador usa primero las barras luminosas en peor estado y guarda las demás para después.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_stash_chance">
+    <text>Probabilidad de encontrar barras luminosas en escondites</text>
+  </string>
+  <string id="ui_mcm_glowsticks_stash_chance_desc">
+    <text>Probabilidad de encontrar barras luminosas en escondites.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_force">
+    <text>Distancia de lanzamiento de la barra luminosa</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_key">
+    <text>Tecla de lanzamiento</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_key_desc">
+    <text>Tecla que debes mantener pulsada para lanzar barras luminosas.</text>
+  </string>
+  <string id="ui_mcm_menu_glowsticks">
+    <text>Barras luminosas</text>
+  </string>
+</string_table>

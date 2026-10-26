@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="at_development_hud_position_lst_bottomleft">
+    <text>Sol alt</text>
+  </string>
+  <string id="at_development_hud_position_lst_bottomright">
+    <text>Sol sağ</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerleft">
+    <text>Orta sol</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerright">
+    <text>Orta sağ</text>
+  </string>
+  <string id="at_development_hud_position_lst_off">
+    <text>Kapalı</text>
+  </string>
+  <string id="at_development_hud_position_lst_topleft">
+    <text>Sol üst</text>
+  </string>
+  <string id="at_development_hud_position_lst_topright">
+    <text>Sağ üst</text>
+  </string>
+  <string id="at_development_log_level_lst_debug">
+    <text>Hata ayıklama</text>
+  </string>
+  <string id="at_development_log_level_lst_error">
+    <text>Hata</text>
+  </string>
+  <string id="at_development_log_level_lst_info">
+    <text>Bilgi</text>
+  </string>
+  <string id="at_development_log_level_lst_warn">
+    <text>Uyarı</text>
+  </string>
+  <string id="st_at_reset_all_done">
+    <text>AlifeTactics: tüm ayarlar varsayılana döndürüldü.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced">
+    <text>Deneyimli dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced_desc">
+    <text>Deneyimli stalkerların atış konisi ölçeği. Düşük değer daha sıkı atış sağlar.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert">
+    <text>Uzman dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert_desc">
+    <text>Uzman rütbesinin atış konisi ölçeği. Düşük değer atışları sıkılaştırır.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend">
+    <text>Efsane dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend_desc">
+    <text>Efsane rütbesinin atış konisi ölçeği. Düşük değer atışları sıkılaştırır.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master">
+    <text>Usta dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master_desc">
+    <text>Usta rütbesinin atış konisi ölçeği. Düşük değer atışları sıkılaştırır.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice">
+    <text>Acemi dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice_desc">
+    <text>Acemi nişancıların atış konisi ölçeği. Düşük değer daha dar ve ölümcül atış demektir. 1.00 varsayılan konidir.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional">
+    <text>Profesyonel dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional_desc">
+    <text>Profesyonel rütbesinin atış konisi ölçeği. Düşük değer atışları sıkılaştırır.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee">
+    <text>Acemi eğitimli dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee_desc">
+    <text>Eğitimli acemilerin atış konisi ölçeği. Düşük değer daha sıkı atış sağlar.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran">
+    <text>Kıdemli dağılımı</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran_desc">
+    <text>Kıdemli rütbesinin atış konisi ölçeği. Düşük değer atışları sıkılaştırır.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced">
+    <text>Hareketli ateş: deneyimli</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced_desc">
+    <text>Bu seçenek, deneyimli bir stalkerın hareket hâlinde ateş ederken hareket kaynaklı saçılma cezasının ne kadarını koruduğunu belirtir. 1.00, temel oyundaki cezanın tamamına eşittir; daha düşük değer atışı dengeler.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert">
+    <text>Hareketli ateş: uzman</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert_desc">
+    <text>uzman rütbesinin hareket saçılma cezasından koruduğu pay. tam varsayılan cezadır; düşük değer atışı dengeler.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend">
+    <text>Hareketli ateş: efsane</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend_desc">
+    <text>Efsane rütbesinin hareket cezasından koruduğu pay. 0.50 değerinde hareketli atış, sabit atış kadar dengelidir.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master">
+    <text>Hareketli ateş: usta</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master_desc">
+    <text>usta rütbesinin hareket saçılma cezasından koruduğu pay. tam varsayılan cezadır; düşük değer atışı dengeler.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice">
+    <text>Hareketli ateş: acemi</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice_desc">
+    <text>Bu seçenek, acemi bir stalkerın hareket hâlinde ateş ederken hareket kaynaklı saçılma cezasının ne kadarını koruduğunu belirtir. 1.00, temel oyundaki cezanın tamamına eşittir; daha düşük değer atışı dengeler.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional">
+    <text>Hareketli ateş: profesyonel</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional_desc">
+    <text>Profesyonel rütbesinin hareket cezasından koruduğu pay. tam varsayılan cezadır; daha düşük değer daha isabetlidir.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee">
+    <text>Hareketli ateş: eğitimli acemi</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee_desc">
+    <text>Bu seçenek, stajyer bir stalkerın hareket hâlinde ateş ederken hareket kaynaklı saçılma cezasının ne kadarını koruduğunu belirtir. 1.00, temel oyundaki cezanın tamamına eşittir; daha düşük değer atışı dengeler.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran">
+    <text>Hareketli ateş: kıdemli</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran_desc">
+    <text>kıdemli rütbesinin hareket saçılma cezasından koruduğu pay. tam varsayılan cezadır; düşük değer atışı dengeler.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_desc">
+    <text>Rütbe yükseldikçe isabet artar: usta acemiden daha dar atış grubu oluşturur. Her rütbeyi aşağıda ayarlayın. Motor rütbe başına dağılım eğrisi sunar, ancak Anomaly varsayılanları pek değişmez.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled">
+    <text>Dağılım eğrisini etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled_desc">
+    <text>Her rütbenin nişan konisinin genişliğini belirler: düşük rütbeler geniş, yüksek rütbeler sıkı atış yapar. Kapalıyken motorun sabit konisi kullanılır.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled">
+    <text>Hareketli ateşi etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled_desc">
+    <text>Her rütbenin hareket hâlinde ateş isabet cezasını ne kadar telafi ettiğini belirler. Yüksek rütbeler isabeti korur; kapalıyken ceza tam uygulanır.</text>
+  </string>
+  <string id="ui_mcm_at_ammo_desc">
+    <text>Stalkerlar taşıdıkları mühimmatı kullanır. Kıdemli ve üstü rütbeler envanterlerindeki zırh delici mermileri gerçek balistikle kullanır, bitince standart mühimmata döner. Her çatışmada bir kutu harcanabilir; hızlı silahlar ve düşük rütbeler daha çabuk tüketir. Mühimmat ticaret ve ganimetten gelir, NPC’den düşmez. Rütbe eşiği ve tüketim configs/alifetactics/at_ammo.ltx içindedir.</text>
+  </string>
+  <string id="ui_mcm_at_behaviors_desc">
+    <text>Planlandı: varsayılan planlayıcıda olmayan yeni savaş eylemleri; önce yakın dövüş. Henüz ayar yok.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled">
+    <text>Savaş kontrolünü etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled_desc">
+    <text>Kapalıyken AlifeTactics savaşa müdahale etmez ve mevcut yapay zekâ çalışır. Açıkken bir manevra için stalkerı kısa süreliğine yönetebilir.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions">
+    <text>Yoldaşları devralma</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions_desc">
+    <text>Açıkken AlifeTactics yoldaşlarınızı yönetmez; yapay zekâları ve komutlarınız sizde kalır. Onlar için manevralara izin vermek üzere kapatın.</text>
+  </string>
+  <string id="ui_mcm_at_combat_desc">
+    <text>Manevra, varsayılan motorun yapamadığı bir eylem için bir stalkerı kısa süreliğine tamamen yönetir. Savaş olaylarını, özellikleri, dünyayı, timi, fraksiyonu, mesafeyi, siperi ve silahları değerlendirir. Timler hareketlerini koordine edebilir. Savaş betikleriyle uyumludur; her manevra ayrı açılır.</text>
+  </string>
+  <string id="ui_mcm_at_combat_hdr_maneuvers">
+    <text>Manevralar</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank">
+    <text>Karşı kanat</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank_desc">
+    <text>Bir stalker uzaktaki hedefe ateş ederken düşman oyuncu yakına gelirse sırtını dönmek yerine yakın tehdide dönüp saldırır.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee">
+    <text>Kaç</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee_desc">
+    <text>Dağılan timin son üyesi silahı omzunda uzak bir dost üssüne kaçar. Önce ateşin hafiflemesini bekler. Yalnızca temkinli fraksiyonlar kaçar; fanatikler asla.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite">
+    <text>Ateş ederek geri çekil</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite_desc">
+    <text>Düşman silahın asgari menziline girerse stalker kendi mesafesine geri çekilir ve güvenli olduğunu kontrol ettiği yönde ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff">
+    <text>Uzaktan etkisiz hâle getir</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff_desc">
+    <text>Silahı düşmandan daha uzun menzilliyse mevzisini korur ve tek atış yapar. Düşman yaklaşınca geri çekilir; ateş altında veya nişangâhınızdayken beklemez.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover">
+    <text>Siper alarak doldur</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover_desc">
+    <text>Ateş hattında şarjör değiştirirken yakalanan stalker en yakın sipere koşar ve doldurmayı yolda bitirir. Görüş veya nişan hattı dışındaysa davranış değişmez. Yeni motor gerekir.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat">
+    <text>Geri çekilme</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat_desc">
+    <text>Ağır yaralı ve saldırgan menzildeyken stalker ateş ederek arkasındaki sipere çekilir. Siper saldırganla mesafeyi artırır ve aynı yeri iki kişi kullanmaz.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin">
+    <text>Siperi koru</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin_desc">
+    <text>Açık atışta stalker az daha iyi bir konuma kaymak yerine siperini korur ve gereksiz hareketleri önler. Konum tehlikeye girerse ayrılır. Yeni motor sürümü gerekir.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled">
+    <text>Kararlılığı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled_desc">
+    <text>Kapalıyken stalkerlar varsayılan davranır: motor durumu sürekli yeniden değerlendirir ve küçük avantajlar için eylemlerini değiştirerek telaşlı hareketlere neden olur.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s">
+    <text>Azami bağlı kalma süresi</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s_desc">
+    <text>Motor onu yeniden hareket ettirene kadar tek bir eyleme bağlı kalabileceği üst süre. Sabit süre değildir: eylem mantıklı oldukça sürer. Görüşü ya da açık atışı kaybedince hemen ayrılır. Yüksek değer konumu daha uzun korur.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_desc">
+    <text>Varsayılan stalkerlar küçük değişikliklerde bile kararlarını sürekli yeniler ve çatışmada telaşlı hareket eder. Bu seçenek, eylem mantıklı kaldığı sürece devam etmelerini; hedef kaybolursa, atış engellenirse veya görüş kesilirse değiştirmelerini sağlar. Açık atışta siperlerini korurlar. Yeni bir motor sürümü gerekir; eskilerde varsayılan davranış sürer.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture">
+    <text>Siper duruşu</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture_desc">
+    <text>Deneyimli nişancılar ve keskin nişancılar göğüs hizasındaki siperin arkasında çömelir, siper yoksa ayağa kalkar. Bu seçenek savaş duruşunu iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_desc">
+    <text>Varsayılan motorun yönettiği stalkerlara küçük savaş iyileştirmeleri: kontrolü devralmaz, yalnızca daha iyi seçimler sağlar. Yeni motor sürümü gerekir.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled">
+    <text>Aynı fraksiyonda dost ateşini azalt</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled_desc">
+    <text>Kapalıyken varsayılan dost ateşi hasarı tam uygulanır.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor">
+    <text>Aynı fraksiyon hasar çarpanı</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor_desc">
+    <text>Aynı fraksiyondakilerin birbirine verdiği hasar. 0.00 takım arkadaşları hasar vermez demektir; 1.00 tam varsayılan hasardır.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_desc">
+    <text>Aynı fraksiyondakiler çapraz ateşte birbirine daha az hasar verir; çarpanı aşağıdan ayarlayın. Gerçek düşman fraksiyonlar tam hasar verir. Sizin atışlarınız etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions">
+    <text>Eşya kullanma sesi</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions_desc">
+    <text>Düşman stalkerlar yakındaki şarjör değiştirme, boş tetik sesi veya eşya kullanımını duyar. Menzili hareket sesinden kısadır. Şarjör veya boş tetik sesini araştırırlar; eşya kullanımında sese dönüp alarma geçerler.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise">
+    <text>Hareket sesi</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise_desc">
+    <text>Düşman stalkerlar adımlarınızı duyar. Yürüme temel menzili 5m; koşu bunu 1.6 katına çıkarır, zıplama inişi 10m’ye ulaşır. Çömelerek hareket sessizdir. Yüzeyler: metal x1.25, ahşap x1.15, su x1.35, çimen x0.7, toprak ve kum x0.8; yağmur menzili %40’a kadar azaltır. Sesi kontrol etmek için yürürler, sizi kesin düşman saymazlar. Yalnızca çatışma dışındaki düşman NPC’ler tepki verir.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire">
+    <text>Tarafsız ateş alarmı</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire_desc">
+    <text>Yakındaki tarafsız ve dost stalkerlar alarma geçip ateşinize döner. Düşman olmaz, konum değiştirmez ve ateş bitince sakinleşir. Menzil kısadır, savaş algılama mesafesine ulaşmaz.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult">
+    <text>Ses taşıma mesafesi</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult_desc">
+    <text>Adım ve işlem seslerinin menzilini ölçekler. 1 altı gizliliği kolaylaştırır, 1 üstü stalkerları daha iyi duyar hâle getirir.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_desc">
+    <text>Tehlike kontrolü ve ceset inceleme düzeltmeleri daima açıktır; aşağıda tek bir ayar vardır. Eski çökmeleri ve yanlış kontrolleri giderir. Yama kurulu tehlike betiğine eklenir.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_list">
+    <text>1. Tehlike ayarı satırlarının yanlış okunması düzeltildi.\n2. Mutant cesetlerindeki süre kontrolü düzeltildi.\n3. Silinmiş NPC referansının çökmesi düzeltildi.\n4. Geçersiz tehlike süresi değeri düzeltildi.\n5. Saldırganı olmayan isabet belleği düzeltildi.\n6. Tehlike durumu değişince takılı kalan animasyon düzeltildi.\n7. Artık yalnızca ilgili stalkerın siper rezervi temizlenir.\n8. İnceleme sırasında ceset kaybolursa oluşan çökme düzeltildi.\n9. Ceset incelemesi yanlış tim üyesini yönetmez.\n10. İnceleyen kişi temizlenmiş noktaya değil bulduğu sipere gider.\n11. Performans için yapılandırma dizeleri yalnızca bir kez ayrıştırılır.\n12. Ölü stalkerın tehlike durumu ID yeniden kullanıldığında temizlenir.\n13. İnceleme başlamadan ceset tepkisi oluşursa yaşanan çökme düzeltildi.</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_fixes">
+    <text>Daima açık düzeltmeler (değiştirilemez)</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_gunfire">
+    <text>Silah sesleri</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_noise">
+    <text>Çıkardığınız sesler</text>
+  </string>
+  <string id="ui_mcm_at_danger_hit_desc">
+    <text>Vurulmaya verilen tepkiler. Mesafeler tehlike ayarlarından gelir; AlifeTactics tepkileri ekler, ayarları değiştirmez.</text>
+  </string>
+  <string id="ui_mcm_at_danger_sound_desc">
+    <text>Silah sesine tepkiler kurulumunuzdaki tehlike mesafelerini kullanır; adım ve işlem seslerinde kısa yerleşik menziller vardır. Yama diğer savaş yapay zekâları ve gizlilik modlarıyla uyumludur. Gizlilik görülmeye (ışık, siper, duruş) bağlıdır; ses algılamayı değiştirmez ve çömelerek hareket sessizdir.</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled">
+    <text>Balistik hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled_desc">
+    <text>Yakındaki çatışmaların sonuçlarını kaydeder: rütbe ve nişancının hareketine göre isabetler, hasar, hedefin yakınından geçen atışlar ve silah türüne göre seri uzunluğu; ayrıca NPC’yi yöneten sistemi (Maneuver, Commitment veya vanilla) belirtir. Dakikada bir alifetactics_world.log dosyasına yazar. Kapalıyken kaynak kullanmaz.</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all">
+    <text>Ayarları sıfırla</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all_desc">
+    <text>MCM’deki tüm AlifeTactics ayarlarını varsayılana döndürür. MCM yapısı farklı olan bir sürümden güncelledikten sonra kullanın.</text>
+  </string>
+  <string id="ui_mcm_at_development_desc">
+    <text>Geliştirme araçları. DEBUG; manevra, tehlike, açığa çıkma, iyileşme, eşya, atış isabeti, mühimmat ve doldurma sürelerini alifetactics.log dosyasına yazar. Performans maliyeti vardır; normal oyun için WARN kullanın.</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position">
+    <text>Konum</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position_desc">
+    <text>Yakındaki stalkerları gösteren katman: rütbe, ad, sağlık, mantık şeması, ruh hâli ve mesafeli hedef. Manevra adı yeşil satırda görünüyorsa stalkerı AlifeTactics yönetir. Saniyede iki kez yenilenir, PDA açıkken gizlenir. Bir köşe seçin.</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level">
+    <text>Günlük düzeyi</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level_desc">
+    <text>Günlük ayrıntısı. ERROR: yalnızca hatalar. WARN: olağandışı durumlar. INFO: modül ve yama kurulumu. DEBUG: sürelerle tam olay izleme.</text>
+  </string>
+  <string id="ui_mcm_at_development_reset_warning">
+    <text>Önce bekleyen MCM değişikliklerini kaydedin veya iptal edin. Aksi takdirde sonraki «Kabul et» tıklaması sıfırlamayı geçersiz kılar.</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled">
+    <text>Dünya davranışı hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled_desc">
+    <text>Oyuncunun yakınındaki çatışan NPC’leri izler ve kaymayı saptar: darbe itişi dâhil, yürüme veya koşma animasyonu olmadan hareket. NPC’yi yöneten sistemi (Maneuver, Commitment veya vanilla) belirtir ve alifetactics_world.log dosyasına yazar. Kapalıyken kaynak kullanmaz.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_desc">
+    <text>Bir tim üyesini yaralarsanız susturucu kullansanız ve devriye işitme mesafesi dışında olsa bile herkes ateş edeni öğrenir. Varsayılan oyun yalnızca duyulan atışı paylaşır. AlifeTactics saldırganı herkesin belleğine kaydeder ve timi çatışmaya sokar; bilgiyi motor yayar. Yeni motor sürümlerinde saldırgan görünür hedefler arasında öncelik kazanır. İlişkiler yapay biçimde değiştirilmez; tanıksız anlık öldürme sessiz kalır, ancak ceset bulunabilir.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled">
+    <text>Açığa çıkarmayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled_desc">
+    <text>Kapalıyken varsayılan davranış sürer: tim saldırganı yalnızca atışı duyarsa öğrenir; uzaktaki devriyeler haberdar olmaz.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min">
+    <text>Saldırganı şu sürede unut (oyun dakikası)</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min_desc">
+    <text>Yeni isabet gelmeden timin saldırganı unutacağı oyun dakikası. Sonraki isabet tüm timi yeniden alarma geçirir. Gerçek zaman değil, oyun zamanı kullanılır.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate">
+    <text>Öldürmede saldırganı açığa çıkarma</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate_desc">
+    <text>Vuruş hedefi anında öldürürse saldırgan açığa çıkmaz: ölen kişi telsizle haber veremez, bu yüzden susturuculu atışlar ve arkadan saldırılar gizli kalır. Tim sizi ses, görüş veya ceset yoluyla yine bulabilir. Hedef yalnızca yaralanırsa normal biçimde haber verilir.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn">
+    <text>Saldırganı hedef al</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn_desc">
+    <text>Açığa çıkan saldırgan her üyenin ilk hedefi olur; tim uzaktaki görünür düşmana kilitlenmek yerine ona döner. Kapalıyken saldırganı bilir ve saldırabilirler, ancak görünen düşman önceliğini korur. Yeni motor sürümü gerekir.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_hdr_survivor">
+    <text>Gizlilik</text>
+  </string>
+  <string id="ui_mcm_at_effects_desc">
+    <text>Planlandı: oyuncuya yönelik savaş etkileri; önce sarsıntı. Henüz ayar yok.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled">
+    <text>NPC zırh delici mühimmatı</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled_desc">
+    <text>Açık: uygun stalkerlar zırh delici mermileri kullanıp tüketir. Kapalı: herkes standart mühimmat kullanır, stok harcanmaz.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables">
+    <text>Oyuncu mesafeleri</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables_desc">
+    <text>Oyuncunun oluşturduğu tehlike, yapılandırma ayırıyorsa özel aktör tablolarını kullanır. Yalnızca kurulu betik bu tabloları kullanıyorsa geçerlidir; değilse kendi ayarları korunur.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound">
+    <text>Düşman ateşi</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound_desc">
+    <text>NPC’ler görmedikleri düşmanın ateşini duyunca sese döner, tehdit duruşu alır ve saldırganı görünce sipere gider. Tarafsız veya dost ateşi alarm vermez. Tepki mesafesi tehlike ayarlarından gelir.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass">
+    <text>Uzak isabetler</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass_desc">
+    <text>Varsayılan yapay zekâ mesafe sınırı nedeniyle uzaktaki atışları görmezden gelir. Açıkken doğrudan isabet her zaman kaydedilir: 200m’den vurulan stalker dönüp siper arar.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled">
+    <text>NPC tutukluklarını bastır</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled_desc">
+    <text>Açık: NPC’lerin sahte tutukluk atışları kapalı. Kapalı: değiştirilmiş oyun sürümünün varsayılanı kullanılır. Sizin silahlarınız etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_curve">
+    <text>Rütbe eğrisi</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_move">
+    <text>Hareket hâlinde atış isabeti</text>
+  </string>
+  <string id="ui_mcm_at_hdr_commitment_hold">
+    <text>Kararlılık sınırı</text>
+  </string>
+  <string id="ui_mcm_at_hdr_heal_rate">
+    <text>İyileşme hızı</text>
+  </string>
+  <string id="ui_mcm_at_hdr_healing_charge">
+    <text>İyileşme hakkı</text>
+  </string>
+  <string id="ui_mcm_at_hdr_hud">
+    <text>Hata ayıklama HUD</text>
+  </string>
+  <string id="ui_mcm_at_hdr_logging">
+    <text>Günlük kaydı</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_aim">
+    <text>Takip hızı: </text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_lead">
+    <text>Hedef ön alımı</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_qinterval">
+    <text>Ateş aralığı</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_trigger">
+    <text>Ateş disiplini (seri uzunluğu)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_vision">
+    <text>Görüş hızı eğrisi</text>
+  </string>
+  <string id="ui_mcm_at_hdr_retention">
+    <text>Hatırlama süresi</text>
+  </string>
+  <string id="ui_mcm_at_hdr_visuals">
+    <text>Görsel katman</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced">
+    <text>Deneyimli iyileşme olasılığı (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced_desc">
+    <text>Deneyimli rütbedeki stalkerlar için iyileşme hakkı olasılığı.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master">
+    <text>Usta iyileşme olasılığı (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master_desc">
+    <text>Usta rütbesindeki stalkerlar için iyileşme hakkı olasılığı.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice">
+    <text>Acemi iyileşme olasılığı (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice_desc">
+    <text>Aceminin ilk doğuşunda ömür boyu tek bir iyileşme hakkı kazanma olasılığı. Envanterinde sağlık kiti yokken sağlık eşiğinin altına düştüğünde bir kez kullanılır. Varsayılan oyun tüm rütbelerde %50 verir.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran">
+    <text>Kıdemli iyileşme olasılığı (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran_desc">
+    <text>Kıdemli rütbedeki stalkerlar için iyileşme hakkı olasılığı.</text>
+  </string>
+  <string id="ui_mcm_at_healing_desc">
+    <text>Yaralı stalkerlar taşıdıkları sağlık kitleri ve bandajları kullanır; yaralıyken topallar, çatışma dışında iyileşme animasyonu oynatır. Varsayılan oyunda iyileştirme eşya listeleri boş olduğundan taşınan kitler kullanılmıyordu. AlifeTactics listeleri başlangıçta geri yükler. Aşağıda iyileşme hızı, rütbeye göre tek seferlik hak ve animasyonlar ayarlanır.</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier">
+    <text>İyileşme hızı çarpanı</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier_desc">
+    <text>Her iyileşme döngüsünde yenilenen sağlığı ölçekler. 2.0’da kit iki kat hızlı, 0.5’te yarı hızda iyileştirir. Döngü sayısını motor belirler.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled">
+    <text>İyileşme animasyonu</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled_desc">
+    <text>Çatışma dışında iyileşme başlayınca stalker sağlık kiti veya bandaj kullanma hareketi yapar. Animasyonu motor bitirir.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled">
+    <text>İyileşmeyi etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled_desc">
+    <text>İyileşme hızını ve rütbeye özel tek kullanımlık iyileşme hakkını denetler. Kapalıyken varsayılan kendini iyileştirme sürer. Değişiklik için yeniden başlatma gerekir. Eşya listeleri her durumda başlangıçta geri yüklenir.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled">
+    <text>Topallama animasyonu</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled_desc">
+    <text>Çatışma dışında sağlık eşiğinin altındaki stalkerlar görünür biçimde topallar; duruş ve yürüyüş taşıdıkları silaha uyar. Savaşanlar ve iyileşenler etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold">
+    <text>Topallama sağlık eşiği</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold_desc">
+    <text>Stalkerın topallamaya başlayacağı sağlık oranı. Düşük değer, belirtinin daha ağır yaralanana kadar başlamamasını sağlar.</text>
+  </string>
+  <string id="ui_mcm_at_jam_desc">
+    <text>NPC silahları yalnızca gerçekten tutukluk yapar ve şarjör bitince doldurulur. Değiştirilmiş oyun sürümlerindeki sahte tutukluk, sağlam tüfekleri birkaç atışta bir yeniden doldurtur. AlifeTactics NPC’lerde bu atışı kapatır; sizin silahlarınız varsayılan kalır.</text>
+  </string>
+  <string id="ui_mcm_at_mutants_desc">
+    <text>Planlandı: mutantların savaş davranışı. Henüz ayar yok.</text>
+  </string>
+  <string id="ui_mcm_at_range_desc">
+    <text>Planlandı: çatışma mesafesi. Oyun şu anda silaha bakmadan NPC çatışmalarına menzil sınırı koyuyor. Henüz ayar yok.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled">
+    <text>Takip hızını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled_desc">
+    <text> rütbesindeki namlunun hareketli hedefi ne kadar iyi izlediği. Yüksek değer takibi iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_desc">
+    <text>Stalker rütbesi, hareketli hedef takibini ve uzaktaki hedefi fark etme hızını belirler.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled">
+    <text>Ateş disiplinini etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled_desc">
+    <text>Her rütbenin seri uzunluğunu ve sıklığını ayarlar. Yüksek rütbeler daha sık kısa ve kontrollü seriler atar; düşükler varsayılan davranışı korur. Varsayılan ayar, seri boyutunu aralıktan düşük tutmayarak dakikadaki isabeti korur. Kapalıyken varsayılan seriler kullanılır.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled">
+    <text>Hedef ön alımını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled_desc">
+    <text>Merminin gerçek uçuş süresini kullanarak hareketli hedefin ne kadar önüne nişan alınacağını belirler. Yüksek rütbeler doğru, düşükler fazla ön alır. Kapalıyken motorun sabit değeri kullanılır.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced">
+    <text>Takip hızı: deneyimli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced_desc">
+    <text>deneyimli rütbesindeki namlunun hareketli hedefi ne kadar iyi izlediği. Yüksek değer takibi iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert">
+    <text>Takip hızı: uzman</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert_desc">
+    <text>uzman rütbesindeki namlunun hareketli hedefi izleme hassasiyeti. Yüksek değer daha yakından takip eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend">
+    <text>Takip hızı: efsane</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend_desc">
+    <text>efsane rütbesindeki namlunun hareketli hedefi izleme hassasiyeti. 2.50, zorlu yapay zekâ nişan ayarına karşılık gelir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master">
+    <text>Takip hızı: usta</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master_desc">
+    <text>usta rütbesindeki namlunun hareketli hedefi izleme hassasiyeti. Yüksek değer daha yakından takip eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice">
+    <text>Takip hızı: acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice_desc">
+    <text>acemi rütbesindeki namlunun hareketli hedefi izleme hassasiyeti, saniyedeki radyan cinsinden. 0.24 motorun varsayılan değeridir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional">
+    <text>Takip hızı: profesyonel</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional_desc">
+    <text>profesyonel rütbesindeki namlunun hareketli hedefi ne kadar iyi izlediği. Yüksek değer takibi iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee">
+    <text>Takip hızı: eğitimli acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee_desc">
+    <text>eğitimli acemi rütbesindeki namlunun hareketli hedefi ne kadar iyi izlediği. Yüksek değer takibi iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran">
+    <text>Takip hızı: kıdemli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran_desc">
+    <text>kıdemli rütbesindeki namlunun hareketli hedefi ne kadar iyi izlediği. Yüksek değer takibi iyileştirir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced">
+    <text>Hedef ön alımı: deneyimli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced_desc">
+    <text>deneyimli rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert">
+    <text>Hedef ön alımı: uzman</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert_desc">
+    <text>uzman rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend">
+    <text>Hedef ön alımı: efsane</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend_desc">
+    <text>efsane rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master">
+    <text>Hedef ön alımı: usta</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master_desc">
+    <text>usta rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice">
+    <text>Hedef ön alımı: acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice_desc">
+    <text>Aceminin fiziksel olarak doğru ön alımına göre hata çarpanı. 2.00 fazla öne nişan alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional">
+    <text>Hedef ön alımı: profesyonel</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional_desc">
+    <text>profesyonel rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee">
+    <text>Hedef ön alımı: eğitimli acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee_desc">
+    <text>eğitimli acemi rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran">
+    <text>Hedef ön alımı: kıdemli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran_desc">
+    <text>kıdemli rütbesinin fiziksel olarak doğru ön alıma göre hatası. 1.00 üzeri fazla öne alır; 1.00 doğrudur.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced">
+    <text>Ateş aralığı: deneyimli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced_desc">
+    <text>deneyimli rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert">
+    <text>Ateş aralığı: uzman</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert_desc">
+    <text>uzman rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend">
+    <text>Ateş aralığı: efsane</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend_desc">
+    <text>efsane rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master">
+    <text>Ateş aralığı: usta</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master_desc">
+    <text>usta rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice">
+    <text>Ateş aralığı: acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice_desc">
+    <text>acemi rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional">
+    <text>Ateş aralığı: profesyonel</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional_desc">
+    <text>profesyonel rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee">
+    <text>Ateş aralığı: eğitimli acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee_desc">
+    <text>eğitimli acemi rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran">
+    <text>Ateş aralığı: kıdemli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran_desc">
+    <text>kıdemli rütbesi için seri arası bekleme çarpanı. 1.00 varsayılandır; 1 altı daha sık ateş eder.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced">
+    <text>Seri uzunluğu: deneyimli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced_desc">
+    <text>deneyimli rütbesinin seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı daha kısa, ilk atışları isabetli seriler verir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert">
+    <text>Seri uzunluğu: uzman</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert_desc">
+    <text>uzman rütbesi için seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı ilk atışların isabeti için seriyi kısaltır.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend">
+    <text>Seri uzunluğu: efsane</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend_desc">
+    <text>efsane rütbesi için seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı ilk atışların isabeti için seriyi kısaltır.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master">
+    <text>Seri uzunluğu: usta</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master_desc">
+    <text>usta rütbesi için seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı ilk atışların isabeti için seriyi kısaltır.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice">
+    <text>Seri uzunluğu: acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice_desc">
+    <text>acemi rütbesinin seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı daha kısa, ilk atışları isabetli seriler verir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional">
+    <text>Seri uzunluğu: profesyonel</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional_desc">
+    <text>profesyonel rütbesinin seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı daha kısa, ilk atışları isabetli seriler verir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee">
+    <text>Seri uzunluğu: eğitimli acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee_desc">
+    <text>eğitimli acemi rütbesinin seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı daha kısa, ilk atışları isabetli seriler verir.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran">
+    <text>Seri uzunluğu: kıdemli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran_desc">
+    <text>kıdemli rütbesi için seri uzunluğu çarpanı. 1.00 varsayılandır; 1 altı ilk atışların isabeti için seriyi kısaltır.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced">
+    <text>Fark etme hızı: deneyimli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced_desc">
+    <text>deneyimli rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert">
+    <text>Fark etme hızı: uzman</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert_desc">
+    <text>uzman rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend">
+    <text>Fark etme hızı: efsane</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend_desc">
+    <text>efsane rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. 2.00 hedefleri temel değerin iki katı hızla fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master">
+    <text>Fark etme hızı: usta</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master_desc">
+    <text>usta rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice">
+    <text>Fark etme hızı: acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice_desc">
+    <text>acemi rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. 1.00 mevcut algılamayı değiştirmez. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional">
+    <text>Fark etme hızı: profesyonel</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional_desc">
+    <text>profesyonel rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee">
+    <text>Fark etme hızı: eğitimli acemi</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee_desc">
+    <text>eğitimli acemi rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran">
+    <text>Fark etme hızı: kıdemli</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran_desc">
+    <text>kıdemli rütbesi için algılama hızı katsayısı. Yüksek değer uzaktaki hedefleri daha hızlı fark eder. Yakın mesafe algılaması etkilenmez.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled">
+    <text>Fark etme hızını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled_desc">
+    <text>Mevcut algılama ayarlarına ek olarak her rütbenin uzaktaki hedefi ne hızla fark ettiğini belirler. Yüksek rütbeler sizi daha erken görür. Kapalıyken motorun sabit hızı kullanılır.</text>
+  </string>
+  <string id="ui_mcm_at_resistance_desc">
+    <text>Planlandı: zırh, ekipman, hasar azaltma ve artefaktlara göre NPC dayanıklılığı. Henüz ayar yok.</text>
+  </string>
+  <string id="ui_mcm_at_title">
+    <text>AlifeTactics</text>
+  </string>
+  <string id="ui_mcm_menu_accuracy">
+    <text>İsabet</text>
+  </string>
+  <string id="ui_mcm_menu_at">
+    <text>Yaşam taktikleri</text>
+  </string>
+  <string id="ui_mcm_menu_behaviors">
+    <text>Davranışlar</text>
+  </string>
+  <string id="ui_mcm_menu_combat">
+    <text>Çatışma</text>
+  </string>
+  <string id="ui_mcm_menu_commitment">
+    <text>Kararlılık</text>
+  </string>
+  <string id="ui_mcm_menu_conduct">
+    <text>Davranış</text>
+  </string>
+  <string id="ui_mcm_menu_crossfire">
+    <text>Çapraz ateş</text>
+  </string>
+  <string id="ui_mcm_menu_danger">
+    <text>Tehlike</text>
+  </string>
+  <string id="ui_mcm_menu_development">
+    <text>Gelişim</text>
+  </string>
+  <string id="ui_mcm_menu_disclosure">
+    <text>Fark edilme</text>
+  </string>
+  <string id="ui_mcm_menu_effectiveness">
+    <text>Etkinlik</text>
+  </string>
+  <string id="ui_mcm_menu_effects">
+    <text>Etkiler</text>
+  </string>
+  <string id="ui_mcm_menu_fixes">
+    <text>Düzeltmeler</text>
+  </string>
+  <string id="ui_mcm_menu_healing">
+    <text>İyileşme</text>
+  </string>
+  <string id="ui_mcm_menu_hit">
+    <text>Vuruş</text>
+  </string>
+  <string id="ui_mcm_menu_jam">
+    <text>Tutukluk</text>
+  </string>
+  <string id="ui_mcm_menu_maneuvers">
+    <text>Manevralar</text>
+  </string>
+  <string id="ui_mcm_menu_mechanics">
+    <text>Mekanikler</text>
+  </string>
+  <string id="ui_mcm_menu_mutants">
+    <text>Mutantlar</text>
+  </string>
+  <string id="ui_mcm_menu_range">
+    <text>Menzil</text>
+  </string>
+  <string id="ui_mcm_menu_reaction">
+    <text>Tepki</text>
+  </string>
+  <string id="ui_mcm_menu_resistance">
+    <text>Direnç</text>
+  </string>
+  <string id="ui_mcm_menu_sound">
+    <text>Ses</text>
+  </string>
+</string_table>

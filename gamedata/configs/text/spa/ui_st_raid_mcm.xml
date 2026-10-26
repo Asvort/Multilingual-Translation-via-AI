@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Alto</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Bajo</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Estándar</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Progresión acelerada (20-30 horas de juego)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Progresión estándar (30-40 horas de juego)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Progresión rápida (10-20 horas de juego)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Grim Raid</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Población de Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Permitir guardar junto a hogueras</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Permite guardar cerca de las hogueras.\n\nAl activar esta opción, también funcionan los guardados desde la consola con «save nombre_de_partida».\n\n%c[200, 235, 76, 52]¡Atención! Se recomienda no guardar durante la incursión, ya que perjudica la experiencia de juego.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>El «modo Oscuridad» verdadero utiliza los valores predeterminados.</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Seguro del informante (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Probabilidad de conservar los objetos de los espacios tras comprar un «seguro» al informante.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Conservar objetos al morir</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Porcentaje de los objetos equipados que se conservan garantizadamente en el inventario al morir.\n\nPor ejemplo, con un 60 %, conservarás 6 objetos aleatorios de un total de 10.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Pérdida progresiva de objetos</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>La cantidad de objetos que conservas al morir depende de tu rango. Cuanto mayor sea, menos objetos conservarás. Esta opción desactiva el control deslizante inferior de objetos conservados.\nNovato - pérdida del 10 % de los objetos\nPrincipiante - pérdida del 20 % de los objetos\nExperimentado - pérdida del 30 % de los objetos\nProfesional - pérdida del 40 % de los objetos\nVeterano - pérdida del 50 % de los objetos\nExperto - pérdida del 60 % de los objetos\nMaestro - pérdida del 70 % de los objetos\nLeyenda - pérdida del 33 % de los objetos\n\nCon la opción desactivada, el porcentaje se ajusta en «Objetos conservados tras morir».</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Pérdida de puntos de rango al morir (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Porcentaje de rango perdido al morir.\n\nAfecta a la progresión del personaje.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Población de Raid into Darkness</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Multiplicador de aparición de la simulación</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>Por defecto, el 100% utiliza los ajustes originales de la simulación. Cambia el valor entre un 20% y un 50% para notar una diferencia.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Ajuste predefinido de población de las ubicaciones</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>Determina el número de escuadrones durante la aparición inicial y las posibles apariciones adicionales. Solo funciona en asaltos estándar.\nSe recomienda el ajuste estándar, ya que el equilibrio del juego se diseñó para él.</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>Velocidad de progresión</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Determina las recompensas de las tareas: rango, dinero y reputación con los clientes.\nSe recomienda el ajuste estándar, ya que el equilibrio del juego se diseñó para él.</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Grim Raid</text>
+  </string>
+</string_table>

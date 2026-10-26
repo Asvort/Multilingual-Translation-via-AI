@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ssr">
+    <text>SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm">
+    <text>Bulanıklık</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm_desc">
+    <text>Yansımaların ne kadar bulanık görüneceğini belirler.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm">
+    <text>Genel yoğunluk</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm_desc">
+    <text>Yansımaların genel yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm">
+    <text>Kalite (adım sayısı)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm_desc">
+    <text>[ YENİDEN BAŞLATMA GEREKLİ ] Yansımaları çizmek için kullanılan adım sayısı. Bu seçenek performansı ciddi ölçüde etkileyebilir. [ 8, 16, 24, 32, 48, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm">
+    <text>İşleme ölçeği</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm_desc">
+    <text>SSR işleme ölçeği. Düşük değerler görsel kaliteyi azaltır ancak performansı artırır. Ölçeği düşürürseniz kalite kaybını gizlemek için bulanıklığı artırabilirsiniz.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm">
+    <text>Gökyüzü yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm_desc">
+    <text>Gökyüzü yansımasının yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm">
+    <text>Zamansal biriktirme</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm_desc">
+    <text>Yansımaları sabitlemek için önceki karelerin ne ölçüde kullanılacağını belirler. Gürültüyü azaltıp SSR’ı iyileştirir ancak yüksek değerler iz bırakabilir.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_title">
+    <text>Ekran alanı yansımaları ayarları</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm">
+    <text>Gürültü kullan</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm_desc">
+    <text>SSR yeniden oluşturmasını iyileştirmek için gürültüyü açar veya kapatır. Yüksek bulanıklık değerleriyle kullanılması önerilir.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm">
+    <text>Azami silah yansıma yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm_desc">
+    <text>Silahlar üzerindeki yansımaların azami yoğunluğu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm">
+    <text>Silah yansıma yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm_desc">
+    <text>Silahlar üzerindeki yansımaların yoğunluğu.</text>
+  </string>
+</string_table>

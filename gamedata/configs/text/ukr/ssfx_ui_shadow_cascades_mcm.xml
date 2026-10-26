@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_lst_shw_cascades_high">
+    <text>Висока</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_low">
+    <text>Низька (стандарт Anomaly)</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_medium">
+    <text>Середня</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_ultra">
+    <text>Ультра (значне навантаження на продуктивність)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades">
+    <text>Каскади тіней</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+    <text>Дальність тіней від трави (сонце)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+    <text>Задає дальність промальовування тіней трави від сонця у відсотках від дальності промальовування трави. Менше значення підвищує продуктивність.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+    <text>Максимальна дальність тіней трави</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+    <text>[ ЛИШЕ ЯКІСТЬ ULTRA ] Задає дальність промальовування тіней трави від ненапрямленого світла. Менше значення підвищує продуктивність, але тіні можуть помітно зникати раніше.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+    <text>Якість тіней від трави</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+    <text>[ LOW ] Тіні трави відображаються лише в БЛИЖНЬОМУ каскаді (стандартна поведінка Anomaly). [ MEDIUM ] Вони відображаються в БЛИЖНЬОМУ та СЕРЕДНЬОМУ каскадах. [ HIGH ] Вони відображаються в усіх каскадах і об’ємних сонячних променях. [ ULTRA ] Усі джерела світла відкидають тіні трави.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+    <text>Розмір ближнього каскаду</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+    <text>Менше значення покращує якість тіней від сонця.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+    <text>Розмір середнього каскаду</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+    <text>Менше значення покращує якість тіней від сонця.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+    <text>Розмір далекого каскаду</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+    <text>Цей каскад визначає максимальну дальність промальовування тіней від сонця. Менші значення підвищують продуктивність, більші покращують далекі тіні ціною продуктивності.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_title">
+    <text>Налаштування каскадів тіней</text>
+  </string>
+</string_table>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_itm_placeable_trashcan_name">
+    <text>Pojemnik recyklingowy Strefy</text>
+  </string>
+  <string id="st_open_trashcan">
+    <text>otwórz pojemnik</text>
+  </string>
+  <string id="st_place_trashcan">
+    <text>umieść pojemnik</text>
+  </string>
+  <string id="st_placeable_trashcan_descr">
+    <text>Duży metalowy pojemnik na zbędne przedmioty. Można go umieścić jak skrytkę, ale po czasie cała zawartość zostanie trwale zniszczona.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n%c[d_blue] • %c[ui_gray_2] pojemnik do umieszczenia\n%c[d_blue] • %c[ui_gray_2] niszczy całą zawartość</text>
+  </string>
+  <string id="st_trashcan_mollyguard">
+    <text>OSTRZEŻENIE: Wszystkie przedmioty w pojemniku zostaną ZNISZCZONE po</text>
+  </string>
+  <string id="st_trashcan_searchtip">
+    <text>Włóż przedmioty do pojemnika ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_trashcan_seconds">
+    <text>sekund</text>
+  </string>
+  <string id="st_trashcan_shutupwesley">
+    <text>Pojemnik umieszczony</text>
+  </string>
+  <string id="ui_mcm_menu_zrb">
+    <text>Pojemnik recyklingowy Strefy</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs">
+    <text>Włącz dziennik debugowania</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs_desc">
+    <text>Skrypt zapisuje szczegółowe komunikaty w konsoli. Zwykle pozostaw wyłączone; włącz podczas odtwarzania błędu.</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout">
+    <text>Opóźnienie przed usunięciem przedmiotów</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout_desc">
+    <text>Liczba sekund, które muszą upłynąć, zanim wszystkie przedmioty zostaną usunięte z kosza.\n \nPo opróżnieniu wszystkie przedmioty przepadną NA ZAWSZE.</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled">
+    <text>Włączanie usuwania przedmiotów</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled_desc">
+    <text>Włącza lub wyłącza usuwanie przedmiotów.</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin">
+    <text>Daj graczowi darmowy pojemnik</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin_desc">
+    <text>Daje jeden darmowy pojemnik i wyłącza opcję. Włącz ją ponownie, aby otrzymać kolejny.</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall">
+    <text>Odinstaluj ZRB</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall_desc">
+    <text>Usuwa wszystkie pojemniki z ekwipunku gracza.</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots">
+    <text>Dodawaj znacznik pojemnika na mapie</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots_desc">
+    <text>Dodaje unikalną ikonę po umieszczeniu pojemnika.</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled">
+    <text>Ostrzegaj o trwałym usunięciu przedmiotów</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled_desc">
+    <text>Wyświetla ostrzeżenie przy każdym umieszczeniu pojemnika. Wyłącz, aby używać zwykłego potwierdzenia.</text>
+  </string>
+</string_table>

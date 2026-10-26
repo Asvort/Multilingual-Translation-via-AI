@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_device_glowstick">
+    <text>Bâton lumineux (vert)</text>
+  </string>
+  <string id="st_device_glowstick_blue">
+    <text>Bâton lumineux (cyan)</text>
+  </string>
+  <string id="st_device_glowstick_blue_descr">
+    <text>Produit de la lumière par réaction chimique. Les stalkers utilisent largement ces sources lumineuses autonomes en cas d’urgence ou lorsqu’aucun autre éclairage n’est disponible. Autonomes, durables, ignifugées, étanches et adaptées au stockage de longue durée, elles conviennent à de nombreuses situations. \nCette variante émet une lumière cyan. Sa portée est bien plus faible que la moyenne, mais elle offre l’éclairage le plus puissant. Idéale sous terre ou, même en plein jour, pour éclairer les recoins difficiles à voir.\n \n%c[0,140,140,140]PROPRIÉTÉS :\n%c[0,153,255,255] • %c[0,140,140,140] objet technologique\n%c[0,153,255,255] • %c[0,140,140,140] durée de fonctionnement : 30 minutes réelles \n%c[0,153,255,255] • %c[0,140,140,140] Portée : 6 mètres</text>
+  </string>
+  <string id="st_device_glowstick_descr">
+    <text>Produit de la lumière par réaction chimique. Les stalkers utilisent largement ces sources lumineuses autonomes en cas d’urgence ou lorsqu’aucun autre éclairage n’est disponible. Autonomes, durables, ignifugées, étanches et adaptées au stockage de longue durée, elles conviennent à de nombreuses situations. \nCette variante émet une lumière verte à la portée et à l’éclairage équilibrés, adaptée à presque toutes les situations.\n \n%c[0,140,140,140]PROPRIÉTÉS :\n%c[0,153,255,255] • %c[0,140,140,140] objet technologique\n%c[0,153,255,255] • %c[0,140,140,140] durée de fonctionnement : 40 minutes réelles \n%c[0,153,255,255] • %c[0,140,140,140] Portée : 12 mètres</text>
+  </string>
+  <string id="st_device_glowstick_orange">
+    <text>Bâton lumineux (orange)</text>
+  </string>
+  <string id="st_device_glowstick_orange_descr">
+    <text>Produit de la lumière par réaction chimique. Les stalkers utilisent largement ces sources lumineuses autonomes en cas d’urgence ou lorsqu’aucun autre éclairage n’est disponible. Autonomes, durables, ignifugées, étanches et adaptées au stockage de longue durée, elles conviennent à de nombreuses situations. \nCette variante émet une lumière orange, presque aussi portée que la verte mais moins lumineuse, mieux adaptée aux yeux sensibles.\n \n%c[0,140,140,140]PROPRIÉTÉS :\n%c[0,153,255,255] • %c[0,140,140,140] objet technologique\n%c[0,153,255,255] • %c[0,140,140,140] durée de fonctionnement : 40 minutes réelles \n%c[0,153,255,255] • %c[0,140,140,140] Portée : 10 mètres</text>
+  </string>
+  <string id="st_device_glowstick_red">
+    <text>Bâton lumineux (rouge)</text>
+  </string>
+  <string id="st_device_glowstick_red_descr">
+    <text>Produit de la lumière par réaction chimique. Les stalkers utilisent largement ces sources lumineuses autonomes en cas d’urgence ou lorsqu’aucun autre éclairage n’est disponible. Autonomes, durables, ignifugées, étanches et adaptées au stockage de longue durée, elles conviennent à de nombreuses situations. \nCette variante émet une lumière rouge, porte bien plus loin mais éclaire moins ; elle est appréciée des soldats.\n \n%c[0,140,140,140]PROPRIÉTÉS :\n%c[0,153,255,255] • %c[0,140,140,140] objet technologique\n%c[0,153,255,255] • %c[0,140,140,140] durée de fonctionnement : 60 minutes réelles \n%c[0,153,255,255] • %c[0,140,140,140] Portée : 24 mètres</text>
+  </string>
+  <string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+    <text>Scintillement des lumières dans le Brûleur de cerveau et la Machine miracle</text>
+  </string>
+  <string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+    <text>Lorsque le Brûleur de cerveau et la Machine miracle sont actifs, les lampes et les torches clignotent, ce qui incite à emporter des bâtons lumineux.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_equip_next">
+    <text>Équiper le prochain bâton lumineux après le lancer</text>
+  </string>
+  <string id="ui_mcm_glowsticks_keybind">
+    <text>Touche de lancer</text>
+  </string>
+  <string id="ui_mcm_glowsticks_keybind_desc">
+    <text>Touche utilisée pour lancer des bâtons lumineux.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_loot_chance">
+    <text>Chance de trouver des bâtons lumineux sur les corps</text>
+  </string>
+  <string id="ui_mcm_glowsticks_loot_chance_desc">
+    <text>Probabilité de trouver des bâtons lumineux sur les corps.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_sort_worst">
+    <text>Utiliser d’abord les bâtons lumineux les plus usés</text>
+  </string>
+  <string id="ui_mcm_glowsticks_sort_worst_desc">
+    <text>Si cette option est activée, le personnage utilise d’abord les bâtons lumineux les plus usés et garde les autres pour plus tard.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_stash_chance">
+    <text>Chance de trouver des bâtons lumineux dans les caches</text>
+  </string>
+  <string id="ui_mcm_glowsticks_stash_chance_desc">
+    <text>Probabilité de trouver des bâtons lumineux dans les caches.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_force">
+    <text>Distance de lancer du bâton lumineux</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_key">
+    <text>Touche de lancer</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_key_desc">
+    <text>Touche à maintenir enfoncée pour lancer des bâtons lumineux.</text>
+  </string>
+  <string id="ui_mcm_menu_glowsticks">
+    <text>Bâtons lumineux</text>
+  </string>
+</string_table>

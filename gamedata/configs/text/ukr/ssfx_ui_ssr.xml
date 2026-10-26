@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ssr">
+    <text>SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm">
+    <text>Розмиття</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm_desc">
+    <text>Визначає ступінь розмиття відображень.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm">
+    <text>Загальна інтенсивність</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm_desc">
+    <text>Загальна інтенсивність відбиттів.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm">
+    <text>Якість (кроки)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm_desc">
+    <text>[ ПОТРІБЕН ПЕРЕЗАПУСК ] Кількість кроків для відображення відбиттів. Параметр може суттєво вплинути на продуктивність. [ 8, 16, 24, 32, 48, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm">
+    <text>Масштаб рендерингу</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm_desc">
+    <text>Масштаб рендерингу SSR. Нижчі значення погіршують якість зображення, але підвищують продуктивність. Якщо зменшуєте масштаб, можна збільшити розмиття, щоб приховати втрату якості.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm">
+    <text>Інтенсивність неба</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm_desc">
+    <text>Інтенсивність відбиття небесної сфери.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm">
+    <text>Часове накопичення</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm_desc">
+    <text>Визначає, наскільки попередні кадри використовуються для стабілізації відбиттів. Це зменшує шум і покращує SSR, але високі значення можуть створювати шлейфи.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_title">
+    <text>Налаштування екранних відображень</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm">
+    <text>Використовувати шум</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm_desc">
+    <text>Вмикає або вимикає шум для покращення реконструкції SSR. Рекомендовано за високих значень розмиття.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm">
+    <text>Максимальна інтенсивність відбиттів зброї</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm_desc">
+    <text>Максимальна інтенсивність відбиттів на зброї.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm">
+    <text>Інтенсивність відбиттів зброї</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm_desc">
+    <text>Інтенсивність відбиттів на зброї.</text>
+  </string>
+</string_table>

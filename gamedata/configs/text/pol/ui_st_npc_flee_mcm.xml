@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_npc_flee">
+    <text>Ucieczka NPC</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cancel_on_hit">
+    <text>Anuluj ucieczkę, gdy NPC zostanie trafiony</text>
+  </string>
+  <string id="ui_mcm_npc_flee_companion_pwr">
+    <text>Mnożnik siły towarzyszy</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time">
+    <text>Czas osłony oddziału (0 wyłącza)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time_desc">
+    <text>Najdalszy NPC osłoni odwrót oddziału.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_pwr_mult">
+    <text>Mnożnik siły wrogów</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_radius">
+    <text>Promień wrogów</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_upd_radius">
+    <text>Promień wrogów 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_dbg">
+    <text>Debugowanie (wypisuj w konsoli)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time">
+    <text>Czas ochrony przed ucieczką (s)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time_desc">
+    <text>Gdy NPC przestanie uciekać, przez ten czas nie będzie mógł uciec ponownie.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist">
+    <text>Minimalna odległość ucieczki</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+    <text>Cel ucieczki zostanie wybrany tylko wtedy, gdy jest dalej niż ta wartość.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_pwr_mult">
+    <text>Mnożnik siły sojuszników</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_radius">
+    <text>Promień sojuszników</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_upd_radius">
+    <text>Promień sojuszników 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_after">
+    <text>Promień 2 (podczas ucieczki zmniejsz promień, aby ją przerwać, gdy w pobliżu są słabsi wrogowie)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_before">
+    <text>Promień (przed ucieczką siła wrogów i sojuszników jest obliczana tylko w tym promieniu)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_others">
+    <text>Różne</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_power">
+    <text>Siły (ucieczka, gdy "enemies_power &gt; friends_power*threshold_mult")</text>
+  </string>
+  <string id="ui_mcm_npc_flee_hits_to_cancel">
+    <text>Liczba trafień potrzebna do przerwania ucieczki</text>
+  </string>
+  <string id="ui_mcm_npc_flee_smoke_enabled">
+    <text>Granaty dymne</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time">
+    <text>Pierwsze sekundy ucieczki, których nie można przerwać</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time_desc">
+    <text>Pierwszych sekund ucieczki nie można przerwać przez słabego wroga ani trafienia.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_threshold_mult">
+    <text>Mnożnik progu</text>
+  </string>
+  <string id="ui_mcm_npc_flee_title">
+    <text>Ucieczka NPC</text>
+  </string>
+</string_table>

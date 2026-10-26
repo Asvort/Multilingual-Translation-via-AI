@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ao">
+    <text>Umgebungsverdeckung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_blur_mcm">
+    <text>Unschärfe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_blur_mcm_desc">
+    <text>Grundstärke der Unschärfe zum Glätten der Umgebungsverdeckung.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_distance_mcm">
+    <text>Maximale Entfernung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_distance_mcm_desc">
+    <text>Maximale Darstellungsentfernung der Umgebungsverdeckung.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_flora_int_mcm">
+    <text>Flora-Intensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_flora_int_mcm_desc">
+    <text>Stärke für Flora (Gras, Bäume usw.) als Prozentsatz der globalen Intensität. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_global_int_mcm">
+    <text>Globale Intensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_global_int_mcm_desc">
+    <text>Gesamtstärke der Umgebungsverdeckung. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_hud_int_mcm">
+    <text>HUD-Intensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_hud_int_mcm_desc">
+    <text>Stärke für HUD-Elemente (Waffen, Arme usw.) als Prozentsatz der globalen Intensität. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_max_occ_mcm">
+    <text>Maximale Verdeckung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_max_occ_mcm_desc">
+    <text>Maximale mögliche Verdeckung eines Pixels. [ 0.0 = vollständig schwarz ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_quality_mcm">
+    <text>Qualität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_quality_mcm_desc">
+    <text>[ NEUSTART ERFORDERLICH ] Anzahl der Abtastungen für die Umgebungsverdeckung. Sehr hoch kann die Leistung deutlich beeinträchtigen. [ 2, 4, 8 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_radius_mcm">
+    <text>Allgemeiner Radius</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_radius_mcm_desc">
+    <text>Maximale Entfernung zur Prüfung der Pixelverdeckung. Bei einer Erhöhung muss möglicherweise die Effektstärke angepasst werden.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_res_mcm">
+    <text>Auflösung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_res_mcm_desc">
+    <text>Auflösung für die Darstellung der Umgebungsverdeckung.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_title">
+    <text>Einstellungen der Umgebungsverdeckung</text>
+  </string>
+</string_table>

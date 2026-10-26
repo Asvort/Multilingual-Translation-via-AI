@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="exten_sion_pda">
+    <text>An expensive, water- and impact-resistant PDA with an integrated music player and chat.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] plays music and accesses the stalker network\n</text>
+  </string>
+  <string id="extension_pda">
+    <text>PDA with Music Player and Chat</text>
+  </string>
+  <string id="st_actor_rads">
+    <text>Accumulated Dose</text>
+  </string>
+  <string id="st_batteries">
+    <text>Battery Set</text>
+  </string>
+  <string id="st_batteries_ccell">
+    <text>Military Battery Pack</text>
+  </string>
+  <string id="st_batteries_ccell_descr">
+    <text>A set of fully charged batteries used by military units. They are very valuable and in high demand because batteries are in constant short supply in the Zone. Used by all factions and stalkers of every rank, from rookies to masters. Sold by military officers trying to make extra money in the Zone.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n</text>
+  </string>
+  <string id="st_batteries_dead">
+    <text>Old Batteries</text>
+  </string>
+  <string id="st_batteries_dead_descr">
+    <text>Only one in ten batteries found in the Zone will hold a charge for any length of time. Stalkers seem to have discarded them after use, since chargers for these batteries are hard to find. Their outer casings are covered in dirt and corrosion, another sign that they are “dead.” Still, as with everything in the Zone, they can be put to use—for example, by squeezing a little more life out of them for frequent recharging of a universal charger.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>Someone has probably already used this set of batteries, as only half the charge remains. It is intended for flashlights, PDAs, night-vision devices, and other electronic equipment. Remember to replace the batteries in time.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n</text>
+  </string>
+  <string id="st_broken_pda">
+    <text>Broken PDA</text>
+  </string>
+  <string id="st_broken_pda_descr">
+    <text>This PDA is badly damaged: half the display is shattered, and the GPS module does not work properly. The internals are mostly intact.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n</text>
+  </string>
+  <string id="st_detector1">
+    <text>Echo Detector (T1)</text>
+  </string>
+  <string id="st_detector1_descr">
+    <text>An outdated anomaly activity detector. It beeps when anomalous particles enter its special chamber as you approach anomalies. It can also detect artifacts and measure the distance to the nearest one; the beep frequency indicates the distance. Raise the antenna cover on the front panel to activate artifact-search mode. Its simple design means it can find only the most common artifacts.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_detector2">
+    <text>Bear Detector (T2)</text>
+  </string>
+  <string id="st_detector2_descr">
+    <text>A previous-generation anomaly detector. It has an anomaly locator and an LED display that points toward artifacts. It can both detect artifacts and estimate their distance. Raise the antenna cover on the front of the device to activate artifact-search mode. Unfortunately, its somewhat outdated list of detectable artifacts is hardwired into the device.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_detector3">
+    <text>Veles Detector (T3)</text>
+  </string>
+  <string id="st_detector3_descr">
+    <text>A new-generation detector-scanner used by scientists. Three advanced sensor chambers display an artifact's position relative to the detector on a special screen. It can detect radiation and the presence of anomalies. Raise the indicator panel on the front of the device to activate artifact-search mode; in this mode it can find every artifact known to science.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] high power consumption\n</text>
+  </string>
+  <string id="st_detector4">
+    <text>Svarog Detector Prototype (T4)</text>
+  </string>
+  <string id="st_detector4_descr">
+    <text>A prototype anomaly-zone scanner with expanded functionality. A program has been added to recognize static anomaly zones stored in its database, while artifact detection remains available. The positions of anomaly zones and artifacts relative to the detector appear on a special screen. The artifact-search program, activated by raising the indicator panel on the front, has been improved; in theory, this allows the device to detect anomaly formations not yet known to science.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] high power consumption\n</text>
+  </string>
+  <string id="st_detector8">
+    <text>Anomalous Activity Measuring Device</text>
+  </string>
+  <string id="st_detector8_descr">
+    <text>The first prototype was developed in 2008 at the mobile research laboratory on Yantar, under Professor Sakharov. After successful field tests, many more copies were produced. The device can process and record measurements and data from anomalous fields. Its improved sensors and frame ensure operation even in the harshest conditions; high sensitivity during capture and tracking makes it useful in many different environments.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_detector9">
+    <text>RF Receiver</text>
+  </string>
+  <string id="st_detector9_descr">
+    <text>A small device with a highly sensitive radio-frequency module, used for basic communications. It is fairly common among the military despite its obsolete technology. It can receive signals within a range of up to 200 meters and process radio waves from 30 to 300 MHz.\n \n %c[0,56,166,209]User Guide%c[ui_gray_1]:\nTake the device in your hand to use it.\nWith your right hand free, change frequencies as follows:\n• LMB raises the frequency.\n• RMB lowers the frequency.\n• Hold L-Shift to change the frequency in 10 Hz steps (+/-).\n• Hold L-Alt to change the frequency in 50 Hz steps (+/-).\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_device_flashlight">
+    <text>Handheld Flashlight</text>
+  </string>
+  <string id="st_device_flashlight_descr">
+    <text>An ordinary handheld flashlight, well used judging by the wear. An important and vital tool for wandering through the Zone. Unfortunately, most weapons cannot be used with this flashlight because only one hand remains free.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>A standard headlamp that helps you find your way in the dark. In the hands of a careless stalker, it can attract unwanted attention from people and mutants alike.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>Headlamp (T1)</text>
+  </string>
+  <string id="st_device_torch_nv_1_descr">
+    <text>A standard headlamp fitted with a 1PN93-1 night-vision device. It provides Generation 2+ imaging, which is especially useful at night and in low-light conditions.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_purple] • %c[ui_gray_2] night-vision device: %c[ui_gray_1]1PN93-1\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_device_torch_nv_1_name">
+    <text>Headlamp with 1PN93-1 (T2)</text>
+  </string>
+  <string id="st_device_torch_nv_2_descr">
+    <text>A head-mounted lamp, useful when night catches a stalker on the road, though it may attract unwanted attention. It has an IIT Generation 2+ image intensifier and is designed for night operations in natural light, as well as total darkness with the IR illuminator switched on.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_purple] • %c[ui_gray_2] night-vision device: %c[ui_gray_1]PN21KL\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_device_torch_nv_2_name">
+    <text>Headlamp with PN21KL (T3)</text>
+  </string>
+  <string id="st_device_torch_nv_3_descr">
+    <text>This headlamp and night-vision set features upgraded drive, lenses, and software that remove video noise and greatly improve the PN21K's capabilities for a sharper image. In effect, it functions as a full Generation 3 IIT night-vision device.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_purple] • %c[ui_gray_2] night-vision device: %c[ui_gray_1]“Oracle”\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_device_torch_nv_3_name">
+    <text>Headlamp with Oracle NVG (T4)</text>
+  </string>
+  <string id="st_dosimeter_mode">
+    <text>Dosimeter Mode</text>
+  </string>
+  <string id="st_electric power">
+    <text>Universal Battery Charger (UBC)</text>
+  </string>
+  <string id="st_electric power_descr">
+    <text>A small portable power unit from the Cold War era, about the size of a compact radio. It accepts almost any type of rechargeable or disposable battery. It drains batteries completely and transfers their power to electronic devices through the thin cables included in the set. Nearly any equipment can be connected, regardless of its complexity or age. Devices like this help stalkers keep their electronics working.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] portable power source\n %c[d_blue] • %c[ui_gray_2] supports most modern devices\n %c[d_blue] • %c[ui_gray_2] supports all battery types\n %c[d_blue] • %c[ui_gray_2] capacity: %c[ui_gray_1]3 Ah (amp-hours)\n</text>
+  </string>
+  <string id="st_environment_rads">
+    <text>Background Radiation</text>
+  </string>
+  <string id="st_geiger_dead">
+    <text>Dosimeter</text>
+  </string>
+  <string id="st_geiger_dead_descr">
+    <text>A dosimeter that measures ionizing (radioactive) radiation. It detects alpha, beta, and gamma radiation.\nInvented in 1908, the Geiger counter remains a popular technical item and a component of many measuring instruments used in healthcare, physics, industry, geology, and other fields. Such devices are made from simple electronic circuits.\n \n %c[0,56,166,209]Features%c[ui_gray_1]: \n• Displays background radiation and accumulated dose in real time when held in hand; switch modes with “SHIFT+8”. \n• Displays readings when the default hotkey “8” is pressed while the counter is in the inventory”.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device \n %c[d_orange] • %c[ui_gray_2] measures radioactive contamination\n %c[d_blue] • %c[ui_gray_2] medium power consumption\n</text>
+  </string>
+  <string id="st_gps_tracker">
+    <text>Military GPS Module</text>
+  </string>
+  <string id="st_gps_tracker_descr">
+    <text>A next-generation GPS navigation prototype. Only a few units have been made and distributed among senior military officials, though a couple have already fallen into other hands.\nIt works reliably even in the harshest environments. Unlike ordinary GPS modules, this prototype uses key sets to gain direct access to network-connected devices and retrieve their data; it can also transmit the coordinates of other GPS modules within a 300-meter radius. The drawback is its very high power consumption. It switches off automatically after 20 seconds of continuous scanning.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] very high power consumption\n</text>
+  </string>
+  <string id="st_musicplayer">
+    <text>Radio</text>
+  </string>
+  <string id="st_musicplayer_desc">
+    <text>A modified radio designed to find other stations and filter out as much interference as possible.\n \n %c[ui_gray_2]FEATURES:\n \n %c[d_cyan] • %c[ui_gray_2] technological device\n</text>
+  </string>
+  <string id="st_pda_1_descr">
+    <text>A slightly outdated PDA with basic functions that many stalkers still use. It is indispensable for exchanging news every day. Its built-in GPS module shows the user's time and location and provides other geographic data.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] low power consumption\n</text>
+  </string>
+  <string id="st_pda_1_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_2_descr">
+    <text>One of the latest PDA models, with expanded functions. It contains digital journals and detailed maps of areas and anomaly sites. It is indispensable for exchanging news every day. Its built-in GPS module shows the user's time and location and provides other geographic data. This model can also detect and transmit the coordinates of other PDAs within 300 meters. Many stalkers want one.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] low power consumption\n %c[d_purple] • %c[ui_gray_2] displays the location of the player's faction squads\n</text>
+  </string>
+  <string id="st_pda_2_name">
+    <text>PDA (Model 2.0)</text>
+  </string>
+  <string id="st_pda_3_descr">
+    <text>Possibly the most advanced PDA model available today. It uses a greatly improved algorithm to detect and transmit data from other PDAs within 300 meters. Unlike ordinary GPS modules, it relies on key sets to gain direct access to devices connected to the network and retrieve their data. These capabilities make this PDA highly sought after by stalkers.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] low power consumption\n %c[d_purple] • %c[ui_gray_2] displays the location of neutral squads\n</text>
+  </string>
+  <string id="st_pda_3_name">
+    <text>PDA (Model 3.1)</text>
+  </string>
+  <string id="st_pda_descr">
+    <text>An ordinary stalker PDA carried by every Zone wanderer. It contains digital journals and detailed maps of areas and anomaly sites. Find the right trader and you can make good money selling recovered PDAs.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] low power consumption</text>
+  </string>
+  <string id="st_pda_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_weather_radar">
+    <text>Doppler Weather Radar Kit</text>
+  </string>
+  <string id="st_weather_radar_descr">
+    <text>A set of advanced meteorological equipment that includes a Doppler-effect weather radar. This kit is a true marvel of meteorology: using a magnetron connected to a parabolic antenna by a waveguide, the radar sends directed microwave pulses lasting about a microsecond to collect weather data.\nTwo researchers discovered that using a Meat Chunk artifact near the antenna can boost the pulses so much that, upon reaching the upper atmosphere, they alter ions and, in turn, the properties of the atmosphere as a whole.\n \n %c[ui_gray_3]FEATURES:\n %c[d_blue] • %c[ui_gray_2] technological device\n %c[d_blue] • %c[ui_gray_2] meteorological equipment\n %c[d_blue] • %c[ui_gray_2] powered by a Meat Chunk\n</text>
+  </string>
+</string_table>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_already_repair">
+    <text>--- Заміна деталей завершена. Щоб підвищити якість зброї, її стан має становити 100%.</text>
+  </string>
+  <string id="st_awr_back">
+    <text>Назад</text>
+  </string>
+  <string id="st_awr_ctrl">
+    <text>%sЩоб випадково не розібрати предмети,\nпроцедуру можна виконати, лише утримуючи клавішу ALT%s</text>
+  </string>
+  <string id="st_awr_dead_mechanic">
+    <text>%sМеханіка %s вбито: %s.%s \nТепер дозвіл на користування його лещатами не потрібен.</text>
+  </string>
+  <string id="st_awr_dialog_1">
+    <text>Можна скористатися твоїми лещатами? Мені треба дещо полагодити.</text>
+  </string>
+  <string id="st_awr_dialog_2">
+    <text>Гаразд... Можеш скористатися ними за тисячу рублів.</text>
+  </string>
+  <string id="st_awr_dialog_3">
+    <text>Тримай.</text>
+  </string>
+  <string id="st_awr_dialog_4">
+    <text>Чудово. Я поки трохи відпочину. А ти поквапся, мені ще треба закінчити роботу на сьогодні.</text>
+  </string>
+  <string id="st_awr_dialog_5">
+    <text>У мене стільки немає.</text>
+  </string>
+  <string id="st_awr_dialog_6">
+    <text>Зрозумів.</text>
+  </string>
+  <string id="st_awr_dialog_7">
+    <text>Після всього, що ти для мене зробив? Звісно! Але поквапся. Мені ще треба закінчити роботу на сьогодні.</text>
+  </string>
+  <string id="st_awr_exit">
+    <text>Вихід</text>
+  </string>
+  <string id="st_awr_help_0">
+    <text>Інструкція</text>
+  </string>
+  <string id="st_awr_help_1">
+    <text>Процедура ремонту залежить від загальної якості зброї (нова, зношена, іржава) та її поточного стану. Крім того, значення 0–65, 0–75 і 0–85 визначають стан зброї для кожного типу якості: 0–65% для іржавої, 0–75% для зношеної та 0–85% для нової зброї.</text>
+  </string>
+  <string id="st_awr_help_2">
+    <text>Процедура ремонту й поліпшення (зброя зі станом 0–65/0–75/0–85):</text>
+  </string>
+  <string id="st_awr_help_3">
+    <text>1. Вибери ремонтний набір, щоб замінити ствол на інший того самого калібру, якщо стан зброї становить 0–20/0–25/0–30, або скористайся набором поліпшення зброї, якщо її стан становить 20–65/25–75/30–85; для цього двічі клацни назву набору у списку.\n2. Клацни деталь у списку один раз. Під час ремонту зброї з низьким станом деталі замінюються у визначеній послідовності:\n \nСтан 0–20/0–25/0–30%: заміна ствола\nСтан 20–35/25–45/30–55%: заміна спускового механізму (ударно-спускового механізму)\nСтан 35–45/45–60/55–70%: заміна головки затвора\nСтан 45–55/60–70/70–80%: заміна газової трубки\nСтан 55–65/70–75/80–85%: заміна затворної рами\n \n3. Натисни зображення деталі, яку зараз замінюють (доступна для заміни деталь підсвічується зеленим). Спроба замінити одну деталь витрачає один заряд із поясного набору.\n4. Якщо заміна успішна, процедура повторюється для всіх деталей у вказаному порядку.\n5. Якщо деталь пошкоджено, спробуй ще раз, якщо маєш ремонтний набір і запасні деталі.\n6. Усі замінені деталі зберігаються, доки стан зброї не знизиться. Після цього для підвищення якості деталі доведеться замінити знову.\n7. Після заміни всіх п’яти деталей якість зброї зміниться відповідно до них. Якщо хоча б одна із замінених деталей була зношеною, зброя стане зношеною, навіть якщо решту деталей замінено на нові.</text>
+  </string>
+  <string id="st_awr_help_4">
+    <text>Послідовність заміни деталей визначено так, щоб вони відповідали стану зброї: у пам’яті гри зберігаються всі деталі кожної зброї, які вже частково ремонтували в лещатах. Завдяки цьому можна продовжити ремонт із того самого місця, не замінюючи деталі повторно, якщо після ремонту стан зброї не знизився.</text>
+  </string>
+  <string id="st_awr_help_5">
+    <text>Поліпшення зброї можливе лише за її стану 95–100%, якщо вона іржава або зношена:</text>
+  </string>
+  <string id="st_awr_help_6">
+    <text>1. Двічі клацни назву ремонтного набору для заміни ствола або набору поліпшення зброї у списку. Під час поліпшення порядок заміни недоступний.\n2. Клацни у списку деталь, що відповідає ремонтному набору. Для поліпшення можна використовувати лише справні деталі.\n3. Натисни зображення деталі, яку замінюють.\n4. Якщо заміна успішна, так само заміни всі інші деталі зброї.\n5. Якщо деталь пошкоджено, спробуй ще раз, якщо маєш ремонтний набір і запасні деталі.\n6. Усі замінені деталі залишаються, доки стан зброї не знизиться. Після цього для поліпшення якості деталі доведеться замінювати знову.\n7. Коли всі п’ять деталей замінено на нові, якість зброї зміниться на «нова».</text>
+  </string>
+  <string id="st_awr_sell_dialog_1">
+    <text>У мене є запчастини. Не знаєш, кому вони могли б знадобитися?</text>
+  </string>
+  <string id="st_awr_sell_dialog_2">
+    <text>Такі механіки, як я, зберігають усілякий мотлох. Можливо, я куплю те, що в тебе є. Звісно, за відповідною ціною.</text>
+  </string>
+  <string id="st_awr_sell_dialog_3">
+    <text>І що ти можеш запропонувати?</text>
+  </string>
+  <string id="st_awr_sell_dialog_4">
+    <text>За кожну справну деталь дам 300 RU за нову й 150 за зношену. За решту мотлоху — 250 за нові деталі й 125 за зношені. Гм, за іржаві згодяться й 60. Вони не надто корисні.</text>
+  </string>
+  <string id="st_awr_sell_dialog_5">
+    <text>Гм... Пропозиція так собі. Але ці деталі мені все одно ні до чого. На, ось гроші.</text>
+  </string>
+  <string id="st_awr_sell_dialog_6">
+    <text>Для мене це надто дешево. Я ще подумаю.</text>
+  </string>
+  <string id="st_awr_sell_dialog_7">
+    <text>Було приємно мати з тобою справу. Якщо знайдеш ще запчастини, знаєш, де мене шукати.</text>
+  </string>
+  <string id="st_awr_sell_dialog_8">
+    <text>Гаразд, матиму на увазі. Дякую.</text>
+  </string>
+  <string id="st_awr_timer_msg_off">
+    <text>%sЧас вичерпано%s</text>
+  </string>
+  <string id="st_awr_timer_msg_on">
+    <text>%sУ тебе є п’ять хвилин%s</text>
+  </string>
+  <string id="st_bar_no_need_new">
+    <text>--- Ствол цієї зброї не потрібно замінювати.</text>
+  </string>
+  <string id="st_bar_no_need_old">
+    <text>--- Ствол цієї зброї не потрібно замінювати. Щоб підвищити її якість, стан має становити 100%.</text>
+  </string>
+  <string id="st_by_unknown">
+    <text>невідомо</text>
+  </string>
+  <string id="st_cond_grow">
+    <text>Стан: %i%%</text>
+  </string>
+  <string id="st_current_condition">
+    <text>Поточний стан: </text>
+  </string>
+  <string id="st_detail_fail">
+    <text>--- Деталь [%s] пошкодилася під час заміни</text>
+  </string>
+  <string id="st_detail_success">
+    <text>+++ Деталь [%s] успішно встановлено</text>
+  </string>
+  <string id="st_dis_count">
+    <text>шт.</text>
+  </string>
+  <string id="st_dis_news">
+    <text>[AWR]</text>
+  </string>
+  <string id="st_dis_text_1">
+    <text>%s%s %s%s розібрано</text>
+  </string>
+  <string id="st_dis_text_10">
+    <text>%sТи розібрав %s%s, але не отримав жодної деталі.</text>
+  </string>
+  <string id="st_dis_text_11">
+    <text>%s%s %s %s%s</text>
+  </string>
+  <string id="st_dis_text_2">
+    <text>%sТи спробував розібрати %s %s, але не отримав деталей.</text>
+  </string>
+  <string id="st_dis_text_3">
+    <text>%sБракує потрібних інструментів %s %s</text>
+  </string>
+  <string id="st_dis_text_4">
+    <text>\nВилучено набоїв: %i типу PC %s\nОтримано предметів: </text>
+  </string>
+  <string id="st_dis_text_5">
+    <text>%sТобі вдалося відновити деталь %s\n%s</text>
+  </string>
+  <string id="st_dis_text_6">
+    <text>%sНе вдалося відновити деталь %s</text>
+  </string>
+  <string id="st_dis_text_7">
+    <text>%s%s %s %s%s</text>
+  </string>
+  <string id="st_dis_text_8">
+    <text>%s%s %s %s%s розрізано</text>
+  </string>
+  <string id="st_dis_text_9">
+    <text>\nОтримано деталей: </text>
+  </string>
+  <string id="st_ending_1">
+    <text>и</text>
+  </string>
+  <string id="st_ending_2">
+    <text>а</text>
+  </string>
+  <string id="st_ending_3">
+    <text>о</text>
+  </string>
+  <string id="st_handsfree">
+    <text>Твої руки зайняті</text>
+  </string>
+  <string id="st_mech_tiski">
+    <text>лещата механіка\n</text>
+  </string>
+  <string id="st_mech_tiski_w">
+    <text>Лещата механіка з %s</text>
+  </string>
+  <string id="st_no_barrel">
+    <text>--- Деталі не можна замінити, доки не замінено ствол</text>
+  </string>
+  <string id="st_no_barrel_to_kit">
+    <text>--- Немає сумісних стволів калібру [%s]</text>
+  </string>
+  <string id="st_no_details">
+    <text>--- Немає доступних деталей для [%s]</text>
+  </string>
+  <string id="st_no_weap">
+    <text>Щоб скористатися лещатами, дістань зброю</text>
+  </string>
+  <string id="st_not_in_list">
+    <text>Тобі бракує знань, щоб ремонтувати цю зброю</text>
+  </string>
+  <string id="st_part_no_need_new">
+    <text>--- Деталі цієї зброї не потрібно замінювати</text>
+  </string>
+  <string id="st_part_no_need_old">
+    <text>--- Деталі цієї зброї не потрібно замінювати. Щоб підвищити її якість, стан має становити 100%.</text>
+  </string>
+  <string id="st_quality_good">
+    <text>++++ Усі деталі замінено на справні. Тепер зброя у відмінному стані.</text>
+  </string>
+  <string id="st_quality_wgood">
+    <text>++++ Усі деталі замінено. Якість зброї не змінилася.</text>
+  </string>
+  <string id="st_quality_worn">
+    <text>++++ Одну або кілька деталей замінено на зношені. Якість зброї змінилася на «зношена».</text>
+  </string>
+  <string id="st_sel_detail">
+    <text>--- Натисни зображення потрібної деталі, щоб почати заміну</text>
+  </string>
+  <string id="st_selected_good">
+    <text>--- Вибрано%s: [%s] Шанс успішного ремонту: %i%%</text>
+  </string>
+  <string id="st_selected_r_kit">
+    <text>--- Вибрано: [%s]</text>
+  </string>
+  <string id="st_selected_worn">
+    <text>--- Вибрано%s: [%s] Шанс успішного ремонту: %i%% Для ремонту віднови деталь</text>
+  </string>
+  <string id="st_stolen_1">
+    <text>Поки тебе не було, зі зброї викрали спусковий механізм. Її стан погіршився.</text>
+  </string>
+  <string id="st_stolen_2">
+    <text>Поки тебе не було, зі зброї викрали головку затвора. Її стан погіршився.</text>
+  </string>
+  <string id="st_stolen_3">
+    <text>Поки тебе не було, зі зброї викрали затворну раму. Її стан погіршився.</text>
+  </string>
+  <string id="st_text_mode">
+    <text>[РЕЖИМ]:%s%s</text>
+  </string>
+  <string id="st_text_mode_1">
+    <text>ВІДНОВЛЕННЯ</text>
+  </string>
+  <string id="st_text_mode_2">
+    <text>РЕМОНТ ІЗ МОЖЛИВІСТЮ ПОЛІПШЕННЯ</text>
+  </string>
+  <string id="st_text_mode_3">
+    <text>НЕДОСТУПНО</text>
+  </string>
+  <string id="st_text_status">
+    <text>[СТАН]:%s%s%%</text>
+  </string>
+  <string id="st_text_warning_mode_1_1">
+    <text>[Увага]: У цьому режимі можна поліпшувати лише іржаву та зношену зброю</text>
+  </string>
+  <string id="st_text_warning_mode_1_3">
+    <text>%sПід час поліпшення можна використовувати лише справні деталі</text>
+  </string>
+  <string id="st_text_warning_mode_1_4">
+    <text>%sПісля поліпшення стан зброї становитиме %s%%, а її якість зміниться на нову</text>
+  </string>
+  <string id="st_text_warning_mode_2_1">
+    <text>[Увага]: У цьому режимі можна ремонтувати й поліпшувати зброю</text>
+  </string>
+  <string id="st_text_warning_mode_2_3">
+    <text>%sЯкість зброї відповідатиме заміненій деталі найнижчої якості</text>
+  </string>
+  <string id="st_text_warning_mode_2_4">
+    <text>%sПісля ремонту без поліпшення стан зброї становитиме %i%%</text>
+  </string>
+  <string id="st_text_warning_mode_2_5">
+    <text>%sПісля ремонту з поліпшенням: %i%% для зношеної зброї та %i%% для нової</text>
+  </string>
+  <string id="st_text_warning_mode_3_1">
+    <text>[УВАГА]: Якість зброї вже максимальна. Подальше відновлення неможливе.</text>
+  </string>
+  <string id="st_text_warning_mode_3_2">
+    <text>[УВАГА]: Зброю не можна ремонтувати: її стан уже максимальний для цього рівня якості.</text>
+  </string>
+  <string id="st_text_warning_mode_3_3">
+    <text>%sПоліпшення неможливе, доки стан зброї не сягне 100%%</text>
+  </string>
+  <string id="st_text_warning_mode_help">
+    <text>Щоб відкрити довідку, натисни F1</text>
+  </string>
+  <string id="st_text_wpn">
+    <text>[ЗБРОЯ]:%s%s</text>
+  </string>
+  <string id="st_unload">
+    <text>Перед обслуговуванням розряди зброю та зніми з неї всі обвіси</text>
+  </string>
+</string_table>

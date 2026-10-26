@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_liz_outfit_animations_allow_movement">
+    <text>Permitir moverse durante la animación</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_always_short">
+    <text>Usar siempre la animación corta al equipar</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_backpack_equip">
+    <text>Activar animación al poner/quitar la mochila</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_outfit_equip">
+    <text>Activar animación al equipar el traje</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_patches">
+    <text>Activar animación al quitar/poner parches</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_patches_inventory">
+    <text>Activar animación de parches en trajes no equipados</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_keybind">
+    <text>Reproducir animación de inspección del traje</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_keybind_desc">
+    <text>Puedes configurar esta tecla para que requiera modificadores adicionales y así evitar conflictos.</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory">
+    <text>Activar memoria de trajes</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory_desc">
+    <text>Si la memoria de trajes está desactivada, la animación completa de inspección se reproducirá cada vez que te equipes una armadura.\nSi está activada, la animación larga solo se reproducirá la primera vez que te pongas un tipo de armadura desconocido; después se reproducirá la versión corta.</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory_size">
+    <text>Tamaño de la memoria de trajes</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory_size_desc">
+    <text>Número de trajes recientes que recordará el personaje. Por ejemplo, con valor 3 recordará los últimos tres y reproducirá la animación corta al volver a equiparlos.\nLa armadura nueva se añade a la lista; si está llena, se elimina la más antigua.\nCon valor -1 se recordará toda la armadura equipada y la animación completa solo se reproducirá la primera vez que se use cada una.</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_update_mcm">
+    <text>Tu versión de MCM está obsoleta. Actualízala.</text>
+  </string>
+  <string id="ui_mcm_menu_liz_outfit_animations">
+    <text>Animaciones de trajes</text>
+  </string>
+</string_table>

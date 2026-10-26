@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_visbody_no_model_msg">
+    <text>VISIBLE BODY: UYARI: Model bulunamadı: </text>
+  </string>
+  <string id="st_visbody_no_model_msg_2">
+    <text>VISIBLE BODY: Son yüklemede olmadıysa kıyafetini yeniden giy ve kaydet.</text>
+  </string>
+  <string id="st_visbody_no_sec_msg">
+    <text>VISIBLE BODY: UYARI: Outfit-Body yapılandırma bölümü bulunamadı: </text>
+  </string>
+  <string id="ui_mcm_menu_swm_legs">
+    <text>SWM Visible Body</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled">
+    <text>Gövde gösterimini kapat (güvenli kaldırma; açıklamaya bak)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled_desc">
+    <text>Bu seçenek eklentiyi güvenle kaldırmanızı sağlar.\n1) Seçeneği etkinleştirin.\n2) Gövde modelinin kaybolduğunu doğrulayın.\n3) Oyunu kaydedip çıkın ve eklentiyi devre dışı bırakın.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood">
+    <text>(Deneysel) Gövdedeki kan izlerini aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood_desc">
+    <text>Güçlü fiziksel darbeler gövdede kan izi bırakabilir. Motor kısıtları nedeniyle izler seyrek veya kısa ömürlü olabilir; özelleştirme tamamlanmadı.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_debug_warnings">
+    <text>Hata ayıklama uyarılarını aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt">
+    <text>(Deneysel) Gövdedeki kir izlerini aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt_desc">
+    <text>Kirli zeminde veya suda yürümek gövdede kir izi bırakabilir. Motor kısıtları nedeniyle izler seyrek veya kısa süreli olabilir; özelleştirme tamamlanmadı.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims">
+    <text>Rastgele boşta animasyonları aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims_desc">
+    <text>Karakter hareketsiz dururken kısa aralarla boşta animasyonları oynatılır. Yalnızca aşağı bakarken devreye girer ve hafif bir hareket sesi eşlik eder.\nNotlar:\n1) Savaş/sakin durumları seçeneği açıkken çalışması amaçlanmıştır ve bu seçenek açıkken daha iyi görünür.\n2) Ara süresindeki değişikliklerin etkili olması biraz zaman alabilir.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+    <text>Alçak çömelmede bedeni gizle</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_max_cooldown">
+    <text>Boşta animasyonları arasındaki en uzun süre</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_min_cooldown">
+    <text>Boşta animasyonları arasındaki en kısa süre (sn)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset">
+    <text>Gövde konumu (ekran merkezine yakın/uzak)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_noncombat">
+    <text>Sakin durumda gövde konumu (yakın/uzak)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_side">
+    <text>Gövde konumu (sol/sağ)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_title">
+    <text>SWM Visible Body. Shoker ve katkıları tarafından Shoker Weapon Mod (CoP)’den uyarlandı.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+    <text>Dönerken adım seslerini aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo">
+    <text>Dönerken dış iskelet adımlarını aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo_desc">
+    <text>Normal adımlara dış iskelet servo seslerini ekler.\nExo Servo Sounds eklentisi gerekir.\nSes düzeyi oradan ayarlanır.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_turn_step_sound_volume">
+    <text>Adım ses seviyesi</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state">
+    <text>Savaş ve sakin durumlarını aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state_desc">
+    <text>Açıkken karakter savaş durumunda değilse bazı vücut animasyonları yenileriyle değiştirilir (silah tutuyor, silahı indirmemiş veya çatışmada).\nKapalıyken yalnızca varsayılan animasyonlar oynatılır.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_hd_models">
+    <text>HD modelleri kullan (HD Models Pack eklentisi gerekir!)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state">
+    <text>Yavaş hareket durumlarını aç</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state_desc">
+    <text>Açıksa bazı animasyonlar hıza bağlıdır. Sprint yeterince yavaşsa koşu animasyonu oynatılabilir.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_special_noncombat_shift">
+    <text>Sakin durumda özel gövde konumunu kullan</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled">
+    <text>Zırh yükseltmelerini görsel olarak göster</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled_desc">
+    <text>Kıyafetinizde zırh yükseltmesi varsa bir zırh yeleği gösterilir.\nŞu anda bu özellik yalnızca bazı ceketler ve SSP-99 kıyafetlerinde uygulanmıştır.</text>
+  </string>
+</string_table>

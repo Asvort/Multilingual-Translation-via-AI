@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+    <text>Maksymalne wzmocnienie noktowizji</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+    <text>Wyższe wartości zwiększają jasność do limitu. Ustaw nocą przy pogodzie cloudy_dark_2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+    <text>Minimalne wzmocnienie noktowizji</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+    <text>Niższe wartości bardziej przyciemniają noktowizję; bardzo niskie pozwalają używać jej w dzień.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+    <text>Korekta jasności świata</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+    <text>1.0 nie zmienia jasności świata. Wyższe wartości ją mnożą, ale nie wpływają na źródła światła.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+    <text>Tło nakładki Gen 1 (domyślnie: brak)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+    <text>Wybierz tło nakładki.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+    <text>Konfiguracja tub Gen 1 (domyślnie: jedna na środku)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+    <text>Wybierz liczbę i układ tub Gen 1.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+    <text>Tło nakładki Gen 2 (domyślnie: rozmyte)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+    <text>Wybierz tło nakładki.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+    <text>Konfiguracja tub Gen 2 (domyślnie: dwie na środku)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+    <text>Wybierz liczbę i układ tub Gen 2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+    <text>Tło nakładki Gen 3 (domyślnie: rozmyte)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+    <text>Wybierz tło nakładki.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+    <text>Konfiguracja tub Gen 3 (domyślnie: cztery na środku)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+    <text>Wybierz liczbę i układ tub Gen 3.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+    <text>Noktowizja podczas korzystania z PDA:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+    <text>Po wyłączeniu noktowizja gaśnie podczas korzystania z PDA.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+    <text>Używaj noktowizji podczas celowania:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+    <text>Po włączeniu noktowizja działa podczas celowania. Po wyłączeniu gaśnie przy podnoszeniu broni.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+    <text>Próg prześwietlenia źródeł światła</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+    <text>Zalecana wartość to 0.1. Wyższe wartości nieco ograniczają prześwietlenie. Próg skaluje się ze wzmocnieniem.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat">
+    <text>Włącz tę opcję, jeśli używasz celowników 2D opartych na shaderach.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+    <text>Celowniki 2D oparte na shaderach wymagają tej opcji. W przeciwnym razie pozostaw ją wyłączoną.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title">
+    <text>Ustawienia noktowizji Beef</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title_2">
+    <text>Zgodność z celownikami 2D opartymi na shaderach</text>
+  </string>
+  <string id="ui_mcm_lst_black_background">
+    <text>Czarna nakładka</text>
+  </string>
+  <string id="ui_mcm_lst_blurred_background">
+    <text>Rozmyta nakładka</text>
+  </string>
+  <string id="ui_mcm_lst_clear_vision">
+    <text>Bez nakładki (wyraźny obraz)</text>
+  </string>
+  <string id="ui_mcm_lst_dual_centered">
+    <text>Dwie tuby, na środku</text>
+  </string>
+  <string id="ui_mcm_lst_image_overlay">
+    <text>(Nie zaimplementowano) Nakładka obrazu</text>
+  </string>
+  <string id="ui_mcm_lst_quad_centered">
+    <text>Cztery tuby, na środku</text>
+  </string>
+  <string id="ui_mcm_lst_single_centered">
+    <text>Jedna tuba, na środku</text>
+  </string>
+  <string id="ui_mcm_lst_single_left">
+    <text>Jedna tuba, po lewej</text>
+  </string>
+  <string id="ui_mcm_lst_single_right">
+    <text>Jedna tuba, po prawej</text>
+  </string>
+  <string id="ui_mcm_menu_beef_nvg">
+    <text>Noktowizja Beef</text>
+  </string>
+</string_table>

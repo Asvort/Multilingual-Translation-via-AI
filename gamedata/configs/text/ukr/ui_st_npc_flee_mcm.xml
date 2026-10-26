@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_npc_flee">
+    <text>Втеча НПС</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cancel_on_hit">
+    <text>Скасувати втечу, якщо НПС отримав удар</text>
+  </string>
+  <string id="ui_mcm_npc_flee_companion_pwr">
+    <text>Множник сили напарників</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time">
+    <text>Час прикриття загону (0 — вимкнути)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time_desc">
+    <text>Найвіддаленіший НПС прикриватиме відступ загону.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_pwr_mult">
+    <text>Множник сили ворогів</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_radius">
+    <text>Радіус ворогів</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_upd_radius">
+    <text>Радіус ворогів 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_dbg">
+    <text>Налагодження (вивід у консоль)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time">
+    <text>Час захисту від втечі (с)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time_desc">
+    <text>Коли НПС припиняє втечу, він не зможе знову тікати протягом цього часу.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist">
+    <text>Мінімальна відстань для втечі</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+    <text>Ціль для втечі обирається, лише якщо вона далі за це значення.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_pwr_mult">
+    <text>Множник сили союзників</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_radius">
+    <text>Радіус союзників</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_upd_radius">
+    <text>Радіус союзників 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_after">
+    <text>Радіус 2 (під час втечі; зменшити радіус, щоб скасувати її, якщо поруч слабші вороги)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_before">
+    <text>Радіус (до втечі сили ворогів і союзників обчислюються лише в цьому радіусі)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_others">
+    <text>Інше</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_power">
+    <text>Сили (втеча, якщо "enemies_power &gt; friends_power*threshold_mult")</text>
+  </string>
+  <string id="ui_mcm_npc_flee_hits_to_cancel">
+    <text>Кількість влучань для скасування втечі</text>
+  </string>
+  <string id="ui_mcm_npc_flee_smoke_enabled">
+    <text>Димові гранати</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time">
+    <text>Перші секунди втечі, які не можна скасувати</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time_desc">
+    <text>Перші секунди після початку втечі не можна скасувати через слабкого ворога чи влучання.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_threshold_mult">
+    <text>Множник порога</text>
+  </string>
+  <string id="ui_mcm_npc_flee_title">
+    <text>Втеча НПС</text>
+  </string>
+</string_table>

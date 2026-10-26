@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_il">
+    <text>Occlusion ambiante</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_blur_mcm">
+    <text>Flou</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_blur_mcm_desc">
+    <text>Intensité de base du flou pour lisser le résultat de l’éclairage indirect.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_distance_mcm">
+    <text>Distance maximale</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_distance_mcm_desc">
+    <text>Distance maximale de rendu de l’éclairage indirect.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_flora_int_mcm">
+    <text>Intensité de la flore</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_flora_int_mcm_desc">
+    <text>Intensité sur la flore (herbe, arbres, etc.), en pourcentage de l’intensité globale. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_global_int_mcm">
+    <text>Intensité globale</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_global_int_mcm_desc">
+    <text>Intensité générale de l’éclairage indirect. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_hud_int_mcm">
+    <text>Intensité du HUD</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_hud_int_mcm_desc">
+    <text>Intensité sur les éléments du HUD (armes, bras, etc.), en pourcentage de l’intensité globale. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_quality_mcm">
+    <text>Qualité</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_quality_mcm_desc">
+    <text>[ REDÉMARRAGE REQUIS ] Nombre d’échantillons utilisés pour l’éclairage indirect. Le réglage Très élevé peut fortement affecter les performances. [ 2, 4, 8 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_res_mcm">
+    <text>Résolution</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_res_mcm_desc">
+    <text>Résolution utilisée pour calculer l’éclairage indirect.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_title">
+    <text>Paramètres de l’éclairage indirect</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_vibrance_mcm">
+    <text>Vibrance des couleurs</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_il_vibrance_mcm_desc">
+    <text>Règle l’intensité de la couleur de l’éclairage indirect.</text>
+  </string>
+</string_table>

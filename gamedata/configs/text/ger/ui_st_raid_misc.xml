@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_art_cache_fallback">
+    <text>Kein Platz zum Ablegen - ich drucke es dir direkt in die Hand. Fall nicht auf.</text>
+  </string>
+  <string id="st_art_cache_found">
+    <text>Chip aktiviert. Verstecke markiert: %s. Das Artefakt ist in einem. Finde es.</text>
+  </string>
+  <string id="st_art_cache_no_stash">
+    <text>Keine Verstecke frei. Alle sind voll. Komm spater wieder.</text>
+  </string>
+  <string id="st_art_cache_spot">
+    <text>Versteck T%d | %s</text>
+  </string>
+  <string id="st_art_lvl_agroprom">
+    <text>Agroprom</text>
+  </string>
+  <string id="st_art_lvl_darkvalley">
+    <text>Dunkeltal</text>
+  </string>
+  <string id="st_art_lvl_escape">
+    <text>Kordon</text>
+  </string>
+  <string id="st_art_lvl_garbage">
+    <text>Mullhalde</text>
+  </string>
+  <string id="st_art_lvl_grimwood">
+    <text>Grimwald</text>
+  </string>
+  <string id="st_art_lvl_jupiter">
+    <text>Umgebung von Jupiter</text>
+  </string>
+  <string id="st_art_lvl_marsh">
+    <text>Sumpfe</text>
+  </string>
+  <string id="st_art_lvl_military">
+    <text>Militarlager</text>
+  </string>
+  <string id="st_art_lvl_poselok">
+    <text>Siedlung im Suden</text>
+  </string>
+  <string id="st_art_lvl_pripyat">
+    <text>Umgebung von Pripjat</text>
+  </string>
+  <string id="st_art_lvl_promzona">
+    <text>Industriegebiet</text>
+  </string>
+  <string id="st_art_lvl_redforest">
+    <text>Roter Wald</text>
+  </string>
+  <string id="st_art_lvl_trucks">
+    <text>Fahrzeugfriedhof</text>
+  </string>
+  <string id="st_art_lvl_zaton">
+    <text>Zaton</text>
+  </string>
+  <string id="st_ecolog_raid_event_item">
+    <text>Trophäe der Ökologen-Razzia</text>
+  </string>
+  <string id="st_ecolog_raid_event_item_descr">
+    <text>Gegenstand aus einem Okologen-Raid. Der Sanitater nimmt ihn als Bezahlung fur Ausrustung an.</text>
+  </string>
+  <string id="st_raid_art_cache_t1">
+    <text>Koordinaten eines Artefaktlagers [Stufe I]</text>
+  </string>
+  <string id="st_raid_art_cache_t1_descr">
+    <text>Verschlüsselte Koordinaten eines Verstecks nahe einer Anomalie im mittleren Gebiet der Zone. Der Verkäufer garantiert ein Artefakt der Stufe I, doch mit 10 % Wahrscheinlichkeit wurde das Versteck bereits geplündert. Auf dem Schwarzmarkt gibt es keine Rückgabe. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Aktivieren Sie es im Inventar, wenn Sie das Versteck überprüfen möchten.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t2">
+    <text>Koordinaten eines Artefaktlagers [Stufe II]</text>
+  </string>
+  <string id="st_raid_art_cache_t2_descr">
+    <text>Verschlüsselte Koordinaten eines Verstecks nahe einer Anomalie in einem gefährlichen Teil der Zone. Ein Artefakt der Stufe II ist garantiert, sofern niemand vorher dort war (20 % Risiko). Artefakte dieser Stufe sind schwer zu finden. Keine Rückgabe. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Aktivieren Sie es im Inventar, wenn Sie das Versteck überprüfen möchten.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t3">
+    <text>Koordinaten eines Artefaktlagers [Stufe III]</text>
+  </string>
+  <string id="st_raid_art_cache_t3_descr">
+    <text>Verschlüsselte Koordinaten eines Verstecks in den gefährlichsten Anomaliezonen: Zaton, Jupiter und Tschernobyl. Darin befindet sich ein Artefakt der Stufe III. Mit 30 % Wahrscheinlichkeit wurde es bereits geplündert oder abgefangen. Einfach wird es nicht. Keine Rückgabe. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Aktivieren Sie es im Inventar, wenn Sie das Versteck überprüfen möchten.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t4">
+    <text>Koordinaten eines Artefaktlagers [Stufe IV]</text>
+  </string>
+  <string id="st_raid_art_cache_t4_descr">
+    <text>Verschlüsselte Koordinaten eines Verstecks in den tödlichsten Anomaliezonen: AKW, Sarkophag und Generatoren. Darin befindet sich ein Artefakt der Stufe IV. Mit 40 % Wahrscheinlichkeit ist es bereits weg. Spitzenklasse, keine Rückgabe. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Aktivieren Sie es im Inventar, wenn Sie das Versteck überprüfen möchten.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_use">
+    <text>Koordinaten aktivieren</text>
+  </string>
+  <string id="st_raid_barrier_device">
+    <text>Verschlüsselungseinheit „Barriere“</text>
+  </string>
+  <string id="st_raid_barrier_device_descr">
+    <text>Militärische Verschlüsselungseinheit mit Antenne und Datenschutzsystem. Militär und Söldner nutzen sie für sichere Kommunikation. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_bitcoin">
+    <text>Physischer Bitcoin</text>
+  </string>
+  <string id="st_raid_bitcoin_descr">
+    <text>Eine schwere Goldmünze, ein einzigartiges Werk eines Juweliers: Das geprägte Bitcoin-Symbol ist mit mikroskopischen Fälschungsschutzgravuren versehen. Auf der Rückseite befinden sich ein QR-Code und über sechzig lasergravierte Zeichen. Der Rand zeigt verschlungene Ketten; unter einem Hologrammsiegel sitzt ein Chip mit privatem Schlüssel. Der Besitzer vertraute weder Börsen noch Banken noch dem eigenen Computer und bewahrte sein gesamtes Vermögen in diesem Stück Gold auf. Als Schmuck ist die Münze bereits ein Vermögen wert, doch die Daten auf dem Chip sind ungleich wertvoller. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_bread_rosary">
+    <text>Brotrsenkranz (handgemacht)</text>
+  </string>
+  <string id="st_raid_bread_rosary_descr">
+    <text>Ein grober, selbst gemachter Rosenkranz, beliebt bei Schlägern. Hastig aus Brotkrume und beliebigen verfügbaren Schrottstücken gefertigt. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_camera_lens">
+    <text>Nachtsichtkamera</text>
+  </string>
+  <string id="st_raid_camera_lens_descr">
+    <text>Gepanzertes optisches Modul zur Montage an militärischer Ausrüstung. Es verstärkt Licht und Infrarotspektrum und ermöglicht Sicht bei völliger Dunkelheit. Teilweise beschädigt, aber noch zur Demontage oder Reparatur geeignet. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_cassette">
+    <text>Musikkassette (alt, beschriftet)</text>
+  </string>
+  <string id="st_raid_cassette_descr">
+    <text>Eine alte Rockmusikkassette, häufig bei STALKERN der Freiheit zu finden. Auf dem Gehäuse steht eine verblasste Markierung. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_chimera_statuette">
+    <text>Chimärenfigur (Silber, detailreich)</text>
+  </string>
+  <string id="st_raid_chimera_statuette_descr">
+    <text>Eine silberne Chimärenfigur mit feiner Handgravur. Sammler und Jäger schätzen sie. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_gold_coin">
+    <text>Antike Goldmünze</text>
+  </string>
+  <string id="st_raid_gold_coin_descr">
+    <text>Eine recht schwere Goldmünze, ein Tscherwonetz aus der Zarenzeit. Sie ist mit dem Alter dunkel geworden, doch Gold rostet nicht und verliert nicht an Wert. Vielleicht versteckte sie ein Veteran vor der ersten Emission, vielleicht scheiterte ein Schwarzgräber beim Schmuggel über den Perimeter. Ein Händler zahlt gut für das reine, unverfälschte Gold. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_lab_disc">
+    <text>Datenträger aus dem Labor</text>
+  </string>
+  <string id="st_raid_lab_disc_descr">
+    <text>Ein Datenträger aus einem unterirdischen Labor. Die Beschriftung ist bis zur Unkenntlichkeit abgenutzt. Der Inhalt ist unbekannt, doch jemand wollte offensichtlich verhindern, dass er gefunden wird. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_medal">
+    <text>Roter Veteranenaufnäher</text>
+  </string>
+  <string id="st_raid_medal_descr">
+    <text>Ein abgenutzter Aufnäher eines Veteranen der Pflicht, der Dutzende Einsätze gegen Mutanten und die Anarchie der Zone erlebt hat. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_nato_battery">
+    <text>Tragbares NATO-Netzteil (Militärstandard)</text>
+  </string>
+  <string id="st_raid_nato_battery_descr">
+    <text>Eine zuverlässige mobile Stromquelle, die Söldner häufig für westliche Ausrüstung verwenden. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_press_badge">
+    <text>Presseausweis</text>
+  </string>
+  <string id="st_raid_press_badge_descr">
+    <text>Ein abgenutzter, blutbefleckter Presseausweis des Journalisten Weniamin Aleksejenko. Der „PRESS“-Stempel und die amtlichen Siegel haben längst ihre rechtliche Bedeutung verloren und erinnern nur noch an die Welt jenseits des Perimeters. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_religious_icon">
+    <text>Alte vergoldete Ikone (rissig und patiniert)</text>
+  </string>
+  <string id="st_raid_religious_icon_descr">
+    <text>Eine vom Alter verdunkelte Ikone mit Rissen und Rußspuren. Viele in der Zone halten sie für einen Glücksbringer. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_raid_walkman">
+    <text>Tragbarer Kassettenrekorder (90er-Jahre-Stil)</text>
+  </string>
+  <string id="st_raid_walkman_descr">
+    <text>Ein abgenutzter Kassettenrekorder mit eingelegter Kassette, ein Lieblingsstück der STALKER der Freiheit für Pausen. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Ein Händler könnte an diesem Gegenstand interessiert sein.\n \n
+		</text>
+  </string>
+  <string id="st_stalker_raid_event_item">
+    <text>Trophäe des Freien-Stalker-Raids</text>
+  </string>
+  <string id="st_stalker_raid_event_item_descr">
+    <text>Gegenstand aus einem Raid freier Stalker. Der Sanitater nimmt ihn als Bezahlung fur Ausrustung an.</text>
+  </string>
+</string_table>

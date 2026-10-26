@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Czas do wykrwawienia (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Jak długo pozostajesz powalony, zanim się wykrwawisz. To, co stanie się później, ustawisz niżej.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Śmierć z wykrwawienia</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Włączone: wykrwawienie cię zabija, a powalonego gracza można dobić po upływie poniższego czasu ochrony. Wyłączone: po ustaniu krwawienia odradzasz się tam, gdzie upadłeś, a powalonego gracza nie można dobić. Używane są tylko ustawienia hosta.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Powalenie po śmiertelnym ciosie</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Włączone: śmiertelny cios powala cię, a towarzysz może cię podnieść. Wyłączone: cios odsyła cię prosto do najbliższej bazy lub rozpalonego ogniska. Żadna opcja nie zabija od razu; ustawienie poniżej określa, czy wykrwawienie może cię zabić. Ustawienia hosta obowiązują wszystkich.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Czas ochrony po powaleniu (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Jak długo od chwili powalenia nie można dobić gracza, aby silny cios powalał zamiast od razu zabijać. Ustawienie nie działa, gdy wykrwawienie nie powoduje śmierci. Używane są tylko ustawienia hosta.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Odliczanie do wczytania (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Jak długo ekran śmierci pozostaje widoczny, zanim host wczyta ostatni zapis i wszyscy dołączą ponownie. Podczas odliczania nikt nie może się poruszać ani zapisywać gry. Używane są tylko ustawienia hosta.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Zdrowie po wskrzeszeniu</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Czas wskrzeszania (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Rozszerzona obecność Discord</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Pokazuje na Discordzie, w co grasz. Podczas sesji publikuje drużynę, aby znajomi mogli otrzymać zaproszenie lub poprosić o dołączenie; poza sesją wyświetla linki do naszego Discorda i AP-PRO. Karta Discorda ma tylko dwa miejsca, więc linki i przycisk dołączania nigdy nie są widoczne jednocześnie.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Maks. graczy</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Maksymalna liczba graczy w sesji, łącznie z tobą. Określa też wielkość drużyny wyświetlaną przez Discord. Obowiązuje przy następnym uruchomieniu sesji.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Hasło</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Hasło wymagane przy dołączaniu. Pozostaw puste, aby go nie używać. Nie może zawierać spacji ani ukośnika.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Port</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>Port UDP, na którym nasłuchuje twoja sesja. Gracze dołączający przez adres łączą się z tobą za jego pośrednictwem, więc musi być otwarty na routerze i zaporze. Ignorowany w sesjach przez Steam. Obowiązuje przy następnym uruchomieniu sesji.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Hostuj przez Steam</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Włączone: gracze dołączają przez twoje Steam ID, które przechodzi przez NAT bez otwierania portu; znajomi mogą dołączyć z listy znajomych lub zaproszenia Discord. Wyłączone: dostępne są tylko bezpośrednie połączenia przez podany wyżej port. Obowiązuje przy następnym uruchomieniu sesji.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Nazwa gracza</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Twoja nazwa w trybie współpracy. Jest wysyłana do hosta przy połączeniu i staje się nazwą twojej postaci w jego grze. Pozostaw pole puste, aby wygenerować ją przy pierwszym połączeniu.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Przyznawaj nagrody wszystkim graczom</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Włączone: każdy gracz otrzymuje reward_money i reward_item. Wyłączone: nagrodę dostaje tylko gracz oddający zadanie. fetch_reward_and_remove zawsze pobiera przedmioty i wypłaca nagrodę wyłącznie temu graczowi. Ustawienie hosta obowiązuje przy każdym ukończeniu.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Powalenie i wskrzeszanie</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Hostowanie</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Gracz</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Nagrody za zadania</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Powalenie i wskrzeszanie</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Hostowanie</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Gracz</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Zadania</text>
+  </string>
+</string_table>

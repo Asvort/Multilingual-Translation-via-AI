@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Інтервал перевірки smart-terrain (секунди)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>Як часто кожен активний smart-terrain перевіряється на можливість ротації робіт НПС.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Максимальна затримка повторного призначення animpoint (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота animpoint недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Мінімальна затримка повторного призначення animpoint (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота animpoint недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Максимальна затримка повторного призначення поведінкової роботи (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Максимальний час, протягом якого звільнена поведінкова робота недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Мінімальна затримка повторного призначення поведінкової роботи (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Мінімальний час, протягом якого звільнена поведінкова робота недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Максимальна затримка повторного призначення роботи таборування (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота таборування недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Мінімальна затримка повторного призначення роботи таборування (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота таборування недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Максимальна затримка повторного призначення роботи збирача (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота збирача недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Мінімальна затримка повторного призначення роботи збирача (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота збирача недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Визначає, як довго звільнена робота залишається недоступною, перш ніж інший НПС зможе знову виконувати її через Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Максимальна затримка повторного призначення роботи охоронця (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота охоронця недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Мінімальна затримка повторного призначення роботи охоронця (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота охоронця недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Затримки повторного призначення робіт</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Максимальна затримка повторного призначення патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота патрулювання недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Мінімальна затримка повторного призначення патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота патрулювання недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Максимальна затримка повторного призначення роботи зі сну (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота зі сну недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Мінімальна затримка повторного призначення роботи зі сну (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота зі сну недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Максимальна затримка повторного призначення позиції розумного укриття (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Максимальний час, протягом якого звільнена позиція розумного укриття недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Мінімальна затримка повторного призначення позиції розумного укриття (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Мінімальний час, протягом якого звільнена позиція розумного укриття недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Максимальна затримка повторного призначення роботи снайпера (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота снайпера недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Мінімальна затримка повторного призначення роботи снайпера (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота снайпера недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Максимальна затримка повторного призначення роботи патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Максимальний час, протягом якого звільнена робота патрулювання недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Мінімальна затримка повторного призначення роботи патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Мінімальний час, протягом якого звільнена робота патрулювання недоступна для Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Налагодження</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Налагоджувальні повідомлення</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Записувати в журнал кожну успішну динамічну зміну роботи. Рекомендовано під час бета-тестування.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Налагодження</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Увімкнути розумну активність</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Увімкнути або вимкнути динамічну ротацію робіт на smart-terrain для підтримуваних симуляційних НПС.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Загальні налаштування</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Розумна активність</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>АНІМПОІНТ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>ПОВЕДІНКА</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>ТАБІРНИК</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>ЗБИРАЧ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>ОХОРОНЕЦЬ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>ПАТРУЛЬ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>СОН</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>РОЗУМНЕ УКРИТТЯ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>СНАЙПЕР</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>МАНДРІВНИК</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Затримка повторної спроби (секунди)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Як довго НПС чекає перед повторною спробою, якщо немає відповідної нової роботи або ротацію тимчасово заблоковано.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Максимальний час виконання роботи animpoint (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Максимальний час, протягом якого НПС виконує роботу animpoint до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Мінімальний час виконання роботи animpoint (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Мінімальний час, протягом якого НПС виконує роботу animpoint до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Максимальний час виконання роботи поведінки (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Максимальний час, протягом якого НПС виконує поведінкову роботу до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Мінімальний час виконання роботи поведінки (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Мінімальний час, протягом якого НПС виконує поведінкову роботу до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Максимальний час виконання роботи таборування (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Максимальний час, протягом якого НПС таборує до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Мінімальний час виконання роботи таборування (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Мінімальний час, протягом якого НПС таборує до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Максимальний час виконання роботи збирача (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Максимальний час, протягом якого НПС виконує роботу збирача до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Мінімальний час виконання роботи збирача (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Мінімальний час, протягом якого НПС виконує роботу збирача до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Визначає, як довго НПС зазвичай виконує кожну роботу, перш ніж перейти до іншої доступної.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Максимальний час виконання роботи охоронця (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Максимальний час, протягом якого НПС охороняє позицію до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Мінімальний час виконання роботи охоронця (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Мінімальний час, протягом якого НПС охороняє позицію до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Час виконання робіт</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Максимальний час виконання роботи патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Максимальний час, протягом якого НПС виконує патрулювання до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Мінімальний час виконання роботи патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Мінімальний час, протягом якого НПС виконує патрулювання до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Максимальний час виконання роботи зі сну (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Максимальний час, протягом якого НПС виконує роботу зі сну до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Мінімальний час виконання роботи зі сну (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Мінімальний час, протягом якого НПС виконує роботу зі сну до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Максимальний час роботи на позиції розумного укриття (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Максимальний час, протягом якого НПС перебуває на позиції розумного укриття до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Мінімальний час роботи на позиції розумного укриття (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Мінімальний час, протягом якого НПС перебуває на позиції розумного укриття до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Максимальний час виконання роботи снайпера (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Максимальний час, протягом якого НПС виконує роботу снайпера до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Мінімальний час виконання роботи снайпера (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Мінімальний час, протягом якого НПС виконує роботу снайпера до можливої зміни.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Максимальний час виконання роботи патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Максимальний час, протягом якого НПС патрулює до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Мінімальний час виконання роботи патрулювання (хвилини)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Мінімальний час, протягом якого НПС патрулює до можливої зміни роботи.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Затримка повторного виконання робіт</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Налагодження</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>Загальні</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Час виконання робіт</text>
+  </string>
+</string_table>

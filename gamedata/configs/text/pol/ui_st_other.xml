@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="Btn_Cancel">
+    <text>Anuluj</text>
+  </string>
+  <string id="Btn_No">
+    <text>Nie</text>
+  </string>
+  <string id="Btn_OK">
+    <text>OK</text>
+  </string>
+  <string id="Btn_Yes">
+    <text>Tak</text>
+  </string>
+  <string id="ammo12x70_making">
+    <text>Robię naboje, może to chwilę potrwać. </text>
+  </string>
+  <string id="ammo12x70_making_end">
+    <text>Naboje są gotowe.</text>
+  </string>
+  <string id="backpack_making">
+    <text>Zrobienie tego plecaka trochę potrwa.</text>
+  </string>
+  <string id="backpack_making_end">
+    <text>Plecak jest gotowy.</text>
+  </string>
+  <string id="global_map">
+    <text>Mapa Strefy</text>
+  </string>
+  <string id="mm_mp_pda_hunt">
+    <text>Nagroda za polowanie z PDA</text>
+  </string>
+  <string id="mp_only_one_voting">
+    <text>Dozwolone jest tylko jedno aktywne głosowanie</text>
+  </string>
+  <string id="mp_si_sec">
+    <text>s</text>
+  </string>
+  <string id="selfroll_making">
+    <text>Skręcam papierosa, to nie potrwa długo.</text>
+  </string>
+  <string id="selfroll_making_end">
+    <text>Papieros jest gotowy.</text>
+  </string>
+  <string id="sleepbag_making">
+    <text>Uszycie tego śpiwora trochę potrwa.</text>
+  </string>
+  <string id="sleepbag_making_end">
+    <text>Śpiwór jest gotowy.</text>
+  </string>
+  <string id="st_body_kick">
+    <text>Kopnij</text>
+  </string>
+  <string id="st_body_loot">
+    <text>Opraw</text>
+  </string>
+  <string id="st_cfm">
+    <text>Zestawu do gotowania można używać tylko przy płonącym ognisku</text>
+  </string>
+  <string id="st_charging">
+    <text>Aktualny poziom naładowania: </text>
+  </string>
+  <string id="st_dont_has_knife">
+    <text>Wymagany jest nóż</text>
+  </string>
+  <string id="st_fast_travel_discovered">
+    <text> : lokacja odkryta</text>
+  </string>
+  <string id="st_full_charge">
+    <text>Bateria jest w pełni naładowana</text>
+  </string>
+  <string id="st_future_maps_descr">
+    <text>Nie możesz tędy przejść.</text>
+  </string>
+  <string id="st_game">
+    <text>Gra</text>
+  </string>
+  <string id="st_hold_then_release">
+    <text>Przytrzymaj, a potem puść</text>
+  </string>
+  <string id="st_invalid_position">
+    <text>Poza zasięgiem</text>
+  </string>
+  <string id="st_item_used">
+    <text>Użyto</text>
+  </string>
+  <string id="st_key_notbinded">
+    <text>...</text>
+  </string>
+  <string id="st_level">
+    <text>Poziom</text>
+  </string>
+  <string id="st_level_changer_descr">
+    <text>Wrócić do schronienia?</text>
+  </string>
+  <string id="st_loading_ai_objects">
+    <text>Wczytywanie obiektów SI</text>
+  </string>
+  <string id="st_loading_alife_simulator">
+    <text>Serwer: wczytywanie symulacji życia</text>
+  </string>
+  <string id="st_loading_cform">
+    <text>Wczytywanie form obiektów</text>
+  </string>
+  <string id="st_loading_details">
+    <text>Wczytywanie szczegółów obiektów</text>
+  </string>
+  <string id="st_loading_geometry">
+    <text>Wczytywanie geometrii</text>
+  </string>
+  <string id="st_loading_saved_game">
+    <text>Wczytywanie zapisu gry</text>
+  </string>
+  <string id="st_loading_sectors_portals">
+    <text>Wczytywanie sektorów i portali</text>
+  </string>
+  <string id="st_loading_shaders">
+    <text>Wczytywanie shaderów</text>
+  </string>
+  <string id="st_loading_spatial_db">
+    <text>Wczytywanie bazy przestrzennej</text>
+  </string>
+  <string id="st_loading_textures">
+    <text>Wczytywanie tekstur</text>
+  </string>
+  <string id="st_mp_direct_ip">
+    <text>Bezpośrednie IP</text>
+  </string>
+  <string id="st_no_active_task">
+    <text>Brak aktywnego zadania</text>
+  </string>
+  <string id="st_not_enough_money">
+    <text>Za mało pieniędzy</text>
+  </string>
+  <string id="st_not_enough_money_npc">
+    <text>NPC nie ma wystarczająco pieniędzy</text>
+  </string>
+  <string id="st_opening_stream">
+    <text>Otwieranie strumienia</text>
+  </string>
+  <string id="st_prefetching_objects">
+    <text>Wstępne wczytywanie obiektów</text>
+  </string>
+  <string id="st_rad_level">
+    <text>Poziom promieniowania</text>
+  </string>
+  <string id="st_repair_mod_message_box_ask">
+    <text>Czy na pewno chcesz naprawić %s?\n \n%c[255,1,255,1]+%s%</text>
+  </string>
+  <string id="st_repair_mod_message_box_condition_to_high">
+    <text>Tymi narzędziami nie da się już bardziej naprawić tego przedmiotu.</text>
+  </string>
+  <string id="st_repair_mod_message_box_condition_to_low">
+    <text>Przedmiot jest zbyt uszkodzony, by naprawić go tymi narzędziami.</text>
+  </string>
+  <string id="st_rubles">
+    <text>rubli.</text>
+  </string>
+  <string id="st_save_jup_a10_gonna_return_debt">
+    <text>Dług Vano spłacony</text>
+  </string>
+  <string id="st_save_jup_a12_gave_artefact_for_hostage">
+    <text>Wykupiono zakładnika</text>
+  </string>
+  <string id="st_save_jup_a12_met_with_liberators">
+    <text>Uwolnienie zakładnika</text>
+  </string>
+  <string id="st_save_jup_a9_got_underpass_docs">
+    <text>Znaleziono drogę do Prypeci</text>
+  </string>
+  <string id="st_save_jup_b15_drunk_with_zulu">
+    <text>Zulu dołączył do oddziału</text>
+  </string>
+  <string id="st_save_jup_b16_passed_labyrinth">
+    <text>Znaleziono Oazę</text>
+  </string>
+  <string id="st_save_jup_b19_arrived_to_kopachy">
+    <text>Wysłano do Kopaczy</text>
+  </string>
+  <string id="st_save_jup_b1_entered_railroad_tunnel">
+    <text>Poszukiwanie źródła emisji psi</text>
+  </string>
+  <string id="st_save_jup_b206_got_anomalous_plant">
+    <text>Zdobyto anomalną roślinę</text>
+  </string>
+  <string id="st_save_jup_b207_arrived_to_duty_depot">
+    <text>Magazyn Powinności</text>
+  </string>
+  <string id="st_save_jup_b209_placed_mutant_scanner">
+    <text>Wykrywacz obecności mutantów</text>
+  </string>
+  <string id="st_save_jup_b217_arrived_to_jup">
+    <text>Dotarcie do Janowa</text>
+  </string>
+  <string id="st_save_jup_b218_sokolov_in_squad">
+    <text>Sokołow dołączył do oddziału</text>
+  </string>
+  <string id="st_save_jup_b218_strider_in_squad">
+    <text>Strider dołączył do oddziału</text>
+  </string>
+  <string id="st_save_jup_b218_travel_jup_to_pas">
+    <text>Oddział zebrany</text>
+  </string>
+  <string id="st_save_jup_b218_vano_in_squad">
+    <text>Vano dołączył do oddziału</text>
+  </string>
+  <string id="st_save_jup_b47_got_admin_docs">
+    <text>Znaleziono dokumenty administracyjne</text>
+  </string>
+  <string id="st_save_jup_b6_arrived_to_ash_heap">
+    <text>Pomiary anomalii Sterta Popiołu</text>
+  </string>
+  <string id="st_save_jup_b6_arrived_to_fen">
+    <text>Pomiary anomalii Mokradeł</text>
+  </string>
+  <string id="st_save_jup_b8_searched_heli_4">
+    <text>Zbadano Skat-4</text>
+  </string>
+  <string id="st_save_jup_b9_searched_heli_1">
+    <text>Zbadano Skat-1</text>
+  </string>
+  <string id="st_save_pas_b400_underpass_start">
+    <text>Dotarcie do przejścia podziemnego</text>
+  </string>
+  <string id="st_save_pri_a16_arrived_to_pri">
+    <text>Znaleziono żołnierzy</text>
+  </string>
+  <string id="st_save_pri_a17_hospital_start">
+    <text>Zdobyto nieznaną broń</text>
+  </string>
+  <string id="st_save_pri_a18_met_reinforcement">
+    <text>Przybyły posiłki</text>
+  </string>
+  <string id="st_save_pri_a18_searched_antenna">
+    <text>Zbadano antenę</text>
+  </string>
+  <string id="st_save_pri_a20_found_dead_recon">
+    <text>Znaleziono grupę zwiadowczą</text>
+  </string>
+  <string id="st_save_pri_a21_approached_mad_sentry">
+    <text>Znaleziono zaginionego wartownika</text>
+  </string>
+  <string id="st_save_pri_a21_killed_controller">
+    <text>Zabito kontrolera przy wartowniku</text>
+  </string>
+  <string id="st_save_pri_a22_found_dead_squad">
+    <text>Znaleziono martwego żołnierza</text>
+  </string>
+  <string id="st_save_pri_a25_freed_medic">
+    <text>Uwolniono wojskowego medyka</text>
+  </string>
+  <string id="st_save_pri_a25_gonna_place_explosive">
+    <text>Wejście do przedszkola</text>
+  </string>
+  <string id="st_save_pri_a28_evacuation_end">
+    <text>Dotarto do śmigłowców ewakuacyjnych</text>
+  </string>
+  <string id="st_save_pri_a28_evacuation_heli">
+    <text>Odlot śmigłowców ewakuacyjnych</text>
+  </string>
+  <string id="st_save_pri_a28_evacutaion_start">
+    <text>Rozpoczęła się ewakuacja z Prypeci</text>
+  </string>
+  <string id="st_save_pri_a28_talked_with_ssu">
+    <text>Nawiązano kontakt z dowództwem</text>
+  </string>
+  <string id="st_save_pri_b301_arrived_to_help_zulu">
+    <text>Znaleziono Zulu</text>
+  </string>
+  <string id="st_save_pri_b35_ready_to_snipe">
+    <text>Rozpoczęcie operacji „Jeden strzał”</text>
+  </string>
+  <string id="st_save_uni_labx8_to_pri">
+    <text>Przejście z X-8 do Prypeci</text>
+  </string>
+  <string id="st_save_uni_pri_to_labx8">
+    <text>Przejście z Prypeci do X-8</text>
+  </string>
+  <string id="st_save_uni_surge_start">
+    <text>Emisja</text>
+  </string>
+  <string id="st_save_uni_travel_generic">
+    <text>Przejście do innej lokacji</text>
+  </string>
+  <string id="st_save_uni_travel_jup_to_pri">
+    <text>Przejście z Janowa do Prypeci</text>
+  </string>
+  <string id="st_save_uni_travel_jup_to_zat">
+    <text>Przejście z Janowa do Zatonu</text>
+  </string>
+  <string id="st_save_uni_travel_pas_to_pri">
+    <text>Wyjście do Prypeci</text>
+  </string>
+  <string id="st_save_uni_travel_pri_to_jup">
+    <text>Przejście z Prypeci do Janowa</text>
+  </string>
+  <string id="st_save_uni_travel_pri_to_zat">
+    <text>Przejście z Prypeci do Zatonu</text>
+  </string>
+  <string id="st_save_uni_travel_zat_to_jup">
+    <text>Przejście z Zatonu do Janowa</text>
+  </string>
+  <string id="st_save_uni_travel_zat_to_pri">
+    <text>Przejście z Zatonu do Prypeci</text>
+  </string>
+  <string id="st_save_uni_zone_to_reality">
+    <text>Opuszczenie Zony</text>
+  </string>
+  <string id="st_save_zat_a1_game_start">
+    <text>Rozpoczęcie gry</text>
+  </string>
+  <string id="st_save_zat_a23_entered_test_center">
+    <text>Wejście do warsztatu testowego</text>
+  </string>
+  <string id="st_save_zat_a23_got_gauss_docs">
+    <text>Znaleziono dokumentację broni Gaussa</text>
+  </string>
+  <string id="st_save_zat_a2_reached_skadovsk">
+    <text>Dotarcie do Skadowska</text>
+  </string>
+  <string id="st_save_zat_b100_searched_heli_2">
+    <text>Zbadano Skat-2</text>
+  </string>
+  <string id="st_save_zat_b101_searched_heli_5">
+    <text>Zbadano Skat-5</text>
+  </string>
+  <string id="st_save_zat_b103_warned_by_mercs">
+    <text>Zbliżanie się do warsztatów przy stacji transformatorowej</text>
+  </string>
+  <string id="st_save_zat_b106_arrived_to_chimera_lair">
+    <text>Polowanie na chimerę</text>
+  </string>
+  <string id="st_save_zat_b14_got_altered_wheel">
+    <text>Znaleziono źródło dziwnej poświaty</text>
+  </string>
+  <string id="st_save_zat_b18_noah_showed_teleport">
+    <text>Droga na płaskowyż</text>
+  </string>
+  <string id="st_save_zat_b28_searched_heli_3">
+    <text>Zbadano Skat-3</text>
+  </string>
+  <string id="st_save_zat_b33_got_container">
+    <text>Znaleziono pojemnik w skrytce</text>
+  </string>
+  <string id="st_save_zat_b38_met_with_grouse">
+    <text>Leże krwiopijców</text>
+  </string>
+  <string id="st_save_zat_b40_warned_by_mercs">
+    <text>Zbliżanie się do zakładu przetwarzania odpadów</text>
+  </string>
+  <string id="st_save_zat_b42_arrived_to_controler_lair">
+    <text>Niebezpieczna jaskinia</text>
+  </string>
+  <string id="st_save_zat_b5_met_with_others">
+    <text>Układ przy leśniczówce</text>
+  </string>
+  <string id="st_save_zat_b7_met_with_robbers">
+    <text>Konfrontacja ze stalkerami</text>
+  </string>
+  <string id="st_server_connecting">
+    <text>Serwer: łączenie</text>
+  </string>
+  <string id="st_server_starting">
+    <text>Serwer: uruchamianie</text>
+  </string>
+  <string id="st_set_companion_to_stealth_state">
+    <text>Skradanie</text>
+  </string>
+  <string id="st_sleep">
+    <text>Śpij</text>
+  </string>
+  <string id="st_travel_lost">
+    <text>Nie znam drogi.</text>
+  </string>
+  <string id="st_trx_input_symbols">
+    <text>1234567890</text>
+  </string>
+  <string id="st_trx_input_symbols_full">
+    <text>1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.</text>
+  </string>
+  <string id="st_trx_output_symbols">
+    <text>1234567890</text>
+  </string>
+  <string id="st_trx_output_symbols_full">
+    <text>1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.</text>
+  </string>
+  <string id="st_ui_arts">
+    <text>Artefakty</text>
+  </string>
+  <string id="st_ui_place_art">
+    <text>Umieść artefakt</text>
+  </string>
+  <string id="st_ui_remove_art">
+    <text>Usuń artefakt</text>
+  </string>
+  <string id="st_ui_save">
+    <text>Zapisz</text>
+  </string>
+  <string id="st_ui_selected">
+    <text>Wybrano</text>
+  </string>
+  <string id="st_validating_cdkey">
+    <text>Weryfikacja klucza CD</text>
+  </string>
+  <string id="st_video">
+    <text>Wideo</text>
+  </string>
+  <string id="ui_inv_repair">
+    <text>Napraw</text>
+  </string>
+  <string id="ui_st_cant_run_r2">
+    <text>Nie możesz uruchomić drugiego renderera na komputerze.</text>
+  </string>
+  <string id="ui_st_conn_cdkey_disabled">
+    <text>Błąd połączenia: Twój klucz CD został zablokowany. Skontaktuj się z pomocą techniczną.</text>
+  </string>
+  <string id="ui_st_conn_cdkey_in_use">
+    <text>Błąd połączenia: ten klucz CD jest już używany.</text>
+  </string>
+  <string id="ui_st_conn_cdkey_invalid">
+    <text>Błąd połączenia: nieprawidłowy klucz CD.</text>
+  </string>
+  <string id="ui_st_conn_invalid_host">
+    <text>Błąd połączenia: nieprawidłowy host.</text>
+  </string>
+  <string id="ui_st_conn_invalid_pass">
+    <text>Błąd połączenia: nieprawidłowe hasło.</text>
+  </string>
+  <string id="ui_st_conn_new_patch">
+    <text>Dostępna jest nowa łatka.\n Wersja: %s\n %s\n Czy chcesz ją teraz pobrać?</text>
+  </string>
+  <string id="ui_st_conn_no_new_patch">
+    <text>Brak nowych łatek</text>
+  </string>
+  <string id="ui_st_conn_rejected_server">
+    <text>Błąd połączenia: serwer przerwał połączenie.</text>
+  </string>
+  <string id="ui_st_conn_sess_full">
+    <text>Błąd połączenia: serwer jest pełny.</text>
+  </string>
+  <string id="ui_st_conn_version_differs">
+    <text>Błąd połączenia: niezgodność wersji.</text>
+  </string>
+  <string id="ui_st_connecting_to_masterserver">
+    <text>Łączenie z serwerem głównym</text>
+  </string>
+  <string id="ui_st_days">
+    <text>d</text>
+  </string>
+  <string id="ui_st_error">
+    <text>Błąd</text>
+  </string>
+  <string id="ui_st_error_loading">
+    <text>Błąd wczytywania</text>
+  </string>
+  <string id="ui_st_exit_hint">
+    <text>Zamknij okno ($$ACTION_USE$$)</text>
+  </string>
+  <string id="ui_st_file_exist_owerwrite_q">
+    <text>Plik o tej nazwie już istnieje. Czy chcesz go nadpisać?</text>
+  </string>
+  <string id="ui_st_file_name_is_empty">
+    <text>Nazwa pliku jest pusta</text>
+  </string>
+  <string id="ui_st_hours">
+    <text>godz.</text>
+  </string>
+  <string id="ui_st_kicked_by_battleye">
+    <text>został rozłączony przez BattlEye:</text>
+  </string>
+  <string id="ui_st_kicked_by_server">
+    <text>Rozłączono. Powód: </text>
+  </string>
+  <string id="ui_st_leave">
+    <text>Wyjdź</text>
+  </string>
+  <string id="ui_st_load_game_confirm">
+    <text>Wczytanie gry spowoduje utratę niezapisanych danych. Czy chcesz kontynuować?</text>
+  </string>
+  <string id="ui_st_mins">
+    <text>min</text>
+  </string>
+  <string id="ui_st_months">
+    <text>mies.</text>
+  </string>
+  <string id="ui_st_opponent_items">
+    <text>Plecak</text>
+  </string>
+  <string id="ui_st_params">
+    <text>Ustawienia</text>
+  </string>
+  <string id="ui_st_patch_download_error">
+    <text>Nie można pobrać łatki.</text>
+  </string>
+  <string id="ui_st_patch_download_success">
+    <text>Łatka została pobrana. Czy chcesz ją zainstalować?</text>
+  </string>
+  <string id="ui_st_price">
+    <text>Cena</text>
+  </string>
+  <string id="ui_st_secs">
+    <text>s</text>
+  </string>
+  <string id="ui_st_select_one_map">
+    <text>Wybierz co najmniej jedną mapę</text>
+  </string>
+  <string id="ui_st_time_remains">
+    <text>Pozostało</text>
+  </string>
+  <string id="ui_st_trade">
+    <text>Handel</text>
+  </string>
+  <string id="ui_st_trade_hint">
+    <text>Otwórz okno handlu ($$ACTION_SPRINT_TOGGLE$$)</text>
+  </string>
+  <string id="ui_st_upgrade">
+    <text>Naprawa/Modyfikacja</text>
+  </string>
+  <string id="ui_st_upgrade_hint">
+    <text>Otwórz okno naprawy i modyfikacji ($$ACTION_SPRINT_TOGGLE$$)</text>
+  </string>
+  <string id="ui_st_voting_disabled">
+    <text>Głosowanie wyłączone</text>
+  </string>
+  <string id="ui_st_want_to_leave_game_q">
+    <text>Czy na pewno chcesz wyjść z gry?</text>
+  </string>
+</string_table>

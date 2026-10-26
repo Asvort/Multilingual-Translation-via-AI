@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="actor_inventory_box_use">
+    <text>Abrir o depósito pessoal ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bar_arena_actor_afraid">
+    <text>A luta foi cancelada! O desafiante amare­lou e nem apareceu para lutar!</text>
+  </string>
+  <string id="bar_arena_fight_10">
+    <text>10 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_20">
+    <text>20 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_30">
+    <text>30 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_40">
+    <text>40 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_50">
+    <text>50 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_60">
+    <text>1 minuto de luta se passou!</text>
+  </string>
+  <string id="bar_arena_fight_70">
+    <text>1 minuto e 10 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_80">
+    <text>1 minuto e 20 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_90">
+    <text>1 minuto e 30 segundos se passaram!</text>
+  </string>
+  <string id="bar_arena_fight_begin">
+    <text>A luta começou!</text>
+  </string>
+  <string id="bar_arena_fight_bloodsucker">
+    <text>Atenção! Atenção! Uma nova luta está prestes a começar na Arena! No canto esquerdo, o pesadelo mais temido da Zona, o eterno faminto sugador de sangue! E no canto direito... um humano? Sim, é um humano! Palmas para o stalker!</text>
+  </string>
+  <string id="bar_arena_fight_burer">
+    <text>Atenção! Atenção! Uma nova luta está prestes a começar na Arena! No canto esquerdo, o próprio mestre de kung fu que entorta colheres: o burer! E no canto direito, um stalker sempre atento!</text>
+  </string>
+  <string id="bar_arena_fight_dead">
+    <text>O desafiante foi morto! Que surpresa!</text>
+  </string>
+  <string id="bar_arena_fight_lose">
+    <text>O desafiante matou o oponente, mas não a tempo. Perdeu a luta!</text>
+  </string>
+  <string id="bar_arena_fight_pseudodog">
+    <text>Atenção! Atenção! Uma nova luta está prestes a começar na Arena. No canto esquerdo, branco, peludo e furioso como o diabo... o cão pseudorrábico! No canto direito, alguém que veio do nada e é exatamente para lá que está voltando.</text>
+  </string>
+  <string id="bar_arena_fight_savage">
+    <text>Atenção! Atenção! Uma nova luta está prestes a começar na Arena. No canto esquerdo, vocês o conhecem, o adoram e ele também odeia vocês: a Fera! No canto direito, ainda vivo e chutando, pelo menos por enquanto, nosso stalker!</text>
+  </string>
+  <string id="bar_arena_fight_snork">
+    <text>Atenção! Atenção! Uma nova luta está prestes a começar na Arena. No canto esquerdo, o mestre das artes marciais e especialista em saúde: o snork! No canto direito, o homem sem passado nem futuro.</text>
+  </string>
+  <string id="bar_arena_fight_timeout">
+    <text>O tempo acabou! O desafiante perdeu, mas ainda luta pela vida!</text>
+  </string>
+  <string id="bar_arena_fight_victory">
+    <text>Oba! O desafiante matou o oponente a tempo e venceu!</text>
+  </string>
+  <string id="bp_open">
+    <text>Abrir mochila</text>
+  </string>
+  <string id="bp_to">
+    <text>Em movimento</text>
+  </string>
+  <string id="bridge_down_red_forest_tips">
+    <text>Baixar a ponte ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_stop_red_forest_tips">
+    <text>Parar a ponte ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_up_red_forest_tips">
+    <text>Elevar a ponte ($$ACTION_USE$$)</text>
+  </string>
+  <string id="cant_walk">
+    <text>Você está exausto demais para se mover.</text>
+  </string>
+  <string id="cant_walk_weight">
+    <text>Você está carregando peso demais para se mover.</text>
+  </string>
+  <string id="car_character_use">
+    <text>Abrir a porta ($$ACTION_USE$$)</text>
+  </string>
+  <string id="character_use">
+    <text>Falar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="dar_poltergeist_hold_the_door">
+    <text>Alguém está segurando a porta.</text>
+  </string>
+  <string id="dead_character_use">
+    <text>Revistar o corpo ($$ACTION_USE$$)</text>
+  </string>
+  <string id="dead_character_use_or_drag">
+    <text>Revistar o corpo ($$ACTION_USE$$)\nArrastar o corpo (SHIFT+$$ACTION_USE$$)</text>
+  </string>
+  <string id="drx_sl_tips_rad_switcher_press">
+    <text>Ativar o Queimador Cerebral ($$ACTION_USE$$)</text>
+  </string>
+  <string id="general_complete_task">
+    <text>Missão concluída:</text>
+  </string>
+  <string id="general_fail_task">
+    <text>Missão fracassada:</text>
+  </string>
+  <string id="general_in_item">
+    <text>Item recebido:</text>
+  </string>
+  <string id="general_in_money">
+    <text>Dinheiro recebido:</text>
+  </string>
+  <string id="general_new_task">
+    <text>Nova missão:</text>
+  </string>
+  <string id="general_out_item">
+    <text>Item perdido:</text>
+  </string>
+  <string id="general_out_money">
+    <text>Dinheiro perdido:</text>
+  </string>
+  <string id="general_reverse_task">
+    <text>Missão cancelada:</text>
+  </string>
+  <string id="general_update_task">
+    <text>Missão atualizada:</text>
+  </string>
+  <string id="gun_jammed">
+    <text> </text>
+  </string>
+  <string id="inventory_box_use">
+    <text>Revistar a caixa ($$ACTION_USE$$)</text>
+  </string>
+  <string id="inventory_item_use">
+    <text>Pegar item ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b10_ufo_searching_tips">
+    <text>Revistar a aeronave ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b1_bar_door">
+    <text>Porta emperrada</text>
+  </string>
+  <string id="jup_b1_door_is_closed">
+    <text>A porta está trancada por dentro</text>
+  </string>
+  <string id="jup_b202_treasures_closed">
+    <text>Cofre trancado</text>
+  </string>
+  <string id="jup_b205_tip_door_closed">
+    <text>É necessário um código</text>
+  </string>
+  <string id="jup_b205_tip_door_decode">
+    <text>Inserir código ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b206_use_plant">
+    <text>Pegar a planta ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_place_tips">
+    <text>Instalar o scanner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_remove_tips">
+    <text>Pegar o scanner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="lx8_raduga">
+    <text>Supressor de agressividade Arco-íris\nmodelo do complexo externo de emissões\nescala 1:20</text>
+  </string>
+  <string id="pas_b400_tip_switcher">
+    <text>Ativar o interruptor ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a18_use_idol">
+    <text>Examinar o dispositivo ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a25_blow_up_enter_door">
+    <text>Colocar explosivos ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a28_talk_with_stupid_medic">
+    <text>Recuperar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_b306_elevator_door_locked_used">
+    <text>O elevador está sem energia</text>
+  </string>
+  <string id="pri_b306_generator_use">
+    <text>Ativar o gerador ($$ACTION_USE$$)</text>
+  </string>
+  <string id="sleep_ok_button">
+    <text>Dormir</text>
+  </string>
+  <string id="sleep_warning_all_pleasures">
+    <text>Você não pode dormir! Está sangrando muito e sofreu exposição à radiação. Use remédios ou procure um médico.</text>
+  </string>
+  <string id="sleep_warning_bleeding">
+    <text>Você não pode dormir! Está sangrando muito. Use remédios ou procure um médico.</text>
+  </string>
+  <string id="sleep_warning_radiation">
+    <text>Você não pode dormir! Sofreu exposição à radiação. Use remédios ou procure um médico.</text>
+  </string>
+  <string id="sleep_zone_tip">
+    <text>Dormir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_autosave">
+    <text>Salvamento automático...</text>
+  </string>
+  <string id="st_awr_tiski">
+    <text>Reparar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_bad_turn_dezombification">
+    <text>A deszumbificação foi concluída com sucesso!</text>
+  </string>
+  <string id="st_bad_turn_dezombification_news">
+    <text>%c[0,255,64,0]A deszumbificação foi concluída com sucesso!</text>
+  </string>
+  <string id="st_bad_turn_into_bandit">
+    <text>Você foi expulso do grupo!</text>
+  </string>
+  <string id="st_bad_turn_into_bandit_news">
+    <text>%c[0,255,0,0]Você foi expulso do grupo!</text>
+  </string>
+  <string id="st_bad_turn_into_zombie">
+    <text>O nível de radiação psi está crítico e você foi zumbificado!</text>
+  </string>
+  <string id="st_bad_turn_into_zombie_news">
+    <text>%c[0,255,64,0]O nível de radiação psi está crítico e você foi zumbificado!</text>
+  </string>
+  <string id="st_body_decayed">
+    <text>O corpo está decomposto demais</text>
+  </string>
+  <string id="st_body_knife_bad">
+    <text>A faca está em péssimas condições</text>
+  </string>
+  <string id="st_body_knife_needed">
+    <text>É necessária uma faca</text>
+  </string>
+  <string id="st_body_knife_weak">
+    <text>É necessária uma faca mais resistente para este mutante</text>
+  </string>
+  <string id="st_body_useless">
+    <text>O corpo não tem nada de útil</text>
+  </string>
+  <string id="st_bribe_broke">
+    <text>Você quebrou as regras; o acordo com %s está cancelado.</text>
+  </string>
+  <string id="st_bribe_expired">
+    <text>O cessar-fogo com %s terminou.</text>
+  </string>
+  <string id="st_camp_help">
+    <text>A fogueira foi acesa com sucesso</text>
+  </string>
+  <string id="st_camp_m">
+    <text>Você precisa de um isqueiro para acender o fogo</text>
+  </string>
+  <string id="st_can_use_weapon_now">
+    <text>Agora você pode sacar sua arma.</text>
+  </string>
+  <string id="st_cant_sleep_find_shelter_mlr">
+    <text>É necessário encontrar um lugar mais seguro para dormir</text>
+  </string>
+  <string id="st_cant_sleep_outside_tent_mlr">
+    <text>Você precisa entrar na sua barraca para dormir</text>
+  </string>
+  <string id="st_codelock">
+    <text>Fechadura codificada ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_death_count">
+    <text>Você morreu %s vezes.</text>
+  </string>
+  <string id="st_detective_news">
+    <text>Suprimentos médicos foram deixados no depósito pessoal do Skadovsk por solucionar o mistério dos stalkers desaparecidos.</text>
+  </string>
+  <string id="st_disguse_actor_exposed">
+    <text>Você foi descoberto! Todos sabem que é membro disfarçado de %s.</text>
+  </string>
+  <string id="st_drx_questlines_and_this_one">
+    <text>E esta também...</text>
+  </string>
+  <string id="st_drx_questlines_faction">
+    <text> facção.</text>
+  </string>
+  <string id="st_drx_questlines_joined">
+    <text>Você se juntou à</text>
+  </string>
+  <string id="st_duty_first_reward_news">
+    <text>Uma roupa de proteção universal PS5-M foi colocada no depósito pessoal em Yanov por ajudar o Dever.</text>
+  </string>
+  <string id="st_duty_second_reward_news">
+    <text>Uma armadura PSZ-9d do Dever foi colocada no depósito pessoal em Yanov por ajudar o Dever.</text>
+  </string>
+  <string id="st_extinguish_fire">
+    <text>Apagar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_fail">
+    <text>Não foi possível acender a fogueira</text>
+  </string>
+  <string id="st_found_new_treasure">
+    <text>Coordenadas do esconderijo recebidas</text>
+  </string>
+  <string id="st_found_old_treasure">
+    <text>Coordenadas recebidas de um esconderijo já descoberto.</text>
+  </string>
+  <string id="st_freedom_first_reward_news">
+    <text>Uma roupa Vento da Liberdade foi colocada no depósito pessoal em Yanov por ajudar a Liberdade.</text>
+  </string>
+  <string id="st_freedom_second_reward_news">
+    <text>Uma roupa Guarda da Liberdade foi colocada no depósito pessoal em Yanov por ajudar a Liberdade.</text>
+  </string>
+  <string id="st_freeplay_text_ok">
+    <text>Você não conseguiu chegar aos helicópteros, e a equipe de evacuação deixou a Zona sem você.</text>
+  </string>
+  <string id="st_freeplay_text_yes_no">
+    <text>Você está pronto para deixar a Zona? Não há como voltar.</text>
+  </string>
+  <string id="st_game_over">
+    <text> </text>
+  </string>
+  <string id="st_game_over_press_jump">
+    <text> </text>
+  </string>
+  <string id="st_game_paused">
+    <text>Pausado</text>
+  </string>
+  <string id="st_game_saved">
+    <text>Jogo salvo</text>
+  </string>
+  <string id="st_got_treasure">
+    <text>Esconderijo encontrado</text>
+  </string>
+  <string id="st_helmet_countdown">
+    <text>Proteção desligada</text>
+  </string>
+  <string id="st_herald_of_justice_news">
+    <text>Um artefato foi colocado no depósito pessoal do Skadovsk por ajudar a desmascarar a Pega.</text>
+  </string>
+  <string id="st_ignite_far">
+    <text>Não há fogueira por perto ou você está muito longe</text>
+  </string>
+  <string id="st_ignite_fire">
+    <text>Acender ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_ignite_wait">
+    <text>Você precisa esperar um pouco antes de acendê-lo novamente</text>
+  </string>
+  <string id="st_imm_befor_swiss">
+    <text>Você precisa de algo afiado para abrir a lata</text>
+  </string>
+  <string id="st_imm_need_swiss">
+    <text>Para abrir a lata, você precisa de um canivete suíço</text>
+  </string>
+  <string id="st_imm_smoke_already_used">
+    <text>Você já tem um efeito semelhante e mais potente</text>
+  </string>
+  <string id="st_imm_smoke_fail">
+    <text>Você precisa de fósforos para acender o cigarro</text>
+  </string>
+  <string id="st_imm_swiss_broken">
+    <text>Seu canivete suíço quebrou</text>
+  </string>
+  <string id="st_impending_doom">
+    <text>Emissão iminente</text>
+  </string>
+  <string id="st_ironman_new_life">
+    <text>NOVA VIDA CONCEDIDA! Você morreu %s vezes. Vidas restantes: %s</text>
+  </string>
+  <string id="st_item_taken">
+    <text>%s</text>
+  </string>
+  <string id="st_itm_manager_greater_effect">
+    <text>Você já tem um efeito semelhante mais eficiente: %s</text>
+  </string>
+  <string id="st_itm_manager_missing_requirements">
+    <text>É necessário %s!</text>
+  </string>
+  <string id="st_itm_stash">
+    <text>esconderijo</text>
+  </string>
+  <string id="st_itm_stash_of_character">
+    <text>Depósito de %s</text>
+  </string>
+  <string id="st_jup_b41_door_locked">
+    <text>Você precisa esperar até que o cais fique hermético</text>
+  </string>
+  <string id="st_labx18_pass_to_1st_door">
+    <text>Excelente, colega. Fico feliz que tenha recebido acesso de nível 2. Finalmente descobrirá o que acontece no nosso laboratório. Seu código de acesso é 1243. Chefe do Laboratório X18, Piotr Ilich Kalugin.</text>
+  </string>
+  <string id="st_labx18_pass_to_2nd_door">
+    <text>Caro colega, lembro que a partir de amanhã você ficará responsável pelo contêiner na sala central do laboratório. Deve inspecionar os contêineres a cada duas horas. Relate tudo diretamente a mim. O código da sala central é 9524. Chefe do Laboratório X18, Piotr Ilyitch Kalugin.</text>
+  </string>
+  <string id="st_letter_is_known">
+    <text>Você já leu isto</text>
+  </string>
+  <string id="st_lttz_eidolon_strelok_message">
+    <text>O esquadrão de reconhecimento foi derrotado. É hora de lançar um último ataque ao centro de Pripyat.</text>
+  </string>
+  <string id="st_lttz_gen_stitch_message">
+    <text>Ei, é você? Venha aqui, rápido!</text>
+  </string>
+  <string id="st_lttz_intercepted_transmission_message">
+    <text>...vamos acampar por enquanto nas oficinas da subestação abandonada. Localizamos a unidade SR inimiga e estamos nos preparando para...</text>
+  </string>
+  <string id="st_lttz_kat_rogue_message">
+    <text>Isso não vai ser fácil. Avance devagar. Fique de olho nas portas e nos cantos.</text>
+  </string>
+  <string id="st_lttz_limansk_rogue_message">
+    <text>Ei, durão. Temos um problema em Limansk. Vou precisar da sua ajuda. Aqui estão minhas coordenadas.</text>
+  </string>
+  <string id="st_lttz_mon_strelok_message">
+    <text>O Fragmento está muito bem protegido. Precisamos matar todos os guardas.</text>
+  </string>
+  <string id="st_lttz_oa_army_degtyarev_jup_meet_msg">
+    <text>%s, aqui é %s. Encontre-me em Jupiter, tenho algo para conversar com você.</text>
+  </string>
+  <string id="st_lttz_pripyat_degtyarev_message">
+    <text>Aqui é o coronel Alexander Degtyarev, do Serviço de Segurança da Ucrânia. Sabemos que você está aí, Strelok, e sabe por que viemos. Guarde as armas e saia devagar, um de cada vez. Se cooperar, evitaremos a violência.</text>
+  </string>
+  <string id="st_lttz_pripyat_rogue_message">
+    <text>A-ajuda... alguém... me ajude!</text>
+  </string>
+  <string id="st_lttz_pripyat_stitch_message">
+    <text>Merda, merda, merda! Preciso de ajuda aqui! Alguém?!</text>
+  </string>
+  <string id="st_lttz_pripyat_strelok_message">
+    <text>Estou enfrentando forças do Monólito perto do hospital abandonado. Qualquer ajuda seria bem-vinda.</text>
+  </string>
+  <string id="st_lttz_pripyat_strelok_message2">
+    <text>Você nunca poderá sair da Zona, coronel, esteja atacando a Usina ou escondido do outro lado do planeta. Enquanto ela existir, ameaçará o mundo inteiro. Seus superiores não podem varrer isso para debaixo do tapete. Receio que não vou me juntar a vocês.</text>
+  </string>
+  <string id="st_lttz_pripyat_unisg_message">
+    <text>Esta é a última vez que você interfere no nosso trabalho, coronel. Faça suas preces.</text>
+  </string>
+  <string id="st_lttz_stancia_strelok_message">
+    <text>Vamos entrar no Sarcófago. Recupere o fôlego antes de seguirmos. Vai ser difícil.</text>
+  </string>
+  <string id="st_lttz_war_stitch_message">
+    <text>Droga! A porta está trancada! Vamos ver... O que fazer...? E se...? Olha, o código da saída dos fundos era 26041986. Confira aqui também; não vai fazer mal.</text>
+  </string>
+  <string id="st_lttz_yanov_invitation2_message">
+    <text>Olá, stalker. Que tal vir até mim para conversarmos?</text>
+  </string>
+  <string id="st_lttz_yanov_invitation_message">
+    <text>Vejo que você está por perto. Que tal vir à estação Yanov para conversarmos?</text>
+  </string>
+  <string id="st_lx18_pda">
+    <text>Ouvir a gravação do PDA</text>
+  </string>
+  <string id="st_lx8_button_press_true">
+    <text>Acesso concedido</text>
+  </string>
+  <string id="st_lx8_lift_button">
+    <text>Subir pelo elevador ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_make_a_wish">
+    <text>Fazer um desejo ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_msg_unlocked_routes">
+    <text>Novos locais foram marcados no seu PDA.</text>
+  </string>
+  <string id="st_mutant_hunter_news">
+    <text>Munição foi colocada no depósito pessoal em Yanov por eliminar mutantes perigosos.</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_1">
+    <text>INTRUSO!!!</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_2">
+    <text>ESPIÃO!! ATIREM NELE.</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_3">
+    <text>UM ESPIÃO!! RÁPIDO! ABRAM FOGO!</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_4">
+    <text>ESSE CARA É INIMIGO!!! ATIREM AGORA!</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_5">
+    <text>PARE AÍ, ESCÓRIA CRIMINOSA! Pague uma multa ao tribunal ou cumpra sua pena. Seus bens roubados serão confiscados.</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_1">
+    <text>Você estava espionando alguém?! Quem mandou você?</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_2">
+    <text>Disfarçado? Você acha isso engraçado?</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_3">
+    <text>Você não engana ninguém, idiota.</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_4">
+    <text>Vá embora.</text>
+  </string>
+  <string id="st_news_goodwill_enemy_1">
+    <text>%s não recebeu isso muito bem.</text>
+  </string>
+  <string id="st_news_goodwill_intro_1">
+    <text>Estão se espalhando rumores sobre seus esforços recentes.</text>
+  </string>
+  <string id="st_news_goodwill_intro_lose_1">
+    <text>Estão se espalhando rumores sobre seu fracasso recente.</text>
+  </string>
+  <string id="st_news_goodwill_main_1">
+    <text>Você conquistou mais confiança entre %s.</text>
+  </string>
+  <string id="st_news_goodwill_main_lose_1">
+    <text>Você está perdendo a confiança de %s.</text>
+  </string>
+  <string id="st_news_goodwill_update_title">
+    <text>Mudança de ordens</text>
+  </string>
+  <string id="st_nobody_left_to_replace">
+    <text>Não há mais substitutos.</text>
+  </string>
+  <string id="st_nothing_useful">
+    <text>Nada de útil</text>
+  </string>
+  <string id="st_oa_transmission_decryption">
+    <text>Decodificando transmissão</text>
+  </string>
+  <string id="st_only_campfire_load">
+    <text>Não é possível carregar o jogo enquanto estiver vivo</text>
+  </string>
+  <string id="st_only_campfire_quit">
+    <text>Não é possível sair do jogo enquanto estiver vivo</text>
+  </string>
+  <string id="st_only_campfire_save">
+    <text>O salvamento manual está desativado (somente em fogueiras)</text>
+  </string>
+  <string id="st_press_any_key">
+    <text>Pressione qualquer tecla para continuar</text>
+  </string>
+  <string id="st_pri_b306_go_down">
+    <text>Descer pelo elevador ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_pri_special_trader_mlr_message">
+    <text>Griffin:\nStalker, você está no território do Sindicato. Não será atacado, mas esperamos que se comporte direito. Se estiver procurando trabalho, talvez eu tenha algo para você.</text>
+  </string>
+  <string id="st_pri_special_trader_mlr_message2">
+    <text>Meeker:\nSeu pedido chegou, stalker. Venha buscá-lo.</text>
+  </string>
+  <string id="st_psy_danger">
+    <text>Nível perigoso de emissão psi. É preciso proteção para avançar.</text>
+  </string>
+  <string id="st_radiation_danger">
+    <text>Nível perigoso de radiação. É preciso proteção para avançar.</text>
+  </string>
+  <string id="st_recipe_is_known">
+    <text>Você já leu isto</text>
+  </string>
+  <string id="st_resupply_ready">
+    <text>Você pode reabastecer remédios e munição visitando o tenente Rogovets e o tenente Kirillov.</text>
+  </string>
+  <string id="st_screen_field_dress">
+    <text>Coletar partes</text>
+  </string>
+  <string id="st_screen_kick">
+    <text>Chutar</text>
+  </string>
+  <string id="st_search_helicopter">
+    <text>Examinar o helicóptero ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_search_treasure">
+    <text>Revistar o esconderijo ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_sleep_awake">
+    <text>Você não precisa descansar</text>
+  </string>
+  <string id="st_sleep_awake_wired">
+    <text>O excesso de cafeína impede você de descansar</text>
+  </string>
+  <string id="st_sleep_bleeding">
+    <text>Você está sangrando; procure atendimento médico</text>
+  </string>
+  <string id="st_sleep_bleeding_irradiated">
+    <text>Você está sangrando e irradiado; procure atendimento médico</text>
+  </string>
+  <string id="st_sleep_deprived">
+    <text>Você foi morto enquanto estava inconsciente</text>
+  </string>
+  <string id="st_sleep_event">
+    <text>Você não é louco a ponto de descansar durante isso</text>
+  </string>
+  <string id="st_sleep_exhausted">
+    <text>Você está exausto e precisa descansar</text>
+  </string>
+  <string id="st_sleep_exhausted_final">
+    <text>Você está extremamente exausto: descanse imediatamente!</text>
+  </string>
+  <string id="st_sleep_hours">
+    <text>h</text>
+  </string>
+  <string id="st_sleep_irradiated">
+    <text>Você está irradiado; procure atendimento médico</text>
+  </string>
+  <string id="st_stash_created">
+    <text>Esconderijo criado</text>
+  </string>
+  <string id="st_stash_no_backpack_found">
+    <text>Nenhuma mochila equipada</text>
+  </string>
+  <string id="st_stash_placed">
+    <text>Você já colocou um esconderijo</text>
+  </string>
+  <string id="st_stash_unsafe">
+    <text>Não é possível colocar o esconderijo aqui</text>
+  </string>
+  <string id="st_surge_while_asleep">
+    <text>Uma emissão ocorreu recentemente na Zona.</text>
+  </string>
+  <string id="st_swsh">
+    <text>Você precisa de algo afiado para abrir a lata</text>
+  </string>
+  <string id="st_tip">
+    <text>Mensagem</text>
+  </string>
+  <string id="st_tiski">
+    <text>Usar a oficina ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_tiski_no_info">
+    <text>Você não tem permissão para usar esta morsa</text>
+  </string>
+  <string id="st_toggle_animation_off">
+    <text>As animações dos itens estão desativadas</text>
+  </string>
+  <string id="st_toggle_animation_on">
+    <text>As animações dos itens estão ativadas</text>
+  </string>
+  <string id="st_travel_already_here">
+    <text>Você já está no destino</text>
+  </string>
+  <string id="st_travel_event">
+    <text>Não é seguro viajar com inimigos por perto</text>
+  </string>
+  <string id="st_travel_overloaded">
+    <text>Você está carregando peso demais</text>
+  </string>
+  <string id="st_ui_campfire_prereq">
+    <text>É preciso ter fósforos ou um kit para acender fogueiras.</text>
+  </string>
+  <string id="st_ui_heli">
+    <text>Helicóptero</text>
+  </string>
+  <string id="st_ui_no_save_bleed">
+    <text>Você não pode %s enquanto estiver sangrando.</text>
+  </string>
+  <string id="st_ui_no_save_bleed_radiation">
+    <text>Você não pode %s enquanto estiver sangrando ou irradiado.</text>
+  </string>
+  <string id="st_ui_no_save_campfire">
+    <text>Você só pode %s perto de fogueiras.</text>
+  </string>
+  <string id="st_ui_no_save_combat">
+    <text>Você não pode %s durante o combate.</text>
+  </string>
+  <string id="st_ui_no_save_injury_1">
+    <text>Você não pode %s enquanto estiver com ferimentos moderados.</text>
+  </string>
+  <string id="st_ui_no_save_injury_2">
+    <text>Você não pode %s enquanto estiver com ferimentos sérios.</text>
+  </string>
+  <string id="st_ui_no_save_injury_3">
+    <text>Você não pode %s enquanto estiver com ferimentos graves.</text>
+  </string>
+  <string id="st_ui_no_save_injury_4">
+    <text>Você não pode %s enquanto estiver com ferimentos críticos.</text>
+  </string>
+  <string id="st_ui_no_save_radiation">
+    <text>Você não pode %s enquanto estiver irradiado.</text>
+  </string>
+  <string id="st_ui_no_save_surge">
+    <text>Você não pode %s durante uma emissão ou tempestade psi.</text>
+  </string>
+  <string id="st_ui_no_save_timer">
+    <text>O temporizador está ativo; você ainda não pode %s.</text>
+  </string>
+  <string id="st_use_action_sit">
+    <text>Sentar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_yan_saharov_message">
+    <text>Muito bem, você conseguiu chegar até aqui. É extremamente importante estudarmos a máquina no laboratório. Tente desligá-la para que possamos examiná-la.</text>
+  </string>
+  <string id="st_yan_saharov_message_2">
+    <text>Escute, este protótipo não protegerá você por muito tempo contra emissões potentes. Cada detecção ativa um cronômetro. Quando o tempo acabar, ele deixará de proteger você. Tenha cuidado e acompanhe o tempo.</text>
+  </string>
+  <string id="st_yan_saharov_message_3">
+    <text>Muito bem. A emissão foi desligada e você continua vivo. Ah, e apareça no nosso bunker de vez em quando, está bem?</text>
+  </string>
+  <string id="st_zone_disappeared">
+    <text> DESEJO REALIZADO! </text>
+  </string>
+  <string id="tip_door_blocked">
+    <text>Porta bloqueada</text>
+  </string>
+  <string id="tip_door_close">
+    <text>Fechar a porta ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_door_closed_base_alarm">
+    <text>Porta trancada: o acampamento está em alerta</text>
+  </string>
+  <string id="tip_door_closed_hide_weapon">
+    <text>Porta trancada: você precisa guardar sua arma</text>
+  </string>
+  <string id="tip_door_coded">
+    <text>A porta está trancada por um código</text>
+  </string>
+  <string id="tip_door_decode">
+    <text>Pressione ($$ACTION_USE$$) para decodificar a porta</text>
+  </string>
+  <string id="tip_door_decoding">
+    <text>Decodificação em andamento</text>
+  </string>
+  <string id="tip_door_locked">
+    <text>Porta trancada</text>
+  </string>
+  <string id="tip_door_no_electricity">
+    <text>A porta não está recebendo energia</text>
+  </string>
+  <string id="tip_door_open">
+    <text>Abrir a porta ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_gate_locked">
+    <text>Portão bloqueado</text>
+  </string>
+  <string id="tip_need_access_card">
+    <text>Usar o cartão de acesso ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_no_access_card">
+    <text>É necessário um cartão de acesso</text>
+  </string>
+  <string id="tip_open_another_site">
+    <text>A porta não pode ser aberta deste lado</text>
+  </string>
+  <string id="tips_labx16switcher_press">
+    <text>Desligar a Máquina Milagrosa ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tips_rad_switcher_press">
+    <text>Desligar o Queimador Cerebral ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tips_warlab_switcher_press">
+    <text>Desligar os geradores ($$ACTION_USE$$)</text>
+  </string>
+  <string id="ui_st_disguse_back_to_default">
+    <text>Você voltou a ser identificado como membro de %s.</text>
+  </string>
+  <string id="ui_st_disguse_blacklisted_faction">
+    <text>Você não pode se disfarçar de membro de %s.</text>
+  </string>
+  <string id="ui_st_disguse_disabled">
+    <text>O sistema de disfarce está desativado.</text>
+  </string>
+  <string id="ui_st_disguse_naked">
+    <text>Sem disfarce, os stalkers saberão que você é membro da comunidade %s.</text>
+  </string>
+  <string id="ui_st_disguse_on">
+    <text>Com esta roupa, a maioria dos stalkers vai presumir que você faz parte da comunidade %s.</text>
+  </string>
+  <string id="ui_st_disguse_patch_attach_now">
+    <text>Você colocou um emblema de %s nesta roupa; agora ela pode ser usada como disfarce.</text>
+  </string>
+  <string id="ui_st_disguse_patch_torn">
+    <text>O emblema desta roupa está rasgado; os stalkers pensarão que você faz parte da comunidade %s.</text>
+  </string>
+  <string id="ui_st_disguse_patch_torn_now">
+    <text>Você rasgou o emblema de %s nesta roupa; ela não pode mais ser usada como disfarce.</text>
+  </string>
+  <string id="ui_st_disguse_someone_remember">
+    <text>Você foi visto recentemente; todos se lembram de você como membro de %s.</text>
+  </string>
+  <string id="ui_st_disguse_someone_saw">
+    <text>Viram você trocando de roupa; todos se lembram de você como membro de %s.</text>
+  </string>
+  <string id="ui_st_mp_create">
+    <text>Criar</text>
+  </string>
+  <string id="ui_st_mp_experience_grow">
+    <text>-</text>
+  </string>
+  <string id="zat_b12_conteiner_full_locked">
+    <text>O contêiner está trancado. São necessárias duas chaves para abri-lo.</text>
+  </string>
+  <string id="zat_b12_conteiner_has_one_key">
+    <text>Usar a chave ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_has_two_key">
+    <text>Usar as chaves ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_locked">
+    <text>O contêiner está trancado. Você precisa da segunda chave para abri-lo.</text>
+  </string>
+  <string id="zat_b12_conteiner_open">
+    <text>Abrir o contêiner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b14_door_locked_hint">
+    <text>O mecanismo da porta foi bloqueado por dentro.</text>
+  </string>
+  <string id="zat_b33_car_searching_tip">
+    <text>Revistar o carro ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b57_balon_use_hint">
+    <text>Conectar o tanque de gás ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b57_gas_warning">
+    <text>Aviso! Perigo químico!</text>
+  </string>
+  <string id="zat_b57_vintil_press">
+    <text>Girar a válvula ($$ACTION_USE$$)</text>
+  </string>
+</string_table>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_water">
+    <text>Вода</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm">
+    <text>Розмиття</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm_desc">
+    <text>Інтенсивність розмиття відбиттів.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm">
+    <text>Візерунок розмиття</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm_desc">
+    <text>Наскільки змінюється розмиття відбиттів. ( 0 = вимкнено )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm">
+    <text>Інтенсивність каустики</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm_desc">
+    <text>Інтенсивність ефекту каустики.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm">
+    <text>Спотворення хвиль</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm_desc">
+    <text>Інтенсивність спотворення відбиття та заломлення.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm">
+    <text>Висота паралаксу</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm_desc">
+    <text>Максимальна висота ефекту паралаксу хвиль.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm">
+    <text>Якість паралаксу</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Кількість вибірок ефекту паралаксу хвиль. Менші значення можуть підвищити продуктивність. [ 8, 16, 32 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm">
+    <text>Інтенсивність відбиття</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm_desc">
+    <text>Інтенсивність відбиттів води.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm">
+    <text>Інтенсивність брижів</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm_desc">
+    <text>Інтенсивність ефекту дощових брижів.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm">
+    <text>М’який край</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm_desc">
+    <text>Налаштовує м’якість меж води.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm">
+    <text>Інтенсивність відблисків</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm_desc">
+    <text>Інтенсивність дзеркального відблиску на воді.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm">
+    <text>Якість SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Кількість вибірок для відтворення відбиттів. Вищі значення можуть суттєво знизити продуктивність і збільшити час першого завантаження після очищення кешу шейдерів. [ 8, 16, 24, 32, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm">
+    <text>Роздільність SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm_desc">
+    <text>Роздільність відтворення SSR. Її зниження може підвищити продуктивність. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_title">
+    <text>Налаштування води</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm">
+    <text>Каламутність води</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm_desc">
+    <text>Налаштовує каламутність води. [ 0.0 = прозора вода ]</text>
+  </string>
+</string_table>

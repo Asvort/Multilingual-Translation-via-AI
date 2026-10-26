@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Detection Radius (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>How far NPCs can detect anomalies. Higher = earlier detection but more pathfinding restrictions. Default: 30m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Block on Corpses</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Prevent anomalies from activating on dead bodies. Stops ragdoll physics glitches and improves performance.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Cache Rebuild Delay (s)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Delay after surge/psy-storm before rebuilding anomaly cache. Needed for Arrival mod compatibility. Default: 2.5s</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Cleanup Old Markers</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Remove leftover anomaly markers from previous sessions. Enable, apply, then disable. One-time cleanup action.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>Combat</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Miss chance multiplier when NPC is in combat. Distracted NPCs are much more likely to run into anomalies. Default: 3.0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Damage Settings</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Debug Mode</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Enable debug logging to console. Shows detection rolls, damage events, and death attribution.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Detection Settings</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Effect Radius (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>NPCs beyond this distance from player are protected from anomaly damage. Prevents distant NPC deaths. Default: 300m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Outfit Protection</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Apply damage reduction based on NPC outfit. Reads protection values from outfit configs (burn, shock, chemical, etc).</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>General Settings</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Immune at 0% Miss</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>NPCs with 0% base miss chance become completely immune to anomaly damage. Safety net for veterans.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>Enable MAI</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Enable or disable the MAI mod entirely. When disabled, NPCs will ignore anomalies completely.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Movement State Multipliers</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Experienced</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Base miss chance for Experienced stalkers. Default: 50%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Expert</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Base miss chance for Expert stalkers. Default: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Legend</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Base miss chance for Legend stalkers. Default: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Master</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Base miss chance for Master stalkers. Default: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Novice</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Base miss chance for Novice stalkers. 100% = always might walk into anomalies. Default: 100%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Professional</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Base miss chance for Professional stalkers. Default: 25%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Rank Base Miss Chance (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Trainee</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Base miss chance for Trainee stalkers. Default: 75%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Veteran</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Base miss chance for Veteran stalkers. 0% = never walks into anomalies. Default: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Global Pathfinding</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>If enabled, all NPCs avoid anomalies regardless of distance. If disabled, only NPCs within effect radius get restrictions.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Running</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Miss chance multiplier when NPC is running. Higher = more likely to miss anomalies. Default: 1.2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Show Anomalies on Map</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Show all cached anomalies on PDA map as markers. Useful for debugging pathfinding. Toggle off to remove markers.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Standing</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Miss chance multiplier when NPC is standing still. Lower = more careful observation. Default: 0.3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 - Mutant/Anomaly Interaction</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Verbose Debug</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Enable verbose debug logging. Shows update loop info, cache rebuilds, restriction changes. Very spammy!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Walking</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Miss chance multiplier when NPC is walking. Default: 0.6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>MAI - Anomaly Interaction</text>
+  </string>
+</string_table>

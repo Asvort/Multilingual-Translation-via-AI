@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="Btn_Cancel">
+    <text>İptal</text>
+  </string>
+  <string id="Btn_No">
+    <text>Hayır</text>
+  </string>
+  <string id="Btn_OK">
+    <text>Tamam</text>
+  </string>
+  <string id="Btn_Yes">
+    <text>Evet</text>
+  </string>
+  <string id="ammo12x70_making">
+    <text>Fişekleri hazırlıyorum, biraz zaman alabilir. </text>
+  </string>
+  <string id="ammo12x70_making_end">
+    <text>Fişekler hazır.</text>
+  </string>
+  <string id="backpack_making">
+    <text>Bu sırt çantasını yapmak biraz zaman alacak.</text>
+  </string>
+  <string id="backpack_making_end">
+    <text>Sırt çantası hazır.</text>
+  </string>
+  <string id="global_map">
+    <text>Bölge Haritası</text>
+  </string>
+  <string id="mm_mp_pda_hunt">
+    <text>PDA avı ödülü</text>
+  </string>
+  <string id="mp_only_one_voting">
+    <text>Yalnızca bir etkin oylamaya izin verilir</text>
+  </string>
+  <string id="mp_si_sec">
+    <text>sn</text>
+  </string>
+  <string id="selfroll_making">
+    <text>Sigara sarıyorum, uzun sürmez.</text>
+  </string>
+  <string id="selfroll_making_end">
+    <text>Sigara hazır.</text>
+  </string>
+  <string id="sleepbag_making">
+    <text>Bu uyku tulumunu dikmek biraz zaman alacak.</text>
+  </string>
+  <string id="sleepbag_making_end">
+    <text>Uyku tulumu hazır.</text>
+  </string>
+  <string id="st_body_kick">
+    <text>Tekmele</text>
+  </string>
+  <string id="st_body_loot">
+    <text>Parçala</text>
+  </string>
+  <string id="st_cfm">
+    <text>Yemek seti yalnızca yanan bir kamp ateğinin yanında kullanılabilir</text>
+  </string>
+  <string id="st_charging">
+    <text>Mevcut şarj: </text>
+  </string>
+  <string id="st_dont_has_knife">
+    <text>Bıçak gerekiyor</text>
+  </string>
+  <string id="st_fast_travel_discovered">
+    <text> : konum keşfedildi</text>
+  </string>
+  <string id="st_full_charge">
+    <text>Pil tamamen dolu</text>
+  </string>
+  <string id="st_future_maps_descr">
+    <text>Buradan geçemezsin.</text>
+  </string>
+  <string id="st_game">
+    <text>Oyun</text>
+  </string>
+  <string id="st_hold_then_release">
+    <text>Basılı tutun, ardından bırakın</text>
+  </string>
+  <string id="st_invalid_position">
+    <text>Erişim dışında</text>
+  </string>
+  <string id="st_item_used">
+    <text>Kullanıldı</text>
+  </string>
+  <string id="st_key_notbinded">
+    <text>...</text>
+  </string>
+  <string id="st_level">
+    <text>Seviye</text>
+  </string>
+  <string id="st_level_changer_descr">
+    <text>Barınağa dönülsün mü?</text>
+  </string>
+  <string id="st_loading_ai_objects">
+    <text>Yapay zekâ nesneleri yükleniyor</text>
+  </string>
+  <string id="st_loading_alife_simulator">
+    <text>Sunucu: yaşam simülasyonu yükleniyor</text>
+  </string>
+  <string id="st_loading_cform">
+    <text>Nesne biçimleri yükleniyor</text>
+  </string>
+  <string id="st_loading_details">
+    <text>Nesne ayrıntıları yükleniyor</text>
+  </string>
+  <string id="st_loading_geometry">
+    <text>Geometri yükleniyor</text>
+  </string>
+  <string id="st_loading_saved_game">
+    <text>Kayıtlı oyun yükleniyor</text>
+  </string>
+  <string id="st_loading_sectors_portals">
+    <text>Bölgeler ve portallar yükleniyor</text>
+  </string>
+  <string id="st_loading_shaders">
+    <text>Gölgelendiriciler yükleniyor</text>
+  </string>
+  <string id="st_loading_spatial_db">
+    <text>Mekânsal veritabanı yükleniyor</text>
+  </string>
+  <string id="st_loading_textures">
+    <text>Dokular yükleniyor</text>
+  </string>
+  <string id="st_mp_direct_ip">
+    <text>Doğrudan IP</text>
+  </string>
+  <string id="st_no_active_task">
+    <text>Etkin görev yok</text>
+  </string>
+  <string id="st_not_enough_money">
+    <text>Yeterli para yok</text>
+  </string>
+  <string id="st_not_enough_money_npc">
+    <text>NPC'nin yeterli parası yok</text>
+  </string>
+  <string id="st_opening_stream">
+    <text>Akış açılıyor</text>
+  </string>
+  <string id="st_prefetching_objects">
+    <text>Nesneler önceden yükleniyor</text>
+  </string>
+  <string id="st_rad_level">
+    <text>Radyasyon seviyesi</text>
+  </string>
+  <string id="st_repair_mod_message_box_ask">
+    <text>%s öğesini onarmak istediğinizden emin misiniz?\n \n%c[255,1,255,1]+%s%</text>
+  </string>
+  <string id="st_repair_mod_message_box_condition_to_high">
+    <text>Bu aletler bu eşyayı daha fazla onaramaz.</text>
+  </string>
+  <string id="st_repair_mod_message_box_condition_to_low">
+    <text>Eşya bu aletlerle onarılamayacak kadar hasarlı.</text>
+  </string>
+  <string id="st_rubles">
+    <text>ruble.</text>
+  </string>
+  <string id="st_save_jup_a10_gonna_return_debt">
+    <text>Vano'nun borcu ödendi</text>
+  </string>
+  <string id="st_save_jup_a12_gave_artefact_for_hostage">
+    <text>Rehine fidye karşılığı kurtarıldı</text>
+  </string>
+  <string id="st_save_jup_a12_met_with_liberators">
+    <text>Rehine kurtarma</text>
+  </string>
+  <string id="st_save_jup_a9_got_underpass_docs">
+    <text>Pripyat'a giden yol bulundu</text>
+  </string>
+  <string id="st_save_jup_b15_drunk_with_zulu">
+    <text>Zulu ekibe katıldı</text>
+  </string>
+  <string id="st_save_jup_b16_passed_labyrinth">
+    <text>Vaha bulundu</text>
+  </string>
+  <string id="st_save_jup_b19_arrived_to_kopachy">
+    <text>Kopachi'ye gönderildi</text>
+  </string>
+  <string id="st_save_jup_b1_entered_railroad_tunnel">
+    <text>Psi yayılımı kaynağı aranıyor</text>
+  </string>
+  <string id="st_save_jup_b206_got_anomalous_plant">
+    <text>Anomalili bitki alındı</text>
+  </string>
+  <string id="st_save_jup_b207_arrived_to_duty_depot">
+    <text>Borç deposu</text>
+  </string>
+  <string id="st_save_jup_b209_placed_mutant_scanner">
+    <text>Mutant varlığı algılayıcısı</text>
+  </string>
+  <string id="st_save_jup_b217_arrived_to_jup">
+    <text>Yanov'a varış</text>
+  </string>
+  <string id="st_save_jup_b218_sokolov_in_squad">
+    <text>Sokolov ekibe katıldı</text>
+  </string>
+  <string id="st_save_jup_b218_strider_in_squad">
+    <text>Strider ekibe katıldı</text>
+  </string>
+  <string id="st_save_jup_b218_travel_jup_to_pas">
+    <text>Ekip toplandı</text>
+  </string>
+  <string id="st_save_jup_b218_vano_in_squad">
+    <text>Vano ekibe katıldı</text>
+  </string>
+  <string id="st_save_jup_b47_got_admin_docs">
+    <text>Yönetim belgeleri bulundu</text>
+  </string>
+  <string id="st_save_jup_b6_arrived_to_ash_heap">
+    <text>Kül Yığını anomalisinde ölçümler</text>
+  </string>
+  <string id="st_save_jup_b6_arrived_to_fen">
+    <text>Taşkın Ovası anomalisi ölçüldü</text>
+  </string>
+  <string id="st_save_jup_b8_searched_heli_4">
+    <text>Scat-4 araştırıldı</text>
+  </string>
+  <string id="st_save_jup_b9_searched_heli_1">
+    <text>Scat-1 araştırıldı</text>
+  </string>
+  <string id="st_save_pas_b400_underpass_start">
+    <text>Alt geçide varış</text>
+  </string>
+  <string id="st_save_pri_a16_arrived_to_pri">
+    <text>Askerler bulundu</text>
+  </string>
+  <string id="st_save_pri_a17_hospital_start">
+    <text>Bilinmeyen silah ele geçirildi</text>
+  </string>
+  <string id="st_save_pri_a18_met_reinforcement">
+    <text>Takviye geldi</text>
+  </string>
+  <string id="st_save_pri_a18_searched_antenna">
+    <text>Anten incelendi</text>
+  </string>
+  <string id="st_save_pri_a20_found_dead_recon">
+    <text>Keşif ekibi bulundu</text>
+  </string>
+  <string id="st_save_pri_a21_approached_mad_sentry">
+    <text>Kayıp nöbetçi bulundu</text>
+  </string>
+  <string id="st_save_pri_a21_killed_controller">
+    <text>Nöbetçinin yakınındaki kontrolcü öldürüldü</text>
+  </string>
+  <string id="st_save_pri_a22_found_dead_squad">
+    <text>Ölü asker bulundu</text>
+  </string>
+  <string id="st_save_pri_a25_freed_medic">
+    <text>Askerî doktor kurtarıldı</text>
+  </string>
+  <string id="st_save_pri_a25_gonna_place_explosive">
+    <text>Anaokuluna girildi</text>
+  </string>
+  <string id="st_save_pri_a28_evacuation_end">
+    <text>Tahliye helikopterlerine ulaşıldı</text>
+  </string>
+  <string id="st_save_pri_a28_evacuation_heli">
+    <text>Tahliye helikopterleri kalkıyor</text>
+  </string>
+  <string id="st_save_pri_a28_evacutaion_start">
+    <text>Pripyat'tan tahliye başladı</text>
+  </string>
+  <string id="st_save_pri_a28_talked_with_ssu">
+    <text>Komuta ile bağlantı kuruldu</text>
+  </string>
+  <string id="st_save_pri_b301_arrived_to_help_zulu">
+    <text>Zulu bulundu</text>
+  </string>
+  <string id="st_save_pri_b35_ready_to_snipe">
+    <text>Tek Atış Operasyonu başladı</text>
+  </string>
+  <string id="st_save_uni_labx8_to_pri">
+    <text>X-8'den Pripyat'a geçiş</text>
+  </string>
+  <string id="st_save_uni_pri_to_labx8">
+    <text>Pripyat'tan X-8'e geçiş</text>
+  </string>
+  <string id="st_save_uni_surge_start">
+    <text>Emisyon</text>
+  </string>
+  <string id="st_save_uni_travel_generic">
+    <text>Başka bir konuma geçiş</text>
+  </string>
+  <string id="st_save_uni_travel_jup_to_pri">
+    <text>Yanov'dan Pripyat'a geçiş</text>
+  </string>
+  <string id="st_save_uni_travel_jup_to_zat">
+    <text>Yanov'dan Zaton'a geçiş</text>
+  </string>
+  <string id="st_save_uni_travel_pas_to_pri">
+    <text>Pripyat çıkışı</text>
+  </string>
+  <string id="st_save_uni_travel_pri_to_jup">
+    <text>Pripyat'tan Yanov'a geçiş</text>
+  </string>
+  <string id="st_save_uni_travel_pri_to_zat">
+    <text>Pripyat'tan Zaton'a geçiş</text>
+  </string>
+  <string id="st_save_uni_travel_zat_to_jup">
+    <text>Zaton'dan Yanov'a geçiş</text>
+  </string>
+  <string id="st_save_uni_travel_zat_to_pri">
+    <text>Zaton'dan Pripyat'a geçiş</text>
+  </string>
+  <string id="st_save_uni_zone_to_reality">
+    <text>Bölgeden ayrılma</text>
+  </string>
+  <string id="st_save_zat_a1_game_start">
+    <text>Oyun başlangıcı</text>
+  </string>
+  <string id="st_save_zat_a23_entered_test_center">
+    <text>Test atölyesine girildi</text>
+  </string>
+  <string id="st_save_zat_a23_got_gauss_docs">
+    <text>Gauss silahı belgeleri bulundu</text>
+  </string>
+  <string id="st_save_zat_a2_reached_skadovsk">
+    <text>Skadovsk'a varış</text>
+  </string>
+  <string id="st_save_zat_b100_searched_heli_2">
+    <text>Scat-2 araştırıldı</text>
+  </string>
+  <string id="st_save_zat_b101_searched_heli_5">
+    <text>Scat-5 araştırıldı</text>
+  </string>
+  <string id="st_save_zat_b103_warned_by_mercs">
+    <text>Trafo merkezi atölyelerine yaklaşma</text>
+  </string>
+  <string id="st_save_zat_b106_arrived_to_chimera_lair">
+    <text>Kimera avı</text>
+  </string>
+  <string id="st_save_zat_b14_got_altered_wheel">
+    <text>Garip parıltının kaynağı bulundu</text>
+  </string>
+  <string id="st_save_zat_b18_noah_showed_teleport">
+    <text>Yaylaya giden yol</text>
+  </string>
+  <string id="st_save_zat_b28_searched_heli_3">
+    <text>Scat-3 araştırıldı</text>
+  </string>
+  <string id="st_save_zat_b33_got_container">
+    <text>Bir zulada konteyner bulundu</text>
+  </string>
+  <string id="st_save_zat_b38_met_with_grouse">
+    <text>Kan emici ini</text>
+  </string>
+  <string id="st_save_zat_b40_warned_by_mercs">
+    <text>Atık işleme tesisine yaklaşma</text>
+  </string>
+  <string id="st_save_zat_b42_arrived_to_controler_lair">
+    <text>Tehlikeli mağara</text>
+  </string>
+  <string id="st_save_zat_b5_met_with_others">
+    <text>Orman kulübesi yakınında anlaşma</text>
+  </string>
+  <string id="st_save_zat_b7_met_with_robbers">
+    <text>Stalkerlarla çatışma</text>
+  </string>
+  <string id="st_server_connecting">
+    <text>Sunucu: bağlanıyor</text>
+  </string>
+  <string id="st_server_starting">
+    <text>Sunucu: başlatılıyor</text>
+  </string>
+  <string id="st_set_companion_to_stealth_state">
+    <text>Gizlilik</text>
+  </string>
+  <string id="st_sleep">
+    <text>Uyu</text>
+  </string>
+  <string id="st_travel_lost">
+    <text>Yolu bilmiyorum.</text>
+  </string>
+  <string id="st_trx_input_symbols">
+    <text>1234567890</text>
+  </string>
+  <string id="st_trx_input_symbols_full">
+    <text>1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.</text>
+  </string>
+  <string id="st_trx_output_symbols">
+    <text>1234567890</text>
+  </string>
+  <string id="st_trx_output_symbols_full">
+    <text>1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.</text>
+  </string>
+  <string id="st_ui_arts">
+    <text>Eserler</text>
+  </string>
+  <string id="st_ui_place_art">
+    <text>Eseri yerleştir</text>
+  </string>
+  <string id="st_ui_remove_art">
+    <text>Eseri çıkar</text>
+  </string>
+  <string id="st_ui_save">
+    <text>Kaydet</text>
+  </string>
+  <string id="st_ui_selected">
+    <text>Seçildi</text>
+  </string>
+  <string id="st_validating_cdkey">
+    <text>CD anahtarı doğrulanıyor</text>
+  </string>
+  <string id="st_video">
+    <text>Video</text>
+  </string>
+  <string id="ui_inv_repair">
+    <text>Onar</text>
+  </string>
+  <string id="ui_st_cant_run_r2">
+    <text>Bilgisayarınızda ikinci bir görüntü oluşturucu çalıştıramazsınız.</text>
+  </string>
+  <string id="ui_st_conn_cdkey_disabled">
+    <text>Bağlantı hatası: CD anahtarınız engellendi. Destek ekibiyle iletişime geçin.</text>
+  </string>
+  <string id="ui_st_conn_cdkey_in_use">
+    <text>Bağlantı hatası: Bu CD anahtarı zaten kullanılıyor.</text>
+  </string>
+  <string id="ui_st_conn_cdkey_invalid">
+    <text>Bağlantı hatası: Geçersiz CD anahtarı.</text>
+  </string>
+  <string id="ui_st_conn_invalid_host">
+    <text>Bağlantı hatası: Geçersiz ana makine.</text>
+  </string>
+  <string id="ui_st_conn_invalid_pass">
+    <text>Bağlantı hatası: Hatalı parola.</text>
+  </string>
+  <string id="ui_st_conn_new_patch">
+    <text>Yeni bir yama mevcut.\n Sürüm: %s\n %s\n Şimdi indirmek ister misiniz?</text>
+  </string>
+  <string id="ui_st_conn_no_new_patch">
+    <text>Yeni yama yok</text>
+  </string>
+  <string id="ui_st_conn_rejected_server">
+    <text>Bağlantı hatası: Bağlantı sunucu tarafından kesildi.</text>
+  </string>
+  <string id="ui_st_conn_sess_full">
+    <text>Bağlantı hatası: Sunucu dolu.</text>
+  </string>
+  <string id="ui_st_conn_version_differs">
+    <text>Bağlantı hatası: Sürüm uyuşmazlığı.</text>
+  </string>
+  <string id="ui_st_connecting_to_masterserver">
+    <text>Ana sunucuya bağlanılıyor</text>
+  </string>
+  <string id="ui_st_days">
+    <text>g</text>
+  </string>
+  <string id="ui_st_error">
+    <text>Hata</text>
+  </string>
+  <string id="ui_st_error_loading">
+    <text>Yükleme hatası</text>
+  </string>
+  <string id="ui_st_exit_hint">
+    <text>Pencereyi kapat ($$ACTION_USE$$)</text>
+  </string>
+  <string id="ui_st_file_exist_owerwrite_q">
+    <text>Bu adda bir dosya zaten var. Üzerine yazılsın mı?</text>
+  </string>
+  <string id="ui_st_file_name_is_empty">
+    <text>Dosya adı boş</text>
+  </string>
+  <string id="ui_st_hours">
+    <text>sa</text>
+  </string>
+  <string id="ui_st_kicked_by_battleye">
+    <text>BattlEye tarafından bağlantısı kesildi:</text>
+  </string>
+  <string id="ui_st_kicked_by_server">
+    <text>Bağlantı kesildi. Neden: </text>
+  </string>
+  <string id="ui_st_leave">
+    <text>Ayrıl</text>
+  </string>
+  <string id="ui_st_load_game_confirm">
+    <text>Oyun yüklemek kaydedilmemiş verileri kaybettirir. Devam etmek istiyor musunuz?</text>
+  </string>
+  <string id="ui_st_mins">
+    <text>dk</text>
+  </string>
+  <string id="ui_st_months">
+    <text>ay</text>
+  </string>
+  <string id="ui_st_opponent_items">
+    <text>Sırt çantası</text>
+  </string>
+  <string id="ui_st_params">
+    <text>Ayarlar</text>
+  </string>
+  <string id="ui_st_patch_download_error">
+    <text>Yama indirilemedi.</text>
+  </string>
+  <string id="ui_st_patch_download_success">
+    <text>Yama başarıyla indirildi. Yüklemek ister misiniz?</text>
+  </string>
+  <string id="ui_st_price">
+    <text>Fiyat</text>
+  </string>
+  <string id="ui_st_secs">
+    <text>sn</text>
+  </string>
+  <string id="ui_st_select_one_map">
+    <text>Lütfen en az bir harita seçin</text>
+  </string>
+  <string id="ui_st_time_remains">
+    <text>Kalan</text>
+  </string>
+  <string id="ui_st_trade">
+    <text>Ticaret</text>
+  </string>
+  <string id="ui_st_trade_hint">
+    <text>Ticaret penceresini aç ($$ACTION_SPRINT_TOGGLE$$)</text>
+  </string>
+  <string id="ui_st_upgrade">
+    <text>Onarım/Modifikasyon</text>
+  </string>
+  <string id="ui_st_upgrade_hint">
+    <text>Onarım ve modifikasyon penceresini aç ($$ACTION_SPRINT_TOGGLE$$)</text>
+  </string>
+  <string id="ui_st_voting_disabled">
+    <text>Oylama devre dışı</text>
+  </string>
+  <string id="ui_st_want_to_leave_game_q">
+    <text>Oyundan çıkmak istediğinizden emin misiniz?</text>
+  </string>
+</string_table>

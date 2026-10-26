@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_prt_i_ammo">
+    <text>Pièces de munitions</text>
+  </string>
+  <string id="st_prt_i_ammo_descr">
+    <text>Même avec de bonnes réserves, il n'est pas rare de se retrouver avec une ou plusieurs cartouches de qualité douteuse. Un stalker malchanceux peut se retrouver dans une situation très dangereuse si une cartouche défectueuse bloque son arme à un moment critique. À l'inverse, ces pièces de munitions peuvent être réutilisées pour fabriquer de meilleures variantes. C'est pourquoi certains stalkers préfèrent les garder.\n \n</text>
+  </string>
+  <string id="st_prt_i_capacitors">
+    <text>Un paquet de condensateurs</text>
+  </string>
+  <string id="st_prt_i_capacitors_descr">
+    <text>Les condensateurs électriques peuvent stocker l'électricité. Le modèle le plus simple est composé de deux plaques métalliques séparées par un diélectrique. C'est un composant essentiel de la plupart des appareils électriques : il redresse le courant alternatif, stocke l'énergie et filtre les parasites. Ils sont assez rares dans la Zone, mais très utiles.\n \n</text>
+  </string>
+  <string id="st_prt_i_ceramic">
+    <text>Base en céramique</text>
+  </string>
+  <string id="st_prt_i_ceramic_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_copper">
+    <text>Fil de cuivre</text>
+  </string>
+  <string id="st_prt_i_copper_descr">
+    <text>Le fil de cuivre électrotechnique est utilisé dans presque tous les appareils, installations et machines qui produisent, transmettent ou utilisent de l'énergie électrique. Le cuivre pur est rare, mais on peut facilement en récupérer dans de vieilles radios, des talkies-walkies et d'autres appareils électroniques.\n \n</text>
+  </string>
+  <string id="st_prt_i_fasteners">
+    <text>Éléments de fixation</text>
+  </string>
+  <string id="st_prt_i_fasteners_descr">
+    <text>Une poignée de vis, rondelles, écrous, clous et petits morceaux de tôle, de nombreux types et tailles. Ils peuvent servir à réparer du matériel sur le terrain, voire à fabriquer des objets.\n \n</text>
+  </string>
+  <string id="st_prt_i_glass">
+    <text>Morceaux de verre</text>
+  </string>
+  <string id="st_prt_i_glass_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_leather">
+    <text>Rouleau de cuir</text>
+  </string>
+  <string id="st_prt_i_leather_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_paper">
+    <text>Feuilles de papier</text>
+  </string>
+  <string id="st_prt_i_paper_descr">
+    <text>Feuilles déchirées de papier couché de soie. Même dans un endroit comme la Zone, elles peuvent servir à toutes sortes de choses. C'est le moyen le moins cher d'emballer de la nourriture ou de nettoyer la saleté.\n \n</text>
+  </string>
+  <string id="st_prt_i_pistolgrip">
+    <text>Poignée de pistolet</text>
+  </string>
+  <string id="st_prt_i_pistolgrip_descr">
+    <text>Poignées provenant d'une arme inconnue. Cette pièce caoutchoutée pourrait être façonnée pour s'adapter à presque toute arme à feu.\n \n%c[ui_gray_2]PROPRIÉTÉS :\n 		%c[d_cyan] • %c[ui_gray_2] matériau de base\n 		</text>
+  </string>
+  <string id="st_prt_i_plastic">
+    <text>Film plastique</text>
+  </string>
+  <string id="st_prt_i_plastic_descr">
+    <text>Un petit paquet de film en polyéthylène basse densité. Ces fines membranes servent à séparer des espaces ou des volumes, à contenir des objets et à faire office de barrière. Les films plastiques ont de nombreuses applications. Même partiellement déchiré, le polyéthylène reste idéal pour emballer et isoler, surtout des aliments et des médicaments.\n \n</text>
+  </string>
+  <string id="st_prt_i_resistors">
+    <text>Boîte de résistances</text>
+  </string>
+  <string id="st_prt_i_resistors_descr">
+    <text>Les résistances sont les composants électroniques les plus courants. Elles limitent et dirigent le courant dans les branches d'un circuit afin d'assurer aux autres composants la tension adéquate. Cette boîte contient un bon assortiment de résistances de différentes valeurs et tolérances, de 12 à 82M ohms.\n \n</text>
+  </string>
+  <string id="st_prt_i_rubber">
+    <text>Caoutchouc</text>
+  </string>
+  <string id="st_prt_i_rubber_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_scrap">
+    <text>Ferraille</text>
+  </string>
+  <string id="st_prt_i_scrap_descr">
+    <text>Une poignée de morceaux d'équipement métallique, issus de nombreux types et qualités d'acier et d'alliages d'aluminium. Ils peuvent servir à réparer du matériel sur le terrain, voire à fabriquer des objets.\n \n</text>
+  </string>
+  <string id="st_prt_i_spring">
+    <text>Ressort</text>
+  </string>
+  <string id="st_prt_i_spring_descr">
+    <text>Un petit ressort provenant du mécanisme de détente ou de l'intérieur d'une arme inconnue. Il pourrait probablement être adapté pour remplacer presque n'importe quel petit ressort.\n \n%c[ui_gray_2]PROPRIÉTÉS :\n 		%c[d_cyan] • %c[ui_gray_2] matériau de base\n 		</text>
+  </string>
+  <string id="st_prt_i_textolite">
+    <text>Base en textolite</text>
+  </string>
+  <string id="st_prt_i_textolite_descr">
+    <text>Plastique stratifié composé d'un tissu de fibres et d'un liant polymère (bakélite, résine polyester ou époxy). Avec le savoir-faire adéquat, il peut être très utile pour les réparations.\n \n</text>
+  </string>
+  <string id="st_prt_i_transistors">
+    <text>Boîte de transistors</text>
+  </string>
+  <string id="st_prt_i_transistors_descr">
+    <text>Une boîte de transistors bipolaires de haute qualité. Chaque transistor comporte trois parties semi-conductrices (base, émetteur, collecteur) qui génèrent, convertissent et amplifient ensemble les oscillations électriques. Le rêve des ingénieurs en électronique, si un tel miracle arrive dans la Zone.\n \n</text>
+  </string>
+  <string id="st_prt_i_triggermechanism">
+    <text>Mécanisme de détente</text>
+  </string>
+  <string id="st_prt_i_triggermechanism_descr">
+    <text>Le mécanisme et l'ensemble de détente d'une arme inconnue. La plupart des détentes se ressemblent ; rien n'empêche de limer celle-ci pour l'adapter à presque n'importe quelle arme.\n \n 		%c[ui_gray_2]PROPRIÉTÉS :\n 		%c[d_cyan] • %c[ui_gray_2] matériau de base\n 		</text>
+  </string>
+  <string id="st_prt_i_wood">
+    <text>Pièces de bois</text>
+  </string>
+  <string id="st_prt_i_wood_descr">
+    <text>Morceaux de bois clair de cèdre à larges veines. Ils servent surtout aux projets extérieurs, comme les meubles, les terrasses et les outils. Même si ce bois est peu utile dans un endroit comme la Zone, il peut servir à fabriquer des objets.\n \n</text>
+  </string>
+  <string id="st_prt_o_ballistic_1">
+    <text>Plaques Kevlar K129 avec inserts en céramique renforcée</text>
+  </string>
+  <string id="st_prt_o_ballistic_10">
+    <text>Plaques de polyéthylène de grade A avec support élargi</text>
+  </string>
+  <string id="st_prt_o_ballistic_10_descr">
+    <text>Les plaques en polyéthylène protègent davantage les zones vitales. Ces plaques rigides se sont révélées efficaces contre toutes les balles de pistolet et plusieurs munitions de fusil. Ces gilets balistiques améliorés sont devenus la norme dans l'armée, car les gilets souples ne protègent pas contre les cartouches de fusil militaires.</text>
+  </string>
+  <string id="st_prt_o_ballistic_11">
+    <text>Plaques Kevlar K119</text>
+  </string>
+  <string id="st_prt_o_ballistic_11_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_12">
+    <text>Plaques renforcées en Kevlar K119</text>
+  </string>
+  <string id="st_prt_o_ballistic_12_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_13">
+    <text>Plaques de blindage léger en polyéthylène</text>
+  </string>
+  <string id="st_prt_o_ballistic_13_descr">
+    <text>Les plaques en polyéthylène protègent davantage les zones vitales. Ces plaques rigides se sont révélées efficaces contre toutes les balles de pistolet et plusieurs munitions de fusil. Ces gilets balistiques améliorés sont devenus la norme dans l'armée, car les gilets souples ne protègent pas contre les cartouches de fusil militaires.</text>
+  </string>
+  <string id="st_prt_o_ballistic_14">
+    <text>Plaques en polyéthylène (improvisées)</text>
+  </string>
+  <string id="st_prt_o_ballistic_14_descr">
+    <text>Les plaques en polyéthylène protègent davantage les zones vitales. Ces plaques rigides se sont révélées efficaces contre toutes les balles de pistolet et plusieurs munitions de fusil. Ces gilets balistiques améliorés sont devenus la norme dans l'armée, car les gilets souples ne protègent pas contre les cartouches de fusil militaires.</text>
+  </string>
+  <string id="st_prt_o_ballistic_15">
+    <text>Couches de nanotubes de carbone avec tissus Kevlar-49</text>
+  </string>
+  <string id="st_prt_o_ballistic_15_descr">
+    <text>Les nanotubes de carbone (NTC) offrent un fort potentiel pour fabriquer des matériaux résistants aux projectiles. Leurs propriétés remarquables en font un renfort idéal pour les polymères et autres matériaux, notamment les gilets pare-balles.</text>
+  </string>
+  <string id="st_prt_o_ballistic_16">
+    <text>Couches de nanotubes de carbone avec tissus Kevlar-29 (renforcées)</text>
+  </string>
+  <string id="st_prt_o_ballistic_16_descr">
+    <text>Les nanotubes de carbone (NTC) offrent un fort potentiel pour fabriquer des matériaux résistants aux projectiles. Leurs propriétés remarquables en font un renfort idéal pour les polymères et autres matériaux, notamment les gilets pare-balles.</text>
+  </string>
+  <string id="st_prt_o_ballistic_17">
+    <text>Couches de fibres de polyéthylène avec inserts en polycarbonate</text>
+  </string>
+  <string id="st_prt_o_ballistic_17_descr">
+    <text>Les plaques en polyéthylène protègent davantage les zones vitales. Ces plaques rigides se sont révélées efficaces contre toutes les balles de pistolet et plusieurs munitions de fusil. Ces gilets balistiques améliorés sont devenus la norme dans l'armée, car les gilets souples ne protègent pas contre les cartouches de fusil militaires.</text>
+  </string>
+  <string id="st_prt_o_ballistic_18">
+    <text>Couches renforcées de fibres de polyéthylène</text>
+  </string>
+  <string id="st_prt_o_ballistic_18_descr">
+    <text>Les plaques en polyéthylène protègent davantage les zones vitales. Ces plaques rigides se sont révélées efficaces contre toutes les balles de pistolet et plusieurs munitions de fusil. Ces gilets balistiques améliorés sont devenus la norme dans l'armée, car les gilets souples ne protègent pas contre les cartouches de fusil militaires.</text>
+  </string>
+  <string id="st_prt_o_ballistic_19">
+    <text>Couches de fibre de carbone</text>
+  </string>
+  <string id="st_prt_o_ballistic_19_descr">
+    <text>Comparée au Kevlar, la fibre de carbone est différente et peu efficace contre les objets tranchants. En revanche, elle résiste aux hautes températures, là où le Kevlar faiblit. Les matériaux en fibre de carbone sont légers et plus souples.</text>
+  </string>
+  <string id="st_prt_o_ballistic_1_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_2">
+    <text>Plaques Kevlar Protera avec inserts en céramique renforcée</text>
+  </string>
+  <string id="st_prt_o_ballistic_20">
+    <text>Couches renforcées de fibre de carbone</text>
+  </string>
+  <string id="st_prt_o_ballistic_20_descr">
+    <text>Comparée au Kevlar, la fibre de carbone est différente et peu efficace contre les objets tranchants. En revanche, elle résiste aux hautes températures, là où le Kevlar faiblit. Les matériaux en fibre de carbone sont légers et plus souples.</text>
+  </string>
+  <string id="st_prt_o_ballistic_2_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_3">
+    <text>Plaques Kevlar K129 avec composite en polycarbonate</text>
+  </string>
+  <string id="st_prt_o_ballistic_3_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_4">
+    <text>Plaques Kevlar K129 avec composite en fibre de carbone</text>
+  </string>
+  <string id="st_prt_o_ballistic_4_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_5">
+    <text>Plaques Kevlar AP et plaques en acier</text>
+  </string>
+  <string id="st_prt_o_ballistic_5_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_6">
+    <text>Plaques Kevlar AP avec composite en titane renforcé</text>
+  </string>
+  <string id="st_prt_o_ballistic_6_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_7">
+    <text>Plaques Kevlar K119 avec inserts en polycarbonate</text>
+  </string>
+  <string id="st_prt_o_ballistic_7_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_8">
+    <text>Plaques Kevlar K119 avec inserts en fibre de carbone</text>
+  </string>
+  <string id="st_prt_o_ballistic_8_descr">
+    <text>Les plaques de Kevlar sont réputées et appréciées pour leurs capacités de protection. Elles remplissent de nombreuses fonctions, notamment absorber l'impact des projectiles à l'avant et à l'arrière du torse. Elles constituent une solution légère face aux lourdes plaques d'acier. Tout blindage aide aussi à garder les combinaisons en bon état et à prévenir leur usure. Elles sont utilisées par des unités militaires du monde entier.</text>
+  </string>
+  <string id="st_prt_o_ballistic_9">
+    <text>Plaques de polyéthylène de grade B avec support élargi</text>
+  </string>
+  <string id="st_prt_o_ballistic_9_descr">
+    <text>Les plaques en polyéthylène protègent davantage les zones vitales. Ces plaques rigides se sont révélées efficaces contre toutes les balles de pistolet et plusieurs munitions de fusil. Ces gilets balistiques améliorés sont devenus la norme dans l'armée, car les gilets souples ne protègent pas contre les cartouches de fusil militaires.</text>
+  </string>
+  <string id="st_prt_o_fabrics_1">
+    <text>Tissus</text>
+  </string>
+  <string id="st_prt_o_fabrics_1_descr">
+    <text>La base de toute tenue. Ces tissus sont fabriqués dans différentes matières, comme le coton, le polycoton, la laine et le cuir, afin d'offrir confort et durabilité. D'autres étoffes protectrices sont utilisées, comme le caoutchouc et le nylon balistique, ainsi que des protections articulaires, des pièces de quincaillerie et des fermetures éclair.</text>
+  </string>
+  <string id="st_prt_o_fabrics_2">
+    <text>Tissus (synthétiques)</text>
+  </string>
+  <string id="st_prt_o_fabrics_2_descr">
+    <text>La base de toute tenue. Ces textiles mélangent des matières synthétiques, comme le polyester et le lycra, pour offrir polyvalence et durabilité. D'autres étoffes protectrices sont utilisées, comme le caoutchouc et le nylon balistique, ainsi que des protections articulaires, des pièces de quincaillerie et des fermetures éclair.</text>
+  </string>
+  <string id="st_prt_o_fabrics_3">
+    <text>Textiles résistants</text>
+  </string>
+  <string id="st_prt_o_fabrics_3_descr">
+    <text>Ces tissus sont composés de différentes matières, comme le polyester, le cuir et la toile, avec des pièces de quincaillerie et des fermetures éclair. Ils résistent bien aux conditions difficiles, ce qui les rend adaptés aux déplacements dans la Zone.</text>
+  </string>
+  <string id="st_prt_o_fabrics_4">
+    <text>Textiles de qualité militaire</text>
+  </string>
+  <string id="st_prt_o_fabrics_4_descr">
+    <text>Les tissus de qualité militaire servent souvent aux vêtements de terrain et aux armures légères. Appréciée pour son prix relativement bas et sa grande polyvalence, cette matière est courante chez les habitants de la Zone. D'autres étoffes protectrices sont utilisées, comme le caoutchouc et le nylon balistique, avec des protections articulaires, des pièces de quincaillerie et des fermetures éclair.</text>
+  </string>
+  <string id="st_prt_o_retardant_1">
+    <text>Tissus ignifuges multicouches</text>
+  </string>
+  <string id="st_prt_o_retardant_10">
+    <text>Feuilles polymères (revêtement au sulfate de baryum)</text>
+  </string>
+  <string id="st_prt_o_retardant_10_descr">
+    <text>La résistance du sulfate de baryum à la dégradation thermique en fait un excellent choix pour les tenues utilisées dans la Zone. Il est généralement appliqué sur des feuilles polymères pour couvrir une grande partie du corps. Il peut aussi protéger contre d'autres dangers.</text>
+  </string>
+  <string id="st_prt_o_retardant_11">
+    <text>Couches aluminisées de tissus ignifuges</text>
+  </string>
+  <string id="st_prt_o_retardant_11_descr">
+    <text>Les tissus aluminisés multicouches sont conçus pour les vêtements et boucliers de protection utilisés dans des environnements présentant de graves risques d'incendie ou des dangers liés à la chaleur rayonnante et aux produits chimiques. Ils isolent aussi très bien des effets des ondes psi.</text>
+  </string>
+  <string id="st_prt_o_retardant_12">
+    <text>Tissus en fibre de verre aluminisée</text>
+  </string>
+  <string id="st_prt_o_retardant_12_descr">
+    <text>Les tissus multicouches en fibre de verre aluminisée sont conçus pour les vêtements et boucliers de protection utilisés dans des environnements présentant un grave risque de choc électrique ou des dangers liés à la chaleur rayonnante et aux produits chimiques. Ils isolent aussi très bien des effets des ondes psi.</text>
+  </string>
+  <string id="st_prt_o_retardant_13">
+    <text>Tissus mélangés au PBI</text>
+  </string>
+  <string id="st_prt_o_retardant_13_descr">
+    <text>Les tissus mélangés au PBI sont utilisés depuis des années par les services d'incendie. Ils sont reconnus comme les meilleurs tissus de protection ignifuges haute performance. Les habitants de la Zone en ont donc équipé leurs propres tenues.</text>
+  </string>
+  <string id="st_prt_o_retardant_14">
+    <text>Tissus mélangés au PBI avec traitement polyester</text>
+  </string>
+  <string id="st_prt_o_retardant_14_descr">
+    <text>Les tissus mélangés au PBI sont utilisés depuis des années par les services d'incendie. Ils sont reconnus comme les meilleurs tissus de protection ignifuges haute performance. Les habitants de la Zone en ont donc équipé leurs propres tenues.</text>
+  </string>
+  <string id="st_prt_o_retardant_15">
+    <text>Tissus en toile de charbon actif (ACC)</text>
+  </string>
+  <string id="st_prt_o_retardant_15_descr">
+    <text>La toile de charbon actif a d'abord été mise au point pour les combinaisons de guerre chimique. Elle a aujourd'hui de nombreuses applications dans la défense, l'industrie et la médecine. Elle améliore nettement l'efficacité des pansements avancés et actifs, tout en protégeant très bien des particules radioactives.</text>
+  </string>
+  <string id="st_prt_o_retardant_16">
+    <text>Textiles non tissés traités au charbon actif</text>
+  </string>
+  <string id="st_prt_o_retardant_16_descr">
+    <text>La toile de charbon actif a d'abord été mise au point pour les combinaisons de guerre chimique. Elle a aujourd'hui de nombreuses applications dans la défense, l'industrie et la médecine. Elle améliore nettement l'efficacité des pansements avancés et actifs, tout en protégeant très bien des particules radioactives.</text>
+  </string>
+  <string id="st_prt_o_retardant_17">
+    <text>Inserts isolants en constantan</text>
+  </string>
+  <string id="st_prt_o_retardant_17_descr">
+    <text>Ces inserts en feuilles de constantan forment des couches diélectriques qui protègent dans une certaine mesure la tenue et son porteur des décharges électriques, des ondes psi et des matières radioactives. Ils peuvent aussi protéger d'autres dangers, d'où leur utilité dans la Zone.</text>
+  </string>
+  <string id="st_prt_o_retardant_18">
+    <text>Inserts isolants en constantan avec revêtement en fibre de verre</text>
+  </string>
+  <string id="st_prt_o_retardant_18_descr">
+    <text>Ces inserts en feuilles de constantan et en tissus enduits de fibre de verre forment des couches diélectriques qui protègent dans une certaine mesure la tenue et son porteur des décharges électriques, des ondes psi et des matières radioactives. Ils peuvent aussi protéger d'autres dangers, d'où leur utilité dans la Zone.</text>
+  </string>
+  <string id="st_prt_o_retardant_19">
+    <text>Isolants en fibre de verre polyester (armure « Polyester »)</text>
+  </string>
+  <string id="st_prt_o_retardant_19_descr">
+    <text>Tissus résistants aux hautes températures, tissés à partir de fibres de verre « E » et enduits d'un film à base de vermiculite. Ils supportent des températures de service allant jusqu'à 1500°F et résistent bien aux chocs jusqu'à 20Kv. Dans la Zone, ils peuvent protéger des dangers anormaux.</text>
+  </string>
+  <string id="st_prt_o_retardant_1_descr">
+    <text>Ces textiles résistent mieux au feu que d'autres grâce à un traitement chimique ou à des fibres ignifuges. Dans la Zone, ils sont couramment intégrés aux combinaisons pour protéger contre les environnements dangereux et les anomalies de feu comme Brûleur et Comète.</text>
+  </string>
+  <string id="st_prt_o_retardant_2">
+    <text>Tissus multicouches ignifuges et résistants aux chocs</text>
+  </string>
+  <string id="st_prt_o_retardant_20">
+    <text>Isolants en fibre de verre (armure satin)</text>
+  </string>
+  <string id="st_prt_o_retardant_20_descr">
+    <text>Tissus résistants aux hautes températures, tissés à partir de fibres de verre « E » et enduits d'un film à base de vermiculite. Ils supportent des températures de service allant jusqu'à 1700°F et résistent bien aux chocs jusqu'à 25Kv. Dans la Zone, ils peuvent protéger des dangers anormaux.</text>
+  </string>
+  <string id="st_prt_o_retardant_2_descr">
+    <text>Ces textiles résistent mieux aux décharges électriques et aux particules chimiques grâce à un traitement ou à des fibres ignifuges. Dans la Zone, ils servent aux combinaisons protégeant des environnements dangereux et des anomalies chimiques ou électriques, comme Électro et Punch aux fruits.</text>
+  </string>
+  <string id="st_prt_o_retardant_3">
+    <text>Tissus en PVC rigide traité, grade B</text>
+  </string>
+  <string id="st_prt_o_retardant_3_descr">
+    <text>Le polychlorure de vinyle rigide (RPVC) est un matériau ininflammable et résistant aux intempéries. Il peut aussi être stabilisé contre les UV pour mieux protéger des dangers anormaux.</text>
+  </string>
+  <string id="st_prt_o_retardant_4">
+    <text>Tissus vinyle en RPVC, grade A</text>
+  </string>
+  <string id="st_prt_o_retardant_4_descr">
+    <text>Le polychlorure de vinyle rigide (RPVC) est un matériau ininflammable et résistant aux intempéries. Il peut aussi être stabilisé contre les UV pour mieux protéger des dangers anormaux.</text>
+  </string>
+  <string id="st_prt_o_retardant_5">
+    <text>Tissus enduits de PVC et de caoutchouc</text>
+  </string>
+  <string id="st_prt_o_retardant_5_descr">
+    <text>Un tissu robuste et durable en polyester enduit de PVC et de fibres de caoutchouc, conçu pour protéger contre les dangers. Il peut être cousu, collé ou soudé.\nMatériau à double enduction : une couche centrale de polyester très résistante est recouverte de PVC des deux côtés.</text>
+  </string>
+  <string id="st_prt_o_retardant_6">
+    <text>Tissus en PVC et fibre de carbone</text>
+  </string>
+  <string id="st_prt_o_retardant_6_descr">
+    <text>Un tissu robuste et durable en polyester enduit de PVC et de fibres de carbone, conçu pour protéger contre les dangers. Il peut être cousu, collé ou soudé.\nMatériau à double enduction : une couche centrale de polyester très résistante est recouverte de PVC des deux côtés.</text>
+  </string>
+  <string id="st_prt_o_retardant_7">
+    <text>Grille et inserts isolants en magnésium</text>
+  </string>
+  <string id="st_prt_o_retardant_7_descr">
+    <text>Cette grille de magnésium forme une couche diélectrique qui protège dans une certaine mesure la tenue et son porteur des décharges électriques puissantes et des ondes psi. Elle peut aussi protéger contre d'autres dangers.</text>
+  </string>
+  <string id="st_prt_o_retardant_8">
+    <text>Grille renforcée en oxyde de magnésium</text>
+  </string>
+  <string id="st_prt_o_retardant_8_descr">
+    <text>Cette grille de magnésium forme une couche diélectrique qui protège dans une certaine mesure la tenue et son porteur des décharges électriques puissantes et des ondes psi. Elle peut aussi protéger contre d'autres dangers.</text>
+  </string>
+  <string id="st_prt_o_retardant_9">
+    <text>Feuilles polymères (revêtement au sulfate de bismuth)</text>
+  </string>
+  <string id="st_prt_o_retardant_9_descr">
+    <text>La résistance du sulfate de bismuth à la dégradation thermique en fait un excellent choix pour les tenues utilisées dans la Zone. Il est généralement appliqué sur des feuilles polymères pour couvrir une grande partie du corps. Il peut aussi protéger contre d'autres dangers.</text>
+  </string>
+  <string id="st_prt_o_support_1">
+    <text>Armature d'exosquelette</text>
+  </string>
+  <string id="st_prt_o_support_1_descr">
+    <text>Armature mécanique alimentée par des moteurs électriques, un système pneumatique, des leviers et l'hydraulique. Elle offre à son porteur une protection supérieure et une force physique considérablement accrue.</text>
+  </string>
+  <string id="st_textile_patch_b">
+    <text>Morceau de tissu</text>
+  </string>
+  <string id="st_textile_patch_b_descr">
+    <text>Un simple morceau de tissu, couramment utilisé pour raccommoder les vêtements ou appliquer des huiles et des solvants de nettoyage sur les mécanismes des armes. Il peut être fixé avec n'importe quelle aiguille ou colle.\n \n</text>
+  </string>
+  <string id="st_textile_patch_e">
+    <text>Tissu renforcé</text>
+  </string>
+  <string id="st_textile_patch_e_descr">
+    <text>Une épaisse pièce textile renforcée par un rembourrage en Kevlar. Elle permet de réparer les armures moyennes et lourdes et couvre plusieurs zones endommagées. Il faut des kits de couture et des adhésifs de haute qualité pour l'utiliser. Elle peut aussi lubrifier et nettoyer les armes : sa rigidité accrue lui permet d'atteindre les parties moins accessibles.\n \n</text>
+  </string>
+  <string id="st_textile_patch_m">
+    <text>Pièce textile</text>
+  </string>
+  <string id="st_textile_patch_m_descr">
+    <text>Tissu de qualité militaire pouvant servir aux réparations sur le terrain des vêtements et des armures légères. Les habitants de la Zone l'apprécient pour son prix relativement bas et sa grande polyvalence. Son usage nécessite du matériel de couture de qualité moyenne et une colle avancée. Il aide aussi à mieux répartir les liquides pendant l'entretien des armes.\n \n</text>
+  </string>
+</string_table>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_persistent_weather">
+    <text>Незмінна погода</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled">
+    <text>Увімкнути мод</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled_desc">
+    <text>Увімкнути систему незмінної погоди. Погода зберігатиметься та відновлюватиметься під час завантаження збереження.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay">
+    <text>Мінімальна затримка зміни локації (хв)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay_desc">
+    <text>Мінімальний ігровий час до зміни погоди під час переходу між локаціями. Якщо перейти раніше, погода збережеться. 0 вимикає затримку.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance">
+    <text>Шанс зберегти погоду під час зміни локації (%)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance_desc">
+    <text>Шанс (0–100 %) зберегти ту саму погоду під час переходу в іншу локацію. За 0 % вона завжди змінюється (як у базовій грі), за 100 % — завжди зберігається.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_title">
+    <text>Незмінна погода</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout">
+    <text>Час під землею до зміни погоди (хв)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout_desc">
+    <text>Реальний час, який можна провести під землею, перш ніж дозволити зміну погоди. За замовчуванням: 10 хвилин.</text>
+  </string>
+</string_table>

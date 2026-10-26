@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_balon_gas">
+    <text>Balão de gás
+		</text>
+  </string>
+  <string id="st_balon_gas_descr">
+    <text>\n \n
+		%c[d_red]AVISO: Explode ao impacto\n \n
+		%c[ui_gray_1]Cilindro pesado de gás metálico, revestido com polímero compatível e Hypalon para resistir ao tempo, à abrasão e aos raios UV. Esse reservatório dobrável armazena gases industriais antes do envase sob pressão. Na Zona, costuma conter metano, propano, etano e butano para cozinhar, aquecer ou combater. Um tiro direto pode incendiá-lo; a liberação súbita de energia expande o gás e provoca uma explosão retardada e poderosa, espalhando estilhaços metálicos em todas as direções. Esses cilindros já mataram e mutilaram muita gente em conflitos entre facções. Vazio, serve para reparar armaduras.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] contém: %c[ui_gray_1] gás natural refinado\n
+		%c[d_green] • %c[ui_gray_2] combustível culinário de alta qualidade\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de acionamento: %c[ui_gray_1]impacto de bala ou explosão\n
+		%c[d_purple] • %c[ui_gray_2] potência da explosão: %c[ui_gray_1]muito alta\n
+		%c[d_purple] • %c[ui_gray_2] raio da explosão: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º médio de fragmentos: %c[ui_gray_1]28 (fragmentos metálicos pesados)\n
+		%c[d_purple] • %c[ui_gray_2] atraso da explosão: %c[ui_gray_1]~2 segundos\n
+		</text>
+  </string>
+  <string id="st_balon_gas_empty">
+    <text>Balão de gás (vazio)</text>
+  </string>
+  <string id="st_balon_gas_empty_descr">
+    <text>Cilindro pesado de gás metálico vazio, revestido com polímero compatível e Hypalon para resistir ao tempo, à abrasão e aos raios UV. Esse reservatório dobrável armazena gases industriais antes do envase sob pressão. Na Zona costuma conter metano, propano, etano e butano para cozinhar, aquecer ou combater. Está vazio, mas ainda pode ser usado para consertar trajes.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		</text>
+  </string>
+  <string id="st_ied">
+    <text>Dispositivo explosivo improvisado (químico)</text>
+  </string>
+  <string id="st_ied_descr">
+    <text>Explosivo improvisado feito com várias substâncias químicas, detonador elétrico quebrado e um recipiente de esferas de aço. Os produtos têm odor intenso e são muito tóxicos. Este dispositivo é bem mais poderoso que a versão OG-7V, mais comum. Na Zona, é usado para invadir áreas fechadas e preparar emboscadas; também é colocado perto de minas para ampliar a explosão. Pode ser bem escondido, ficando quase invisível para os demais.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item militar\n
+		%c[d_blue] • %c[ui_gray_2] imperceptível quando colocado no chão\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de acionamento: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] potência da explosão: %c[ui_gray_1]muito alta\n
+		%c[d_purple] • %c[ui_gray_2] raio da explosão: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º médio de fragmentos: %c[ui_gray_1]580 (esferas de aço)\n
+		%c[d_purple] • %c[ui_gray_2] atraso da explosão: %c[ui_gray_1]nenhum\n
+		</text>
+  </string>
+  <string id="st_ied_rpg">
+    <text>Dispositivo explosivo improvisado (ogiva OG-7V)</text>
+  </string>
+  <string id="st_ied_rpg_descr">
+    <text>Explosivo improvisado baseado numa ogiva OG-7V e em peças de bateria automotiva. Parece velho e pode explodir a qualquer momento, mas o mecanismo impede a detonação, a menos que uma bala o atinja diretamente ou que sofra outra força física intensa. Na Zona, é usado para invadir áreas fechadas e preparar emboscadas, além de ser colocado perto de minas para ampliar a explosão. Pode ser bem escondido e ficar quase invisível.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item militar\n
+		%c[d_blue] • %c[ui_gray_2] imperceptível quando colocado no chão\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de acionamento: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] potência da explosão: %c[ui_gray_1]alta\n
+		%c[d_purple] • %c[ui_gray_2] raio da explosão: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º médio de fragmentos: %c[ui_gray_1]440 (estilhaços)\n
+		%c[d_purple] • %c[ui_gray_2] atraso da explosão: %c[ui_gray_1]nenhum\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel">
+    <text>Galão de combustível
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_descr">
+    <text>\n \n
+		%c[d_red]AVISO: Explode ao impacto\n \n
+		%c[ui_gray_1]Galão grande de metal cheio de gasolina E95. O exército ucraniano trouxe muitos para a Zona, destinados a seus veículos blindados. Serviram ao propósito até o Segundo Desastre de Chernobyl, depois do qual os veículos pararam de funcionar por motivos ainda desconhecidos. Alguns moradores tentam recuperar as carcaças; outros encontraram outro uso para os galões: explosivos improvisados. Um impacto direto os incendeia e eles explodem após um breve atraso. São pesados e desajeitados, mas extremamente potentes; um galão bem posicionado pode matar até alguém com a armadura mais pesada. A explosão pode ser tão forte que o próprio atacante vira vítima, então use com cuidado. Dizem que o veterano stalker Yuya salvou a própria pele atraindo um pseudogigante para uma armadilha de galões. Esvaziou seu último carregador de Makarov, e o gigante pegou fogo com um rugido ouvido por todo Júpiter.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_blue] • %c[ui_gray_2] contém: %c[ui_gray_1] E95 gasoline\n
+		%c[d_green] • %c[ui_gray_2] combustível culinário de alta qualidade\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de acionamento: %c[ui_gray_1]impacto de bala ou explosão\n
+		%c[d_purple] • %c[ui_gray_2] potência da explosão: %c[ui_gray_1]alta\n
+		%c[d_purple] • %c[ui_gray_2] raio da explosão: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º médio de fragmentos: %c[ui_gray_1]39 (fragmentos metálicos pesados)\n
+		%c[d_purple] • %c[ui_gray_2] atraso da explosão: %c[ui_gray_1]~3 segundos\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty">
+    <text>Galão vazio</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty_descr">
+    <text>Lata metálica vazia. Só pode ser usada como material para reparos básicos de trajes ou vendida a comerciantes.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		</text>
+  </string>
+  <string id="st_jerrycan_item">
+    <text>Galão
+		</text>
+  </string>
+  <string id="st_metalcan_powder">
+    <text>Lata de pólvora
+		</text>
+  </string>
+  <string id="st_metalcan_powder_descr">
+    <text>\n \n
+		%c[d_red]AVISO: Explode ao impacto\n \n
+		%c[ui_gray_1]Lata metálica pequena e relativamente pesada, cheia de uma mistura de produtos químicos industriais explosivos, parafusos, porcas e pólvora negra retirada de munições antigas. Essa armadilha mortal foi criada por bandidos russos conhecidos como “Swireksters” e vendida a vários grupos de bandidos da Zona. Um tiro direto provoca uma explosão instantânea, espalhando parafusos metálicos e produtos corrosivos em todas as direções. Quem usar essa arma mortal não deve baixar a guarda. As partes metálicas da lata também servem para reparos emergenciais de trajes.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item tecnológico\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de acionamento: %c[ui_gray_1]impacto de bala ou explosão\n
+		%c[d_purple] • %c[ui_gray_2] potência da explosão: %c[ui_gray_1]baixa\n
+		%c[d_purple] • %c[ui_gray_2] raio da explosão: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] n.º médio de fragmentos: %c[ui_gray_1]77 (baixa metal pieces)\n
+		%c[d_purple] • %c[ui_gray_2] atraso da explosão: %c[ui_gray_1]nenhum\n
+		</text>
+  </string>
+  <string id="st_mine_descr">
+    <text>A PFM-1 (abreviação de “mina antipessoal de efeito explosivo”; codinome da OTAN: “Papagaio Verde”) era uma mina antipessoal padrão do Exército Vermelho, usada principalmente durante a invasão soviética do Afeganistão. Seu uso disseminado causou muitas vítimas civis, sobretudo crianças, que confundiam as minas espalhadas com brinquedos por causa da forma e da cor familiares. Assim, ganhou o apelido sinistro de “Assassina de Crianças”. Mais tarde foi substituída por modelos novos, mas muitas armas aposentadas acabaram na Zona, onde a PFM-1 se tornou um explosivo-armadilha comum. É valorizada pela funcionalidade, facilidade de uso, tamanho compacto e baixo peso. Sua principal desvantagem é a pequena carga explosiva, muitas vezes insuficiente para matar com uma só explosão um stalker fortemente blindado. Use-a junto de outros explosivos como iniciador. Se não estiver armada, não detonará nem mesmo ao ser atingida por tiros.\n \n
+		%c[ui_gray_3]PROPRIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] explosivo\n
+		%c[d_blue] • %c[ui_gray_2] item militar\n
+		%c[d_blue] • %c[ui_gray_2] mina antipessoal\n
+		%c[d_purple] • %c[ui_gray_2] mecanismo de acionamento: %c[ui_gray_1]pressão\n
+		%c[d_purple] • %c[ui_gray_2] potência da explosão: %c[ui_gray_1]baixa\n
+		%c[d_purple] • %c[ui_gray_2] raio da explosão: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] raio dos fragmentos: %c[ui_gray_1]nenhum\n
+		%c[d_purple] • %c[ui_gray_2] n.º médio de fragmentos: %c[ui_gray_1]nenhum\n
+		%c[d_purple] • %c[ui_gray_2] atraso da explosão: %c[ui_gray_1]nenhum\n
+		</text>
+  </string>
+  <string id="st_mine_name">
+    <text>Mina antipessoal dispersável PFM-1</text>
+  </string>
+</string_table>

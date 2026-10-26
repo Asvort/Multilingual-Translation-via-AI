@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_nerfs_freq_preset">
+    <text>Częstotliwość presetu %s: %s MHz</text>
+  </string>
+  <string id="ui_mcm_menu_nerfmain">
+    <text>Ustawienia główne</text>
+  </string>
+  <string id="ui_mcm_menu_nerfpresets">
+    <text>Presety</text>
+  </string>
+  <string id="ui_mcm_menu_nerfs">
+    <text>Źródła NERF</text>
+  </string>
+  <string id="ui_mcm_menu_nerfwidget">
+    <text>Dostępność</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header1">
+    <text>Możesz ustawić do dziewięciu częstotliwości i przypisać każdej inny klawisz skrótu.</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header2">
+    <text>Jeśli obsługa kółka myszy jest włączona, przytrzymaj Ctrl podczas przewijania, aby przełączać poniższe presety.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_binaries">
+    <text>Zmodyfikowane pliki wykonywalne autorstwa demonized: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs">
+    <text>Włącz dziennik debugowania</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs_desc">
+    <text>Dziennik jest obszerny, ale zawiera przydatne informacje do debugowania. Zgłaszając problem, NAJPIERW:\n\n1. Włącz tę opcję.\n2. Całkowicie wyjdź z gry.\n3. Wczytaj zapis i odtwórz problem, w miarę możliwości bez innych dodatków.\n4. Wyjdź z gry.\n\nNastępnie spakuj dziennik z [anomaly_folder]/appdata/logs i prześlij go w wybrane miejsce w sieci.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr">
+    <text>Włącz zgodność z Reworked RF Receiver</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr_desc">
+    <text>Jeśli zainstalowano Reworked RF Receiver autorstwa Coverdrave, NERFS używa jego ustawień MCM dotyczących wyposażenia, sygnałów i zmiany częstotliwości. Pozostałe ulepszenia RRFR są dołączone.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header1">
+    <text>New Extensible RF Sources ulepsza detektor RF na kilka sposobów:\n• Rozszerza zakres częstotliwości z 300 do 999 (ustawienie poniżej).\n• Dodaje nowe, interesujące źródła zakłóceń RF.\n• Przenosi wszystkie źródła RF do rozszerzalnego systemu opartego na LTX, który można modyfikować i który nie powoduje konfliktów.\n• Dodaje możliwe do znalezienia notatki (z artykułami w encyklopedii), losowo występujące przy zwłokach stalkerów i uczące przydatnych częstotliwości (tylko pełna wersja — link poniżej).\n• Dodaje opcjonalny wskaźnik siły sygnału w HUD, dla wygody lub dostępności.\n• Obsługuje Reworked RF Receiver i TB’s RF Tasks.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header2">
+    <text>Więcej informacji i pełną wersję NERFS znajdziesz na Moddb:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header_dar">
+    <text>Minimalna wersja frameworka wymagana do dołączenia do Devices of Anomaly Redone</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq">
+    <text>Maksymalna częstotliwość RF</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq_desc">
+    <text>Odbiornik RF może wyświetlać liczby trzycyfrowe, ale gra ogranicza jego zakres pracy do VHF (30–300 MHz). Niektóre źródła sygnału w podstawowej wersji gry wykraczają jednak poza ten zakres. To ustawienie rozszerza dwa zakresy: częstotliwości pracy odbiornika oraz częstotliwości używane przez grę przy przydzielaniu zadań wyszukiwania sygnałów.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel">
+    <text>Zmieniaj częstotliwość kółkiem myszy</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel_desc">
+    <text>Po włączeniu przewijaj kółko myszy w górę lub w dół, aby zmieniać częstotliwość. Tak jak w podstawowej grze, przytrzymaj Shift lub Alt, aby ustawić krok odpowiednio na 10 lub 50. Kółko pozwala zmieniać częstotliwość znacznie szybciej!\nTa funkcja wymaga zmodyfikowanych plików wykonywalnych w wersji 20230701 lub nowszej. Obecnie nie jest obsługiwana przez GAMMA.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset1">
+    <text>Klawisz skrótu presetu 1</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset2">
+    <text>Klawisz skrótu presetu 2</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset3">
+    <text>Klawisz skrótu presetu 3</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset4">
+    <text>Klawisz skrótu presetu 4</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset5">
+    <text>Klawisz skrótu presetu 5</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset6">
+    <text>Klawisz skrótu presetu 6</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset7">
+    <text>Klawisz skrótu presetu 7</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset8">
+    <text>Klawisz skrótu presetu 8</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset9">
+    <text>Klawisz presetu 9</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset1_freq">
+    <text>Częstotliwość presetu 1</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset2_freq">
+    <text>Częstotliwość presetu 2</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset3_freq">
+    <text>Częstotliwość presetu 3</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset4_freq">
+    <text>Częstotliwość presetu 4</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset5_freq">
+    <text>Częstotliwość presetu 5</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset6_freq">
+    <text>Częstotliwość presetu 6</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset7_freq">
+    <text>Częstotliwość presetu 7</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset8_freq">
+    <text>Częstotliwość presetu 8</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset9_freq">
+    <text>Częstotliwość presetu 9</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_a">
+    <text>Alfa</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_b">
+    <text>Niebieski</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_g">
+    <text>Zielony</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_r">
+    <text>Czerwony</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_em_header">
+    <text>\n\nPodczas emisji wskaźnik miga na ten kolor.\nDomyślnie (czerwony): 128,200,0,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_header1">
+    <text>Widżet dostępności to prosty wskaźnik wizualny w HUD, pokazujący siłę sygnału RF. Jest przeznaczony dla osób głuchych i niedosłyszących, ale może pomóc każdemu, komu trudno odróżnić sygnały dźwiękowe od szumu tła. Położenie i kolory wskaźnika można dostosować do własnych preferencji lub potrzeb osób z daltonizmem. Widżet pojawi się TYLKO wtedy, gdy gracz trzyma w ręku detektor RF.\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy">
+    <text>Pozycja XY lewego górnego rogu widgetu:</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy_desc">
+    <text>0,0 to lewy górny róg, a 1024,768 prawy dolny. Wartości są skalowane do rozdzielczości. Domyślnie (dół, środek): 491,670.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_hi_header">
+    <text>\n\nPrzy silnym sygnale wskaźnik miga na ten kolor.\nDomyślnie (zielony): 255,0,250,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_lo_header">
+    <text>\n\nPrzy słabym sygnale wskaźnik miga na ten kolor.\nDomyślnie (szary): 255,50,50,50\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_x">
+    <text>Współrzędna X (poziomo, od lewej do prawej)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_y">
+    <text>Współrzędna Y (pionowo, od góry do dołu)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_show">
+    <text>Pokaż widget dostępności</text>
+  </string>
+  <string id="ui_mcm_nerfs_scrolldown">
+    <text>** Przewiń w dół, aby zobaczyć więcej ustawień **</text>
+  </string>
+</string_table>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_eco_event_package_desc">
+    <text>Objeto de evento de los ecologistas.</text>
+  </string>
+  <string id="st_eco_event_package_name">
+    <text>Paquete de los ecologistas</text>
+  </string>
+  <string id="st_raid_back">
+    <text>Atrás</text>
+  </string>
+  <string id="st_raid_barman_trade">
+    <text>[Surtido del Barman]</text>
+  </string>
+  <string id="st_raid_check_quest_box">
+    <text>Revisa la mesa para recoger los objetos de la misión.</text>
+  </string>
+  <string id="st_raid_exit">
+    <text>Usa el mapa para iniciar el asalto.</text>
+  </string>
+  <string id="st_raid_fuel">
+    <text>Combustible</text>
+  </string>
+  <string id="st_raid_fuel_descr">
+    <text>Combustible para los vehículos. \n \n%c[ui_gray_3]PROPIEDADES:\n%c[d_blue] • %c[ui_gray_2] objeto tecnológico\n%c[d_green] • %c[ui_gray_2] combustible de alta calidad\n</text>
+  </string>
+  <string id="st_raid_general_answer_achieve_1">
+    <text>Especialidad de venta y compra: -+</text>
+  </string>
+  <string id="st_raid_general_answer_achieve_2">
+    <text>% cualquier objeto (se acumula con otras especialidades)</text>
+  </string>
+  <string id="st_raid_general_answer_buy">
+    <text>Especialización de venta:</text>
+  </string>
+  <string id="st_raid_general_answer_for">
+    <text>por</text>
+  </string>
+  <string id="st_raid_general_answer_none">
+    <text>Ninguna</text>
+  </string>
+  <string id="st_raid_general_answer_sell">
+    <text>Especialización de compra:</text>
+  </string>
+  <string id="st_raid_got_lucky">
+    <text>¡Esta vez tuve suerte!</text>
+  </string>
+  <string id="st_raid_herman_trade">
+    <text>[Surtido de Hermann]</text>
+  </string>
+  <string id="st_raid_item_donation">
+    <text>La reputación con %s ha aumentado en +%s</text>
+  </string>
+  <string id="st_raid_item_quest_case_02_desc">
+    <text>Maletín ignífugo que, al parecer, contenía documentos importantes.</text>
+  </string>
+  <string id="st_raid_item_quest_case_02_name">
+    <text>Maletín vacío</text>
+  </string>
+  <string id="st_raid_map_hint_text">
+    <text>Esta guía reúne información sobre la jugabilidad, el mapa y las incursiones. \n \nIncursiones. \nLa mecánica principal del complemento son las incursiones. No puedes salir normalmente del refugio del Radar: eliges encargos en el cuaderno y luego una ubicación en el mapa. Hay cuatro niveles de ubicación: primero, segundo, tercero y Oscuridad, indicados con colores distintos.\nCada incursión dura 40 minutos. Cualquier transición desde una ubicación de incursión te devuelve al refugio y consume tiempo de juego. Una mejora del refugio puede prolongar la incursión. Al agotarse el tiempo, tu personaje queda «perdido»: solo tiene un 10 % de probabilidad de regresar vivo. La mejora del PDA aumenta la probabilidad de supervivencia: nivel 2, +10 %; nivel 3, +20 %. El Informante proporciona datos sobre rutas seguras, +10 %. El anabiótico «Block-Six» del equipo especial del cuaderno añade otro 20 %. \n\nEventos aleatorios. \nEn el complemento hay eventos aleatorios, llamados «rumores». La radio de los stalkers transmite información sobre cada ubicación, que puede ser falsa. La situación cambia cada 3 horas. Puedes comprar al Informante datos operativos sobre una ubicación. El peligro depende del rango de la ubicación: cuanto más al norte, más peligrosos son los eventos. Elige encargos con cuidado: nadie pagará extra por una incursión difícil. A veces conviene esperar en el refugio a que las condiciones mejoren. \n\nMuerte. \nPuedes morir durante una incursión. Perderás todo el equipo del inventario y los encargos de esa ubicación se considerarán fracasados, con todas sus consecuencias. La muerte reduce un porcentaje configurable de tu rango (se configura en el menú MCM); conservas el dinero. Cuanto mayor sea el rango del protagonista, más peligrosos y mejor pagados serán los encargos. El rango aumenta al completar encargos y con ciertas actividades durante la incursión. No se puede guardar durante la incursión por razones técnicas y para mejorar la experiencia; se guarda automáticamente al volver al refugio. No temas morir: la economía y la jugabilidad están diseñadas para ello. Lleva varios equipos, analiza tus errores y no cargues con toda la medicina y la comida. Huye si hace falta. La experiencia difiere mucho del habitual F5/F9. Planea cómo sobrevivir e improvisa: así alcanzarás el rango de Leyenda de la Zona. \n\nEmisiones. \nDurante una incursión puede alcanzarte una «oleada», una emisión breve de 3 a 7 minutos. No eres el único que necesita refugio: los enemigos lucharán hasta la muerte por él. El anabiótico estándar puede ayudarte a sobrevivir a una emisión a la intemperie. También puedes dormir en el refugio mientras esperas la emisión y garantizar que no ocurra en las próximas incursiones. \n\n¡Buena suerte, stalker!</text>
+  </string>
+  <string id="st_raid_map_use">
+    <text>Usar mapa ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_raid_mlr_strelok_item_01">
+    <text>Informe de Lyutyi</text>
+  </string>
+  <string id="st_raid_mlr_strelok_item_01_desc">
+    <text>Código: Sindicato-Alfa, canal 4.\nRemitente: Lyutyi, jefe del grupo.\nDestinatario: Coordinador.\nAsunto: Informe sobre el objetivo AER. Bajas del personal.\n \nQué pasa, central. Voy al grano, sin lloriqueos.\nPara empezar, nos hiciste correr como perros callejeros. Tuvimos a esos reclutas del ejército dando tumbos por el culo del mundo durante tres días. Nos dejamos los pies, el equipo acabó lleno de barro y las armas de arena. Comíamos raciones secas con agua de lluvia. Liquidamos a los soldados, tal como acordamos, pero los muchachos quedaron agotados. Aguantamos a base de estimulantes y pastillas.\nY entonces, en vez de mandarnos a la base a descansar, llegó tu orden: «Id corriendo con los cerebritos y quitadles el prototipo AER». Un plan cojonudo. Fiable como un reloj suizo, diría yo.\nLlegamos al punto. Resultó que esos botánicos no eran tontos y habían contratado una buena escolta. Se armó un tiroteo de los gordos. Estábamos cansados, hambrientos y hechos una mierda. Entonces a Bukka, uno de los nuestros, le fallaron los nervios. La falta de sueño y la tensión ya le tenían los ojos saltones, sí. Decidió ir sobre seguro. Al muy imbécil no se le ocurrió nada mejor que lanzar una granada desde el lanzagranadas directamente contra los científicos. Allí había una caja con piezas del aparato; al estallar, soltó rayos por todas partes. A la mitad de los científicos los hizo pedazos; la otra mitad se quedó mirando, en shock.
+Bukka sí que lanzó bien esa VOG. El prototipo saltó por los aires, joder. Solo quedó chatarra humeante.\n \nA Bukka le llegó el castigo por su numerito al instante: una bala se le metió bajo el chaleco, en la axila izquierda. Escupió sangre poco tiempo; ya no tenía sentido vendarlo. Dio unas vueltas y se apagó en paz. Que la losa le pese.\nEn cuanto a la instalación, quedó hecha polvo. Cuando eliminamos al resto de la escolta, rebuscamos entre los restos humeantes y encontramos un maletín con papeles. La carpeta de dentro se salvó de milagro. Se titulaba «Informe de calibración del prototipo AER 2.5». Al menos algo, coño; no fue en vano.\nLlevar esos papeles a la base atravesando los cordones en nuestro estado habría sido un suicidio. Nos retiramos al subsuelo de Agroprom, al escondite número cuatro. Nos llegó el aviso de que lo habían descubierto, así que dejamos los documentos junto a la estación depuradora, donde están las viejas válvulas oxidadas, las tuberías podridas y la baba por las paredes, en el nivel inferior. La carpeta va dentro de un contenedor hermético.\nLos restos de mi grupo se retiran a recuperarse. Espero que ingresen en nuestra cuenta el pago por los soldados muertos. Ya veremos qué hacemos con esta jodida calibración; seguro que los cerebritos pagan bien por ella. Lyutyi, fin de la comunicación.</text>
+  </string>
+  <string id="st_raid_new_lc_hint">
+    <text>Abandonar la ubicación</text>
+  </string>
+  <string id="st_raid_nimble_answer">
+    <text>Ahora lo saco.</text>
+  </string>
+  <string id="st_raid_nimble_cooldown_answer">
+    <text>Actualización \nTareas: %s h. \nEventos: %s h.</text>
+  </string>
+  <string id="st_raid_nimble_cooldown_answer_with_treasures">
+    <text>Actualización \nTareas: %s h. \nEventos: %s h. \nAlijos: 1-2 d.</text>
+  </string>
+  <string id="st_raid_nimble_cooldown_ask">
+    <text>Avísame cuando se actualicen las tareas y los eventos.</text>
+  </string>
+  <string id="st_raid_nimble_trade">
+    <text>[Surtido de Shustry]</text>
+  </string>
+  <string id="st_raid_notebook_hint_text">
+    <text>Este cuaderno reúne información básica sobre tareas y comercio. \n \nPestaña «Tareas»: \nMuestra una lista con el cliente, tu reputación con él, un resumen de la misión y las recompensas. Pasa el cursor sobre «Más información» para ver detalles y la sección «En caso de fracaso». Fallar una tarea reduce la reputación con el cliente. Algunos encargos proceden de clientes desconocidos: pagan bien, pero a los demás clientes no les gustará ese trabajo.\nCada tarea tiene un plazo y un rango. El temporizador empieza cuando aceptas la tarea en el cuaderno. Se recomienda completar las urgentes en la próxima incursión; las demás pueden esperar. No te demores: al agotarse el plazo, la tarea fracasa. Evita tareas de rango superior si no estás seguro de poder completarlas. Aun así, puedes arriesgarte: a veces hay tareas de rango 3 disponibles desde el principio.\nEn la esquina superior derecha puedes contactar con el Informante. Por una tarifa, puede ofrecerte una selección más amplia de tareas. Las tareas se actualizan cada 24 horas, a las 4 de la madrugada. \n \nPestaña «Equipo especial»: \nAquí puedes encargar equipo especial. Es muy caro, pero tiene propiedades únicas que antes no estaban disponibles y puede inclinar a tu favor incluso la situación más difícil. Lee su descripción y úsalo con prudencia. Recuerda: nada vale más que tu vida. \n \nPestaña «Mejoras del refugio»: \nAquí puedes mejorar el refugio. Estudia bien las mejoras: algunas ofrecen capacidades únicas para operar en las nuevas condiciones de la Zona. \n \nSobre el comercio: \nCada cliente tiene su propio surtido. Shustry lleva equipo al refugio en un BTR. Habla con él para elegir artículos. Al aumentar tu reputación, cada cliente te ofrece descuentos en el equipo de su especialidad. A continuación, un resumen. \n \nResumen: \nSidorovich: escopetas, pistolas, comida, dispositivos y trajes medianos y ligeros.\nBarman: fusiles de asalto, escopetas y trajes pesados y medianos.\nSkrjaga: fusiles de asalto, rifles de francotirador y trajes pesados y medianos.\nGerman: pistolas, subfusiles, medicina, dispositivos y trajes científicos.\nClientes externos: rifles de francotirador, fusiles de asalto, escopetas, subfusiles, pistolas y trajes medianos.\nShustry: especializado en módulos acoplables para armas y algunos modelos especiales. \n \n</text>
+  </string>
+  <string id="st_raid_notebook_use">
+    <text>Usar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_raid_radiation_damage">
+    <text>Radiación durante la transición</text>
+  </string>
+  <string id="st_raid_radiation_damage_text">
+    <text>Daño recibido:</text>
+  </string>
+  <string id="st_raid_radiation_died">
+    <text>Murió durante la transición</text>
+  </string>
+  <string id="st_raid_radiation_died_text">
+    <text>Muerte por contaminación radiactiva. Daño recibido:</text>
+  </string>
+  <string id="st_raid_rank_after_death">
+    <text>Notificación tras la muerte</text>
+  </string>
+  <string id="st_raid_rank_after_death_text">
+    <text>Puntos de rango perdidos:</text>
+  </string>
+  <string id="st_raid_sidorovich_trade">
+    <text>[Surtido de Sidorovich]</text>
+  </string>
+  <string id="st_raid_skryaga_trade">
+    <text>[Surtido del Avaro]</text>
+  </string>
+  <string id="st_raid_spore_trade">
+    <text>[Objetos del refugio]</text>
+  </string>
+  <string id="st_raid_spore_trade_general">
+    <text>[Objetos decorativos y funcionales para colocar]</text>
+  </string>
+  <string id="st_raid_trade">
+    <text>[Comercio]</text>
+  </string>
+  <string id="st_stalker_event_package_desc">
+    <text>Objeto de evento de los stalkers.</text>
+  </string>
+  <string id="st_stalker_event_package_name">
+    <text>Paquete de los stalkers</text>
+  </string>
+  <string id="st_ui_raid_no_console">
+    <text>Oscuridad auténtica: en este modo, la consola solo está disponible en el refugio.</text>
+  </string>
+  <string id="st_ui_raid_no_load">
+    <text>Oscuridad auténtica: en este modo solo se puede cargar en el refugio.</text>
+  </string>
+  <string id="st_ui_raid_no_main_menu">
+    <text>Oscuridad auténtica: en este modo esta función solo está disponible en el refugio.</text>
+  </string>
+  <string id="st_ui_raid_no_save">
+    <text>Atención: solo se puede guardar en el refugio.</text>
+  </string>
+  <string id="st_ui_raid_super_surge_message">
+    <text>¡Atención, stalkers! La superemisión está a punto de comenzar. ¡Corred al refugio!</text>
+  </string>
+  <string id="st_ui_raid_super_surge_title">
+    <text>Comienza una superemisión</text>
+  </string>
+  <string id="st_ui_raid_travel_bleed_message">
+    <text>¡Atención! Estás sangrando.</text>
+  </string>
+  <string id="st_ui_raid_travel_rad_lethal_message">
+    <text>¡Atención! Dosis de radiación mortal.</text>
+  </string>
+  <string id="st_ui_raid_travel_rad_message">
+    <text>¡Atención! La radiación causará daño.</text>
+  </string>
+  <string id="st_ui_raid_travel_surge_message">
+    <text>¡Atención! La emisión puede ser mortal.</text>
+  </string>
+  <string id="ui_st_preset_title_artintern">
+    <text>Cazador de artefactos novato</text>
+  </string>
+  <string id="ui_st_preset_title_artpro">
+    <text>Cazador de artefactos profesional</text>
+  </string>
+  <string id="ui_st_preset_title_bandit">
+    <text>Bandido con un as</text>
+  </string>
+  <string id="ui_st_preset_title_deserter">
+    <text>Desertor</text>
+  </string>
+  <string id="ui_st_preset_title_empty">
+    <text>Equipo predeterminado</text>
+  </string>
+  <string id="ui_st_preset_title_goldenleg">
+    <text>Piernas de oro</text>
+  </string>
+  <string id="ui_st_preset_title_grandpa">
+    <text>Abuelito</text>
+  </string>
+  <string id="ui_st_preset_title_hoarder">
+    <text>Acaparador</text>
+  </string>
+  <string id="ui_st_preset_title_hunter">
+    <text>Cazador</text>
+  </string>
+  <string id="ui_st_preset_title_kyk">
+    <text>Cuco</text>
+  </string>
+  <string id="ui_st_preset_title_maniac">
+    <text>Carnicero psicópata</text>
+  </string>
+  <string id="ui_st_preset_title_merc">
+    <text>Nada personal</text>
+  </string>
+  <string id="ui_st_preset_title_pro">
+    <text>Agente operativo</text>
+  </string>
+  <string id="ui_st_preset_title_sinner">
+    <text>Pecador</text>
+  </string>
+  <string id="ui_st_preset_title_specfor">
+    <text>Soldado de las fuerzas especiales</text>
+  </string>
+  <string id="ui_st_preset_title_termin">
+    <text>Asesino cíborg</text>
+  </string>
+  <string id="ui_st_raid_new_game">
+    <text>Radar (Refugio)</text>
+  </string>
+</string_table>

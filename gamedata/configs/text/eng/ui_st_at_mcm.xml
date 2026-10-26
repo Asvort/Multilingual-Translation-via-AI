@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Bleed out time (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>How long you stay down before the bleed out ends on its own. What happens then is set below.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Bleeding out kills</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>On: bleeding out kills you for real, and a downed player can be finished off after the grace window below. Off: bleeding out revives you where you fell, and nothing can finish off a downed player. Only the host's setting is used.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Downed state on a fatal hit</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>On: a fatal hit downs you and a teammate can revive you. Off: a fatal hit sends you straight to the nearest base or lit campfire. Neither one can kill you outright; whether bleeding out kills is set below. The host's settings apply to everyone.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Grace window after going down (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>How long a downed player cannot be finished off, counted from the moment they go down, so one big hit downs instead of killing outright. Unused when bleeding out does not kill. Only the host's setting is used.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Reload countdown (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>How long the death screen stays up before the host loads the last save and everyone rejoins. Nobody can move or save while it counts down. Only the host's setting is used.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Health after revive</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Revive hold time (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Discord rich presence</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Show what you are playing in Discord. In a session it publishes your party so friends can be invited and can ask to join; outside one it shows links to our Discord and AP-PRO. Discord gives the card only two slots, so the links and the join button never appear together.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Max players</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>How many players your session holds, you included. Also the party size Discord shows. Applies to the next session you start.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Password</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Password a joining player has to enter. Leave it empty for none. It cannot contain a space or a slash.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Port</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>UDP port your session listens on. Players joining by address reach you on it, so it has to be open on your router and firewall. Ignored when the session runs over Steam. Applies to the next session you start.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Host over Steam</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>On: players join by your Steam id, which passes through NAT and needs no open port, and friends can join from the friends list or a Discord invite. Off: direct connections on the port above only. Applies to the next session you start.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Player name</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Your name in co-op. It is sent to the host on connect and becomes your character's name there. Leave it empty and one is generated on the first connect.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Give rewards to every player</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>On: every player receives reward_money and reward_item. Off: only the player who submits the task does. fetch_reward_and_remove always takes items from and pays only the submitting player. The host setting determines each completion.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Downed and Revive</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Hosting</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Player</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Task rewards</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Downed and Revive</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Hosting</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Player</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Tasks</text>
+  </string>
+</string_table>

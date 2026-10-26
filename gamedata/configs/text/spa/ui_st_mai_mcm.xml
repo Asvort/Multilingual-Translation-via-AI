@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Radio de detección (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>Distancia de detección de anomalías. Más = detección temprana, pero más restricciones de ruta. Predeterminado: 30 m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Bloquear en cadáveres</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Impide que las anomalías se activen en cadáveres. Evita errores de física ragdoll y mejora el rendimiento.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Retraso de reconstrucción de caché (s)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Espera antes de reconstruir la caché tras emisión o tormenta psi. Requerido por Arrival. Predeterminado: 2,5 s</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Limpiar marcadores antiguos</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Elimina marcas de sesiones anteriores. Actívalo, aplica y desactiva. Acción puntual.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>En combate</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Multiplicador de fallo en combate. NPC distraídos entran más en anomalías. Predeterminado: 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Ajustes de daño</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Modo de depuración</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Registra detecciones, daño y causas de muerte en la consola.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Ajustes de detección</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Radio de efecto (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>Los NPC más lejos quedan protegidos del daño de anomalías. Evita muertes a distancia. Predeterminado: 300 m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Protección del traje</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Reduce el daño según el traje del NPC, usando sus valores de protección contra fuego, electricidad, químicos, etc.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Ajustes generales</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Inmune con 0% de probabilidad de fallo</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>Los NPC con 0% de probabilidad base de fallo son inmunes al daño de anomalías. Protección para veteranos.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>Activar MAI</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Activa o desactiva MAI. Desactivado, los NPC ignoran las anomalías.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Multiplicadores según el movimiento</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Experimentado</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Probabilidad base de fallo de stalkers experimentados. Predeterminado: 50%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Experto</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Probabilidad base de fallo de expertos. Predeterminado: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Leyenda</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Probabilidad base de fallo de leyendas. Predeterminado: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Maestro</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Probabilidad base de fallo de maestros. Predeterminado: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Novato</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Probabilidad base de fallo de novatos. 100% significa que pueden entrar continuamente en anomalías. Predeterminado: 100%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Profesional</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Probabilidad base de fallo de profesionales. Predeterminado: 25%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Probabilidad base de fallo por rango (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Aprendiz</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Probabilidad base de fallo de aprendices. Predeterminado: 75%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Veterano</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Probabilidad base de fallo de veteranos. 0% significa que nunca entrarán en anomalías. Predeterminado: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Búsqueda global de rutas</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Activado: todos evitan anomalías sin importar la distancia. Desactivado: solo se aplican dentro del radio.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Corriendo</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Multiplicador de fallo al correr. Mayor = más probable que no vea anomalías. Predeterminado: 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Mostrar anomalías en el mapa</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Marca anomalías en caché en el PDA para depurar rutas. Desactívalo para quitar las marcas.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Quieto</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Multiplicador de fallo si el NPC está quieto. Menor = observa mejor. Predeterminado: 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — Interacción entre mutantes y anomalías</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Depuración detallada</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Detalla actualizaciones, caché y restricciones. ¡Muchísimos mensajes!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Caminando</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Multiplicador de fallo al caminar. Predeterminado: 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Interacción con anomalías</text>
+  </string>
+</string_table>

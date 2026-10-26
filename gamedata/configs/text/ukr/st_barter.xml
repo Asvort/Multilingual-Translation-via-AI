@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Для обміну потрібні всі зазначені предмети.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>набоїв: </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Виберіть тип предмета для обміну.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>стан: %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(не оновлюється)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>потрібна прихильність: </text>
+  </string>
+  <string id="st_barter_info">
+    <text>потрібен попередній обмін</text>
+  </string>
+  <string id="st_barter_init">
+    <text>Хочете щось обміняти? %c[orange][Бартер]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>ліміт</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(оновлюється під час поповнення запасів)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>техніку потрібні прості інструменти</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>техніку потрібні вдосконалені інструменти</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>техніку потрібні інструменти експерта</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>використань: </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Після обміну ви отримаєте предмети, наведені нижче.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Звичайні предмети</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Рідкісні предмети</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Унікальні предмети</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Артефакти</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Повний список</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Основні правила обміну:\n• Стан предметів має бути не нижче за %s%.\n• Багаторазові предмети мають мати всі використання.\n• Боєприпаси мають складати повну пачку.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Доступні обміни</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Необхідні предмети</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Бартер</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>Мінімальний стан зброї для обміну</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>Мінімальний стан предметів гравця (зброї, костюмів), що враховується під час обміну.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>Мінімальний стан деталей</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>Мінімальний стан деталей і частин предметів (наприклад, зброї чи костюма), які гравець пропонує окремо або у складі більшого предмета.</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Виведення налагоджувальної інформації</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Обмін із NPC в Anomaly</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Бартер</text>
+  </string>
+</string_table>

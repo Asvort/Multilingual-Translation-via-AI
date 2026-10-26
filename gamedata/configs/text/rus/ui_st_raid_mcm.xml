@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Высокий</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Низкий</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Стандартный</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Ускоренная прогрессия (20-30 часов игры)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Стандартная скорость прогресса (30-40 часов игры)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Быстрая прогрессия (10-20 часов игры)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Рейд во Мрак</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Население Рейд во Мрак</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Сохранения у костров</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Позволяет сохраняться у костров. 
+		\n\nПри включенной опции так же работают консольные сохранения вида "save имя сохранения". 
+		\n \n%c[200, 235, 76, 52]Внимание! Рекомендуется отказаться от сохранений во время Рейда, так как это испортит Ваш опыт игры.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>В режиме "Мрак" и "Подлинный Мрак" используются значения "По умолчанию"</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Шанс успеха страховки Информатора (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Шанс сохранения надетых предметов в инвентаре после покупки "страховки" у Информатора.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Количество сохраняемых предметов после смерти (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Процент надетых предметов, гарантированно сохраняющихся в инвентаре после смерти. 
+		\n\nНапример при значении 60% из 10 предметов у Вас останется 6 случайных предметов.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Прогрессивный дроп</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>Количество предметов, которые сохраняются после смерти зависит от ранга игрока. Чем выше ранг, тем меньше вещей сохраняются. Данная настройка отключает ползунок ниже (количество сохраняемых вещей). 
+		\nНовичок - потеря 10% вещей
+		\nНачинающий - потеря 20% вещей
+		\nОпытный - потеря 30% вещей
+		\nПрофи - потеря 40% вещей
+		\nВетеран - потеря 50% вещей
+		\nЭксперт - потеря 60% вещей
+		\nМастер - потеря 70% вещей
+		\nЛегенда - потеря 33% вещей
+		\n\nПри выключенной опции % можно настроить в пункте "Количество сохраняемых предметов после смерти".</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Потеря очков ранга при смерти (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Процент теряемого ранга при смерти. 
+		\n\nВлияет на прогресс развития персонажа.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Население Рейд во Мрак</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Множитель появления в симуляции</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>По умолчанию 100% означает работу исходных конфигов симуляции. Для ощутимой разницы меняйте значения на 20-50%.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Пресет населения локаций</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>Отвечает за количество отрядов при начальном спавне и возможном дополнительном спавне. Работает только в стандартных рейдах.
+		\n \nРекомендуется стандартная настройка, под нее настраивался геймплей.		
+		</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>Скорость развития</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Отвечает за награду заданий: ранг, деньги, репутация с заказчиками.
+		\n \nРекомендуется стандартная настройка, под нее настраивался геймплей.		
+		</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Рейд во Мрак</text>
+  </string>
+</string_table>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_desc_mcm">
+    <text>Witamy w menu konfiguracji modów Anomaly (MCM).\n\n\nMCM samo w sobie nic nie robi; udostępnia innym modom i dodatkom miejsce na wyświetlanie interfejsu ustawień.\n\n\nOkno MCM składa się z dwóch paneli.\n\n\nLewy panel zawiera alfabetyczny spis zainstalowanych modów i dodatków korzystających z MCM.\n\nMa trzy poziomy: menu główne moda i dwa podmenu.\n\nMenu samego MCM znajduje się na początku listy.\n\nKliknięcie menu głównego lub podmenu moda otwiera jego interfejs ustawień w prawym panelu.\n\nMoże on zawierać: graficzny baner i tytuł interfejsu u góry panelu; nazwy ustawień z podpowiedziami wyświetlanymi po najechaniu kursorem; pola wyboru; suwaki; listy rozwijane; oraz opisy tekstowe, takie jak ten.</text>
+  </string>
+  <string id="ui_mcm_desc_mcm2">
+    <text>Błędy MCM lub awarie związane z ui_mcm.script są najpewniej powodowane przez mod albo dodatek korzystający z MCM.\nZgłoś je autorowi tego moda.</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_alt">
+    <text>Klawisz Alt</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+    <text>Klawisz Ctrl</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_none">
+    <text>Brak modyfikatora</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_shift">
+    <text>Klawisz Shift</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_dtap">
+    <text>Podwójne naciśnięcie</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_hold">
+    <text>Długie naciśnięcie</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_press">
+    <text>Pojedyncze naciśnięcie</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb">
+    <text>Skróty MCM działają „jak w Minecrafcie”: kliknij pole i naciśnij klawisz.\nKliknięcie lub Esc anuluje wybór.\nJeśli wyświetlany klawisz nie odpowiada naciśniętemu albo MCM ignoruje niektóre klawisze, dostosuj mcm_key_localization.ltx do układu klawiatury. Klawisze przypisane do wielu skrótów MCM lub do klawisza silnika są podświetlane na czerwono.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb2">
+    <text>Czerwony kolor nie zawsze oznacza problem: klawisze mogą działać w różnych interfejsach albo dana kombinacja może wymagać Shift.\n\n\nMCM nie wie, jak dodatek używa klawisza, więc sam musisz ocenić znaczenie konfliktu.\n\n\nPrzy jednej oczekującej zmianie kolor aktualizuje się poprawnie, przy kilku może nie.\n\nZastosuj zmiany i otwórz MCM ponownie, aby sprawdzić status.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all">
+    <text>Ten panel zbiera wszystkie skróty MCM w kolejności modów z listy po lewej.\nNie uwzględnia dodatkowych ustawień dodatków, które mogą wpływać na działanie klawisza.\nZawsze sprawdzaj panel moda źródłowego i jego dokumentację.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all2">
+    <text>Zmiany oczekujące w innych panelach nie będą tu widoczne, a zmiany z tego panelu nie pojawią się w pozostałych.\n\nZastosuj zmiany przed i po użyciu tej strony.\n\nCzerwone klawisze nie zawsze oznaczają konflikt: mogą działać w różnych interfejsach albo jedna kombinacja może wymagać Shift.\n\nMCM nie zna zastosowania klawisza w dodatku, więc sam oceń konflikt.\n\nPrzy wielu oczekujących zmianach kolor może się nie odświeżyć.\n\nZastosuj je i otwórz MCM ponownie.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_conflicts">
+    <text>Ten panel zbiera i porządkuje według klawisza wszystkie skróty MCM oznaczone jako konfliktowe.\n\nJeśli klawisz pojawia się tylko raz, prawdopodobnie koliduje ze skrótem silnika wymienionym w zwykłych opcjach Anomaly.\nPanel nie obejmuje dodatkowych ustawień modów wpływających na działanie klawisza.\nSprawdź panel moda źródłowego i dokumentację.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_log">
+    <text>To narzędzie dla twórców dodatków pozwala przenieść logi poza dziennik X-Ray i konsolę gry.\n\n\nUdostępnia ustawienia ograniczające opóźnienia i zapisy na SSD.\n\nPliki otrzymują nazwę skryptu, który je tworzy, oraz numer sesji MCM i trafiają do appdata/logs/mcm/.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode">
+    <text>Tryb wprowadzania</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode_desc">
+    <text>Powyższy skrót aktywuje się, gdy klawisz zostanie użyty w ten sposób.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier">
+    <text>Z klawiszem modyfikującym</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier_desc">
+    <text>Powyższy skrót aktywuje się tylko wtedy, gdy ten klawisz jest również przytrzymany.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml">
+    <text>Nazwy modów zawsze po angielsku</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml_desc">
+    <text>Wymusza angielskie nazwy dodatków, aby poprawić sortowanie, ponieważ niektóre mają wyłącznie angielskie nazwy.\n(!) Zmiana wymaga ponownego uruchomienia gry.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset">
+    <text>Przeładuj wszystkie menu</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset_desc">
+    <text>Zaznaczenie tej opcji i kliknięcie Zastosuj przeładuje wszystkie menu MCM. To narzędzie debugowania nie jest potrzebne podczas zwykłego korzystania.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+    <text>Okno podwójnego naciśnięcia</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+    <text>Określa maksymalny odstęp między dwoma naciśnięciami, aby zostały uznane za podwójne.\n\nDotyczy tylko dodatków wykrywających podwójne naciśnięcia przez MCM.\nMoże też opóźniać niektóre pojedyncze akcje, więc ustaw możliwie najniższą wartość.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+    <text>Mnożnik długiego naciśnięcia</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+    <text>Mnożnik stosowany do okna podwójnego naciśnięcia określa, jak długo trzeba przytrzymać klawisz, aby uznać je za długie naciśnięcie.\n\nDotyczy tylko dodatków rozpoznających je przez MCM.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous">
+    <text>Zezwalaj na ciągły zapis do pliku</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous_desc">
+    <text>Logi są zwykle aktualizowane partiami, więc awaria gry może spowodować utratę części danych.\n\nAutor dodatku może poprosić o zaznaczenie tej opcji, aby jego log był aktualizowany natychmiast.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2">
+    <text>Włącz rejestrowanie debugowania</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+    <text>Włącza własny dziennik debugowania MCM; należy go uruchomić przed zgłoszeniem błędu MCM.\n\n\nInne dodatki mogą używać tego ustawienia do włączania własnych logów.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable">
+    <text>Włącz rejestrowanie MCM</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable_desc">
+    <text>Odznaczenie tej opcji zablokuje tworzenie lub aktualizowanie nowych logów.\nZmiana może zadziałać dopiero po wczytaniu nowego zapisu gry.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs">
+    <text>Liczba dzienników do zachowania</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+    <text>Po przekroczeniu tej liczby logów danego skryptu starsze zostaną usunięte.\nJeśli gra ulegnie awarii, logi nie będą kasowane.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq">
+    <text>Odstęp między automatycznymi zapisami dziennika (ms)</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+    <text>Niezależnie od ustawienia logi są zapisywane również przy otwieraniu różnych ekranów interfejsu oraz podczas zapisywania i wczytywania gry.\n</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp">
+    <text>Częstotliwość znaczników czasu w dzienniku X-Ray</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+    <text>MCM dodaje znaczniki czasu do dziennika X-Ray, aby łatwiej powiązać zdarzenia z logami MCM.\nTa wartość określa minimalny odstęp między znacznikami.\nJeśli nic innego nie zapisuje w konsoli, MCM również nie będzie nic dopisywać.</text>
+  </string>
+  <string id="ui_mcm_menu_mcm">
+    <text>MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_about">
+    <text>Informacje</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_all_kb">
+    <text>Wszystkie skróty klawiszowe</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb">
+    <text>Skróty klawiszowe MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_conflicts">
+    <text>Konflikty klawiszy</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_main">
+    <text>Główne</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_log">
+    <text>Rejestrowanie</text>
+  </string>
+  <string id="ui_mcm_menu_search">
+    <text>Szukaj…</text>
+  </string>
+  <string id="ui_mcm_menu_search_clear">
+    <text>Kliknij prawym przyciskiem, aby wyczyścić</text>
+  </string>
+  <string id="ui_mm_menu_mcm">
+    <text>Menu konfiguracji modów</text>
+  </string>
+</string_table>

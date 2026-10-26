@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Debes tener todos los objetos para completar este intercambio.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>munición: </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Selecciona un tipo de objeto para entregar.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>estado: %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(no se renueva)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>reputación necesaria: </text>
+  </string>
+  <string id="st_barter_info">
+    <text>requiere un intercambio previo</text>
+  </string>
+  <string id="st_barter_init">
+    <text>¿Quieres intercambiar algo? %c[orange][Trueque]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>límite</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(se renueva al reabastecer)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>el técnico necesita herramientas básicas</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>el técnico necesita herramientas avanzadas</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>el técnico necesita herramientas de experto</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>usos: </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Tras el intercambio, recibirás los objetos indicados abajo.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Objetos comunes</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Objetos raros</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Objetos únicos</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Artefactos</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Lista completa</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Reglas básicas del trueque:\n• Los objetos con condición deben tener al menos %s%.\n• Los objetos de varios usos deben estar sin usar.\n• La munición debe ser una caja completa.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Intercambios disponibles</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Objetos necesarios</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Trueque</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>Condición mínima del arma para intercambiar</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>Condición mínima requerida para los objetos con estado que aporta el jugador (armas, trajes) en un trueque.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>Condición mínima de las piezas</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>Condición mínima requerida para las piezas que aporta el jugador, tanto por separado como integradas en un objeto mayor (por ejemplo, piezas de armas o trajes).</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Imprimir información de depuración</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Trueque con NPC de Anomaly</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Trueque</text>
+  </string>
+</string_table>

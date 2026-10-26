@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_itm_placeable_trashcan_name">
+    <text>Bölge Geri Dönüşüm Kutusu</text>
+  </string>
+  <string id="st_open_trashcan">
+    <text>kutuyu aç</text>
+  </string>
+  <string id="st_place_trashcan">
+    <text>kutuyu yerleştir</text>
+  </string>
+  <string id="st_placeable_trashcan_descr">
+    <text>İstenmeyen eşyalar için büyük metal kap. Depo gibi yerleştirilir, ancak süre dolunca içindeki her şey kalıcı olarak yok edilir.\n \n%c[ui_gray_3]ÖZELLİKLER:\n%c[d_blue] • %c[ui_gray_2] yerleştirilebilir kap\n%c[d_blue] • %c[ui_gray_2] içine konan her şeyi yok eder</text>
+  </string>
+  <string id="st_trashcan_mollyguard">
+    <text>UYARI: Bu kaba konan tüm eşyalar süre sonunda YOK EDİLECEK</text>
+  </string>
+  <string id="st_trashcan_searchtip">
+    <text>Eşyaları kutuya koy ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_trashcan_seconds">
+    <text>saniye</text>
+  </string>
+  <string id="st_trashcan_shutupwesley">
+    <text>Geri dönüşüm kutusu yerleştirildi</text>
+  </string>
+  <string id="ui_mcm_menu_zrb">
+    <text>Bölge Geri Dönüşüm Kutusu</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs">
+    <text>Hata ayıklama günlüğünü aç</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs_desc">
+    <text>Betik konsola ayrıntılı mesajlar yazar. Normalde kapalı tutun; sorunu yeniden oluştururken açın.</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout">
+    <text>Eşya silinmeden önceki gecikme</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout_desc">
+    <text>Kutudaki tüm eşyaların silinmesinden önce geçmesi gereken saniye sayısı.\n \nBoşaltma gerçekleştiğinde tüm eşyalar SONSUZA DEK kaybolur.</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled">
+    <text>Eşya silmeyi etkinleştir</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled_desc">
+    <text>Eşya silme özelliğini açar veya kapatır.</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin">
+    <text>Oyuncuya ücretsiz kutu ver</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin_desc">
+    <text>Oyuncuya bir ücretsiz kutu verir ve seçeneği kapatır. Bir tane daha için yeniden açın.</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall">
+    <text>ZRB’yi kaldır</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall_desc">
+    <text>Oyuncunun envanterindeki tüm kutuları siler.</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots">
+    <text>Yerleştirilen kutuyu haritada göster</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots_desc">
+    <text>Kutu yerleştirildiğinde haritaya özel bir simge ekler.</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled">
+    <text>Kalıcı eşya silme konusunda uyar</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled_desc">
+    <text>Kutu her yerleştirildiğinde uyarı gösterir. Normal onay için kapatın.</text>
+  </string>
+</string_table>

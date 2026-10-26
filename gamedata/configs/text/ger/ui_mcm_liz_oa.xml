@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_liz_outfit_animations_allow_movement">
+    <text>Bewegung während der Animation erlauben</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_always_short">
+    <text>Immer die kurze Anlegeanimation verwenden</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_backpack_equip">
+    <text>Rucksack-Anlege-/Ablegeanimation aktivieren</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_outfit_equip">
+    <text>Anlegeanimation für Anzüge aktivieren</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_patches">
+    <text>Animation zum Entfernen/Anbringen von Abzeichen aktivieren</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_enable_patches_inventory">
+    <text>Abzeichenanimation für nicht getragene Anzüge aktivieren</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_keybind">
+    <text>Prüfanimation für Anzüge abspielen</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_keybind_desc">
+    <text>Für diese Taste können zusätzliche Modifikatortasten festgelegt werden, um Konflikte zu vermeiden.</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory">
+    <text>Anzug-Erinnerung aktivieren</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory_desc">
+    <text>Ist die Anzug-Erinnerung deaktiviert, wird bei jedem Anlegen einer Rüstung die vollständige Inspektionsanimation abgespielt.\nIst sie aktiviert, läuft die lange Version nur beim ersten Anlegen eines neuen Rüstungstyps; danach wird die kurze Version abgespielt.</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory_size">
+    <text>Größe des Anzuggedächtnisses</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_memory_size_desc">
+    <text>Anzahl der zuletzt getragenen Anzüge, an die sich der Charakter erinnert. Bei Wert 3 merkt er sich die letzten drei und spielt beim erneuten Anlegen die kurze Animation ab.\nNeue Rüstungen werden zur Liste hinzugefügt; ist sie voll, wird der älteste Eintrag entfernt.\nBei Wert -1 werden alle getragenen Rüstungen gespeichert, und die vollständige Animation läuft für jede neue Rüstung nur beim ersten Anlegen.</text>
+  </string>
+  <string id="ui_mcm_liz_outfit_animations_update_mcm">
+    <text>Deine MCM-Version ist veraltet. Bitte aktualisiere sie.</text>
+  </string>
+  <string id="ui_mcm_menu_liz_outfit_animations">
+    <text>Anzuganimationen</text>
+  </string>
+</string_table>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Aby dokonać tej wymiany, musisz mieć wszystkie przedmioty.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>nabojów: </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Wybierz rodzaj przedmiotu do oddania.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>stan: %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(nie odnawia się)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>wymagana przychylność: </text>
+  </string>
+  <string id="st_barter_info">
+    <text>wymaga wcześniejszej wymiany</text>
+  </string>
+  <string id="st_barter_init">
+    <text>Chcesz coś wymienić? %c[orange][Handel]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>limit</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(odnawia się przy uzupełnieniu zapasów)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>technik potrzebuje podstawowych narzędzi</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>technik potrzebuje zaawansowanych narzędzi</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>technik potrzebuje narzędzi eksperckich</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>użyć: </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Po wymianie otrzymasz przedmioty wymienione poniżej.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Zwykłe przedmioty</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Rzadkie przedmioty</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Unikatowe przedmioty</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Artefakty</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Pełna lista</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Zasady wymiany:\n• Stan przedmiotów musi wynosić co najmniej %s%.\n• Przedmioty wielokrotnego użytku muszą mieć wszystkie użycia.\n• Amunicja musi stanowić pełne pudełko.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Dostępne wymiany</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Wymagane przedmioty</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Handel</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>Minimalny stan broni do wymiany</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>Minimalny wymagany stan przedmiotów dostarczanych przez gracza (broni, kombinezonów) podczas wymiany.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>Minimalny stan części</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>Minimalny wymagany stan części oferowanych przez gracza, osobno lub jako element większego przedmiotu (np. części broni lub kombinezonu).</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Wyświetlanie informacji debugowania</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Handel z NPC w Anomaly</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Handel</text>
+  </string>
+</string_table>

@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="anomaly_scan_task_begin">
+    <text>A varredura começou</text>
+  </string>
+  <string id="anomaly_scan_task_update">
+    <text>A varredura terminou. Leve o scanner ao abrigo</text>
+  </string>
+  <string id="find_squad_and_delivery_out_task_moved_from_mark">
+    <text>O esquadrão saiu do ponto marcado</text>
+  </string>
+  <string id="find_squad_and_delivery_out_task_moved_to_mark">
+    <text>O esquadrão foi até o ponto marcado</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_1">
+    <text>O stalker morreu; ele deve ter as coordenadas do esconderijo</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_2">
+    <text>As coordenadas do esconderijo com o item foram encontradas</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_3">
+    <text>O stalker foi morto por perto, mas o sinal foi perdido. Ele deve ter as coordenadas do esconderijo</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_4">
+    <text>O stalker foi morto. Não há mais como encontrar as coordenadas do esconderijo</text>
+  </string>
+  <string id="rf_find_and_delivery_out_task_update">
+    <text>O item foi localizado</text>
+  </string>
+  <string id="rf_scout_and_delivery_out_task_update">
+    <text>As coordenadas do esconderijo foram obtidas</text>
+  </string>
+  <string id="st_dyn_news_unknown_7">
+    <text>desconhecido</text>
+  </string>
+  <string id="st_faction_other">
+    <text>Clientes independentes</text>
+  </string>
+  <string id="st_raid_krug">
+    <text>•</text>
+  </string>
+  <string id="st_raid_reward_news">
+    <text>Recompensa da missão</text>
+  </string>
+  <string id="st_raid_task_357_hp">
+    <text>.357 HP</text>
+  </string>
+  <string id="st_raid_task_af_class_chem">
+    <text>Químico</text>
+  </string>
+  <string id="st_raid_task_af_class_electro">
+    <text>Elétrico</text>
+  </string>
+  <string id="st_raid_task_af_class_gravi">
+    <text>Gravitacional</text>
+  </string>
+  <string id="st_raid_task_af_class_thermo">
+    <text>Térmico</text>
+  </string>
+  <string id="st_raid_task_all_descr_customer">
+    <text>[cliente %s]</text>
+  </string>
+  <string id="st_raid_task_all_descr_hours">
+    <text>[%s h]</text>
+  </string>
+  <string id="st_raid_task_all_descr_location">
+    <text>[local %s]</text>
+  </string>
+  <string id="st_raid_task_ammo">
+    <text>Munição</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan">
+    <text>Escaneie a atividade anômala e leve o scanner ao abrigo</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_duty_descr">
+    <text>Há uma zona anômala que levanta perguntas demais. Os aparelhos mostram picos estranhos, e preciso de dados precisos. Pegue o scanner, instale-o no ponto indicado e deixe-o trabalhar. Quando a coleta de informações terminar, recolha o aparelho com cuidado e traga-o de volta para mim. O principal é não destruir o equipamento nem acabar na moenda. Se tudo correr bem, vou pagar muito bem, e os dados serão bastante úteis no futuro.</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_ecolog_descr">
+    <text>Saudações, %s. Detectamos atividade anômala elevada em uma das áreas. Temos grande interesse em obter dados precisos para análise. Leve o scanner, instale-o no ponto indicado e aguarde até que a coleta de informações termine. Depois, recolha o aparelho com cuidado e devolva-o intacto. Por favor, tome o máximo de cuidado: ele é caro e essencial para nosso trabalho futuro.</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_freedom_descr">
+    <text>E aí, stalker! Os sabichões estão reclamando de novo que os aparelhos enlouqueceram — a anomalia está tão forte que o cérebro deles está fervendo. Enfim, pegue o scanner, vá até o ponto indicado e instale-o. Quando coletar os dados, recolha-o e traga para mim. Só não derreta naquelas malditas descargas nem estrague o equipamento, que é caro. Faça o serviço e vou te recompensar o bastante para passar um mês sem preocupações. Vai encarar?</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_short_descr">
+    <text>Escaneie a atividade anômala e volte ao abrigo com o scanner</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_stalker_descr">
+    <text>Preciso urgentemente de informações sobre a atividade anômala em um lugar. Algo estranho está acontecendo lá: os aparelhos estão no limite e meus homens têm medo de chegar perto. Você é a pessoa certa para isso. Leve o scanner ao ponto indicado e instale-o bem no epicentro. Deixe-o coletar os dados e depois recolha o aparelho com cuidado — ainda preciso dele. Não o estrague nem deixe que a anomalia frite você. Volte com o scanner intacto e pagarei muito bem. Não é apenas reconhecimento; é um trabalho importante para o futuro.</text>
+  </string>
+  <string id="st_raid_task_artefact">
+    <text>Artefato</text>
+  </string>
+  <string id="st_raid_task_artycont">
+    <text>Contêiner de artefatos</text>
+  </string>
+  <string id="st_raid_task_attach">
+    <text>Módulo</text>
+  </string>
+  <string id="st_raid_task_backpack">
+    <text>Mochila</text>
+  </string>
+  <string id="st_raid_task_delivery_in">
+    <text>Entregar um item em um local</text>
+  </string>
+  <string id="st_raid_task_delivery_in_duty_descr">
+    <text>E aí, %s. Vou ser breve: preciso que entregue uma coisinha em algum lugar. O que é e por que precisa estar lá não é da sua conta, sem ofensa. O importante é chegar no prazo. Faz isso?</text>
+  </string>
+  <string id="st_raid_task_delivery_in_ecolog_descr">
+    <text>Saudações, %s. Preciso que entregue um item no esconderijo indicado pelas coordenadas. O pagamento será feito após a conclusão, como sempre. Por favor, não se atrase e tome cuidado!</text>
+  </string>
+  <string id="st_raid_task_delivery_in_freedom_descr">
+    <text>E aí, cara! Vai rolar uma troca por aqui, então é preciso levar umas coisas até um endereço. O serviço é moleza, dinheiro fácil mesmo.)</text>
+  </string>
+  <string id="st_raid_task_delivery_in_other_descr">
+    <text>E aí. Leve um pacotinho até um esconderijo sem fazer perguntas? Vamos pagar direito, não se preocupe..</text>
+  </string>
+  <string id="st_raid_task_delivery_in_short_descr">
+    <text>Entregue um item no esconderijo do local indicado</text>
+  </string>
+  <string id="st_raid_task_delivery_in_short_descr_2">
+    <text>Pegar o item</text>
+  </string>
+  <string id="st_raid_task_delivery_in_stalker_descr">
+    <text>Seguinte, %s, é o seguinte. Preciso que leve uma coisa até um lugar, dentro do prazo. Não a destrua; entregue intacta e vou pagar bem. O cliente é importante, então não me decepcione.</text>
+  </string>
+  <string id="st_raid_task_delivery_mines">
+    <text>Instalar minas na posição</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_duty_descr">
+    <text>Voronin está insatisfeito com a situação estratégica no mapa outra vez. Só o Dever não consegue eliminar todas as ameaças, e os militares já têm trabalho de sobra. Precisamos minar um local para reduzir a próxima onda de mutantes. Topa?</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_ecolog_descr">
+    <text>Ah, %s, é você... Sabe, os mutantes ficam mais ativos na Zona a cada dia. Os militares já não sabem o que fazer: falta munição para proteger todos os grupos. Mas encontramos uma solução: minas antipessoais. Calculamos as rotas dos mutantes e registramos os campos minados na rede compartilhada. Poderia nos fazer o favor de minar uma trilha de feras?</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_freedom_descr">
+    <text>E aí, parceiro. Como dizer... o pessoal do Dever enlouqueceu. Estão armando emboscadas de atiradores contra nós, acredita?! Já mal conseguimos nos virar, e ainda temos esses fanáticos para enfrentar. Enfim, me passaram a próxima posição deles. Deixe lá um presentinho de minas de fragmentação :3</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_other_descr">
+    <text>E aí, mercenário! Alguém nos deu muita dor de cabeça, então precisamos deixar um pequeno presente de estilhaços no endereço indicado. Nem pense em contar para alguém; se a notícia vazar para a rede de stalkers, vai dar problema.</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_short_descr">
+    <text>Plante minas no ponto indicado</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_stalker_descr">
+    <text>Bem... tenho notícias ruins. Há cada vez mais mutantes no sul, e ninguém sabe de onde estão vindo. Mas isso não muda o que precisamos fazer. Temos que proteger algumas rotas, então sua tarefa é plantar minas em um local específico. O conjunto de minas pesa bastante, então vista algo confortável. Boa sorte, %s. </text>
+  </string>
+  <string id="st_raid_task_delivery_out">
+    <text>Entregar um item no abrigo</text>
+  </string>
+  <string id="st_raid_task_delivery_out_duty_descr">
+    <text>Olá. Temos um acordo de troca e nos passaram as coordenadas. Vá até o local, pegue a mercadoria intacta e traga para o abrigo. Entregue ao Ágil; ele sabe o que fazer depois.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_ecolog_descr">
+    <text>Olá, %s. Deixaram um pacote para nós nestas coordenadas. Por gentileza, vá buscá-lo. Você receberá uma recompensa quando o entregar no abrigo.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_freedom_descr">
+    <text>Então, cara, é o seguinte... Recebemos uma pista sobre um esconderijo com umas coisas importantes. Vá buscar para nós, beleza? E fique de olho; a fonte não é muito confiável. Mas você dá conta, né? ;)</text>
+  </string>
+  <string id="st_raid_task_delivery_out_other_descr">
+    <text>Chegou uma informação sobre um saque. Precisamos pegar sem alarde. Não reclame: o dono já não precisa disso.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_short_descr">
+    <text>Leve o item do esconderijo no local indicado</text>
+  </string>
+  <string id="st_raid_task_delivery_out_stalker_descr">
+    <text>Recebi uma pista interessante sobre um esconderijo. Precisamos pegar algo de lá sem chamar atenção; estou precisando muito desse 'algo'. Sem perguntas: vá até o local, pegue, traga para mim e eu pago.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world">
+    <text>Entregar um item no abrigo</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_duty_descr">
+    <text>Na escuta, %s. Soube que um esquadrão militar perdeu o mensageiro durante uma incursão. Parece que o encurralaram e devoraram... Os militares ficariam gratos se devolvêssemos a carga. Faça-me um favor: vá ao local e veja o que encontra. Se achar algo, traga para o abrigo; o Ágil saberá o que fazer depois.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_ecolog_descr">
+    <text>Bom dia, %s. Nosso funcionário precisou deixar o local do experimento. Dados importantes ficaram na posição. Por favor, pegue o pacote e leve-o ao abrigo. Garanto um pagamento justo pelo seu trabalho.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_freedom_descr">
+    <text>E aí, %s! Os sabichões perderam alguma coisa importante no campo. Não sei se ainda está lá, mas se você correr até lá e procurar, arrumo um bônus para você!</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_other_descr">
+    <text>E aí, escuta. Tem umas coisas largadas em certo endereço. Pode dar um pulo lá e trazer? Vamos pagar bem, de verdade!</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_short_descr">
+    <text>Leve um item do local indicado ao abrigo</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_stalker_descr">
+    <text>Meu protegido idiota deixou cair o equipamento enquanto fugia dos mutantes. Vai ser um milagre se ainda estiver lá. Encontre e traga de volta que vou pagar bem. Topa?</text>
+  </string>
+  <string id="st_raid_task_device">
+    <text>Dispositivo</text>
+  </string>
+  <string id="st_raid_task_dungeon_str">
+    <text>[Masmorra]</text>
+  </string>
+  <string id="st_raid_task_evacuation">
+    <text>Evacuar um stalker</text>
+  </string>
+  <string id="st_raid_task_evacuation_duty_descr">
+    <text>%s! Você chegou na hora certa. Nosso combatente é o último sobrevivente da incursão, e o Dever não abandona os seus. Vá até o local e tire aquele sujeito de lá. Depressa, ele pode estar ferido.</text>
+  </string>
+  <string id="st_raid_task_evacuation_ecolog_descr">
+    <text>Olá. Nosso funcionário se separou do grupo e não consegue sair sozinho... Por favor, ajude-o e acompanhe-o até o abrigo! Faça o possível para mantê-lo vivo! Garanto um pagamento generoso.</text>
+  </string>
+  <string id="st_raid_task_evacuation_freedom_descr">
+    <text>Estamos sem tempo, então vamos direto ao assunto. Mutantes atacaram nosso grupo avançado e um cara se separou dos outros. Ele teve que se esconder e agora está em apuros. Precisamos de ajuda para evacuá-lo. Vá buscar o sujeito? Vou pagar bem!</text>
+  </string>
+  <string id="st_raid_task_evacuation_other_descr">
+    <text>E aí, andarilho. Precisamos tirar um sujeito de uma situação bem complicada. Temos que agir rápido; ele não vai aguentar muito, os stalkers estão caçando-o. Você faz isso?  </text>
+  </string>
+  <string id="st_raid_task_evacuation_short_descr">
+    <text>Evacue um stalker do local indicado</text>
+  </string>
+  <string id="st_raid_task_evacuation_stalker_descr">
+    <text>Meu homem se meteu numa enrascada. O grupo inteiro foi feito em pedaços, e ele mal conseguiu escapar. Leve um kit médico e um pouco de vodca por garantia, e vá ajudá-lo a sair. Ele é um homem bom, valioso e experiente; preciso dele vivo. Vou enviar as coordenadas para o seu PDA.</text>
+  </string>
+  <string id="st_raid_task_find_artefact">
+    <text>Encontrar um artefato</text>
+  </string>
+  <string id="st_raid_task_find_artefact_duty_descr">
+    <text>Apesar da nossa especialidade, temos alguns contratos com cientistas, então quase sempre há pedidos de artefatos. Traga um na próxima entrega e eu lhe darei uma recompensa. Fechado?</text>
+  </string>
+  <string id="st_raid_task_find_artefact_ecolog_descr">
+    <text>Bom dia, %s. Precisamos completar nossa coleção de artefatos para novas pesquisas. Traga um artefato do tipo solicitado e receberá uma recompensa!</text>
+  </string>
+  <string id="st_raid_task_find_artefact_freedom_descr">
+    <text>Chegou um pedido de artefato; precisamos levá-lo aos sabichões. Se trouxer um, dividimos o lucro meio a meio. Fechado?</text>
+  </string>
+  <string id="st_raid_task_find_artefact_other_descr">
+    <text>Recebemos um pedido de artefato. Consegue um? Pago o dobro.</text>
+  </string>
+  <string id="st_raid_task_find_artefact_short_descr">
+    <text>Encontrar um artefato</text>
+  </string>
+  <string id="st_raid_task_find_artefact_stalker_descr">
+    <text>Chegou um pedido de artefato vindo do continente. Vou pagar conforme a qualidade: quanto melhor o que você trouxer, mais recebe. E não esqueça o contêiner de artefatos, senão suas bolas vão tilintar — ou até cair, hahaha.</text>
+  </string>
+  <string id="st_raid_task_find_outfit">
+    <text>Encontrar um traje</text>
+  </string>
+  <string id="st_raid_task_find_outfit_duty_descr">
+    <text>O Dever precisa de um traje de uma facção específica para uma operação de reconhecimento. A recompensa depende do estado do traje, então não me traga qualquer porcaria.</text>
+  </string>
+  <string id="st_raid_task_find_outfit_ecolog_descr">
+    <text>Saudações, %s. Precisamos de alguns equipamentos para criar um traje experimental. Leve o item indicado à mesa do Ágil; ele cuidará do resto. Lembre-se de que a recompensa depende do estado do item.</text>
+  </string>
+  <string id="st_raid_task_find_outfit_freedom_descr">
+    <text>E aí, cara. Preciso de um traje para um negócio. Consegue um para mim? Tente achar um mais novo; também pago por um furado, mas só uns trocados.</text>
+  </string>
+  <string id="st_raid_task_find_outfit_other_descr">
+    <text>Bom dia, andarilho. Precisamos de um traje adequado para uma operação. Poderia encontrar um para nós? Vamos pagar, mas lembre-se: um todo rasgado não vale muito..</text>
+  </string>
+  <string id="st_raid_task_find_outfit_short_descr">
+    <text>Encontrar um traje</text>
+  </string>
+  <string id="st_raid_task_find_outfit_stalker_descr">
+    <text>Enfim, preciso que arrume um traje para mim. Nem pergunte para quê, você sabe como é. Não me importa onde nem como vai encontrá-lo. Quanto mais novo trouxer, mais eu pago.</text>
+  </string>
+  <string id="st_raid_task_find_squad_and_delivery_out">
+    <text>Encontrar o esquadrão desaparecido e entregar um item no abrigo</text>
+  </string>
+  <string id="st_raid_task_find_squad_and_delivery_out_short_descr">
+    <text>Encontre o esquadrão desaparecido e leve o item ao abrigo</text>
+  </string>
+  <string id="st_raid_task_find_weapon">
+    <text>Encontrar uma arma</text>
+  </string>
+  <string id="st_raid_task_find_weapon_duty_descr">
+    <text>Precisamos reabastecer o arsenal. Só tenha em mente que, se trouxer sucata enferrujada, vou pagar de acordo; por uma arma nova você recebe o valor padrão.</text>
+  </string>
+  <string id="st_raid_task_find_weapon_ecolog_descr">
+    <text>Olá, %s. Nosso consultor de segurança recomendou algumas armas para equipar uma expedição. Se encontrar uma do calibre adequado, eu a comprarei de você. Lembre-se de que o pagamento dependerá do estado do item!</text>
+  </string>
+  <string id="st_raid_task_find_weapon_freedom_descr">
+    <text>Precisamos de uma arma de determinado calibre para o arsenal. Só que vou pagar conforme o estado, então não me traga sucata.)</text>
+  </string>
+  <string id="st_raid_task_find_weapon_other_descr">
+    <text>E aí, garoto. Precisamos de uma arma de primeira; anotamos o calibre para você. Só não pode estar enferrujada. Traga uma peça decente, entendeu?</text>
+  </string>
+  <string id="st_raid_task_find_weapon_short_descr">
+    <text>Encontrar uma arma</text>
+  </string>
+  <string id="st_raid_task_find_weapon_stalker_descr">
+    <text>Seguinte, %s: preciso encontrar uma arma para o meu especialista. Ele cismou com um modelo específico. Pode procurar? Mas olha: se trouxer sucata enferrujada, pago como ferro-velho. Se trouxer uma nova, pago um preço justo. Fechado?</text>
+  </string>
+  <string id="st_raid_task_food">
+    <text>Comida</text>
+  </string>
+  <string id="st_raid_task_guide">
+    <text>Escoltar um stalker</text>
+  </string>
+  <string id="st_raid_task_guide_duty_descr">
+    <text>E aí, %s. Como vão as coisas? Nosso grupo de atiradores precisa ocupar uma posição no setor. Sua tarefa é ajudá-los a chegar ao local de implantação. Assim que chegarem, seu trabalho estará feito. Consegue organizar isso?</text>
+  </string>
+  <string id="st_raid_task_guide_ecolog_descr">
+    <text>Olá, %s. Organizamos uma expedição para estudar uma zona anômala. Precisamos que acompanhe nossos funcionários até um local específico. É importante que nem eles nem os equipamentos sofram danos. Se aceitar, posso garantir um bom pagamento!</text>
+  </string>
+  <string id="st_raid_task_guide_freedom_descr">
+    <text>E aí, %s. Pintou um trabalho de escolta, mas como sempre estou sem gente, então tenho que contratar freelancers.) É moleza. Acompanhe os clientes até o local combinado e depois tanto faz o que aconteça — até se forem devorados. Só os leve inteiros até lá, beleza? Vou pagar direito.</text>
+  </string>
+  <string id="st_raid_task_guide_other_descr">
+    <text>Seguinte, garoto, tem um pequeno detalhe. Os caras precisam ir a algum lugar cuidar dos negócios deles, mas pode haver confusão no caminho. Vá com eles e dê cobertura; vamos pagar uma boa grana. Topa?</text>
+  </string>
+  <string id="st_raid_task_guide_short_descr">
+    <text>Escolte os stalkers até o ponto indicado</text>
+  </string>
+  <string id="st_raid_task_guide_stalker_descr">
+    <text>Seguinte, %s, surgiu um trabalho interessante. O caminho está perigoso, e preciso que meus homens cheguem a um lugar específico. Acompanhe-os; quando chegar lá, sua tarefa estará concluída e você pode ir embora. Nem pense em segui-los, entendeu? Ótimo. Vá andando.</text>
+  </string>
+  <string id="st_raid_task_helmet">
+    <text>Capacete</text>
+  </string>
+  <string id="st_raid_task_informant_btn_1">
+    <text>Comprar uma recomendação aos clientes. \n Bônus: +%s tarefas ao atualizar a lista, %s rublos.</text>
+  </string>
+  <string id="st_raid_task_informant_btn_2">
+    <text>Comprar seguro com o Informante. \n Bônus: %s%% de chance de manter os itens equipados ao morrer, %s rublos.</text>
+  </string>
+  <string id="st_raid_task_informant_btn_3">
+    <text>Comprar mapas novos de trilhas anômalas. \n Bônus: +%s minutos no próximo ataque, %s rublos.</text>
+  </string>
+  <string id="st_raid_task_informant_btn_4">
+    <text>Vender os PDAs encontrados ao Informante. </text>
+  </string>
+  <string id="st_raid_task_informant_btn_5">
+    <text>Redefinir tarefas (teste)</text>
+  </string>
+  <string id="st_raid_task_jartefact">
+    <text>Artefato de sucata</text>
+  </string>
+  <string id="st_raid_task_junk">
+    <text>Sucata</text>
+  </string>
+  <string id="st_raid_task_kill_descr_comm">
+    <text>[facção %s]</text>
+  </string>
+  <string id="st_raid_task_kill_descr_unknown">
+    <text>desconhecida</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_descr_comm">
+    <text>[mutante %s]</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad">
+    <text>Eliminar mutantes</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_duty_descr">
+    <text>Você sabe — todo mundo sabe — que o Dever faz de tudo para combater os mutantes. Mas nossa facção ficou muito reduzida depois da Superemissão. Sua tarefa é ir até as coordenadas e limpar a área dos mutantes. Também contratei outros stalkers para a limpeza. Quem terminar primeiro leva a recompensa, então não fique enrolando se aceitar.</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_ecolog_descr">
+    <text>Bom dia. Descobrimos algo realmente extraordinário! Uma anomalia única, com parâmetros que nunca encontramos antes... É a melhor oportunidade para estudar como a Zona se deforma. O único problema é que os mutantes estão atrapalhando a pesquisa. Pagarei muito bem se você limpar a área por algum tempo.</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_freedom_descr">
+    <text>Adivinha? A turma de dentes e garras voltou a nos incomodar. Se instalaram perto do esconderijo principal, acredita? Ainda devoraram um dos nossos corredores. Precisamos vacinar aquelas bestas nojentas com chumbo. Quanto antes, melhor.</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_other_descr">
+    <text>E aí! Esses monstros cheios de dentes estão atrapalhando os negócios. Já encheram. Meus rapazes têm um serviço agora, então precisamos de um caçador para limpar a área dessas feras. Topa?</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_short_descr">
+    <text>Eliminar um grupo de mutantes</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_stalker_descr">
+    <text>Meus batedores dizem que há um bando de mutantes famintos naquela área. Não quero que meus homens virem o jantar deles. Faça o favor de alimentar as criaturas com chumbo, que vou recompensá-lo bem. Só saiba que também contratei outros para esse serviço. Se demorar, cancelo o contrato, sem ressentimentos, claro.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker">
+    <text>Eliminar o alvo</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out">
+    <text>Eliminar o alvo e entregar o item no abrigo</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_duty_descr">
+    <text>Temos um probleminha, %s. Um falastrão falou demais e agora está nos dando dor de cabeça. Precisamos dar um fim nele. É simples: encontre-o, elimine-o e ele deve carregar um caderno com as coordenadas de um esconderijo. Lá há um item de que preciso. Pegue o conteúdo e traga para cá. Não vou mentir: é um trabalho sujo, mas na Zona essas coisas são necessárias. Cumpra a tarefa e receberá um bom pagamento.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_freedom_descr">
+    <text>E aí, %s! Resumindo, um sujeito está fazendo barulho demais. Precisamos que ele, digamos… deixe de existir. Ele também tem umas informações, parece que um caderno com uma pista. Pegue-o e as coordenadas do esconderijo vão aparecer. Há equipamento lá que precisamos a qualquer custo. Faça tudo direitinho e vai levar uma bolada. Então não enrole — esse trabalho é bom demais!</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_other_descr">
+    <text>Bom, %s, tenho um serviço para você. Um sujeito fala demais — precisa ser calado de vez. Ele vai carregar um papel com coordenadas; siga-as até o esconderijo. Lá dentro está algo de que preciso desesperadamente. Pegue e traga para cá. Pago rapidinho, não se preocupe.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_short_descr">
+    <text>Eliminar o alvo que tem a pista do esconderijo e entregar o item do esconderijo no abrigo</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_stalker_descr">
+    <text>Escute, %s. Tem um canalha por aí que acha que pode fazer o que quiser. Ele precisa parar de incomodar todo mundo. Siga o rastro, encontre-o e elimine-o sem alarde e sem deixar pistas. Mas não é só isso: ele deve deixar cair um caderno com uma pista e informações importantes. Assim que estiver com ele, as coordenadas de um esconderijo com um item para o cliente vão aparecer. Pegue-o e traga para mim. A recompensa é boa, mas o principal é fazer tudo com cuidado e sem chamar atenção. Tem gente importante envolvida, você entende.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_duty_descr">
+    <text>Olá, %s. Voronin nos encarregou de eliminar alguém e, como sempre, estamos sem pessoal. Se fizer tudo sem deixar rastros e sem alarde, pagarei a tarifa normal.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_ecolog_descr">
+    <text>Sinto muita vergonha de pedir isso, %s, mas não temos outra saída. Um certo “sujeito” está caçando nossas equipes científicas. As ações dele ameaçam vários dos nossos projetos. Por favor, “convença-o” a nunca mais se meter nos nossos assuntos.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_freedom_descr">
+    <text>E aí, cara. Não sei se foi de propósito, mas um babaca está se metendo nos nossos assuntos. Já virou uma pedra no sapato. Se tirar esse espinho sem fazer alarde, o velho Ben Franklin e eu ficaremos muito, muito agradecidos. Sacou?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_other_descr">
+    <text>Oi, hehe. Preciso que você elimine um sujeito direitinho e sem alarde. Faça um serviço bem-feito e pago uma bolada. Fechado?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_short_descr">
+    <text>Eliminar o alvo do esquadrão</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad">
+    <text>Eliminar o esquadrão</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_duty_descr">
+    <text>Um esquadrão inimigo está indo reforçar os adversários do Dever. Precisamos interceptá-lo antes que tome posição. Não sei por que Voronin não manda os especialistas dele; devem estar todos ocupados e os novatos não dão conta. Você cuida disso?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_ecolog_descr">
+    <text>Olá, %s. Isso é uma loucura, claro, mas não me restou outra opção. Os militares ficam dando desculpas porque simplesmente não têm tempo para isso. Esse grupo de criminosos vive sabotando nossas expedições. Eles roubam equipamentos científicos para vender no mercado negro e, recentemente, mataram um dos nossos professores associados! Por favor, acabe com eles antes que matem outra pessoa!</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_freedom_descr">
+    <text>E aí, parceiro! Tenho um negócio ótimo chegando, mas uns idiotas idealistas estão planejando estragá-lo. Não posso mandar meu pessoal: por algum motivo, o cliente tem ligação com eles. Preciso de alguém de fora que por acaso vá ao lugar certo e por acaso atire neles.)) Pago direitinho. Topa?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_other_descr">
+    <text>Tenho um pedido para você, do Ben Franklin. Ele não gosta nem um pouco de certos sujeitos armados e de macacão. Cuide deles e eu e Ben vamos arranjar uma recompensa bem generosa para você.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_short_descr">
+    <text>Eliminar o esquadrão</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_stalker_descr">
+    <text>Pois é, que tempos… Enfim, uns canalhas estão extorquindo stalkers honestos. Não sei se só perseguem os meus ou todo mundo, mas estão passando dos limites. Sem escrúpulos. Você me faria um favor enorme se, ahn… “conversasse” com eles e os mandasse para bem longe, de férias prolongadas. De preferência para o outro mundo. E sim, já passei esse serviço para alguns trabalhadores. Se chegar tarde, a recompensa vai para outro.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_stalker_descr">
+    <text>Tem um sujeito andando pela Zona, e ele não é nada agradável. Confirmaram que está envolvido em alguns esquemas de contrabando de artefatos para o continente. Não teria problema se eu não fosse o responsável por dar explicações aos militares por essa sujeira — e não aquele desgraçado! Encontre-o e enterre-o. Quanto mais fundo, melhor.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad">
+    <text>Eliminar os mutantes especialmente perigosos</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_duty_descr">
+    <text>E aí, %s. Uma equipe de reconhecimento do Dever informou as coordenadas de um covil estranho. Não sabemos exatamente que tipo de mutantes há lá nem quantos são. Não vamos arriscar mandar os nossos; é perigoso demais, e já estamos com falta de pessoal. Se aceitar e concluir a tarefa, pagarei generosamente. Fechado?</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_ecolog_descr">
+    <text>Não temos tempo, %s! Um grupo de cientistas nossos encontrou um novo espécime! Segundo as últimas informações, ele tem uma mutação muito rara. Nossos cientistas estão prontos para extrair tecidos do espécime. Vou enviar ao seu PDA a última posição conhecida dos mutantes. Vá até lá e acabe com eles. Minha equipe ficará responsável por coletar as amostras. Ah, quase esqueci: o pagamento dessa tarefa é maior!</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_freedom_descr">
+    <text>Putz, parceiro, a situação está feia… Alguma coisa cheia de dentes apareceu na Zona. Dá para acreditar? Nossos caras trocaram tiros com o pessoal do Dever, e me avisaram que essa coisa devorou todo mundo. Os nossos e os deles… TODO MUNDO! Enfim, isso não é nossa praia. Mas, se encontrar essa coisa dentuça e acabar com ela, vou demonstrar pessoalmente minha gratidão em dinheiro. Topa?</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_other_descr">
+    <text>Chegou um contrato para eliminar os mutantes deste setor. Dizem que as feras são fortes, ferozes e famintas, então leve um calibre pesado. Acabe com esses dentuços e pago o combinado, com um extra por cima.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_short_descr">
+    <text>Eliminar um grupo de mutantes especialmente perigosos</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_stalker_descr">
+    <text>Não sei que desgraça dentuça se enfiou lá, mas alguns caras voltaram com as calças borradas. Outros nem voltaram… *suspiro pesado*. Enfim, leve uma escopeta ou alguma arma monstruosa e acabe com aquela coisa. A criatura se acostumou a se alimentar dos meus rapazes…</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad">
+    <text>Eliminar um esquadrão de elite</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_duty_descr">
+    <text>A situação é complicada. Vários esquadrões do Dever foram duramente atingidos em um tiroteio com um inimigo de elite. Sua tarefa é encontrá-lo e eliminá-lo. Pagarei uma tarifa maior. Tome cuidado, %s — eles claramente são profissionais.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_ecolog_descr">
+    <text>Olá, %s. Recebemos informações de que encomendaram no mercado negro nossos equipamentos analíticos mais modernos. Assassinos e saqueadores já estão a caminho do local da emboscada. Precisamos proteger nossa equipe científica! Intercepte e elimine esse esquadrão, e pagarei a tarifa máxima.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_freedom_descr">
+    <text>E aí, cara. Resumindo, a coisa desandou de vez. Uns agentes de forças especiais de elite estão pegando pesado com nossos rapazes. Não sei de onde vieram nem por que se meteram nisso, mas não vale a pena trocar tiros com eles. Se acabar com todos como o Rambo, pago como se você fosse o Rambo. Só não deixe nenhum escapar, fechado?</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_other_descr">
+    <text>Saudações, andarilho! Apareceram uns xerifes corajosos por aqui. Pelo visto, eles não gostam das injustiças do mundo. Precisamos explicar como as coisas funcionam, de preferência de uma vez por todas. Pago o dobro se acabar com eles… mas cuidado, são durões. Podem até te dar uma surra, hehe…</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_short_descr">
+    <text>Eliminar o esquadrão de elite</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_stalker_descr">
+    <text>Uns especialistas estão atrás dos meus rapazes. Canalhas de respeito, armados e equipados, que ficam emboscando os meus nas incursões. Dê a eles uma injeção terapêutica de chumbo e pago generosamente todas as despesas, mais uma gorjeta. Só acabe com todos sem exceção, entendeu?</text>
+  </string>
+  <string id="st_raid_task_kit">
+    <text>Ferramentas</text>
+  </string>
+  <string id="st_raid_task_magnum_300">
+    <text>.338 Lapua Magnum</text>
+  </string>
+  <string id="st_raid_task_medicine">
+    <text>Medicamentos</text>
+  </string>
+  <string id="st_raid_task_melee">
+    <text>Armas corpo a corpo</text>
+  </string>
+  <string id="st_raid_task_mutant_food">
+    <text>Carne de mutante</text>
+  </string>
+  <string id="st_raid_task_mutant_hide">
+    <text>Peles de mutante</text>
+  </string>
+  <string id="st_raid_task_mutant_meat">
+    <text>Carne de mutante</text>
+  </string>
+  <string id="st_raid_task_mutant_parts">
+    <text>Partes de mutante</text>
+  </string>
+  <string id="st_raid_task_o_heavy">
+    <text>Traje pesado</text>
+  </string>
+  <string id="st_raid_task_o_light">
+    <text>Traje leve</text>
+  </string>
+  <string id="st_raid_task_o_medium">
+    <text>Traje médio</text>
+  </string>
+  <string id="st_raid_task_o_sci">
+    <text>Traje científico</text>
+  </string>
+  <string id="st_raid_task_pistol">
+    <text>Pistola</text>
+  </string>
+  <string id="st_raid_task_pkm_100">
+    <text>7,62×54 mm R</text>
+  </string>
+  <string id="st_raid_task_repair">
+    <text>Kit de reparo</text>
+  </string>
+  <string id="st_raid_task_return">
+    <text>Voltar ao abrigo</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out">
+    <text>(RF) Encontrar um esconderijo com baliza de rádio e entregar o item no abrigo</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_duty_descr">
+    <text>(Requer receptor RF) Um sinal indicou um esconderijo, %s. Mas encontrá-lo não será fácil: ele está oculto em um local aleatório e você precisa da frequência certa. Leve um receptor RF até a área de busca e rastreie o sinal de rádio. Quando captá-lo, ele vai levar você direto ao esconderijo. Há um item lá dentro que estou esperando. Pegue-o e traga para cá. Lembre-se: quanto mais perto do esconderijo, maior a chance de encontrar rivais ou mutantes. Mas, se conseguir, a recompensa vai superar todas as expectativas.</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_ecolog_descr">
+    <text>(Requer receptor RF) Ah, %s, você chegou bem na hora. Recebemos informações sobre um novo transmissor de rádio que envia coordenadas de esconderijos com materiais importantes. Precisamos verificar os dados. Rastreie o sinal na frequência indicada, localize a origem e encontre o esconderijo. Pegue o item e entregue aqui. Tenha em mente, %s, que sinais assim podem atrair outros caçadores.</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_freedom_descr">
+    <text>(Requer receptor RF) E aí, %s! Recebemos um sinal sobre um esconderijo recheado, mas as coordenadas estão escondidas pelo ruído do rádio. Aqui está um receptor: gire o seletor, sintonize a frequência certa e encontre a origem. Quando captar o sinal, ele vai levar você direto ao esconderijo. Há um equipamento lá dentro que estou esperando. Pegue e traga para mim. Fique esperto no caminho: mutantes e rivais estão só esperando para interceptar o saque. Mas, se conseguir, o lucro vai ser cósmico. Só vantagem para todo mundo, cara!</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_other_descr">
+    <text>(Requer receptor RF) Olá de novo, andarilho. Está rolando um boato sobre um esconderijo recheado. Não dá para vê-lo assim; é preciso captar o sinal do transmissor de rádio. Pegue o receptor, procure a frequência e, assim que encontrar a pista, siga para o local. O que me interessa estará lá. Traga para cá e receberá sua recompensa, palavra.</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_short_descr">
+    <text>Encontrar um esconderijo com baliza de rádio e levar o item ao abrigo</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_stalker_descr">
+    <text>(Requer receptor RF) Tenho mais um serviço, %s. Surgiu na Zona um sinal de rádio estranho que leva a um esconderijo oculto. Ele fica em um local aleatório, então pode demorar para encontrá-lo. Você vai precisar de um receptor RF: sintonize a frequência certa, siga a pista e o aparelho levará você direto ao esconderijo. Há algo lá dentro de que preciso muito. Pegue o item e traga para cá. Fique preparado: quanto mais perto do sinal, maior a chance de topar com mutantes ou curiosos. Ande rápido e não pare. É um trabalho cansativo, mas a recompensa compensa.</text>
+  </string>
+  <string id="st_raid_task_rf_freq">
+    <text>[frequência %s MHz]</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out">
+    <text>(RF) Interceptar as coordenadas do esconderijo e entregar o item no abrigo</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_duty_descr">
+    <text>(Requer receptor RF) Preste atenção. Segundo nossas informações, estão preparando um esconderijo nas proximidades e transmitindo as coordenadas pelo rádio em uma frequência específica. Vá até o ponto indicado, pegue seu receptor RF e intercepte as transmissões. Quando ouvir o sinal, receberá a pista. Depois, siga as coordenadas, pegue o item e traga para cá. Cuidado: talvez protejam o sinal ou algum ouvido curioso esteja escutando. É um trabalho delicado, mas a recompensa vale a pena.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_ecolog_descr">
+    <text>(Requer receptor RF) Olá, %s. Temos motivos para acreditar que estão negociando nas proximidades a instalação de um esconderijo com equipamentos valiosos para nossas pesquisas. Porém, as coordenadas são transmitidas apenas por rádio em uma frequência específica. Vá até a área indicada, use o receptor e intercepte a conversa. Depois de obter as coordenadas, encontre o esconderijo, pegue o item e entregue-o a nós. Tenha muito cuidado: outras facções também podem se interessar por essas informações.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_freedom_descr">
+    <text>(Requer receptor RF) Beleza, parceiro, é um negócio delicado. Tem gente conversando pelo rádio aqui perto e passando as coordenadas de um esconderijo cheio de coisas boas. Temos que aproveitar a chance! Pegue um receptor RF, encontre a frequência, escute e pronto — as coordenadas são suas. Depois vá até lá, pegue o que precisamos e traga para mim. Só não seja visto; não somos os únicos de ouvidos atentos. Se der certo, você vai se dar muito bem, garanto.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_other_descr">
+    <text>(Requer receptor RF) Escute aqui. Há uma conversa pelo rádio que revela o local de um esconderijo. Pegue um receptor RF, sintonize e intercepte a transmissão. Assim que conseguir as coordenadas, vá até lá e pegue o item. Acima de tudo, fique na sua para ninguém desconfiar. Vou pagar bem pelo seu esforço.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_short_descr">
+    <text>Interceptar as coordenadas secretas e entregar o item do esconderijo no abrigo</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_stalker_descr">
+    <text>(Requer receptor RF) É o seguinte, %s. Nossos amigos interceptaram informações de que um esconderijo com equipamento valioso será deixado aqui perto. Mas as coordenadas são secretas e só são transmitidas pelo rádio em uma frequência específica. Então você precisa levar um receptor RF, chegar ao ponto certo e sintonizar o canal. Quando ouvir a conversa, receberá as coordenadas. Abra o esconderijo, pegue o item e traga para mim. É um trabalho delicado; pode haver ouvidos por toda parte, então fique atento. Se conseguir, não vou deixar de recompensá-lo.</text>
+  </string>
+  <string id="st_raid_task_rifle">
+    <text>Rifle</text>
+  </string>
+  <string id="st_raid_task_scout">
+    <text>Reconhecimento</text>
+  </string>
+  <string id="st_raid_task_scout_dunge">
+    <text>Reconhecimento e retorno ao abrigo</text>
+  </string>
+  <string id="st_raid_task_scout_dunge_mark">
+    <text>é possível fazer o reconhecimento</text>
+  </string>
+  <string id="st_raid_task_scout_dunge_short_descr">
+    <text>Reconhecer a área ou voltar direto ao abrigo</text>
+  </string>
+  <string id="st_raid_task_scout_duty_descr">
+    <text>Ainda está vivo? Ótimo. Precisamos de informações de reconhecimento sobre um setor. Não é necessário eliminar o inimigo; você pode agir furtivamente e explorar com binóculos. O importante é descobrir o que está acontecendo por lá.</text>
+  </string>
+  <string id="st_raid_task_scout_ecolog_descr">
+    <text>Bom dia, %s. Estamos planejando uma expedição científica para essa região, mas precisamos confirmar que é segura. Por favor, vá verificar a situação. Você pode usar binóculos ou uma mira e evitar o combate — esta é uma missão exclusivamente de reconhecimento. Conto com você!</text>
+  </string>
+  <string id="st_raid_task_scout_freedom_descr">
+    <text>E aí! Nosso esquadrão vai passar por esta rota em breve, e não quero surpresas — mas sempre faltam batedores. Precisamos investigar a situação e conferir tudo. Pode dar uma olhada? Vou garantir que receba uma boa recompensa, relaxa. Aliás, dá para usar binóculos no reconhecimento, acredita? :D</text>
+  </string>
+  <string id="st_raid_task_scout_mark">
+    <text>Reconhecer a área</text>
+  </string>
+  <string id="st_raid_task_scout_other_descr">
+    <text>Então, o pessoal do Dever passou mesmo dos limites — estão atirando nos nossos sem distinção. Vá ver que confusão está acontecendo por lá e vamos te encher de coisas boas…</text>
+  </string>
+  <string id="st_raid_task_scout_short_descr">
+    <text>Reconhecer a área</text>
+  </string>
+  <string id="st_raid_task_scout_stalker_descr">
+    <text>Corre um boato de que há alguma confusão neste lugar. Meus homens passam por perto, então preciso que você explore a área e descubra o que está acontecendo e como está a situação. E não precisa ficar parado à vista de todos — pode olhar com binóculos, hehe. Informe tudo pelo rádio. É isso, pode ir.</text>
+  </string>
+  <string id="st_raid_task_search_in_treasures_and_delivery_out">
+    <text>Verificar os esconderijos encontrados e voltar ao abrigo</text>
+  </string>
+  <string id="st_raid_task_search_in_treasures_and_delivery_out_mark">
+    <text>Verificar</text>
+  </string>
+  <string id="st_raid_task_search_in_treasures_and_delivery_out_short_descr">
+    <text>Verificar os esconderijos, procurar artefatos ou voltar direto ao abrigo</text>
+  </string>
+  <string id="st_raid_task_shotgun">
+    <text>Escopeta</text>
+  </string>
+  <string id="st_raid_task_smg">
+    <text>Submetralhadora</text>
+  </string>
+  <string id="st_raid_task_sniper">
+    <text>Rifle de precisão</text>
+  </string>
+  <string id="st_raid_task_sold_pda_news">
+    <text>PDA vendido por %s rublos.</text>
+  </string>
+  <string id="st_raid_task_sudden_find_squads_item_is_found">
+    <text>Item encontrado. Entregue-o no abrigo.</text>
+  </string>
+  <string id="st_raid_task_title_accept">
+    <text>Aceitar</text>
+  </string>
+  <string id="st_raid_task_title_descr">
+    <text>Descrição</text>
+  </string>
+  <string id="st_raid_task_title_details">
+    <text>Mais detalhes</text>
+  </string>
+  <string id="st_raid_task_title_giver">
+    <text>Contratante</text>
+  </string>
+  <string id="st_raid_task_title_headreward">
+    <text>Recompensa</text>
+  </string>
+  <string id="st_raid_task_title_informant">
+    <text>Informante</text>
+  </string>
+  <string id="st_raid_task_title_level">
+    <text>Localização:</text>
+  </string>
+  <string id="st_raid_task_title_penalties">
+    <text>Em caso de falha:</text>
+  </string>
+  <string id="st_raid_task_title_reward">
+    <text>Em caso de sucesso:</text>
+  </string>
+  <string id="st_raid_task_title_reward_cost">
+    <text>Valor do item</text>
+  </string>
+  <string id="st_raid_task_title_reward_goodwill">
+    <text>Reputação com o contratante:</text>
+  </string>
+  <string id="st_raid_task_title_reward_goodwill_penalty">
+    <text>Reputação com os outros contratantes:</text>
+  </string>
+  <string id="st_raid_task_title_reward_items">
+    <text>Itens:</text>
+  </string>
+  <string id="st_raid_task_title_reward_money">
+    <text>Dinheiro:</text>
+  </string>
+  <string id="st_raid_task_title_reward_rank">
+    <text>Patente na rede de stalkers:</text>
+  </string>
+  <string id="st_raid_task_title_simple_level">
+    <text>Localização simplificada:</text>
+  </string>
+  <string id="st_raid_task_title_tier">
+    <text>Nível da tarefa:</text>
+  </string>
+  <string id="st_raid_task_title_type">
+    <text>Tipo de tarefa:</text>
+  </string>
+  <string id="st_raid_task_title_urgency">
+    <text>Prazo:</text>
+  </string>
+  <string id="st_raid_task_upgrade">
+    <text>Melhoria</text>
+  </string>
+  <string id="st_raid_task_urgency_1">
+    <text>Urgente (%s h)</text>
+  </string>
+  <string id="st_raid_task_urgency_2">
+    <text>Padrão (%s h)</text>
+  </string>
+  <string id="st_raid_task_urgency_3">
+    <text>Sem urgência (%s h)</text>
+  </string>
+  <string id="st_raid_task_urgency_4">
+    <text>Sem limite de tempo</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_duty">
+    <text>E aí, %s. Fiquei sabendo que um dos meus esquadrões desapareceu em algum ponto da rota. Eles tinham um transmissor de rádio — você pode captar o sinal com um receptor. Encontre a posição deles e traga de volta o que estavam carregando. Isso é importante, não me decepcione.</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_ecolog">
+    <text>Olá, %s. Infelizmente, um dos nossos esquadrões de pesquisa se perdeu durante uma expedição. Eles tinham um transmissor de rádio, e o sinal pode revelar a última posição deles. Por favor, use um receptor para encontrar o sinal e traga para mim os equipamentos que estavam com eles. Isso é extremamente importante para a ciência.</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_freedom">
+    <text>Ah, cara! Nossos rapazes foram passear por aí e pararam de dar notícias. Eles estavam com um sinalizador, então você pode usar um receptor para descobrir onde se perderam. Pegue o saque deles e traga para cá. E não esqueça: prometi um bônus ;)</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_stalker">
+    <text>Escute, %s. Meus homens desapareceram e perdemos contato com eles. Eles tinham um sinalizador, então você pode usar um receptor para encontrar onde se meteram em apuros. Pegue o que estava com eles e traga para mim. Você vai receber seu pagamento, pode confiar.</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_duty">
+    <text>Olá, %s. Um dos meus esquadrões desapareceu durante a passagem entre dois pontos da rota. Temos as coordenadas deles, mas depois perdemos contato. Verifique os lugares por onde podem ter passado e traga de volta o que estavam carregando. Você é nossa única esperança.</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_ecolog">
+    <text>Olá, %s. Infelizmente, um dos nossos esquadrões de pesquisa desapareceu ao se deslocar entre pontos de controle. Sabemos de onde saíram e para onde estavam indo. Por favor, investigue essas coordenadas, encontre o esquadrão e traga para mim os equipamentos que estavam com eles. Isso é extremamente importante para futuras pesquisas.</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_freedom">
+    <text>E aí, cara! Nossos rapazes seguiram pela rota, mas não voltaram. Sabemos de onde saíram e para onde iam, mas depois disso — silêncio. Vá conferir os pontos e traga o saque que estavam carregando. Você ganha um bônus gordo pelo trabalho ;)</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_stalker">
+    <text>Olha, %s. Meu esquadrão seguiu pela rota e não voltou. Só sabemos onde começou e para onde foi depois. Encontre os rastros deles e traga de volta o que estavam carregando. É coisa séria, então não enrole.</text>
+  </string>
+</string_table>

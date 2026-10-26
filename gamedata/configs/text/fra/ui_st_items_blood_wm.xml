@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_blood_bullettime">
+    <text>Bullet time</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_advanced_title">
+    <text>Avancé</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_effects_title">
+    <text>Effets visuels et sons</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable">
+    <text>Activer le bullet time lors d’un tir à la tête</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx">
+    <text>Activer les effets visuels pendant le bullet time</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_brighten">
+    <text>Ajouter un effet d’éclaircissement de l’écran</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_contrast">
+    <text>Ajouter un effet de contraste à l’écran</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_gravi">
+    <text>Ajouter un effet gravitationnel à l’écran</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_psychic">
+    <text>Ajouter un effet psychique à l’écran</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_sounds">
+    <text>Activer les sons au début et à la fin du bullet time</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_length">
+    <text>Durée du bullet time</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_end">
+    <text>Le retour à la normale se fait progressivement, pas instantanément</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_end_factor">
+    <text>Facteur de lissage à la fin du changement de temps</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_start">
+    <text>Le changement de temps commence progressivement, pas instantanément</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_start_factor">
+    <text>Facteur de lissage au début du changement de temps</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_time_speed">
+    <text>Échelle de temps du bullet time. Une valeur plus basse ralentit davantage le temps.</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_title">
+    <text>Bullet time</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_trigger_chance">
+    <text>Probabilité de déclencher le bullet time lors d’un tir mortel à la tête</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment">
+    <text>Démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable">
+    <text>Activer le démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_bone_removal">
+    <text>Autoriser le retrait des membres. Si l’option est désactivée, une grande marque de sang recouvrira le membre.</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_head">
+    <text>Ne démembrer que les têtes</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_mutant">
+    <text>Activer pour les mutants</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_stalker">
+    <text>Activer pour les stalkers</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_threshold_mutant">
+    <text>Seuil de dégâts pour le démembrement d’un mutant</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_threshold_stalker">
+    <text>Seuil de dégâts pour le démembrement d’un stalker</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_title">
+    <text>Démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_general">
+    <text>Général</text>
+  </string>
+  <string id="ui_mcm_blood_general_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_blood_general_title">
+    <text>Général</text>
+  </string>
+  <string id="ui_mcm_blood_killcam">
+    <text>Caméra de mise à mort</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_advanced_title">
+    <text>Avancé</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_distance">
+    <text>Distance de la caméra à la cible</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_enable">
+    <text>Activer la killcam façon Fallout</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_gamify">
+    <text>Déclencher la killcam après ce nombre de victimes en bullet time</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_length">
+    <text>Durée de la killcam</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_safemode_distance">
+    <text>Déclencher la killcam uniquement si aucun autre ennemi ne se trouve à cette distance</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_end">
+    <text>Le changement de temps de la killcam se termine progressivement, pas instantanément</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_end_factor">
+    <text>Facteur de lissage de la fin du changement de temps de la killcam</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_start">
+    <text>Le changement de temps de la killcam commence progressivement, pas instantanément</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_start_factor">
+    <text>Facteur de lissage du début du changement de temps de la killcam</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_time_speed">
+    <text>Échelle de temps de la killcam. Une valeur plus basse ralentit davantage le temps.</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_title">
+    <text>Caméra de mise à mort</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_trigger_range">
+    <text>Déclencher la killcam uniquement si la cible se trouve à cette distance</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_trigger_range_desc">
+    <text>La position de la caméra ne montre pas le joueur ; le gros plan paraît donc étrange</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_triggers_title">
+    <text>Options de déclenchement</text>
+  </string>
+  <string id="ui_mcm_blood_particles">
+    <text>Particules</text>
+  </string>
+  <string id="ui_mcm_blood_particles_advanced_title">
+    <text>Avancé</text>
+  </string>
+  <string id="ui_mcm_blood_particles_buffer_max_size">
+    <text>Nombre maximal d’animations de particules simultanées</text>
+  </string>
+  <string id="ui_mcm_blood_particles_debug_distance">
+    <text>Distance d’affichage des particules de débogage</text>
+  </string>
+  <string id="ui_mcm_blood_particles_dismemberment_enable">
+    <text>Jouer une fausse particule de démembrement lors d’un tir à la tête</text>
+  </string>
+  <string id="ui_mcm_blood_particles_enable">
+    <text>Activer les effets de particules</text>
+  </string>
+  <string id="ui_mcm_blood_particles_enable_armor_feedback">
+    <text>Adapter les particules au type d’armure (verre, exosquelette, armure lourde)</text>
+  </string>
+  <string id="ui_mcm_blood_particles_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_enable">
+    <text>Jouer des particules de fumée sanglante des doigts à l’impact</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_option">
+    <text>Direction des doigts : vers le haut, vers l’extérieur ou les deux</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_size_max">
+    <text>Taille maximale du nuage</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_size_min">
+    <text>Taille minimale du nuage</text>
+  </string>
+  <string id="ui_mcm_blood_particles_headshot_enable">
+    <text>Jouer une particule lors d’un tir à la tête</text>
+  </string>
+  <string id="ui_mcm_blood_particles_headshot_exclusive">
+    <text>Ne pas jouer cette particule lors d’un démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_particles_hit_enable">
+    <text>Jouer une particule à l’impact</text>
+  </string>
+  <string id="ui_mcm_blood_particles_hit_exclusive">
+    <text>Ne pas jouer cette particule lors d’un tir à la tête ou d’un démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_particles_limit">
+    <text>Ne jouer qu’une particule de chaque type à la fois</text>
+  </string>
+  <string id="ui_mcm_blood_particles_options_title">
+    <text>Options d’affichage</text>
+  </string>
+  <string id="ui_mcm_blood_particles_title">
+    <text>Particules</text>
+  </string>
+  <string id="ui_mcm_blood_particles_ttl">
+    <text>Délai laissé à la particule pour finir avant son remplacement</text>
+  </string>
+  <string id="ui_mcm_blood_wm">
+    <text>Marques d’impact</text>
+  </string>
+  <string id="ui_mcm_blood_wm_advanced_title">
+    <text>Avancé</text>
+  </string>
+  <string id="ui_mcm_blood_wm_delay">
+    <text>Délai avant de dessiner une nouvelle marque</text>
+  </string>
+  <string id="ui_mcm_blood_wm_dismemberment_count">
+    <text>Nombre de marques créées lors d’un démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_wm_dismemberment_distance">
+    <text>Distance depuis le démembrement pour afficher les marques</text>
+  </string>
+  <string id="ui_mcm_blood_wm_dismemberment_title">
+    <text>Démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_avoid_wallmark">
+    <text>N’afficher les marques au sol que si le moteur n’en a pas créé</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_dismemberment">
+    <text>Ajouter des marques lors d’un démembrement</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_drip">
+    <text>Utiliser les marques de gouttes</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_floor">
+    <text>Créer une marque de sang au sol à l’impact</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_floor_desc">
+    <text>Ces décalcomanies s’ajoutent aux marques de sang par défaut d’Anomaly.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_normal">
+    <text>Utiliser les marques normales</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_pool">
+    <text>Créer une flaque de sang au sol à la mort</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_pool_desc">
+    <text>Si activé, remplace la marque d’impact au sol lors de la mort.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_splash">
+    <text>Utiliser les marques d’éclaboussures</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_static_size">
+    <text>Même taille pour toutes les marques au sol</text>
+  </string>
+  <string id="ui_mcm_blood_wm_gravity">
+    <text>Gravité apparente du sang</text>
+  </string>
+  <string id="ui_mcm_blood_wm_gravity_desc">
+    <text>Une gravité plus élevée place la marque au sol près du PNJ ; une valeur plus basse l’éloigne de la plaie de sortie.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_lifetime">
+    <text>Durée de vie de la marque (secondes)</text>
+  </string>
+  <string id="ui_mcm_blood_wm_pool_title">
+    <text>Flaques de sang</text>
+  </string>
+  <string id="ui_mcm_blood_wm_size">
+    <text>Taille de la marque au sol.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_size_desc">
+    <text>Multiplicateur de la taille par défaut si l’option « Même taille pour toutes les marques au sol » est activée.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_size_pool">
+    <text>Taille de la flaque au sol</text>
+  </string>
+  <string id="ui_mcm_blood_wm_static_title">
+    <text>Marques d’impact supplémentaires</text>
+  </string>
+  <string id="ui_mcm_menu_blood">
+    <text>Peintre de la Zone</text>
+  </string>
+</string_table>

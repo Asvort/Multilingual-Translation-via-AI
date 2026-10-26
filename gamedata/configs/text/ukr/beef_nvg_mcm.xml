@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+    <text>Максимальне підсилення ПНБ</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+    <text>Вищі значення збільшують яскравість до межі. Налаштовуйте вночі за погоди cloudy_dark_2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+    <text>Мінімальне підсилення ПНБ</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+    <text>Низькі значення сильніше затемнюють ПНБ; дуже низькі дають змогу користуватися ним удень.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+    <text>Зсув яскравості світу</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+    <text>1.0 залишає яскравість світу без змін. Вищі значення збільшують її, але не яскравість джерел світла.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+    <text>Тло накладання ПНБ 1-го покоління (типово: немає)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+    <text>Виберіть тло накладання.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+    <text>Налаштування трубок ПНБ 1-го покоління (типово: одна по центру)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+    <text>Виберіть кількість і розташування трубок ПНБ 1-го покоління.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+    <text>Тло накладання ПНБ 2-го покоління (типово: розмите)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+    <text>Виберіть тло накладання.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+    <text>Налаштування трубок ПНБ 2-го покоління (типово: дві по центру)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+    <text>Виберіть кількість і розташування трубок ПНБ 2-го покоління.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+    <text>Тло накладання ПНБ 3-го покоління (типово: розмите)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+    <text>Виберіть тло накладання.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+    <text>Налаштування трубок ПНБ 3-го покоління (типово: чотири по центру)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+    <text>Виберіть кількість і розташування трубок ПНБ 3-го покоління.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+    <text>ПНБ залишається ввімкненим під час перегляду КПК:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+    <text>Якщо вимкнено, ПНБ автоматично вимикається під час перегляду КПК.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+    <text>Використовувати ПНБ під час прицілювання:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+    <text>Якщо ввімкнено, ПНБ працює під час прицілювання. Якщо вимкнено, він вимикається під час підняття зброї.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+    <text>Поріг засвічення від джерел світла</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+    <text>Зазвичай залишайте 0.1. Вищі значення трохи зменшують засвічення. Поріг залежить від підсилення ПНБ.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat">
+    <text>Увімкніть цю опцію, якщо використовуєте 2D-приціли на шейдерах.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+    <text>Для 2D-прицілів на шейдерах цю опцію потрібно ввімкнути. Інакше залиште її вимкненою.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title">
+    <text>Налаштування ПНБ Beef</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title_2">
+    <text>Сумісність із 2D-прицілами на шейдерах</text>
+  </string>
+  <string id="ui_mcm_lst_black_background">
+    <text>Чорний фон</text>
+  </string>
+  <string id="ui_mcm_lst_blurred_background">
+    <text>Розмитий фон</text>
+  </string>
+  <string id="ui_mcm_lst_clear_vision">
+    <text>Без накладання (чітке зображення)</text>
+  </string>
+  <string id="ui_mcm_lst_dual_centered">
+    <text>Дві трубки по центру</text>
+  </string>
+  <string id="ui_mcm_lst_image_overlay">
+    <text>(Не реалізовано) Накладання зображення</text>
+  </string>
+  <string id="ui_mcm_lst_quad_centered">
+    <text>Чотири трубки по центру</text>
+  </string>
+  <string id="ui_mcm_lst_single_centered">
+    <text>Одна трубка по центру</text>
+  </string>
+  <string id="ui_mcm_lst_single_left">
+    <text>Одна трубка ліворуч</text>
+  </string>
+  <string id="ui_mcm_lst_single_right">
+    <text>Одна трубка праворуч</text>
+  </string>
+  <string id="ui_mcm_menu_beef_nvg">
+    <text>ПНБ Beef</text>
+  </string>
+</string_table>

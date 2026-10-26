@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_axe">
+    <text>Balta</text>
+  </string>
+  <string id="st_axe2">
+    <text>İtfaiyeci baltası</text>
+  </string>
+  <string id="st_axe2_descr">
+    <text>Genellikle metalden ve yüksek kaliteli dövme çelikten yapılan sıradan bir itfaiyeci baltasıdır; kama biçimli başında kesici ağız ve kazma ucu bulunur. Sivri tarafı, yangın sırasında ahşap yapı parçalarını, çatıları, pencereleri ve kapıları sökmek için kullanılır. Bir stalkerın elinde intikam aracına dönüşebilir.\n \n%c[ui_gray_1]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] yakın dövüş silahı\n%c[d_cyan] • %c[ui_gray_2] bıçaklardan daha uzun erişim\n%c[d_cyan] • %c[ui_gray_2] yaygın kullanım aracı\n%c[d_red] • %c[ui_gray_2] av hayvanlarını parçalamakta kullanılabilir</text>
+  </string>
+  <string id="st_axe3">
+    <text>Av baltası</text>
+  </string>
+  <string id="st_axe3_descr">
+    <text>Binlerce yıldır odun kesmek, silah olarak kullanmak, hatta törenlerde yer vermek için kullanılan bir av baltasıdır. Pek çok biçimi vardır ama genellikle bir baş ve saptan oluşur. Bölgede bir balta yaşamla ölüm arasındaki fark olabilir.\n \n%c[ui_gray_1]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] yakın dövüş silahı\n%c[d_cyan] • %c[ui_gray_2] bıçaklardan daha uzun erişim\n%c[d_cyan] • %c[ui_gray_2] yaygın kullanım aracı\n%c[d_red] • %c[ui_gray_2] av hayvanlarını parçalamakta kullanılabilir</text>
+  </string>
+  <string id="st_axe_descr">
+    <text>Bir zamanlar yörede yaşayan birinin kullandığı eski bir balta. Hantal yapısı yüzünden stalkerlar uzun keşiflere pek götürmez.\n \n%c[ui_gray_1]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] yakın dövüş silahı\n%c[d_cyan] • %c[ui_gray_2] bıçaklardan daha uzun erişim\n%c[d_cyan] • %c[ui_gray_2] yaygın kullanım aracı\n%c[d_red] • %c[ui_gray_2] av hayvanlarını parçalamakta kullanılabilir</text>
+  </string>
+  <string id="st_dynamo_hand_descr">
+    <text>\n%c[ui_gray_1]Eski bir elektrikli cihazdan sökülmüş tek fazlı asenkron motor üzerine kurulmuş, el krankıyla çalışan ev yapımı taşınabilir bir jeneratördür. Çıkış gerilimi, Sovyet D242 diyotlarıyla yapılmış doğrultucuya ve ardından düşürücü transformatöre aktarılır; buradan taşınabilir güç ünitesi şarj edilir. Motorun yardımcı sargısına bağlı kondansatör kendi kendine uyarımı sağlar. Rotor, sonsuz dişli üzerinden nominal 1.300–1.500 dev/dak hızda çevrilir. Cihazda ABD yapımı WESTON ELECTRICAL INSTRUMENT ibreli ampermetre bulunur. Ağırdır ama Bölgede çok değerlidir; hünerli ustalar onu geliştirebilir.\n \n%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik cihaz\n%c[d_cyan] • %c[ui_gray_2] motor anma gücü: 40 W%c[d_red] • %c[ui_gray_2] motor ve dişli kutusu rulmanlarının ömrü sınırlıdır%c[d_cyan]</text>
+  </string>
+  <string id="st_dynamo_hand_name">
+    <text>Taşınabilir el jeneratörü</text>
+  </string>
+  <string id="st_grenade_f1">
+    <text>F-1 el bombası</text>
+  </string>
+  <string id="st_grenade_f1_descr">
+    <text>Savunma amaçlı, personel karşıtı parçacıklı el bombasıdır. Savunma muharebesinde düşman personelini etkisiz hâle getirmek için tasarlanmıştır. Geniş şarapnel yarıçapı nedeniyle yalnızca siper arkasından atılmalıdır.\n \n%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]yüksek\n%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]4.2 m\n%c[d_purple] • %c[ui_gray_2] şarapnel etki yarıçapı: %c[ui_gray_1]48 m\n%c[d_purple] • %c[ui_gray_2] şarapnel sayısı: %c[ui_gray_1]380 (küçük şarapnel)\n%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]~4 saniye</text>
+  </string>
+  <string id="st_grenade_launcher">
+    <text>GP-25 “Kostyor” namlu altı bombaatar</text>
+  </string>
+  <string id="st_grenade_launcher_descr">
+    <text>Varşova Paktı ülkelerinin taarruz tüfekleri için önden doldurulan, yivli namlulu, tek atışlık namlu altı bomba atardır. Tetik mekanizması kendiliğinden kurulur, manuel emniyeti vardır ve tüfeğe yanlış takıldığında atışı otomatik olarak engeller.\n \n %c[d_purple] • %c[ui_gray_2] Namlu çıkış hızı: %c[ui_gray_1]~76 m/s\n %c[d_purple] • %c[ui_gray_2] Menzil: %c[ui_gray_1]~300 m\n %c[d_purple] • %c[ui_gray_2] Yeniden doldurma: %c[ui_gray_1]yavaş\n %c[d_purple] • %c[ui_gray_2] Mühimmat: %c[ui_gray_1]40 mm VOG-25 bombası\n \n</text>
+  </string>
+  <string id="st_grenade_launcher_m203">
+    <text>M203 namlu altı bombaatar</text>
+  </string>
+  <string id="st_grenade_launcher_m203_descr">
+    <text>Tek atışlı M203'ün namlusu üç inç kısaltılmış ve Picatinny montajı eklenmiştir. Değişen bağlantısı sayesinde dünya çapında yaygın biçimde kullanılır ve günümüzde üretilen tüfeklerin çoğuna takılabilir. Daha modern tasarımına rağmen özellikleri Sovyet muadili GP-25 ile neredeyse aynıdır.\n \n %c[d_purple] • %c[ui_gray_2] Namlu çıkış hızı: %c[ui_gray_1]~76 m/s\n %c[d_purple] • %c[ui_gray_2] Menzil: %c[ui_gray_1]~300 m\n %c[d_purple] • %c[ui_gray_2] Yeniden doldurma: %c[ui_gray_1]yavaş\n %c[d_purple] • %c[ui_gray_2] Mühimmat: %c[ui_gray_1]40 mm M203 bombası\n \n</text>
+  </string>
+  <string id="st_grenade_light">
+    <text>M67 el bombası</text>
+  </string>
+  <string id="st_grenade_light_descr">
+    <text>Amerikan yapımı parçacıklı el bombasıdır. M67, iki emniyet düzeneğine sahip M213 tapasını kullanır: halkalı standart pim ve kolu tutan, tapa çevresine sarılmış tel halka. Güvenilir emniyeti sayesinde tapa kolu teçhizat kemerine takılarak taşınabilir. Kompakt boyutu ve yoğun şarapnel etkisi M67'yi paraşütçüler, deniz piyadeleri ve özel kuvvetler arasında popüler kılmıştır.</text>
+  </string>
+  <string id="st_grenade_rgd5">
+    <text>RGD-5 el bombası</text>
+  </string>
+  <string id="st_grenade_rgd5_descr">
+    <text>Sovyet yapımı, gecikmeli fünye kullanan saldırı tipi parçacıklı el bombasıdır. Patladığında gövde parçalarıyla düşman personelini vurmak üzere tasarlanmıştır.\n \n%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]orta\n%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]3.2 m\n%c[d_purple] • %c[ui_gray_2] şarapnel etki yarıçapı: %c[ui_gray_1]43 m\n%c[d_purple] • %c[ui_gray_2] şarapnel sayısı: %c[ui_gray_1]240 (küçük şarapnel)\n%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]~4 saniye</text>
+  </string>
+  <string id="st_grenade_smoke">
+    <text>Sis bombası</text>
+  </string>
+  <string id="st_grenade_smoke_descr">
+    <text>Duman perdesi oluşturmak için tasarlanmış el tipi sis bombasıdır. Perde 10 saniyede oluşur.</text>
+  </string>
+  <string id="st_grenade_thermite">
+    <text>Termit bombası</text>
+  </string>
+  <string id="st_grenade_thermite_descr">
+    <text>El tipi yangın çıkarıcı, diğer adıyla termit bombasıdır. Patlama sırasında yoğun termit tepkimesi 2.200 °C'ye varan ısı üretir: toz alüminyum demir oksitle tepkimeye girerek erimiş demir ve alüminyum oksit oluşturur. İçine 600 veya 800 gram termit karışımı doldurulur.\n \n%c[d_purple] • %c[ui_gray_2] PATLAMA GÜCÜ: %c[ui_gray_1]orta (termal hasar)\n%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]4.6 m\n%c[d_purple] • %c[ui_gray_2] şarapnel etki yarıçapı: %c[ui_gray_1]yok\n%c[d_purple] • %c[ui_gray_2] şarapnel sayısı: %c[ui_gray_1]yok\n%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]~4 saniye</text>
+  </string>
+  <string id="st_knife_6x4">
+    <text>6x4 süngü</text>
+  </string>
+  <string id="st_knife_6x4_descr">
+    <text>\n \n%c[ui_gray_1]Sovyet Silahlı Kuvvetlerinin AKM ve AK-74 tüfeklerinde kullanmak üzere benimsediği standart süngüdür. 6x3 süngü temel alınarak geliştirilmiş, başlıca değişiklikler kılıf ve kabza biçiminde yapılmıştır. Bölgede pek işe yaramaz.\n \n%c[d_red] • %c[d_red] büyük av hayvanlarını parçalamaya uygun değil</text>
+  </string>
+  <string id="st_knife_combat">
+    <text>M9 süngü</text>
+  </string>
+  <string id="st_knife_combat_descr">
+    <text>\n \n%c[ui_gray_1]Güvenilir kauçuk kaplı kabzası olan büyük, çok amaçlı bir bıçaktır; ABD askerleri tarafından 1986'dan beri sıkça kullanılır. Keskin ve iyi durumdadır. Vücut zırhına karşı etkisiz olsa da tırtıklı ağzı eti iyi keser ve yaranın kapanmasını önler. Yaralı hayvanları öldürmek veya nöbetçilere sessizce saldırmak için idealdir.</text>
+  </string>
+  <string id="st_knife_hunting">
+    <text>Av bıçağı</text>
+  </string>
+  <string id="st_knife_hunting_descr">
+    <text>\n \n%c[ui_gray_1]Paslanmaz çelikten yapılmış modern ve çok dayanıklı bir av bıçağıdır. İyi işlenmiş ağzı, büyük mutantların bile postunu ve yumuşak dokularını kolayca keser. Derin ve kanayan yaralar açabildiğinden avcılık için de çok uygundur. Ancak ağzı vücut zırhını delmek üzere tasarlanmamıştır; bu da kullanım alanını ciddi biçimde sınırlar.</text>
+  </string>
+  <string id="st_knife_m">
+    <text>Askerî bıçak</text>
+  </string>
+  <string id="st_knife_m_descr">
+    <text>\n \n%c[ui_gray_1]KULLANILMIYOR! Standart askerî bıçak.</text>
+  </string>
+  <string id="st_knife_needle">
+    <text>NR-40 bıçağı</text>
+  </string>
+  <string id="st_knife_needle_descr">
+    <text>\n \n%c[ui_gray_1]Bu Sovyet çelik bıçağın 152 mm uzunluğunda, parmak oyuğu geniş bir ağzı, siyah ahşap kabzası ve S biçimli siperi vardır. Ters tip siper, bıçağın kullanıcıya dönük olduğu standart Sovyet tutuşuna uygundur. Daha iyi kavrama için kabza kaba bir kumaş kaplamayla güçlendirilmiştir. Bıçak görece küçüktür ve derin yara açamaz, ancak vücut zırhını delebilir.\n \n%c[d_red] • %c[d_red] büyük av hayvanlarını parçalamaya uygun değil</text>
+  </string>
+  <string id="st_knife_nr40">
+    <text>Eşsiz NR-40 bıçağı</text>
+  </string>
+  <string id="st_knife_nr40_descr">
+    <text>\n \n%c[ui_gray_1]KULLANILMIYOR! Tarihî ve simgesel önemi olan çok nadir bir Sovyet askerî bıçağıdır. Ahşap kabzasında Büyük Vatanseverlik Savaşı döneminden kalma metal Hava İndirme Birlikleri arması bulunur. Böyle bıçaklar, görev sırasında bir fraksiyon liderini kurtarmak gibi üstün hizmetleri için stalkerlara verilir. Bu bıçağı taşıyan stalker Bölgede saygı görür.</text>
+  </string>
+  <string id="st_knife_swat">
+    <text>Katlanır özel kuvvet bıçağı</text>
+  </string>
+  <string id="st_knife_swat_descr">
+    <text>Keşif görevlileri için ideal, son derece kaliteli bir katlanır bıçaktır. Ölümcül bir silahtır ve Bölgede hem vücut zırhını delebilen hem de korumasız ete ağır yaralar açabilen tek bıçaktır. Yakın dövüş için mükemmel bir silahtır.</text>
+  </string>
+  <string id="st_trg_sako">
+    <text>Sako TRG-42</text>
+  </string>
+  <string id="st_wpn_9a91">
+    <text>9A-91</text>
+  </string>
+  <string id="st_wpn_9a91_descr">
+    <text>Kompakt 9A-91 karabina, Tula Alet Tasarım Bürosu tarafından 1992'de SR-3 Vikhr'e daha gelişmiş bir rakip olarak geliştirildi. Gazla çalışır ve dört kilit çıkıntılı döner bir sürgüyle kilitlenir. Horozlu tetik mekanizması yarı otomatik ve tam otomatik atışı destekler. Emniyet ve atış seçici, tetik korkuluğunun üstünde sol taraftadır; modernize sürümde optik rayına yer açmak için sağa alınmıştır. İlk modellerdeki namlu freni daha sonra kaldırılmıştır. Dipçik yukarı ve öne katlanır. Plastik kabza ve el kundağı dışında silah çeliktir. Gizli taşımaya elverişlidir ve kurma kolu katlanır. AK'den farklı olarak kurma kolu kanalı daima açıktır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, PSO-1M2-01 ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_abakan">
+    <text>AN-94</text>
+  </string>
+  <string id="st_wpn_abakan_camo">
+    <text>Kamuflajlı AN-94</text>
+  </string>
+  <string id="st_wpn_abakan_descr">
+    <text>Nikonov'un 1994 model AN-94 “Abakan” tüfeği, Kalaşnikof sistemini temel alır. Çatışmadaki en belirgin özelliği, yüksek atış hızına sahip iki mermilik seri atış modudur. Geri tepme, iki mermi de namludan çıktıktan sonra atıcıyı etkiler; bu da isabeti ve atış grubunu iyileştirir. Özel kuvvetler ve Görev savaşçıları, nispeten uzun mesafede zırhlı düşmanlara karşı kullanır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_abakan_worn">
+    <text>Yıpranmış AN-94</text>
+  </string>
+  <string id="st_wpn_ace21">
+    <text>Galil ACE-21</text>
+  </string>
+  <string id="st_wpn_ace21_descr">
+    <text>Galil ACE piyade tüfeği ailesi, İsrailli Israel Weapon Industries (IWI) tarafından geliştirilip üretilir. Tasarımı, kendisi de Kalaşnikof AK'den türetilen Galil'i temel alır. ACE serisinde ergonomi, kullanım kolaylığı, aksesuar uyumu ve çok yönlülük öne çıkar. Dünyada en yaygın üç fişeği —5,56×45 NATO, 7,62×39 M43 ve 7,62×51 NATO— farklı namlu uzunluklarıyla kullanır. Önceki modellere kıyasla kurma kolu sola taşınmıştır; böylece atıcı, ateş kontrol kabzasını bırakmadan sürgüyü çekebilir. Tüfeğe ayrıca sürgü tutucu, optik ve aksesuarlar için bütünleşik Picatinny rayları ve ayarlanabilir teleskopik dipçik eklenmiştir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_aek971">
+    <text>AEK-971</text>
+  </string>
+  <string id="st_wpn_aek971_camo">
+    <text>AEK-971 (Görev kamuflajı)</text>
+  </string>
+  <string id="st_wpn_aek971_camo_descr">
+    <text>5,45×39 mm piyade tüfeği, Konstantinov'un SA-006 tasarımından yola çıkılarak Stanislav Koksharov yönetiminde Kovrov Makine Fabrikasında geliştirildi. Dengeli gaz sistemi otomatik atışın daha iyi kontrol edilmesini sağlar. Rusya İçişleri Bakanlığı için küçük partiler hâlinde üretildi. Bu model açık bej üzerine kırmızı çizgilerle boyanmıştır ve Görev grubuna aittir. Bazı mekanizmalar elle ayarlanmış veya daha güvenilir parçalarla değiştirilmiştir. Daha sıkı toleranslar namlu içi basıncı ve dolayısıyla mermi çıkış hızını artırmıştır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_aek971_descr">
+    <text>5,45×39 mm piyade tüfeği, Konstantinov'un SA-006 tasarımından yola çıkılarak Stanislav Koksharov yönetiminde Kovrov Makine Fabrikasında geliştirildi. Dengeli gaz sistemi otomatik atışın daha iyi kontrol edilmesini sağlar. Rusya İçişleri Bakanlığı için küçük partiler hâlinde üretildi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_aek971_worn">
+    <text>Yıpranmış AEK-971</text>
+  </string>
+  <string id="st_wpn_aek973">
+    <text>AEK-973</text>
+  </string>
+  <string id="st_wpn_aek973_descr">
+    <text>7,62×39 mm piyade tüfeği, Konstantinov'un SA-006 tasarımından yola çıkılarak Stanislav Koksharov yönetiminde Kovrov Makine Fabrikasında geliştirildi. Dengeli gaz sistemi otomatik atışın daha iyi kontrol edilmesini sağlar. Rusya İçişleri Bakanlığı için küçük partiler hâlinde üretildi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_ak">
+    <text>Kalaşnikof piyade tüfeği</text>
+  </string>
+  <string id="st_wpn_ak101">
+    <text>AK-101</text>
+  </string>
+  <string id="st_wpn_ak101_camo">
+    <text>Kamuflajlı AK-101</text>
+  </string>
+  <string id="st_wpn_ak101_descr">
+    <text>AK-101, Kalaşnikov'un “100 serisi”nden, Rus Ordusunun standart AK-74M tüfeğinin ihracat modelidir. AK-74M'den temel ve neredeyse tek farkı kalibresidir: 5,56×45 mm NATO fişeği ve uyumlu şarjörler kullanır; diğer yönlerden tüfekler aynıdır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] ATG susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak102">
+    <text>AK-102</text>
+  </string>
+  <string id="st_wpn_ak102_descr">
+    <text>Rus Ordusunun standart AK-74M tüfeğinden türetilen, tam boy AK-101 temelindeki kompakt Kalaşnikov “100 serisi” tüfek. Özel alev gizleyicili kısaltılmış namluya ve 1.000 yerine 500 metreye kadar işaretlenmiş nişangâh skalasına sahiptir. Yana katlanan polimer dipçiği ve gövdenin sol tarafında standart optik montaj rayı vardır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Cobra EKP-1S-03 ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] ATG susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak103">
+    <text>AK-103</text>
+  </string>
+  <string id="st_wpn_ak103_camo">
+    <text>Kamuflajlı AK-103</text>
+  </string>
+  <string id="st_wpn_ak103_descr">
+    <text>AK-103, Kalaşnikov “100 serisi”nden, Rus Ordusunun standart AK-74M tüfeğinin ihracat modelidir. Temel farkı kalibredir: 7,62×39 mm M43 fişeği ve eski AK/AKM tüfeklerinin şarjörleriyle de uyumlu şarjörler kullanır; diğer yönlerden tüfekler aynıdır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] ATG susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak104">
+    <text>AK-104</text>
+  </string>
+  <string id="st_wpn_ak104_descr">
+    <text>Rus Ordusunun standart AK-74M tüfeğinden türetilen, tam boy AK-103 temelindeki kompakt Kalaşnikov “100 serisi” tüfek. Özel alev gizleyicili kısaltılmış namluya ve 1.000 yerine 500 metreye kadar işaretlenmiş nişangâh skalasına sahiptir. Yana katlanan polimer dipçiği ve gövdenin sol tarafında standart optik montaj rayı vardır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] ATG susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak105">
+    <text>AK-105</text>
+  </string>
+  <string id="st_wpn_ak105_descr">
+    <text>Rus Ordusunun standart AK-74M tüfeğinden türetilen, tam boy AK-74M temelindeki kompakt Kalaşnikov “100 serisi” tüfek. Özel alev gizleyicili kısaltılmış namluya ve 1.000 yerine 500 metreye kadar işaretlenmiş nişangâh skalasına sahiptir. Yana katlanan polimer dipçiği ve gövdenin sol tarafında standart optik montaj rayı vardır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] ATG susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak12">
+    <text>AK-12</text>
+  </string>
+  <string id="st_wpn_ak12_descr">
+    <text>AK-12, 2012 modeli Kalaşnikov piyade tüfeğidir. Kullanım kolaylığı için kumandaları kapsamlı biçimde yenilenmiştir: emniyet ve atış seçici değiştirilip sol tarafa da eklenmiş, iki taraftan kumanda edilen bir sürgü tutucusu getirilmiştir. Picatinny rayları da yeniliklerden biridir. 5,45×39 mm AK-74M ve 7,62×39 mm AKM'ye kıyasla AK-12'nin ergonomisi geliştirilmiştir. Yapılan çalışmalar isabeti ve mekanizma güvenilirliğini artırmış, hizmet ömrünü uzatmıştır. Uzun stroklu gaz pistonu ve döner sürgü kullanır; sürgü grubu ve tetik mekanizması AK-74'e göre önemli ölçüde yenilenmiştir. Tüfekte iki yana katlanabilen, uzunluğu ve yanaklığı ayarlanabilir yeni teleskopik plastik dipçik bulunur. Namlu ekseni, AR-15 piyade tüfeklerinde olduğu gibi dipçikle aynı hizadadır; bu, geri tepme momentini azaltıp isabeti artırır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar
+%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74">
+    <text>AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_alt">
+    <text>AK-74 (alternatif)</text>
+  </string>
+  <string id="st_wpn_ak74_custom">
+    <text>Özel yapım AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_descr">
+    <text>Mikhail Kalashnikov tarafından 1970'te tasarlanan ve 1974'te Sovyet Silahlı Kuvvetleri tarafından hizmete alınan 5,45×39 mm Kalaşnikov piyade tüfeği. AKM'nin devamı niteliğindedir ve yeni düşük darbeli 5,45×39 mm fişeğe geçiş için geliştirilmiştir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_eot">
+    <text>AK-74 “EOTech”</text>
+  </string>
+  <string id="st_wpn_ak74_eot_descr">
+    <text>Mikhail Kalashnikov tarafından 1970'te tasarlanan ve 1974'te Sovyet Silahlı Kuvvetleri tarafından hizmete alınan 5,45×39 mm Kalaşnikov piyade tüfeği. AKM'nin devamı niteliğindedir ve yeni düşük darbeli 5,45×39 mm fişeğe geçiş için geliştirilmiştir. entegre EOTech refleks nişangâhı ve 45 fişeklik büyütülmüş şarjör.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] entegre EOTech refleks nişangâhı ve 45 fişeklik büyütülmüş şarjör\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_modern">
+    <text>Modernize edilmiş AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_old">
+    <text>AK-74 (eski)</text>
+  </string>
+  <string id="st_wpn_ak74_old_descr">
+    <text>Mikhail Kalashnikov tarafından 1970'te tasarlanan ve 1974'te Sovyet Silahlı Kuvvetleri tarafından hizmete alınan 5,45×39 mm Kalaşnikov piyade tüfeği. AKM'nin devamı niteliğindedir ve yeni düşük darbeli 5,45×39 mm fişeğe geçiş için geliştirilmiştir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_red] • %c[d_red] Kırlangıç kuyruğu montajı olmadığı için nişangâh takılamaz.\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_rusty">
+    <text>Paslı AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_rusty_descr">
+    <text>Mikhail Kalashnikov tarafından 1970'te tasarlanan ve 1974'te Sovyet Silahlı Kuvvetleri tarafından hizmete alınan 5,45×39 mm Kalaşnikov piyade tüfeği. AKM'nin devamı niteliğindedir ve yeni düşük darbeli 5,45×39 mm fişeğe geçiş için geliştirilmiştir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[d_red] susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_worn">
+    <text>Yıpranmış AK-74</text>
+  </string>
+  <string id="st_wpn_ak74m">
+    <text>AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_alt">
+    <text>AK-74M (alternatif)</text>
+  </string>
+  <string id="st_wpn_ak74m_camo">
+    <text>Kamuflajlı AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_custom">
+    <text>Özel yapım AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_descr">
+    <text>1980'lerin ortalarında Izhevsk Makine Fabrikası tasarımcıları A-60 ve A-61 adlı çeşitli evrensel modifiye Kalaşnikov modelleri geliştirdi. Başarılı 5,45×39 mm AK-74M bunlardan türetildi. Tasarımı büyük ölçüde AK-74'ü tekrarlar ve temel iç mekanizma farkı yoktur. Kalaşnikov tüfeklerinin iyi özelliklerini korurken muharebe ve kullanım performansını geliştiren yenilikler ekler. AK-74M, AK-74, AK-74N, AKS-74 ve AKS-74N olmak üzere dört modelin yerini alan evrensel tüfek fikrini gerçekleştirdi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74m_duty">
+    <text>Görev kamuflajlı AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a">
+    <text>AK-74M PK-A</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a_descr">
+    <text>1980'lerin ortalarında Izhevsk Makine Fabrikası tasarımcıları A-60 ve A-61 adlı çeşitli evrensel modifiye Kalaşnikov modelleri geliştirdi. Başarılı 5,45×39 mm AK-74M bunlardan türetildi. Tasarımı büyük ölçüde AK-74'ü tekrarlar ve temel iç mekanizma farkı yoktur. Kalaşnikov tüfeklerinin iyi özelliklerini korurken muharebe ve kullanım performansını geliştiren yenilikler ekler. AK-74M, AK-74, AK-74N, AKS-74 ve AKS-74N olmak üzere dört modelin yerini alan evrensel tüfek fikrini gerçekleştirdi. Entegre PK-A refleks nişangâhı MTK-83 brakete takılmıştır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Entegre PK-A refleks nişangâhı MTK-83 brakete takılmıştır\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74m_worn">
+    <text>Yıpranmış AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74u">
+    <text>AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_camo">
+    <text>Kamuflajlı AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_custom">
+    <text>Özel yapım AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_descr">
+    <text>Kısaltılmış AKS-74U; özel kuvvetler, hava indirme ve diğer uzman birlikler ile kompakt ama güçlü bir kişisel otomatik silaha ihtiyaç duyan zırhlı araç mürettebatının temel silahı olarak tasarlandı. Tam boy AKS-74'e göre dar alanlarda ve araçlarda çok daha rahat manevra yapar; ancak kısa namlusu ve çok daha düşük çıkış hızı etkili menzili azaltır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] PBS-4 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_old">
+    <text>Eski AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_old_descr">
+    <text>Kısaltılmış AKS-74U; özel kuvvetler, hava indirme ve diğer uzman birlikler ile kompakt ama güçlü bir kişisel otomatik silaha ihtiyaç duyan zırhlı araç mürettebatının temel silahı olarak tasarlandı. Tam boy AKS-74'e göre dar alanlarda ve araçlarda çok daha rahat manevra yapar; ancak kısa namlusu ve çok daha düşük çıkış hızı etkili menzili azaltır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_red] • %c[d_red] Kırlangıç kuyruğu montajı olmadığından nişangâh takılamaz.\n%c[d_purple] • %c[ui_gray_2] PBS-4 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty">
+    <text>Paslı AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty_descr">
+    <text>Kısaltılmış AKS-74U; özel kuvvetler, hava indirme ve diğer uzman birlikler ile kompakt ama güçlü bir kişisel otomatik silaha ihtiyaç duyan zırhlı araç mürettebatının temel silahı olarak tasarlandı. Tam boy AKS-74'e göre dar alanlarda ve araçlarda çok daha rahat manevra yapar; ancak kısa namlusu ve çok daha düşük çıkış hızı etkili menzili azaltır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_red] • %c[d_red] Susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_snag">
+    <text>Snag AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_snag_descr">
+    <text>Kısaltılmış AKS-74U; özel kuvvetler, hava indirme ve diğer uzman birlikler ile kompakt ama güçlü bir kişisel otomatik silaha ihtiyaç duyan zırhlı araç mürettebatının temel silahı olarak tasarlandı. Tam boy AKS-74'e göre dar alanlarda ve araçlarda çok daha rahat manevra yapar; ancak kısa namlusu ve çok daha düşük çıkış hızı etkili menzili azaltır. Bu örnek daha önce Snag adlı stalkera aitti.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre Cobra EKP-1S-03 refleks nişangâhı\n%c[d_purple] • %c[ui_gray_2] entegre PBS-4 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_worn">
+    <text>Yıpranmış AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak_descr">
+    <text>7,62 mm Kalaşnikov AK piyade tüfeği 1949'da SSCB'de hizmete girdi. AK ve varyantları dünyada en yaygın ateşli silahlar arasındadır. Tahminlere göre lisanslı ve lisanssız kopyalar ile AK tabanlı diğer tasarımlar dahil bu aile, dünyadaki hafif ateşli silahların beşte birine kadarını oluşturur.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n%c[d_red] • %c[d_red] Kırlangıç kuyruğu montajı olmadığından nişangâh takılamaz.\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_akm">
+    <text>AKM</text>
+  </string>
+  <string id="st_wpn_akm_descr">
+    <text>AKM (Kalaşnikov Modernize Piyade Tüfeği), AK'nin geliştirilmiş sürümüdür. 1970'te Sovyet birliklerinde yerini AK-74'e bırakmasına rağmen AKM, bu silah ailesinin dünyada en yaygın kullanılan modeli olmaya devam eder.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_akm_worn">
+    <text>Yıpranmış AKM</text>
+  </string>
+  <string id="st_wpn_akms">
+    <text>AKMS</text>
+  </string>
+  <string id="st_wpn_akms_alt">
+    <text>AKMS (alternatif)</text>
+  </string>
+  <string id="st_wpn_akms_descr">
+    <text>AKMS, katlanır dipçikli AKM çeşididir. Dipçik bağlantısı AKS'den farklıdır; dipçik gövdenin altına doğru öne katlanır. Bu model özellikle paraşütçüler için geliştirilmiştir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_akms_worn">
+    <text>Yıpranmış AKMS</text>
+  </string>
+  <string id="st_wpn_aks">
+    <text>AKS</text>
+  </string>
+  <string id="st_wpn_aks74">
+    <text>AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_descr">
+    <text>AK-74, AKM'den daha isabetli ve güvenilirdir ve eski Sovyet ülkelerinin çoğunda hâlâ kullanılır. AKS-74 katlanır metal dipçiklidir ve öncelikle hava indirme piyadeleri için tasarlanmıştır. Bölgede askeri stalkerların ve birçok yalnız gezginin temel silahıdır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_aks74_new">
+    <text>Yeni AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_rusty">
+    <text>Paslı AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_rusty_descr">
+    <text>AK-74, AKM'den daha isabetli ve güvenilirdir ve eski Sovyet ülkelerinin çoğunda hâlâ kullanılır. AKS-74 katlanır metal dipçiklidir ve öncelikle hava indirme piyadeleri için tasarlanmıştır. Bölgede askeri stalkerların ve birçok yalnız gezginin temel silahıdır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_red] • %c[d_red] Susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_aks74_worn">
+    <text>Yıpranmış AKS-74</text>
+  </string>
+  <string id="st_wpn_aks_descr">
+    <text>AKS, hava indirme birlikleri için tasarlanmış, katlanır metal dipçikli bir AK çeşididir. AK ile aynı anda hizmete alındı. İlk üretimde preslenmiş gövde kullanıldı; presleme hatalarının oranı yüksek olduğundan 1951'den itibaren frezelenmiş gövdeye geçildi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n%c[d_red] • %c[d_red] Kırlangıç kuyruğu montajı olmadığından nişangâh takılamaz.\n%c[d_purple] • %c[ui_gray_2] GP-25 namlu altı bombaatar (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_apb">
+    <text>APB</text>
+  </string>
+  <string id="st_wpn_apb_descr">
+    <text>APB (sessiz otomatik tabanca), APS tabancasının susturuculu modelidir. Denemeleri geçti ve 1972'de hizmete alındı; önce Sovyet özel kuvvetleri, ardından eski Sovyet ülkelerinin özel birlikleri kullandı. Afganistan çatışmasında ve eski SSCB topraklarındaki yerel çatışmalarda yaygın ve başarılı biçimde kullanıldı. Dipçik ve susturucu takılıyken çoğu zaman omuz askısıyla taşınır ve temel silah olarak kullanılırdı. Standart APS'den çok az farklıdır.\n \n</text>
+  </string>
+  <string id="st_wpn_aps">
+    <text>APS</text>
+  </string>
+  <string id="st_wpn_aps_descr">
+    <text>1940'ların sonu ile 1950'lerin başında tasarımcı Igor Stechkin tarafından geliştirilen ve Makarov tabancasıyla aynı zamanda, 1951'de Sovyet Silahlı Kuvvetlerince hizmete alınan tabanca. APS, çatışmalara doğrudan katılan subaylar ile bazı özel birliklerin asker ve çavuşları için tasarlanmıştır.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] APS susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_aps_worn">
+    <text>Yıpranmış APS</text>
+  </string>
+  <string id="st_wpn_ash12">
+    <text>AŞ-12</text>
+  </string>
+  <string id="st_wpn_ash12_descr">
+    <text>12,7 mm ASH-12 büyük kalibreli hücum tüfeği, VSSK keskin nişancı tüfeğiyle birlikte Rusya FSB özel birliklerinin ihtiyaçları için TsKIB SOO'da geliştirildi. Bir silah-fişek sistemidir: TsKIB SOO bu silah için yeni 12,7×55 mm SC-130 fişeğini tasarladı. Bu fişek şehir çatışması ve oda baskını gibi kısa mesafeli karşılaşmalarda yüksek durdurma gücü sağlar; mermi enerjisinin menzille hızla düşmesi de üçüncü kişilerin vurulma riskini azaltır. Müşteriye ilk teslimatlar 2011'in sonunda yapıldı.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-More Railway Tactical ve EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_aug">
+    <text>Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_a3">
+    <text>Steyr AUG A3</text>
+  </string>
+  <string id="st_wpn_aug_a3_descr">
+    <text>Steyr AUG (Armee Universal Gewehr, “Ordu Evrensel Tüfeği”), Avusturyalı Steyr-Daimler-Puch şirketinin 1977'de çıkardığı bir hafif silah sistemidir. Şarjör ve sürgü grubu, atış kumanda kabzası ile tetiğin arkasında bulunan bullpup düzenini kullanır. Üretici: Steyr Mannlicher GmbH &amp; Co KG. AUG A3, önceki modellerdeki entegre optik montajı yerine Picatinny rayı kullanır; böylece neredeyse her tür optik, gece veya refleks nişangâhı, nişan modülü ve klasik mekanik nişangâh takılabilir. Gövdenin önündeki katlanır ön kabzanın yerini de Picatinny rayları alır; bunlara çeşitli ön kabzalar, taktik fenerler, lazer işaretleyiciler ve hatta 40 mm namlu altı bombaatarlar takılabilir.
+ 
+%c[ui_gray_2]EKİPMANLAR: 
+%c[d_purple] • %c[ui_gray_2] NATO susturucusu
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-More Railway Tactical ve EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_aug_custom">
+    <text>Özel yapım Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_descr">
+    <text>Sabit 1,5× optik nişangâhlı, standart yapılandırmada Steyr AUG A1. AUG (Armee Universal Gewehr, “Ordu Evrensel Tüfeği”), 1960'larda Steyr Mannlicher GmbH &amp; Co KG tarafından tasarlanan Avusturya yapımı 5,56 mm bullpup piyade tüfeğidir. 1978'de Avusturya Ordusunun standart tüfeği olarak StG 77 adıyla hizmete girdi ve 7,62 mm StG 58'in (lisanslı FN FAL) yerini aldı. Tüfek ve varyantları Arjantin, Avustralya, Malezya, Yeni Zelanda, Bolivya, Ekvador, İrlanda, Lüksemburg, Suudi Arabistan, Tunus ve Pakistan ordularınca ve ABD Sınır Devriyesince de benimsendi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] entegre 1,5× nişangâh\n \n</text>
+  </string>
+  <string id="st_wpn_aug_freedom">
+    <text>Özgürlük kamuflajlı Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_merc">
+    <text>Modifiye Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_modern">
+    <text>Modernize edilmiş Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_modern_descr">
+    <text>Sabit 1,5× optik nişangâhlı, standart yapılandırmada Steyr AUG A1. AUG (Armee Universal Gewehr, “Evrensel Ordu Tüfeği”), Steyr Mannlicher GmbH &amp; Co KG tarafından 1960’larda geliştirilen, bullpup düzeninde 5,56 mm’lik Avusturya yapımı bir piyade tüfeğidir. 1978’de Avusturya Ordusunun standart hafif silahı olarak StG 77 adıyla hizmete girdi ve 7,62 mm’lik StG 58 otomatik tüfeğin (lisans altında üretilmiş bir FN FAL) yerini aldı. Tüfek ve varyantları Arjantin, Avustralya, Malezya, Yeni Zelanda, Bolivya, Ekvador, İrlanda, Lüksemburg, Suudi Arabistan, Tunus ve Pakistan ordularınca ve ABD Sınır Devriyesince de benimsendi. Bu model, standart NATO 7,62×51 fişeğini kullanacak şekilde modernize edilmiştir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] entegre 1,5× nişangâh\n \n</text>
+  </string>
+  <string id="st_wpn_aug_worn">
+    <text>Yıpranmış Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_beretta">
+    <text>Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_alt">
+    <text>Beretta 92F (alternatif)</text>
+  </string>
+  <string id="st_wpn_beretta_camo">
+    <text>Kamuflajlı Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_descr">
+    <text>Beretta 92F, ABD ordusunun muhtemelen en tanınmış tabancasıdır ve efsanevi M1911'in yerini almıştır. Kısa namlu geri tepmesi ve kovan eğilmesiyle çalışır; alüminyum alaşımlı gövdesi ve krom kaplı namlusu vardır. Çok popülerdir ve birçok ülke tarafından hizmete alınmıştır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_beretta_modern">
+    <text>Modernize edilmiş Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_rusty">
+    <text>Paslı Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_rusty_descr">
+    <text>Beretta 92F, ABD ordusunun muhtemelen en tanınmış tabancasıdır ve efsanevi M1911'in yerini almıştır. Kısa namlu geri tepmesi ve kovan eğilmesiyle çalışır; alüminyum alaşımlı gövdesi ve krom kaplı namlusu vardır. Çok popülerdir ve birçok ülke tarafından hizmete alınmıştır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_red] • %c[d_red] Susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_beretta_worn">
+    <text>Yıpranmış Beretta 92F</text>
+  </string>
+  <string id="st_wpn_bizon">
+    <text>PP-19 “Bizon” hafif makineli tüfek</text>
+  </string>
+  <string id="st_wpn_bizon_descr">
+    <text>1993'te Kalaşnikov ve Dragunov'un küçük oğlu, PP-19 Bizon adlı yeni hafif makineli tüfeğin ilk modelini yaptı. Silah, standart veya modernize yüksek darbeli 9×18 mm Makarov fişeği için tasarlandı. Ayırt edici özelliği, namlu altındaki 64 fişek kapasiteli helezonik şarjördür. PP-19 serbest sürgü geri tepmesiyle çalışır; horozlu tetik mekanizması ve emniyeti AK-74'ten alınmıştır. Kapalı sürgüden ateş etmesi tekli atış doğruluğunu artırır. İlk modelin nişangâhları AKS-74U ile aynıdır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 “Lale” ve PSO-1M nişangâhları\n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_bm16">
+    <text>Kısaltılmış TOZ-66 av tüfeği</text>
+  </string>
+  <string id="st_wpn_bm16_alt">
+    <text>Geliştirilmiş kısaltılmış TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_descr">
+    <text>Ucuz, etkili ve ölümcül bir yakın mesafe silahı gerektiğinde birçok acemi stalker, kolay bulunan çift namlulu TOZ-66'nın dipçiğini ve namlularını keser. Böylece tüfek hafif ve çevik olur, ancak isabet ve menzil azalır.\n \n</text>
+  </string>
+  <string id="st_wpn_bm16_full">
+    <text>TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_alt">
+    <text>TOZ-66 (alternatif)</text>
+  </string>
+  <string id="st_wpn_bm16_full_descr">
+    <text>TOZ-66 her stalkerin alabileceği güçlü, güvenilir ve etkili bir av tüfeğidir. Ancak büyük ve hantal olduğundan birçok kişi biriktirdiği parayı modern bir tabancaya harcamayı seçer.\n \n</text>
+  </string>
+  <string id="st_wpn_bm16_full_rusty">
+    <text>Paslı TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_worn">
+    <text>Yıpranmış TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_rusty">
+    <text>Paslı kısaltılmış TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_worn">
+    <text>Yıpranmış kısaltılmış TOZ-66</text>
+  </string>
+  <string id="st_wpn_colt1911">
+    <text>Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_alt">
+    <text>Colt M1911 (alternatif)</text>
+  </string>
+  <string id="st_wpn_colt1911_camo">
+    <text>Kamuflajlı Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_camo_descr">
+    <text>M1911, 1911'den 1985'e kadar ABD ordusunda hizmet verdi. Son derece güvenilir ve dayanıklı olan bu tabanca, dünya çapında askerî ve polis amaçlarıyla, ayrıca sivil savunmada kullanıldı. Günümüzde de popülerliğini koruyor. Bu model koyu bej üzerine kırmızı çizgilerle boyanmıştır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_custom">
+    <text>Özel yapım Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_descr">
+    <text>M1911, 1911'den 1985'e kadar ABD ordusunda hizmet verdi. Son derece güvenilir ve dayanıklı olan bu tabanca, dünya çapında askerî ve polis amaçlarıyla, ayrıca sivil savunmada kullanıldı. Günümüzde de popülerliğini koruyor.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_duty">
+    <text>Colt M1911 Görev kamuflajlı</text>
+  </string>
+  <string id="st_wpn_colt1911_duty_descr">
+    <text>M1911, 1911'den 1985'e kadar ABD ordusunda hizmet verdi. Son derece güvenilir ve dayanıklı olan bu tabanca, dünya çapında askerî ve polis amaçlarıyla, ayrıca sivil savunmada kullanıldı. Günümüzde de popülerliğini koruyor. Bu örnek daha yüksek durdurma gücüne sahiptir ve Görev renklerinde kamuflajlıdır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_merc">
+    <text>Paralı asker kamuflajlı Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_merc_descr">
+    <text>M1911, 1911'den 1985'e kadar ABD ordusunda hizmet verdi. Son derece güvenilir ve dayanıklı olan bu tabanca, dünya çapında askerî ve polis amaçlarıyla, ayrıca sivil savunmada kullanıldı. Günümüzde de popülerliğini koruyor. Bu tabanca, standart M1911'e göre daha isabetlidir ve namlusu daha uzun ömürlüdür.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_modern">
+    <text>Modernize edilmiş Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_new">
+    <text>Yeni Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty">
+    <text>Paslı Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty_descr">
+    <text>M1911, 1911'den 1985'e kadar ABD ordusunda hizmet verdi. Son derece güvenilir ve dayanıklı olan bu tabanca, dünya çapında askerî ve polis amaçlarıyla, ayrıca sivil savunmada kullanıldı. Günümüzde de popülerliğini koruyor.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_red] • %c[d_red] Susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_worn">
+    <text>Yıpranmış Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt_kimber">
+    <text>Colt “Kimber Desert Warrior”</text>
+  </string>
+  <string id="st_wpn_colt_kimber_descr">
+    <text>Kimber tarafından geliştirilmiş Colt M1911A1. Kısa namlu geri tepmesiyle çalışır; kilitleme namlunun aşağı hareketiyle sağlanır. “Desert Warrior”, ABD Deniz Piyadelerinin özel harekâtları için tasarlanmıştır.\n \n</text>
+  </string>
+  <string id="st_wpn_cz52">
+    <text>CZ 52</text>
+  </string>
+  <string id="st_wpn_cz52_descr">
+    <text>Çekoslovakya Genelkurmayının 1946'daki talebiyle Ceskoslovenska Zbrojovka CZ 52'yi geliştirdi. Prototiplerde 9×19 mm fişek ve Browning tipi ya da kilitli sürgü sistemleri incelendi; en iyi sonucu CZ 482 verdi ve 1949–1950'de CZ 491 denemelerine temel oldu. \nMühimmatın standartlaştırılması üzerine tabanca 1951'de Sovyet 7,62×25 mm TT fişeğine uyarlandı, CZ 513 olarak adlandırıldı ve CZ 52 adıyla hizmete girdi. \nKısa namlu geri tepmesiyle çalışır. Ateş gücü yüksek olsa da tasarım ve kabza ergonomisi ülkedeki diğer tabancalardan daha başarısızdır.\n \n</text>
+  </string>
+  <string id="st_wpn_cz75">
+    <text>CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_auto">
+    <text>CZ-75 Automatic</text>
+  </string>
+  <string id="st_wpn_cz75_auto_descr">
+    <text>CZ-75 Auto, 1992 model tam otomatik sürümdür; 150 mm namlusu vardır ve seri atış yapabilir.</text>
+  </string>
+  <string id="st_wpn_cz75_custom">
+    <text>Özel yapım CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_descr">
+    <text>CZ 75, 1975'te Çekoslovakya'da geliştirilen ve dünyada yaygınlaşan bir tabancadır. Josef ve František Koucky tarafından Uhersky Brod'da tasarlandı. Seri üretimi 1977'de başladı. Kısa namlu geri tepmesiyle çalışır; kilidi açmak için namlu aşağı eğilir. Charles Petter'in tasarımında sürgü, dış raylar yerine gövdenin iç raylarında hareket eder. Bu kanallar gövdenin tüm uzunluğu boyunca uzanır, sürgünün hareketini neredeyse boşluksuz ve dengeli kılarak isabete katkıda bulunur. Muharebe ve hizmet özellikleri TT ile standart PM'den çok daha üstün olduğundan Çekoslovakya'nın ve SSCB KGB'si dahil diğer Varşova Paktı ülkelerinin özel servislerinde popüler oldu.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucu\n \n</text>
+  </string>
+  <string id="st_wpn_cz75_worn">
+    <text>Yıpranmış CZ-75</text>
+  </string>
+  <string id="st_wpn_desert_eagle">
+    <text>Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_custom">
+    <text>Özel yapım Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_descr">
+    <text>ABD'li Magnum Research tarafından geliştirilen Desert Eagle, genelde tüfeklerde kullanılan gazlı sistemi kullanır; böylece geleneksel yarı otomatik tabancalardan daha büyük kalibreli mermiler atar. Dezavantajı büyük ve ağır olmasıdır.\n \n</text>
+  </string>
+  <string id="st_wpn_desert_eagle_modern">
+    <text>Modernize edilmiş Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble">
+    <text>Desert Eagle “Bozkır Kartalı”</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble_descr">
+    <text>Amerikan Magnum Research şirketinin geliştirdiği Desert Eagle, tüfeklerde yaygın olan gazlı mekanizmayı kullanır. Böylece geleneksel yarı otomatik tabancalardan çok daha büyük kalibreli mermiler atabilir. Büyük boyutu ve ağırlığı dezavantajlarıdır. Bu örnekte tüm parçalar bu tür bir tabanca için olağanüstü isabet sağlayacak şekilde ayarlanmıştır; entegre namlu kompansatörü geri tepmeyi önemli ölçüde azaltır. Silahı stalker Logan Williams Bölge'ye getirdi. Gazeteci-fotoğrafçı kılığına girerek tek başına Pripyat'ın merkezine ulaşmayı başardı. Akıbeti bilinmiyor; söylentilere göre Yasak Bölge hakkında birçok gizli kuruma muhbirlik yapıyor.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre Docter Sight refleks nişangâhı\n \n</text>
+  </string>
+  <string id="st_wpn_desert_eagle_worn">
+    <text>Yıpranmış Desert Eagle</text>
+  </string>
+  <string id="st_wpn_fal">
+    <text>FN FAL</text>
+  </string>
+  <string id="st_wpn_fal_descr">
+    <text>Fabrique Nationale de Herstal tarafından Belçika'da üretilen FN FAL, dünyanın en tanınmış ve yaygın otomatik tüfeklerinden biridir. Önce II. Dünya Savaşı'nda kullanılan Alman 7,92x33 mm ara fişeği için geliştirildi, ardından İngiliz .280 fişeği için prototipler üretildi. Daha sonra NATO ülkelerinin ortak fişeği kabul edilen 7,62x51 mm NATO'ya uyarlandı. Soğuk Savaş'ta özgür dünyanın sağ kolu lakabını aldı.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-More Railway Tactical ve EOTech dürbünleri\n \n</text>
+  </string>
+  <string id="st_wpn_famas3">
+    <text>FAMAS G2</text>
+  </string>
+  <string id="st_wpn_famas3_descr">
+    <text>1994'te geliştirilen FAMAS G2, FAMAS F1'den esas olarak NATO STANAG standardında M16 şarjörlerine uygun gövdesi ve namlu yiv adımıyla ayrılır. Bölgedeki tüfekler arasında en yüksek atış hızına sahiptir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_flamewerfer">
+    <text>Alev makinesi</text>
+  </string>
+  <string id="st_wpn_flamewerfer_descr">
+    <text>Sık sık arızalanan ve etkili menzili kısa olan el yapımı bir alev makinesi. Son derece tuhaf tasarımı, bu düzeneği kuran stalkerın akıl sağlığı hakkında bazı soru işaretleri doğuruyor.</text>
+  </string>
+  <string id="st_wpn_fn2000">
+    <text>FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_camo">
+    <text>Kamuflajlı FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_custom">
+    <text>Modifiye FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_descr">
+    <text>Fütüristik görünümlü bu Belçika yapımı FN Herstal tüfeği seri üretimdedir. Hantal görünmesine rağmen ergonomiktir, tüm atış modlarında kullanımı rahattır ve güvenilirdir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre nişangâh\n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble">
+    <text>FN F2000 “EOTech”</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble_descr">
+    <text>Fütüristik görünümlü Belçika tüfeği, iri yapısına rağmen ergonomik ve güvenilirdir. Bu modelde standart optik nişangâh EOTech refleks nişangâhla değiştirilmiş, bu da isabeti belirgin biçimde etkilemiştir. Daha yüksek atış hızı, yakın çatışmaya yönelik bir düzenlemeye işaret eder.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre EOTech refleks nişangâhı\n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_fn2000_worn">
+    <text>Yıpranmış FN F2000</text>
+  </string>
+  <string id="st_wpn_fn57">
+    <text>FN Five-seveN</text>
+  </string>
+  <string id="st_wpn_fn57_descr">
+    <text>FN Five-seveN, Belçikalı Fabrique Nationale de Herstal tarafından tasarlanıp üretilen yarı otomatik tabancadır. Adı, “Five-seveN” (silahın .224'e eşdeğer 5,7 mm kalibresi) ile şirketin FN baş harflerini birleştirir. 5,7×28 mm fişek kullanan, tam boyutlu ve yarı serbest sürgülü bir tabancadır; yapısında yoğun biçimde polimer kullanılır. Sivil pazarda giderek popülerleşir ve özel kuvvetlerce de tercih edilir.\n \n</text>
+  </string>
+  <string id="st_wpn_fnc">
+    <text>FN FNC</text>
+  </string>
+  <string id="st_wpn_fnc_descr">
+    <text>1976'da Fabrique Nationale de Herstal tarafından eski FN FAL'ın yerini almak üzere geliştirilen Belçika tüfeğidir; NATO 5,56 mm fişeği için ilk FN CAL denemesi başarısız olmuştu. Belçika Ordusu üç yıl sonra tüfeği hizmete aldı. Sonraki küçük değişikliklerle tetik korkuluğu büyütüldü ve kabzaya tırtık eklendi. FNC ortaya çıktığında hücum tüfeği pazarı doymuş olduğundan yaygınlaşmadı.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n \n\n \n
+		</text>
+  </string>
+  <string id="st_wpn_fnp45">
+    <text>FNP-45</text>
+  </string>
+  <string id="st_wpn_fnp45_custom">
+    <text>Özel yapım FNP-45</text>
+  </string>
+  <string id="st_wpn_fnp45_descr">
+    <text>FN FNP-45, Belçikalı FN Herstal'in ABD kolu FNH-USA tarafından geliştirilen yarı otomatik tabancadır. Kısa namlu geri tepmesiyle çalışır. Namlunun arkasındaki tek kilitleme çıkıntısı kovan atma penceresine oturur; Browning tipi kam kanalı namluyu aşağı indirerek kilidi açar. Gövdesi darbeye dayanıklı polimerden, sürgüsü paslanmaz çeliktendir. Kanıtlanmış sistemleri modern tasarım, malzeme ve üretim yöntemleriyle birleştirir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GemTech susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_fnp45_worn">
+    <text>Yıpranmış FNP-45</text>
+  </string>
+  <string id="st_wpn_fnx45">
+    <text>FNX-45 Tactical</text>
+  </string>
+  <string id="st_wpn_fnx45_alt">
+    <text>FNX-45 Tactical (alternatif)</text>
+  </string>
+  <string id="st_wpn_fnx45_custom">
+    <text>Özel yapım FNX-45 Tactical</text>
+  </string>
+  <string id="st_wpn_fnx45_descr">
+    <text>FNX tabancaları, Belçikalı FN Herstal'in ABD birimi FNH USA tarafından üretilir. ABD Silahlı Kuvvetlerine yeni bir tabanca geliştirmeyi amaçlayan US Joint Combat Pistol Programı için 2007–2009'da tasarlandılar. Program başarılı olmadı, ancak tabancalar ABD'de ve diğer ülkelerde polis ve sivil pazarlara yönelik üretime girdi. FNX kısa namlu geri tepmesi ve eğilerek kilitlenme kullanır. Namlu altındaki kam kanalı gövdedeki parçayla etkileşerek kilitleme ve açmayı sağlar; namlunun üst çıkıntısı sürgünün kovan atma penceresine oturur.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre FNX Tactical refleks nişangâhı\n%c[d_purple] • %c[ui_gray_2] entegre GemTech susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_fort">
+    <text>Fort-17</text>
+  </string>
+  <string id="st_wpn_fort500">
+    <text>Fort-500</text>
+  </string>
+  <string id="st_wpn_fort500_descr">
+    <text>Fort-500 pompalı tüfek, Ukrayna İçişleri Bakanlığı'na bağlı Fort Araştırma ve Üretim Birliği tarafından 1990'ların sonunda ülkenin polis ve güvenlik görevlileri için geliştirildi. Günümüzde İçişleri Bakanlığı özel birimlerince sınırlı sayıda kullanılır ve av modeli sivillere satılır.\n \n</text>
+  </string>
+  <string id="st_wpn_fort_descr">
+    <text>Fort-17, 9×18 mm PM fişeği kullanan Ukrayna yapımı yarı otomatik tabancadır. 2004 baharında geliştirildi ve Fort araştırma-üretim kuruluşunca üretilir. Fort-12'nin; cam elyaf takviyeli, darbeye dayanıklı poliamid polimer gövdeli, atıcının eline göre ayarlanabilen çıkarılabilir kabza panelli ve namlu altında Picatinny raylı bir türevidir. Polimer kullanımı ağırlığı, üretim zorluğunu ve maliyeti azaltır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_fort_rusty">
+    <text>Paslı Fort-17</text>
+  </string>
+  <string id="st_wpn_fort_rusty_descr">
+    <text>Fort-17, 9×18 mm PM fişeği kullanan Ukrayna yapımı yarı otomatik tabancadır. 2004 baharında geliştirildi ve Fort araştırma-üretim kuruluşunca üretilir. Fort-12'nin; cam elyaf takviyeli, darbeye dayanıklı poliamid polimer gövdeli, atıcının eline göre ayarlanabilen çıkarılabilir kabza panelli ve namlu altında Picatinny raylı bir türevidir. Polimer kullanımı ağırlığı, üretim zorluğunu ve maliyeti azaltır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_red] • %c[d_red] Susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_fort_snag">
+    <text>Özel yapım Fort-17</text>
+  </string>
+  <string id="st_wpn_fort_snag_descr">
+    <text>Fort-17, 9×18 mm PM fişeği kullanan Ukrayna yapımı yarı otomatik tabancadır. 2004 baharında geliştirildi ve Fort araştırma-üretim kuruluşunca üretilir. Fort-12'nin; cam elyaf takviyeli, darbeye dayanıklı poliamid polimer gövdeli, atıcının eline göre ayarlanabilen çıkarılabilir kabza panelli ve namlu altında Picatinny raylı bir türevidir. Polimer kullanımı ağırlığı, üretim zorluğunu ve maliyeti azaltır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_fort_worn">
+    <text>Yıpranmış Fort-17</text>
+  </string>
+  <string id="st_wpn_g3">
+    <text>G3A3</text>
+  </string>
+  <string id="st_wpn_g36">
+    <text>G36</text>
+  </string>
+  <string id="st_wpn_g36_camo">
+    <text>Kamuflajlı G36</text>
+  </string>
+  <string id="st_wpn_g36_descr">
+    <text>Yarı serbest sürgü yerine kısa stroklu gaz pistonu kullanan modern bir Batı piyade tüfeği. Değişiklikler açıkça yarar sağlamıştır: hafif, güvenilir ve ergonomik, birinci sınıf modern bir silahtır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] M203 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_g36_worn">
+    <text>Yıpranmış G36</text>
+  </string>
+  <string id="st_wpn_g36k">
+    <text>G36K</text>
+  </string>
+  <string id="st_wpn_g36k_descr">
+    <text>HK G36K, Bundeswehr'in eskimiş G3'ünün yerini almak üzere geliştirilen G36 temelli kısaltılmış karabindir. Güvenilir ve üretimi kolay G36 ailesi 30'dan fazla ülkenin ordusu, polisi ve özel birliklerinde kullanılır. Namlu yapısı namlu ağzı bombaatarı ve süngü takılmasına izin vermez. İki sürümü vardır: yaygın olanında 3× nişangâh ve taşıma kolu, diğerinde entegre optik olmaksızın mekanik nişangâh ve Picatinny ray bulunur.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre G36 teleskopik nişangâhı\n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_g36k_worn">
+    <text>Yıpranmış G36K</text>
+  </string>
+  <string id="st_wpn_g3_descr">
+    <text>HK G3 (Gewehr 3), 1959'da Batı Almanya Ordusunda hizmete giren Alman otomatik tüfeğidir. L biçimli, gecikmeli yarı serbest sürgü kullanır. Kurma kolu ve sürgünün uzatılmış ön kısmı namlu üzerindeki gaz borusuna benzeyen silindirik muhafazada yer alır. Tüfek güvenilir ve kullanışlıdır, ancak kısmi sökümde küçük parçaları kaybolabilir. Belçika FN FAL ve Amerikan M14'ten ucuz olması, basit tasarımına ve çok sayıda preslenmiş, sonradan polimer parçaya dayanır. 1997'de yerini NATO 5,56 mm HK G36'ya bıraktı.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_g3_worn">
+    <text>Yıpranmış G3A3</text>
+  </string>
+  <string id="st_wpn_g3sg1">
+    <text>G3 SG1</text>
+  </string>
+  <string id="st_wpn_g3sg1_descr">
+    <text>G3 SG1 keskin nişancı tüfeği, G3A3 hücum tüfeğinin bir modeli olarak 1973'te Heckler &amp; Koch tarafından Batı Almanya Ordusu için geliştirildi. Fabrika testlerinde yüksek isabet gösteren standart G3A3'ler dönüştürülerek üretildi. Gecikmeli yarı serbest sürgüdeki makaralar sürgüyü yavaşlatır; bu sistem gaz ayarlayıcısı veya ileri-geri hareket eden piston gerektirmeden isabetli atış sağlar. Almanya ve İtalya ordularında hizmet verdi; ABD dahil çeşitli ülkelerin özel birliklerince de kullanıldı.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre G3 nişangâhı\n \n</text>
+  </string>
+  <string id="st_wpn_g3sg1_modern_descr">
+    <text>G3 SG1 keskin nişancı tüfeği, G3A3 hücum tüfeğinin bir modeli olarak 1973'te Heckler &amp; Koch tarafından Batı Almanya Ordusu için geliştirildi. Fabrika testlerinde yüksek isabet gösteren standart G3A3'ler dönüştürülerek üretildi. Gecikmeli yarı serbest sürgüdeki makaralar sürgüyü yavaşlatır; bu sistem gaz ayarlayıcısı veya ileri-geri hareket eden piston gerektirmeden isabetli atış sağlar. Almanya ve İtalya ordularında hizmet verdi; ABD dahil çeşitli ülkelerin özel birliklerince de kullanıldı.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre G3 nişangâhı\n \n</text>
+  </string>
+  <string id="st_wpn_g3sg1_worn">
+    <text>Yıpranmış G3 SG1</text>
+  </string>
+  <string id="st_wpn_g43">
+    <text>Karabiner 43</text>
+  </string>
+  <string id="st_wpn_g43_descr">
+    <text>Nazi Almanyası, Sovyet SVT-40'ın gaz sistemini uyarlayarak daha önceki Gewehr 41 temelinde Gewehr 43 yarı otomatik tüfeğini geliştirdi. 1944'te adı Karabiner 43 olarak değiştirildi. ZF-4 optik nişangâhıyla dönemi için etkili bir keskin nişancı tüfeğiydi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu (kalibre değişiminden sonra)\n%c[d_purple] • %c[ui_gray_2] entegre ZF-41 nişangâhı\n \n</text>
+  </string>
+  <string id="st_wpn_galil">
+    <text>Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_custom">
+    <text>Özel yapım Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_descr">
+    <text>İsrailli tasarımcı Israel Galili'nin, lisanslı Kalaşnikov türevi olan Finlandiya yapımı Valmet RK-62 temelinde geliştirdiği tüfek. Galil kurak arazilerde kullanım için tasarlanmıştır. İki namlu seçeneği vardır: 5,56×45 mm ve 7,62×51 mm fişekler için.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n%c[d_purple] • %c[ui_gray_2] Galil 4× nişangâhı (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_galil_modern">
+    <text>Modernize Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_worn">
+    <text>Yıpranmış Galil AR</text>
+  </string>
+  <string id="st_wpn_gauss">
+    <text>Gauss tüfeği</text>
+  </string>
+  <string id="st_wpn_gauss_descr">
+    <text>“Ürün No. 62” olarak bilinen bu son derece hassas, yüksek teknolojili silah, Bölge içindeki gizli laboratuvarlarda araştırmacılarca geliştirildi. Elektromıknatıs sistemi mermiyi olağanüstü hızlara çıkararak neredeyse hiç geri tepme olmadan çok yüksek delme gücü sağlar. Akülere yeterli enerji sağlamak için bazı artefaktların parçacıkları kullanılır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] geliştirilmiş entegre 4× nişangâh\n \n</text>
+  </string>
+  <string id="st_wpn_glock">
+    <text>Glock 19</text>
+  </string>
+  <string id="st_wpn_glock_custom">
+    <text>Özel yapım Glock 19</text>
+  </string>
+  <string id="st_wpn_glock_descr">
+    <text>Glock 19, Glock'un yarı otomatik tabancasıdır; sürgüsü ve kabzası Glock 17'den daha kısadır. Serbest sürgüyle çalışan Glock 25 ve 28 dışında diğer Glock modelleriyle aynı tasarıma sahiptir. Kısa namlu geri tepmesi kullanır; namlu, gövdeyle etkileşen kam kanalı sayesinde dikey eğilerek kilidi açar. Diğer Glock'lar gibi muharebe ve kullanım özellikleri yüksektir. Sivil pazarın yanı sıra özel servisler ve subaylar için tasarlanmış, tam boy hizmet tabancası ateş gücünü sunar ve dünya çapında polis ve ordularda kullanılır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GemTech susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_glock_modern">
+    <text>Glock 19 (alternatif)</text>
+  </string>
+  <string id="st_wpn_glock_modern_descr">
+    <text>Glock 19, Glock'un yarı otomatik tabancasıdır; sürgüsü ve kabzası Glock 17'den daha kısadır. Serbest sürgüyle çalışan Glock 25 ve 28 dışında diğer Glock modelleriyle aynı tasarıma sahiptir. Kısa namlu geri tepmesi kullanır; namlu, gövdeyle etkileşen kam kanalı sayesinde dikey eğilerek kilidi açar. Diğer Glock'lar gibi muharebe ve kullanım özellikleri yüksektir. Sivil pazarın yanı sıra özel servisler ve subaylar için tasarlanmış, tam boy hizmet tabancası ateş gücünü sunar ve dünya çapında polis ve ordularda kullanılır. Bu modifiye sürüm otomatik atışı da destekler.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] GemTech susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_glock_worn">
+    <text>Yıpranmış Glock 19</text>
+  </string>
+  <string id="st_wpn_grach">
+    <text>MP-443 Grach</text>
+  </string>
+  <string id="st_wpn_grach_descr">
+    <text>Yarygin tabancası, V. A. Yarygin yönetimindeki tasarım ekibince geliştirilen ve Izhevsk Makine Fabrikasında üretilen Rus yapımı yarı otomatik tabancadır. 1990'da Sovyet Savunma Bakanlığı, modern gereksinimleri artık tam karşılamayan PM'nin yerini alacak tabanca için “Grach” yarışmasını başlattı. Yarygin tasarımı 1993'te sunuldu ve 2000'de MP-443 Grach adıyla kazandı. 2003'te Rus Silahlı Kuvvetlerinde 9 mm Yarygin Tabancası (PYa) olarak hizmete girdi. Kısa namlu geri tepmesi ve kilitli sürgü kullanır. Sürgü ve gövde karbon çeliği, namlu paslanmaz çeliktir. Dengeli, kullanışlı ve yumuşak tetiklidir.\n \n</text>
+  </string>
+  <string id="st_wpn_grach_worn">
+    <text>Yıpranmış MP-443 Grach</text>
+  </string>
+  <string id="st_wpn_groza">
+    <text>OTs-14-4A</text>
+  </string>
+  <string id="st_wpn_groza_descr">
+    <text>AKS-74U tüfekleriyle yaklaşık %70 ortak parçaya sahip tüfek-bombaatar sistemi. Başlıca farkları 9×39 mm kalibre, bullpup düzen ve daha geniş modernizasyon olanağıdır. Hızlı müdahale birlikleri için geliştirildi; zırhlı veya siper arkasındaki hedefleri güvenilir biçimde vurduğu için asker ve stalkerlarca değer görür. Göreve göre dört farklı düzende kurulabilir. Bölgede yaygın sürümü entegre GP-25 namlu altı bombaatar taşır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PO 4×34 nişangâhı\n%c[d_purple] • %c[ui_gray_2] entegre GP-25 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_groza_nimble">
+    <text>OTs-14-1A “Groza-1”</text>
+  </string>
+  <string id="st_wpn_groza_nimble_descr">
+    <text>Geliştirilmiş OTs-14-4A'nın bir varyantı. “Groza-1”, daha hafif 7,62×39 mm fişek sayesinde atış hızını, yörünge düzlük değerini ve şarjör kapasitesini artırır. Yalnızca küçük deneysel partiler hâlinde üretildi.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] PO 4×34 nişangâhı\n%c[d_purple] • %c[ui_gray_2] entegre GP-25 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_gsh18">
+    <text>GSh-18</text>
+  </string>
+  <string id="st_wpn_gsh18_custom">
+    <text>Özel yapım GSh-18</text>
+  </string>
+  <string id="st_wpn_gsh18_descr">
+    <text>1990'ların sonunda Tula Alet Tasarım Bürosunda geliştirilen Rus tabancasıdır. Adı tasarımcı Vasily Gryazev ve Arkady Shipunov'un soyadlarının baş harfleriyle şarjör kapasitesini gösteren “18” sayısını birleştirir. Seri üretimi 2001'de başladı ve ihracata sunuldu. 2000'de Rusya Adalet Bakanlığı özel birliklerinde, 2001'de İçişleri Bakanlığı özel birlikleri ve belirli personel kategorilerinde hizmete girdi. Makarov'un yerini alacak yeni ordu tabancası yarışmasını 2003'te kazanarak Rus Ordusunda kabul edildi. 7N21 ve 7N31 zırh delici fişeklerle 20 metreden 8 mm çeliği delebilir.\n \n</text>
+  </string>
+  <string id="st_wpn_gsh18_worn">
+    <text>Yıpranmış GSh-18</text>
+  </string>
+  <string id="st_wpn_hk416">
+    <text>HK416</text>
+  </string>
+  <string id="st_wpn_hk416_descr">
+    <text>HK416, Heckler &amp; Koch tarafından M4 karabin temelinde geliştirilen Alman tüfeğidir. Başlangıçta M4 veya M16 alt gövdelerine takılacak değiştirilebilir üst takım olarak tasarlandı, daha sonra tam tüfek olarak da üretildi. Adı M4 ve M16 soyunu simgeler. Gövde alüminyum alaşımından, şarjörler çeliktendir; standart M16 şarjörleri de kullanılabilir. Namlu el kundağında serbest yüzer. Gövdenin üstündeki ve el kundağının dört yanındaki Picatinny veya Daniel Defense rayları geniş aksesuar seçenekleri sunar. Çok konumlu teleskopik dipçik M4'ünkine benzer. Tüfek isabetli ve modülerdir, farklı çatışma türlerine uyarlanabilir.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları\n%c[d_purple] • %c[ui_gray_2] M203 namlu altı bombaatar\n \n</text>
+  </string>
+  <string id="st_wpn_hk417">
+    <text>HK417</text>
+  </string>
+  <string id="st_wpn_hk417_descr">
+    <text>7,62 mm NATO Heckler &amp; Koch HK417 otomatik tüfeği, 5,56 mm Heckler &amp; Koch HK416 temel alınarak geliştirildi. HK417’nin geliştirilmesine 2005’te başlandı; Afganistan ve Irak’taki uluslararası koalisyon birliklerinin deneyimlerinden yararlanıldı. Bu bölgelerde 5,56 mm silahların belirli koşullarda etkili menzili yetersiz kalmış, küçük kalibreli mermilerin delme ve durdurma etkisi de yetersiz bulunmuştu. \nHK417, Amerikan M16’nın tasarımını büyük ölçüde yineleyen modüler bir yapıya sahiptir; önemli bir fark olarak Alman HK417, geleneksel kısa stroklu gaz pistonunu kullanan değiştirilmiş bir gazlı çalışma sistemine sahiptir. Başka farklar da vardır, ancak başlıca kontroller ile silahın sökülüp takılma yöntemi M16’dan alınmıştır. Bunun başlıca nedeni, ABD’nin HK417 için en önemli pazarlardan biri olmasıdır. HK417 tüfekleri günümüzde Bundeswehr’de G28 adıyla hizmettedir ve başka ülkelere ihraç edilmektedir.\n\n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa">
+    <text>Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_hpsa_alt">
+    <text>Browning Hi-Power (alternatif)</text>
+  </string>
+  <string id="st_wpn_hpsa_descr">
+    <text>20. yüzyılın ilk yarısına ait bir tabancanın değiştirilmiş modeli; orijinali kadar güvenilir, isabetli ve güçlüdür. Yüzyılın en iyi tabancalarından biri olarak ün kazanmış ve stalkerlar arasında popüler olmuştur.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty">
+    <text>Paslı Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty_descr">
+    <text>20. yüzyılın ilk yarısına ait bir tabancanın değiştirilmiş modeli; orijinali kadar güvenilir, isabetli ve güçlüdür. Yüzyılın en iyi tabancalarından biri olarak ün kazanmış ve stalkerlar arasında popüler olmuştur.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_red] • %c[d_red] Susturucu takılamaz.\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa_worn">
+    <text>Yıpranmış Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_k98">
+    <text>Karabiner 98 Kurz</text>
+  </string>
+  <string id="st_wpn_k98_descr">
+    <text>II. Dünya Savaşı sırasında isabetli bazı Karabiner 98k tüfekleri seçilerek ZF-39 optik nişangâh takıldı. Nazi Almanyası bunları keskin nişancı tüfeği olarak kullandı. Usta ellerde etkili menzili 1.000 metreye kadar çıkıyordu.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] ZF serisi nişangâhlar\n%c[d_purple] • %c[ui_gray_2] NATO susturucusu (alternatif)\n \n</text>
+  </string>
+  <string id="st_wpn_kiparis">
+    <text>OTs-02 Kiparis</text>
+  </string>
+  <string id="st_wpn_kiparis_descr">
+    <text>OTs-02 (TKB-0217) «Kiparis», 1972’de SSCB Savunma Bakanlığının «Kustarnik» araştırma ve geliştirme çalışması kapsamında verdiği sipariş üzerine Tula’daki TsKIB SOO’dan tasarımcılar N. M. Afanasyev, D. P. Pleshkov ve N. V. Trukhachev tarafından geliştirilen bir hafif makineli tüfektir. Tasarımı, 1961 model Çekoslovak Scorpion Vz.61 hafif makineli tüfeğinin yerleşimini temel alır. OTs-02 «Kiparis»in otomatik mekanizması serbest sürgünün geri tepmesiyle çalışır. Horozlu tetik mekanizması yarı otomatik ve tam otomatik atışa olanak tanır. Atış kapalı sürgü konumunda yapılır; bu, atış isabetini artırır. Açık nişangâhlar, koruyuculu bir arpacık ve ayarlanabilir bir gezden oluşur. Fişeklerin iki sıra hâlinde dizildiği kutu tipi bir şarjör kullanır. Silahın dengesini artırmak için katlanır dipçik kullanılır; dipçik taşınma konumunda gövdenin üzerine katlanır. Ateşlenmiş kovanlar yukarı ve geriye atılır.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucu\n \n</text>
+  </string>
+  <string id="st_wpn_kiparis_worn">
+    <text>Yıpranmış OTs-02 Kiparis</text>
+  </string>
+  <string id="st_wpn_l85">
+    <text>L85A1</text>
+  </string>
+  <string id="st_wpn_l85_alt">
+    <text>L85A1 (alternatif)</text>
+  </string>
+  <string id="st_wpn_l85_custom">
+    <text>Özel yapım L85A1</text>
+  </string>
+  <string id="st_wpn_l85_descr">
+    <text>Britanya Silahlı Kuvvetlerinin standart bireysel silahı. L85 hücum tüfeğinin özgün A1 sürümünde çok sayıda tasarım kusuru vardı. Alman Heckler &amp; Koch şirketi, farklı iklim ve kullanım koşullarında güvenilirliği artırmak için tüfeği modernize etti.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre SUSAT tipi nişangâh\n%c[d_purple] • %c[ui_gray_2] NATO susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_l85_modern">
+    <text>Modernize L85A1</text>
+  </string>
+  <string id="st_wpn_l85_worn">
+    <text>Yıpranmış L85A1</text>
+  </string>
+  <string id="st_wpn_l85a2">
+    <text>L85A2</text>
+  </string>
+  <string id="st_wpn_l85a2_alt">
+    <text>L85A2 (alternatif)</text>
+  </string>
+  <string id="st_wpn_l85a2_custom">
+    <text>Özel yapım L85A2</text>
+  </string>
+  <string id="st_wpn_l85a2_descr">
+    <text>Britanya Silahlı Kuvvetlerinin standart bireysel silahı. L85 hücum tüfeğinin özgün A1 sürümünde çok sayıda tasarım kusuru vardı. Alman Heckler &amp; Koch şirketi, farklı iklim ve kullanım koşullarında güvenilirliği artırmak için tüfeği modernize etti.\n \n%c[ui_gray_2]EKİPMANLAR: \n%c[d_purple] • %c[ui_gray_2] entegre 4× SUSAT nişangâhı\n%c[d_purple] • %c[ui_gray_2] NATO susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_l85a2_modern">
+    <text>Modernize L85A2</text>
+  </string>
+  <string id="st_wpn_l96a1">
+    <text>L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1_descr">
+    <text>Accuracy International L96A1 Tross / Arctic Warfare, 1980'lerin ortasında İngiliz Ordusunca L96 adıyla hizmete alınan bir İngiliz keskin nişancı tüfeğidir. Entegre 10x Leupold Mark 4 dürbünü ve .308 kalibrede beş fişeklik sürgülü mekanizması vardır; çıkarılabilir şarjörleri beş ya da on fişek alır. Zorlu koşullardaki güvenilirliğiyle tanınan üst düzey hassas bir tüfektir. Mühimmat ve namluya göre isabeti 0,4–0,7 MOA arasındadır; bazı fişeklerle 100 metrede beş atışı 11,6–20,3 mm içinde toplar.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] Leupold Mark 4 dürbünü (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_l96a1_worn">
+    <text>Yıpranmış L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1m">
+    <text>L96 AWSM</text>
+  </string>
+  <string id="st_wpn_l96a1m_descr">
+    <text>Accuracy International L96A1 Tross / Arctic Warfare, 1980'lerin ortasında İngiliz Ordusunca L96 adıyla hizmete alınan bir İngiliz keskin nişancı tüfeğidir. Entegre 10x Leupold Mark 4 dürbünü ve .308 kalibrede beş fişeklik sürgülü mekanizması vardır; çıkarılabilir şarjörleri beş ya da on fişek alır. Zorlu koşullardaki güvenilirliğiyle tanınan üst düzey hassas bir tüfektir. Mühimmat ve namluya göre isabeti 0,4–0,7 MOA arasındadır; bazı fişeklerle 100 metrede beş atışı 11,6–20,3 mm içinde toplar.L96 AWSM, .338 Lapua Magnum kullanan bir AWS çeşididir.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] Leupold Mark 4 dürbünü (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300">
+    <text>LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_camo">
+    <text>Kamuflajlı LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_custom">
+    <text>Özel LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_descr">
+    <text>Kısaltılmış LR-300ML, AR-15 ailesinin yeni bir gelişimidir. Üst gövde, namlu, gaz sistemi ve sürgü grubundaki değişiklikler kullanımı ve güvenilirliği artırıp ağırlığı azaltır. Çok isabetlidir ancak kirlenmeye duyarlı olduğu için Bölgeye pek uygun değildir.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2]NATO susturucusu\n%c[d_purple] • %c[ui_gray_2]ACOG, Barska ES AC10632 ve EOTech dürbünleri\n%c[d_purple] • %c[ui_gray_2]M203 namlu altı bomba atar (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300_rusty">
+    <text>Paslı LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_rusty_descr">
+    <text>Kısaltılmış LR-300ML, AR-15 ailesinin yeni bir gelişimidir. Üst gövde, namlu, gaz sistemi ve sürgü grubundaki değişiklikler kullanımı ve güvenilirliği artırıp ağırlığı azaltır. Çok isabetlidir ancak kirlenmeye duyarlı olduğu için Bölgeye pek uygun değildir.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_red] • %c[d_red]SUSTURUCU TAKILAMAZ\n%c[d_purple] • %c[ui_gray_2]ACOG, Barska ES AC10632 ve EOTech dürbünleri\n%c[d_purple] • %c[ui_gray_2]M203 namlu altı bomba atar (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300_worn">
+    <text>Yıpranmış LR-300ML</text>
+  </string>
+  <string id="st_wpn_m16">
+    <text>M16A4</text>
+  </string>
+  <string id="st_wpn_m16_descr">
+    <text>Resmî adı 5,56 mm Rifle, M16 olan M16, AR-15 temelinde geliştirilmiş bir Amerikan taarruz tüfeğidir. 1960'larda M14'ün yerine hizmete alındı ve 1966'da Vietnam'daki ABD birliklerini donattı. İlk modeller güvenilirlik sorunları yaşadı, ancak 1970'lerin başında yetkin bir hizmet tüfeği oldu. AKM'ye kıyasla yarı otomatik atışta daha isabetli ve kullanımı rahattır; fakat daha dikkatli bakım ve kaliteli mühimmat ister. Yoğun toz ve kirde AKM daha güvenilirdir. M16 türevleri hâlâ ABD piyadesinin temel silahıdır; dünya çapında sekiz milyondan fazla üretildi.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple] • %c[ui_gray_2] NATO suppressor\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech sights\n%c[d_purple] • %c[ui_gray_2] M203 underbarrel grenade launcher\n \n</text>
+  </string>
+  <string id="st_wpn_m16_worn">
+    <text>Yıpranmış M16A4</text>
+  </string>
+  <string id="st_wpn_m16a2">
+    <text>M16A2</text>
+  </string>
+  <string id="st_wpn_m16a2_descr">
+    <text>M16A2, SS109/M855 fişeklerine uyarlanmış M16A1 çeşididir. 1:7 yiv adımlı güçlendirilmiş namlu, 800 metreye kadar işaretli geliştirilmiş nişangâhlar, darbeye dayanıklı polimer el kundağı ve dipçik ile tam otomatik yerine üç atımlık seri modu vardır (Deniz Piyadelerinde tam otomatik sürüm de kullanıldı). Üst taraftaki yarıkları alev gizleyicisi namlu şahlanmasını azaltır. Hafif, 30 fişeklik plastik şarjör kullanır.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple] • %c[ui_gray_2] M203 underbarrel grenade launcher\n%c[d_purple] • %c[ui_gray_2] NATO suppressor\n \n</text>
+  </string>
+  <string id="st_wpn_m24">
+    <text>M24 SWS ‘Green Dragon'</text>
+  </string>
+  <string id="st_wpn_m249">
+    <text>M249 SAW</text>
+  </string>
+  <string id="st_wpn_m249_descr">
+    <text>M249 SAW, FN Herstal'in FN Minimi hafif makineli tüfeğinin ABD için üretilen 5,56×45 mm sürümüdür; seri üretimi 1980'lerde başladı. Avustralya, Belçika, Kanada, Fransa, Yunanistan, İspanya, İtalya, Endonezya, Malezya, Yeni Zelanda, Tayland, İsveç, Birleşik Krallık ve ABD dahil birçok ülkenin ordusunda hizmet verir. FN Herstal üretimi sürdürmektedir.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2]ACOG, Barska ES AC10632 ve EOTech dürbünleri\n \n</text>
+  </string>
+  <string id="st_wpn_m24_descr">
+    <text>ABD Ordusunun M24 SWS (Keskin Nişancı Silah Sistemi), Remington 700 temelinde geliştirilmiş şarjörlü, sürgülü bir tüfektir. Leupold Ultra M3A 10×40 dürbün, özel işlem görmüş paslanmaz çelik namlu ve atıcıya göre ayarlanabilen kompozit dipçik taşır.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2]M24 keskin nişancı dürbünü (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_m4">
+    <text>M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4_descr">
+    <text>M4, ABD'de araç mürettebatı ve silah ekipleri için M16A2 temelinde geliştirildi. ABD Özel Harekât Komutanlığı onu tüm Amerikan özel kuvvetlerinin ortak tüfeği olarak benimsedi. Motorlu piyade, araç mürettebatı ve destek birliklerinin arttığı günümüz ordusunda kısa karabina daha kullanışlı olduğundan Kara Kuvvetleri de bu modele geçiyor. M16A2'den temel farkları kısa namlusu ve teleskopik dipçiğidir.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2]NATO susturucusu\n%c[d_purple] • %c[ui_gray_2]ACOG, Barska ES AC10632 ve EOTech dürbünleri\n%c[d_purple] • %c[ui_gray_2]M203 namlu altı bomba atar\n \n</text>
+  </string>
+  <string id="st_wpn_m4_worn">
+    <text>Yıpranmış M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4a1">
+    <text>M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_camo">
+    <text>Kamuflajlı M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_custom">
+    <text>Özel M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_descr">
+    <text>M4A1 karabini, 1996'da özel kuvvetler için M16A3 temelinde geliştirildi ve üç atımlık seri yerine tam otomatik ateşe döndü. Kısa namlu ve teleskopik dipçiğin yanında çıkarılabilir taşıma kolu ve optik, refleks ya da gece görüşlü değiştirilebilir nişangâhlar aldı. Teknik açıdan M4 ve M4A1, karşılık gelen M16A2 ve M16A3 sürümlerinden çok az farklıdır.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2]NATO susturucusu\n%c[d_purple] • %c[ui_gray_2]ACOG, Barska ES AC10632 ve EOTech dürbünleri\n%c[d_purple] • %c[ui_gray_2]M203 namlu altı bomba atar (after modification)\n \n</text>
+  </string>
+  <string id="st_wpn_m4a1_freedom">
+    <text>Özgürlük kamuflajlı M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_worn">
+    <text>Yipranmis M4A1</text>
+  </string>
+  <string id="st_wpn_m60">
+    <text>M60</text>
+  </string>
+  <string id="st_wpn_m60_descr">
+    <text>M60, savaş sonrası dönemde geliştirilen ve 1957'de ABD Kara Kuvvetleri ile Deniz Piyadelerince hizmete alınan genel maksatlı bir makineli tüfektir. Tasarım kusurları ve görünüşü ona “Domuz” lakabını kazandırdı. 1980'lerde Belçika yapımı M240 gibi gelişmiş silahlar yerini almaya başlasa da M60 hâlâ üretilir ve çoğunlukla ikincil görevlerde yaygın biçimde kullanılır. Alman FG 42'nin gazlı çalışma sistemini, MG 42'nin şerit besleme mekanizmasıyla birleştirir. ABD özel harekât birlikleri için geliştirilen hafif M60E3 ve E4 sürümleri güvenilirliği artırıp ilk modelin bazı kusurlarını giderdi.\n \n</text>
+  </string>
+  <string id="st_wpn_m79">
+    <text>M79</text>
+  </string>
+  <string id="st_wpn_m79_descr">
+    <text>M79, 1961'de ABD Ordusunca hizmete alınan tek atışlı 40 mm bomba atardır. Springfield Armory tarafından 1951–1961 arasında geliştirildi; gayriresmî lakabı ‘fil tüfeği'dir.\n \n</text>
+  </string>
+  <string id="st_wpn_m82">
+    <text>Barrett M82</text>
+  </string>
+  <string id="st_wpn_m82_descr">
+    <text>ABD Silahlı Kuvvetleri belgelerinde M107 olarak geçen Barrett M82, Barrett Firearms Manufacturing tarafından üretilen ve birçok ülkenin ordusunda kullanılan büyük kalibreli yarı otomatik bir keskin nişancı tüfeğidir. Döner sürgülü mekanizmaya sahiptir; zırh delici amaçla tasarlansa da çoğunlukla düşman piyadesine karşı kullanılır.\n \n</text>
+  </string>
+  <string id="st_wpn_m98b">
+    <text>Barrett M98B ‘Bravo'</text>
+  </string>
+  <string id="st_wpn_m98b_descr">
+    <text>Yüksek isabetli M98B sürgülü keskin nişancı tüfeği Barrett Firearms tarafından sıfırdan tasarlandı. Çıkarılabilir kutu şarjörden beslenen .338 Lapua Magnum fişekleri, en uzun menzilde bile etkileyici isabet ve durdurma gücü sağlar.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2]Leupold Mark 4 dürbünü (entegre)\n%c[d_purple] • %c[ui_gray_2]SR-25 susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_mk14">
+    <text>Mk 14 EBR</text>
+  </string>
+  <string id="st_wpn_mk14_descr">
+    <text>ABD Donanması Mark 14 Enhanced Battle Rifle, Deniz Kuvvetleri özel operasyon birliklerinin M14 temelinde geliştirdiği bir nişancı tüfeğidir. SEAL'ler dâhil çeşitli özel birliklerce kullanılır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-More Railway Tactical ve EOTech dürbünleri\n \n</text>
+  </string>
+  <string id="st_wpn_mosin">
+    <text>Mosin tüfeği</text>
+  </string>
+  <string id="st_wpn_mosin_descr">
+    <text>Biraz yıpranmış Mosin tüfeği. 7,62 mm Model 1891/30, 1930–1945 arasında Sovyet piyadesinin standart silahı olarak üretildi. Büyük Vatanseverlik Savaşı'nda 4x PE veya 3,5x PU dürbünle keskin nişancı tüfeği olarak da başarıyla kullanıldı.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple]• %c[ui_gray_2]PU dürbünü\n \n</text>
+  </string>
+  <string id="st_wpn_mosin_worn">
+    <text>Yıpranmış Mosin tüfeği</text>
+  </string>
+  <string id="st_wpn_mossberg590">
+    <text>Mossberg 590A1</text>
+  </string>
+  <string id="st_wpn_mossberg590_descr">
+    <text>Mossberg 590, 1970'lerin ortasında O.F. Mossberg &amp; Sons tarafından popüler Mossberg 500'ün askerîleştirilmiş sürümü olarak tasarlandı. Güçlendirilmiş parçalar, namlu üstü ısı kalkanı, daha dayanıklı mat dış kaplama ve metal tetik korkuluğu eklendi. Namlu altında sabit boru şarjörü bulunan pompalı, yivsiz bir tüfektir. Sallanan bir sürgü kilidi namlu yatağına oturur; gövdesi alüminyum alaşımdandır. Emniyet mandalı gövdenin arka üst kısmında yer alır ve sağlaklarla solaklara eşit kolaylık sağlar.\n \n</text>
+  </string>
+  <string id="st_wpn_mossberg590_worn">
+    <text>Yipranmis Mossberg 590A1</text>
+  </string>
+  <string id="st_wpn_mp133">
+    <text>MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_descr">
+    <text>Avcilik, spor, guvenlik ve oz savunma icin Rus pompali tufegi. IZH-81 temelinde gelistirildi; 2000den beri Izhevskte uretiliyor.\n \n</text>
+  </string>
+  <string id="st_wpn_mp133_rusty">
+    <text>Pasli MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_worn">
+    <text>Yipranmis MP-133</text>
+  </string>
+  <string id="st_wpn_mp153">
+    <text>MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_descr">
+    <text>Murka lakapli Rus yari otomatik tufegi; avcilik, spor, kolluk ve oz savunma icin. Son atistan sonra surgu acik kalir; doldurmayi hizlandirir ve merminin bittigini gosterir. Fiyati, guvenilirligi ve dayanikliligiyle populer, bazi rakiplerinden agir.\n \n</text>
+  </string>
+  <string id="st_wpn_mp153_rusty">
+    <text>Pasli MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_worn">
+    <text>Yıpranmış MP-153</text>
+  </string>
+  <string id="st_wpn_mp412">
+    <text>MP-412 Rex</text>
+  </string>
+  <string id="st_wpn_mp412_descr">
+    <text>MP-412 Rex, .357 Smith &amp; Wesson Magnum (9×33 mm) ve .38 Smith &amp; Wesson Special (9,1×29 mm) fişekleri için tasarlanmış, Rus yapımı bir tabancadır. 1990'ların sonunda Izhevsk Mekanik Fabrikası'nda geliştirildi. İhracat için tasarlanmıştı (REX, «İhracat için Revolver» anlamına gelir), ancak seri üretime geçmedi. Izmash'ın bu yeni revolverinin iki belirgin özelliği vardır: 19. yüzyıl sonu ve 20. yüzyıl başındaki Smith &amp; Wesson modellerini andıran kırılır gövde ve polimer gövde; daha doğrusu alt bölüm ve kabza polimerdir. Namluyu tutan üst gövde kısmı çeliktir. Tabancanın devre dışı bırakılabilen bir kovan çıkarıcısı vardır. Açıkken gövde açıldığında boş kovanları tamburdan atar; kapalıyken kovanları yalnızca kısmen yukarı iter.\n \n</text>
+  </string>
+  <string id="st_wpn_mp5">
+    <text>MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_alt">
+    <text>MP5A3 (alternatif)</text>
+  </string>
+  <string id="st_wpn_mp5_custom">
+    <text>Özel MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_descr">
+    <text>MP5A3, geri çekilebilir metal dipçikle donatılmış bir MP5 çeşididir. Bu hafif makineli tüfek güvenilirliği, kullanım kolaylığı ve yüksek isabet oranı sayesinde büyük popülerlik kazanmıştır. Birçok ülkenin ordu ve polis birimlerince benimsenmiş, ardından karaborsaya ve zamanla Bölge'ye ulaşmıştır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 nişangâhları
+%c[d_purple] • %c[ui_gray_2] 9 mm susturucu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_mp5_nimble">
+    <text>MP5A3 «Atik»</text>
+  </string>
+  <string id="st_wpn_mp5_nimble_descr">
+    <text>HK MP5A3 temel alınarak geliştirilen deneysel hafif makineli tüfek. Yeni nesil olarak tasarlanan bu model, daha büyük kalibresi, yüksek atış hızı ve isabetiyle selefini geride bırakır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 nişangâhları
+%c[d_purple] • %c[ui_gray_2] GemTech susturucu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_mp5_worn">
+    <text>Yıpranmış MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5sd">
+    <text>MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_custom">
+    <text>Özel MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_descr">
+    <text>MP5SD hafif makineli tüfeği, ordu ve polis özel birlikleri için MP5A2 tasarımı temel alınarak geliştirildi. Sabit dipçikli MP5SD2, katlanır dipçikli MP5SD3 veya dipçeksiz MP5SD4 sürümleri bulunur. Standart MP5'ten entegre susturucusuyla ayrılır. Mermi çıkış hızı ses üstü olan standart 9 mm Parabellum mühimmatı kullanır. Namludaki 30 delik, gazın bir bölümünü susturucunun genleşme haznesine aktararak mermi hızını ses altı düzeye indirir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] entegre susturucu\n \n</text>
+  </string>
+  <string id="st_wpn_mp5sd_new">
+    <text>Yeni MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_worn">
+    <text>Yıpranmış MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp7">
+    <text>HK MP7</text>
+  </string>
+  <string id="st_wpn_mp7_descr">
+    <text>Heckler &amp; Koch MP7, 1990'ların sonunda tam boy tüfek taşımayan araç mürettebatı ve silah ekipleri gibi askerler için geliştirilen bir kişisel savunma silahıdır. Vücut zırhının yaygınlaşması sıradan tabanca kalibreli silahların etkinliğini düşürdü. Üretim 2001'de başladı; Alman özel birlikleri benimsedi ve 2006'da tüm Alman Silahlı Kuvvetlerinde hizmete girdi. İngiliz askerî polisi 2005'ten beri kullanıyor. NATO'nun standart cephaneliğinde yer almak için FN P90 ile yarışıyor.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech dürbünleri\n \n</text>
+  </string>
+  <string id="st_wpn_oc33">
+    <text>OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_oc33_descr">
+    <text>OTs-33 tabancası, eskimiş ve üretimi uzun zaman önce durdurulmuş APS'nin yerine geçmesi için 1990'ların ortasında TsKIB SOO'da I.Ya. Steçkin tarafından geliştirildi. TsKIB SOO'nun Tula Alet Tasarım Bürosu'na katılmasının ardından OTs-33'ün üretim ve tanıtımını KBP üstlendi. Rusya İçişleri Bakanlığı'nın çeşitli birimlerinde az sayıda kullanılır. Steçkin'in APS'siyle karşılaştırıldığında OTs-33 daha iyi özelliklere, daha basit bir tasarıma ve daha kolay kullanıma sahiptir. Susturucu ve başka aksesuarlar takılabilir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] APS susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_oc33_rusty">
+    <text>Paslı OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_oc33_rusty_descr">
+    <text>OTs-33 tabancası, eskimiş ve üretimi uzun zaman önce durdurulmuş APS'nin yerine geçmesi için 1990'ların ortasında TsKIB SOO'da I.Ya. Steçkin tarafından geliştirildi. TsKIB SOO'nun Tula Alet Tasarım Bürosu'na katılmasının ardından OTs-33'ün üretim ve tanıtımını KBP üstlendi. Rusya İçişleri Bakanlığı'nın çeşitli birimlerinde az sayıda kullanılır. Steçkin'in APS'siyle karşılaştırıldığında OTs-33 daha iyi özelliklere, daha basit bir tasarıma ve daha kolay kullanıma sahiptir. Susturucu ve başka aksesuarlar takılabilir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_red] • %c[d_red] susturucu takılamaz\n \n</text>
+  </string>
+  <string id="st_wpn_oc33_worn">
+    <text>Yıpranmış OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_p90">
+    <text>FN P90</text>
+  </string>
+  <string id="st_wpn_p90_descr">
+    <text>FN P90, 1986–1987'de FN Herstal tarafından özellikle tank mürettebatı ve muharebe aracı sürücüleri için geliştirilen Belçika yapımı bir kişisel savunma silahıdır (PDW). İleri görüşlü ve ergonomik bir tasarıma sahiptir. P90 için özel olarak geliştirilen 5,7×28 mm SS190 fişeği yüksek deliş gücü ve düşük sekme eğilimi sunar. Mermisi namlu çıkışında 715 m/s hıza ulaşır ve NATO CRISAT şartlarını karşılayan titanyum/Kevlar yeleği 20 metreye kadar delebilir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] .57 susturucu\n \n</text>
+  </string>
+  <string id="st_wpn_pb">
+    <text>PB</text>
+  </string>
+  <string id="st_wpn_pb_custom">
+    <text>Modifiye PB</text>
+  </string>
+  <string id="st_wpn_pb_descr">
+    <text>1967'de hizmete alınan PB sessiz tabancası (GRAU kodu 6P9), ordu keşif timleri ve SSCB KGB personeli için Makarov tabancası temel alınarak geliştirildi. Bütünleşik susturucusu mermi hızını ses altı düzeye düşürür.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] 6P9 susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_pb_worn">
+    <text>Yıpranmış PB</text>
+  </string>
+  <string id="st_wpn_pkm_zulus">
+    <text>Zulu'nun PKM'si</text>
+  </string>
+  <string id="st_wpn_pkm_zulus_descr">
+    <text>Bu makineli tüfek Zulu'ya aitti. Geri dönüş mekanizması olağanüstü güvenilir bir yapıya sahiptir. Modifikasyonlar silahın ağırlığını artırmış olsa da önceki sahibi için bu sorun değildi. Hedefe hızla nişan almayı sağlayan bir refleks nişangâh da takılıdır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03 refleks nişangâhı (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_pkp">
+    <text>PKP «Peçenek»</text>
+  </string>
+  <string id="st_wpn_pkp_descr">
+    <text>7,62 mm PKP «Peçenek», PKM temel alınarak geliştirilen Rus yapımı genel maksatlı bir makineli tüfektir. Düşman personeline, ateş mevzilerine, araçlara ve hava hedeflerine karşı tasarlanmıştır. TsNIITochMash tarafından geliştirilen silah, barut gazlarının enerjisiyle çalışan zorunlu namlu soğutma sistemi kullanır. Ayarlanabilir gaz sistemi her iklim koşulunda çalışmasını sağlar. Dış kanatçıklı namlu metal bir kılıfın içindedir. Namlu gazları kılıfın önünde düşük basınç oluşturur; arkadaki havalandırma açıklıkları ateş sırasında namlu boyunca sürekli soğuk hava akışı sağlar. Sürekli soğutma saçılmayı azaltır ve namlu ömrünü uzatır. Peçenek, gövde ve sehpa dâhil PKM parçalarının %80'ine kadarını korur. Tasarımcılara göre ateş etkinliği sehpada %150, çift ayakta %250 artmıştır.\n \n</text>
+  </string>
+  <string id="st_wpn_pm">
+    <text>Makarov PM</text>
+  </string>
+  <string id="st_wpn_pm_actor">
+    <text>Ödül Makarov PM</text>
+  </string>
+  <string id="st_wpn_pm_actor_descr">
+    <text>Degtyarev'e ödül olarak verilen, kişiye özel bir Makarov tabancası. Gravürde şu yazılıdır: «Özellikle tehlikeli görevleri başarıyla tamamladığı ve bu sırada gösterdiği yiğitlik ve cesaret için».\n \n</text>
+  </string>
+  <string id="st_wpn_pm_custom">
+    <text>Özel Makarov PM</text>
+  </string>
+  <string id="st_wpn_pm_descr">
+    <text>Bölgede en yaygın tabanca olan Makarov PM, Sovyet döneminden kalma ve kompakt kişisel savunma silahlarının en iyilerinden biridir. Küçük, son derece güvenilir, kullanımı ve bakımı kolaydır. Dezavantajları kısa menzil ve düşük isabet, sınırlı mermi etkisi ve aynı sınıftaki modern tabancalara kıyasla düşük kapasiteli şarjörüne rağmen yüksek ağırlığıdır.\n \n</text>
+  </string>
+  <string id="st_wpn_pm_rusty">
+    <text>Paslı Makarov PM</text>
+  </string>
+  <string id="st_wpn_pm_rusty_descr">
+    <text>Bölgede en yaygın tabanca olan Makarov PM, Sovyet döneminden kalma ve kompakt kişisel savunma silahlarının en iyilerinden biridir. Küçük, son derece güvenilir, kullanımı ve bakımı kolaydır. Dezavantajları kısa menzil ve düşük isabet, sınırlı mermi etkisi ve aynı sınıftaki modern tabancalara kıyasla düşük kapasiteli şarjörüne rağmen yüksek ağırlığıdır.\n \n</text>
+  </string>
+  <string id="st_wpn_pm_worn">
+    <text>Yıpranmış Makarov PM</text>
+  </string>
+  <string id="st_wpn_pmm">
+    <text>PMM</text>
+  </string>
+  <string id="st_wpn_pmm_descr">
+    <text>9 mm Makarov PMM, «Grach» araştırma programı kapsamında 1990'ların başında geliştirilen Rus yapımı modernize bir tabancadır. Gövdesi güçlendirilmiş, sürgüsü ağırlaştırılmıştır. Fişek yatağındaki spiral kanallar, yüksek darbeli 9×18 mm PMM mühimmatını kullanmasını sağlar. Ateşleme sırasında gaz basıncı kovan duvarlarını yatağın üç kanalına bastırarak mermi namludan çıkıp basınç düşene kadar kovanı yerinde tutar; ardından kovan çekilip dışarı atılır. Yeni fişek namlu içindeki azami basıncı %15 artırmış ve geri tepmeyi bir miktar yükseltmiştir. PMM parçalarının %70'i Makarov PM ile değiştirilebilir.\n \n</text>
+  </string>
+  <string id="st_wpn_pp2000">
+    <text>PP-2000</text>
+  </string>
+  <string id="st_wpn_pp2000_descr">
+    <text>PP-2000, V.P. Gryazev ve A.G. Şipunov liderliğindeki Tula Alet Tasarım Bürosu ekibince geliştirilen Rus yapımı 9 mm bir hafif makineli tüfektir. Şehir ortamında görev yapan kolluk kuvvetleri ve bazı askerî personel için kişisel savunma silahı olarak tasarlanmıştır. Rusya İçişleri Bakanlığı için seri üretimi 2006'da başladı. Gövdesi yüksek dayanımlı polimerden, namlu içi krom kaplamadır. Susturucu, refleks veya optik nişangâh takılabilir; seri üretim modellerinde gövde kapağında evrensel nişangâh rayı bulunur.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] 9 mm susturucu\n \n</text>
+  </string>
+  <string id="st_wpn_ppsh41">
+    <text>PPŞ-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_camo">
+    <text>Kamuflajlı PPŞ-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_descr">
+    <text>Sovyet tasarımcı Georgiy Şpagin tarafından geliştirilen bu hafif makineli tüfek 1941'de hizmete girdi. Büyük Vatanseverlik Savaşı'nda ve savaş sonrası birçok çatışmada yaygın biçimde kullanıldı. SSCB 1951'de silahı hizmetten çıkarıp Kalaşnikov tüfeğiyle değiştirdi; ancak dünyanın dört yanındaki ordular ve silahlı gruplar Kore ve Vietnam savaşlarında, iki Afganistan savaşında ve Irak Savaşı'nda kullanmayı sürdürdü.\n \n</text>
+  </string>
+  <string id="st_wpn_ppsh41_new">
+    <text>Modifiye PPŞ-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_old">
+    <text>Eski PPŞ-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_rusty">
+    <text>Paslı PPŞ-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_worn">
+    <text>Yıpranmış PPŞ-41</text>
+  </string>
+  <string id="st_wpn_protecta">
+    <text>Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_aim">
+    <text>Modifiye Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_aim_descr">
+    <text>Paramiliter birliklere yüksek ateş gücü sağlamak üzere tasarlanmış, revolver mekanizmalı yivsiz bir savaş tüfeğidir. Günümüzde Rus Saiga-12 ve Amerikan AA-12 karşısında eskimiş olsa da Protecta 1980'lerde devrim niteliğindeydi. Başlıca üstünlükleri yüksek kapasite ve etkili atış hızıdır; bunun karşılığında iri ve ağırdır, yavaş doldurulur. Bölgede nadir görülür ve çoğunlukla kapalı alanları mutantlardan temizlemek için kullanılır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Aimpoint refleks nişangâhı (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_camo">
+    <text>Kamuflajlı Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_custom">
+    <text>Modifiye Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_descr">
+    <text>Paramiliter birliklere yüksek ateş gücü sağlamak üzere tasarlanmış, revolver mekanizmalı yivsiz bir savaş tüfeğidir. Günümüzde Rus Saiga-12 ve Amerikan AA-12 karşısında eskimiş olsa da Protecta 1980'lerde devrim niteliğindeydi. Başlıca üstünlükleri yüksek kapasite ve etkili atış hızıdır; bunun karşılığında iri ve ağırdır, yavaş doldurulur. Bölgede nadir görülür ve çoğunlukla kapalı alanları mutantlardan temizlemek için kullanılır.\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_nimble">
+    <text>Özel Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_nimble_descr">
+    <text>Paramiliter birliklere yüksek ateş gücü sağlamak üzere tasarlanmış, revolver mekanizmalı yivsiz bir savaş tüfeğidir. Günümüzde Rus Saiga-12 ve Amerikan AA-12 karşısında eskimiş olsa da Protecta 1980'lerde devrim niteliğindeydi. Başlıca üstünlükleri yüksek kapasite ve etkili atış hızıdır; bunun karşılığında iri ve ağırdır, yavaş doldurulur. Bölgede nadir görülür ve çoğunlukla kapalı alanları mutantlardan temizlemek için kullanılır. Bu modifiye örneğin, hakkında pek az şey bilinen «Tank» kod adlı bir Duty üyesine ait olduğu söylenir.\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_rusty">
+    <text>Paslı Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_worn">
+    <text>Yıpranmış Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_remington700">
+    <text>Remington 700</text>
+  </string>
+  <string id="st_wpn_remington700_descr">
+    <text>Model 700 tüfekleri, Remington tarafından 1962’den beri ABD’de üretilmektedir. Bu, ABD’de en yaygın kullanılan sürgülü keskin nişancı ve av tüfeklerinden biri olabilir. Remington Arms’ın amiral gemisi ürünüdür. Farklı fişekler için çok sayıda modeli vardır, ancak standart fişeği 7,62×51 mm NATO’dur. Şarjör kapasitesi kalibreye bağlıdır ve 3 ila 5 fişek arasında değişebilir. \nModel 700’ün tasarımı, birçok özel keskin nişancı tüfeğinin temeli olmuş ve olmaya devam etmektedir. ABD Deniz Piyadeleri, yüksek hassasiyetli bir keskin nişancı silahının temeli olarak Model 700’ü seçen ilk birlikler arasındaydı. \nVietnam’da ve 1970’lerin sonuna kadar kullanılan M40 tüfekleri Model 700BDL tasarımına dayanıyordu. ABD Deniz Piyadelerinin günümüzdeki M40A1 tüfekleri hâlâ aynı model temel alınarak üretilmektedir. ABD Kara Kuvvetleri, kendinden doldurmalı yarı otomatik keskin nişancı tüfeklerinden elle kurulan sürgülü tüfeklere geçmeye karar verdiğinde, M24 tüfeğinin temeli olarak yine Model 700’ü seçti.\n\n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] KZRP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_remington870">
+    <text>Remington 870</text>
+  </string>
+  <string id="st_wpn_remington870_descr">
+    <text>Remington 870, namlu altına yerleştirilmiş boru tipi şarjörü olan pompalı, yivsiz bir tüfektir. En yaygın sürümü 12 kalibredir; başka kalibre seçenekleri de vardır. Güvenlik güçlerinde ve avcılıkta kullanılır. 1970'lerde yedi fişeklik şarjörlü, süngülü ve kullanıcıyı yanıklardan koruyan kaplamalı askerî sürümü çıktı. Dış metal parçalar parlamayı ve korozyonu önleyen mat kaplamayla korunur.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech dürbünleri\n \n</text>
+  </string>
+  <string id="st_wpn_rg6">
+    <text>RG-6</text>
+  </string>
+  <string id="st_wpn_rg6_descr">
+    <text>Revolver tipi bomba atar, şehir çatışmalarında piyadenin ateş gücünü artırır. Çeçenistan savaşı gibi bazı yerel çatışmalarda kullanılmıştır. Önden doldurulan tamburu, namlu altı bomba atarlardakilere benzer yivli namlulardan oluşan altı yatağa sahiptir. Örtü arkasındaki düşmanlara ve alan hedeflerine karşı tasarlanmıştır; iyi korunan mevzilere saldırırken veya dayanıklı yaratıklarla savaşırken de yararlıdır.\n \n</text>
+  </string>
+  <string id="st_wpn_rp">
+    <text>PKM</text>
+  </string>
+  <string id="st_wpn_rp_descr">
+    <text>1970'lerin ortasında, birliklerdeki 7,62×39 mm fişek kullanan RPK'nın yerini almak ve düşük darbeli 5,45×39 mm fişeğe geçiş için geliştirilen hafif makineli tüfektir. AK-74 temel alınmıştır ve daha yüksek kapasiteli şarjör kullanır.\n \n</text>
+  </string>
+  <string id="st_wpn_rpd">
+    <text>RPD</text>
+  </string>
+  <string id="st_wpn_rpd_descr">
+    <text>7,62 mm Degtyaryov hafif makineli tüfeği (RPD), 1944'te 7,62×39 mm fişek için geliştirilen Sovyet yapımı bir silahtır. 1943 model fişek için hizmete alınan ilk silahlardan biridir. 1950'lerin başından 1960'ların ortasına kadar takım seviyesinin başlıca destek silahıydı; daha sonra ortak parça kullanımı daha uygun olan RPK ile değiştirildi. RPD'ler hâlâ ordu yedek depolarında bulunur. Diğer birçok Sovyet silahı gibi müttefik ülkelere geniş ölçekte ihraç edilmiş ve Çin'de Type 56 adıyla da üretilmiştir. DC Arms gibi ABD firmaları teleskopik dipçik, Picatinny el kundağı, ergonomik çift ayak ve polimer kabzalı modern sürümler üretir.\n \n</text>
+  </string>
+  <string id="st_wpn_rpg7">
+    <text>RPG-7</text>
+  </string>
+  <string id="st_wpn_rpg7_descr">
+    <text>RPG-7'nin sadeliği, dayanıklılığı, düşük maliyeti ve etkinliği onu dünyanın en popüler geri tepmesiz tanksavar silahı hâline getirmiştir. Günümüzde dokuz ülkede çeşitli sürümleri üretilir ve 40'tan fazla ülkede hizmettedir.\n \n</text>
+  </string>
+  <string id="st_wpn_rpk">
+    <text>RPK</text>
+  </string>
+  <string id="st_wpn_rpk74">
+    <text>RPK-74</text>
+  </string>
+  <string id="st_wpn_rpk74_descr">
+    <text>1970'lerin ortasında, düşük darbeli 5,45×39 mm fişeğe geçiş sırasında 7,62×39 mm RPK'nın yerini almak üzere geliştirilen hafif makineli tüfektir. AK-74 temel alınmış, daha yüksek kapasiteli şarjör eklenmiştir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] TGP-A susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_rpk74_worn">
+    <text>Yıpranmış RPK-74</text>
+  </string>
+  <string id="st_wpn_rpk_descr">
+    <text>7,62 mm Kalaşnikov hafif makineli tüfeği (RPK), AKM temel alınarak geliştirilen ve 1961'de Sovyet ordusunda hizmete giren bir silahtır. Diğer piyade silahlarıyla parça ortaklığı daha yüksek olduğundan Degtyaryov hafif makineli tüfeğinin yerini aldı. 20'den fazla ülkenin ordusunda kullanılır; bazı ülkeler türevlerini veya kopyalarını üretir. Örneğin Yugoslavya, 7,62×39 mm fişek kullanan, namlunun bir bölümünde soğutma kanatları bulunan 72B1 «Kalaşnikov sistemi»ni ve metal dipçikli 72AB1'i üretti.\n \n</text>
+  </string>
+  <string id="st_wpn_rpk_worn">
+    <text>Yıpranmış RPK</text>
+  </string>
+  <string id="st_wpn_saiga12s">
+    <text>Saiga-12S</text>
+  </string>
+  <string id="st_wpn_saiga12s_descr">
+    <text>Saiga-12S; katlanır polimer dipçik, AK tarzı ateş kontrol kabzası ve av tipi el kundağı olan bir tüfek çeşididir. Namlu uzunluğu 580 veya 680 mm'dir. Arpacık ve gez ya da özel siparişle ayarlanabilir nişangâh rayı gaz borusunun üstünde yer alır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_saiga12s_worn">
+    <text>Yıpranmış Saiga-12S</text>
+  </string>
+  <string id="st_wpn_scar">
+    <text>FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_custom">
+    <text>Kamuflajlı FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_descr">
+    <text>FN SCAR (Özel Harekât Kuvvetleri Muharebe Taarruz Tüfeği), Belçikalı FN Herstal'ın ABD birimi tarafından US SOCOM için yeni tüfek geliştirme yarışmasına katılmak üzere tasarlanan bir silah sistemidir. Aralık 2004'te yarışmayı kazandı ve tüfekler ABD Ranger birliklerinde hizmete girmeye başladı. Aile SCAR-H ve SCAR-L modellerinden oluşur. SCAR-H (Heavy), NATO 7,62×51 mm mühimmat kullanır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] NATO susturucusu
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] M203 namlu altı bomba atar\n \n</text>
+  </string>
+  <string id="st_wpn_scar_new">
+    <text>Yeni FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_worn">
+    <text>Yıpranmış FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_sig220">
+    <text>SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_custom">
+    <text>Özel SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_descr">
+    <text>İsviçre ordusu için geliştirilen SIG P220, bütün bir tabanca ailesinin temelini oluşturdu. Bu tabancalar dayanıklılık ve işlevsellikten ödün vermeden en yüksek üretim kalitesiyle tanınır. SIG P220; Japonya, Avusturya, Fransa, İsviçre ve başka ülkelerin orduları ve polis teşkilatlarınca kullanıma alındı.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_nimble">
+    <text>SIG P220 «Dağcı»</text>
+  </string>
+  <string id="st_wpn_sig220_nimble_descr">
+    <text>Bilinmeyen bir özel birliğin siparişi üzerine az sayıda üretilmiş benzersiz bir SIG P220 modeli. Bu modifikasyonda özel dayanımlı çelik namlu ve polimer namlu kılıfı bulunur.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_rusty">
+    <text>Paslı SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_rusty_descr">
+    <text>İsviçre ordusu için geliştirilen SIG P220, bütün bir tabanca ailesinin temelini oluşturdu. Bu tabancalar dayanıklılık ve işlevsellikten ödün vermeden en yüksek üretim kalitesiyle tanınır. SIG P220; Japonya, Avusturya, Fransa, İsviçre ve başka ülkelerin orduları ve polis teşkilatlarınca kullanıma alındı.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_red] • %c[d_red] susturucu takılamaz\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_worn">
+    <text>Yıpranmış SIG P220</text>
+  </string>
+  <string id="st_wpn_sig550">
+    <text>SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_camo">
+    <text>Kamuflajlı SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_custom">
+    <text>Özel SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_descr">
+    <text>Nispeten yeni bir piyade tüfeği ailesinin üyesidir. Yüksek güvenilirliği, isabeti ve kullanım kolaylığıyla sınıfının en iyi silahlarından biridir. Polimer el kundağının altında hafif alüminyum çift ayak ve yana katlanan iskelet dipçik bulunur. Bölgede nadir ve pahalıdır; genellikle deneyimli stalkerlar tarafından özel sipariş edilir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] NATO susturucusu
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] M203 namlu altı bomba atar\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_rusty">
+    <text>Paslı SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_rusty_descr">
+    <text>Nispeten yeni bir piyade tüfeği ailesinin üyesidir. Yüksek güvenilirliği, isabeti ve kullanım kolaylığıyla sınıfının en iyi silahlarından biridir. Polimer el kundağının altında hafif alüminyum çift ayak ve yana katlanan iskelet dipçik bulunur. Bölgede nadir ve pahalıdır; genellikle deneyimli stalkerlar tarafından özel sipariş edilir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_red] • %c[d_red] susturucu takılamaz
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] M203 namlu altı bomba atar\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_sniper">
+    <text>SIG SG550-1 Sniper</text>
+  </string>
+  <string id="st_wpn_sig550_sniper_descr">
+    <text>Popüler İsviçre otomatik tüfeğinin keskin nişancı sürümüdür. SG 550-S, her iki silah türünün güçlü yanlarını taşıyan bir keskin nişancı tüfeği ile piyade tüfeği arasındaki dengedir. Bununla birlikte, keskin nişancı tüfeğine göre yetersiz durdurma gücü ve isabet ile tam otomatik atış modunun olmaması gibi eksikleri vardır. Yine de Çernobil Dışlama Bölgesi'nde paralı askerlerin ve usta stalkerların favorilerinden biridir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] NATO susturucusu
+%c[d_purple] • %c[ui_gray_2] Kahles ZF95 nişangâhı (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_strelok">
+    <text>SIG SG550 «Ok»</text>
+  </string>
+  <string id="st_wpn_sig550_strelok_descr">
+    <text>Bu piyade tüfeği yeni olmasa da önceki sahibinin ona özenle baktığı belli. Tüfek tamamen elden geçirilmiş ve parçaları dikkatle birbirine uydurulmuş; bu da durdurma gücünü biraz artırmış. Dipçiğe «C» harfi ve 16 küçük haç özenle oyulmuş.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] NATO susturucusu
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] M203 namlu altı bomba atar\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_worn">
+    <text>Yıpranmış SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig552">
+    <text>SIG SG552 Commando</text>
+  </string>
+  <string id="st_wpn_sig552_descr">
+    <text>Özel polis birimleri için tasarlanan, 226 mm namlulu kompakt SIG SG 550 piyade tüfeği sürümüdür. SG 550'den farklı olarak geri getirme yayı sürgü taşıyıcısının arkasındadır ve gaz pistonu çubuğuna değil doğrudan taşıyıcıya etki eder. Tüfekte değiştirilmiş bir alev gizleyici bulunur ve ek parçalar için Picatinny rayları takılabilir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] NATO susturucusu
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_sig552_worn">
+    <text>Yıpranmış SIG SG552 Commando</text>
+  </string>
+  <string id="st_wpn_sks">
+    <text>SKS-45</text>
+  </string>
+  <string id="st_wpn_sks_descr">
+    <text>Sergey Simonov tarafından tasarlanan ve 1949'da hizmete alınan Sovyet yarı otomatik karabinadır. 1950'lerin başında ön saflarda AK ile değiştirildi; ancak onlarca yıl yedekte kaldı ve hâlâ tören silahı olarak kullanılır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple]• %c[ui_gray_2] PU dürbünü\n \n</text>
+  </string>
+  <string id="st_wpn_sks_modern">
+    <text>Modifiye SKS-45</text>
+  </string>
+  <string id="st_wpn_sks_worn">
+    <text>Yıpranmış SKS-45</text>
+  </string>
+  <string id="st_wpn_spas12">
+    <text>SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_custom">
+    <text>Özel SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_descr">
+    <text>Atış modları seçilebilen, özel amaçlı yivsiz otomatik bir av tüfeğidir. 20. yüzyılın ikinci yarısında geliştirilmiş olsa da polis ve ordu taarruz birlikleri için çok yönlü bir savaş silahı olarak kullanılmaya devam eder. Güvenilir ve taktik açıdan esnektir. Ağır, karmaşık ve pahalı olmasına rağmen mutantlara karşı etkili olduğu için Bölgede popülerdir.\n \n</text>
+  </string>
+  <string id="st_wpn_spas12_nimble">
+    <text>Modifiye SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_nimble_descr">
+    <text>Atış modları seçilebilen, özel amaçlı yivsiz otomatik bir av tüfeğidir. 20. yüzyılın ikinci yarısında geliştirildi ve polis ile ordu taarruz birlikleri için çok yönlü bir silah olarak kullanılmayı sürdürdü. Güvenilir ve taktik açıdan esnek olan bu model, ağırlığına, karmaşıklığına ve fiyatına rağmen Bölgede popülerdir. Bu örnekte mekanizmalar hafifçe modernize edilmiş, parçalar özenle uydurularak durdurma gücü belirgin biçimde artırılmıştır. Ancak daha dar toleranslar namlu ömrünü kısaltır. Daha önce Ant'a aitti.\n \n</text>
+  </string>
+  <string id="st_wpn_spas12_rusty">
+    <text>Paslı SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_worn">
+    <text>Yıpranmış SPAS-12</text>
+  </string>
+  <string id="st_wpn_sr25">
+    <text>SR-25</text>
+  </string>
+  <string id="st_wpn_sr25_descr">
+    <text>SR-25, Eugene Stoner tarafından 1990'larda AR-15 temel alınarak tasarlanan yarı otomatik bir keskin nişancı tüfeğidir. Parçalarının %60'tan fazlası AR-15 ile değiştirilebilir. Gazlı çalışır; alüminyum alaşımlı gövdesi çapraz pimlerle birleştirilmiş iki parçadan oluşur. Tetik mekanizması yalnızca yarı otomatik atış sağlar. Yüksek isabeti ABD'de sivil atıcılar ve polis keskin nişancıları arasında popüler olmasını sağlamıştır. 1990'larda optik nişangâh ve hızlı sökülen susturucuya sahip sürümü, ABD Deniz Kuvvetleri Özel Harekât Kuvvetlerince Mark 11 Model 0 adıyla hizmete alındı.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] SR-25 özel susturucusu
+%c[d_purple] • %c[ui_gray_2] Leupold Mark 4 nişangâhı (entegre)
+%c[d_purple] • %c[ui_gray_2] M203 namlu altı bomba atar\n \n</text>
+  </string>
+  <string id="st_wpn_sv98">
+    <text>SV-98</text>
+  </string>
+  <string id="st_wpn_sv98_custom">
+    <text>Özel SV-98</text>
+  </string>
+  <string id="st_wpn_sv98_descr">
+    <text>SV-98, Vladimir Stronsky başkanlığındaki tasarım ekibince 1998–2000 arasında geliştirilen ve Izhmash tarafından seri üretilen Rus yapımı sürgülü bir keskin nişancı tüfeğidir. Açıkta, hareket hâlinde veya gizlenmiş düşman personelini, zırhlı ya da zırhsız, 1.000 m'ye kadar etkisiz hâle getirmek üzere tasarlanmıştır. Rusya İçişleri Bakanlığı birimlerince kullanılır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] PKS-07 nişangâhı (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_sv98_worn">
+    <text>Yıpranmış SV-98</text>
+  </string>
+  <string id="st_wpn_svd">
+    <text>SVD</text>
+  </string>
+  <string id="st_wpn_svd_custom">
+    <text>Modifiye SVD</text>
+  </string>
+  <string id="st_wpn_svd_descr">
+    <text>SVD başlangıçta her Sovyet piyade mangasında bir nişancı bulunması için tasarlandı; ayrı bir uzman keskin nişancı tugayının silahı değildi. Keskin nişancı tüfeğine göre hafif, dengeli ve yarı otomatik olan SVD iyi, ancak olağanüstü olmayan bir isabet sunar. Etkili menzili 800 metreye kadardır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] KZRZP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_svd_nimble">
+    <text>SVD «Vaşak»</text>
+  </string>
+  <string id="st_wpn_svd_nimble_descr">
+    <text>SVD keskin nişancı tüfeğinin özel üretim bir sürümüdür. Dış görünüşü standart modelden çok farklı değildir, ancak kullanımda isabet ve durdurma gücü arasında çok daha etkileyici bir denge sunar.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] 1P59 «Giperon» nişangâhı (entegre)
+%c[d_purple] • %c[ui_gray_2] KZRZP susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_svd_rusty">
+    <text>Paslı SVD</text>
+  </string>
+  <string id="st_wpn_svd_rusty_descr">
+    <text>SVD, her Sovyet piyade mangasına bir nişancı sağlamak üzere tasarlandı; ayrı bir uzman birliğinin silahı değildi. Keskin nişancı tüfeğine göre hafif ve dengelidir, yarı otomatik çalışır. İsabeti iyi ancak olağanüstü değildir; etkili menzili 800 m'ye kadardır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları
+%c[d_red] • %c[d_red] susturucu takılamaz\n \n</text>
+  </string>
+  <string id="st_wpn_svd_worn">
+    <text>Yıpranmış SVD</text>
+  </string>
+  <string id="st_wpn_svt40">
+    <text>SVT-40</text>
+  </string>
+  <string id="st_wpn_svt40_descr">
+    <text>7,62 mm Tokarev 1940 modeli yarı otomatik tüfek, 1940'ta Kızıl Ordu'da hizmete girerek 1891/30 model 7,62 mm keskin nişancı tüfeğinin yerini aldı. Kısa stroklu gaz pistonu kullanır ve sürgü dikey düzlemde eğilerek kilitlenir. Dipçiği parçalıdır, tetik mekanizması horozludur ve emniyet mandalı tetiği kilitler. Keskin nişancı SVT-40'lar çoğunlukla atıcının görüş alanında kısa süre görünen uzak hedeflere karşı kullanıldı.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple]• %c[ui_gray_2] özel PU dürbünü\n \n</text>
+  </string>
+  <string id="st_wpn_svt40_modern">
+    <text>Modifiye SVT-40</text>
+  </string>
+  <string id="st_wpn_svt40_rusty">
+    <text>Paslı SVT-40</text>
+  </string>
+  <string id="st_wpn_svt40_worn">
+    <text>Yıpranmış SVT-40</text>
+  </string>
+  <string id="st_wpn_svu">
+    <text>OTs-03 SVU</text>
+  </string>
+  <string id="st_wpn_svu_alt">
+    <text>OTs-03 SVU (alternatif)</text>
+  </string>
+  <string id="st_wpn_svu_descr">
+    <text>OTs-03 SVU, başlangıçta Sovyet Hava İndirme Kuvvetleri için geliştirilen ancak üretime geçmeyen SVD keskin nişancı tüfeğinin modernize edilmiş sürümüdür. 1990'ların başında Rusya İçişleri Bakanlığı tarafından hizmete alındı. Kompakt bullpup düzenindeki silahın güçlü namlu freni geri tepmeyi ve atış sesini azaltır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_svu_nimble">
+    <text>OTs-03 SVU-A</text>
+  </string>
+  <string id="st_wpn_svu_nimble_descr">
+    <text>Kısaltılmış ve daha yüksek atış hızlı bu keskin nişancı tüfeği, SVU/SVD ailesinin en kompakt modelidir. Özgün özelliği, Rusya İçişleri Bakanlığının isteğiyle eklenen tam otomatik atış modudur. Yakın çatışma için tasarlanmamış olsa da keskin nişancı fark edildiğinde bu mod işe yarar. Küçük boyut isabeti ve mermi hızını düşürür. Otomatik atışın güçlü geri tepmesini dengelemek için SVU-A'da etkili namlu freni görevi de gören bütünleşik susturucu/alev gizleyici bulunur. Bu tüfek daha önce Özgürlük fraksiyonunun efsanevi koruyucusu Max'e aitti.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları\n \n</text>
+  </string>
+  <string id="st_wpn_svu_worn">
+    <text>Yıpranmış OTs-03 SVU</text>
+  </string>
+  <string id="st_wpn_toz194">
+    <text>TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_descr">
+    <text>TOZ-194, 1990'ların ortasında TOZ-94 tasarımı temel alınarak geliştirilen ve Tula Silah Fabrikası'nda üretilen Rus yapımı pompalı bir tüfektir. Hareketli el kundağıyla elle doldurulur; boru tipi şarjör namlunun altındadır. El kundağı ve tabanca kabzası polimerdir, dipçiği yoktur. Sabit, açık nişangâha sahiptir. TOZ-94'e göre daha çok yönlü, daha yüksek kapasiteli, daha küçük ve hafiftir.\n \n</text>
+  </string>
+  <string id="st_wpn_toz194_rusty">
+    <text>Paslı TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_worn">
+    <text>Yıpranmış TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz34">
+    <text>TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_bull">
+    <text>TOZ-34 «Bull»</text>
+  </string>
+  <string id="st_wpn_toz34_bull_descr">
+    <text>«Bull» fişekleri kullanan TOZ-34 tüfeğinin el yapımı bir modifikasyonudur. Artık tankı bile durdurabilir. Süslenmiş TOZ-34'e benzer, ancak yakından bakınca benzersiz bir metalden yapılmış namlusu ve karbon fiber dipçiği görülür. Bu harikayı yapan ustanın kim olduğu hâlâ gizemini korur…\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_custom">
+    <text>Özel TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_decor">
+    <text>Süslemeli TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_descr">
+    <text>TOZ Silah Fabrikası'nın yetenekli tasarımcıları N.I. Korovyakov ve V.P. Ochevnev tarafından 1965'te geliştirilen TOZ-34, üst üste namlulu bir av tüfeğidir. Uygun fiyatı, yüksek durdurma gücü ve iki namluyu aynı anda ateşleyebilmesi sayesinde Bölge'nin dış kesimlerindeki acemiler arasında hızla popüler oldu. Yüksek gücü mutantlara karşı özellikle etkilidir.\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_mark4">
+    <text>TOZ-34 «Bizon»</text>
+  </string>
+  <string id="st_wpn_toz34_mark4_descr">
+    <text>«Bizon» çifte av tüfeği, Tula Silah Fabrikası tasarımcıları N.I. Korovyakov ve V.P. Ochevnev tarafından 1965'te geliştirildi. Uygun fiyatı, yüksek durdurma gücü ve iki namluyu aynı anda ateşleyebilmesi sayesinde Bölge'nin kıyısındaki acemiler arasında hızla popüler oldu. İsabeti ve gücü mutantlara karşı özellikle etkilidir. Bu model değişken büyütmeli Leupold Mark 4 optik nişangâhla donatılmıştır ve daha yüksek isabet ile öldürücülük sunar.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Leupold Mark 4 nişangâhı (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_obrez">
+    <text>Kesilmiş TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_custom">
+    <text>Özel kesilmiş TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_decor">
+    <text>Süslemeli kesilmiş TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_descr">
+    <text>Daha iyi manevra kabiliyeti için namluları kısaltılmış TOZ-34. Üst üste namlulu av tüfeği, Tula Silah Fabrikası tasarımcıları N.I. Korovyakov ve V.P. Ochevnev tarafından 1965'te geliştirildi. Uygun fiyatı, yüksek durdurma gücü ve iki namluyu aynı anda ateşleyebilmesi sayesinde Bölge'nin kıyısındaki acemiler arasında hızla popüler oldu. Mutantlara karşı özellikle etkilidir.\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_rusty">
+    <text>Paslı kesilmiş TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_worn">
+    <text>Yıpranmış kesilmiş TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_rusty">
+    <text>Paslı TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_worn">
+    <text>Yıpranmış TOZ-34</text>
+  </string>
+  <string id="st_wpn_trg_descr">
+    <text>Finlandiyalı silah üreticisi SAKO tarafından üretilen keskin nişancı tüfeğidir. TRG-42 mevcut bir tüfeğin geliştirilmiş sürümü değil, tamamen yeni bir tasarımdır. Sürekli yüksek isabeti ve güvenilirliği, onu atış yarışmalarında ve keskin nişancı desteği gerektiren askerî operasyonlarda popüler kılmıştır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] FINDOT nişangâhı (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_tt33">
+    <text>TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_modern">
+    <text>Modifiye TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_rusty">
+    <text>Paslı TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_worn">
+    <text>Yıpranmış TT-33</text>
+  </string>
+  <string id="st_wpn_type63">
+    <text>Type 63</text>
+  </string>
+  <string id="st_wpn_type63_descr">
+    <text>Type 63, SKS temel alınarak Type 56 yarı otomatik karabinanın yerini alması için geliştirilen Çin yapımı bir otomatik tüfektir. Kilitleme mekanizması, lisanslı AK sürümü olan Type 56'dan alınmıştır. İlk modellerin gövdesi frezelenmiş, sonraki modellerinki preslenmiştir. SKS'nin sabit şarjörü yerine 20 veya 30 fişeklik çıkarılabilir şarjörler kullanır; şarjör silah üzerindeyken klipslerle doldurulabilme özelliği korunmuştur. Tam otomatik atış özelliği de eklenmiştir. Düşük etkinliği nedeniyle Çin Halk Kurtuluş Ordusu 1978'de hizmetten çıkardı.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] PU dürbünü\n \n</text>
+  </string>
+  <string id="st_wpn_umirotvoritel">
+    <text>Bilinmeyen silah</text>
+  </string>
+  <string id="st_wpn_umirotvoritel_descr">
+    <text>Tanımlanamayan bir silah prototipi. Açıkça arızalı; tetiğe basınca hiçbir şey olmuyor. Numune ağır ve kesinlikle yüksek teknolojili. Görünüşe göre ateşli silah değil, büyük olasılıkla elektromanyetik alanlarla çalışıyor. Yıkıcı potansiyelini ancak tahmin edebiliriz.\n \n</text>
+  </string>
+  <string id="st_wpn_ump45">
+    <text>UMP-45</text>
+  </string>
+  <string id="st_wpn_ump45_custom">
+    <text>Özel UMP-45</text>
+  </string>
+  <string id="st_wpn_ump45_descr">
+    <text>UMP (Universal Machinen Pistole) hafif makineli tüfeği, pahalı MP5'e daha ucuz ve biraz daha modern bir alternatif olarak geliştirildi. 1996'da tanıtıldı. .45 ACP mühimmatı daha yüksek durdurma gücü sağlarken geri tepmeyi de artırır; bu nedenle tam otomatik ateşi daha iyi kontrol etmek için atış hızı MP5'e göre önemli ölçüde düşürülmüştür.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech nişangâhları
+%c[d_purple] • %c[ui_gray_2] GemTech susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_ump45_worn">
+    <text>Yıpranmış UMP-45</text>
+  </string>
+  <string id="st_wpn_usas12">
+    <text>USAS-12</text>
+  </string>
+  <string id="st_wpn_usas12_descr">
+    <text>USAS-12, Atchisson Assault Shotgun'ın tasarımcısı Maxwell Atchisson'ın fikirlerinden yararlanılarak John Trevor tarafından 1980'lerin sonunda geliştirilen tam otomatik bir av tüfeğidir. Döner sürgülü gazlı sistem kullanır. AAS/AA-12'de olduğu gibi içi boş polimer dipçik, sürgü grubunun geriye doğru dipçiğin içine hareket etmesini sağlayarak atış hızını ve geri tepmeyi azaltır. Çift elle kullanım için kovan penceresi ve kurma kolu yuvaları gövdenin iki yanında bulunur. Üç konumlu atış seçici M16'dakine benzer. Taşıma kolu gövdeye entegredir.\n \n</text>
+  </string>
+  <string id="st_wpn_usp">
+    <text>USP45</text>
+  </string>
+  <string id="st_wpn_usp_alt">
+    <text>USP45 (alternatif)</text>
+  </string>
+  <string id="st_wpn_usp_custom">
+    <text>Özel USP45</text>
+  </string>
+  <string id="st_wpn_usp_descr">
+    <text>Heckler &amp; Koch USP, Alman Heckler &amp; Koch şirketince geliştirilen ve ilk kez 1993'te tanıtılan yarı otomatik bir tabancadır. Polis ve ordu kullanımı için tasarlanmıştır. Yüksek dayanıklılığı, güvenilirliği ve iyi isabetiyle tanınır. Kompakt sürümde bile büyük olması, ağırlık merkezinin nispeten yüksekliği ve gizli taşımayı zorlaştıran iri sürgüsü dezavantajlarıdır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] .45 ACP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_match">
+    <text>USP Match</text>
+  </string>
+  <string id="st_wpn_usp_match_descr">
+    <text>USP Match, tabancanın yalnızca spor amaçlı bir sürümüdür. Uzun namlusuna ek olarak namlu şahlanmasını azaltmak için namluya yakın özel bir ağırlığı vardır. Namlu poligonal yivlidir ve tetik çekiş ağırlığı ayarlanabilir. 1999'da üretimden kaldırılıp USP Elite ile değiştirildi. Mevcut bilgilere göre bir zamanlar Wolfhound lakaplı bir paralı askere aitti.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] GemTech susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_nimble">
+    <text>USP «Bataklık»</text>
+  </string>
+  <string id="st_wpn_usp_nimble_descr">
+    <text>Kısa geri tepmeli namluya ve hafifletilmiş sürgüye sahip kompakt, büyük kalibreli bir tabancadır. Mevcut bilgilere göre bir zamanlar Wolfhound lakaplı bir paralı askere aitti. USP Compact'ın modifiye edilmiş bir sürümü olduğu düşünülür.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] GemTech susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_worn">
+    <text>Yıpranmış USP45</text>
+  </string>
+  <string id="st_wpn_val">
+    <text>AS Val</text>
+  </string>
+  <string id="st_wpn_val_descr">
+    <text>AS Val özel amaçlı tüfek, Sovyet ordusu ve İçişleri Bakanlığı özel birlikleri için sessiz VSS Vintorez keskin nişancı tüfeğinden geliştirildi. Temel görevi, atıcının konumunu açığa çıkarmadan modern kişisel koruma donanımı kullanan düşmanları etkisiz hâle getirmektir. Entegre susturucu ve ağır, ses altı 9×39 mm mermi atış sesini ve namlu alevini en aza indirir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M2-1 nişangâhları
+%c[d_purple] • %c[ui_gray_2] VSS susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_val_modern">
+    <text>Modifiye AS Val</text>
+  </string>
+  <string id="st_wpn_val_modern_descr">
+    <text>AS Val, Sovyet özel birlikleri için sessiz VSS Vintorez'den geliştirildi. Atıcının konumunu açığa çıkarmadan modern koruma donanımlı düşmanları etkisiz hâle getirmek üzere tasarlanmıştır. Entegre susturucu ve ağır, ses altı 9×39 mm mermi atış sesini ve namlu alevini en aza indirir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] VSS susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_val_worn">
+    <text>Yıpranmış AS Val</text>
+  </string>
+  <string id="st_wpn_vepr12">
+    <text>Vepr-12 «Molot»</text>
+  </string>
+  <string id="st_wpn_vepr12_descr">
+    <text>Vepr-12 Molot, Kalaşnikov hafif makineli tüfeği temel alınarak geliştirilen Rus yapımı yarı otomatik yivsiz bir karabindir. Avcılık, spor atıcılığı—genellikle açık sınıfta pratik atış—, öz savunma ve hizmet kullanımı için tasarlanmıştır. Saiga-12 serisinin doğrudan rakibidir. RPK'nın genel düzenini ve döner sürgülü gazlı sistemini devralır; ancak sürgü grubu ve gövde av fişeklerine göre yeniden tasarlanmış, tetik mekanizmasından otomatik kesici çıkarılmıştır.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M nişangâhları
+%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_vihr">
+    <text>SR-3M «Vikhr»</text>
+  </string>
+  <string id="st_wpn_vihr_descr">
+    <text>SR-3 «Vikhr», A.D. Borisov ve V.N. Levchenko tarafından 1994'te Klimovsk'taki TsNIITochMash'ta geliştirilen kompakt bir Rus piyade tüfeğidir. A.I. Tashlykov tasarımı olgunlaştırdı ve seri üretim 1996'da başladı. Sessiz AS Val temel alınmış, ana parçaları ortaklaştırılarak üretim ve bakım kolaylaştırılmıştır. AS Val gibi gazlı çalışır ve altı kilit tırnağıyla kilitlenir. Sonraki SR-3M susturucu, 30 fişeklik metal şarjörler, optik ve gece nişangâhları kullanabilir; ayrıca AS Val'den alınan sola katlanır iskelet dipçik, SVD tipi emniyet mandalı ve yeni el kundağına sahiptir.
+ 
+%c[ui_gray_2]EK PARÇALAR:
+%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip, PSO-1M ve PSO-1M2-1 nişangâhları
+%c[d_purple] • %c[ui_gray_2] SR-3M susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez">
+    <text>VSS Vintorez</text>
+  </string>
+  <string id="st_wpn_vintorez_1pn93_descr">
+    <text>Val özel taarruz tüfeğiyle aynı dönemde geliştirilen Vintorez özel keskin nişancı tüfeği, düşük sesli atışlar için tasarlanmıştır. Başlıca özel kuvvetler tarafından gizli operasyonlarda kullanılır. Özel ses altı 9x39 SP-5 ve SP-6 mühimmatı kullanır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] 1PN93 Malysh dürbünü (entegre)\n%c[d_purple] • %c[ui_gray_2] VSS susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_alt">
+    <text>VSS Vintorez (alternatif)</text>
+  </string>
+  <string id="st_wpn_vintorez_descr">
+    <text>Val özel taarruz tüfeğiyle aynı dönemde geliştirilen Vintorez özel keskin nişancı tüfeği, düşük sesli atışlar için tasarlanmıştır. Başlıca özel kuvvetler tarafından gizli operasyonlarda kullanılır. Özel ses altı 9x39 SP-5 ve SP-. mühimmatı kullanır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M2-1 dürbünleri\n%c[d_purple] • %c[ui_gray_2] VSS susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble">
+    <text>VSS Priboy</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble_descr">
+    <text>Ünlü VSS keskin nişancı tüfeğinin özel bir sürümüdür ve kapsamlı biçimde modernize edilmiştir. İç mekanizma geliştirilmiş bir parçayla değiştirilerek namlu çıkış hızı ve isabet artırılmıştır. Böylece etkili menzil yükselmiş, ağır ses altı fişeklerin yörüngesi iyileşmiştir.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] PSO-1 dürbünü (entegre)\n%c[d_purple] • %c[ui_gray_2] VSS susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_worn">
+    <text>Yıpranmış VSS Vintorez</text>
+  </string>
+  <string id="st_wpn_vityaz">
+    <text>PP-19-01 Vityaz</text>
+  </string>
+  <string id="st_wpn_vityaz_descr">
+    <text>2004'te geliştirilen, 9x19 mm fişek kullanan 30 mermilik kavisli şarjörlü bir PP-19 sürümüdür. Devriye hizmetlerinde, trafik polisinde, kurum içi güvenlikte ve Rusya İçişleri Bakanlığı birimlerinde kullanılır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 ve EOTech dürbünleri\n%c[d_purple] • %c[ui_gray_2] PBS-1 susturucusu\n \n</text>
+  </string>
+  <string id="st_wpn_vsk94">
+    <text>VSK-94</text>
+  </string>
+  <string id="st_wpn_vsk94_descr">
+    <text>Sessiz VSK-94 keskin nişancı tüfeği, Tula Alet Tasarım Bürosu'nda kompakt 9A-91 temel alınarak 9 mm VSS Vintorez özel keskin nişancı tüfeğine daha ucuz bir alternatif olarak geliştirildi.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] Cobra EKP-1S-03, USP-1 Tulip ve PSO-1M2-1 dürbünleri\n%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 susturucusu (entegre)\n \n</text>
+  </string>
+  <string id="st_wpn_vsk94_worn">
+    <text>Yıpranmış VSK-94</text>
+  </string>
+  <string id="st_wpn_vssk">
+    <text>VSSK Vykhlop</text>
+  </string>
+  <string id="st_wpn_vssk_descr">
+    <text>Vykhlop (Büyük Kalibreli Özel Keskin Nişancı Tüfeği), susturuculu ve bullpup düzeninde büyük kalibreli bir tüfektir. Hafif zırhlı veya zırhsız araçları ve ağır yelekler dâhil kişisel koruma kullanan personeli 600 metreye kadar sessiz ve alevsiz biçimde etkisiz hâle getirmek için tasarlanmıştır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] PKS-07 dürbünü (entegre)</text>
+  </string>
+  <string id="st_wpn_vz61">
+    <text>Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_alt">
+    <text>Skorpion vz.61 (alternatif)</text>
+  </string>
+  <string id="st_wpn_vz61_camo">
+    <text>Kamuflajlı Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_descr">
+    <text>Başlangıçta .32 ACP için üretilen bu hafif makineli tüfek, 1961'de Çekoslovak Ordusu tarafından vz.61 (Samopal Vzor 1961, 1961 Modeli Hafif Makineli Tüfek) adıyla hizmete alındı. Bu sürüm, Bölge'de 7,65x17 mm mühimmat kıt olduğu için 9 mm'ye uyarlanmıştır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucu (modifikasyon sonrası)\n \n</text>
+  </string>
+  <string id="st_wpn_vz61_freedom">
+    <text>Özgürlük kamuflajlı Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_rusty">
+    <text>Paslı Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_rusty_descr">
+    <text>Başlangıçta .32 ACP için üretilen bu hafif makineli tüfek, 1961'de Çekoslovak Ordusu tarafından vz.61 (Samopal Vzor 1961, 1961 Modeli Hafif Makineli Tüfek) adıyla hizmete alındı. Bölge'de 7,65x17 mm mühimmat kıt olduğu için bu sürüm 9 mm'ye uyarlandı.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_red] • %c[d_red] susturucu takılamaz\n \n</text>
+  </string>
+  <string id="st_wpn_vz61_worn">
+    <text>Yıpranmış Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_wa2000">
+    <text>Walther WA 2000</text>
+  </string>
+  <string id="st_wpn_wa2000_descr">
+    <text>Walther, 1980'lerde tamamen yeni bir keskin nişancı tüfeği geliştirmeye çalışarak bullpup düzenindeki özgün WA 2000'i ortaya çıkardı. Başarılı görünen özelliklerine rağmen yaklaşık 5.000 dolarlık fiyatı nedeniyle hiçbir yerde hizmete alınmadı. 1982'den Kasım 1988'e kadar üretildi; yalnızca 176 adet yapıldığı için bugün koleksiyonluk bir nadir parçadır. Modelin popülerliği üzerine sonraki örnekleri bağımsız silah ustaları üretti.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] KZRP susturucusu (modifikasyondan sonra)\n \n</text>
+  </string>
+  <string id="st_wpn_walther">
+    <text>Walther P99</text>
+  </string>
+  <string id="st_wpn_walther_custom">
+    <text>Özel yapım Walther P99</text>
+  </string>
+  <string id="st_wpn_walther_descr">
+    <text>Sınıfının en iyi ergonomisine sahip Walther P99, kısa namlu geri tepmesiyle çalışır. Tabanca kabzası hafif polimerden yapılmıştır. Kolluk kuvvetleri ve sivil pazar için tasarlanan tabanca, birçok ülkenin polis birimlerince hizmete alınmıştır.\n \n%c[ui_gray_2] EKİPMAN: \n%c[d_purple] • %c[ui_gray_2] 9 mm susturucu\n \n</text>
+  </string>
+  <string id="st_wpn_walther_worn">
+    <text>Yıpranmış Walther P99</text>
+  </string>
+  <string id="st_wpn_xm8">
+    <text>HK XM8</text>
+  </string>
+  <string id="st_wpn_xm8_descr">
+    <text>XM8 ailesi, HK G36 temel alınarak ABD'li savunma şirketi ATK ile Alman Heckler &amp; Koch tarafından ortak geliştirildi. Amaç, M16 ve M4A1'in yerine daha hafif ve güvenilir bir tüfek koymaktı. Hafif kompozit kovanlı yeni fişekler M16'ya göre %20 ağırlık tasarrufu vaat ediyordu. Üretimin yaklaşık 2006'da başlaması planlandı; 2004'teki ABD askerî denemeleri olumlu karşılandı, ancak proje Ekim 2005'te resmen iptal edildi ve 2006'da çalışmalar durdu. Test döneminde bir XM8'in fiyatı 700 dolar olarak tahmin edilmişti.\n \n%c[ui_gray_2]EK AKSESUARLAR: \n%c[d_purple] • %c[ui_gray_2] NATO susturucusu\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech dürbünleri\n \n</text>
+  </string>
+  <string id="wpn_tt33_descr">
+    <text>İkonik Sovyet TT-33, eski 1895 Nagant revolverinin yerini almak üzere 1930'da geliştirilen TT-30 yarı otomatik tabancanın iyileştirilmiş sürümüdür. Rusya'da üretimi 1933-1954 arasında sürse de bazı örnekleri hâlâ hizmettedir ve Üçüncü Dünya ülkelerinde üretilir. Basit tasarımı üretim maliyetini düşürür ve bakımını kolaylaştırır. Tabancaya göre çok güçlü fişeği yüksek deliş gücü ve yaklaşık 500 J namlu enerjisi sağlar.\n \n</text>
+  </string>
+</string_table>

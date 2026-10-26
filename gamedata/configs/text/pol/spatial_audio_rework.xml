@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_sar_editor">
+    <text>Edytor efektów</text>
+  </string>
+  <string id="ui_mcm_menu_sar_main">
+    <text>Główne</text>
+  </string>
+  <string id="ui_mcm_menu_spatial_audio">
+    <text>Przebudowa dźwięku przestrzennego</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_dbug">
+    <text>Ustawienia deweloperskie</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor1">
+    <text>Witamy w edytorze ustawień. Przewiń w dół, aby zobaczyć, jak go używać.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor2">
+    <text>1. Włącz edytor i wczytaj własne ustawienie (lub dowolne inne jako bazę).</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor3">
+    <text>2. Rozpocznij edycję, zmień wartość i wyjdź, aby zobaczyć efekt.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor4">
+    <text>3. Po zakończeniu przewiń w dół, wpisz nazwę własnego ustawienia (możesz nadpisać istniejące) i kliknij Export.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor5">
+    <text>4. Gotowe! Teraz możesz wybrać ustawienie w głównych opcjach MCM.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor6">
+    <text>Dokumentacja wszystkich efektów znajduje się w mod-folder/SAR-DOC/Effect Extension Guide.pdf. Po wyeksportowaniu ustawienia jego plik znajdziesz w mo2/overwrite/gamedata/script/[your_preset_name]_preset_inject.script. Możesz udostępnić ten plik, aby podzielić się ustawieniem.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_npc">
+    <text>Ustawienia NPC</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_preset">
+    <text>Ustawienia — opcje związane z pogłosem. Domyślne ustawienia znajdziesz w script/sar_reverb_preset.script, a własne utworzysz na karcie Preset Editor.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_ray">
+    <text>Ustawienia promieni</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_threshold">
+    <text>Ustawienia progu — czułość wykrywania</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_air_absorption_gain_hf">
+    <text>Wzmocnienie pochłaniania wysokich częstotliwości przez powietrze</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_limit">
+    <text>Limit zaniku wysokich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_ratio">
+    <text>Współczynnik zaniku wysokich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_lf_ratio">
+    <text>Współczynnik zaniku niskich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_time">
+    <text>Czas zaniku</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_density">
+    <text>Gęstość</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_diffusion">
+    <text>Dyfuzja</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_depth">
+    <text>Głębokość echa</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_time">
+    <text>Czas echa</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_edit">
+    <text>Włącz tryb edycji</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_enable_editor">
+    <text>Włącz</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_export">
+    <text>Eksportuj</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain">
+    <text>Wzmocnienie</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_hf">
+    <text>Wzmocnienie wysokich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_lf">
+    <text>Wzmocnienie niskich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_hf_reference">
+    <text>Odniesienie wysokich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_delay">
+    <text>Opóźnienie późnego pogłosu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_gain">
+    <text>Wzmocnienie późnego pogłosu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_lf_reference">
+    <text>Odniesienie niskich częstotliwości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb">
+    <text>Wczytaj</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb_name">
+    <text>Wczytaj nazwę pogłosu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_depth">
+    <text>Głębokość modulacji</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_time">
+    <text>Czas modulacji</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_delay">
+    <text>Opóźnienie odbić</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_gain">
+    <text>Wzmocnienie odbić</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reverb_name">
+    <text>Eksportuj jako nazwę pogłosu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_room_rolloff_factor">
+    <text>Współczynnik tłumienia pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_dbug">
+    <text>Tryb debugowania</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable">
+    <text>Włącz</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc">
+    <text>Włącz wykrywanie promieni dla NPC</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc_desc">
+    <text>Wykrywanie wnętrza dla każdego NPC odbywa się, gdy strzela i znajduje się dostatecznie blisko gracza (100 jednostek). Jeśli punkt jest wystarczająco wysoko, odtworzy się specjalny dźwięk wnętrza. Wyłącz tę opcję, aby używać wykrywania gracza. Wyłącz ją dla lepszej wydajności. </text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval">
+    <text>Interwał interpolacji</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval_desc">
+    <text>Czas interpolacji między wartościami rozmiaru pomieszczenia. Krótszy czas powoduje gwałtowniejsze skoki wartości i zapobiega nadmiernemu drganiu efektu.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length">
+    <text>Odległość dla ustawienia dużego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length_desc">
+    <text>Jeśli odległość punktów trafienia promienia od gracza jest równa tej wartości lub większa, ustawienie dużego pomieszczenia będzie odtwarzane z pełną mocą.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset">
+    <text>Ustawienie dużego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset_desc">
+    <text>Ustawienie pogłosu dla dużego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength">
+    <text>Siła ustawienia dużego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength_desc">
+    <text>Określa siłę pogłosu: 0 oznacza brak pogłosu, a 1 pełną moc efektu.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_length_interpolation_interval">
+    <text>Interwał interpolacji długości</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold">
+    <text>Dolny próg</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold_desc">
+    <text>Jeśli wynik wnętrza (liczba trafień promienia) przekroczy ten próg, pogłos zacznie wpływać na dźwięk.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length">
+    <text>Odległość dla ustawienia średniego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length_desc">
+    <text>Jeśli odległość punktów trafienia promienia od gracza jest równa tej wartości, ustawienie średniego pomieszczenia będzie odtwarzane z pełną mocą.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset">
+    <text>Ustawienie średniego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset_desc">
+    <text>Ustawienie pogłosu dla średniego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength">
+    <text>Siła ustawienia średniego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength_desc">
+    <text>Określa siłę pogłosu: 0 oznacza brak pogłosu, a 1 pełną moc efektu.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_ray_bounce_count">
+    <text>Liczba odbić promienia NPC</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_tick_interval">
+    <text>Interwał aktualizacji NPC (ms)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset">
+    <text>Ustawienie plenerowe</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset_desc">
+    <text>Ustawienie pogłosu na zewnątrz (zwykle bez pogłosu)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_bounce_count">
+    <text>Liczba odbić promienia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_dbug">
+    <text>Debugowanie promieni</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_length_mult">
+    <text>Długość promienia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_show_replaced_sound">
+    <text>Pokaż zastąpiony dźwięk</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length">
+    <text>Odległość dla ustawienia małego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length_desc">
+    <text>Jeśli odległość punktów trafienia promienia od gracza jest mniejsza od tej wartości, zostanie użyte ustawienie małego pomieszczenia.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset">
+    <text>Ustawienie małego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset_desc">
+    <text>Ustawienie pogłosu dla małego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength">
+    <text>Siła ustawienia małego pomieszczenia</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength_desc">
+    <text>Określa siłę pogłosu: 0 oznacza brak pogłosu, a 1 pełną moc efektu.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_tick_interval">
+    <text>Interwał aktualizacji (ms)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold">
+    <text>Górny próg</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold_desc">
+    <text>Jeśli wynik wnętrza (liczba trafień promienia) przekroczy ten próg, efekt osiągnie pełną moc i zostanie odtworzony specjalny dźwięk wnętrza.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_volume">
+    <text>Głośność</text>
+  </string>
+</string_table>

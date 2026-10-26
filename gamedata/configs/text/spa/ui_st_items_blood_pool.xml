@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_blood_pool_max_pool_size">
+    <text>Tamaño máximo del charco</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates">
+    <text>Número de actualizaciones</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates_desc">
+    <text>Más actualizaciones hacen que el tamaño aumente con mayor suavidad (no cambia el tamaño máximo).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime">
+    <text>Duración del charco (segundos)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime_desc">
+    <text>Tiempo que permanece el charco tras aparecer (pool_lifetime - num_of_updates * update_freq = tiempo hasta que desaparezca por completo).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_title">
+    <text>Charco de sangre</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq">
+    <text>Frecuencia de actualización (segundos)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq_desc">
+    <text>Tiempo entre actualizaciones. Un valor menor hace que el charco alcance antes su tamaño máximo.</text>
+  </string>
+  <string id="ui_mcm_menu_blood_pool">
+    <text>Charco de sangre</text>
+  </string>
+</string_table>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="article_wpo">
+    <text>Entretien des armes</text>
+  </string>
+  <string id="article_wpo_text">
+    <text>
+			%c[pda_green]Questions et réponses%c[ui_gray_1]\n \n
+			\n1. Pourquoi mon arme s’enraye-t-elle alors qu’elle est à 100 % ?\nR. Certaines pièces de l’arme sont probablement endommagées. Vérifiez leur état.\n2. Comment débloquer une arme ?\nR. Appuyez deux fois sur la touche d’utilisation (F par défaut). Vous pouvez aussi faire un clic droit sur l’arme dans l’inventaire et choisir « Débloquer ».\n3. Pourquoi l’état de mon arme baisse-t-il quand je remplace des pièces ?\nR. Vous devez lubrifier l’arme à nouveau. Le remplacement des pièces ne peut pas faire descendre son état sous 60 %. Utilisez un outil multifonction Leatherman pour réduire cette perte, ou un établi pour l’éviter entièrement.\n4. Pourquoi les techniciens ne réparent-ils pas les pièces d’armes ?\nR. Les pièces doivent être réparées séparément. Vous pouvez en acheter auprès des techniciens ou utiliser des kits de réparation d’armes. C’est le principe même de Weapon Part Overhaul. \n \nWeapon Part Overhaul transforme radicalement l’entretien dans Anomaly. Lisez attentivement ce guide pour bien comprendre le système.\n \n
+			
+			%c[pda_green]I. Pièces d’armes et entretien%c[ui_gray_1]\n
+			\n• L’état général de votre arme (la barre habituelle) est désormais plus facile à maintenir. Les techniciens le restaurent pour 60 % moins cher. Tous les objets de réparation d’armes sont bien plus efficaces.\n• Les pièces d’armes nécessitent un entretien. Survolez une pièce avec le curseur pour voir son état.\n   ? La couleur du texte indique l’état général.\n%c[d_red]   ?  Manquant\n%c[d_orange]   ?  Endommagé et ne peut pas être entretenu\n%c[pda_yellow]   ? Sale et peut être nettoyé%c[ui_gray_1]			
+			\n• Vous pouvez retirer les pièces en démontant l’arme. Toutes les pièces sont extraites, sauf le canon.\n• Vous pouvez remplacer les pièces en les faisant glisser. %c[d_red]ATTENTION : CELA RÉDUIT L’ÉTAT DE VOTRE ARME S’IL DÉPASSE 60 %. Emportez un outil multifonction Leatherman pour limiter la perte lors du remplacement des pièces. %c[ui_gray_1] 
+			\n• Vous pouvez aussi remplacer gratuitement des pièces sur un établi avec le kit de réparation requis. %c[pda_yellow]C’est l’une des deux façons de remplacer un canon.\n \n
+			%c[pda_green]II. Dégâts aux pièces et enrayements%c[ui_gray_1]\n
+			\n• Les pièces ont 5 niveaux de dégâts : %c[d_red]cassé%c[ui_gray_1], %c[d_red]endommagé%c[ui_gray_1], %c[d_orange]usé%c[ui_gray_1], %c[0,250,250,0]sale%c[ui_gray_1], %c[d_green]fonctionnel%c[ui_gray_1]
+			\n• Plus une pièce est endommagée, plus elle risque de casser.\n• Il existe trois types de panne : raté de tir, enrayement et fort enrayement.\n• Les ratés de tir et les enrayements se résolvent avec l’action normale de déblocage.\n• Pour résoudre un fort enrayement, retirez d’abord le chargeur de l’arme.\n• Le canon n’augmente pas le risque d’enrayement. Toutefois, la saleté ou un mauvais état peut réduire les dégâts de l’arme jusqu’à 50 %.\n• Tirer avec une arme dont l’état est inférieur à 85 % (réglable dans %c[pda_yellow]MCM : Seuil d’état d’endommagement des pièces%c[ui_gray_1]) peut dégrader l’arme. \n• Tirer sous une forte pluie use l’arme beaucoup plus vite.\n• Les longues rafales font surchauffer l’arme, ce qui provoque des enrayements et accélère son usure.%c[pda_green]III. Changements économiques%c[ui_gray_1]\n
+			\n• Un kit de nettoyage nettoie les pièces d’armes « sales » (état supérieur à 60 %).\n• Un kit de réparation remplace la pièce dont l’état est le pire.%c[pda_yellow]C’est une autre façon de remplacer un canon.%c[ui_gray_1]
+			\n• Les techniciens vendront parfois des pièces d’armes avec une forte majoration.\n• Les pièces dont l’état dépasse 60 % peuvent être réparées avec une lime, une baguette de nettoyage ou un outil multifonction.\n• Les pièces dont l’état dépasse 10 % peuvent être réparées avec des kits très coûteux vendus par les marchands.\n \nPour toute autre question, contactez arti#3278 sur Discord (en anglais, bien sûr). Je suis trop paresseux pour lire les commentaires sur ModDB.</text>
+  </string>
+  <string id="kb_unjam">
+    <text>Débloquer</text>
+  </string>
+  <string id="st_clean_half">
+    <text>efficacité réduite de moitié si l’état est inférieur à </text>
+  </string>
+  <string id="st_damage_0">
+    <text>cassé :</text>
+  </string>
+  <string id="st_damage_1">
+    <text>endommagé :</text>
+  </string>
+  <string id="st_damage_2">
+    <text>usé :</text>
+  </string>
+  <string id="st_damage_3">
+    <text>sale :</text>
+  </string>
+  <string id="st_damage_4">
+    <text>fonctionnel :</text>
+  </string>
+  <string id="st_damage_5">
+    <text>en bon état :</text>
+  </string>
+  <string id="st_damage_missing">
+    <text>manquant :</text>
+  </string>
+  <string id="st_field_strip_fail">
+    <text>Il n’y a plus rien à retirer de cette arme.</text>
+  </string>
+  <string id="st_name_all">
+    <text>tout</text>
+  </string>
+  <string id="st_name_barrel">
+    <text>canon</text>
+  </string>
+  <string id="st_name_bolt">
+    <text>percuteur</text>
+  </string>
+  <string id="st_name_bolt_carrier">
+    <text>porte-culasse</text>
+  </string>
+  <string id="st_name_chock">
+    <text>choke</text>
+  </string>
+  <string id="st_name_ejector">
+    <text>éjecteur</text>
+  </string>
+  <string id="st_name_extractor">
+    <text>extracteur</text>
+  </string>
+  <string id="st_name_gas_tube">
+    <text>bloc de gaz</text>
+  </string>
+  <string id="st_name_hammers">
+    <text>chien</text>
+  </string>
+  <string id="st_name_issues">
+    <text>ÉTAT :</text>
+  </string>
+  <string id="st_name_pump">
+    <text>mécanisme à pompe</text>
+  </string>
+  <string id="st_name_spring">
+    <text>mécanisme de recul</text>
+  </string>
+  <string id="st_name_trigger">
+    <text>mécanisme de détente</text>
+  </string>
+  <string id="st_news_cleaned">
+    <text>Pièces nettoyées :</text>
+  </string>
+  <string id="st_news_fieldstrip">
+    <text>Pièces retirées :</text>
+  </string>
+  <string id="st_news_parts_alreadygood">
+    <text>Cette pièce n’a pas besoin d’être remplacée.</text>
+  </string>
+  <string id="st_news_parts_barrel">
+    <text>%c[d_red]Le canon ne peut pas être remplacé sur le terrain.</text>
+  </string>
+  <string id="st_news_parts_fail">
+    <text>%c[d_red]Une pièce de meilleure qualité est déjà installée sur cette arme.</text>
+  </string>
+  <string id="st_news_parts_incompatible">
+    <text>%c[d_red]Cette pièce est incompatible avec cette arme.</text>
+  </string>
+  <string id="st_news_parts_repair_success">
+    <text>Réparé avec succès : </text>
+  </string>
+  <string id="st_news_parts_rusty">
+    <text>%c[d_red]Cette arme est trop rouillée pour être démontée sur le terrain.</text>
+  </string>
+  <string id="st_news_parts_success">
+    <text>%c[d_green]Pièce remplacée avec succès.</text>
+  </string>
+  <string id="st_news_parts_trigger">
+    <text>%c[d_red]Le mécanisme de détente ne peut pas être remplacé sur le terrain.</text>
+  </string>
+  <string id="st_partskit">
+    <text>Kit de réparation des composants d’armes</text>
+  </string>
+  <string id="st_partskit_descr">
+    <text>Un kit d’outils de haute technologie comprenant des micro-limes, de la résine époxy métallique pour le soudage à froid, un dispositif de bain électrolytique, ainsi que de nombreux lubrifiants, distillats d’essence et autres solvants. Ces outils pourraient transformer un moteur de Lada en moteur de Ferrari, sans parler des autres composants mécaniques. Seule la ferraille la plus détruite ne peut pas être restaurée avec ce kit. Très difficile à assembler dans la Zone, il est vendu en quantités très limitées par les techniciens.\n\n</text>
+  </string>
+  <string id="st_wpn_service_cost">
+    <text>Coût du service :</text>
+  </string>
+  <string id="st_wpn_service_dropdown">
+    <text>Menu d’entretien des pièces</text>
+  </string>
+  <string id="st_wpn_service_hint">
+    <text>Entretien des pièces</text>
+  </string>
+  <string id="st_wpo_repair">
+    <text>restaurer 25 % d’état : </text>
+  </string>
+  <string id="ui_mcm_lst_easy">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_eng">
+    <text>Anglais</text>
+  </string>
+  <string id="ui_mcm_lst_hard">
+    <text>Difficile</text>
+  </string>
+  <string id="ui_mcm_lst_no">
+    <text>Devoir</text>
+  </string>
+  <string id="ui_mcm_lst_ofc">
+    <text>Liberté</text>
+  </string>
+  <string id="ui_mcm_lst_rus">
+    <text>Russe</text>
+  </string>
+  <string id="ui_mcm_lst_vanilla">
+    <text>Classique</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_full">
+    <text>Tout</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_none">
+    <text>Aucun</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_yes">
+    <text>Rôdeurs</text>
+  </string>
+  <string id="ui_mcm_menu_wpo">
+    <text>WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpoecon">
+    <text>Économie WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpojam">
+    <text>Enrayement WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpomisc">
+    <text>Divers WPO</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode">
+    <text>Mode enfant (sans enrayement)</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode_desc">
+    <text>Et pourquoi ?</text>
+  </string>
+  <string id="ui_mcm_wpo_title">
+    <text>Paramètres de Weapon Parts Overhaul</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon">
+    <text>Réglages de l’économie</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll">
+    <text>Répartition pondérée de l’état des composants</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+    <text>Utilise une nouvelle formule pour l’apparition des pièces d’arme. L’état de l’arme détermine si les pièces obtenues sont en bon ou mauvais état. Les valeurs basses améliorent le butin ; les valeurs élevées le réduisent.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll">
+    <text>Répartition pondérée de l’état des armes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll_desc">
+    <text>Répartit l’état des armes dans le monde selon l’interpolation de Lagrange. Cela réduit la qualité générale du butin et encourage la récupération. Fonctionne bien avec l’option suivante.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation">
+    <text>Multiplicateur d’usure sous la pluie</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation_desc">
+    <text>Multiplicateur d’usure de l’arme lorsqu’elle est utilisée sous la pluie.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easybarrel">
+    <text>Remplacer les canons sans établi.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easytrigger">
+    <text>Remplacer les mécanismes de détente sans établi.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice">
+    <text>Niveau de service du technicien</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+    <text>Détermine le niveau de service fourni par les techniciens.	
+        \n\n Nettoyage arme uniquement : restaure un état de base.
+        \n\n +Nettoyage des pièces : restaure un état de base et nettoie les pièces si nécessaire.
+        \n\n Service complet : restaure cet état, répare et remplace les pièces.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart">
+    <text>État minimal des pièces pour la vente</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart_desc">
+    <text>État minimal requis pour que les marchands acceptent TOUS les composants de l’arme. Si UN SEUL composant est en dessous, ils n’achèteront pas l’arme. Réglez sur 0 pour désactiver cette vérification.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit">
+    <text>Les kits de réparation restaurent les composants</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+    <text>Les kits de réparation restaurent les composants de l’arme (jusqu’à 100 %). Si l’option est désactivée, ils n’ajoutent que 25 % d’état. La désactiver augmente la difficulté.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype">
+    <text>Règles de vente des armes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype_desc">
+    <text>Choisissez le fonctionnement de la vente des armes :\n \n
+			- Classique : le prix dépend de l’état de l’arme (déséquilibré).\n
+			- Normal : le prix dépend de l’état de chaque pièce, considérée comme cassée ou intacte (60 % ou plus). Recommandé.\n
+			- Difficile : toutes les pièces doivent être intactes (plus de 60 %) pour vendre l’arme.\n
+			Remarque : toute pièce manquante rend l’arme invendable, quelles que soient les règles ci-dessus.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold">
+    <text>Seuil d’état d’endommagement des pièces</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold_desc">
+    <text>État de l’arme à partir duquel les pièces risquent d’être endommagées. Plus la valeur est basse, plus l’arme doit être détériorée avant que ses pièces ne commencent à subir des dégâts.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam">
+    <text>Réglages de l’enrayement des armes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat">
+    <text>Activer la surchauffe des armes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat_desc">
+    <text>Les armes chauffent lorsqu’on tire, ce qui affecte leur usure, le risque d’enrayement et les dégâts aux composants internes.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance">
+    <text>Multiplicateur de risque d’enrayement</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance_desc">
+    <text>Multiplicateur du risque associé au nouveau système d’enrayement des armes.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_keybind">
+    <text>Touche de déblocage</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo">
+    <text>Les munitions anciennes accélèrent l’usure</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo_desc">
+    <text>Les munitions anciennes usent davantage le canon et augmentent le risque d’enrayement.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam">
+    <text>Éjecter le chargeur en cas de fort enrayement</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam_desc">
+    <text>Si cette option est activée, appuyer sur recharger (R par défaut) lorsque l’arme est fortement enrayée éjecte le chargeur. Plus besoin de fouiller l’inventaire.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam">
+    <text>Autoriser les enrayements sévères</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam_desc">
+    <text>Active ou désactive le « fort enrayement ». Dans ce cas, l’arme doit être entièrement déchargée.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc">
+    <text>Réglages divers</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug">
+    <text>Journal de débogage</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug_desc">
+    <text>Informations de débogage supplémentaires consignées dans le journal du jeu.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_display">
+    <text>Afficher l’état des pièces</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_fun">
+    <text>Niveau de divertissement</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity">
+    <text>Jurons en cas d’enrayement</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_desc">
+    <text>Active des jurons lorsque l’arme s’enraye.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_language">
+    <text>Langue des jurons</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+    <text>Réduire la fréquence des jurons</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+    <text>Ajoute un délai entre les jurons lorsque l’option est activée. À utiliser si vous vous amusez un peu trop.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity">
+    <text>Détail des notifications d’enrayement</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+    <text>Affiche les notifications d’enrayement dans l’interface. Trois niveaux :\nAucun : avertit uniquement lorsque l’état général de l’arme provoque un enrayement, afin d’éviter toute confusion.\nNormal (recommandé) : avertit lors d’un enrayement et lorsqu’il est résolu.\nTout : avertit aussi des enrayements sévères et des dégâts aux composants.</text>
+  </string>
+  <string id="ui_st_functional">
+    <text>L’arme est prête à tirer</text>
+  </string>
+  <string id="ui_st_heat1">
+    <text>, mais elle est tiède.</text>
+  </string>
+  <string id="ui_st_heat2">
+    <text>, mais elle est chaude !</text>
+  </string>
+  <string id="ui_st_heat3">
+    <text>, mais elle est très chaude !</text>
+  </string>
+  <string id="ui_st_jam">
+    <text>L’arme s’est enrayée !</text>
+  </string>
+  <string id="ui_st_misfire">
+    <text>Le coup n’est pas parti !</text>
+  </string>
+  <string id="ui_st_missing">
+    <text>Des composants de l’arme sont manquants.</text>
+  </string>
+  <string id="ui_st_mockery_1">
+    <text>Ton arme s’enrayerait à chaque fois, mais ça semble trop pour toi.</text>
+  </string>
+  <string id="ui_st_mockery_2">
+    <text>Tu préfères les réparations faciles ?</text>
+  </string>
+  <string id="ui_st_mockery_3">
+    <text>Tant qu’à faire, pourquoi ne pas augmenter aussi la charge portée à 600 ?</text>
+  </string>
+  <string id="ui_st_mockery_4">
+    <text>Tu me déçois.</text>
+  </string>
+  <string id="ui_st_nothing">
+    <text>Vous n’avez pas d’arme à feu en main.</text>
+  </string>
+  <string id="ui_st_oldjam">
+    <text>L’arme s’est enrayée à cause de son mauvais état. Rechargez-la.</text>
+  </string>
+  <string id="ui_st_parts_damage">
+    <text>Les composants internes de l’arme sont endommagés.</text>
+  </string>
+  <string id="ui_st_superjam">
+    <text>L’arme est fortement enrayée !</text>
+  </string>
+  <string id="ui_st_unjam">
+    <text>Arme débloquée.</text>
+  </string>
+  <string id="ui_st_unjam_fail">
+    <text>L’arme est fortement enrayée : videz le chargeur, puis manœuvrez la culasse.</text>
+  </string>
+</string_table>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_raid_auth_ai_resolved">
+    <text>Spotkanie zakończyło się bez twojego udziału. Przedmioty zadania zniszczono.</text>
+  </string>
+  <string id="st_raid_auth_bandit_neutral_end">
+    <text>Automatyczna neutralność z bandytami dobiegła końca.</text>
+  </string>
+  <string id="st_raid_auth_crime_dossier_descr">
+    <text>Zapieczętowany pakiet dokumentów operacyjnych. Bandyci chcą go głównie po to, by omijać trasy wojska. Prawdopodobnie zawiera współrzędne wojskowego składu polowego używanego do takich operacji.</text>
+  </string>
+  <string id="st_raid_auth_crime_dossier_name">
+    <text>Tajny pakiet: działania przeciw przestępczości</text>
+  </string>
+  <string id="st_raid_auth_ignore_blocked">
+    <text>Nie można kupić neutralności</text>
+  </string>
+  <string id="st_raid_auth_ignore_blocked_tip">
+    <text>Informator odmawia sprzedaży neutralności z powodu twoich działań podczas spotkania.</text>
+  </string>
+  <string id="st_raid_auth_merc_half">
+    <text>Neutralność najemników (połowa ceny): %s</text>
+  </string>
+  <string id="st_raid_auth_obshak_flash_descr">
+    <text>Pendrive jednego z bandyckich szefów. Wojsko chce go zdobyć, zapewne ze względu na zawarte w nim informacje. Sprytny stalker może znaleźć coś cenniejszego niż rozmowy czy kompromitujące materiały.</text>
+  </string>
+  <string id="st_raid_auth_obshak_flash_name">
+    <text>Pendrive herszta</text>
+  </string>
+  <string id="st_raid_auth_punish">
+    <text>Stalkerze, oszalałeś? Wystawić jednocześnie wojsko i bandytów? Szanuję twoją odwagę, ale nie ma sensu, żebyś w najbliższym czasie prosił mnie o neutralność.</text>
+  </string>
+  <string id="st_raid_auth_punish_end">
+    <text>Wygląda na to, że sytuacja się uspokoiła. W razie potrzeby znów powinno dać się dogadać z bandytami i wojskiem.</text>
+  </string>
+  <string id="st_raid_auth_quest_army">
+    <text>Masz pendrive. Zanieś go do schronu, aby odebrać nagrodę.</text>
+  </string>
+  <string id="st_raid_auth_quest_bandit">
+    <text>Masz dokumenty. Zanieś je do schronu, tam czeka nagroda.</text>
+  </string>
+  <string id="st_raid_auth_reward_summary">
+    <text>W skrzyni w schronie:</text>
+  </string>
+  <string id="st_raid_auth_shelter_hint">
+    <text>Zanieś przedmiot do schronu, aby odebrać nagrodę.</text>
+  </string>
+  <string id="st_raid_auth_side_army">
+    <text>Stalkerze, skoro dołączyłeś do obławy, mamy dla ciebie zadanie. Jeden z braci powinien mieć pendrive. Zwykle ich nie noszą, więc powinien być tylko jeden. Zanieś go do schronu i przekaż przez Sacharowa. Podzielimy się zapasami i informacjami. Na litość boską, nie podłączaj go do PDA!</text>
+  </string>
+  <string id="st_raid_auth_side_bandit">
+    <text>No proszę, stalkerze, odważnie zaatakowałeś wojsko. Szacunek! Słuchaj: jeśli przeżyjesz, jeden z tych drani powinien mieć zapieczętowany pakiet papierów. Tobie się nie przyda, więc zanieś go do schronu, nasz kurier go odbierze. Dobrze ci zapłacimy. Tylko go nie otwieraj, jasne?!</text>
+  </string>
+  <string id="st_raid_auth_stash_fail">
+    <text>Brak wolnych skrytek; spróbuj później.</text>
+  </string>
+  <string id="st_raid_auth_stash_field_fail">
+    <text>Nie udało się utworzyć wojskowego składu polowego.</text>
+  </string>
+  <string id="st_raid_auth_stash_field_name">
+    <text>Wojskowy skład polowy</text>
+  </string>
+  <string id="st_raid_auth_stash_field_ok">
+    <text>Pakiet zawierał współrzędne wojskowego składu polowego. Skrytka: %s (oznaczona na mapie).</text>
+  </string>
+  <string id="st_raid_auth_stash_obshak_fail">
+    <text>Nie udało się utworzyć skrytki wspólnej kasy.</text>
+  </string>
+  <string id="st_raid_auth_stash_obshak_name">
+    <text>Część wspólnej kasy</text>
+  </string>
+  <string id="st_raid_auth_stash_obshak_ok">
+    <text>Na pendrivie znaleziono współrzędne części obecnej wspólnej kasy braci. Skrytka: %s (oznaczona na mapie).</text>
+  </string>
+  <string id="st_raid_auth_success_army">
+    <text>Stalkerze, dziękujemy za pomoc. Łącznik zostawi ci prezent: dzięki tobie nie musieliśmy wysyłać helikoptera za bandytami, dostaniesz więc paliwo i kilka dodatków. Powiedzieliśmy też Informatorowi, że przy kilku kolejnych usługach dotyczących ciebie może korzystać z naszych danych. Pamiętaj jednak: w Strefie do stalkerów strzela się na widok. Taka praca.</text>
+  </string>
+  <string id="st_raid_auth_success_bandit">
+    <text>Dobra robota, bracie! Kurier zostawił ci trochę fantów, ale to dopiero początek. Najważniejsze: przez następne 4 dni będziemy prawdziwymi kumplami. Nie płać informatorowi w miejscach, gdzie działamy; chodź spokojnie, w razie czego cię osłonimy. Dłużej nie mogę, ludzie zaczną pytać. Jeśli raz będziesz potrzebować wykupić się od najemników, dołożę połowę. Bądź w kontakcie.</text>
+  </string>
+  <string id="st_raid_auth_taunt_1">
+    <text>Stalkerzy! Na tym terenie trwa obława na przestępców! Kto nie sprzyja braciom, niech się nie wtrąca. Do tych, którzy pomogą bandytom, otworzymy ogień!</text>
+  </string>
+  <string id="st_raid_auth_taunt_2">
+    <text>Co ty śpiewasz, zachmurzone niebo? Stalkerzy, nie wtykajcie nosa, bo trafi was zabłąkana kula. Ale strzelanie do nas to fatalny pomysł; narobicie sobie kłopotów po uszy.</text>
+  </string>
+  <string id="st_raid_auth_title">
+    <text>Zjazd przywódców</text>
+  </string>
+  <string id="st_raid_auth_title_army">
+    <text>Wojsko</text>
+  </string>
+  <string id="st_raid_auth_title_bandits">
+    <text>Bandyci</text>
+  </string>
+  <string id="st_raid_auth_title_common">
+    <text>PDA</text>
+  </string>
+  <string id="st_raid_auth_title_inf">
+    <text>Informator</text>
+  </string>
+  <string id="st_raid_event_authorities">
+    <text>Zjazd przywódców</text>
+  </string>
+  <string id="st_raid_event_authorities_descr">
+    <text>Spotkanie bandytów w oznaczonym miejscu, w pobliżu znajduje się oddział szturmowy wojska. Na początku jesteś neutralny wobec obu stron; pierwszy strzał wybiera sojusznika. Dowódcy mają przedmioty zadania: pendrive wspólnej kasy lub dossier. Oddaj je sojusznikowi albo zanieś do schronu, lub otwórz, by zdobyć własną skrytkę i rozpocząć wojnę. [Wybór strony, zadanie]</text>
+  </string>
+</string_table>

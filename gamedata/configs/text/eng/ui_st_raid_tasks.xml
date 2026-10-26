@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="anomaly_scan_task_begin">
+    <text>Scanning has begun</text>
+  </string>
+  <string id="anomaly_scan_task_update">
+    <text>Scanning is complete. Deliver the scanner to the shelter</text>
+  </string>
+  <string id="find_squad_and_delivery_out_task_moved_from_mark">
+    <text>The squad moved from the marked point</text>
+  </string>
+  <string id="find_squad_and_delivery_out_task_moved_to_mark">
+    <text>The squad moved to the marked point</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_1">
+    <text>The stalker is dead; he should have the stash coordinates</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_2">
+    <text>The coordinates of the stash containing the item have been found</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_3">
+    <text>The stalker was killed nearby, but the signal was lost. He should have the stash coordinates</text>
+  </string>
+  <string id="kill_stalker_and_delivery_out_task_update_4">
+    <text>The stalker was killed. The stash coordinates are lost</text>
+  </string>
+  <string id="rf_find_and_delivery_out_task_update">
+    <text>The item has been located</text>
+  </string>
+  <string id="rf_scout_and_delivery_out_task_update">
+    <text>The stash coordinates have been obtained</text>
+  </string>
+  <string id="st_dyn_news_unknown_7">
+    <text>unknown</text>
+  </string>
+  <string id="st_faction_other">
+    <text>Independent clients</text>
+  </string>
+  <string id="st_raid_krug">
+    <text>•</text>
+  </string>
+  <string id="st_raid_reward_news">
+    <text>Quest reward</text>
+  </string>
+  <string id="st_raid_task_357_hp">
+    <text>.357 HP</text>
+  </string>
+  <string id="st_raid_task_af_class_chem">
+    <text>Chemical</text>
+  </string>
+  <string id="st_raid_task_af_class_electro">
+    <text>Electric</text>
+  </string>
+  <string id="st_raid_task_af_class_gravi">
+    <text>Gravitational</text>
+  </string>
+  <string id="st_raid_task_af_class_thermo">
+    <text>Thermal</text>
+  </string>
+  <string id="st_raid_task_all_descr_customer">
+    <text>[client %s]</text>
+  </string>
+  <string id="st_raid_task_all_descr_hours">
+    <text>[%s h]</text>
+  </string>
+  <string id="st_raid_task_all_descr_location">
+    <text>[location %s]</text>
+  </string>
+  <string id="st_raid_task_ammo">
+    <text>Ammunition</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan">
+    <text>Scan anomalous activity and deliver the scanner to the shelter</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_duty_descr">
+    <text>There's an anomalous area raising too many questions. Our instruments show strange spikes, and I need accurate data. Take the scanner, set it up at the marked point, and let it do its work. Once it has finished collecting data, carefully retrieve it and bring it back to me. Above all, don't wreck the equipment or get yourself torn apart. If everything goes smoothly, I'll pay you well, and the data will be very useful to us later.</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_ecolog_descr">
+    <text>Greetings, %s. We have detected increased anomalous activity in one area. We are very interested in obtaining accurate data for analysis. Take the scanner with you, set it up at the indicated point, and wait until it finishes collecting information. Then carefully retrieve the device and return it to us intact. Please be extremely careful: the scanner is expensive and essential to our future work.</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_freedom_descr">
+    <text>Hey, stalker! The eggheads are whining again that their instruments are going crazy—the anomaly is blasting so hard their brains are melting. Anyway, grab the scanner, head to the marked point, and set it up. Once it has gathered the data, pick it up and bring it to me. Just don't melt in those damn flashes or wreck the gear; it's expensive. Do the job and I'll reward you enough to live worry-free for a month. So, are you in?</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_short_descr">
+    <text>Scan anomalous activity and return to the shelter with the scanner</text>
+  </string>
+  <string id="st_raid_task_anomaly_scan_stalker_descr">
+    <text>I urgently need information about anomalous activity at a certain location. Something seems wrong there: the instruments are off the charts, and my people are afraid to go near it. You're just right for the job. Take the scanner, go to the marked point, and set it up right in the epicenter. Let it collect data, then carefully retrieve it; I still need that device. Don't wreck it, and don't get yourself fried in the anomaly. Bring the scanner back in one piece and I'll pay you well. This isn't just reconnaissance; it's important work for the future.</text>
+  </string>
+  <string id="st_raid_task_artefact">
+    <text>Artifact</text>
+  </string>
+  <string id="st_raid_task_artycont">
+    <text>Artifact container</text>
+  </string>
+  <string id="st_raid_task_attach">
+    <text>Module</text>
+  </string>
+  <string id="st_raid_task_backpack">
+    <text>Backpack</text>
+  </string>
+  <string id="st_raid_task_delivery_in">
+    <text>Deliver an item to a location</text>
+  </string>
+  <string id="st_raid_task_delivery_in_duty_descr">
+    <text>Hey, %s. I'll keep it short: I need you to deliver something somewhere. What it is and why it needs to be there is none of your business, no offense. Just meet the deadline. Can you do it?</text>
+  </string>
+  <string id="st_raid_task_delivery_in_ecolog_descr">
+    <text>Greetings, %s. I need you to deliver an item to the stash at the given coordinates. Payment upon completion, as usual. Please don't delay, and be careful!</text>
+  </string>
+  <string id="st_raid_task_delivery_in_freedom_descr">
+    <text>Hey, man! We've got a barter deal coming up, so some goods need to be delivered to an address. It's an easy job—easy money, really.)</text>
+  </string>
+  <string id="st_raid_task_delivery_in_other_descr">
+    <text>Hey. Deliver a small package to a stash, no questions asked? We'll pay you properly, so don't worry..</text>
+  </string>
+  <string id="st_raid_task_delivery_in_short_descr">
+    <text>Deliver an item to the stash at the marked location</text>
+  </string>
+  <string id="st_raid_task_delivery_in_short_descr_2">
+    <text>Pick up the item</text>
+  </string>
+  <string id="st_raid_task_delivery_in_stalker_descr">
+    <text>Listen, %s, here's the deal. I need you to deliver something to a location on time. Don't wreck it; bring it there intact, and I'll make it worth your while. The client is serious, so don't let me down.</text>
+  </string>
+  <string id="st_raid_task_delivery_mines">
+    <text>Plant mines at the position</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_duty_descr">
+    <text>Voronin is unhappy with the strategic situation on the map again. Duty alone can't deal with every threat, and the military have plenty of their own work. We need to mine a spot to thin out the next wave of mutants. Are you in?</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_ecolog_descr">
+    <text>Oh, %s, it's you... You know, the mutants grow more active every day. The military have given up: they don't have enough ammunition to protect every squad. But we've found a solution: anti-personnel mines. We calculate the mutants' routes and add the minefield data to the shared network. Would you do us a favor and mine a beast trail?</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_freedom_descr">
+    <text>Hey, buddy. How do I put this... Duty has gone completely nuts. They're setting up sniper ambushes against us, can you believe it?! We're barely getting by as it is, and now we have these fanatical snipers to deal with. Anyway, I got their next position. Please leave them a nice little gift of fragmentation mines there :3</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_other_descr">
+    <text>Hey, merc! Someone has caused us a lot of trouble, so we need to leave a small shrapnel gift at the specified address. Don't you dare tell anyone; if the word gets out in the stalker network, things will get ugly.</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_short_descr">
+    <text>Plant mines at the marked point</text>
+  </string>
+  <string id="st_raid_task_delivery_mines_stalker_descr">
+    <text>Well... I've got some bad news. There are more and more mutants in the south, and nobody knows where they're coming from. But that doesn't change the situation. We need to secure several routes, so your job is to plant mines at a certain spot. The mine kit is pretty heavy, so wear something comfortable. Good luck, %s. </text>
+  </string>
+  <string id="st_raid_task_delivery_out">
+    <text>Deliver an item to the shelter</text>
+  </string>
+  <string id="st_raid_task_delivery_out_duty_descr">
+    <text>Hello. We've got a barter deal, and someone sent us the coordinates. Get to the location, pick up the goods intact, and bring them here to the shelter. Give them to Nimble; he knows what to do next.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_ecolog_descr">
+    <text>Hello, %s. A package was left for us at these coordinates. Please go and retrieve it. You will be rewarded once you deliver it to the shelter.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_freedom_descr">
+    <text>Hey, here's the deal... We got a tip about a stash with some important stuff inside. Go grab it for us, would you? And keep your eyes open; the source isn't very reliable. But you'll manage, right? ;)</text>
+  </string>
+  <string id="st_raid_task_delivery_out_other_descr">
+    <text>Word got around about some loot. We need to take it quietly, without making a fuss. Don't complain; the owner doesn't need it anymore.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_short_descr">
+    <text>Deliver the item from the stash at the marked location</text>
+  </string>
+  <string id="st_raid_task_delivery_out_stalker_descr">
+    <text>I got an interesting tip about a little stash. We need to quietly take something from it; I really need that 'something'. No questions: head there, pick it up, bring it back, and I'll pay you.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world">
+    <text>Deliver an item to the shelter</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_duty_descr">
+    <text>This is %s. We heard that a military squad lost its courier during a raid. Looks like they cornered him and ate him... The military would appreciate getting their cargo back. Do me a favor: go to the site and see what you can find. If you find anything, bring it here to the shelter; Nimble will know what to do next.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_ecolog_descr">
+    <text>Good day, %s. Our employee had to leave the experiment site. Important data were left at the position. Please retrieve the package and deliver it to the shelter. I guarantee you fair payment for your efforts.</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_freedom_descr">
+    <text>Hey, %s! The eggheads lost some important thing out in the field. No idea if it's still there, but if you dash over and look for it, I'll arrange a bonus for you!</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_other_descr">
+    <text>Hey, listen. Some gear is lying around at a certain address. Could you run over and bring it back? We won't skimp on the cash, for real!</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_short_descr">
+    <text>Deliver an item from the marked location to the shelter</text>
+  </string>
+  <string id="st_raid_task_delivery_out_world_stalker_descr">
+    <text>My idiot protégé dropped some gear while running from mutants. It'll be a miracle if it's still there. Find it and bring it back, and I'll pay you well. Are you in?</text>
+  </string>
+  <string id="st_raid_task_device">
+    <text>Device</text>
+  </string>
+  <string id="st_raid_task_dungeon_str">
+    <text>[Dungeon]</text>
+  </string>
+  <string id="st_raid_task_evacuation">
+    <text>Evacuate a stalker</text>
+  </string>
+  <string id="st_raid_task_evacuation_duty_descr">
+    <text>%s! You're right on time. Our fighter is the last survivor of the raid, and Duty never leaves its own behind. Head to the location and get him out of there. Hurry; he may be wounded.</text>
+  </string>
+  <string id="st_raid_task_evacuation_ecolog_descr">
+    <text>Hello. Our employee got separated from his group and can't make it out on his own... Please help him and escort him to the shelter! Do everything you can to keep him alive! I guarantee generous payment.</text>
+  </string>
+  <string id="st_raid_task_evacuation_freedom_descr">
+    <text>There's no time, so let's get to it, man. Mutants attacked our forward squad, and one guy got separated from the others. He had to hide and is now in a bad spot. We need help evacuating him. Go get the guy, will you? I'll reward you well!</text>
+  </string>
+  <string id="st_raid_task_evacuation_other_descr">
+    <text>Hey, wanderer. We need to get a man out of a really bad situation. We have to move fast; he won't last long—stalkers are hunting him. Can you do it?  </text>
+  </string>
+  <string id="st_raid_task_evacuation_short_descr">
+    <text>Evacuate a stalker from the marked location</text>
+  </string>
+  <string id="st_raid_task_evacuation_stalker_descr">
+    <text>My man got himself into serious trouble. His whole squad was chewed to bits, and he barely escaped with his life. Take a medkit and some vodka just in case, then go help him get out. He's a good, valuable man with plenty of experience, and I need him alive. I'll send the coordinates to your PDA.</text>
+  </string>
+  <string id="st_raid_task_find_artefact">
+    <text>Find an artifact</text>
+  </string>
+  <string id="st_raid_task_find_artefact_duty_descr">
+    <text>Despite our specialty, we have several contracts with scientists, so there's almost always demand for artifacts. Bring an artifact with the next shipment and I'll reward you. Deal?</text>
+  </string>
+  <string id="st_raid_task_find_artefact_ecolog_descr">
+    <text>Good day, %s. We need to replenish our artifact collection for new research. Bring us an artifact of the requested type and you'll receive a reward!</text>
+  </string>
+  <string id="st_raid_task_find_artefact_freedom_descr">
+    <text>We've got an order for an artifact; we need to deliver it to the eggheads. Bring one in and we'll split the profit fifty-fifty. Deal?</text>
+  </string>
+  <string id="st_raid_task_find_artefact_other_descr">
+    <text>We have an order for an artifact. Can you get one? I'll pay double.</text>
+  </string>
+  <string id="st_raid_task_find_artefact_short_descr">
+    <text>Find an artifact</text>
+  </string>
+  <string id="st_raid_task_find_artefact_stalker_descr">
+    <text>There's an order for an artifact from the mainland. I'll pay based on its quality: the better the one you bring, the more you'll get. And don't forget an artifact container, or your balls will jingle—or fall right off, hahaha.</text>
+  </string>
+  <string id="st_raid_task_find_outfit">
+    <text>Find an outfit</text>
+  </string>
+  <string id="st_raid_task_find_outfit_duty_descr">
+    <text>Duty needs an outfit from a specific faction for a reconnaissance operation. The reward depends on its condition, so don't bring me a pile of junk.</text>
+  </string>
+  <string id="st_raid_task_find_outfit_ecolog_descr">
+    <text>Greetings, %s. We need some equipment to create experimental gear. Bring the specified item to Nimble's table; he'll take care of the rest. Remember, the reward depends on the item's condition.</text>
+  </string>
+  <string id="st_raid_task_find_outfit_freedom_descr">
+    <text>Hey, man. I need an outfit for a deal. Could you sort one out for me? Try to find a newer one; I'll pay for a holey one too, but only pennies.</text>
+  </string>
+  <string id="st_raid_task_find_outfit_other_descr">
+    <text>Good day, wanderer. We need a suitable outfit for an operation. Could you find one for us? We'll pay you for it. Just remember, a ragged one won't earn much..</text>
+  </string>
+  <string id="st_raid_task_find_outfit_short_descr">
+    <text>Find an outfit</text>
+  </string>
+  <string id="st_raid_task_find_outfit_stalker_descr">
+    <text>Anyway, I need you to dig up an outfit for me. Don't ask why; you know how it is. I don't care where or how you find it. The newer it is, the more I'll pay.</text>
+  </string>
+  <string id="st_raid_task_find_squad_and_delivery_out">
+    <text>Find the missing squad and deliver an item to the shelter</text>
+  </string>
+  <string id="st_raid_task_find_squad_and_delivery_out_short_descr">
+    <text>Find the missing squad and deliver the item to the shelter</text>
+  </string>
+  <string id="st_raid_task_find_weapon">
+    <text>Find a weapon</text>
+  </string>
+  <string id="st_raid_task_find_weapon_duty_descr">
+    <text>We need to restock the arsenal. Keep in mind, if you bring rusted junk, I'll pay accordingly; a new weapon gets the standard rate.</text>
+  </string>
+  <string id="st_raid_task_find_weapon_ecolog_descr">
+    <text>Hello, %s. Our security consultant recommended a few weapons for equipping an expedition. If you find one in the right caliber, I'll buy it from you. Just keep in mind that payment depends on the item's condition!</text>
+  </string>
+  <string id="st_raid_task_find_weapon_freedom_descr">
+    <text>We need a gun of a specific caliber for the arsenal. Here's the deal: I'll pay according to its condition, so don't bring me junk.)</text>
+  </string>
+  <string id="st_raid_task_find_weapon_other_descr">
+    <text>Hey, kid. We need a top-notch piece; we've written down the caliber for you. Just make sure it's not rusty. Get us a proper gun, you understand?</text>
+  </string>
+  <string id="st_raid_task_find_weapon_short_descr">
+    <text>Find a weapon</text>
+  </string>
+  <string id="st_raid_task_find_weapon_stalker_descr">
+    <text>Here's the deal, %s: I need to find a gun for my specialist. He's stubborn and insists on this exact kind. Can you look for one? But listen: bring me rusty junk and I'll pay scrap-metal rates. Bring me a new one and I'll pay fairly. Deal?</text>
+  </string>
+  <string id="st_raid_task_food">
+    <text>Food</text>
+  </string>
+  <string id="st_raid_task_guide">
+    <text>Escort a stalker</text>
+  </string>
+  <string id="st_raid_task_guide_duty_descr">
+    <text>Hey, %s. How's it going? Our sniper squad needs to take up a position in the sector. Your job is to help them reach their deployment point. Once you get there, your task is done. Can you arrange that?</text>
+  </string>
+  <string id="st_raid_task_guide_ecolog_descr">
+    <text>Hello, %s. We've assembled an expedition to study an anomalous area. Our staff need an escort to a specific location. It's important that neither the personnel nor the equipment is harmed. If you take the job, I can guarantee you fair payment!</text>
+  </string>
+  <string id="st_raid_task_guide_freedom_descr">
+    <text>Hey, %s. We got an escort job, but as usual I'm short on guys, so I have to hire freelancers.) It's an easy gig. Escort the clients to the agreed location, then we don't care what happens—even if they get eaten. Just get them there in one piece, okay? I'll pay you right.</text>
+  </string>
+  <string id="st_raid_task_guide_other_descr">
+    <text>Listen, kid, here's the thing. The boys need to go somewhere to take care of business, but there could be trouble on the way. Go with them and watch their backs; we'll give you a nice stack of cash. You in?</text>
+  </string>
+  <string id="st_raid_task_guide_short_descr">
+    <text>Escort the stalkers to the marked point</text>
+  </string>
+  <string id="st_raid_task_guide_stalker_descr">
+    <text>Listen, %s, there's an interesting job here. The route is dangerous, and I need my people to reach a certain place. Escort them on the trip; once you get there, your job is done and you can leave. And don't even think about following them, got it? Good. Get moving.</text>
+  </string>
+  <string id="st_raid_task_helmet">
+    <text>Helmet</text>
+  </string>
+  <string id="st_raid_task_informant_btn_1">
+    <text>Buy a client recommendation. \n Bonus: +%s tasks when the list refreshes, %s rubles.</text>
+  </string>
+  <string id="st_raid_task_informant_btn_2">
+    <text>Buy insurance from the Informant. \n Bonus: %s%% chance to keep equipped items on death, %s rubles.</text>
+  </string>
+  <string id="st_raid_task_informant_btn_3">
+    <text>Buy new maps of anomalous trails. \n Bonus: +%s minutes for the next raid, %s rubles.</text>
+  </string>
+  <string id="st_raid_task_informant_btn_4">
+    <text>Sell found PDAs to the Informant. </text>
+  </string>
+  <string id="st_raid_task_informant_btn_5">
+    <text>Reset tasks (test)</text>
+  </string>
+  <string id="st_raid_task_jartefact">
+    <text>Junk artifact</text>
+  </string>
+  <string id="st_raid_task_junk">
+    <text>Junk</text>
+  </string>
+  <string id="st_raid_task_kill_descr_comm">
+    <text>[faction %s]</text>
+  </string>
+  <string id="st_raid_task_kill_descr_unknown">
+    <text>unknown</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_descr_comm">
+    <text>[mutant %s]</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad">
+    <text>Eliminate mutants</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_duty_descr">
+    <text>You know—and everyone knows—that Duty does everything it can to fight mutants. But our faction was badly weakened after the Super-Emission. Your job is to go to the coordinates and clear the area of mutants. I've hired other stalkers for the cleanup, too. Whoever finishes first gets the reward, so don't dawdle if you take the job.</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_ecolog_descr">
+    <text>Good day. We've discovered something truly remarkable! A unique anomaly with parameters we've never encountered before... This is the perfect opportunity to study how the Zone is deforming. The only problem is that mutants are interfering with research in the area. I'll pay you generously if you clear them out for a while.</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_freedom_descr">
+    <text>Guess what? The tooth-and-claw crowd won't leave us alone again. They've settled near the main hideout, can you believe it? They even gobbled up one of our runners. We need to go vaccinate those vile beasts with lead. The sooner, the better.</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_other_descr">
+    <text>Hey there! Those toothy freaks are getting in the way of business. We're sick of them. My boys have a job to do, so we need a hunter to clear out the beasts. You in?</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_short_descr">
+    <text>Clear out a mutant squad</text>
+  </string>
+  <string id="st_raid_task_kill_mutant_squad_stalker_descr">
+    <text>My scouts report a pack of hungry mutants in that area. I really don't want my people to become their dinner. Do me a favor and feed the creatures some lead; I'll make it worth your while. Just know that I'm hiring others for this job too. If you dawdle, I'll cancel the contract—no hard feelings, of course.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker">
+    <text>Eliminate the target</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out">
+    <text>Eliminate the target and deliver the item to the shelter</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_duty_descr">
+    <text>There's a small problem, %s. Some loudmouth has said too much and is giving us a headache. He needs to be dealt with. Simple job: find him, eliminate him, and he should have a notebook with stash coordinates on him. It points to a stash with an item I need. Take what's inside and bring it here. I won't lie: it's dirty work, but the Zone is full of jobs like this. Get it done and you'll receive good pay.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_freedom_descr">
+    <text>Yo, %s! Long story short, some guy has been making too much noise. We need him to, well… stop existing. He also has some info on him, apparently a notebook with a lead. Grab it, and the stash coordinates will pop up for you. There's gear in the stash that we desperately need. Do the job cleanly and you'll get a fat payout. So don't drag your feet—this one's a blast!</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_other_descr">
+    <text>Well, %s, I've got a job for you. One guy talks too much—he needs to be silenced for good. He'll have a scrap of paper with coordinates; follow them to the stash. Inside is something I desperately need. Take it and bring it here. I count money fast, don't worry.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_short_descr">
+    <text>Eliminate the target with the stash lead and deliver the item from the stash to the shelter</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_and_delivery_out_stalker_descr">
+    <text>Listen, %s. There's a scoundrel around who thinks he can get away with anything. He must stop bothering everyone. Track him down, find him, and take him out quietly and cleanly. But that's not all: he should drop a notebook with a lead, containing important information. Once you have it, the coordinates will reveal a stash with an item for the client. Take it and bring it to me. The reward is decent, but the main thing is to handle everything carefully and quietly. Serious people are involved, you understand.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_duty_descr">
+    <text>Hello, %s. Voronin assigned us to eliminate someone, and as usual we're short on hands. If you handle it cleanly and quietly, I'll pay you the going rate.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_ecolog_descr">
+    <text>I'm terribly embarrassed to ask you this, %s, but we simply have no other choice. A certain “subject” has been hunting our research teams. His actions threaten several of our projects. Please be so kind as to “persuade” him never to interfere in our affairs again.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_freedom_descr">
+    <text>Hey, man. I don't know whether it was on purpose, but some asshole is really messing with our business. He's become a real pain in the ass. If you pull that thorn out quietly, old Ben Franklin and I will be very, very grateful. You catch my drift?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_other_descr">
+    <text>Hey, heh-heh. I need you to take out a guy, nice and proper, without any fuss. Make it look good and I'll pay you a hefty sum. Deal?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_short_descr">
+    <text>Eliminate the target in the squad</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad">
+    <text>Eliminate the squad</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_duty_descr">
+    <text>An enemy squad is moving to reinforce Duty's foes. We need to intercept them before they take up positions. I don't know why Voronin isn't sending his own specialists; I guess they're all busy, and the rookies aren't up to it. Will you handle it?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_ecolog_descr">
+    <text>Hello, %s. This is madness, of course, but I have no other options left. The military keep making excuses because they simply don't have time for this. This group of criminals keeps disrupting our expeditions. They steal scientific equipment to sell on the black market, and recently they killed one of our associate professors! Please eliminate them before they kill someone else!</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_freedom_descr">
+    <text>Hey, chum. I've got a sweet deal coming up, and some idealistic idiots are planning to ruin it. Turns out I can't send my own people: the client is somehow connected to them. So I need an outsider who'll happen to go where he's needed and happen to shoot those guys.)) I'll pay by the book. Interested?</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_other_descr">
+    <text>I've got a request for you from Ben Franklin. He really doesn't like certain guys with guns and combat suits. Take care of them, and Ben and I will arrange a very nice reward for you.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_short_descr">
+    <text>Eliminate the squad</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_squad_stalker_descr">
+    <text>Yeeah, times have changed… Some bastards are shaking down honest stalkers. I don't know if they're targeting only my people or everyone, but they're doing it hard. No limits, no conscience. You'd do me a huge favor if you, um… “talked” to them and sent them somewhere far away. On a long vacation. Preferably the other side. And yes, I've assigned a few workers to this job, so if you're late, someone else gets the reward.</text>
+  </string>
+  <string id="st_raid_task_kill_stalker_stalker_descr">
+    <text>There's a certain fellow walking the Zone, and he's not a pleasant one. I've had confirmation he's involved in a couple of smuggling schemes moving artifacts to the mainland. That would be all well and good, except I'm the one who has to answer to the military for this mess, not that bastard! Find him and bury him. The deeper, the better.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad">
+    <text>Eliminate especially dangerous mutants</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_duty_descr">
+    <text>Hey, %s. A Duty scouting team reported the coordinates of a strange lair. We don't know exactly what kind of mutants are there or how many. We won't risk sending our own people; it's too dangerous, and we're already short-staffed. Take the job and see it through, and I'll pay you generously. Deal?</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_ecolog_descr">
+    <text>There's no time, %s! A group of our scientists has found a new specimen! According to the latest information, it has a very rare mutation. Our scientists are ready to extract tissue from it. I'll send you the mutants' last known position to your PDA. Move in and put them down. I'll have my own team collect the samples. Oh, I nearly forgot: this job pays at an increased rate!</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_freedom_descr">
+    <text>Oof, chum, things are looking bad… Some kind of toothy bastard has moved into the Zone. Can you believe it? Our guys had a shootout with Duty, and I got word that this thing ate everybody. Ours and theirs… EVERYONE! Anyway, this isn't our line of work. But if you find that toothy bastard and plug it, I'll personally show you some tangible financial appreciation. You in?</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_other_descr">
+    <text>A contract has come in to eliminate mutants in this sector. I hear these beasts are tough, vicious, and hungry, so bring a serious caliber. Put the toothy ones to rest, and I'll pay what's due—and throw in a little extra.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_short_descr">
+    <text>Clear out a group of especially dangerous mutants</text>
+  </string>
+  <string id="st_raid_task_kill_strong_mutant_squad_stalker_descr">
+    <text>I don't know what toothy bastard is holed up there, but a few guys came back with their pants full of shit. A few didn't come back at all… *heavy sigh*. Yeah. Anyway, take a shotgun or some kind of wonder weapon and blow that bastard away. The thing's made a habit of feeding on my boys, the monster…</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad">
+    <text>Eliminate an elite squad</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_duty_descr">
+    <text>The situation is complicated. Several Duty squads were badly mauled in a firefight with an elite enemy. Your task is to find and eliminate the enemy. I'll pay you at an increased rate. Be careful, %s—they're clearly professionals.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_ecolog_descr">
+    <text>Hello, %s. We've received information that an order has been placed on the black market for our latest analytical equipment. Assassins and robbers are already heading to the ambush site. We need to protect our research team! Intercept and eliminate that squad, and I'll pay you the maximum rate.</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_freedom_descr">
+    <text>Hey, man. Long story short, things have gone completely to hell. Some kind of ultra-special forces have been going after our boys hard. I don't know where they came from or why they're involved, but there's no point in trading shots with them. If you scatter them like Rambo, I'll pay you like Rambo. Just make sure you get every last one. Deal?</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_other_descr">
+    <text>Greetings, wanderer! Some brave sheriffs have shown up here. Apparently they don't like the injustice of the world. We should explain to them how things work—preferably for good. I'll pay double if you take them out… but be warned, they're tough. They might even land a punch, heh-heh…</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_short_descr">
+    <text>Eliminate the elite squad</text>
+  </string>
+  <string id="st_raid_task_kill_strong_stalker_squad_stalker_descr">
+    <text>Some specialists have gone after my boys. Serious bastards, armed and armored, and they're ambushing my people on missions. Arrange a therapeutic lead injection for them and I'll generously cover all your expenses, with a tip on top. Just make sure you wipe them all out, no exceptions. Got it?</text>
+  </string>
+  <string id="st_raid_task_kit">
+    <text>Tools</text>
+  </string>
+  <string id="st_raid_task_magnum_300">
+    <text>.338 Lapua Magnum</text>
+  </string>
+  <string id="st_raid_task_medicine">
+    <text>Medicine</text>
+  </string>
+  <string id="st_raid_task_melee">
+    <text>Melee weapons</text>
+  </string>
+  <string id="st_raid_task_mutant_food">
+    <text>Mutant meat</text>
+  </string>
+  <string id="st_raid_task_mutant_hide">
+    <text>Mutant hides</text>
+  </string>
+  <string id="st_raid_task_mutant_meat">
+    <text>Mutant meat</text>
+  </string>
+  <string id="st_raid_task_mutant_parts">
+    <text>Mutant parts</text>
+  </string>
+  <string id="st_raid_task_o_heavy">
+    <text>Heavy suit</text>
+  </string>
+  <string id="st_raid_task_o_light">
+    <text>Light suit</text>
+  </string>
+  <string id="st_raid_task_o_medium">
+    <text>Medium suit</text>
+  </string>
+  <string id="st_raid_task_o_sci">
+    <text>Scientific suit</text>
+  </string>
+  <string id="st_raid_task_pistol">
+    <text>Pistol</text>
+  </string>
+  <string id="st_raid_task_pkm_100">
+    <text>7.62x54 mm R</text>
+  </string>
+  <string id="st_raid_task_repair">
+    <text>Repair kit</text>
+  </string>
+  <string id="st_raid_task_return">
+    <text>Return to the shelter</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out">
+    <text>(RF) Find a radio beacon stash and deliver the item to the shelter</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_duty_descr">
+    <text>(RF receiver required) A signal has revealed a stash, %s. But finding it won't be easy: it's hidden at a random location, and you need the right frequency. Take an RF receiver to the search area and track the radio signal. Once you pick it up, it will lead you straight to the stash. There's an item inside that I'm waiting for. Take it and bring it here. Keep in mind: the closer you get, the greater the chance of running into rivals or mutants. But if you succeed, the reward will exceed all expectations.</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_ecolog_descr">
+    <text>(RF receiver required) Oh, %s, you arrived just in time. We've received information about a new radio transmitter that broadcasts coordinates to stashes containing important materials. We need to verify the information. Track the signal on the designated frequency, record its source, and find the stash. Take the item and deliver it here. Keep in mind, %s, signals like this may attract other hunters.</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_freedom_descr">
+    <text>(RF receiver required) Hey, %s! We got a signal about a sweet stash, but its coordinates are hidden behind radio noise. Here's a receiver—turn the dial, tune it to the right frequency, and find the source. Once you lock onto the signal, it'll lead you right to the stash. There's a piece of gear inside that I'm waiting for. Grab it and bring it to me. Be ready on the way: mutants and rivals are just waiting to snatch the loot. But if you pull it off, the payoff will be cosmic. A pure win-win, man!</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_other_descr">
+    <text>(RF receiver required) Hey again, wanderer. Word's going around about a fat stash. You can't see it just by looking—you have to catch the radio transmitter's signal. Take the receiver, tune through the frequencies, and head to the spot once you pick up the lead. What I'm interested in will be there. Bring it here and you'll get your reward, I promise.</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_short_descr">
+    <text>Find a radio beacon stash and deliver the item from it to the shelter</text>
+  </string>
+  <string id="st_raid_task_rf_find_and_delivery_out_stalker_descr">
+    <text>(RF receiver required) I've got another job, %s. A strange radio signal has appeared in the Zone, and it leads to a hidden stash. But it's hidden in a random spot, so finding it could take a while. You'll need an RF receiver: tune to the right frequency, follow the lead, and the device will guide you straight to the stash. Inside is something I need badly. Take the item and bring it here. Be ready: the closer you get to the signal, the more likely you are to run into mutants or nosy strangers. Move fast and don't stop. It's a tedious job, but the reward matches the effort.</text>
+  </string>
+  <string id="st_raid_task_rf_freq">
+    <text>[frequency %s MHz]</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out">
+    <text>(RF) Intercept stash coordinates and deliver the item to the shelter</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_duty_descr">
+    <text>(RF receiver required) Listen carefully. According to our information, a stash is being prepared nearby, and its coordinates are being sent over the radio on a specific frequency. Get to the indicated point, take out your RF receiver, and intercept their transmissions. Once you hear the broadcast, you'll get the lead. Then follow the coordinates, take the item, and bring it here. Be careful: the signal may be guarded, or someone else may be listening in. It's a delicate job, but the reward is worth it.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_ecolog_descr">
+    <text>(RF receiver required) Hello, %s. We have reason to believe that negotiations are underway nearby about placing a stash containing equipment valuable to our research. However, the coordinates are transmitted only by radio on a specific frequency. You need to go to the indicated area, use the receiver, and intercept the conversation. Once you obtain the coordinates, find the stash, retrieve the item, and deliver it to us. Be extremely careful: other factions may also be interested in this information.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_freedom_descr">
+    <text>(RF receiver required) Okay, bro, this is delicate. Somewhere nearby, people are talking over the radio and sending coordinates to a stash full of goodies. We need to seize this chance! Grab an RF receiver, find the frequency, listen in, and bam—the coordinates are yours. Then head there, take the thing we need, and bring it to me. Just don't get caught; we're not the only ones keeping their ears open. Pull it off and you'll be sitting pretty, I promise.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_other_descr">
+    <text>(RF receiver required) Listen up. There's a radio exchange giving away the location of a stash. Take an RF receiver, tune in, and intercept the conversation. Once you get the coordinates, head over and pick up the item. Above all, stay quiet so nobody catches on. I'll pay you generously for your trouble.</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_short_descr">
+    <text>Intercept the secret coordinates and deliver the item from the stash to the shelter</text>
+  </string>
+  <string id="st_raid_task_rf_scout_and_delivery_out_stalker_descr">
+    <text>(RF receiver required) Here's the situation, %s. Our friends intercepted information that a stash containing valuable gear is being dropped nearby. But the coordinates are secret and are only transmitted over the radio on a certain frequency. So you need to take an RF receiver, reach the right spot, and tune into the channel. Once you overhear the conversation, you'll get the stash coordinates. Open it, take the item, and bring it to me. This is delicate work; there may be ears everywhere, so keep your eyes open. If you pull it off, I won't let you go unrewarded.</text>
+  </string>
+  <string id="st_raid_task_rifle">
+    <text>Rifle</text>
+  </string>
+  <string id="st_raid_task_scout">
+    <text>Reconnaissance</text>
+  </string>
+  <string id="st_raid_task_scout_dunge">
+    <text>Reconnaissance and return to the shelter</text>
+  </string>
+  <string id="st_raid_task_scout_dunge_mark">
+    <text>reconnaissance can be conducted</text>
+  </string>
+  <string id="st_raid_task_scout_dunge_short_descr">
+    <text>Scout the area or return to the shelter immediately</text>
+  </string>
+  <string id="st_raid_task_scout_duty_descr">
+    <text>Still alive? Good. We need reconnaissance data on a sector. You don't have to engage the enemy; stay hidden and scout with binoculars if you like. Just find out what's going on there.</text>
+  </string>
+  <string id="st_raid_task_scout_ecolog_descr">
+    <text>Good day, %s. We're planning a research expedition to this area, but we need to make sure it's safe first. Please go and check the situation. You can use binoculars or a scope, and you can avoid combat—this is strictly a reconnaissance mission. I'm counting on you!</text>
+  </string>
+  <string id="st_raid_task_scout_freedom_descr">
+    <text>Hey! Our squad will be passing along this route soon, and I don't want any surprises—but we're always short on scouts. We need someone to snoop around and check everything. Can you go take a look? I'll make sure you're well rewarded, don't worry. By the way, you can use binoculars for recon, get this :D</text>
+  </string>
+  <string id="st_raid_task_scout_mark">
+    <text>Scout the area</text>
+  </string>
+  <string id="st_raid_task_scout_other_descr">
+    <text>Well, the Duty boys have really gone too far—they're shooting at our people indiscriminately. Go check what kind of action is going on there, and we'll shower you with some nice gear…</text>
+  </string>
+  <string id="st_raid_task_scout_short_descr">
+    <text>Scout the area</text>
+  </string>
+  <string id="st_raid_task_scout_stalker_descr">
+    <text>Word has spread that there's some kind of trouble at this location. My guys happen to travel nearby, so I need you to go scout the area and find out what's going on and what it looks like. And hey, you don't have to stand out in the open—you can look through binoculars, hehe. Report everything back to me over the radio. That's it, get moving.</text>
+  </string>
+  <string id="st_raid_task_search_in_treasures_and_delivery_out">
+    <text>Check the discovered stashes and return to the shelter</text>
+  </string>
+  <string id="st_raid_task_search_in_treasures_and_delivery_out_mark">
+    <text>Check</text>
+  </string>
+  <string id="st_raid_task_search_in_treasures_and_delivery_out_short_descr">
+    <text>Check the stashes, search for artifacts, or return to the shelter immediately</text>
+  </string>
+  <string id="st_raid_task_shotgun">
+    <text>Shotgun</text>
+  </string>
+  <string id="st_raid_task_smg">
+    <text>Submachine gun</text>
+  </string>
+  <string id="st_raid_task_sniper">
+    <text>Sniper rifle</text>
+  </string>
+  <string id="st_raid_task_sold_pda_news">
+    <text>PDA sold for %s rubles.</text>
+  </string>
+  <string id="st_raid_task_sudden_find_squads_item_is_found">
+    <text>Item found. Deliver it to the shelter.</text>
+  </string>
+  <string id="st_raid_task_title_accept">
+    <text>Accept</text>
+  </string>
+  <string id="st_raid_task_title_descr">
+    <text>Description</text>
+  </string>
+  <string id="st_raid_task_title_details">
+    <text>More details</text>
+  </string>
+  <string id="st_raid_task_title_giver">
+    <text>Client</text>
+  </string>
+  <string id="st_raid_task_title_headreward">
+    <text>Reward</text>
+  </string>
+  <string id="st_raid_task_title_informant">
+    <text>Informant</text>
+  </string>
+  <string id="st_raid_task_title_level">
+    <text>Location:</text>
+  </string>
+  <string id="st_raid_task_title_penalties">
+    <text>On failure:</text>
+  </string>
+  <string id="st_raid_task_title_reward">
+    <text>On success:</text>
+  </string>
+  <string id="st_raid_task_title_reward_cost">
+    <text>Item value</text>
+  </string>
+  <string id="st_raid_task_title_reward_goodwill">
+    <text>Client reputation:</text>
+  </string>
+  <string id="st_raid_task_title_reward_goodwill_penalty">
+    <text>Reputation with other clients:</text>
+  </string>
+  <string id="st_raid_task_title_reward_items">
+    <text>Items:</text>
+  </string>
+  <string id="st_raid_task_title_reward_money">
+    <text>Money:</text>
+  </string>
+  <string id="st_raid_task_title_reward_rank">
+    <text>Rank in the stalker network:</text>
+  </string>
+  <string id="st_raid_task_title_simple_level">
+    <text>Simplified location:</text>
+  </string>
+  <string id="st_raid_task_title_tier">
+    <text>Task level:</text>
+  </string>
+  <string id="st_raid_task_title_type">
+    <text>Task type:</text>
+  </string>
+  <string id="st_raid_task_title_urgency">
+    <text>Deadline:</text>
+  </string>
+  <string id="st_raid_task_upgrade">
+    <text>Upgrade</text>
+  </string>
+  <string id="st_raid_task_urgency_1">
+    <text>Urgent (%s hr.)</text>
+  </string>
+  <string id="st_raid_task_urgency_2">
+    <text>Standard (%s hr.)</text>
+  </string>
+  <string id="st_raid_task_urgency_3">
+    <text>Not urgent (%s hr.)</text>
+  </string>
+  <string id="st_raid_task_urgency_4">
+    <text>No time limit</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_duty">
+    <text>Hey, %s. I've got word that one of my squads has gone missing somewhere along its route. They had a radio transmitter—you can use a receiver to pick up its signal. Find their last position and bring back what they were carrying. This is important; don't let me down.</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_ecolog">
+    <text>Hello, %s. Unfortunately, one of our research squads was lost during an expedition. They had a radio transmitter, and its signal can reveal their last position. Please use a receiver to find the signal and bring me the equipment they had with them. This is extremely important for science.</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_freedom">
+    <text>Oh, man! Our guys went off somewhere and stopped checking in. They had a beacon with them, so you can use a receiver to figure out where they got lost. Grab their loot and haul it here. And don't forget—I promised you a bonus ;)</text>
+  </string>
+  <string id="with_freq_find_squad_and_delivery_out_task_initial_stalker">
+    <text>Listen, %s. My people have gone missing, and contact with them has been lost. They had a beacon, so you can use a receiver to find where they got into trouble. Take whatever they had with them and bring it to me. You'll get your money, don't worry.</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_duty">
+    <text>Hello, %s. One of my squads went missing while moving between route points. We have their coordinates, but contact was lost after that. Check the places where they might have been and bring back what they had with them. You're our only hope.</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_ecolog">
+    <text>Hello, %s. Unfortunately, one of our research squads disappeared while moving between checkpoints. We know where they set out from and where they were headed. Please search those coordinates, find the squad, and bring me the equipment they had with them. This is extremely important for our further research.</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_freedom">
+    <text>Yo, man! Our boys set off along the route, but never came back. We know where they started and where they were headed, but after that—silence. Go check the spots and bring back the loot they were carrying. You'll get a fat bonus for the trouble ;)</text>
+  </string>
+  <string id="with_mark_smarts_find_squad_and_delivery_out_task_initial_stalker">
+    <text>Look, %s. My squad went along the route and never came back. We only know where they started and where they went next. Find their trail and bring back what they were carrying. This is serious, so don't drag your feet.</text>
+  </string>
+</string_table>

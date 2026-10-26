@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Włączaj lub wyłączaj osobno funkcje UAV na PDA.
+		\n \nKażda funkcja działa dopiero po zakupie UAV i zatankowaniu go przed wyprawą; tutaj możesz ukryć te, których nie chcesz. Zmiany są stosowane od razu, nowa gra nie jest potrzebna.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Funkcje działają dopiero po zakupie UAV i zatankowaniu go przed wyprawą.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Podświetlanie pól z artefaktami</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Okręgi pól anomalii na mapie zmieniają kolor na cyjanowy, gdy znajduje się w nich artefakt.
+		\n \nWyłącz, jeśli nie chcesz podświetlania pól.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Znaczniki skrytek</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Podświetlaj na mapie PDA znane skrytki wraz z zawartością, gdy UAV jest naładowany.
+		\n \nWyłącz, jeśli używasz UAV tylko do artefaktów.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Alerty o kradzieży artefaktów</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>Gdy pobliski NPC podniesie artefakt, UAV wysyła wiadomość na PDA: ugrupowanie, pancerz i kierunek (bez imienia).
+		\n \nWyłącz, jeśli nie chcesz otrzymywać tych alertów.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]Dron rozpoznawczy UAV</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]Dron rozpoznawczy UAV</text>
+  </string>
+</string_table>

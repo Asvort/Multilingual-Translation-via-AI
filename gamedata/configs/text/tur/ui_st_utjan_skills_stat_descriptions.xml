@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_player_skills_hint_bartering">
+    <text>Ticarette fiyatları iyileştirir.\n \nEşya alıp satmak deneyim kazandırır.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_insanity">
+    <text>Aklınızı yitirirsiniz, ancak psi yenilenmesi ve direnci kazanırsınız.\nEnstrüman çalmak yenilenmeyi ikiye katlar.\n \nPsi hasarı ve savaşta çalmak deneyim verir.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_lockpicking">
+    <text>Kilitli kapları açma zorluğunu azaltır.\n \nKapları açmak deneyim kazandırır.\n(İskelet Anahtar kullanımı deneyim kazandırmaz.)\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_magloading">
+    <text>Şarjör doldurma ve boşaltma hızını artırır.\n \nBu işlemler deneyim kazandırır.\nEn yüksek seviye Güç ve Dayanıklılıkla sınırlıdır.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_medicine">
+    <text>İlaç türüne göre sağlık yenilenmesini ve radyasyon atımını geçici artırır.\n \nİlaç kullanımı deneyim kazandırır.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_reloading">
+    <text>Şarjör değiştirme ve silah çekme hızını artırır.\n \nNormal silah kullanımı deneyim verir.\nEn yüksek seviye Dayanıklılık ve Hayatta Kalma ile sınırlıdır.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_tinkering">
+    <text>Ekipmanı onarırken tamir eşyasını tüketmeme şansını artırır.\n \nEkipmanı tamir malzemeleriyle onarmak deneyim kazandırır.\n \n</text>
+  </string>
+  <string id="st_skills_stats_discount_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Tüccar indirimi: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_discount_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Tüccar indirimi: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Silah çekme hızı: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_equip_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Silah çekme hızı: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Şarjör doldurma hızı: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_loadspeed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Şarjör doldurma hızı: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Kilit açma zorluğu: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_lockpick_diff_reduc_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Kilit açma zorluğu: %c[d_green]-$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Psi direnci: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_hit_resistance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Psi direnci: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_psy_regen_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Psi yenilenmesi: %c[d_green]$stat% / sn</text>
+  </string>
+  <string id="st_skills_stats_refund_chance_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Tamir eşyasını koruma şansı: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Yeniden doldurma hızı: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_reload_speed_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Yeniden doldurma hızı: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] İyileşme bonusu: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_restore_boost_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] İyileşme bonusu: %c[d_green]+$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_negative">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Satış değeri: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_sell_bonus_positive">
+    <text>\n%c[255,138,43,226]•%c[ui_6] Satış değeri: %c[d_green]+$stat%</text>
+  </string>
+</string_table>

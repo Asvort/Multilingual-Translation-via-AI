@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Bu takası tamamlamak için tüm eşyalara sahip olmalısınız.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>mermi: </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Vermek için bir eşya türü seçin.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>durum: %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(yenilenmez)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>gereken itibar: </text>
+  </string>
+  <string id="st_barter_info">
+    <text>önceki bir takas gerekir</text>
+  </string>
+  <string id="st_barter_init">
+    <text>Bir şey takas etmek ister misiniz? %c[orange][Takas]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>sınır</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(stok yenilendiğinde yenilenir)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>teknisyen temel aletlere ihtiyaç duyuyor</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>teknisyen gelişmiş aletlere ihtiyaç duyuyor</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>teknisyen uzman aletlerine ihtiyaç duyuyor</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>kullanım: </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Takasın ardından aşağıda listelenen eşyaları alacaksınız.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Sıradan Eşyalar</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Nadir Eşyalar</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Eşsiz Eşyalar</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Artefaktlar</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Tam Liste</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Takasın temel kuralları:\n• Durum gerektiren eşyalar en az %s% olmalı.\n• Çok kullanımlı eşyaların tüm kullanımları dolu olmalı.\n• Mühimmat tam kutu olmalı.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Mevcut Takaslar</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Gerekli Eşyalar</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Takas</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>Takas için gereken en düşük silah durumu</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>Takas sırasında oyuncunun verdiği durumlu eşyalar (silahlar, kıyafetler) için gereken en düşük durum.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>Parça için en düşük durum</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>Oyuncunun tek başına veya daha büyük bir eşyanın parçası olarak sunduğu parçalar için gereken en düşük durum (ör. silah veya kıyafet parçaları).</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Hata ayıklama çıktısı</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Anomaly NPC Takası</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Takas</text>
+  </string>
+</string_table>

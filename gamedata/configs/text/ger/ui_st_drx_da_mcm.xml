@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier">
+    <text>Anzahl der Anomalien ändern</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
+    <text>Ändert die mögliche Anzahl der Anomalien je Zone</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
+    <text>Radius der Anomaliezone</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
+    <text>Maximaler Abstand der Anomaliezone vom Smart-Terrain-Zentrum</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
+    <text>Mindestabstand zwischen Anomalien</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
+    <text>Mindestabstand zwischen Anomalien. Negative Werte erlauben Überlappungen.</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
+    <text>Spawnchance einer Anomaliezone</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
+    <text>Chance, dass ein festgelegtes Smart-Terrain eine Anomaliezone erzeugt</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance">
+    <text>Spawnchance für Artefakte</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
+    <text>Jedes Artefakt bis zum Grenzwert hat diese Spawnchance</text>
+  </string>
+  <string id="ui_mcm_drx_da_choose_help">
+    <text>Hier können Sie auswählen,\n welche neuen Anomalietypen im Spiel erscheinen.</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode">
+    <text>Debug-Modus</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode_desc">
+    <text>Aktiviert zahlreiche Meldungen in der Konsole</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies">
+    <text>Dynamische Anomalien löschen</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
+    <text>Löscht alle erzeugten Zonen. Zum sicheren Entfernen des Mods aktivieren, ins Spiel zurückkehren, speichern, beenden und den Mod entfernen.</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies">
+    <text>Neue Anomalien deaktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies_desc">
+    <text>Verhindert neue Anomalietypen. Wirkt nach der nächsten Emission, dem Psi-Sturm oder in einem neuen Spiel.</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier">
+    <text>Elektrofeld-Modifikator</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier_desc">
+    <text>Ändert den Schaden elektrischer Felder, nicht jedoch Gerätefehler.</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour">
+    <text>Dynamisches Anomalieverhalten aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
+    <text>Legt fest, ob dynamische Anomalien in der Zone erscheinen und verschwinden.</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier">
+    <text>Verstärkung des Gravitationsruckelns</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
+    <text>Ändert das Bildschirmruckeln nahe Gravitationsanomalien</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone">
+    <text>Maximale Artefakte pro Zone</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
+    <text>Legt die maximale Artefaktzahl in einer Anomaliezone fest</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets">
+    <text>Voreinstellungen</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets_desc">
+    <text>Voreinstellung aus der Liste wählen</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance">
+    <text>Chance auf ein zufälliges Artefakt</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
+    <text>Das Gebiet bestimmt die Artefakte: im Süden schwache, im Norden und Untergrund starke. Diese Chance ermöglicht jedes Artefakt, auch einzigartige.</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup">
+    <text>Nach dem Entfernen von Anomalien speichern</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup_desc">
+    <text>Speichert nach einer Emission oder einem Psi-Sturm, der dynamische Anomalien entfernt.</text>
+  </string>
+  <string id="ui_mcm_drx_da_title">
+    <text>Arrival – Anomalien</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_cdf_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_flash_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_ghost_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_gold_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_net_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_point_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_seed_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_shatterpoint_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sloth_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sphere_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_thorn_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_umbra_enable">
+    <text>Aktivieren</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_easy">
+    <text>Einfach</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_hard">
+    <text>Schwer</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_menu_drx_da">
+    <text>Arrival</text>
+  </string>
+</string_table>

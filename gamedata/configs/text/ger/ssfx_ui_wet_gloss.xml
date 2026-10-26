@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_gloss_title">
+    <text>Glanz - Einstellungen</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm">
+    <text>Auto-Glanz-Prozentsatz</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm_desc">
+    <text>Steuert den maximalen Glanz bei vollständiger Nässe. ( 0 = 0% | 1 = 100% )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm">
+    <text>Auto-Glanz</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm_desc">
+    <text>Aktiviert oder deaktiviert die automatische Glanzanpassung anhand der Nässe. Für einen festen Wert deaktiviere diese Option und nutze Mindestglanz.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm">
+    <text>Maximalglanz</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm_desc">
+    <text>Bei aktiviertem Auto-Glanz ist dies der maximale Glanz bei 100 % Nässe.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm">
+    <text>Mindestglanz</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm_desc">
+    <text>Grundwert für den Glanz. Wenn Auto-Glanz deaktiviert ist, bestimmt dieser Wert den Glanz.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm">
+    <text>Spiegelfarbe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm_desc">
+    <text>Anteil der Spiegelungsfarbe. ( 0 = 0% | 1 = 100% )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm">
+    <text>Spiegelungsintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm_desc">
+    <text>Legt die Stärke der Spiegelbeleuchtung fest.</text>
+  </string>
+</string_table>

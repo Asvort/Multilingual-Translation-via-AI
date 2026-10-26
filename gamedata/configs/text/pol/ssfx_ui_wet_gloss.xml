@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_gloss_title">
+    <text>Połysk - Ustawienia</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm">
+    <text>Procent automatycznego połysku</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm_desc">
+    <text>Określa maksymalny połysk przy pełnej wilgotności. ( 0 = 0% | 1 = 100% )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm">
+    <text>Automatyczny połysk</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm_desc">
+    <text>Włącza lub wyłącza automatyczne dostosowanie połysku do wilgotności. Aby ustawić stałą wartość, wyłącz tę opcję i użyj ustawienia „Min. połysk”.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm">
+    <text>Maks. połysk</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm_desc">
+    <text>Przy włączonym automatycznym połysku jest to maksymalny połysk przy 100% wilgotności.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm">
+    <text>Min. połysk</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm_desc">
+    <text>Podstawowa wartość połysku. Gdy automatyczny połysk jest wyłączony, określa go ta wartość.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm">
+    <text>Kolor połysku</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm_desc">
+    <text>Procent koloru połysku. ( 0 = 0% | 1 = 100% )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm">
+    <text>Intensywność połysku</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm_desc">
+    <text>Ustawia intensywność oświetlenia połyskowego.</text>
+  </string>
+</string_table>

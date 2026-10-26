@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_player_skill_stats">
+    <text>\nНАВИЧКИ:</text>
+  </string>
+  <string id="st_player_skills_hint_endurance">
+    <text>Збільшує витривалість і швидкість.\n \nПодорожі налегко дають досвід.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_scavenging">
+    <text>Збільшує здобич під час обшуку сталкерів.\n \nОбшук дає досвід, а вищий ранг — більше.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_strength">
+    <text>Збільшує переносиму вагу та шкоду в ближньому бою.\n \nВажкий вантаж і ближній бій дають досвід.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_survival">
+    <text>Зменшує шкоду й кровотечу та дає шанс на додаткову частину.\n \nФізична шкода й оброблення мутантів дають досвід; небезпечніші — більше.\n \n</text>
+  </string>
+  <string id="st_skills_stats_base_weight">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Додаткова переносима вага: %c[d_green]+$stat кг</text>
+  </string>
+  <string id="st_skills_stats_bleed_restore">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Зменшення кровотечі на: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_hunting_skill_negative">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Шанс втратити частину мутанта: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_hunting_skill_positive">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Шанс отримати додаткову частину мутанта: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_melee_damage_negative">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Множник шкоди в ближньому бою: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_melee_damage_positive">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Множник шкоди в ближньому бою: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_power_loss_negative">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Множник споживання витривалості: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_power_loss_positive">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Множник споживання витривалості: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_resistance_negative">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Множник опору шкоді: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_resistance_positive">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Множник опору шкоді: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_scavenging_skill_negative">
+    <text>\n%c[255,86,102,255]•%c[ui_6] Шанс втратити предмет: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_scavenging_skill_positive">
+    <text>\n%c[255,86,102,255]•%c[ui_6] Шанс знайти додатковий предмет: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_speed_modifier_negative">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Множник швидкості: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_speed_modifier_positive">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Множник швидкості: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_weight_modifer_negative">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Множник переносимої ваги: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_weight_modifer_positive">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Множник переносимої ваги: %c[d_green]x$stat</text>
+  </string>
+</string_table>

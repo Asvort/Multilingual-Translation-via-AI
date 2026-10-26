@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_visbody_no_model_msg">
+    <text>VISIBLE BODY: OSTRZEŻENIE: nie znaleziono modelu: </text>
+  </string>
+  <string id="st_visbody_no_model_msg_2">
+    <text>VISIBLE BODY: Jeśli wcześniej to się nie zdarzyło, załóż strój ponownie i zapisz grę.</text>
+  </string>
+  <string id="st_visbody_no_sec_msg">
+    <text>VISIBLE BODY: OSTRZEŻENIE: nie znaleziono sekcji Outfit-Body: </text>
+  </string>
+  <string id="ui_mcm_menu_swm_legs">
+    <text>SWM Visible Body</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled">
+    <text>Wyłącz wyświetlanie ciała (bezpieczna deinstalacja; patrz opis)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled_desc">
+    <text>Ta opcja umożliwia bezpieczne odinstalowanie dodatku.\n1) Włącz opcję.\n2) Upewnij się, że model ciała zniknął.\n3) Zapisz grę, wyjdź i wyłącz dodatek.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood">
+    <text>(Eksperymentalne) Włącz ślady krwi na ciele</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood_desc">
+    <text>Silne uderzenia mogą zostawić ślady krwi. Ograniczenia silnika sprawiają, że są rzadkie lub krótkotrwałe; konfiguracja jest niepełna.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_debug_warnings">
+    <text>Włącz ostrzeżenia debugowania</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt">
+    <text>(Eksperymentalne) Włącz ślady brudu na ciele</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt_desc">
+    <text>Chodzenie po ziemi lub wodzie może zabrudzić ciało. Ograniczenia silnika sprawiają, że efekt bywa rzadki lub krótkotrwały; konfiguracja jest niepełna.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims">
+    <text>Włącz losowe animacje bezczynności</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims_desc">
+    <text>Gdy postać stoi bez ruchu, po pewnej przerwie odtwarzane są animacje bezczynności. Występują tylko przy patrzeniu w dół i towarzyszy im cichy dźwięk ruchu.\nUwagi:\n1) Są przeznaczone do działania z włączoną opcją stanów walki/spokoju i wtedy wyglądają lepiej.\n2) Zmiana długości przerwy może zacząć działać z opóźnieniem.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+    <text>Ukryj ciało przy niskim kucaniu</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_max_cooldown">
+    <text>Maksymalna przerwa między animacjami</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_min_cooldown">
+    <text>Minimalna przerwa między animacjami (s)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset">
+    <text>Położenie ciała (bliżej/dalej od środka ekranu)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_noncombat">
+    <text>Pozycja ciała (bliżej/dalej) w stanie spokoju</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_side">
+    <text>Położenie ciała (lewo/prawo)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_title">
+    <text>SWM Visible Body. Przeniesiono z Shoker Weapon Mod (CoP) autorstwa Shokera i współtwórców.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+    <text>Włącz odgłosy kroków przy obracaniu</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo">
+    <text>Włącz kroki egzoszkieletu przy obracaniu</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo_desc">
+    <text>Dodaje dźwięki serwomotorów egzoszkieletu do zwykłych kroków.\nWymaga Exo Servo Sounds.\nGłośność ustawia się w dodatku.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_turn_step_sound_volume">
+    <text>Głośność kroków</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state">
+    <text>Włącz stany bojowy i spokojny</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state_desc">
+    <text>Po włączeniu część animacji ciała zostanie zastąpiona nowymi, gdy postać nie jest w stanie walki (trzyma broń, nie opuszcza jej lub walczy).\nPo wyłączeniu odtwarzane są tylko domyślne animacje.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_hd_models">
+    <text>Użyj modeli HD (wymaga dodatku HD Models Pack!)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state">
+    <text>Włącz stany spowolnionego ruchu</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state_desc">
+    <text>Po włączeniu animacje zależą od prędkości. Przy wolnym sprincie może odtwarzać się trucht.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_special_noncombat_shift">
+    <text>Użyj specjalnej pozycji ciała w stanie spokoju</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled">
+    <text>Włącz wizualne ulepszenia pancerza</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled_desc">
+    <text>Jeśli strój ma ulepszenie pancerza, wyświetli się kamizelka.\nObecnie działa to tylko z niektórymi kurtkami i kombinezonami SSP-99.</text>
+  </string>
+</string_table>

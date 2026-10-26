@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_desc_mcm">
+    <text>Willkommen im Anomaly Mod Configuration Menu (MCM).\n\n\nMCM tut für sich genommen nichts; es bietet anderen Mods und Add-ons einen Ort, an dem sie ihre Einstellungsoberfläche anzeigen können.\n\n\nDas MCM-Fenster besteht aus zwei Bereichen.\n\n\nDer Menübereich links listet installierte Mods und Add-ons, die MCM verwenden, in alphabetischer Reihenfolge.\n\nEr hat drei Ebenen: das Hauptmenü eines Mods und zwei Untermenüs.\n\nDas MCM-eigene Menü steht am Anfang.\n\nEin Klick auf das Hauptmenü oder ein Untermenü eines Mods öffnet dessen Einstellungsoberfläche im rechten Bereich.\n\nSie kann Folgendes enthalten: ein grafisches Banner und den Titel der Oberfläche am oberen Rand; Einstellungsnamen, zu denen beim Darüberfahren Hinweise erscheinen können; Kontrollkästchen; Schieberegler; Auswahllisten; und Textbeschreibungen wie diese.</text>
+  </string>
+  <string id="ui_mcm_desc_mcm2">
+    <text>MCM-Fehler oder Abstürze im Zusammenhang mit ui_mcm.script werden wahrscheinlich von einem Mod oder Add-on verursacht, das MCM nutzt.\nMelden Sie sie dem Autor des betreffenden Mods.</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_alt">
+    <text>Alt-Taste</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+    <text>Strg-Taste</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_none">
+    <text>Keine Zusatztaste</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_shift">
+    <text>Umschalttaste</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_dtap">
+    <text>Doppeltippen</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_hold">
+    <text>Langer Tastendruck</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_press">
+    <text>Einfacher Tastendruck</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb">
+    <text>MCM-Tastenbelegungen funktionieren „wie in Minecraft“: Klicken Sie auf das Feld und drücken Sie eine Taste.\nKlicken oder Esc bricht ab.\nWenn die angezeigte Taste nicht stimmt oder MCM manche Tasten ignoriert, passen Sie mcm_key_localization.ltx an Ihr Tastaturlayout an. Tasten, die mehreren MCM-Belegungen oder einer Engine-Taste zugewiesen sind, werden rot markiert.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb2">
+    <text>Rot bedeutet nicht immer ein Problem: Tasten können in verschiedenen Oberflächen verwendet werden oder eine Belegung kann Shift erfordern.\n\n\nMCM weiß nicht, was ein Add-on mit einer Taste macht; Sie müssen selbst beurteilen, ob der Konflikt relevant ist.\n\n\nBei einer ausstehenden Änderung aktualisiert sich die Farbe korrekt, bei mehreren möglicherweise nicht.\n\nÜbernehmen Sie die Änderungen und öffnen Sie MCM erneut zur Prüfung.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all">
+    <text>Dieses Fenster sammelt alle MCM-Tastenbelegungen in der Reihenfolge der Mods links.\nZusätzliche Add-on-Einstellungen, die das Verhalten einer Taste beeinflussen, können hier fehlen.\nPrüfen Sie immer das Panel des Ursprungsmods und dessen Dokumentation.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all2">
+    <text>Ausstehende Änderungen anderer Fenster erscheinen hier nicht, und Änderungen aus diesem Fenster werden nicht in andere übernommen.\n\nÜbernehmen Sie Änderungen vor und nach der Nutzung.\n\nRot markierte Tasten bedeuten nicht immer einen Konflikt: Sie können in verschiedenen Oberflächen oder mit Shift verwendet werden.\n\nMCM kennt die Nutzung durch Add-ons nicht; beurteilen Sie selbst, ob der Konflikt wichtig ist.\n\nBei mehreren ausstehenden Änderungen kann die Farbe falsch sein.\n\nÜbernehmen Sie die Änderungen und öffnen Sie MCM erneut.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_conflicts">
+    <text>Dieses Fenster sammelt alle als konfliktbehaftet markierten MCM-Tastenbelegungen, sortiert nach Taste.\n\nTaucht eine Taste nur einmal auf, besteht wahrscheinlich ein Konflikt mit einer Engine-Tastenbelegung aus den normalen Anomaly-Optionen.\nZusätzliche Mod-Einstellungen, die das Verhalten beeinflussen, können fehlen.\nPrüfen Sie das Panel des Ursprungsmods und dessen Dokumentation.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_log">
+    <text>Dieses Werkzeug für Add-on-Entwickler verschiebt deren Protokolle aus dem X-Ray-Protokoll und der Spielkonsole.\n\n\nEinstellungen helfen, Verzögerungen und SSD-Schreibvorgänge zu verringern.\n\nDateien werden nach dem erzeugenden Skript und der MCM-Sitzungsnummer benannt und unter appdata/logs/mcm/ gespeichert.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode">
+    <text>Eingabemodus</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode_desc">
+    <text>Die obige Tastenbelegung wird aktiviert, wenn die Taste auf diese Weise gedrückt wird.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier">
+    <text>Mit Zusatztaste</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier_desc">
+    <text>Die obige Tastenbelegung wird nur aktiviert, wenn auch diese Taste gedrückt gehalten wird.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml">
+    <text>Modnamen immer auf Englisch</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml_desc">
+    <text>Übersetzt Add-on-Namen für eine bessere Sortierung ins Englische, da manche Add-ons nur englische Namen haben.\n(!) Damit die Einstellung greift, muss das Spiel neu gestartet werden.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset">
+    <text>Alle Menüs neu laden</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset_desc">
+    <text>Wenn Sie diese Option markieren und auf Anwenden klicken, lädt MCM alle Menüs neu. Dieses Debugging-Werkzeug wird im normalen Betrieb nicht benötigt.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+    <text>Zeitfenster für Doppeltippen</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+    <text>Legt fest, wie schnell eine zweite Betätigung erfolgen muss, um als Doppeltippen zu gelten.\n\nGilt nur für Add-ons, die Doppeltippen über MCM erkennen.\nDer Wert kann auch die Eingabeverzögerung einzelner Tasten erhöhen und sollte daher möglichst niedrig sein.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+    <text>Multiplikator für langen Tastendruck</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+    <text>Dieser Multiplikator wird auf das Doppeltipp-Zeitfenster angewendet und legt fest, wie lange eine Taste gehalten werden muss, um als langer Druck zu gelten.\n\nGilt nur für Add-ons, die lange Tastendrücke über MCM erkennen.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous">
+    <text>Kontinuierliches Schreiben in Dateien erlauben</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous_desc">
+    <text>Protokolle werden normalerweise stapelweise aktualisiert, sodass bei einem Spielabsturz Informationen verloren gehen können.\n\nEin Add-on-Autor kann Sie bitten, diese Option zu aktivieren, damit sein Protokoll sofort aktualisiert wird.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2">
+    <text>Debug-Protokollierung aktivieren</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+    <text>Aktiviert die eigene Debug-Protokollierung von MCM und sollte vor dem Melden von MCM-Fehlern eingeschaltet werden.\n\n\nAndere Add-ons können diese Einstellung ebenfalls für ihre Protokolle verwenden.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable">
+    <text>MCM-Protokollierung aktivieren</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable_desc">
+    <text>Wenn Sie diese Option deaktivieren, werden keine neuen Protokolle erstellt oder aktualisiert.\nDie Änderung wird möglicherweise erst nach dem Laden eines neuen Spielstands wirksam.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs">
+    <text>Anzahl aufzubewahrender Protokolle</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+    <text>Überschreitet die Anzahl der Protokolle eines Skripts diesen Wert, werden ältere gelöscht.\nBei einem Spielabsturz findet die Löschung nicht statt.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq">
+    <text>Intervall zwischen automatischen Protokollsicherungen (ms)</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+    <text>Unabhängig von diesem Wert werden Protokolle auch beim Öffnen verschiedener UI-Bildschirme sowie beim Speichern und Laden des Spiels gesichert.\n</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp">
+    <text>Häufigkeit der Zeitstempel im X-Ray-Protokoll</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+    <text>MCM versieht das X-Ray-Protokoll mit Zeitstempeln, damit Ereignisse mit MCM-Protokollen abgeglichen werden können.\nDieser Wert legt den Mindestabstand zwischen Zeitstempeln fest.\nWenn nichts anderes in die Konsole schreibt, tut MCM es ebenfalls nicht.</text>
+  </string>
+  <string id="ui_mcm_menu_mcm">
+    <text>MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_about">
+    <text>Info</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_all_kb">
+    <text>Alle Tastenbelegungen</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb">
+    <text>MCM-Tastenbelegung</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_conflicts">
+    <text>Tastenkonflikte</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_main">
+    <text>Hauptmenü</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_log">
+    <text>Protokollierung</text>
+  </string>
+  <string id="ui_mcm_menu_search">
+    <text>Suchen…</text>
+  </string>
+  <string id="ui_mcm_menu_search_clear">
+    <text>Rechtsklick zum Löschen</text>
+  </string>
+  <string id="ui_mm_menu_mcm">
+    <text>Mod-Konfigurationsmenü</text>
+  </string>
+</string_table>

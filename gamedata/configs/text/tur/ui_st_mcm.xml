@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_desc_mcm">
+    <text>Anomaly Mod Yapılandırma Menüsüne (MCM) hoş geldiniz.\n\n\nMCM tek başına hiçbir iş yapmaz; diğer mod ve eklentilerin ayar arayüzlerini göstermesi için bir alan sağlar.\n\n\nMCM penceresi iki panelden oluşur.\n\n\nSoldaki menü paneli MCM kullanan kurulu mod ve eklentileri alfabetik sırayla listeler.\n\nÜç düzey vardır: her modun ana sayfası ve iki alt menüsü.\n\nMCM’nin kendi menüsü listenin başındadır.\n\nBir modun ana menüsüne veya alt menüsüne tıklayınca sağ panelde ayar arayüzü açılır.\n\nBu arayüz şunları içerebilir: panelin üstünde grafik bir banner ve arayüz başlığı; üzerine gelindiğinde ipucu gösterebilen ayar adları; onay kutuları; kaydırıcılar; açılır listeler; ve bunun gibi metin açıklamaları.</text>
+  </string>
+  <string id="ui_mcm_desc_mcm2">
+    <text>MCM hataları veya ui_mcm.script ile ilişkili çökmeler büyük olasılıkla MCM kullanan mod ya da eklentilerden kaynaklanır.\nSorunu ilgili modun yazarına bildirin.</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_alt">
+    <text>Alt tuşu</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+    <text>Ctrl tuşu</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_none">
+    <text>Değiştirici yok</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_shift">
+    <text>Shift tuşu</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_dtap">
+    <text>Çift basış</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_hold">
+    <text>Uzun basış</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_press">
+    <text>Tek basış</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb">
+    <text>MCM tuş atamaları “Minecraft tarzında” çalışır: kutuya tıklayıp bir tuşa basın.\nTıklamak veya Esc’e basmak işlemi iptal eder.\nGörünen tuş bastığınızla eşleşmiyorsa ya da MCM bazı tuşları algılamıyorsa mcm_key_localization.ltx dosyasını klavye düzeninize göre düzenleyin. Birden fazla MCM atamasında veya motor tuşunda kullanılan tuşlar kırmızıyla vurgulanır.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb2">
+    <text>Kırmızı renk her zaman sorun demek değildir: tuşlar farklı arayüzlerde kullanılabilir veya bir atama Shift gerektirebilir.\n\n\nMCM, eklentilerin tuşları nasıl kullandığını bilmez; çakışmanın önemli olup olmadığına siz karar vermelisiniz.\n\n\nTek bekleyen değişiklikte renk doğru güncellenir, birden fazlasında güncellenmeyebilir.\n\nDeğişiklikleri uygulayıp durumu doğrulamak için MCM’yi yeniden açın.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all">
+    <text>Bu panel, MCM tuş atamalarını modların soldaki listede göründüğü sırayla bir araya getirir.\nBir tuşun davranışını etkileyebilecek diğer eklenti ayarlarını içeremez.\nAtamanın geldiği mod panelini ve belgelerini mutlaka inceleyin.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all2">
+    <text>Diğer panellerdeki bekleyen değişiklikler burada görünmez; bu paneldekiler de diğerlerine yansımaz.\n\nBu paneli kullanmadan önce ve sonra değişiklikleri uygulayın.\n\nKırmızı tuşlar her zaman çakışma anlamına gelmez: farklı arayüzlerde kullanılabilir veya biri Shift gerektirebilir.\n\nMCM eklentilerin tuşu nasıl kullandığını bilmez; çakışmanın önemli olup olmadığını siz değerlendirin.\n\nBirden çok bekleyen değişiklikte renk yanlış güncellenebilir.\n\nDeğişiklikleri uygulayıp MCM’yi yeniden açın.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_conflicts">
+    <text>Bu panel, çakışmalı işaretlenen tüm MCM tuş atamalarını tuşa göre sıralar.\n\nBir tuş listede yalnızca bir kez görünüyorsa Anomaly’nin normal seçeneklerinde listelenen motor tuşlarından biriyle çakışıyor olabilir.\nPanel, tuşun davranışını etkileyebilecek diğer mod ayarlarını içeremez.\nKaynak modun panelini ve belgelerini inceleyin.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_log">
+    <text>Eklenti geliştiricilerine yönelik bu araç, günlükleri X-Ray günlüğü ve oyun konsolu dışına taşır.\n\n\nGecikmeyi ve SSD yazma işlemlerini azaltmak için davranışı ayarlamanızı sağlar.\n\nDosyalar, oluşturan betiğin ve MCM oturum numarasının adını taşır; appdata/logs/mcm/ konumunda oluşturulur.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode">
+    <text>Giriş modu</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode_desc">
+    <text>Yukarıdaki atama, tuş bu şekilde kullanıldığında etkinleşir.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier">
+    <text>Değiştirici tuşla</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier_desc">
+    <text>Yukarıdaki tuş ataması, bu tuş da basılı tutulursa etkinleşir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml">
+    <text>Mod adlarını daima İngilizce göster</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml_desc">
+    <text>Bazı eklentilerin yalnızca İngilizce adı bulunduğundan, sıralamayı iyileştirmek için adlarını İngilizceye çevirir.\n(!) Ayarın uygulanması için oyunu yeniden başlatın.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset">
+    <text>Tüm menüleri yeniden yükle</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset_desc">
+    <text>Bu seçeneği işaretleyip Uygula'ya tıklamak tüm MCM menülerini yeniden yükler. Bu hata ayıklama aracı normal kullanımda gerekli değildir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+    <text>Çift dokunma aralığı</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+    <text>İki basışın çift basış sayılması için aralarındaki en uzun süreyi belirler.\n\nYalnızca çift basışı MCM üzerinden tanıyan eklentilerde kullanılır.\nBazı tek basışların giriş gecikmesini de etkileyebilir; bu yüzden mümkün olduğunca düşük ayarlayın.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+    <text>Uzun basma çarpanı</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+    <text>Bu çarpan çift basış aralığına uygulanır ve uzun basış sayılması için tuşun ne kadar tutulacağını belirler.\n\nYalnızca uzun basışları MCM üzerinden tanıyan eklentilerde geçerlidir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous">
+    <text>Dosyaya sürekli yazmaya izin ver</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous_desc">
+    <text>Günlükler genellikle toplu olarak güncellenir; oyun çökerse bazı bilgiler kaybolabilir.\n\nBir eklenti yazarı, günlüğünün hemen güncellenmesi için bu seçeneği açmanızı isteyebilir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2">
+    <text>Hata ayıklama günlüğünü etkinleştir</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+    <text>MCM’nin kendi hata ayıklama günlüğünü açar; MCM hatalarını bildirmeden önce etkinleştirilmelidir.\n\n\nDiğer eklentiler de kendi günlüklerini açmak için bu ayarı kullanabilir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable">
+    <text>MCM günlük kaydını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable_desc">
+    <text>Bu seçeneğin işaretini kaldırmak yeni günlüklerin oluşturulmasını veya güncellenmesini engeller.\nDeğişiklik yeni bir kayıt yüklenene kadar geçerli olmayabilir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs">
+    <text>Saklanacak günlük sayısı</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+    <text>Bir betiğin günlük sayısı bu değeri aşarsa eskiler silinir.\nOyun çökerse günlükler silinmez.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq">
+    <text>Günlük otomatik kayıtları arasındaki süre (ms)</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+    <text>Bu değer ne olursa olsun,\nçeşitli arayüz ekranlarına girerken ve oyunu kaydedip yüklerken günlükler yine kaydedilir.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp">
+    <text>X-Ray günlüğü zaman damgası aralığı</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+    <text>MCM, olayları kendi günlükleriyle eşleştirmeyi kolaylaştırmak için X-Ray günlüğüne zaman damgası ekler.\nBu değer damgalar arasındaki en kısa süreyi belirler.\nKonsola başka bir şey yazılmıyorsa MCM de yazmaz.</text>
+  </string>
+  <string id="ui_mcm_menu_mcm">
+    <text>MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_about">
+    <text>Hakkında</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_all_kb">
+    <text>Tüm tuş atamaları</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb">
+    <text>MCM Tuş Atamaları</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_conflicts">
+    <text>Tuş çakışmaları</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_main">
+    <text>Ana</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_log">
+    <text>Günlük kaydı</text>
+  </string>
+  <string id="ui_mcm_menu_search">
+    <text>Ara…</text>
+  </string>
+  <string id="ui_mcm_menu_search_clear">
+    <text>Temizlemek için sağ tıklayın</text>
+  </string>
+  <string id="ui_mm_menu_mcm">
+    <text>Mod Yapılandırma Menüsü</text>
+  </string>
+</string_table>

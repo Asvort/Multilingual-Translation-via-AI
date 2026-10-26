@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>UAV is already fueled for this raid.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>UAV already purchased. Money refunded.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>UAV refueled (1 fuel canister consumed). This raid: stash markers, artifact-field highlights and theft alerts.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>UAV refueled (45 000 RU consumed). This raid: stash markers, artifact-field highlights and theft alerts.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>Already refueled for the next raid.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>UAV refuel — %s RU or 1 fuel canister</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>No fuel canister and not enough money (45 000 RU). Refuel impossible.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Buy the UAV in the shelter notebook upgrades first.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>UAV Recon Drone purchased. A control station appeared in the shelter (medic/trader corner) — walk up to the laptop with a fuel canister (or 45k RU) to refuel before a raid.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>UAV Control Station</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Order from Shustryi an autonomous UAV recon drone with a control station. After purchase a control station appears in the shelter near the medic/trader corner — walk up to the laptop and refuel the drone with one button press. \n \n
+		While the UAV is charged: \n
+		- All known stashes with contents are highlighted on the PDA map. \n
+		- Anomaly-field circles turn cyan when an artifact is inside them (artifact detector). \n
+		- If an NPC picks up an artifact, the UAV sends a PDA alert (faction, armor, direction). \n \n
+		Refuel: 1 fuel canister (if in inventory) or 45 000 RU. Fuel has priority. Charge burns on return to shelter.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>UAV Recon Drone</text>
+  </string>
+</string_table>

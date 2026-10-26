@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="encyclopedia_features_options">
+    <text>Funkcje (opcje)</text>
+  </string>
+  <string id="encyclopedia_features_options_ai_die_in_anomaly">
+    <text>SI ginie w anomaliach</text>
+  </string>
+  <string id="encyclopedia_features_options_ai_die_in_anomaly_text">
+    <text>%c[d_cyan]SI ginie w anomaliach%c[ui_gray_2] sprawia, że stalkerzy stają się podatni na anomalie, tak jak mutanty.\n\n%c[d_red]Ostrzeżenie%c[ui_gray_2]\n\nStalkerzy będą próbowali omijać pola anomalii, ale SI zwykle nie potrafi wykryć ich granic, przez co stalkerzy giną.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.\nZmiana tej opcji w trakcie gry wymaga jej ponownego uruchomienia.</text>
+  </string>
+  <string id="encyclopedia_features_options_aoe_pickup_mode">
+    <text>Zbieranie obszarowe</text>
+  </string>
+  <string id="encyclopedia_features_options_aoe_pickup_mode_text">
+    <text>%c[d_cyan]Zbieranie obszarowe%c[ui_gray_2] pozwala podnosić kilka przedmiotów naraz.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu tej funkcji można podnieść kilka przedmiotów i umieścić je w ekwipunku jednym naciśnięciem klawisza, tak jak w Call of Pripyat.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_artefact_degradation">
+    <text>Zużywanie artefaktów</text>
+  </string>
+  <string id="encyclopedia_features_options_artefact_degradation_text">
+    <text>%c[d_cyan]Zużywanie artefaktów%c[ui_gray_2] powoduje osłabianie ich właściwości i premii po aktywacji.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu tej funkcji posiadanie najlepszych artefaktów przestaje być celem samym w sobie dla łowców artefaktów.\n\nArtefakty słabną w miarę używania, co zachęca do dalszego ich poszukiwania i gromadzenia, zamiast traktowania ich jako szybkiego źródła dochodu.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_day_radiation">
+    <text>Promieniowanie za dnia</text>
+  </string>
+  <string id="encyclopedia_features_options_day_radiation_text">
+    <text>%c[d_green]Informacje%c[ui_gray_2]\n\nW ciągu dnia powietrze staje się napromieniowane. Przebywanie na zewnątrz wystawia ciało na stałe działanie promieniowania z otoczenia, co źle wpływa na zdrowie.\n\nW dzień należy unikać wychodzenia na zewnątrz albo nosić antyrady, by pozbywać się promieniowania pochłoniętego przez ciało.\n \n\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_debug_hud">
+    <text>HUD/Mapa debugowania</text>
+  </string>
+  <string id="encyclopedia_features_options_debug_hud_text">
+    <text>%c[d_cyan]HUD debugowania%c[ui_gray_2] pokazuje informacje o smart-terenach i ich położenie na mapie.\n\n%c[d_cyan]HUD mapy debugowania%c[ui_gray_2] pokazuje informacje o artefaktach i skrytkach oraz ich położenie; na mapie trzeba używać klawiszy takich jak SHIFT, ALT i CTRL.\n\nTe dwie funkcje można włączyć lub wyłączyć w menu opcji gry; domyślnie są wyłączone.\nUruchomienie gry w trybie debugowania wyświetli więcej informacji podczas korzystania z tych opcji.</text>
+  </string>
+  <string id="encyclopedia_features_options_delayed_repairs">
+    <text>Opóźnione naprawy</text>
+  </string>
+  <string id="encyclopedia_features_options_delayed_repairs_text">
+    <text>%c[d_cyan]Opóźnione naprawy%c[ui_gray_2] pozwalają technikom zatrzymać twój sprzęt.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu tej funkcji uszkodzona broń, kombinezony i inne przedmioty przekazane technikowi pozostaną u niego, dopóki nie ukończy wszystkich napraw.\n\nPo przekazaniu przedmiotów możesz ponownie porozmawiać z technikiem i zapytać, czy są już gotowe do odbioru. Wtedy albo ci je odda, albo powie, ile czasu jeszcze potrzebuje.\n\nTo dodaje nieco realizmu do tradycyjnego systemu napraw i pasuje do trudniejszej rozgrywki: naprawy nie są już natychmiastowe, a większego znaczenia nabierają zestawy rusznikarskie i krawieckie.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_dynamic_news">
+    <text>Symulator walk offline</text>
+  </string>
+  <string id="encyclopedia_features_options_dynamic_news_text">
+    <text>%c[d_cyan]Symulator walk offline%c[ui_gray_2] pozwala stalkerom i mutantom walczyć z wrogami w innych częściach Zony.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu symuluje w pewnym stopniu walki między oddziałami na innych mapach. Wynik zależy od %c[ui_gray_3]czynników populacji%c[ui_gray_2] zarówno stalkerów, jak i mutantów.\nGracz może otrzymywać od stalkerów wiadomości o strzelaninach w odległych miejscach.\nPo włączeniu opcji %c[ui_gray_3]Dynamiczne relacje frakcji%c[ui_gray_2] walki między frakcjami będą wpływać na zmiany ich relacji.</text>
+  </string>
+  <string id="encyclopedia_features_options_extended_hud">
+    <text>Rozszerzony HUD</text>
+  </string>
+  <string id="encyclopedia_features_options_extended_hud_text">
+    <text>%c[d_cyan]Rozszerzony HUD%c[ui_gray_2] umożliwia wyświetlanie dodatkowych informacji na ekranie.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu tej funkcji HUD pokazuje krótkie informacje o towarzyszach oraz pomniejszoną wersję pasa na artefakty.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji interfejsu/HUD; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_full_alife">
+    <text>Pełna symulacja A-Life</text>
+  </string>
+  <string id="encyclopedia_features_options_full_alife_text">
+    <text>%c[d_cyan]Pełna symulacja A-Life%c[ui_gray_2] uruchamia system A-Life na wszystkich mapach.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nZazwyczaj symulacja A-Life działa tylko na aktualnej mapie gracza i mapach bezpośrednio z nią połączonych.\nTa funkcja włącza symulację A-Life w każdej lokacji, nawet gdy cię tam nie ma. Stalkerzy i mutanty w całej Zonie będą wtedy samodzielnie się przemieszczać, żyć i działać, dzięki czemu rozgrywka w Zonie stanie się bardziej dynamiczna.\n\n%c[d_red]Uwaga: %c[ui_gray_2]Ta funkcja zwiększa obciążenie komputera. W razie problemów z wydajnością może być konieczne zmniejszenie współczynnika populacji.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji rozgrywki; domyślnie jest wyłączona.\n\nWłączenie lub wyłączenie tej funkcji wymaga ponownego uruchomienia gry.</text>
+  </string>
+  <string id="encyclopedia_features_options_harcore_campfire">
+    <text>Zapis hardcore (ognisko)</text>
+  </string>
+  <string id="encyclopedia_features_options_harcore_campfire_text">
+    <text>%c[d_cyan]Zapis hardcore (ognisko)%c[ui_gray_2] pozwala zapisywać postępy wyłącznie przy ogniskach.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nTa funkcja zwiększa poziom hardkoru i podkreśla aspekt przetrwania.\nPo jej włączeniu nie będzie można zapisywać postępów z menu głównego ani przyciskiem szybkiego zapisu. Zamiast tego do zapisu przy ognisku trzeba używać zapałek.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.\n\nDobrze współpracuje z trybem zapisu hardcore (warunki).</text>
+  </string>
+  <string id="encyclopedia_features_options_harcore_conditions">
+    <text>Zapis hardcore (warunki)</text>
+  </string>
+  <string id="encyclopedia_features_options_harcore_conditions_text">
+    <text>%c[d_cyan]Zapis hardcore (warunki)%c[ui_gray_2] pozwala zapisać postępy po spełnieniu określonych warunków.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nTa funkcja zwiększa poziom hardkoru i podkreśla aspekt przetrwania.\nPo jej włączeniu nie będzie można zapisać postępów z menu głównego ani przyciskiem szybkiego zapisu, gdy spełniony jest jeden z poniższych warunków:\n%c[d_red]• %c[ui_gray_2]Masz mało zdrowia.\n%c[d_red]• %c[ui_gray_2]Jesteś napromieniowany.\n%c[d_red]• %c[ui_gray_2]Krwawisz.\n%c[d_red]• %c[ui_gray_2]Jesteś w niebezpieczeństwie (wrogowie cię zauważyli).\n%c[d_red]• %c[ui_gray_2]Trwa emisja.\n \n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.\n\nDobrze współpracuje z trybem zapisu hardcore (ognisko).</text>
+  </string>
+  <string id="encyclopedia_features_options_hardcore_ai_aim">
+    <text>Celowanie SI w trybie hardcore</text>
+  </string>
+  <string id="encyclopedia_features_options_hardcore_ai_aim_text">
+    <text>%c[d_cyan]Celowanie SI w trybie hardcore%c[ui_gray_2] zwiększa przewidywalność celowania SI i skraca jej czas reakcji.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu tej funkcji trudniej uniknąć trafienia podczas poruszania się w bok i sprintu, a korzystanie z osłon staje się znacznie ważniejsze dla długotrwałego przetrwania.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_helicopter_patrols">
+    <text>Patrole śmigłowców</text>
+  </string>
+  <string id="encyclopedia_features_options_helicopter_patrols_text">
+    <text>%c[d_cyan]Patrole śmigłowców%c[ui_gray_2] pozwalają frakcjom korzystać ze wsparcia lotniczego w obronie strategicznych obszarów.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nFrakcje, których sojusznicze samoloty patrolują okolicę, mogą wezwać je do pomocy w ataku na wrogich stalkerów (w tym ciebie) i mutanty albo w obronie przed nimi.\n\nMimo groźnego wyglądu można je łatwo zestrzelić, lekko uszkadzając wirnik ogonowy.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest włączona.\n\n%c[d_green]Lokacje%c[ui_gray_2]\n\n• Agroprom\n• Kordon\n• Mroczna Dolina\n• Wielkie Bagna\n• Limańsk</text>
+  </string>
+  <string id="encyclopedia_features_options_lootmoney">
+    <text>Pieniądze przy zwłokach</text>
+  </string>
+  <string id="encyclopedia_features_options_lootmoney_text">
+    <text>%c[d_cyan]Pieniądze przy zwłokach%c[ui_gray_2] pozwalają znaleźć pieniądze w kieszeniach zmarłych.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nZnalezioną kwotę zależy od rangi zmarłego stalkera. Im wyższa ranga, tym więcej pieniędzy można znaleźć.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji rozgrywki; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_online_exclusion">
+    <text>Wykluczenie pojawiania się</text>
+  </string>
+  <string id="encyclopedia_features_options_online_exclusion_text">
+    <text>%c[d_cyan]Wykluczenie pojawiania się%c[ui_gray_2] tworzy wokół postaci strefę, w której nie pojawiają się wrogowie.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPodczas eksploracji obrzeży poziomów oraz ich punktów wejścia i wyjścia mogą cię zaatakować wrogowie przybywający z innych poziomów. Po włączeniu wykluczenia pojawiania się ich pojawienie się zostaje opóźnione, aż znajdziesz się poza niebezpieczeństwem.\n\nPamiętaj, że system ten działa wyłącznie wokół ciebie: wrogowie obecni już w danej lokacji podczas zmiany poziomu nie znikną po twoim przybyciu.\n\nTę funkcję można ustawić w menu opcji gry; domyślna wartość to 75.</text>
+  </string>
+  <string id="encyclopedia_features_options_population_factors">
+    <text>Czynniki populacji</text>
+  </string>
+  <string id="encyclopedia_features_options_population_factors_text">
+    <text>%c[d_cyan]Czynniki populacji%c[ui_gray_2] zmieniają liczbę stalkerów i mutantów w Zonie.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nCzynniki populacji stalkerów i mutantów można ustawiać niezależnie, decydując, jak dzika lub zasiedlona ma być Zona, bez modyfikowania plików gry.\n\nEfekt jest największy przy rozpoczynaniu gry nową postacią. Jeśli zmienisz te czynniki w trakcie rozgrywki, zmiany będą widoczne dopiero wtedy, gdy stalkerzy i/lub mutanty zginą i odrodzą się w większej albo mniejszej liczbie.\n\nTe opcje można ustawić w menu opcji gry.</text>
+  </string>
+  <string id="encyclopedia_features_options_portrait_by_outfit">
+    <text>Portret zależny od stroju</text>
+  </string>
+  <string id="encyclopedia_features_options_portrait_by_outfit_text">
+    <text>%c[d_cyan]Portret zależny od stroju%c[ui_gray_2] zmienia twój portret w zależności od aktualnie noszonego stroju.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nPo włączeniu tej funkcji portret postaci aktualizuje się po każdym założeniu lub zdjęciu stroju (z wyjątkiem nakrycia głowy), aby odzwierciedlać jej wygląd, tak jak portrety postaci SI.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji rozgrywki; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_radio_music">
+    <text>Muzyka w radiu</text>
+  </string>
+  <string id="encyclopedia_features_options_radio_music_text">
+    <text>%c[d_cyan]Muzyka w radiu%c[ui_gray_2] umożliwia odtwarzanie własnych utworów w wybranych lokacjach.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nW niektórych spokojnych miejscach Zony znajdują się radia, a każde z nich odtwarza wybrane utwory, by umilać czas stalkerom.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest włączona.\n\n%c[d_green]Lokacje%c[ui_gray_2]\n\n• Agroprom - Baza wojskowa\n• Kordon - Bunkier Sidorowicza\n• Wielkie Bagna - Baza Czystego Nieba\n• Mroczna Dolina - Baza bandytów\n• Rostok - 100 Rads\n• Czerwony Las - Wieża Leśnika</text>
+  </string>
+  <string id="encyclopedia_features_options_sleep_deprivation">
+    <text>Niedobór snu</text>
+  </string>
+  <string id="encyclopedia_features_options_sleep_deprivation_text">
+    <text>%c[d_cyan]Niedobór snu%c[ui_gray_2] sprawia, że upływ czasu i używanie materiałów eksploatacyjnych męczą postać.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nW całej Zonie znajdziesz wiele łóżek i śpiworów. Zwykle służą jedynie do pomijania czasu przez sen, lecz po włączeniu tej funkcji stają się istotnym elementem rozgrywki.\n\nZ czasem postać zacznie odczuwać zmęczenie, a obraz na ekranie zacznie się rozmywać i trząść. Efekty będą się nasilać, aż znajdziesz odpowiednie miejsce do odpoczynku lub niedobór snu doprowadzi cię do omdlenia z wyczerpania.\n\nZmęczenie można przyspieszyć, spożywając przedmioty takie jak apteczki i wódka, a ograniczyć dzięki takim rzeczom jak napoje energetyczne z dużą ilością kofeiny. Jednak nadmierne ich używanie uniemożliwi odpoczynek, dopóki ich działanie nie minie.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest wyłączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_thirst">
+    <text>Symulacja pragnienia</text>
+  </string>
+  <string id="encyclopedia_features_options_thirst_text">
+    <text>\n%c[d_green]Informacje%c[ui_gray_2]\n\nJak sama nazwa wskazuje, ta hardkorowa opcja symuluje pragnienie. Zmusza gracza do ciągłego szukania wody i dodaje kolejną warstwę trudności do pozostałych potrzeb.\nNa HUD-zie pojawi się wskaźnik poziomu pragnienia. Im większe pragnienie, tym gorszy stan zdrowia i wytrzymałość, aż do śmierci.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest włączona.</text>
+  </string>
+  <string id="encyclopedia_features_options_use_battery">
+    <text>Używanie baterii</text>
+  </string>
+  <string id="encyclopedia_features_options_use_battery_text">
+    <text>%c[d_cyan]Używanie baterii%c[ui_gray_2] wymaga korzystania z baterii, aby utrzymać urządzenia w działaniu.\n\n%c[d_green]Informacje%c[ui_gray_2]\n\nUrządzenia elektryczne, takie jak detektory i latarki, pobierają napięcie i energię potrzebne do prawidłowego działania z uniwersalnego urządzenia zasilającego (UPD). W związku z tym jego energia stale się zużywa.\nAby utrzymać UPD w działaniu, należy ładować je bateriami, zanim całkowicie się rozładuje.\nWarto nosić przy sobie kilka baterii; można je kupić lub znaleźć w okolicy.\n\nTę funkcję można włączyć lub wyłączyć w menu opcji gry; domyślnie jest włączona.</text>
+  </string>
+</string_table>

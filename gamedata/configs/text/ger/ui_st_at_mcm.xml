@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Zeit bis zum Verbluten (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Wie lange du am Boden bleibst, bevor du verblutest. Was danach passiert, wird weiter unten festgelegt.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Tod durch Verbluten</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Ein: Du stirbst durch Verbluten und ein Spieler am Boden kann nach der folgenden Schonfrist getötet werden. Aus: Nach dem Ende der Blutung wirst du an deiner Fallstelle wiederbelebt und niemand kann einen Spieler am Boden töten. Es gelten nur die Einstellungen des Hosts.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Am-Boden-Status bei tödlichem Treffer</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Ein: Ein tödlicher Treffer wirft dich zu Boden und ein Teammitglied kann dich wiederbeleben. Aus: Der Treffer schickt dich direkt zur nächsten Basis oder zu einem brennenden Lagerfeuer. Beides tötet dich nicht sofort; die folgende Einstellung legt fest, ob du verbluten kannst. Für alle gelten die Einstellungen des Hosts.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Schonfrist nach dem Sturz (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Wie lange ein Spieler ab dem Moment des Sturzes nicht getötet werden kann, damit ein schwerer Treffer ihn zu Boden wirft, statt ihn sofort zu töten. Ohne Tod durch Verbluten wird dieser Wert nicht verwendet. Es gelten nur die Einstellungen des Hosts.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Countdown bis zum Laden (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Wie lange der Todesbildschirm angezeigt wird, bevor der Host den letzten Spielstand lädt und alle erneut beitreten. Während des Countdowns kann niemand laufen oder speichern. Es gelten nur die Einstellungen des Hosts.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Gesundheit nach der Wiederbelebung</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Wiederbelebungsdauer (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Discord Rich Presence</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Zeigt auf Discord, was du spielst. Während einer Sitzung wird deine Gruppe veröffentlicht, damit Freunde eingeladen werden oder den Beitritt anfragen können; außerhalb einer Sitzung erscheinen Links zu unserem Discord und AP-PRO. Die Discord-Karte hat nur zwei Felder, daher werden Links und Beitreten-Schaltfläche nie gleichzeitig angezeigt.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Max. Spieler</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Maximale Spielerzahl der Sitzung, dich eingeschlossen. Bestimmt auch die von Discord angezeigte Gruppengröße. Gilt für die nächste gestartete Sitzung.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Passwort</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Passwort, das beitretende Spieler eingeben müssen. Lass das Feld leer, wenn kein Passwort nötig ist. Es darf weder Leerzeichen noch Schrägstriche enthalten.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Port</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>UDP-Port, auf dem deine Sitzung Verbindungen annimmt. Spieler, die per Adresse beitreten, erreichen dich über diesen Port; er muss im Router und in der Firewall geöffnet sein. Bei Sitzungen über Steam wird er ignoriert. Gilt für die nächste gestartete Sitzung.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Über Steam hosten</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Ein: Spieler treten über deine Steam-ID bei, die NAT durchquert und keinen offenen Port benötigt; Freunde können über die Freundesliste oder eine Discord-Einladung beitreten. Aus: Nur direkte Verbindungen über den obigen Port. Gilt für die nächste gestartete Sitzung.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Spielername</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Dein Name im Koop-Modus. Er wird beim Verbinden an den Host gesendet und dort zum Namen deines Charakters. Lass das Feld leer, damit beim ersten Verbinden ein Name erzeugt wird.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Belohnungen an alle Spieler vergeben</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Ein: Jeder Spieler erhält reward_money und reward_item. Aus: Nur der Spieler, der die Aufgabe abgibt, erhält die Belohnung. fetch_reward_and_remove nimmt Gegenstände immer nur vom abgebenden Spieler und zahlt nur an ihn. Die Host-Einstellung gilt für jeden Abschluss.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Am Boden und Wiederbelebung</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Hosting</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Spieler</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Aufgabenbelohnungen</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Am Boden und Wiederbelebung</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Hosting</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Spieler</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Aufgaben</text>
+  </string>
+</string_table>

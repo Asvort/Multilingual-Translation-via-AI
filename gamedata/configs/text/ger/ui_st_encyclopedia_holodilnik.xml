@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="encyclopedia_world">
+    <text>Spielwelt</text>
+  </string>
+  <string id="encyclopedia_world_craft">
+    <text>Herstellen</text>
+  </string>
+  <string id="encyclopedia_world_craft_text">
+    <text>
+			\n Das Herstellen von Gegenständen ist ein sehr umfangreiches Thema. Dazu gehören das Zerlegen von Waffen und Anzügen, das Herstellen von Gegenständen und speziellen Ersatzteilen.	
+			\n Zum Zerlegen ziehst du das passende Werkzeug oder das Werkzeugset (bei Anzügen) direkt auf den Anzug in deinem Inventar.\n		
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Waffen zerlegen %c[0,215,215,215]•%c[ui_gray_2].
+			\n Waffen werden mit Spezialwerkzeugen zerlegt: Vorschlaghammer, Brecheisen und Schweizer Messer. Jedes Werkzeug eignet sich für bestimmte Waffentypen.
+			\n Mit dem Brecheisen lassen sich Gewehre im Kaliber 7.62, 9 mm, 5.56 und 5.45, Maschinenpistolen, abgesägte Schrotflinten und Schrotflinten zerlegen. Nicht möglich: beliebige Pistolen.
+			\n Mit dem Vorschlaghammer lassen sich Gewehre im Kaliber 7.62, 9 mm, 5.56 und 5.45, Maschinenpistolen, abgesägte Schrotflinten, Schrotflinten und Pistolen zerlegen.
+			\n Mit dem Schweizer Messer lassen sich nur abgenutzte oder verrostete Pistolen zerlegen.\n
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Anzüge zerlegen %c[0,215,215,215]•%c[ui_gray_2].
+			\n Anzüge werden mit groben, normalen und feinen Werkzeugsätzen sowie mit einem Schweizer Messer zerlegt.
+			\n Das Schweizer Messer kann nur Kleidungsstücke aus reinem Stoff zerschneiden: Barette, Mützen, Verbände, Sturmhauben und Ähnliches.
+			\n Grobe Werkzeuge können dieselben Gegenstände zerschneiden wie das Schweizer Messer. Sie dienen zum Zerlegen einfacher Gegenstände: verschiedenster Jacken, Mäntel und einiger Gasmasken.	
+			\n Normale Werkzeuge können dieselben Gegenstände zerlegen wie grobe. Sie sind für Gegenstände mittlerer Technologie gedacht: handgefertigte Stalker-Anzüge und Stalkeranzüge mit 
+			\n Panzerelementen aus SEVA (Anzug der Pflicht, dicke Mäntel, die „Iolit“-Anzüge der Wissenschaftler) sowie Anzüge vom Typ „Jantar“.
+			\n Feine Werkzeuge können ebenfalls dieselben Gegenstände zerschneiden wie normale. Sie dienen zum Zerlegen hochwertiger Gegenstände: verschiedenster SEVA-Anzüge, Ökologenanzüge und schwerer Panzeranzüge (Bulat, Skat),	
+			\n Exoskelette, schwere Panzeranzüge „Woschod“ und hochwertige Helme (Sphären, taktische Helme). Den Helm „Zaslon“ kann kein Werkzeug zerlegen.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Gegenstände herstellen %c[0,215,215,215]•%c[ui_gray_2].
+			\n Das Herstellen von Gegenständen ist wohl das umfangreichste Thema. Tüftler finden ständig neue Möglichkeiten, Dinge zu beschaffen, und Händler bringen allerlei Neues in die Zone, aus dem sich etwas herstellen lässt.
+			\n \n
+			\n Eine der wichtigsten und meistgenutzten Techniken in der Zone ist die Dekontamination von Gegenständen, die dafür geeignet sind. Dekontaminationsflüssigkeit erhält man, indem man Aquatabs mit beliebigem Wodka mischt.
+			\n Zum Mischen ziehst du Aquatabs und Wodka im Inventar aufeinander. Um einen Gegenstand zu dekontaminieren, ziehst du ihn auf die Flüssigkeit oder die Flüssigkeit auf den Gegenstand in deinem Inventar.		
+			\n \n			
+			\n Tüftler stellen auch lebensnotwendige Dinge aus verfügbaren Materialien her, zum Beispiel Verbände aus Lumpen und Wodka, indem sie eines auf das andere ziehen. 
+			\n Lumpen erhält man, indem man Stoffkleidung mit einem Schweizer Messer zerschneidet (Verbände, Mützen, Sturmhauben, Bandanas usw.). All das geschieht, indem man im Inventar einen Gegenstand auf einen anderen zieht.			
+			\n Stoffstücke erhält man auch beim Zerlegen von Anzügen oder findet sie einfach. Einige Stoffarten verkaufen Händler.
+			\n \n
+			\n Du kannst dir auch selbst einen Rucksack oder Schlafsack nähen. Kaufe dafür bei einem Händler ein Nähset und die benötigten Materialien und ziehe sie dann im Inventar aufeinander.			
+			\n \n
+			\n Händler verkaufen auch Material zum Drehen von Zigaretten. Selbstgedrehte Zigaretten sind deutlich wirksamer als normale.
+			\n Manchmal bieten Händler auch Sets zur Munitionsherstellung an, meist für Schrot. Selbstgemachte Schrotmunition ist etwas weniger wirksam, aber deutlich billiger als Fabrikmunition.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Komponenten austauschen %c[0,215,215,215]•%c[ui_gray_2].
+			\n Bei der Reparatur bestimmter Gegenstände ist auch der Austausch ihrer Komponenten üblich.	
+			\n Am häufigsten wird der Lauf einer Waffe ausgetauscht. Dafür brauchst du einen Lauf in gutem Zustand, dessen Kaliber dem der Waffe entsprechen muss.
+			\n Einen abgenutzten Lauf kannst du mit Kerosin, Benzin, Wodka, Waffenreinigern, Reinigungssets, Waffenöl oder Reparatursets säubern.
+			\n Einen rostigen Lauf kannst du mit Waffenreinigern, Reinigungssets, Waffenöl oder Reparatursets wieder in einen normalen Zustand versetzen.
+			\n Danach benötigst du ein Set des passenden Kalibers, um einen Lauf desselben Kalibers zu ersetzen. Mit dem Set und dem Lauf kannst du bis zu 50% der Waffenhaltbarkeit wiederherstellen, unabhängig vom ursprünglichen Zustand.
+			\n \n
+			\n Auch die Servomotoren von Exoskeletten lassen sich austauschen. Dafür brauchst du einen Servomotor, den du beim Zerlegen eines Exoskeletts erhalten kannst, und ein Set zum Austausch des Servomotors. 
+			\n Mit dem Set und dem Servomotor kannst du bis zu 30% der Haltbarkeit des Exoskeletts wiederherstellen, unabhängig von seinem ursprünglichen Zustand.\n
+			\n%c[0,215,215,215]• %c[0,240,140,140]Dieser Artikel kann mit der Zeit ergänzt werden. %c[0,215,215,215]•.			
+		</text>
+  </string>
+</string_table>

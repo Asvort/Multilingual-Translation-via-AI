@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_water">
+    <text>Woda</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm">
+    <text>Rozmycie</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm_desc">
+    <text>Intensywność rozmycia odbić.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm">
+    <text>Wzór rozmycia</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm_desc">
+    <text>Ilość zróżnicowania rozmycia odbić. ( 0 = wyłączone )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm">
+    <text>Intensywność kaustyki</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm_desc">
+    <text>Intensywność efektu kaustyki.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm">
+    <text>Zniekształcenie fal</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm_desc">
+    <text>Intensywność zniekształcenia odbicia i załamania.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm">
+    <text>Wysokość paralaksy</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm_desc">
+    <text>Maksymalna wysokość efektu paralaksy fal.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm">
+    <text>Jakość paralaksy</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Liczba próbek efektu paralaksy fal. Niższe wartości mogą poprawić wydajność. [ 8, 16, 32 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm">
+    <text>Intensywność odbicia</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm_desc">
+    <text>Intensywność odbić wody.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm">
+    <text>Intensywność zmarszczek</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm_desc">
+    <text>Intensywność efektu zmarszczek wywołanych deszczem.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm">
+    <text>Miękka krawędź</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm_desc">
+    <text>Ustawia miękkość krawędzi wody.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm">
+    <text>Intensywność odbicia zwierciadlanego</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm_desc">
+    <text>Intensywność połysku lustrzanego na wodzie.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm">
+    <text>Jakość SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Liczba próbek używanych do renderowania odbić. Wysokie wartości mogą znacznie obniżyć wydajność i wydłużyć pierwsze ładowanie po wyczyszczeniu pamięci podręcznej shaderów. [ 8, 16, 24, 32, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm">
+    <text>Rozdzielczość SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm_desc">
+    <text>Rozdzielczość renderowania SSR. Jej obniżenie może poprawić wydajność. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_title">
+    <text>Ustawienia wody</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm">
+    <text>Mętność wody</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm_desc">
+    <text>Ustawia mętność wody. [ 0.0 = czysta woda ]</text>
+  </string>
+</string_table>

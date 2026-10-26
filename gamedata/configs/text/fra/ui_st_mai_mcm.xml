@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Rayon de détection (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>Distance de détection des anomalies. Plus = détection anticipée, mais davantage de restrictions. Par défaut : 30 m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Bloquer sur les cadavres</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Empêche les anomalies de s’activer sur les cadavres. Évite les problèmes ragdoll et améliore les performances.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Délai de reconstruction du cache (s)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Délai avant reconstruction du cache après émission ou tempête psi. Requis pour Arrival. Par défaut : 2,5 s</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Nettoyer les anciens marqueurs</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Supprime les marqueurs des sessions précédentes. Activez, appliquez puis désactivez.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>En combat</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Multiplicateur de raté en combat. Les PNJ distraits entrent plus souvent dans les anomalies. Par défaut : 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Paramètres des dégâts</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Mode débogage</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Journalise détections, dégâts et causes de décès dans la console.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Paramètres de détection</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Rayon d’effet (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>Les PNJ au-delà sont protégés des dégâts d’anomalie. Évite les morts à distance. Par défaut : 300 m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Protection de la combinaison</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Réduit les dégâts selon la tenue et ses protections contre le feu, l’électricité, les produits chimiques, etc.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Paramètres généraux</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Immunisé à 0 % de probabilité de manquer</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>Les PNJ ayant 0 % de probabilité de manquer sont immunisés aux dégâts d’anomalie.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>Activer MAI</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Active ou désactive MAI. Désactivé, les PNJ ignorent les anomalies.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Multiplicateurs selon le déplacement</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Expérimenté</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Probabilité de manquer des stalkers expérimentés. Par défaut : 50 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Expert</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Probabilité de manquer des experts. Par défaut : 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Légende</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Probabilité de manquer des légendes. Par défaut : 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Maître</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Probabilité de manquer des maîtres. Par défaut : 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Novice</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Probabilité de manquer des novices. 100 % signifie qu’ils peuvent entrer constamment dans les anomalies. Par défaut : 100 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Professionnel</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Probabilité de manquer des professionnels. Par défaut : 25 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Probabilité de manquer selon le rang (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Stagiaire</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Probabilité de manquer des stagiaires. Par défaut : 75 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Vétéran</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Probabilité de manquer des vétérans. 0 % signifie qu’ils n’entreront jamais dans une anomalie. Par défaut : 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Calcul d’itinéraire global</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Activé : tous évitent les anomalies quelle que soit la distance. Désactivé : restrictions limitées au rayon d’effet.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>En courant</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Multiplicateur de raté en courant. Plus élevé = anomalies plus souvent manquées. Par défaut : 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Afficher les anomalies sur la carte</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Marque les anomalies en cache sur le PDA pour déboguer les itinéraires. Désactivez pour retirer les marqueurs.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Immobile</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Multiplicateur de raté à l’arrêt. Plus bas = meilleure observation. Par défaut : 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — Interaction mutants/anomalies</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Débogage détaillé</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Détaille mises à jour, cache et restrictions. Très verbeux !</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>En marchant</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Multiplicateur de raté en marchant. Par défaut : 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Interaction avec les anomalies</text>
+  </string>
+</string_table>

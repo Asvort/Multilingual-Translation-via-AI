@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_box_difficulty">
+    <text>Trudność włamania:</text>
+  </string>
+  <string id="st_cant_unlock">
+    <text>Za mało wytrychów, aby otworzyć zamek.</text>
+  </string>
+  <string id="st_cant_unlock_coinbox">
+    <text>To narzędzie nie pasuje.</text>
+  </string>
+  <string id="st_cant_unlock_snapgun">
+    <text>Zamek jest zbyt skomplikowany, by otworzyć go tym narzędziem.</text>
+  </string>
+  <string id="st_check_peek">
+    <text>[DEBUG]</text>
+  </string>
+  <string id="st_dot">
+    <text>•</text>
+  </string>
+  <string id="st_incompatible">
+    <text>Tym narzędziem nie da się otworzyć tego pojemnika.</text>
+  </string>
+  <string id="st_lockpick">
+    <text>Wytrych</text>
+  </string>
+  <string id="st_lockpick_bundle">
+    <text>Zestaw wytrychów</text>
+  </string>
+  <string id="st_lockpick_bundle_descr">
+    <text>Zestaw trzech wytrychów. Dobry łup!\n \nPrzed użyciem trzeba je rozdzielić.\n \n</text>
+  </string>
+  <string id="st_lockpick_descr">
+    <text>Wytrych to rzadkie i kruche narzędzie do otwierania zamków w pojemnikach. Większość zamków wymaga więcej niż jednego.\n \nAby go użyć, przeciągnij wytrych na zamknięty pojemnik lub kliknij go prawym przyciskiem myszy. Do jednego zamka można użyć łącznie maksymalnie 10 wytrychów (100% skuteczności).\n \n%c[d_cyan] • %c[ui_gray_2] skuteczność włamania: 10%\n%c[d_cyan] • %c[ui_gray_2] można użyć naraz do 10 sztuk\n%c[d_cyan] • %c[ui_gray_2] łamie się podczas użycia\n \n</text>
+  </string>
+  <string id="st_lockpick_set">
+    <text>Narzędzia ślusarskie</text>
+  </string>
+  <string id="st_lockpick_set_descr">
+    <text>Profesjonalny zestaw ślusarski. Niestety ktoś zabrał wszystkie wytrychy. Mimo to specjalne przyrządy do obracania zamków są wygodniejsze niż zwykłe śrubokręty.\n \n%c[d_cyan] • %c[ui_gray_2] w ekwipunku zmniejsza trudność zamków o 10%\n \n</text>
+  </string>
+  <string id="st_loot_ammo">
+    <text>paczka</text>
+  </string>
+  <string id="st_loot_ammos">
+    <text>paczek</text>
+  </string>
+  <string id="st_lootbox_docs_case">
+    <text>Metalowa teczka na dokumenty</text>
+  </string>
+  <string id="st_lootbox_docs_case_descr">
+    <text>Cienka, zabezpieczona metalowa teczka na dokumenty. Gdy laboratoria X wciąż działały, umieszczano w niej krytyczne informacje i inne dane, po czym wysyłano je poza Strefę Wykluczenia. Dziś niemal nie da się znaleźć takiej teczki w Strefie. Każdy oddałby wszystko, by dowiedzieć się, co jest w środku. Zamek jest biometryczny i nie da się go otworzyć mechanicznie.\n \n</text>
+  </string>
+  <string id="st_lootbox_get">
+    <text>W pojemniku</text>
+  </string>
+  <string id="st_lootbox_large_monolith">
+    <text>Skrzynia Monolitu</text>
+  </string>
+  <string id="st_lootbox_large_monolith_descr">
+    <text>Ciężka, bogato zdobiona skrzynia z symbolem Monolitu wybitym na wieku. Podobno stworzył ją sam Spełniacz Życzeń i spełnia życzenia Monolitu dotyczące sprzętu oraz zapasów. Zwykłe wytrychy nie otworzą zamka — jakaś anomalia grawitacyjna utrzymuje zapadki na miejscu. Tak rzadkie znalezisko z pewnością przyciągnie handlarzy lub kolekcjonerów.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_rifle">
+    <text>Walizka na broń „Pelican”</text>
+  </string>
+  <string id="st_lootbox_large_rifle_descr">
+    <text>Twarda, wodoodporna walizka często używana do transportu długich karabinów. W Strefie na taki luksus dla broni mogą sobie pozwolić tylko najemnicy lub równie niebezpieczni ludzie. Znalezienie takiej walizki budzi prawdziwy niepokój.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_shotgun">
+    <text>Stara skrzynia na broń</text>
+  </string>
+  <string id="st_lootbox_large_shotgun_descr">
+    <text>Duża drewniana skrzynia używana niegdyś przez miejscowych do przechowywania strzelb myśliwskich i nadwyżek broni z II wojny światowej. Część pozostała w wioskach wokół Strefy Wykluczenia, inne stalkerzy wykorzystują do przechowywania broni. Drewno jest stare i spróchniałe, więc rozbicie zamka siekierą nie będzie trudne.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_surplus">
+    <text>Wojskowa skrzynia na broń</text>
+  </string>
+  <string id="st_lootbox_large_surplus_descr">
+    <text>Wojskowa skrzynia z kłódką, zwykle używana do transportu broni i amunicji. Po nieudanych pierwszych próbach zbadania Strefy Wykluczenia porzucono ogromne ilości sprzętu, w tym takie skrzynie. Trudno powiedzieć, jak długo tu leży — może od samego powstania Strefy. Jest bardzo ciężka, więc jej nie noś.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_artifact">
+    <text>Pojemnik ołowiany</text>
+  </string>
+  <string id="st_lootbox_small_artifact_descr">
+    <text>Profesjonalnie wykonany pojemnik ołowiany z wewnętrznym zamkiem i godłem ukraińskiego Ministerstwa Nauki. Ekologowie często używają takich pojemników do transportu artefaktów przez niebezpieczne rejony Strefy. Doskonale zatrzymują promieniowanie i chronią zawartość przed warunkami zewnętrznymi oraz złodziejskimi stalkerami. Nawet eskortowane grupy ekologów często padają ofiarą rabusiów, dlatego przechowywanie cennych informacji i artefaktów w bezpiecznych pojemnikach stało się standardem. Wewnętrzny zamek jest bardzo skomplikowany i trudno go otworzyć.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_bad">
+    <text>Skrzynka narzędziowa z kłódką</text>
+  </string>
+  <string id="st_lootbox_small_bad_descr">
+    <text>Średniej wielkości skrzynka narzędziowa z kłódką. To najtańszy sposób przechowywania osobistych rzeczy stalkera; słabo chroni przed włamaniem i łatwo ją otworzyć. Zwykle tylko zieloni nowicjusze zostawiają w środku coś cennego. Kłódka jest bardzo prosta i łatwo ją otworzyć.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_briefcase">
+    <text>Aktówka</text>
+  </string>
+  <string id="st_lootbox_small_briefcase_descr">
+    <text>Zamykana, ognioodporna aktówka. Dość lekka i poręczna. Naukowcy i wojsko używają takich walizek do przewożenia tajnych dokumentów, a organizacje przestępcze — dużych sum pieniędzy. Zgodnie z przeznaczeniem jej zamek jest dość solidny.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good">
+    <text>Bezpieczny pojemnik</text>
+  </string>
+  <string id="st_lootbox_small_good2_descr">
+    <text>Twardy pojemnik z wewnętrznym zamkiem. Korpus wykonano z jakiegoś materiału kompozytowego, odpornego na brutalne traktowanie. Zamawia się go z Wielkiej Ziemi; cenią go cudzoziemcy i zamożni stalkerzy jako najlepszy sposób bezpiecznego przechowywania rzeczy osobistych. Wewnętrzny zamek jest dość skomplikowany, ale da się go otworzyć.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good_descr">
+    <text>Twardy pojemnik z wewnętrznym zamkiem. Korpus wykonano z jakiegoś materiału kompozytowego, odpornego na brutalne traktowanie. Zamawia się go z Wielkiej Ziemi; cenią go cudzoziemcy i zamożni stalkerzy jako najlepszy sposób bezpiecznego przechowywania rzeczy osobistych. Wewnętrzny zamek jest dość skomplikowany, ale da się go otworzyć.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_ok">
+    <text>Stalowa skrzynka z kłódką</text>
+  </string>
+  <string id="st_lootbox_small_ok_descr">
+    <text>Prosta stalowa skrzynka z kłódką. W przeciwieństwie do skrzynki narzędziowej została zaprojektowana do bezpiecznego przechowywania zawartości i całkiem dobrze chroni przed włamaniem. Kłódka jest dobrej jakości, ale nie będzie trudno ją otworzyć.\n \n</text>
+  </string>
+  <string id="st_lootbox_survival">
+    <text>Skrytka przetrwania</text>
+  </string>
+  <string id="st_lootbox_survival_descr">
+    <text>Zamykana, odporna na warunki pogodowe skrzynka z przydatnymi zapasami polowymi. Takie niepozorne skrytki służą głównie formacjom paramilitarnym i tajnym grupom operacyjnym do uzupełniania zapasów agentów w terenie. Brak oznaczeń utrudnia ustalenie właściciela. Zwykle chroni ją solidny zamek, który odstraszy nawet najbardziej pomysłowych włamywaczy. Nie ma w niej nic wyjątkowo cennego, ale żywność, leki i amunicja zawsze się przydadzą.\n \n</text>
+  </string>
+  <string id="st_money">
+    <text>rubli</text>
+  </string>
+  <string id="st_no_picks">
+    <text>Brak wytrychów.</text>
+  </string>
+  <string id="st_pick_condition">
+    <text>Wytrychy w zestawie:</text>
+  </string>
+  <string id="st_pick_split">
+    <text>rozdziel wytrychy</text>
+  </string>
+  <string id="st_rip_axe">
+    <text>Siekiera złamała się podczas otwierania skrzyni.</text>
+  </string>
+  <string id="st_skelekey">
+    <text>Wytrych uniwersalny</text>
+  </string>
+  <string id="st_skelekey_descr">
+    <text>Dziwny klucz. Wygląda, jakby przeszedł przez jakieś pole anomalii. Jego pióro jest nienaturalnie wygięte, a zęby złowieszczo świecą i ciągle zmieniają kształt oraz rozmiar.\n \n</text>
+  </string>
+  <string id="st_snapgun">
+    <text>Wytrych udarowy</text>
+  </string>
+  <string id="st_snapgun_descr">
+    <text>Specjalne urządzenie do szybkiego otwierania zamków. Mechanizm uderzeniowy jednocześnie uderza we wszystkie zapadki i ustawia je w jednej linii, pozwalając obrócić cylinder. Jest niezawodne i bez trudu otwiera większość prostych zamków, ale nie poradzi sobie ze skomplikowanymi.\n \n%c[d_cyan] • %c[ui_gray_2] skuteczność włamania: 30%\n \n</text>
+  </string>
+  <string id="st_spooky_1">
+    <text>OTWÓRZ TĘ SKRZYNIĘ, DO CHOLERY</text>
+  </string>
+  <string id="st_spooky_2">
+    <text>EJ, OTWÓRZ SKRZYNIĘ</text>
+  </string>
+  <string id="st_spooky_3">
+    <text>EJ, WYPUŚĆ MNIE STĄD</text>
+  </string>
+  <string id="st_spooky_4">
+    <text>OTWIERAJ, MAM WÓDKĘ</text>
+  </string>
+  <string id="st_spooky_free">
+    <text>HAHAHAHA! JESTEM WOLNY!</text>
+  </string>
+  <string id="st_tech_open">
+    <text>Koszt</text>
+  </string>
+  <string id="st_tech_open_fail">
+    <text>Co to za cholerna skrzynia?\nNie mogę jej otworzyć.</text>
+  </string>
+  <string id="st_tech_open_q">
+    <text>Otworzyć pojemnik?</text>
+  </string>
+  <string id="st_unlock_coin">
+    <text>włóż monetę?</text>
+  </string>
+  <string id="st_unlock_pick">
+    <text>otwórz wytrychami</text>
+  </string>
+  <string id="st_unlock_snap">
+    <text>otwórz wytrychem udarowym</text>
+  </string>
+  <string id="st_weapon_0">
+    <text>Zepsuty</text>
+  </string>
+  <string id="st_weapon_1">
+    <text>Uszkodzony</text>
+  </string>
+  <string id="st_weapon_2">
+    <text>Zużyty</text>
+  </string>
+  <string id="st_weapon_3">
+    <text>Sprawny</text>
+  </string>
+  <string id="ui_mcm_lootboxes_animation">
+    <text>Animacja otwierania pojemnika</text>
+  </string>
+  <string id="ui_mcm_lootboxes_deathchance">
+    <text>Szansa na znalezienie pojemników lub wytrychów przy martwych stalkerach</text>
+  </string>
+  <string id="ui_mcm_lootboxes_debug">
+    <text>Debugowanie (dla deweloperów)</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality">
+    <text>Wartość łupu</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality_desc">
+    <text>Wpływa na wartość znalezionych pojemników, a tym samym na wartość ich zawartości.</text>
+  </string>
+  <string id="ui_mcm_lootboxes_stashchance">
+    <text>Szansa na znalezienie pojemników w skrytkach</text>
+  </string>
+  <string id="ui_mcm_lootboxes_title">
+    <text>Ustawienia Lootboxes</text>
+  </string>
+  <string id="ui_mcm_menu_lootboxes">
+    <text>Lootboxes</text>
+  </string>
+</string_table>

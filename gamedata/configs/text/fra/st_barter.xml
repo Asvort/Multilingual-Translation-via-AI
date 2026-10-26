@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Vous devez posséder tous les objets pour effectuer cet échange.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>munitions : </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Choisissez un type d’objet à donner.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>état : %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(ne se renouvelle pas)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>réputation requise : </text>
+  </string>
+  <string id="st_barter_info">
+    <text>nécessite un échange préalable</text>
+  </string>
+  <string id="st_barter_init">
+    <text>Vous voulez échanger quelque chose ? %c[orange][Troc]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>limite</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(renouvelé lors du réapprovisionnement)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>le technicien a besoin d’outils de base</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>le technicien a besoin d’outils avancés</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>le technicien a besoin d’outils experts</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>utilisations : </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Après l’échange, vous recevrez les objets indiqués ci-dessous.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Objets courants</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Objets rares</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Objets uniques</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Artefacts</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Liste complète</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Règles de base du troc :\n• L’état des objets doit être d’au moins %s%.\n• Les objets à usages multiples doivent avoir tous leurs usages.\n• Les munitions doivent former une boîte complète.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Échanges disponibles</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Objets requis</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Troc</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>État minimal de l’arme pour l’échange</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>État minimal requis pour les objets avec condition fournis par le joueur (armes, tenues) lors d’un troc.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>État minimal des pièces</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>État minimal requis pour les pièces fournies par le joueur, seules ou intégrées à un objet plus grand (par exemple, des pièces d’arme ou de tenue).</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Affichage des informations de débogage</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Troc avec les PNJ d’Anomaly</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Troc</text>
+  </string>
+</string_table>

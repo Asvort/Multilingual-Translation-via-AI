@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_persistent_weather">
+    <text>Trwała pogoda</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled">
+    <text>Włącz mod</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled_desc">
+    <text>Włącza system trwałej pogody. Pogoda jest zapisywana i przywracana po wczytaniu zapisu.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay">
+    <text>Minimalne opóźnienie przy zmianie poziomu (minuty)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay_desc">
+    <text>Minimalny czas w grze przed zmianą pogody przy przejściu między poziomami. Wcześniejsza podróż zachowa pogodę. 0 wyłącza opóźnienie.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance">
+    <text>Szansa zachowania pogody przy zmianie poziomu (%)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance_desc">
+    <text>Szansa (0–100%) na zachowanie pogody po podróży do nowej lokacji. Przy 0% pogoda zawsze zmienia się przy przejściu (domyślne zachowanie), a przy 100% zawsze pozostaje bez zmian.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_title">
+    <text>Trwała pogoda</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout">
+    <text>Czas pod ziemią (minuty)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout_desc">
+    <text>Rzeczywisty czas, jaki można spędzić pod ziemią, zanim pogoda będzie mogła się zmienić. Domyślnie: 10 minut.</text>
+  </string>
+</string_table>

@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_sk_desc">
+    <text>Експериментальна функція для тихого усунення NPC, які нічого не підозрюють.\n\nУдарте NPC відповідною зброєю (за замовчуванням — ножем Spetnaz або пострілом із глушником у голову), не потрапивши на очі іншим NPC. У разі успіху жертва загине, не сповістивши союзників поблизу. Якщо хтось невдовзі побачить вас біля тіла, то зрозуміє, що це вбивство, і всі відреагують як зазвичай. Функцію вимкнено за замовчуванням: вона ще розробляється та може порушити баланс, бо дає змогу безкарно вбивати союзників або зачищати ворожі бази під маскуванням.</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_bounty_news">
+    <text>Чутки про винагороди</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_companions_news">
+    <text>Балачки напарників</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_companions_news">
+    <text>Інтервал балачок напарників (у секундах)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_random_news">
+    <text>Інтервал випадкових повідомлень (у секундах)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_special_news">
+    <text>Інтервал спеціальних повідомлень (у секундах)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_cycle_of_task_news">
+    <text>Інтервал повідомлень про завдання (у секундах)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_death_mutant_news">
+    <text>Сигнали SOS/повідомлення про загибель (напад мутантів)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_death_report_news">
+    <text>Повідомлення про загибель (некрологи)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_death_stalker_news">
+    <text>Сигнали SOS/повідомлення про загибель (напад ворога)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_dumb_zombie_news">
+    <text>Спроби зомбі спілкуватися</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_factions_report_news">
+    <text>Дії угруповань</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_found_artifact_news">
+    <text>Знайдені артефакти</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_found_dead_news">
+    <text>Знайдені тіла</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_generic_death_news">
+    <text>Повідомлення про загибель і знахідки</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_heli_call_news">
+    <text>Виклики гелікоптера</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_kill_wounded_news">
+    <text>Загрози</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_loot_news">
+    <text>Знайдені речі</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_message_duration">
+    <text>Тривалість повідомлень на HUD (у секундах)</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_nearby_activity_news">
+    <text>Чутки про події поблизу</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_random_msg_news">
+    <text>Випадкові балачки</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_reaction_news">
+    <text>Реакції сталкерів</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_surge_news">
+    <text>Прогнози викидів</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_time_news">
+    <text>Чутки про час</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_tips_news">
+    <text>Поради</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_weather_news">
+    <text>Чутки про погоду</text>
+  </string>
+  <string id="ui_mm_alife_dynamic_news_zone_activity_news">
+    <text>Події в Зоні</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_fate">
+    <text>Доля сталкерів</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_frequency">
+    <text>Частота</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_state">
+    <text>Увімкнути викиди</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_task">
+    <text>Видавати завдання сховатися</text>
+  </string>
+  <string id="ui_mm_alife_event_emission_warning">
+    <text>Попередження</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_fate">
+    <text>Доля сталкерів</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_frequency">
+    <text>Частота</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_state">
+    <text>Увімкнути псі-шторм</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_task">
+    <text>Видавати завдання сховатися</text>
+  </string>
+  <string id="ui_mm_alife_event_psi_storm_warning">
+    <text>Попередження</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_mutant_pop">
+    <text>Множник кількості мутантів</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_mutant_pop_desc">
+    <text>Множник кількості мутантів, які з'являються в Зоні. Що він вищий, то більше мутантів буде.\n%c[pda_yellow]Примітка:%c[ui_gray_2] Найбільше цей параметр впливає на нову гру. Під час проходження чисельність змінюватиметься поступово, адже мутанти вже перебувають у Зоні.</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_stalker_pop">
+    <text>Множник кількості сталкерів</text>
+  </string>
+  <string id="ui_mm_alife_general_alife_stalker_pop_desc">
+    <text>Множник кількості сталкерів, які з'являються в Зоні. Що він вищий, то більше шансів появи загонів.\n%c[pda_yellow]Примітка:%c[ui_gray_2] Найбільше цей параметр впливає на нову гру. Під час проходження чисельність змінюватиметься поступово, адже загони вже перебувають у Зоні.</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_anomalies">
+    <text>Динамічні аномалії</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_anomalies_desc">
+    <text>Якщо ввімкнути, викиди створюватимуть нові аномалії по всій Зоні.\n\nПісля кожного викиду аномалії можуть з’являтися або зникати.</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_relations">
+    <text>Динамічні відносини угруповань</text>
+  </string>
+  <string id="ui_mm_alife_general_dynamic_relations_desc">
+    <text>Якщо ввімкнути, відносини між угрупованнями можуть змінюватися на краще або гірше через бої в Зоні.\n\nЗагибель спільних ворогів може поліпшити відносини, і навпаки.\n\nМасштаб змін залежить від важливості загиблого.</text>
+  </string>
+  <string id="ui_mm_alife_general_excl_dist">
+    <text>Радіус виключення</text>
+  </string>
+  <string id="ui_mm_alife_general_excl_dist_desc">
+    <text>Загони не з’являтимуться, якщо їхні точки появи (смарт-терейни) розташовані в межах радіуса виключення навколо гравця.\n\nЦе запобігає негарній і несправедливій появі ворогів поруч із гравцем.</text>
+  </string>
+  <string id="ui_mm_alife_general_heli_engine_sound">
+    <text>Звуки гелікоптера</text>
+  </string>
+  <string id="ui_mm_alife_general_heli_spawn">
+    <text>Патрулювання гелікоптерів</text>
+  </string>
+  <string id="ui_mm_alife_general_offline_combat">
+    <text>Бої поза зоною видимості</text>
+  </string>
+  <string id="ui_mm_alife_general_offline_combat_desc">
+    <text>Цей параметр додає динаміки симуляції A-Life: загони у віддалених районах Зони зможуть битися з ворогами.\nРезультати цих боїв можуть впливати на угруповання та чисельність мутантів.\n\n%c[pda_yellow]Примітка:%c[ui_gray_2]\n\n%c[ui_gray_1]•%c[ui_gray_2] Якщо ввімкнено динамічні відносини, бої між угрупованнями значно впливатимуть на зміну їхніх стосунків.\n\n%c[ui_gray_1]•%c[ui_gray_2] Функція працює в усіх режимах, зокрема у «Війні».\n\n%c[ui_gray_1]•%c[ui_gray_2] Вона може дещо зменшити загальну кількість сталкерів. Не вмикайте її, якщо хочете, щоб у Зоні було більше людей.</text>
+  </string>
+  <string id="ui_mm_alife_general_war_goodwill_reset">
+    <text>Скинути прихильність ворожих угруповань</text>
+  </string>
+  <string id="ui_mm_alife_general_war_goodwill_reset_desc">
+    <text>Коли угруповання стає ворогом угруповання гравця, гравець втрачає всю прихильність, здобуту в нього раніше.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_actor_faction_dist_mult">
+    <text>Множник дистанції відродження учасника угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_actor_faction_max_respawn_dist">
+    <text>Максимальна дистанція відродження учасника угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_actor_faction_min_respawn_dist">
+    <text>Мінімальна дистанція відродження учасника угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_ally_dist_mult">
+    <text>Множник дистанції відродження союзника</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_ally_max_respawn_dist">
+    <text>Максимальна дистанція відродження союзника</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_ally_min_respawn_dist">
+    <text>Мінімальна дистанція відродження союзника</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_companion_dist_mult">
+    <text>Множник дистанції відродження напарника</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_companion_max_respawn_dist">
+    <text>Максимальна дистанція відродження напарника</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_companion_min_respawn_dist">
+    <text>Мінімальна дистанція відродження напарника</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_enemy_dist_mult">
+    <text>Множник дистанції відродження ворога</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_enemy_respawn_max_dist">
+    <text>Максимальна дистанція відродження ворога</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_enemy_respawn_min_dist">
+    <text>Мінімальна дистанція відродження ворога</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_friend_dist_mult">
+    <text>Множник дистанції відродження друга</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_neutral_dist_mult">
+    <text>Множник дистанції відродження нейтрала</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_neutral_respawn_max_dist">
+    <text>Максимальна дистанція відродження нейтрала</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_neutral_respawn_min_dist">
+    <text>Мінімальна дистанція відродження нейтрала</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_actor_faction">
+    <text>Відродитися учасником свого угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_allies">
+    <text>Відродитися союзним сталкером</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_companions">
+    <text>Відродитися напарником</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_enemies">
+    <text>Відродитися ворожим сталкером</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_nearest">
+    <text>Відродитися найближчим сталкером</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_respawn_as_neutrals">
+    <text>Відродитися нейтральним сталкером</text>
+  </string>
+  <string id="ui_mm_alife_warfare_azazel_state">
+    <text>Режим «Азазель»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_count_modifier">
+    <text>Модифікатор кількості баз</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_count_modifier_desc">
+    <text>Бази, що додаються до загальної кількості кожного угруповання. Значення може бути від’ємним. Більше значення збільшує патрулі та вторгнення.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_priority">
+    <text>Пріоритет баз</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_base_priority_desc">
+    <text>Наскільки угруповання віддає перевагу базам. Зазвичай значення становлять від 0 до 10.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_disable_offline_combat">
+    <text>Вимкнути бої поза зоною видимості</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_disable_offline_combat_desc">
+    <text>Якщо ввімкнути, загони не битимуться поза зоною видимості. Бої починатимуться, коли ви наблизитеся, тож війна сповільниться та зосередиться навколо вас.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_enable_offline_news">
+    <text>Увімкнути сповіщення про події поза зоною видимості</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_enable_offline_news_desc">
+    <text>Ви отримуватимете сповіщення, коли дружні загони вступають у бій поза зоною видимості або поруч, а також коли союзники захоплюють чи втрачають базу.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_enemy_faster_respawn">
+    <text>Швидше відновлення ворога</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_expansion_aggression">
+    <text>Агресивність експансії</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_expansion_aggression_desc">
+    <text>Коли цілей на базі менше за ліміт і викликається process_targets, генерується число від 0 до 100. Якщо воно не перевищує expansion_aggression, угруповання обирає ціль; інакше не обирає.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_factions_keep_last_base">
+    <text>Угруповання зберігають останню базу</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_flag_priority">
+    <text>Пріоритет прапора угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_flag_priority_desc">
+    <text>Пріоритет точок, позначених для угруповання у gamedata/configs/misc/simulation_objects_props.ltx.\nНаприклад, «Чисте Небо» додає 2 до точок із csky = 1.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_ignore_empty_targets">
+    <text>Ігнорувати порожні цілі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_invasion_departure_chance">
+    <text>Шанс виходу сил вторгнення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_invasion_departure_chance_desc">
+    <text>Шанс, що сили вторгнення вирушать під час оновлення process_targets, яке відбувається кожні 1–5 ігрових хвилин.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_is_being_targeted_priority">
+    <text>Пріоритет, якщо базу атакують</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_is_being_targeted_priority_desc">
+    <text>Якщо інша база націлилася на цю, це значення додається до пріоритету для протидії вторгненню.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_keep_last_base">
+    <text>Зберігати останню базу</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_linked_level_targeting">
+    <text>Вибір цілей на суміжних локаціях</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_jupiter_priority">
+    <text>Пріоритет локації «Юпітер»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_jupiter_underground_priority">
+    <text>Пріоритет локації «Підземелля Юпітера»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_k00_marsh_priority">
+    <text>Пріоритет локації «Великі Болота»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_k01_darkscape_priority">
+    <text>Пріоритет локації «Темний Край»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_k02_trucks_cemetery_priority">
+    <text>Пріоритет локації «Цвинтар Покинутої Техніки»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l01_escape_priority">
+    <text>Пріоритет локації «Кордон»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l02_garbage_priority">
+    <text>Пріоритет локації «Звалище»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l03_agroprom_priority">
+    <text>Пріоритет локації «Агропром»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l04_darkvalley_priority">
+    <text>Пріоритет локації «Темна Долина»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l05_bar_priority">
+    <text>Пріоритет локації «Росток»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l06_rostok_priority">
+    <text>Пріоритет локації «Дика Територія»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l07_military_priority">
+    <text>Пріоритет локації «Армійські Склади»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l08_yantar_priority">
+    <text>Пріоритет локації «Янтар»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l09_deadcity_priority">
+    <text>Пріоритет локації «Мертве Місто»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l10_limansk_priority">
+    <text>Пріоритет локації «Лиманськ»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l10_radar_priority">
+    <text>Пріоритет локації «Радар»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l10_red_forest_priority">
+    <text>Пріоритет локації «Рудий Ліс»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l11_hospital_priority">
+    <text>Пріоритет локації «Покинута Лікарня»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l11_pripyat_priority">
+    <text>Пріоритет локації «Прип’ять»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_2_priority">
+    <text>Пріоритет локації «ЧАЕС, північ»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_priority">
+    <text>Пріоритет локації «ЧАЕС, південь»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12u_control_monolith_priority">
+    <text>Пріоритет локації «Центр керування Монолітом»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l12u_sarcofag_priority">
+    <text>Пріоритет локації «Саркофаг»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_l13_generators_priority">
+    <text>Пріоритет локації «Генератори»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_pripyat_priority">
+    <text>Пріоритет локації «Окраїни»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_lvl_zaton_priority">
+    <text>Пріоритет локації «Затон»</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_manual_capture_wait_time">
+    <text>Час ручного захоплення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_faction_respawn">
+    <text>Максимальний час відновлення угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_faction_respawn_desc">
+    <text>Максимальний час до створення оборони на базі. Разом із ресурсами визначає відновлення. Ресурси = global_resources + (regional_resources * 2) + (local_resources * 3).\nЗначення залежить від resource_count / warfare.resource_count та лежить між min_faction_respawn і max_faction_respawn. Формула: (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_invasion_depart_time">
+    <text>Максимальний час до виходу сил вторгнення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_invasion_size">
+    <text>Максимальний коефіцієнт чисельності вторгнення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_invasion_size_desc">
+    <text>Максимальний множник розміру вторгнення.\nРазом із max_invasion_size і кількістю баз він визначає invasion_size, що множить максимальну чисельність смарт-терейну.\nПоточний коефіцієнт = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size).\nЧисельність = min(1, target.max_population * Current invasion size).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_rest_time">
+    <text>Максимальний час відпочинку патруля</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_rest_time_desc">
+    <text>Максимальний час очікування патруля на територіальній точці. Шанс нічної активності також впливає на те, чи вирушить він до іншої точки.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_squads">
+    <text>Максимальний коефіцієнт чисельності патрулів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_squads_desc">
+    <text>Максимальний коефіцієнт патрулів. За володіння всіма базами на кожній буде max_patrol_squads * max_population патрулів.\nПоточний коефіцієнт = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads.\nПоточний ліміт = base.max_population * current patrol squad factor.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_time">
+    <text>Максимальний час патрулювання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_patrol_time_desc">
+    <text>Максимальний час до створення патруля на базі. Разом із ресурсами визначає відновлення. Ресурси = global_resources + (regional_resources * 2) + (local_resources * 3). Час залежить від resource_count / warfare.resource_count і змінюється між min_patrol_time та max_patrol_time.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_patrol_time">
+    <text>Макс. час випадкових патрулів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_patrols">
+    <text>Максимум випадкових патрулів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_squad_count">
+    <text>Максимальна чисельність загону</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_random_squad_count_desc">
+    <text>За ввімкненого random_squad_count — максимальна кількість NPC у загоні цього угруповання.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_resurgence_wait_time">
+    <text>Максимальний час очікування відновлення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base">
+    <text>Максимум смарт-цілей на базу</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base_desc">
+    <text>Скільки точок база може одночасно обрати цілями.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_max_squad_count">
+    <text>Максимальна чисельність загону</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_faction_respawn">
+    <text>Мінімальний час відновлення угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_faction_respawn_desc">
+    <text>Мінімальний час до створення оборонного загону на базі. Разом із ресурсами визначає час відновлення. Ресурси = global_resources + (regional_resources * 2) + (local_resources * 3).\nЧас обирається між min_faction_respawn і max_faction_respawn за resource_count / warfare.resource_count. Формула: (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_invasion_depart_time">
+    <text>Мінімальний час до виходу сил вторгнення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_invasion_size">
+    <text>Мінімальний коефіцієнт чисельності вторгнення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_invasion_size_desc">
+    <text>Мінімальний множник розміру вторгнення.\nРазом із max_invasion_size і кількістю баз він визначає invasion_size, що множить максимальну чисельність смарт-терейну.\nПоточний коефіцієнт = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size).\nЧисельність вторгнення = min(1, target.max_population * Current invasion size).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_rest_time">
+    <text>Мінімальний час відпочинку патруля</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_rest_time_desc">
+    <text>Мінімальний час очікування патруля на територіальній точці. Шанс нічної активності також впливає на те, чи вирушить він до іншої точки.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_squads">
+    <text>Мінімальний коефіцієнт чисельності патрулів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_squads_desc">
+    <text>Мінімальний коефіцієнт патрулів. Без баз на кожній теоретично було б min_patrol_squads * max_population патрулів.\nПоточний коефіцієнт = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads.\nПоточний ліміт = base.max_population * current patrol squad factor.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_time">
+    <text>Мінімальний час патрулювання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_patrol_time_desc">
+    <text>Мінімальний час до створення патруля на базі. Разом із ресурсами визначає відновлення. Ресурси = global_resources + (regional_resources * 2) + (local_resources * 3). Час залежить від resource_count / warfare.resource_count і змінюється між min_patrol_time та max_patrol_time.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_random_patrol_time">
+    <text>Макс. час випадкових патрулів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_random_squad_count">
+    <text>Мінімальна чисельність загону</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_random_squad_count_desc">
+    <text>За ввімкненого random_squad_count — мінімальна кількість NPC у загоні цього угруповання.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_resurgence_wait_time">
+    <text>Мінімальний час очікування відновлення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_min_squad_count">
+    <text>Мінімальна чисельність загону</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_night_activity_chance">
+    <text>Шанс нічної активності</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_night_activity_chance_desc">
+    <text>Шанс, що угруповання відправить сили вторгнення або патрулі вночі (з 20:00 до 6:00).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_combat_distance">
+    <text>Дистанція бою поза зоною видимості</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_news_display_percentage">
+    <text>Відсоток сповіщень про події поза зоною видимості</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_news_display_percentage_desc">
+    <text>Значення від 0 до 100: режим «Війна» показуватиме цей відсоток сповіщень про події поза зоною видимості.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_power_multiplier">
+    <text>Множник шкоди поза зоною видимості</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_offline_power_multiplier_desc">
+    <text>Шкода загонів цього угруповання в боях поза зоною видимості множиться на це значення. 2 означає подвійну шкоду.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_participate_in_warfare">
+    <text>Брати участь у війні</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_patrol_hunt_chance">
+    <text>Шанс полювання патруля</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_patrol_hunt_chance_desc">
+    <text>Коли база шукає ціль для патруля й на цьому або сполученому рівні є ворожий патруль, це шанс призначити його ціллю. Інакше патруль вирушить до найближчої територіальної точки.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_patrols">
+    <text>Випадкові патрулі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_spawn_entries">
+    <text>Параметри випадкової появи</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_squad_count">
+    <text>Випадкова чисельність загонів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_random_squad_count_desc">
+    <text>Якщо ввімкнути, у кожному загоні цього угруповання буде випадкова кількість NPC від min_random_squad_count до max_random_squad_count.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_randomize_squad_count">
+    <text>Випадкова чисельність загонів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_count_modifier">
+    <text>Модифікатор кількості ресурсів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_count_modifier_desc">
+    <text>Ресурсні точки, що додаються до доступних ресурсів бази. Значення може бути від’ємним. Більше значення пришвидшує відновлення.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_priority">
+    <text>Пріоритет ресурсних точок</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_resource_priority_desc">
+    <text>Наскільки угруповання віддає перевагу ресурсним точкам. Зазвичай значення становлять від 0 до 10.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts">
+    <text>Симулювати бої поза зоною видимості на смарт-терейнах</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts_desc">
+    <text>Якщо ввімкнути, загони імітуватимуть бої поза зоною видимості лише під час захисту цілі. Близькі загони на різних смарт-терейнах не битимуться.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_spawn_on_new_game">
+    <text>З'являтися на початку нової гри</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_faction_stronger_priority">
+    <text>Пріоритет сильнішого угруповання-цілі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_faction_weaker_priority">
+    <text>Пріоритет слабшого угруповання-цілі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_on_same_level_priority">
+    <text>Пріоритет того самого рівня</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_on_same_level_priority_desc">
+    <text>Наскільки база надає перевагу точкам на тому самому рівні.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_resource_priority">
+    <text>Пріоритет ресурсів угруповання-цілі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_stronger_priority">
+    <text>Пріоритет сильнішої цілі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_stronger_priority_desc">
+    <text>Наскільки база надає перевагу точкам із сильнішими загонами.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_weaker_priority">
+    <text>Пріоритет слабшої цілі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_target_weaker_priority_desc">
+    <text>Наскільки база надає перевагу точкам із менш сильними загонами.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_territory_priority">
+    <text>Пріоритет території</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_territory_priority_desc">
+    <text>Наскільки угруповання віддає перевагу територіальним точкам (зазвичай від 0 до 10).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_faction_zombie_mode">
+    <text>Режим зомбі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_influence_weight">
+    <text>Вага впливу гравця</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_influence_weight_desc">
+    <text>Пріоритет, який кожен пункт впливу додає цілі. Зазвичай значення становлять від 1 до 10. Що воно вище, то ймовірніше, що ціллю стане точка з додатковим впливом.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight">
+    <text>Вага рангу ворога в нагороді підтримки</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight_desc">
+    <text>За вбивство ворога ви отримаєте actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_influence">
+    <text>Вплив як нагорода за підтримку</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_influence_desc">
+    <text>За кожного вбитого ворога ви отримуєте зазначену кількість очок впливу.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_money">
+    <text>Грошова нагорода за підтримку</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_actor_support_reward_money_desc">
+    <text>За вбивство ворога ви отримаєте actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight).</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_advanced_squad_price">
+    <text>Вартість досвідченого загону підтримки</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_advanced_squad_price_desc">
+    <text>Вартість досвідченого загону. Маючи щонайменше цю суму, клацніть правою кнопкою миші по базі свого угруповання, щоб придбати його. Загін одразу з'явиться на базі та стане вашим супутником.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_all_out_war">
+    <text>Тотальна війна</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_all_out_war_desc">
+    <text>Якщо ввімкнути, усі угруповання ворогуватимуть одне з одним. Якщо виявлено мод Dynamic Relations від DrX, параметр діятиме лише на початку гри.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture">
+    <text>Увімкнути автоматичне захоплення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_desc">
+    <text>Якщо ввімкнути, точку можна захопити, перебуваючи в межах відстані auto_capture_distance протягом часу auto_capture_time. Якщо поблизу кілька точок, спершу вибирається найближча база, потім інші бази й пункти ресурсів. Територіальні точки автоматично захопити не можна.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_max_distance">
+    <text>Максимальна відстань автоматичного захоплення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_max_distance_desc">
+    <text>Точки в межах цієї відстані захоплюватимуться автоматично. Якщо відійти далі, захоплення припиниться.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_wait_time">
+    <text>Час автоматичного захоплення</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_auto_capture_wait_time_desc">
+    <text>Ігровий час у хвилинах, потрібний для ручного захоплення точки.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_debug_logging">
+    <text>Журнал налагодження (збільшує файл журналу)</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_debug_logging_desc">
+    <text>Якщо ввімкнути, режим війни записуватиме в журнал початок і завершення більшості функцій, що значно збільшить файл журналу.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_disable_smart_pop_cap">
+    <text>Вимкнути ліміт населення смарт-теренів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_disable_smart_pop_cap_desc">
+    <text>Якщо ввімкнути, смарт-терени не прибиратимуть автоматично загони понад ліміт.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat">
+    <text>Увімкнути симульовані бої мутантів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat_desc">
+    <text>Якщо ввімкнути, мутанти братимуть участь у симульованих боях поза видимою зоною. Якщо вимкнути, мутантів буде помітно більше в Зоні.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_base_boost">
+    <text>Посилення ворожих баз</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_base_boost_desc">
+    <text>Вважатиметься, що ворожі угруповання мають зазначену кількість баз додатково до тих, якими володіють насправді.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_new_game_bonus">
+    <text>Додаткові стартові загони ворогів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_new_game_bonus_desc">
+    <text>Якщо ввімкнути, ворожі угруповання матимуть трохи більше загонів на початку гри, а нейтральні й дружні — трохи менше.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_resource_boost">
+    <text>Посилення ворожих ресурсів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_enemy_resource_boost_desc">
+    <text>Вважатиметься, що ворожі угруповання мають зазначену кількість додаткових ресурсів. Ресурси впливають на час появи та навички загонів оборони, нападу й патрулювання: що їх більше, то швидше з'являються кращі загони.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war">
+    <text>Увімкнути туман війни</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war_desc">
+    <text>Якщо ввімкнути, на КПК показуватимуться об'єкти в межах fog_of_war_distance від гравця або загону його угруповання. Параметри show_unfriendly_squads і hide_smarts також визначають, що відображається на КПК.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war_distance">
+    <text>Дальність туману війни</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_fog_of_war_distance_desc">
+    <text>Коли туман війни ввімкнено, на КПК показуватимуться об'єкти в межах цієї відстані від гравця або загону його угруповання. Параметри show_unfriendly_squads і hide_smarts також впливають на відображення.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_heli_price">
+    <text>Вартість гелікоптера підтримки</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_heli_price_desc">
+    <text>Вартість гелікоптера. Маючи щонайменше цю суму, клацніть правою кнопкою миші по базі свого угруповання, щоб придбати його. На одній локації може бути лише один гелікоптер кожного угруповання.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_smarts">
+    <text>Приховувати смарт-терени</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_smarts_desc">
+    <text>Якщо ввімкнути, значки смарт-теренів не відображатимуться на КПК. Об'єкти угруповання гравця залишаться видимими.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_underground_smarts">
+    <text>Приховувати підземні смарт-терени на мапі</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_underground_smarts_desc">
+    <text>Якщо ввімкнути, підземні смарт-терени буде приховано на КПК.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_unfriendly_squads">
+    <text>Приховувати ворожі загони</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_hide_unfriendly_squads_desc">
+    <text>Якщо ввімкнути, нейтральні та ворожі загони не відображатимуться на КПК.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_faction_respawn">
+    <text>Максимальний час появи мутантів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_faction_respawn_desc">
+    <text>Максимальний час до появи загону мутантів у вільному лігві чи на базі/пункті ресурсів, якщо на локації загонів менше за monster_max_squads_per_level.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_squads_per_level">
+    <text>Максимум загонів мутантів на локацію</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_desc">
+    <text>Якщо на локації загонів мутантів менше за цей ліміт, інші загони зможуть вибрати її ціллю, а мутанти з'являтимуться у вільних точках або лігвах відповідно до monster_min_faction_respawn і monster_max_faction_respawn.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_min_faction_respawn">
+    <text>Мінімальний час появи мутантів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_monster_min_faction_respawn_desc">
+    <text>Мінімальний час до появи загону мутантів у вільному лігві чи на базі/пункті ресурсів, якщо на локації загонів менше за monster_max_squads_per_level.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_novice_squad_price">
+    <text>Вартість початкового загону підтримки</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_novice_squad_price_desc">
+    <text>Вартість початкового загону. Маючи щонайменше цю суму, клацніть правою кнопкою миші по базі свого угруповання, щоб придбати його. Загін одразу з'явиться на базі та стане вашим супутником.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_purge_zone_on_emission">
+    <text>Очищати Зону під час викиду</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_purge_zone_percentage">
+    <text>Відсоток очищення Зони</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_monster_chance">
+    <text>Шанс появи мутантів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_monster_chance_desc">
+    <text>Шанс від 0 до 100, що на територіальній точці з'явиться загін мутантів, якщо ввімкнено випадкове місце початку. На кожній точці з'являється лише один мутант.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_stalker_chance">
+    <text>Шанс появи сталкерів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_stalker_chance_desc">
+    <text>Шанс від 0 до 100, що загін сталкерів з'явиться на базі або пункті ресурсів, якщо ввімкнено випадкове місце початку. Шанс розраховується окремо для кожного загону. Наприклад, за ліміту у два загони й шансу 50 % кожен матиме 50 % імовірності появи.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_character">
+    <text>Випадковий персонаж на початку</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_character_desc">
+    <text>Якщо ввімкнути, на початку нової гри ім'я гравця та його угруповання визначатимуться випадково. Рекомендується використовувати разом із випадковим місцем початку.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_locations">
+    <text>Випадкове місце початку</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_random_starting_locations_desc">
+    <text>Якщо ввімкнути, гравець з'явиться на випадковій базі в Зоні. Інші бази заселятимуться відповідно до параметрів random_stalker_chance і random_mutant_chance.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_veteran_squad_price">
+    <text>Вартість загону підтримки ветеранів</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_veteran_squad_price_desc">
+    <text>Вартість загону ветеранів. Маючи щонайменше цю суму, клацніть правою кнопкою миші по базі свого угруповання, щоб придбати його. Загін одразу з'явиться на базі та стане вашим супутником.</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_zombies_act_as_faction">
+    <text>Зомбовані діють як угруповання</text>
+  </string>
+  <string id="ui_mm_alife_warfare_general_zombies_act_as_faction_desc">
+    <text>Якщо ввімкнути, зомбовані сталкери братимуть участь у війнах між угрупованнями.</text>
+  </string>
+  <string id="ui_mm_apply">
+    <text>Застосувати</text>
+  </string>
+  <string id="ui_mm_btn_apply_all">
+    <text>Застосувати до всіх</text>
+  </string>
+  <string id="ui_mm_cancel">
+    <text>Скасувати</text>
+  </string>
+  <string id="ui_mm_change_done">
+    <text>Зміни збережено</text>
+  </string>
+  <string id="ui_mm_change_done_restart">
+    <text>Зміни збережено.\nПерезапустіть гру, щоб їх застосувати!</text>
+  </string>
+  <string id="ui_mm_control_general_aim_toggle">
+    <text>Перемикання режиму прицілювання</text>
+  </string>
+  <string id="ui_mm_control_general_crouch_toggle">
+    <text>Перемикання режиму присідання</text>
+  </string>
+  <string id="ui_mm_control_general_disassembly_warning">
+    <text>Утримуйте (ALT), щоб розібрати предмет</text>
+  </string>
+  <string id="ui_mm_control_general_disassembly_warning_desc">
+    <text>Цей параметр запобігає випадковому розбиранню предметів: спершу потрібно утримувати клавішу (ліва ALT).</text>
+  </string>
+  <string id="ui_mm_control_general_lookout_toggle">
+    <text>Перемикання режиму нахилу</text>
+  </string>
+  <string id="ui_mm_control_general_mouse_invert">
+    <text>Інвертувати рух миші</text>
+  </string>
+  <string id="ui_mm_control_general_mouse_sens">
+    <text>Чутливість миші</text>
+  </string>
+  <string id="ui_mm_control_general_mouse_sens_aim">
+    <text>Чутливість під час прицілювання</text>
+  </string>
+  <string id="ui_mm_control_general_pickup_mode">
+    <text>Підбирати кілька предметів одночасно</text>
+  </string>
+  <string id="ui_mm_control_general_pickup_mode_desc">
+    <text>Якщо ввімкнути, можна підбирати кілька предметів одночасно. Якщо вимкнути — лише по одному.</text>
+  </string>
+  <string id="ui_mm_control_general_simple_pda_mode">
+    <text>Простий режим КПК</text>
+  </string>
+  <string id="ui_mm_control_general_simple_pda_mode_desc">
+    <text>%c[ui_gray_1]•%c[ui_gray_2] Увімкнено: простий режим.\nКПК переходить у режим фокусування (інтерфейсу), лише коли гравець підносить його близько до очей (клавіша перезаряджання).\n\n%c[ui_gray_1]•%c[ui_gray_2] Вимкнено: розширений режим.\nГравець може перемикатися між режимами фокусування й руху клавішею гранатомета, незалежно від відстані КПК до точки огляду.</text>
+  </string>
+  <string id="ui_mm_control_general_sprint_toggle">
+    <text>Перемикання режиму бігу</text>
+  </string>
+  <string id="ui_mm_control_general_walk_toggle">
+    <text>Перемикання режиму ходьби</text>
+  </string>
+  <string id="ui_mm_default">
+    <text>За замовчуванням</text>
+  </string>
+  <string id="ui_mm_desc_backpack_travel">
+    <text>З незначними обмеженнями можна швидко переміститися до створених у Зоні схованок, натиснувши їх на мапі КПК. Ці параметри керують переміщенням до схованок.</text>
+  </string>
+  <string id="ui_mm_desc_disguise">
+    <text>Гравець може видати себе за члена іншого угруповання, приховавши справжню особу, наприклад для крадіжки чи вбивства. Ці параметри керують системою маскування. Докладну статтю можна знайти в енциклопедії КПК.</text>
+  </string>
+  <string id="ui_mm_desc_dynamic_news">
+    <text>Сталкери спілкуються з різних причин: повідомляють про завдання, загибель, жартують і балакають. Ці параметри дають змогу фільтрувати повідомлення, які надходять на КПК.</text>
+  </string>
+  <string id="ui_mm_desc_economy_diff">
+    <text>Зміни складності прогресу діятимуть лише в поточному проходженні.</text>
+  </string>
+  <string id="ui_mm_desc_fast_travel">
+    <text>З незначними обмеженнями можна швидко переміщатися до багатьох місць Зони, натискаючи позначки на мапі КПК. Позначка з'являється після першого відвідування місця. Ці параметри керують швидким переміщенням.</text>
+  </string>
+  <string id="ui_mm_desc_gameplay_diff">
+    <text>Зміни складності гри діятимуть лише в поточному проходженні.</text>
+  </string>
+  <string id="ui_mm_discard_changes">
+    <text>Незастосовані зміни буде відкинуто. Продовжити?</text>
+  </string>
+  <string id="ui_mm_disclaimer">
+    <text>S.T.A.L.K.E.R.: Anomaly — модифікація, створена фанатами для ігор S.T.A.L.K.E.R. від GSC Game World.\nS.T.A.L.K.E.R.: Anomaly не є офіційним продуктом GSC Game World; це похідний твір на основі оригінальних ігор S.T.A.L.K.E.R. компанії.</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_combat">
+    <text>Дозволити під час бою</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_damage">
+    <text>Дозволити пораненим</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_emission">
+    <text>Дозволити під час викидів</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_on_overweight">
+    <text>Дозволити з перевантаженням</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_state">
+    <text>Стан переміщення до схованок</text>
+  </string>
+  <string id="ui_mm_gameplay_backpack_travel_time">
+    <text>Переміщення без зміни часу</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_active_item">
+    <text>Враховувати предмет у руках</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_active_item_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть тип і стан предмета в руках.\nЦей множник визначає його вплив на загальний рівень підозри.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_active_item_factor">
+    <text>Множник підозри для предмета в руках</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_backpack">
+    <text>Враховувати рюкзак гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_backpack_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть тип і стан рюкзака.\nЦей множник визначає його вплив на загальний рівень підозри.\n%c[pda_green]Порада:%c[ui_gray_2] Великі рюкзаки привертають більше уваги, але загальний вплив цього чинника невеликий.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_backpack_factor">
+    <text>Множник підозри для рюкзака</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_distance">
+    <text>Враховувати відстань до інших</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_distance_desc">
+    <text>Якщо ввімкнути, враховуватиметься відстань між гравцем і НІП.\nЦей множник визначає мінімальну безпечну відстань, після якої обчислюється рівень підозри.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_distance_factor">
+    <text>Мінімальна безпечна відстань [метри]</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_helmet">
+    <text>Враховувати шолом гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_helmet_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть тип і стан шолома — окремого або вбудованого в костюм.\nЦей множник визначає його вплив на загальний рівень підозри.\n%c[pda_green]Порада:%c[ui_gray_2] Шоломи дуже важливі для маскування, бо приховують обличчя й особу гравця.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_helmet_factor">
+    <text>Множник підозри для шолома гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_inventory">
+    <text>Враховувати інвентар гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_inventory_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть кількість, вагу й розмір предметів в інвентарі.\nЦей множник визначає їхній вплив на загальний рівень підозри.\n%c[pda_green]Порада:%c[ui_gray_2] Багато предметів, особливо великі речі на кшталт зброї, викликають підозру, але загальний вплив цього чинника невеликий.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_inventory_factor">
+    <text>Множник підозри для інвентарю</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_outfit">
+    <text>Враховувати вбрання гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_outfit_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть тип і стан броні в слоті вбрання.\nЦей множник визначає її вплив на загальний рівень підозри.\n%c[pda_green]Порада:%c[ui_gray_2] Стан костюма критично важливий для маскування. Пошкоджений одяг викликатиме сильну підозру в НІП.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_outfit_factor">
+    <text>Множник підозри для вбрання гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_speed">
+    <text>Враховувати рух гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_speed_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть його рухи та швидкість.\nЦей множник визначає їхній вплив на загальний рівень підозри.\n%c[pda_green]Порада:%c[ui_gray_2] Не привертайте уваги: не бігайте й не стрибайте поблизу НІП.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_speed_factor">
+    <text>Множник підозри для руху</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_state">
+    <text>Увімкнути систему маскування</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_stay_time">
+    <text>Враховувати час поруч із НІП</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_stay_time_desc">
+    <text>Якщо ввімкнути, враховуватиметься час, який гравець перебуває на безпечній відстані від НІП.\nЦей множник визначає максимальний час до розрахунку підозри.\n%c[pda_green]Порада:%c[ui_gray_2] Час розмови теж враховується, тож не затримуйтеся надовго.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_stay_time_factor">
+    <text>Максимальний безпечний час перебування [секунди]</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_weapon">
+    <text>Враховувати зброю гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_weapon_desc">
+    <text>Якщо ввімкнути, НІП, які спостерігають за гравцем, враховуватимуть тип і стан зброї в основному слоті.\nЦей множник визначає її вплив на загальний рівень підозри.</text>
+  </string>
+  <string id="ui_mm_gameplay_disguise_weapon_factor">
+    <text>Множник підозри для зброї гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_arty_chance">
+    <text>Шанс повторної появи артефактів</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_arty_chance_desc">
+    <text>Артефакти зазвичай утворюються під час викидів і рідше — під час пси-штормів в аномальних полях.\n\nЦей параметр визначає шанс утворення артефакту в аномальному полі.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_arty_degradation">
+    <text>Зношування артефактів</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_battery_consumption">
+    <text>Множник витрати заряду батареї</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_battery_consumption_desc">
+    <text>Електронні пристрої постійно витрачають заряд під час роботи, а швидкість залежить від пристрою.\n\nЦей загальний множник визначає темп витрати заряду.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_bkpk_degradation">
+    <text>Зношування рюкзака</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_buy">
+    <text>Множник ціни продажу</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_buy_desc">
+    <text>Множник ціни, яку торговці платять за ваші предмети.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_condition_buy_override">
+    <text>Мінімальний стан предмета для продажу</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_condition_buy_override_desc">
+    <text>Відсоток стану, потрібний для прийняття предмета торговцями. Якщо значення 0, кожен торговець використовує мінімум зі свого конфігураційного файла.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_goodwill">
+    <text>Множник здобутої прихильності</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_goodwill_desc">
+    <text>Множник прихильності, яку ви здобуваєте за виконання завдань.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_limited_bolts">
+    <text>Обмежена кількість болтів</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_limited_bolts_desc">
+    <text>Якщо ввімкнути, болти перестануть бути нескінченними. Коли вони закінчаться, доведеться купувати або знаходити нові.\n%c[pda_green]Порада:%c[ui_gray_2] Кинуті болти можна підібрати, якщо аномалії їх не пошкодили.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_loots">
+    <text>Множник шансу знайти предмети</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_loots_desc">
+    <text>Множник шансу знайти предмети в трупах.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_max_medkit_uses">
+    <text>Кількість використань аптечок</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_money_loots">
+    <text>Множник знайдених грошей</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_money_loots_desc">
+    <text>Множник суми грошей, які можна знайти в трупах.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_outfit_drops">
+    <text>Костюми в трупах</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_outfit_drops_desc">
+    <text>Визначає, які костюми можна знайти в трупах.\n«Прогресивно» означає, що здобич залежить від розвитку гравця: вищий ранг дає змогу знаходити кращі костюми.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_percentage_parts">
+    <text>Відображати стан деталей у відсотках</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_percentage_parts_desc">
+    <text>Якщо ввімкнути, стан деталей зі розібраних предметів відображатиметься за повною шкалою від 1 до 100 %.\n\nЯкщо вимкнути — за однією з чотирьох категорій: 25 %, 50 %, 75 % або 100 %.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_repair">
+    <text>Коефіцієнт вартості ремонту</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_repair_desc">
+    <text>Що вищий коефіцієнт, то дорожче механіки ремонтуватимуть спорядження.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_restock">
+    <text>Цикл поповнення запасів торговців (години)</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_restock_desc">
+    <text>Кількість годин до повного поповнення запасів торговців.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_rewards">
+    <text>Множник грошової винагороди</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_rewards_desc">
+    <text>Множник грошей, які ви отримуєте за виконання завдань.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_sell">
+    <text>Множник ціни купівлі</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_sell_desc">
+    <text>Множник ціни, яку ви платите торговцям за їхні предмети.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_stash_chance">
+    <text>Шанс виявити схованки</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_stash_chance_desc">
+    <text>Шанс знайти в трупах КПК із місцями схованок.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_upgrade">
+    <text>Множник вартості поліпшень</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_upgrade_desc">
+    <text>Множник вартості поліпшень, які встановлюють механіки.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_weapon_degradation">
+    <text>Множник зношування зброї</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_weapon_degradation_desc">
+    <text>Зброя зношується з кожним пострілом залежно від зброї та набоїв.\n\nЦей загальний множник впливає на окремі значення та визначає швидкість зношування.</text>
+  </string>
+  <string id="ui_mm_gameplay_economy_diff_wpn_condition">
+    <text>Середній стан знайденої зброї</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_long_names">
+    <text>Використовувати повні назви</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_combat">
+    <text>Дозволити під час бою</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_damage">
+    <text>Дозволити пораненим</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_emission">
+    <text>Дозволити під час викидів</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_on_overweight">
+    <text>Дозволити з перевантаженням</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_state">
+    <text>Стан швидкого переміщення</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_time">
+    <text>Переміщення без зміни часу</text>
+  </string>
+  <string id="ui_mm_gameplay_fast_travel_visit_message">
+    <text>Повідомлення під час відвідування місця</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_actor_immunities">
+    <text>Захист гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_actor_immunities_desc">
+    <text>Визначає стійкість гравця до всіх джерел шкоди.\n\nЩо кращий захист, то більше шкоди він витримає.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_base">
+    <text>Базове розсіювання зброї ворогів</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_base_desc">
+    <text>Базове значення розсіювання зброї ворогів.\n\nЩо воно вище, то менш влучними вороги будуть на відстані.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_factor">
+    <text>Множник розсіювання зброї ворогів</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_dispersion_factor_desc">
+    <text>Множник розсіювання зброї ворогів.\n\nЩо він вищий, то сильніша віддача їхньої зброї на відстані.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_hit_power">
+    <text>Множник шкоди від куль</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_hit_power_desc">
+    <text>Множник шкоди від куль.\n%c[pda_yellow]Примітка:%c[ui_gray_2] Цей параметр впливає лише на кулі гравця, а не на кулі НІП.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_anomaly">
+    <text>Звук детектора аномалій</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_anomaly_desc">
+    <text>Якщо ввімкнути, під час наближення до аномалій лунатимуть попереджувальні сигнали.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_geiger">
+    <text>Звукові попередження про радіацію лише на лічильнику Гейгера</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_notify_geiger_desc">
+    <text>%c[ui_gray_1]Вимкнено:%c[ui_gray_2] Ви чутимете клацання радіації, наближаючись до радіоактивних зон.\n%c[ui_gray_1]Увімкнено:%c[ui_gray_2] Клацання лунатимуть, лише якщо в інвентарі є заряджений лічильник Гейгера.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_power_loss_bias">
+    <text>Множник витрати витривалості</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_radiation_day">
+    <text>Радіація в повітрі вдень</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_radiation_day_desc">
+    <text>Якщо ввімкнути, гравець постійно отримуватиме дози радіації надворі вдень, а підземелля стануть значно радіоактивнішими.\n\nВід цього захистять шоломи й костюми з належним захистом від радіації.</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_sleep">
+    <text>Недосипання</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_thirst">
+    <text>Спрага</text>
+  </string>
+  <string id="ui_mm_gameplay_gameplay_diff_weight">
+    <text>Максимальна вага спорядження</text>
+  </string>
+  <string id="ui_mm_gameplay_general_char_portrait">
+    <text>Стандартний портрет</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_max_count">
+    <text>Кількість трупів до прибирання</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_max_count_desc">
+    <text>Трупи прибираються, щоб скупчення не погіршувало продуктивність і не перевантажувало A-Life.\nПрибирання починається, коли перевищено обмеження за кількістю трупів, відстанню до гравця й часом.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_min_dist">
+    <text>Відстань до трупів для прибирання [метри]</text>
+  </string>
+  <string id="ui_mm_gameplay_general_corpse_min_dist_desc">
+    <text>Трупи прибираються, щоб скупчення не погіршувало продуктивність і не перевантажувало A-Life.\nПрибирання починається, коли перевищено обмеження за кількістю трупів, відстанню до гравця й часом.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_hardcore_ai_aim">
+    <text>Влучність ШІ в режимі хардкору</text>
+  </string>
+  <string id="ui_mm_gameplay_general_max_tasks">
+    <text>Максимум завдань на одного НІП</text>
+  </string>
+  <string id="ui_mm_gameplay_general_max_tasks_desc">
+    <text>Скільки завдань від одного НІП може бути активними одночасно.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_mechanic_feature">
+    <text>Відкладений ремонт у механіків</text>
+  </string>
+  <string id="ui_mm_gameplay_general_mechanic_feature_desc">
+    <text>Якщо ввімкнути, доведеться чекати день або довше, поки механіки відремонтують зламані предмети. Забрати їх можна буде після завершення ремонту.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_need_equipped_hkit">
+    <text>Мисливський набір потрібно вдягнути замість рюкзака, щоб отримати бонус</text>
+  </string>
+  <string id="ui_mm_gameplay_general_npc_loot_distance">
+    <text>Відстань для обшуку трупів [метри]</text>
+  </string>
+  <string id="ui_mm_gameplay_general_npc_loot_distance_desc">
+    <text>Інші сталкери обшукуватимуть трупи, лише якщо гравець перебуває щонайменше на цій відстані.\nЦе має завадити їм забирати вашу чесно здобуту здобич.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_outfit_portrait">
+    <text>Портрет гравця відповідно до вбрання</text>
+  </string>
+  <string id="ui_mm_gameplay_general_outfit_portrait_desc">
+    <text>Змінює портрет гравця відповідно до його вбрання. Якщо вимкнути цей параметр, буде відновлено стандартний портрет, вибраний у меню нової гри.</text>
+  </string>
+  <string id="ui_mm_gameplay_general_player_name">
+    <text>Ім'я гравця</text>
+  </string>
+  <string id="ui_mm_gameplay_general_release_dropped_items">
+    <text>Прибирати старі кинуті предмети</text>
+  </string>
+  <string id="ui_mm_gameplay_general_show_tip_reputation">
+    <text>Сповіщення про репутацію</text>
+  </string>
+  <string id="ui_mm_gameplay_general_show_tip_reputation_desc">
+    <text>Сповіщає про зміни репутації в угрупованнях після виконання або провалу завдань.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok">
+    <text>Будь-яка зброя ближнього бою підходить для тихого вбивства</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok_desc">
+    <text>Якщо вимкнути, для тихого вбивства можна використовувати лише зброю ближнього бою з параметром «can_stealth_stab» = true. За замовчуванням підходить лише ніж Spetnaz.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_enabled">
+    <text>Увімкнути тихі вбивства</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_fresh_time">
+    <text>Час підозри після тихого вбивства</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_fresh_time_desc">
+    <text>Час, протягом якого NPC можуть упізнати вбивцю, якщо побачать вас біля тіла.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_gun_enabled">
+    <text>Дозволити тихі вбивства зі зброєю з глушником</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist">
+    <text>Мінімальна відстань свідків для вбивства зі зброї</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist_desc">
+    <text>Якщо будь-який NPC, крім жертви, перебуває ближче за цю відстань (у метрах) до вас або жертви, тихе вбивство зі зброї завжди не вдасться. Дощ зменшує відстань.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_headshot_only">
+    <text>Для тихого вбивства зі стрілецької зброї потрібен постріл у голову</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_melee_enabled">
+    <text>Дозволити тихі вбивства зброєю ближнього бою</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist">
+    <text>Мінімальна відстань свідків для вбивства зброєю ближнього бою</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist_desc">
+    <text>Якщо будь-який NPC, крім жертви, перебуває ближче за цю відстань (у метрах) до вас або жертви, тихе вбивство в ближньому бою завжди не вдасться. Дощ зменшує відстань.</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_suspect_dist">
+    <text>Відстань від тіла для викриття</text>
+  </string>
+  <string id="ui_mm_gameplay_silent_kills_sk_suspect_dist_desc">
+    <text>На якій відстані від тихо вбитого NPC інші NPC можуть упізнати у вас убивцю.</text>
+  </string>
+  <string id="ui_mm_header_effects">
+    <text>Ефекти</text>
+  </string>
+  <string id="ui_mm_header_grass">
+    <text>Трава</text>
+  </string>
+  <string id="ui_mm_header_lighting">
+    <text>Освітлення</text>
+  </string>
+  <string id="ui_mm_header_rendering_dist">
+    <text>Дальність промальовування</text>
+  </string>
+  <string id="ui_mm_header_rendering_quality">
+    <text>Якість промальовування</text>
+  </string>
+  <string id="ui_mm_lst_10h">
+    <text>10 год</text>
+  </string>
+  <string id="ui_mm_lst_11h">
+    <text>11 год</text>
+  </string>
+  <string id="ui_mm_lst_12h">
+    <text>12 год</text>
+  </string>
+  <string id="ui_mm_lst_28days">
+    <text>28 днів</text>
+  </string>
+  <string id="ui_mm_lst_3h">
+    <text>3 год</text>
+  </string>
+  <string id="ui_mm_lst_4h">
+    <text>4 год</text>
+  </string>
+  <string id="ui_mm_lst_5h">
+    <text>5 год</text>
+  </string>
+  <string id="ui_mm_lst_6h">
+    <text>6 год</text>
+  </string>
+  <string id="ui_mm_lst_7h">
+    <text>7 год</text>
+  </string>
+  <string id="ui_mm_lst_8days">
+    <text>8 днів</text>
+  </string>
+  <string id="ui_mm_lst_8h">
+    <text>8 год</text>
+  </string>
+  <string id="ui_mm_lst_9h">
+    <text>9 год</text>
+  </string>
+  <string id="ui_mm_lst_all">
+    <text>Усі</text>
+  </string>
+  <string id="ui_mm_lst_atest_msaa_dx10_0">
+    <text>Використовувати DX10</text>
+  </string>
+  <string id="ui_mm_lst_atest_msaa_dx10_1">
+    <text>Використовувати DX10.1</text>
+  </string>
+  <string id="ui_mm_lst_average">
+    <text>Посередньо</text>
+  </string>
+  <string id="ui_mm_lst_borderless">
+    <text>Вікно без рамки</text>
+  </string>
+  <string id="ui_mm_lst_bright_night">
+    <text>Дуже світлі ночі</text>
+  </string>
+  <string id="ui_mm_lst_combined">
+    <text>Обидва</text>
+  </string>
+  <string id="ui_mm_lst_dark_night">
+    <text>Темні ночі</text>
+  </string>
+  <string id="ui_mm_lst_default">
+    <text>За замовчуванням</text>
+  </string>
+  <string id="ui_mm_lst_disabled">
+    <text>Вимкнено</text>
+  </string>
+  <string id="ui_mm_lst_every_12h">
+    <text>Кожні 6–12 годин</text>
+  </string>
+  <string id="ui_mm_lst_every_24h">
+    <text>Кожні 12–24 години</text>
+  </string>
+  <string id="ui_mm_lst_every_2d">
+    <text>Кожні 1–2 дні</text>
+  </string>
+  <string id="ui_mm_lst_every_4d">
+    <text>Кожні 2–4 дні</text>
+  </string>
+  <string id="ui_mm_lst_explode">
+    <text>Підірвати</text>
+  </string>
+  <string id="ui_mm_lst_extreme">
+    <text>Екстремальний</text>
+  </string>
+  <string id="ui_mm_lst_full">
+    <text>Повний</text>
+  </string>
+  <string id="ui_mm_lst_fullscreen">
+    <text>На весь екран</text>
+  </string>
+  <string id="ui_mm_lst_good">
+    <text>Добре</text>
+  </string>
+  <string id="ui_mm_lst_great">
+    <text>Чудово</text>
+  </string>
+  <string id="ui_mm_lst_hbao">
+    <text>HBAO</text>
+  </string>
+  <string id="ui_mm_lst_hdao">
+    <text>HDAO</text>
+  </string>
+  <string id="ui_mm_lst_high">
+    <text>Високий</text>
+  </string>
+  <string id="ui_mm_lst_kill_at_end">
+    <text>Убити наприкінці</text>
+  </string>
+  <string id="ui_mm_lst_kill_at_vortex">
+    <text>Убити у вихорі</text>
+  </string>
+  <string id="ui_mm_lst_kill_at_wave">
+    <text>Убити під час просування хвилі</text>
+  </string>
+  <string id="ui_mm_lst_low">
+    <text>Низький</text>
+  </string>
+  <string id="ui_mm_lst_medium">
+    <text>Середній</text>
+  </string>
+  <string id="ui_mm_lst_medium_night">
+    <text>Помірно світлі ночі</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_0">
+    <text>Молодик</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_1">
+    <text>Молодий місяць</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_2">
+    <text>Перша чверть</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_3">
+    <text>Молодик опуклий</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_4">
+    <text>Повня</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_5">
+    <text>Старий місяць опуклий</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_6">
+    <text>Остання чверть</text>
+  </string>
+  <string id="ui_mm_lst_moon_phase_7">
+    <text>Старий місяць</text>
+  </string>
+  <string id="ui_mm_lst_no_warning">
+    <text>Без попередження</text>
+  </string>
+  <string id="ui_mm_lst_none">
+    <text>Немає</text>
+  </string>
+  <string id="ui_mm_lst_off">
+    <text>Вимкнено</text>
+  </string>
+  <string id="ui_mm_lst_on_smarts_only">
+    <text>Лише на смарт-теренах</text>
+  </string>
+  <string id="ui_mm_lst_poor">
+    <text>Погано</text>
+  </string>
+  <string id="ui_mm_lst_pres_default">
+    <text>Середній</text>
+  </string>
+  <string id="ui_mm_lst_pres_extreme">
+    <text>Екстремальний</text>
+  </string>
+  <string id="ui_mm_lst_pres_high">
+    <text>Високий</text>
+  </string>
+  <string id="ui_mm_lst_pres_low">
+    <text>Низький</text>
+  </string>
+  <string id="ui_mm_lst_pres_minimum">
+    <text>Мінімальний</text>
+  </string>
+  <string id="ui_mm_lst_progressive">
+    <text>Прогресивно</text>
+  </string>
+  <string id="ui_mm_lst_radio">
+    <text>Лише радіо</text>
+  </string>
+  <string id="ui_mm_lst_rare">
+    <text>Рідко</text>
+  </string>
+  <string id="ui_mm_lst_regular">
+    <text>Звичайно</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r1">
+    <text>DirectX 8 (базовий)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r2">
+    <text>DirectX 9 (звичайний)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r2.5">
+    <text>DirectX 9 (покращений)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r2a">
+    <text>DirectX 9 (базовий)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r3">
+    <text>DirectX 10 (покращений)</text>
+  </string>
+  <string id="ui_mm_lst_renderer_r4">
+    <text>DirectX 11 (покращений)</text>
+  </string>
+  <string id="ui_mm_lst_screen_space">
+    <text>Простір екрана</text>
+  </string>
+  <string id="ui_mm_lst_show_all">
+    <text>Показувати всі</text>
+  </string>
+  <string id="ui_mm_lst_siren">
+    <text>Лише сирена</text>
+  </string>
+  <string id="ui_mm_lst_siren_radio">
+    <text>Сирена й радіо</text>
+  </string>
+  <string id="ui_mm_lst_slight_night">
+    <text>Трохи світлі ночі</text>
+  </string>
+  <string id="ui_mm_lst_storyonly">
+    <text>Лише ключові персонажі</text>
+  </string>
+  <string id="ui_mm_lst_turn_to_zombie">
+    <text>Перетворити на зомбі</text>
+  </string>
+  <string id="ui_mm_lst_ultra">
+    <text>Ультра</text>
+  </string>
+  <string id="ui_mm_lst_unhurt">
+    <text>Не вбивати</text>
+  </string>
+  <string id="ui_mm_lst_visit_only">
+    <text>Лише відвідані місця</text>
+  </string>
+  <string id="ui_mm_lst_volumetric">
+    <text>Об'ємний</text>
+  </string>
+  <string id="ui_mm_lst_windowed">
+    <text>У вікні</text>
+  </string>
+  <string id="ui_mm_lst_x2">
+    <text>x2</text>
+  </string>
+  <string id="ui_mm_lst_x4">
+    <text>x4</text>
+  </string>
+  <string id="ui_mm_lst_x8">
+    <text>x8</text>
+  </string>
+  <string id="ui_mm_menu_advanced">
+    <text>Додаткові</text>
+  </string>
+  <string id="ui_mm_menu_alife">
+    <text>Зона</text>
+  </string>
+  <string id="ui_mm_menu_army">
+    <text>Військові</text>
+  </string>
+  <string id="ui_mm_menu_azazel">
+    <text>Азазель</text>
+  </string>
+  <string id="ui_mm_menu_backpack_travel">
+    <text>Подорож із рюкзаком</text>
+  </string>
+  <string id="ui_mm_menu_bandit">
+    <text>Бандити</text>
+  </string>
+  <string id="ui_mm_menu_basic">
+    <text>Основні</text>
+  </string>
+  <string id="ui_mm_menu_control">
+    <text>Керування</text>
+  </string>
+  <string id="ui_mm_menu_csky">
+    <text>Чисте Небо</text>
+  </string>
+  <string id="ui_mm_menu_disguise">
+    <text>Маскування</text>
+  </string>
+  <string id="ui_mm_menu_dolg">
+    <text>Долг</text>
+  </string>
+  <string id="ui_mm_menu_dynamic_news">
+    <text>Динамічні новини</text>
+  </string>
+  <string id="ui_mm_menu_ecolog">
+    <text>Екологи</text>
+  </string>
+  <string id="ui_mm_menu_economy_diff">
+    <text>Складність прогресу</text>
+  </string>
+  <string id="ui_mm_menu_environment">
+    <text>Оточення</text>
+  </string>
+  <string id="ui_mm_menu_event">
+    <text>Події</text>
+  </string>
+  <string id="ui_mm_menu_fast_travel">
+    <text>Швидке переміщення</text>
+  </string>
+  <string id="ui_mm_menu_freedom">
+    <text>Воля</text>
+  </string>
+  <string id="ui_mm_menu_gameplay">
+    <text>Ігровий процес</text>
+  </string>
+  <string id="ui_mm_menu_gameplay_diff">
+    <text>Складність гри</text>
+  </string>
+  <string id="ui_mm_menu_general">
+    <text>Загальні</text>
+  </string>
+  <string id="ui_mm_menu_greh">
+    <text>Гріх</text>
+  </string>
+  <string id="ui_mm_menu_hud">
+    <text>Інтерфейс/HUD</text>
+  </string>
+  <string id="ui_mm_menu_isg">
+    <text>МДГ</text>
+  </string>
+  <string id="ui_mm_menu_keybind">
+    <text>Клавіші</text>
+  </string>
+  <string id="ui_mm_menu_killer">
+    <text>Найманці</text>
+  </string>
+  <string id="ui_mm_menu_monolith">
+    <text>Моноліт</text>
+  </string>
+  <string id="ui_mm_menu_night">
+    <text>Ніч</text>
+  </string>
+  <string id="ui_mm_menu_other">
+    <text>Інше</text>
+  </string>
+  <string id="ui_mm_menu_player">
+    <text>Гравець</text>
+  </string>
+  <string id="ui_mm_menu_radio">
+    <text>Радіо</text>
+  </string>
+  <string id="ui_mm_menu_renegade">
+    <text>Ренегати</text>
+  </string>
+  <string id="ui_mm_menu_silent_kills">
+    <text>Тихі вбивства</text>
+  </string>
+  <string id="ui_mm_menu_sound">
+    <text>Звук</text>
+  </string>
+  <string id="ui_mm_menu_stalker">
+    <text>Сталкери</text>
+  </string>
+  <string id="ui_mm_menu_video">
+    <text>Зображення</text>
+  </string>
+  <string id="ui_mm_menu_warfare">
+    <text>Війна</text>
+  </string>
+  <string id="ui_mm_menu_weather">
+    <text>Погода</text>
+  </string>
+  <string id="ui_mm_menu_zombied">
+    <text>Зомбовані</text>
+  </string>
+  <string id="ui_mm_options_n">
+    <text>Налаштування</text>
+  </string>
+  <string id="ui_mm_originals">
+    <text>Оригінальні ігри</text>
+  </string>
+  <string id="ui_mm_other_autosave_timer">
+    <text>Автозбереження кожні 15 хв</text>
+  </string>
+  <string id="ui_mm_other_autosave_timer_new">
+    <text>Автозбереження кожні X хв (0 = вимкнено)</text>
+  </string>
+  <string id="ui_mm_other_debug_error">
+    <text>Сповіщення про помилки налагодження</text>
+  </string>
+  <string id="ui_mm_other_debug_error_desc">
+    <text>Показує сповіщення на HUD, якщо в консолі зареєстровано помилку.</text>
+  </string>
+  <string id="ui_mm_other_debug_hud">
+    <text>Налагоджувальний HUD</text>
+  </string>
+  <string id="ui_mm_other_debug_map_hud">
+    <text>Налагоджувальні позначки на мапі</text>
+  </string>
+  <string id="ui_mm_other_debug_map_hud_desc">
+    <text>Показує на мапі всі загони в Зоні та додаткові налагоджувальні дані.</text>
+  </string>
+  <string id="ui_mm_other_discord">
+    <text>Статус Discord</text>
+  </string>
+  <string id="ui_mm_other_discord_desc">
+    <text>Якщо Discord запущено й параметр увімкнено, у профілі відображатиметься статус гри: локація, активне завдання, угруповання, здоров’я та режим гри.</text>
+  </string>
+  <string id="ui_mm_other_important_save">
+    <text>Автозбереження під час зміни локації</text>
+  </string>
+  <string id="ui_mm_other_localization">
+    <text>Мова</text>
+  </string>
+  <string id="ui_mm_other_quicksave_cnt">
+    <text>Кількість швидких збережень</text>
+  </string>
+  <string id="ui_mm_preset">
+    <text>Профіль</text>
+  </string>
+  <string id="ui_mm_prst_economy_easy">
+    <text>Турист</text>
+  </string>
+  <string id="ui_mm_prst_economy_hard">
+    <text>Виживальник</text>
+  </string>
+  <string id="ui_mm_prst_economy_medium">
+    <text>Шукач</text>
+  </string>
+  <string id="ui_mm_prst_gameplay_easy">
+    <text>Легко</text>
+  </string>
+  <string id="ui_mm_prst_gameplay_hard">
+    <text>Важко</text>
+  </string>
+  <string id="ui_mm_prst_gameplay_medium">
+    <text>Середньо</text>
+  </string>
+  <string id="ui_mm_prst_video_default">
+    <text>Середній</text>
+  </string>
+  <string id="ui_mm_prst_video_extreme">
+    <text>Екстремальний</text>
+  </string>
+  <string id="ui_mm_prst_video_high">
+    <text>Високий</text>
+  </string>
+  <string id="ui_mm_prst_video_low">
+    <text>Низький</text>
+  </string>
+  <string id="ui_mm_prst_video_minimum">
+    <text>Мінімальний</text>
+  </string>
+  <string id="ui_mm_prst_warfare_default">
+    <text>Швидко</text>
+  </string>
+  <string id="ui_mm_prst_warfare_yoko">
+    <text>Повільно</text>
+  </string>
+  <string id="ui_mm_reset">
+    <text>Скинути</text>
+  </string>
+  <string id="ui_mm_sound_environment_ambient_volume">
+    <text>Гучність звуків оточення</text>
+  </string>
+  <string id="ui_mm_sound_environment_ambient_volume_desc">
+    <text>Цей повзунок регулює гучність фонових звуків: цвіркунів, ворон, птахів, нічних криків тощо.</text>
+  </string>
+  <string id="ui_mm_sound_environment_breathing_sound">
+    <text>Звук дихання в масці</text>
+  </string>
+  <string id="ui_mm_sound_environment_helmet_rain_sound">
+    <text>Звук крапель дощу по шолому</text>
+  </string>
+  <string id="ui_mm_sound_environment_wind_sound">
+    <text>Фоновий звук вітру</text>
+  </string>
+  <string id="ui_mm_sound_general_caption">
+    <text>Субтитри</text>
+  </string>
+  <string id="ui_mm_sound_general_dynamic_music">
+    <text>Динамічна музика</text>
+  </string>
+  <string id="ui_mm_sound_general_eax">
+    <text>EAX</text>
+  </string>
+  <string id="ui_mm_sound_general_master_volume">
+    <text>Гучність звукових ефектів</text>
+  </string>
+  <string id="ui_mm_sound_general_music_volume">
+    <text>Гучність музики</text>
+  </string>
+  <string id="ui_mm_sound_general_snd_targets">
+    <text>Джерела звуку</text>
+  </string>
+  <string id="ui_mm_sound_general_sound_device">
+    <text>Пристрій відтворення звуку</text>
+  </string>
+  <string id="ui_mm_sound_radio_1_play">
+    <text>Увімкнути/зупинити радіо</text>
+  </string>
+  <string id="ui_mm_sound_radio_2_play">
+    <text>Увімкнути/зупинити музичний програвач</text>
+  </string>
+  <string id="ui_mm_sound_radio_access">
+    <text>Клавіша відкриття меню параметрів радіо</text>
+  </string>
+  <string id="ui_mm_sound_radio_access_call">
+    <text>Клавіша відкриття меню Radio settings.txt</text>
+  </string>
+  <string id="ui_mm_sound_radio_display_tracks">
+    <text>Показувати назви композицій у HUD</text>
+  </string>
+  <string id="ui_mm_sound_radio_emission_intereferences">
+    <text>Перешкоди сигналу під час викидів</text>
+  </string>
+  <string id="ui_mm_sound_radio_next">
+    <text>Наступна композиція</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist">
+    <text>Наступний канал або список відтворення</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_1">
+    <text>Назва списку відтворення 1</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_10">
+    <text>Назва списку відтворення 10</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_2">
+    <text>Назва списку відтворення 2</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_3">
+    <text>Назва списку відтворення 3</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_4">
+    <text>Назва списку відтворення 4</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_5">
+    <text>Назва списку відтворення 5</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_6">
+    <text>Назва списку відтворення 6</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_7">
+    <text>Назва списку відтворення 7</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_8">
+    <text>Назва списку відтворення 8</text>
+  </string>
+  <string id="ui_mm_sound_radio_playlist_name_9">
+    <text>Назва списку відтворення 9</text>
+  </string>
+  <string id="ui_mm_sound_radio_previous">
+    <text>Попередня композиція</text>
+  </string>
+  <string id="ui_mm_sound_radio_underground_intereferences">
+    <text>Перешкоди сигналу в підземеллях</text>
+  </string>
+  <string id="ui_mm_sound_radio_vol_down">
+    <text>Клавіша зменшення гучності</text>
+  </string>
+  <string id="ui_mm_sound_radio_vol_up">
+    <text>Клавіша збільшення гучності</text>
+  </string>
+  <string id="ui_mm_sound_radio_zone">
+    <text>Радіоприймачі в Зоні</text>
+  </string>
+  <string id="ui_mm_sound_radio_zone_desc">
+    <text>Дозволяє радіоприймачам у Зоні відтворювати музику.</text>
+  </string>
+  <string id="ui_mm_title_alife">
+    <text>Загальні параметри A-Life</text>
+  </string>
+  <string id="ui_mm_title_control">
+    <text>Загальні елементи керування</text>
+  </string>
+  <string id="ui_mm_title_disguise">
+    <text>Налаштування маскування</text>
+  </string>
+  <string id="ui_mm_title_economy_diff">
+    <text>Складність прогресу</text>
+  </string>
+  <string id="ui_mm_title_effects">
+    <text>Ефекти гравця</text>
+  </string>
+  <string id="ui_mm_title_emission">
+    <text>Викиди</text>
+  </string>
+  <string id="ui_mm_title_gameplay">
+    <text>Загальні параметри ігрового процесу</text>
+  </string>
+  <string id="ui_mm_title_gameplay_diff">
+    <text>Складність гри</text>
+  </string>
+  <string id="ui_mm_title_hud">
+    <text>Інтерфейс/HUD</text>
+  </string>
+  <string id="ui_mm_title_mask">
+    <text>Протигаз</text>
+  </string>
+  <string id="ui_mm_title_night">
+    <text>Ночі</text>
+  </string>
+  <string id="ui_mm_title_other">
+    <text>Інші налаштування</text>
+  </string>
+  <string id="ui_mm_title_psi_storm">
+    <text>Псі-шторм</text>
+  </string>
+  <string id="ui_mm_title_sound">
+    <text>Загальні налаштування звуку</text>
+  </string>
+  <string id="ui_mm_title_sound_environment">
+    <text>Звукові ефекти оточення</text>
+  </string>
+  <string id="ui_mm_title_sound_radio">
+    <text>Радіо</text>
+  </string>
+  <string id="ui_mm_title_video_advanced">
+    <text>Додаткові налаштування зображення</text>
+  </string>
+  <string id="ui_mm_title_video_basic">
+    <text>Основні налаштування зображення</text>
+  </string>
+  <string id="ui_mm_title_warfare">
+    <text>Загальні налаштування режиму війни</text>
+  </string>
+  <string id="ui_mm_title_warfare_azazel">
+    <text>Налаштування режиму «Азазель» у «Війні»</text>
+  </string>
+  <string id="ui_mm_title_warfare_faction">
+    <text>Налаштування угруповань у режимі війни</text>
+  </string>
+  <string id="ui_mm_video_advanced_actor_shadow">
+    <text>Тіні від персонажів</text>
+  </string>
+  <string id="ui_mm_video_advanced_ai_torch">
+    <text>Дозволити сталкерам користуватися ліхтарями</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_bump">
+    <text>Рельєф дрібних деталей</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_density">
+    <text>Густота трави</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_height">
+    <text>Розмір трави</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_radius">
+    <text>Дальність промальовування трави</text>
+  </string>
+  <string id="ui_mm_video_advanced_detail_textures">
+    <text>Деталізовані текстури</text>
+  </string>
+  <string id="ui_mm_video_advanced_dof_enable">
+    <text>Глибина різкості</text>
+  </string>
+  <string id="ui_mm_video_advanced_dynamic_wet_surfaces">
+    <text>Мокрі поверхні</text>
+  </string>
+  <string id="ui_mm_video_advanced_enable_tessellation">
+    <text>Теселяція</text>
+  </string>
+  <string id="ui_mm_video_advanced_framelimit">
+    <text>Обмеження FPS</text>
+  </string>
+  <string id="ui_mm_video_advanced_framelimit_desc">
+    <text>Цей повзунок дає змогу встановити власне обмеження FPS. «0» означає, що обмеження немає.</text>
+  </string>
+  <string id="ui_mm_video_advanced_geometry_lod">
+    <text>Деталізація об'єктів</text>
+  </string>
+  <string id="ui_mm_video_advanced_gloss_factor">
+    <text>Бліки (глянець)</text>
+  </string>
+  <string id="ui_mm_video_advanced_grass_shadow">
+    <text>Тіні від трави</text>
+  </string>
+  <string id="ui_mm_video_advanced_ls_squality">
+    <text>Якість тіней</text>
+  </string>
+  <string id="ui_mm_video_advanced_mblur">
+    <text>Сила розмиття в русі</text>
+  </string>
+  <string id="ui_mm_video_advanced_mblur_enable">
+    <text>Розмиття в русі</text>
+  </string>
+  <string id="ui_mm_video_advanced_mipbias">
+    <text>Зсув MIP текстур</text>
+  </string>
+  <string id="ui_mm_video_advanced_mipbias_desc">
+    <text>Налаштовує якість і чіткість текстур на відстані.</text>
+  </string>
+  <string id="ui_mm_video_advanced_msaa_alphatest">
+    <text>Згладжування об'єктів із прозорістю альфа-тесту</text>
+  </string>
+  <string id="ui_mm_video_advanced_msaa_opt">
+    <text>Оптимізувати згладжування</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_dynamic_geom">
+    <text>Динамічні об'єкти</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_shadow_geom">
+    <text>Відсікання віддалених тіней</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_shadow_geom_desc">
+    <text>Цей параметр може підвищити продуктивність, прибираючи віддалені тіні, яких зазвичай не видно.\nВін також може прибирати дуже довгі тіні, помітні під час світанку й заходу сонця.</text>
+  </string>
+  <string id="ui_mm_video_advanced_optimize_static_geom">
+    <text>Статичні об'єкти</text>
+  </string>
+  <string id="ui_mm_video_advanced_refresh_60hz">
+    <text>Частота 60 Гц</text>
+  </string>
+  <string id="ui_mm_video_advanced_slight_fade">
+    <text>Дальність освітлення</text>
+  </string>
+  <string id="ui_mm_video_advanced_smaa">
+    <text>SMAA</text>
+  </string>
+  <string id="ui_mm_video_advanced_soft_particles">
+    <text>М'які частинки</text>
+  </string>
+  <string id="ui_mm_video_advanced_soft_water">
+    <text>М'яка вода</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssample">
+    <text>Згладжування</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssample_list">
+    <text>Згладжування</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssao">
+    <text>Якість SSAO</text>
+  </string>
+  <string id="ui_mm_video_advanced_ssao_mode">
+    <text>Режим SSAO</text>
+  </string>
+  <string id="ui_mm_video_advanced_steep_parallax">
+    <text>Виразний паралакс</text>
+  </string>
+  <string id="ui_mm_video_advanced_sun">
+    <text>Тінь від сонця</text>
+  </string>
+  <string id="ui_mm_video_advanced_sun_details">
+    <text>Тінь від трави</text>
+  </string>
+  <string id="ui_mm_video_advanced_sun_quality">
+    <text>Якість тіні від сонця</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_min">
+    <text>Базова інтенсивність сонячних променів</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_mode">
+    <text>Режим сонячних променів</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_quality">
+    <text>Якість сонячних променів (об'ємних)</text>
+  </string>
+  <string id="ui_mm_video_advanced_sunshafts_value">
+    <text>Основна інтенсивність сонячних променів</text>
+  </string>
+  <string id="ui_mm_video_advanced_texture_lod">
+    <text>Деталізація текстур</text>
+  </string>
+  <string id="ui_mm_video_advanced_tf_aniso">
+    <text>Анізотропна фільтрація</text>
+  </string>
+  <string id="ui_mm_video_advanced_v_sync">
+    <text>Вертикальна синхронізація</text>
+  </string>
+  <string id="ui_mm_video_advanced_vis_distance">
+    <text>Світ</text>
+  </string>
+  <string id="ui_mm_video_advanced_volumetric_lights">
+    <text>Об'ємне освітлення</text>
+  </string>
+  <string id="ui_mm_video_advanced_volumetric_smoke">
+    <text>Об'ємний дим</text>
+  </string>
+  <string id="ui_mm_video_basic_brightness">
+    <text>Яскравість</text>
+  </string>
+  <string id="ui_mm_video_basic_contrast">
+    <text>Насиченість кольорів</text>
+  </string>
+  <string id="ui_mm_video_basic_fov">
+    <text>Поле зору (FOV)</text>
+  </string>
+  <string id="ui_mm_video_basic_gamma">
+    <text>Гама</text>
+  </string>
+  <string id="ui_mm_video_basic_hud_fov">
+    <text>Поле зору HUD</text>
+  </string>
+  <string id="ui_mm_video_basic_lighting">
+    <text>Основні налаштування освітлення</text>
+  </string>
+  <string id="ui_mm_video_basic_preset">
+    <text>Профіль якості</text>
+  </string>
+  <string id="ui_mm_video_basic_renderer">
+    <text>Режим рендерингу</text>
+  </string>
+  <string id="ui_mm_video_basic_resolution">
+    <text>Роздільна здатність</text>
+  </string>
+  <string id="ui_mm_video_basic_screen_mode">
+    <text>Режим екрана</text>
+  </string>
+  <string id="ui_mm_video_hud_3d_pda">
+    <text>Показувати 3D-модель КПК</text>
+  </string>
+  <string id="ui_mm_video_hud_autohide_stamina_bar">
+    <text>Автоматично приховувати шкалу витривалості</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_a">
+    <text>Колір прицілу (альфа)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_b">
+    <text>Колір прицілу (синій)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_g">
+    <text>Колір прицілу (зелений)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_clr_r">
+    <text>Колір прицілу (червоний)</text>
+  </string>
+  <string id="ui_mm_video_hud_crosshair_dist">
+    <text>Відстань до цілі під прицілом</text>
+  </string>
+  <string id="ui_mm_video_hud_dynamic_crosshair">
+    <text>Динамічний приціл</text>
+  </string>
+  <string id="ui_mm_video_hud_head_bob_factor">
+    <text>Похитування голови</text>
+  </string>
+  <string id="ui_mm_video_hud_ironsights_zoom_factor">
+    <text>Збільшення під час прицілювання через механічний приціл</text>
+  </string>
+  <string id="ui_mm_video_hud_show_crosshair">
+    <text>Показувати приціл</text>
+  </string>
+  <string id="ui_mm_video_hud_show_enemy_health">
+    <text>Показувати здоров'я ворогів</text>
+  </string>
+  <string id="ui_mm_video_hud_show_hud">
+    <text>Показувати HUD</text>
+  </string>
+  <string id="ui_mm_video_hud_show_identity">
+    <text>Показувати особу НІП</text>
+  </string>
+  <string id="ui_mm_video_hud_show_minimap">
+    <text>Показувати мінімапу</text>
+  </string>
+  <string id="ui_mm_video_hud_show_slots">
+    <text>Показувати артефакти на поясі в HUD</text>
+  </string>
+  <string id="ui_mm_video_hud_show_tracers">
+    <text>Показувати трасери</text>
+  </string>
+  <string id="ui_mm_video_hud_show_wpn">
+    <text>Показувати зброю</text>
+  </string>
+  <string id="ui_mm_video_hud_tips_desc">
+    <text>Показує ім'я НІП, на якого наведено приціл. Колір позначає його ставлення до гравця та допомагає розпізнати ворогів.</text>
+  </string>
+  <string id="ui_mm_video_night_brightness">
+    <text>Яскравість уночі</text>
+  </string>
+  <string id="ui_mm_video_night_moon_cycle">
+    <text>Тривалість місячного циклу</text>
+  </string>
+  <string id="ui_mm_video_night_moon_phase">
+    <text>Стала фаза місяця</text>
+  </string>
+  <string id="ui_mm_video_night_moon_phase_state">
+    <text>Увімкнути сталу фазу місяця</text>
+  </string>
+  <string id="ui_mm_video_player_animations">
+    <text>Анімації використання предметів</text>
+  </string>
+  <string id="ui_mm_video_player_bleed_effect">
+    <text>Розмиття за низького рівня здоров'я</text>
+  </string>
+  <string id="ui_mm_video_player_blood_splash">
+    <text>Бризки крові</text>
+  </string>
+  <string id="ui_mm_video_player_breathing_fog">
+    <text>Пара від дихання</text>
+  </string>
+  <string id="ui_mm_video_player_fog_pfx">
+    <text>Динамічний туман</text>
+  </string>
+  <string id="ui_mm_video_player_hit_impact_effect">
+    <text>Ефект від влучання</text>
+  </string>
+  <string id="ui_mm_video_player_item_swap_animation">
+    <text>Анімація зміни предмета</text>
+  </string>
+  <string id="ui_mm_video_player_mask_hud">
+    <text>Відображення маски</text>
+  </string>
+  <string id="ui_mm_video_player_radiation_effect">
+    <text>Ефект радіації</text>
+  </string>
+  <string id="ui_mm_video_player_rain_droplets">
+    <text>Краплі дощу</text>
+  </string>
+  <string id="ui_mm_video_player_shoot_effects">
+    <text>Покращені ефекти віддачі</text>
+  </string>
+  <string id="ui_mm_video_player_tiny_pfx">
+    <text>Частинки пилу</text>
+  </string>
+  <string id="ui_mm_video_player_visor_reflection">
+    <text>Відблиск на візорі</text>
+  </string>
+  <string id="ui_mm_video_weather_occurrence">
+    <text>Частота</text>
+  </string>
+  <string id="ui_mm_video_weather_period">
+    <text>Тривалість циклу</text>
+  </string>
+  <string id="ui_mm_warning_economy_diff_not_level_present">
+    <text>Параметри складності прогресу доступні лише під час гри.</text>
+  </string>
+  <string id="ui_mm_warning_gameplay_diff_not_level_present">
+    <text>Параметри складності ігрового процесу доступні лише під час гри.</text>
+  </string>
+  <string id="ui_mm_warning_pending">
+    <text>У вас є зміни, які очікують на застосування: (%s).</text>
+  </string>
+</string_table>

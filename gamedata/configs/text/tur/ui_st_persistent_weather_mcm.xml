@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_persistent_weather">
+    <text>Kalıcı hava durumu</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled">
+    <text>Modu etkinleştir</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled_desc">
+    <text>Kalıcı hava durumu sistemini etkinleştirir. Kayıt yüklenirken hava durumu kaydedilir ve geri yüklenir.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay">
+    <text>Bölge değişiminde en kısa gecikme (dakika)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay_desc">
+    <text>Bölge geçişinde havanın değişebilmesi için geçmesi gereken en kısa oyun süresi. Daha erken geçerseniz hava korunur. 0 ile devre dışı bırakılır.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance">
+    <text>Bölge değişiminde havanın korunma olasılığı (%)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance_desc">
+    <text>Yeni bir bölgeye geçerken aynı havanın sürme olasılığı (0-100%). %0’da geçişte hava her zaman değişir (varsayılan davranış); %100’de hep aynı kalır.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_title">
+    <text>Kalıcı hava durumu</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout">
+    <text>Yer altında kalma süresi (dakika)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout_desc">
+    <text>Havanın değişmesine izin verilmeden önce yer altında kalabileceğiniz gerçek süre. Varsayılan: 10 dakika.</text>
+  </string>
+</string_table>

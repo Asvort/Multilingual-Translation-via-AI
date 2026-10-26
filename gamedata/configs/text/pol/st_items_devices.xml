@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="exten_sion_pda">
+    <text>Drogi PDA odporny na wodę i uderzenia, z wbudowanym odtwarzaczem muzyki i czatem.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] umożliwia odtwarzanie muzyki i korzystanie z sieci stalkerów\n</text>
+  </string>
+  <string id="extension_pda">
+    <text>PDA z odtwarzaczem muzyki i czatem</text>
+  </string>
+  <string id="st_actor_rads">
+    <text>Dawka skumulowana</text>
+  </string>
+  <string id="st_batteries">
+    <text>Zestaw baterii</text>
+  </string>
+  <string id="st_batteries_ccell">
+    <text>Wojskowy blok baterii</text>
+  </string>
+  <string id="st_batteries_ccell_descr">
+    <text>Zestaw w pełni naładowanych baterii używanych w jednostkach wojskowych. Są bardzo cenne i poszukiwane z powodu ciągłego niedoboru baterii w Zonie. Korzystają z nich wszystkie frakcje i stalkerzy każdej rangi, od nowicjuszy po mistrzów. Sprzedają je oficerowie próbujący dorobić w Zonie.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n</text>
+  </string>
+  <string id="st_batteries_dead">
+    <text>Stare baterie</text>
+  </string>
+  <string id="st_batteries_dead_descr">
+    <text>Tylko jedna na dziesięć baterii znalezionych w Zonie utrzyma ładunek przez jakiś czas. Stalkerzy najwyraźniej wyrzucili je po użyciu, bo trudno znaleźć do nich ładowarkę. Zewnętrzna obudowa pokryła się brudem i korozją, co również świadczy o tym, że baterie są „martwe”. Mimo to, jak wszystkiemu w Zonie, można znaleźć dla nich zastosowanie — na przykład wycisnąć z nich jeszcze trochę energii do częstego ładowania uniwersalnego urządzenia.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>Ktoś musiał już używać tego zestawu baterii, bo pozostała w nim tylko połowa ładunku. Jest przeznaczony do latarek, PDA, urządzeń noktowizyjnych i innego sprzętu elektronicznego. Pamiętaj o wymianie baterii na czas.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n</text>
+  </string>
+  <string id="st_broken_pda">
+    <text>Uszkodzony PDA</text>
+  </string>
+  <string id="st_broken_pda_descr">
+    <text>Ten PDA jest mocno uszkodzony: połowa wyświetlacza jest rozbita, a moduł GPS działa nieprawidłowo. Wnętrze nie ucierpiało zbytnio.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n</text>
+  </string>
+  <string id="st_detector1">
+    <text>Detektor „Odgłos” (T1)</text>
+  </string>
+  <string id="st_detector1_descr">
+    <text>Przestarzały detektor aktywności anomalii. Gdy zbliżasz się do anomalii, urządzenie emituje sygnał dźwiękowy po wykryciu anomalnych cząstek w specjalnej komorze. Potrafi też wykrywać artefakty i mierzyć odległość do najbliższego; częstotliwość sygnału wskazuje dystans. Unieś pokrywę anteny na przednim panelu, aby włączyć wyszukiwanie artefaktów. Prosta konstrukcja pozwala mu znajdować tylko najpopularniejsze artefakty.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_detector2">
+    <text>Detektor „Niedźwiedź” (T2)</text>
+  </string>
+  <string id="st_detector2_descr">
+    <text>Detektor anomalii poprzedniej generacji. Ma lokalizator anomalii i wyświetlacz LED wskazujący kierunek do artefaktów. Potrafi je wykrywać i określać odległość do nich. Unieś pokrywę anteny z przodu urządzenia, aby włączyć wyszukiwanie artefaktów. Niestety nieco przestarzała lista wykrywanych artefaktów jest na stałe zapisana w jego podzespołach.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_detector3">
+    <text>Detektor „Weles” (T3)</text>
+  </string>
+  <string id="st_detector3_descr">
+    <text>Nowej generacji detektor-skanner używany przez naukowców. Dzięki trzem ulepszonym komorom pomiarowym specjalny ekran pokazuje położenie artefaktu względem urządzenia. Detektor wykrywa promieniowanie i obecność anomalii. Unieś panel wskaźników z przodu, aby włączyć wyszukiwanie artefaktów; w tym trybie znajduje wszystkie artefakty znane nauce.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] wysokie zużycie energii\n</text>
+  </string>
+  <string id="st_detector4">
+    <text>Prototyp detektora „Svarog” (T4)</text>
+  </string>
+  <string id="st_detector4_descr">
+    <text>Prototyp skanera stref anomalii o rozszerzonych funkcjach. Dodano program rozpoznający statyczne strefy anomalii zapisane w bazie danych, zachowując możliwość wykrywania artefaktów. Specjalny ekran pokazuje położenie stref anomalii i artefaktów względem detektora. Udoskonalono program wyszukiwania artefaktów, uruchamiany przez uniesienie panelu wskaźników z przodu urządzenia; teoretycznie pozwala to wykrywać formacje anomalii nieznane jeszcze nauce.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] wysokie zużycie energii\n</text>
+  </string>
+  <string id="st_detector8">
+    <text>Przyrząd do pomiaru aktywności anomalii</text>
+  </string>
+  <string id="st_detector8_descr">
+    <text>Pierwszy prototyp opracowano w 2008 roku w mobilnym laboratorium naukowym na Jantarze pod kierunkiem profesora Sacharowa. Po udanych testach terenowych powstało wiele kolejnych egzemplarzy. Urządzenie przetwarza i zapisuje pomiary oraz dane pól anomalii. Ulepszone czujniki i obudowa zapewniają działanie nawet w najtrudniejszych warunkach; wysoka czułość podczas wykrywania i śledzenia pozwala używać go w różnych środowiskach.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_detector9">
+    <text>Odbiornik RF</text>
+  </string>
+  <string id="st_detector9_descr">
+    <text>Niewielkie urządzenie z bardzo czułym modułem częstotliwości radiowych, służące do podstawowej komunikacji. Jest dość popularne wśród wojska mimo przestarzałej technologii. Odbiera sygnały z odległości do 200 metrów i przetwarza fale radiowe w zakresie od 30 do 300 MHz.\n \n %c[0,56,166,209]Instrukcja obsługi%c[ui_gray_1]:\nAby rozpocząć, weź urządzenie do ręki.\nGdy prawa ręka jest wolna, częstotliwość zmienia się tak:\n• Lewy przycisk myszy zwiększa częstotliwość.\n• Prawy przycisk myszy zmniejsza częstotliwość.\n• Przytrzymaj L-Shift, aby zmieniać częstotliwość skokami co 10 Hz (+/-).\n• Przytrzymaj L-Alt, aby zmieniać częstotliwość skokami co 50 Hz (+/-).\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_device_flashlight">
+    <text>Latarka ręczna</text>
+  </string>
+  <string id="st_device_flashlight_descr">
+    <text>Zwykła latarka ręczna, używana — sądząc po śladach zużycia. To ważne i niezbędne narzędzie podczas wędrówki po Zonie. Niestety nie można jej używać z większością broni, ponieważ wolna pozostaje tylko jedna ręka.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>Zwykła latarka czołowa, która pomaga nie zgubić się w ciemności. W rękach nieostrożnego stalkera może zwrócić uwagę zarówno niepożądanych osób, jak i mutantów.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>Latarka czołowa (T1)</text>
+  </string>
+  <string id="st_device_torch_nv_1_descr">
+    <text>Standardowa latarka czołowa z urządzeniem noktowizyjnym 1PN93-1. Zapewnia obraz generacji 2+, szczególnie przydatny nocą i przy słabym oświetleniu.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_purple] • %c[ui_gray_2] urządzenie noktowizyjne: %c[ui_gray_1]1PN93-1\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_device_torch_nv_1_name">
+    <text>Latarka czołowa z 1PN93-1 (T2)</text>
+  </string>
+  <string id="st_device_torch_nv_2_descr">
+    <text>Latarka czołowa przydatna stalkerowi, którego noc zaskoczy w drodze, choć może przyciągnąć niepożądaną uwagę. Ma wzmacniacz obrazu IIT generacji 2+ i nadaje się do działań nocą przy świetle naturalnym oraz w całkowitej ciemności z włączonym iluminatorem IR.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_purple] • %c[ui_gray_2] urządzenie noktowizyjne: %c[ui_gray_1]PN21KL\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_device_torch_nv_2_name">
+    <text>Latarka czołowa z PN21KL (T3)</text>
+  </string>
+  <string id="st_device_torch_nv_3_descr">
+    <text>Zestaw latarki czołowej i noktowizora ma ulepszony napęd, soczewki oraz oprogramowanie, które eliminują szum obrazu i znacznie zwiększają możliwości PN21K, poprawiając ostrość. W praktyce urządzenie działa jak pełnoprawny noktowizor IIT generacji 3.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_purple] • %c[ui_gray_2] urządzenie noktowizyjne: %c[ui_gray_1]„Wyrocznia”\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_device_torch_nv_3_name">
+    <text>Latarka czołowa z noktowizorem „Wyrocznia” (T4)</text>
+  </string>
+  <string id="st_dosimeter_mode">
+    <text>Tryb dozymetru</text>
+  </string>
+  <string id="st_electric power">
+    <text>Uniwersalna ładowarka baterii</text>
+  </string>
+  <string id="st_electric power_descr">
+    <text>Niewielki przenośny moduł zasilania z czasów zimnej wojny, wielkości małego radia. Pasują do niego niemal wszystkie rodzaje akumulatorów i baterii. Wykorzystuje ich energię do ostatniej kropli i przekazuje ją urządzeniom elektronicznym za pomocą cienkich przewodów z zestawu. Można podłączyć prawie każdy sprzęt, niezależnie od jego złożoności i wieku. Takie urządzenia pomagają stalkerom utrzymać elektronikę w działaniu.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] przenośne źródło zasilania\n %c[d_blue] • %c[ui_gray_2] obsługuje większość nowoczesnych urządzeń\n %c[d_blue] • %c[ui_gray_2] obsługuje wszystkie rodzaje baterii\n %c[d_blue] • %c[ui_gray_2] pojemność: %c[ui_gray_1]3 Ah (amperogodziny)\n</text>
+  </string>
+  <string id="st_environment_rads">
+    <text>Promieniowanie tła</text>
+  </string>
+  <string id="st_geiger_dead">
+    <text>Dozymetr</text>
+  </string>
+  <string id="st_geiger_dead_descr">
+    <text>Dozymetr mierzący promieniowanie jonizujące (radioaktywne). Wykrywa promieniowanie alfa, beta i gamma.\nWynaleziony w 1908 roku licznik Geigera nadal jest popularnym urządzeniem technicznym i częścią wielu przyrządów pomiarowych używanych w ochronie zdrowia, fizyce, przemyśle, geologii i innych dziedzinach. Takie urządzenia powstają z prostych układów elektronicznych.\n \n %c[0,56,166,209]Cechy%c[ui_gray_1]: \n• W ręku wyświetla w czasie rzeczywistym promieniowanie tła i skumulowaną dawkę; tryb zmienia się klawiszami „SHIFT+8”. \n• Pokazuje odczyty po naciśnięciu domyślnego klawisza skrótu „8”, gdy licznik znajduje się w ekwipunku”.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne \n %c[d_orange] • %c[ui_gray_2] mierzy poziom skażenia radioaktywnego\n %c[d_blue] • %c[ui_gray_2] średnie zużycie energii\n</text>
+  </string>
+  <string id="st_gps_tracker">
+    <text>Wojskowy moduł GPS</text>
+  </string>
+  <string id="st_gps_tracker_descr">
+    <text>Prototyp nawigacji GPS nowej generacji. Wyprodukowano zaledwie kilka egzemplarzy i przekazano je wysokim rangą wojskowym, ale część trafiła już w inne ręce.\nDziała niezawodnie nawet w najbardziej wymagającym środowisku. W przeciwieństwie do zwykłych modułów GPS ten prototyp wykorzystuje zestawy kluczy, by uzyskać bezpośredni dostęp do urządzeń podłączonych do sieci i pobierać ich dane; może też przekazywać współrzędne innych modułów GPS w promieniu 300 metrów. Wadą jest bardzo wysokie zużycie energii. Wyłącza się automatycznie po 20 sekundach ciągłego skanowania.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] bardzo wysokie zużycie energii\n</text>
+  </string>
+  <string id="st_musicplayer">
+    <text>Radio</text>
+  </string>
+  <string id="st_musicplayer_desc">
+    <text>Zmodyfikowane radio przeznaczone do wyszukiwania innych stacji i filtrowania jak największej ilości zakłóceń.\n \n %c[ui_gray_2]CECHY:\n \n %c[d_cyan] • %c[ui_gray_2] urządzenie technologiczne\n</text>
+  </string>
+  <string id="st_pda_1_descr">
+    <text>Nieco przestarzały PDA z podstawowymi funkcjami, którego wciąż używa wielu stalkerów. Jest niezastąpiony do codziennej wymiany wiadomości. Wbudowany moduł GPS określa czas i położenie użytkownika oraz dostarcza innych danych geograficznych.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] niskie zużycie energii\n</text>
+  </string>
+  <string id="st_pda_1_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_2_descr">
+    <text>Jeden z najnowszych modeli PDA o rozszerzonych funkcjach. Zawiera cyfrowe dzienniki oraz szczegółowe mapy obszarów i miejsc występowania anomalii. Jest niezastąpiony do codziennej wymiany wiadomości. Wbudowany moduł GPS określa czas i położenie użytkownika oraz dostarcza innych danych geograficznych. Model wykrywa też inne PDA w promieniu 300 metrów i przekazuje ich współrzędne. Wielu stalkerów chciałoby taki mieć.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] niskie zużycie energii\n %c[d_purple] • %c[ui_gray_2] pokazuje położenie oddziałów frakcji gracza\n</text>
+  </string>
+  <string id="st_pda_2_name">
+    <text>PDA (Model 2.0)</text>
+  </string>
+  <string id="st_pda_3_descr">
+    <text>Prawdopodobnie najbardziej zaawansowany obecnie model PDA. Ma znacznie ulepszony algorytm wykrywania i przesyłania danych z innych PDA w promieniu 300 metrów. W przeciwieństwie do zwykłych modułów GPS korzysta z zestawów kluczy, by uzyskiwać bezpośredni dostęp do urządzeń podłączonych do sieci i pobierać ich dane. Dzięki tym możliwościom stalkerzy bardzo poszukują tego modelu.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] niskie zużycie energii\n %c[d_purple] • %c[ui_gray_2] pokazuje położenie neutralnych oddziałów\n</text>
+  </string>
+  <string id="st_pda_3_name">
+    <text>PDA (Model 3.1)</text>
+  </string>
+  <string id="st_pda_descr">
+    <text>Zwykły PDA stalkera, który ma przy sobie każdy włóczący się po Zonie. Zawiera cyfrowe dzienniki oraz szczegółowe mapy obszarów i miejsc występowania anomalii. Jeśli znajdziesz odpowiedniego handlarza, możesz nieźle zarobić na sprzedaży znalezionych PDA.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] niskie zużycie energii</text>
+  </string>
+  <string id="st_pda_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_weather_radar">
+    <text>Zestaw dopplerowskiego radaru pogodowego</text>
+  </string>
+  <string id="st_weather_radar_descr">
+    <text>Zestaw zaawansowanego sprzętu meteorologicznego z radarem wykorzystującym efekt Dopplera. To prawdziwy cud meteorologii: radar, korzystając z magnetronu połączonego falowodem z anteną paraboliczną, wysyła ukierunkowane impulsy mikrofalowe trwające około mikrosekundy, aby zebrać dane pogodowe.\nDwaj badacze odkryli, że użycie artefaktu „Kawałek mięsa” w pobliżu anteny może tak wzmocnić impulsy, iż po dotarciu do górnych warstw atmosfery zmieniają one jony, a przez to właściwości całej atmosfery.\n \n %c[ui_gray_3]CECHY:\n %c[d_blue] • %c[ui_gray_2] urządzenie technologiczne\n %c[d_blue] • %c[ui_gray_2] sprzęt meteorologiczny\n %c[d_blue] • %c[ui_gray_2] zasilany artefaktem „Kawałek mięsa”\n</text>
+  </string>
+</string_table>

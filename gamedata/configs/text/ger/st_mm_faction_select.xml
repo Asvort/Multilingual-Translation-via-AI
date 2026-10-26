@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_azazel_lives_possessed">
+    <text>Besessenheiten</text>
+  </string>
+  <string id="st_azazel_lives_possessed_single">
+    <text>Besessenheit</text>
+  </string>
+  <string id="st_cap_check_campfire">
+    <text>Lagerfeuer-Spielstände</text>
+  </string>
+  <string id="st_cap_check_conditions">
+    <text>Agonie</text>
+  </string>
+  <string id="st_cap_check_drx">
+    <text>DoctorX-Questreihen</text>
+  </string>
+  <string id="st_cap_check_freeplay">
+    <text>Freies Spiel</text>
+  </string>
+  <string id="st_cap_check_routes">
+    <text>Offene Zone</text>
+  </string>
+  <string id="st_cap_check_warfare">
+    <text>Modus Wahre Dunkelheit</text>
+  </string>
+  <string id="st_cap_list_difficulty">
+    <text>Spielschwierigkeit</text>
+  </string>
+  <string id="st_cap_list_economy">
+    <text>Wirtschaftsschwierigkeit</text>
+  </string>
+  <string id="st_cap_list_hardcore_lives">
+    <text>Anzahl der Leben</text>
+  </string>
+  <string id="st_cap_list_hardcore_regen">
+    <text>Tage pro Zusatzleben</text>
+  </string>
+  <string id="st_cap_list_timer">
+    <text>Timer</text>
+  </string>
+  <string id="st_diff_1">
+    <text>Leicht</text>
+  </string>
+  <string id="st_diff_2">
+    <text>Mittel</text>
+  </string>
+  <string id="st_diff_3">
+    <text>Schwer</text>
+  </string>
+  <string id="st_diff_4">
+    <text>Hardcore</text>
+  </string>
+  <string id="st_econ_1">
+    <text>Tourist</text>
+  </string>
+  <string id="st_econ_2">
+    <text>Plünderer</text>
+  </string>
+  <string id="st_econ_3">
+    <text>Überleben</text>
+  </string>
+  <string id="st_faction_army">
+    <text>Militär</text>
+  </string>
+  <string id="st_faction_army_desc">
+    <text>%c[0,150,150,150]Zum Militär gehören SBU-Agenten, Spezialeinheiten, Militärstalker und Soldaten regulärer Armeeeinheiten.\n \nSie bewachen die Zugänge zum Sperrgebiet der Zone, patrouillieren den Perimeter, erschießen Mutanten und fangen Plünderer.</text>
+  </string>
+  <string id="st_faction_bandit">
+    <text>Banditen</text>
+  </string>
+  <string id="st_faction_bandit_desc">
+    <text>%c[0,150,150,150]Banditen sind Kriminelle, die aus verschiedenen Gründen in die Zone kamen: um mit Artefakten Geld zu verdienen, vor dem Gesetz zu fliehen oder Waffen zu kaufen und zu verkaufen.\n \nObwohl die Regierungen der Ukraine und Belarus offiziell eine nominelle Kontrolle über die Zone ausüben, herrscht dort weiterhin Gesetzlosigkeit.</text>
+  </string>
+  <string id="st_faction_csky">
+    <text>Clear Sky</text>
+  </string>
+  <string id="st_faction_csky_desc">
+    <text>%c[0,150,150,150]Clear Sky ist eine unabhängige, teilweise paramilitärische Forschungsfraktion, die sich der Erforschung der Zone und dem Schutz ihres gefährlichen Wissens vor den falschen Händen verschrieben hat.\n \nObwohl die Fraktion bei einem kostspieligen, gescheiterten Vorstoß zum Kernkraftwerk Tschernobyl beinahe ausgelöscht wurde, rettete eine Handvoll Überlebender nicht nur die Lage, sondern baute Clear Sky fast wieder zu alter Stärke auf.\n \n%c[0,255,255,255]Für neue Spieler empfohlen.</text>
+  </string>
+  <string id="st_faction_dolg">
+    <text>Duty</text>
+  </string>
+  <string id="st_faction_dolg_desc">
+    <text>%c[0,150,150,150]Duty ist eine paramilitärische Fraktion, die die Zone und all ihre Kreaturen als große Bedrohung für die Außenwelt betrachtet. Jedes Mitglied sieht es daher als Hauptziel, die Welt vor dem Einfluss und der Ausbreitung der Zone zu schützen.\n \nWegen ihrer gegensätzlichen Ideologien ist Duty seit Langem ein erbitterter Feind der Freiheit.</text>
+  </string>
+  <string id="st_faction_ecolog">
+    <text>Wissenschaftler</text>
+  </string>
+  <string id="st_faction_ecolog_desc">
+    <text>%c[0,150,150,150]Wissenschaftler und Ökologen führen von der ukrainischen Regierung finanzierte Expeditionen in der Zone durch, um sie zu erforschen und ihr Potenzial zum Wohl der Menschheit zu nutzen.\n \n%c[0,255,255,255]Für pazifistische Spieler empfohlen.</text>
+  </string>
+  <string id="st_faction_freedom">
+    <text>Freiheit</text>
+  </string>
+  <string id="st_faction_freedom_desc">
+    <text>%c[0,150,150,150]Die Freiheit besteht aus Anarchisten und Draufgängern, die sich zu Verteidigern der Freiheit in der Zone erklärt haben und deshalb ständig mit dem Militär und Duty in Konflikt liegen.</text>
+  </string>
+  <string id="st_faction_greh">
+    <text>Sünde</text>
+  </string>
+  <string id="st_faction_greh_desc">
+    <text>%c[0,150,150,150]Sünde ähnelt eher einer religiösen Sekte als einer Fraktion. Ihre Mitglieder glauben, nur sie könnten die Zone verstehen, und alle anderen müssten sich ihrem großen Ziel anschließen oder sterben.\n \nIhre Anhänger gelten als zombifiziert, fanatisch oder als ‚dunkle Stalker‘-Mutanten, die die ganze Welt in eine Zone verwandeln wollen. Für ihr Ziel schrecken sie vor nichts zurück.\n \n%c[0,255,255,255]Nur für erfahrene Spieler empfohlen.</text>
+  </string>
+  <string id="st_faction_isg">
+    <text>ISG</text>
+  </string>
+  <string id="st_faction_isg_desc">
+    <text>%c[0,150,150,150]Die Internationale Forschungsgruppe (ISG; UNISG) wurde mit Unterstützung der USA über die UN wiederhergestellt und zur Forschung erneut in die Zone entsandt.\n \nWas auch immer ihre wahren Ziele sind: ISG-Agenten zeigen außergewöhnliches Geschick in Militärangelegenheiten, Aufklärung und Spionage. Sie werden alles tun, damit keine Informationen über ihre Bewegungen in der Zone nach außen dringen.\n \n%c[0,255,255,255]Nur für erfahrene Spieler empfohlen.</text>
+  </string>
+  <string id="st_faction_killer">
+    <text>Söldner</text>
+  </string>
+  <string id="st_faction_killer_desc">
+    <text>%c[0,150,150,150]Söldner stammen aus unterschiedlichen Gesellschaftsschichten und Nationen. Sie bieten fast jedem ihre Dienste als Glücksritter an, der eine stattliche Summe zahlt. Ihre Auftraggeber auf dem Festland und ihre Ziele in der Zone bleiben unbekannt; aus eigenen Gründen helfen sie bestimmten Gruppen, in das ökologische Katastrophengebiet einzudringen. Das Militär könnte sie um Ausbildung und Disziplin beneiden.</text>
+  </string>
+  <string id="st_faction_monolith">
+    <text>Monolith</text>
+  </string>
+  <string id="st_faction_monolith_desc">
+    <text>%c[0,150,150,150]Der Monolith ist ein fanatischer religiöser Kult, dessen Anhänger jeden andersartigen Stalker als Erzfeind betrachten, der die Heiligkeit des Monolithen bedroht.\n \nTrotz der Vernichtung des C-Bewusstseins und seiner geschrumpften Reihen sammelten sich die Kämpfer des Monolithen später und eroberten den Großteil ihres Gebiets zurück.\n \n%c[0,255,255,255]Nur für erfahrene Spieler empfohlen.</text>
+  </string>
+  <string id="st_faction_renegade">
+    <text>Renegaten</text>
+  </string>
+  <string id="st_faction_renegade_desc">
+    <text>%c[0,150,150,150]Renegaten sind die skrupellosesten Stalker. Sie haben sich bei ihren Fraktionen und Clans so schwer vergangen, dass sie verstoßen wurden und unter keinen Umständen zurückkehren dürfen.\n \nSie kennen weder Ethik noch Moral noch Gesetze. Alle Stalker verachten sie, und selbst Banditen dulden ihre Anwesenheit kaum.\n \n%c[0,255,255,255]Nur für erfahrene Spieler empfohlen.</text>
+  </string>
+  <string id="st_faction_stalker">
+    <text>Einzelgänger</text>
+  </string>
+  <string id="st_faction_stalker_desc">
+    <text>%c[0,150,150,150]Willkommen bei Raid into Darkness, Version 1.0. Lies dies, bevor du deine Reise beginnst. Das Add-on ist für das Spiel als Einzelgänger gedacht; möglicherweise kommen später weitere Fraktionen hinzu.\n
+\nDeine Reise beginnt in einem der Verstecke. Der Tod ist nun kein simples „F9“ mehr, sondern ein vollwertiger Teil des Spiels. Beim Tod hängt der Ausrüstungsverlust vom Rang ab: Ein Neuling verliert 10 %, ein Meister 80 %. Gegenstände kannst du beim Informanten im Aufgabenbereich des Laptops versichern. Beachte die beiden neuen Modi Dunkelheit und Wahre Dunkelheit; fahre mit der Maus über die Schaltflächen, um die Beschreibungen zu lesen. Startest du ohne diese Modi, wird der Standardmodus mit Speicherständen an Lagerfeuern aktiviert (für Anfänger empfohlen und in den MCM-Optionen eingeschaltet). Wähle deine Ausrüstung mit Bedacht, handle überlegt und versuche, den Rang Legendär zu erreichen!\n
+\n%c[0,255,255,255]Diese Add-on-Version enthält keine Handlung. Vielleicht wird sie später umgesetzt, wenn das Add-on sein Publikum findet.\n
+\n%c[0,150,150,150]Die Zone hat sich verändert. Die Einstufung der Emissionen ist nun anders: Eine Emission, die man in einem Holzhaus aussitzen kann, heißt nur noch „Schwall“. Andere Emissionen, die Super-Emissionen, verbrennen den Verstand selbst dort, wo sich Menschen früher sicher fühlten.\nIm Zentrum der Zone ist ein neues, geheimnisvolles Phänomen aufgetaucht. Die Stalker nannten es fast sofort Dunkelheit. Was ist es und woher kommt es? Ein weiteres Geheimnis der Zone.\nDie Fraktionen Duty und Freedom haben den Großteil ihrer Mitglieder verloren. Ihre Stützpunkte sind verlassen; alte Kordons wurden von Mutanten- und Anomaliewellen hinweggefegt. Alles, was früher eine relativ „sichere Zone“ war, ist nun die Hölle auf Erden.\nViele erfahrene Stalker sind in die Zone zurückgekehrt. Sie gehen auf Raids und übernehmen sogenannte Aufträge, während sie verzweifelt versuchen, in dieser neuen, veränderten Zone nicht unterzugehen.\n 
+\n%c[0,255,255,255]Achtung: Lerne die Mod-Mechaniken zunächst im vereinfachten Modus kennen, bevor du Dunkelheit oder Wahre Dunkelheit aktivierst.</text>
+  </string>
+  <string id="st_faction_zombied">
+    <text>Zombifizierte</text>
+  </string>
+  <string id="st_faction_zombied_desc">
+    <text>%c[0,150,150,150]M-m-m-mei-i-ister!!!\n \nZombifizierte sind unglückliche Stalker, deren Verstand durch Psi-Emitter oder Controller-Angriffe zerstört wurde. Ihnen bleiben nur Grundinstinkte, und sie greifen alle und alles an.\n \n%c[0,255,255,255]Nur für erfahrene Spieler empfohlen.</text>
+  </string>
+  <string id="st_godmode">
+    <text>Gottmodus</text>
+  </string>
+  <string id="st_hardcore_lives_left">
+    <text>Verbleibende Leben</text>
+  </string>
+  <string id="st_hardcore_lives_left_single">
+    <text>Verbleibendes Leben</text>
+  </string>
+  <string id="st_loading">
+    <text>Laden</text>
+  </string>
+  <string id="st_main_menu">
+    <text>Hauptmenü</text>
+  </string>
+  <string id="st_mm_box_faction_desc">
+    <text>%c[0,150,150,150]%s.</text>
+  </string>
+  <string id="st_mm_box_icon_desc">
+    <text>%c[0,150,150,150]Porträt der Hauptfigur.</text>
+  </string>
+  <string id="st_mm_btn_new_game_back">
+    <text>Zurück</text>
+  </string>
+  <string id="st_mm_btn_new_game_faction">
+    <text>Fraktion</text>
+  </string>
+  <string id="st_mm_btn_new_game_icon">
+    <text>Profil</text>
+  </string>
+  <string id="st_mm_btn_new_game_rand">
+    <text>Zufälliger Name</text>
+  </string>
+  <string id="st_mm_btn_new_game_submit">
+    <text>Starten</text>
+  </string>
+  <string id="st_mm_ck_azazel_mode_desc">
+    <text>%c[0,150,150,150]Der Tod ist nicht das Ende.\n \nAls Dämon Azazel erhältst du nach dem Tod einen neuen Körper: Deine Seele fährt in einen zufälligen Stalker, der tatsächlich in der Zone lebt.\n \nHast du Begleiter, wirst du zu einem von ihnen. Diese Option passt gut zu den Modi Ein Leben und/oder Überleben.\n \n \n%c[200,200,50,50]• %c[0,150,150,150]In diesem Modus sind alle Gebiete zugänglich.\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Storymodus kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_campfire_desc">
+    <text>%c[0,150,150,150]Wenn Lagerfeuer-Speichern aktiviert ist, kannst du nur in der Nähe eines Lagerfeuers speichern.\n \n%c[200,50,200,50]• %c[0,150,150,150]Alle Hardcore-Speichermodi sind vollständig miteinander kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_conditions_desc">
+    <text>%c[0,150,150,150]Im Agonie-Modus kannst du nicht speichern, wenn du: \n%c[200,200,200,50]• %c[0,150,150,150]Verletzt bist\n%c[200,200,200,50]• %c[0,150,150,150]Blutest\n%c[200,200,200,50]• %c[0,150,150,150]Verstrahlt bist\n%c[200,200,200,50]• %c[0,150,150,150]Im Kampf bist\n%c[200,200,200,50]• %c[0,150,150,150]Eine Emission oder einen Psi-Sturm abwartest\n \n%c[200,50,200,50]• %c[0,150,150,150]Alle Hardcore-Speichermodi sind vollständig miteinander kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_drx_desc">
+    <text>%c[0,150,150,150]Eine Reihe dynamischer Quests, die über die ganze Zone verteilt sind.\n Unendlicher Wiederspielwert; der Ablauf deines Durchgangs wird nie derselbe sein.\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Storymodus kompatibel.\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Modus Leben nach dem Leben kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_hardcore_aim_desc">
+    <text>%c[0,150,150,150]Hohe NPC-Treffgenauigkeit. Gegner treffen bewegliche Ziele besser – selbst mit Ausweichmanövern sind Schussverletzungen schwer zu vermeiden.</text>
+  </string>
+  <string id="st_mm_ck_hardcore_desc">
+    <text>Modus%c[0,150,150,150] mit erhöhtem Schwierigkeitsgrad. Deine Ausrüstung bleibt am Todesort und kann geborgen werden; 75 % der Beute im Inventar gehen verloren,\n\n der\n%c[200,127,255,212] Rest bleibt%c[0,150,150,150] dort. Einfacher%c[200,34,130,34] als Wahre Dunkelheit.%c[0,150,150,150] Schwieriger%c[200,150,34,34] als „Ohne Dunkelheit“,%c[0,150,150,150] aber einfacher%c[200,127,255,212]\n\n als Wahre%c[0,150,150,150] Dunkelheit. Am Todesort erscheint ein Versteck mit allen Gegenständen,\n\n%c[200,127,255,212] das bei späteren%c[0,150,150,150] Raids geborgen%c[200,150,34,34] werden kann. Während%c[0,150,150,150] eines Raids kann nicht gespeichert\n\n%c[200,127,255,212] werden;%c[0,150,150,150] Spielstände funktionieren%c[200,150,34,34] nur im%c[0,150,150,150] Versteck. Die Spielkonsole%c[200,127,255,212]\n\n ist während%c[0,150,150,150] eines Raids nicht verfügbar.%c[200,150,34,34] Die Schaltfläche%c[0,150,150,150] „Spiel laden“\n\n ist%c[200,127,255,212] während eines%c[0,150,150,150] Raids nicht verfügbar.%c[200,150,34,34] MCM-Änderungen%c[0,150,150,150] beeinflussen das Modsystem nicht; Standardwerte sind festgesetzt.\n\n%c[200,127,255,212] Siehe%c[0,150,150,150] MCM -&gt; Raid into Darkness. Wenn du den Raid nicht beendest oder%c[200,150,34,34] darin stirbst,%c[0,150,150,150] werden alle vorherigen Spielstände gelöscht.\n%c[200,127,255,212]\n Bei der Rückkehr%c[0,150,150,150] ins Versteck%c[200,150,34,34] wird ein neuer%c[0,150,150,150] erstellt. Dieser Modus\n\n%c[200,127,255,212] kann während%c[0,150,150,150] des Spiels nicht deaktiviert%c[200,160,115,10] werden. Schaltet%c[0,150,150,150] Erfolge\n%c[200,200,50,50]\n frei. Nicht%c[0,150,150,150] mit Wahre Dunkelheit kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_reset_desc">
+    <text>%c[0,150,150,150]Ausrüstung zurücksetzen.</text>
+  </string>
+  <string id="st_mm_ck_routes_desc">
+    <text>%c[0,150,150,150]Standardmäßig sind viele Gebiete nicht zugänglich. Versteckte Routen lassen sich auf verschiedene Arten freischalten.\n \nMit dieser Option werden nach dem Start eines neuen Spiels alle Level freigeschaltet.</text>
+  </string>
+  <string id="st_mm_ck_story_desc">
+    <text>%c[0,150,150,150]Im Storymodus kannst du direkt an mehreren Handlungssträngen teilnehmen.\n \nDie Handlungsstränge Lebende Legende, Todsünde und Operation Afterglow sind nur für Einzelgänger, Duty, Freiheit, Wissenschaftler, Söldner und Clear Sky verfügbar.\n\nDynamische Questlinien stehen dagegen allen spielbaren Fraktionen offen. Sprich in beiden Fällen mit dem Anführer deiner Fraktion, um zu beginnen. Gute Reise, Stalker!\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Fraktionskriegsmodus kompatibel.\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Überlebensmodus kompatibel.\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Modus Leben nach dem Leben kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_survival_desc">
+    <text>%c[0,150,150,150]Ein Modus, in dem alle NPCs durch Zombies ersetzt werden.\n \nZombiemassen holen dich langsam, aber sicher ein – sei bereit! Wie lange hältst du wohl durch?\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Fraktionskriegsmodus kompatibel.</text>
+  </string>
+  <string id="st_mm_ck_warfare_desc">
+    <text>%c[0,150,150,150]Ein spezieller Hardcore-Modus, der die Spielregeln ändert und die feste Balance des Grim-Raid-Mods aktiviert. \n \n\n %c[200,127,255,212]• %c[0,150,150,150]Basiert auf der %c[200,34,130,34]Originalbalance %c[0,150,150,150]von Shabashs Mod\n \n%c[200,127,255,212]• %c[0,150,150,150]Speichern während eines Raids ist %c[200,150,34,34]nicht möglich%c[0,150,150,150]. Speichern geht nur im Unterschlupf\n \n%c[200,127,255,212]• %c[0,150,150,150]Die Spielkonsole ist während eines Raids %c[200,150,34,34]nicht verfügbar%c[0,150,150,150]\n \n%c[200,127,255,212]• %c[0,150,150,150]Die Schaltfläche „Spiel laden“ ist während eines Raids %c[200,150,34,34]nicht verfügbar%c[0,150,150,150]\n \n%c[200,127,255,212]• %c[0,150,150,150]Änderungen der MCM-Optionen %c[200,150,34,34]wirken sich nicht%c[0,150,150,150] auf Modsysteme aus; alle Standardwerte sind festgelegt. (Siehe „MCM-Menü“ -&gt; „Grim Raid“)\n \n%c[200,127,255,212]• %c[0,150,150,150]Wenn du einen Raid nicht abschließt oder dabei stirbst, werden alle vorherigen Spielstände %c[200,150,34,34]gelöscht%c[0,150,150,150]. Bei der Rückkehr in den Unterschlupf wird ein neuer Spielstand erstellt\n \n%c[200,127,255,212]• %c[0,150,150,150]Dieser Modus kann während des Spiels %c[200,150,34,34]nicht deaktiviert werden%c[0,150,150,150]\n \n%c[200,127,255,212]• %c[0,150,150,150]Schaltet %c[200,160,115,10]Erfolge%c[0,150,150,150] frei\n \n%c[200,200,50,50]• %c[0,150,150,150]Nicht mit dem Modus Dunkelheit kompatibel.</text>
+  </string>
+  <string id="st_mm_itm_desc_unknown">
+    <text>Keine Informationen</text>
+  </string>
+  <string id="st_mm_list_difficulty_desc">
+    <text>%c[0,150,150,150]Raid-Dauer: %c[200,210,180,150]Leicht - 35 Min., Mittel - 30 Min., Schwer - 25 Min.\n \n%c[0,150,150,150]Der Schwierigkeitsgrad beeinflusst Spielerwerte: Schadensresistenz, Ausdauerverlust und Traglast sowie Durst und Schlafbedürfnis.\n \n%c[200,200,50,50]• %c[0,150,150,150]Du kannst diese Einstellungen jederzeit im Spiel anpassen.\nSiehe „Spielmenü“ -&gt; „Optionen“ -&gt; „Gameplay“ -&gt; „Schwierigkeit“.\nAchtung! Änderungen nach Spielbeginn deaktivieren einige Grim-Raid-Erfolge.</text>
+  </string>
+  <string id="st_mm_list_economy_desc">
+    <text>%c[0,150,150,150]Der Wirtschaftsschwierigkeitsgrad wirkt sich stark auf das Leben in der Zone und auf mehrere erfolgsrelevante Aspekte aus:\n\nDazu gehören Kauf- und Verkaufspreise, Reparatur und Modifikation der Ausrüstung, Beutehäufigkeit, Geldbelohnungen und Rufgewinn.\n \n%c[200,200,50,50]• %c[0,150,150,150]Du kannst diese Einstellungen jederzeit im Spiel anpassen.\nSiehe „Spielmenü“ -&gt; „Optionen“ -&gt; „Gameplay“ -&gt; „Wirtschaft“.\nAchtung! Wenn du diese Einstellungen nach Spielbeginn änderst, werden einige Grim-Raid-Erfolge deaktiviert.</text>
+  </string>
+  <string id="st_mm_list_hardcore_lives_desc">
+    <text>%c[0,150,150,150]Zusatzfunktion für den Modus Ein Leben, mit der du die Anzahl der Leben beim Start eines neuen Spiels festlegst.\nBei jedem Tod verlierst du ein Leben.\nSind alle Leben aufgebraucht, werden sämtliche Spielstände dieses Charakters gelöscht.\n\n%c[200,200,50,50]• %c[0,150,150,150]Der Modus Ein Leben muss aktiviert sein.</text>
+  </string>
+  <string id="st_mm_list_hardcore_regen_desc">
+    <text>%c[0,150,150,150]Zusatzfunktion für den Modus Ein Leben, mit der du die Anzahl der Tage bis zu einem zusätzlichen Leben festlegst.\n%c[200,200,50,50]• %c[0,150,150,150]Vorgespulte Zeit durch Schlaf zählt nicht.\n%c[200,200,50,50]• %c[0,150,150,150]Der Modus Ein Leben muss aktiviert sein.</text>
+  </string>
+  <string id="st_mm_list_map_desc">
+    <text>%c[0,150,150,150]Startort auswählen.</text>
+  </string>
+  <string id="st_mm_list_timer_desc">
+    <text>%c[0,150,150,150]Im Timermodus kannst du erst nach Ablauf eines bestimmten Zeitraums speichern.\nNach dem Speichern kannst du erst wieder speichern, wenn die festgelegte Zeit vergangen ist.\n\n%c[200,50,200,50]• %c[0,150,150,150]Mit allen Speichermodi kompatibel.</text>
+  </string>
+  <string id="st_mm_new_game_character">
+    <text>Charakter</text>
+  </string>
+  <string id="st_mm_new_game_description">
+    <text>Beschreibung</text>
+  </string>
+  <string id="st_mm_new_game_essential">
+    <text>Wichtig</text>
+  </string>
+  <string id="st_mm_new_game_faction">
+    <text>Fraktion wählen</text>
+  </string>
+  <string id="st_mm_new_game_faction_2">
+    <text>Fraktion:</text>
+  </string>
+  <string id="st_mm_new_game_icon">
+    <text>Profil wählen</text>
+  </string>
+  <string id="st_mm_new_game_inventory">
+    <text>Startausrüstung</text>
+  </string>
+  <string id="st_mm_new_game_loadout">
+    <text>Zusätzliche Ausrüstung</text>
+  </string>
+  <string id="st_mm_new_game_money">
+    <text>Geld:</text>
+  </string>
+  <string id="st_mm_new_game_name">
+    <text>Name:</text>
+  </string>
+  <string id="st_mm_new_game_options">
+    <text>Schwierigkeit und Modus wählen</text>
+  </string>
+  <string id="st_mm_new_game_points">
+    <text>Kosten</text>
+  </string>
+  <string id="st_mm_new_game_points_left">
+    <text>Verfügbare Punkte:</text>
+  </string>
+  <string id="st_mm_new_game_points_used">
+    <text>Verbrauchte Punkte:</text>
+  </string>
+  <string id="st_mm_new_game_relations">
+    <text>Fraktionsbeziehungen</text>
+  </string>
+  <string id="st_new_game_day">
+    <text>Tag</text>
+  </string>
+  <string id="st_new_game_days">
+    <text>Tage</text>
+  </string>
+  <string id="st_new_game_hour">
+    <text>Std.</text>
+  </string>
+  <string id="st_new_game_hours">
+    <text>Std.</text>
+  </string>
+  <string id="st_new_game_life">
+    <text>Stk.</text>
+  </string>
+  <string id="st_new_game_lives">
+    <text>Stk.</text>
+  </string>
+  <string id="st_new_game_min">
+    <text>Min.</text>
+  </string>
+  <string id="st_new_game_mins">
+    <text>Min.</text>
+  </string>
+  <string id="st_off">
+    <text>aus</text>
+  </string>
+  <string id="st_pause_menu">
+    <text>Pausenmenü</text>
+  </string>
+  <string id="st_player_dead">
+    <text>Tot</text>
+  </string>
+  <string id="ui_st_random_location">
+    <text>-Zufälliger Ort-</text>
+  </string>
+</string_table>

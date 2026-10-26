@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_stealth">
+    <text>Sigilo + IA de combate</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch">
+    <text>Agacharse</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch_desc">
+    <text>Multiplicador al agacharse. \n \nPredeterminado: 0.4</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx">
+    <text>Depuración</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx_desc">
+    <text>Muestra las variables de la ecuación (para ver el umbral correctamente, mantén el cursor sobre el objeto): \n \nConsola: todas las variables \n \nNoticias dinámicas: si el objeto ve al actor o no \n \nMensaje en la parte inferior de la pantalla: umbral de visibilidad del objeto y variables editables en MCM</text>
+  </string>
+  <string id="ui_mcm_stealth_distance">
+    <text>Distancia</text>
+  </string>
+  <string id="ui_mcm_stealth_distance_desc">
+    <text>Multiplicador de distancia (distancia entre objetos, alcance y campo de visión). \n \nPredeterminado: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_header_debug">
+    <text>Depuración</text>
+  </string>
+  <string id="ui_mcm_stealth_header_hud">
+    <text>HUD</text>
+  </string>
+  <string id="ui_mcm_stealth_header_main">
+    <text>Principal</text>
+  </string>
+  <string id="ui_mcm_stealth_header_patches">
+    <text>Parches</text>
+  </string>
+  <string id="ui_mcm_stealth_icon">
+    <text>Icono</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_desc">
+    <text>Icono de luminosidad (muestra la luz sobre el personaje).</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type">
+    <text>Tipo de icono</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type_desc">
+    <text>1) El indicador de luz muestra la cantidad de luz sobre el jugador. \n \n2) La visión NPC muestra cómo ve al jugador el NPC con mayor valor de visión: \n- Icono blanco: el NPC está normal y no ve al jugador; \n- Icono amarillo: el NPC está en combate o alerta, con visión reforzada, pero no ve al jugador; \n- Icono rojo: el NPC ve al jugador.</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_x">
+    <text>Posición X del icono</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_y">
+    <text>Posición Y del icono</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch">
+    <text>Agacharse bajo</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Multiplicador al agacharse bajo. \n \nPredeterminado: 0.25</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity">
+    <text>Luminosidad</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity_desc">
+    <text>Multiplicador de luminosidad (luz sobre el objeto). \n \nPredeterminado: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_memory">
+    <text>Memoria</text>
+  </string>
+  <string id="ui_mcm_stealth_memory_desc">
+    <text>Multiplicador de memoria. Si un NPC ya vio al objetivo, obtiene una bonificación de visión contra él. Esta disminuye con el tiempo; con el valor predeterminado 1.0, tarda unos 100 segundos reales en desaparecer. \n \nPredeterminado: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch">
+    <text>Parche meteorológico de Michiko</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Se recomienda activarlo si usas el clima de Michiko.</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val">
+    <text>Visor nocturno de NPC</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val_desc">
+    <text>Hace que algunos NPC usen visor nocturno en vez de linterna. El valor NVG se suma independientemente de la distancia, a diferencia de la linterna (0 desactiva la función). \n \nPredeterminado: 1</text>
+  </string>
+  <string id="ui_mcm_stealth_title">
+    <text>Sigilo + IA de combate</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity">
+    <text>Velocidad</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity_desc">
+    <text>Multiplicador de velocidad (velocidad del objeto). \n \nPredeterminado: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_weight">
+    <text>Peso</text>
+  </string>
+  <string id="ui_mcm_stealth_weight_desc">
+    <text>Multiplicador de peso (peso que lleva el actor). \n \nPredeterminado: 1.0</text>
+  </string>
+</string_table>

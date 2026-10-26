@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_stealth">
+    <text>Gizlilik + Savaş YZ</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch">
+    <text>Çömelme</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch_desc">
+    <text>Çömelme çarpanı. \n \nVarsayılan: 0.4</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx">
+    <text>Hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx_desc">
+    <text>Denklem değişkenlerini gösterir (eşiği doğru görmek için imleci sürekli nesnenin üzerinde tutun): \n \nKonsol: tüm değişkenler \n \nDinamik haberler: nesnenin karakteri görüp görmediği \n \nEkranın altındaki mesaj: nesnenin görünürlük eşiği ve MCMde değiştirebileceğiniz değişkenler</text>
+  </string>
+  <string id="ui_mcm_stealth_distance">
+    <text>Mesafe</text>
+  </string>
+  <string id="ui_mcm_stealth_distance_desc">
+    <text>Mesafe çarpanı (nesneler arasındaki mesafe, menzil ve görüş alanı). \n \nVarsayılan: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_header_debug">
+    <text>Hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_stealth_header_hud">
+    <text>HUD</text>
+  </string>
+  <string id="ui_mcm_stealth_header_main">
+    <text>Ana</text>
+  </string>
+  <string id="ui_mcm_stealth_header_patches">
+    <text>Yamalar</text>
+  </string>
+  <string id="ui_mcm_stealth_icon">
+    <text>Simge</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_desc">
+    <text>Işık simgesi (karakter üzerindeki ışığı gösterir).</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type">
+    <text>Simge türü</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type_desc">
+    <text>1) Işık göstergesi oyuncunun üzerindeki ışık miktarını gösterir. \n \n2) NPC görüşü, oyuncuyu en yüksek görüş değerine sahip NPCnin nasıl gördüğünü gösterir: \n- Beyaz simge: NPC normal durumda ve oyuncuyu görmüyor; \n- Sarı simge: NPC çatışma veya tehlike durumunda, görüşü güçlenmiş ama oyuncuyu görmüyor; \n- Kırmızı simge: NPC oyuncuyu görüyor.</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_x">
+    <text>Simge X konumu</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_y">
+    <text>Simge Y konumu</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch">
+    <text>Alçak çömelme</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Alçak çömelme çarpanı. \n \nVarsayılan: 0.25</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity">
+    <text>Işık düzeyi</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity_desc">
+    <text>Işık düzeyi çarpanı (nesne üzerindeki ışık). \n \nVarsayılan: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_memory">
+    <text>Hafıza</text>
+  </string>
+  <string id="ui_mcm_stealth_memory_desc">
+    <text>Hafıza çarpanı. Bir NPC hedefi daha önce gördüyse o hedefe karşı görüşü güçlenir. Bu bonus zamanla azalır; varsayılan 1.0 değerinde sıfırlanması yaklaşık 100 gerçek saniye sürer. \n \nVarsayılan: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch">
+    <text>Michiko hava durumu yaması</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Michiko hava durumunu kullanıyorsanız etkinleştirmeniz önerilir.</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val">
+    <text>NPC gece görüşü</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val_desc">
+    <text>Bazı NPClerin el feneri yerine gece görüşü kullanmasını sağlar. NVG değeri, el fenerinden farklı olarak mesafeden bağımsız eklenir (0 özelliği kapatır). \n \nVarsayılan: 1</text>
+  </string>
+  <string id="ui_mcm_stealth_title">
+    <text>Gizlilik + Savaş YZ</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity">
+    <text>Hız</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity_desc">
+    <text>Hız çarpanı (nesnenin hızı). \n \nVarsayılan: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_weight">
+    <text>Ağırlık</text>
+  </string>
+  <string id="ui_mcm_stealth_weight_desc">
+    <text>Ağırlık çarpanı (karakterin taşıdığı yük). \n \nVarsayılan: 1.0</text>
+  </string>
+</string_table>

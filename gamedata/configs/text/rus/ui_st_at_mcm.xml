@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Время истечения кровью (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Сколько времени вы лежите, пока кровотечение не закончится само. Что будет потом, задаётся ниже.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Смерть от кровотечения</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Вкл: доигравшееся кровотечение убивает по-настоящему, а лежачего можно добить после окна пощады ниже. Выкл: кровотечение поднимает вас там же, где вы упали, и добить лежачего невозможно. Используется только настройка хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Ранение вместо смерти</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Вкл: смертельный удар ранит вас, и напарник может вас поднять. Выкл: смертельный удар сразу переносит вас на ближайшую базу или к горящему костру. Ни то, ни другое не убивает сразу; убивает ли кровотечение, задаётся ниже. Настройки хоста действуют для всех.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Окно пощады после падения (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Сколько времени лежачего нельзя добить, считая от момента падения, чтобы один сильный удар валил, а не убивал сразу. Не используется, когда кровотечение не убивает. Используется только настройка хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Отсчёт до перезагрузки (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Сколько экран смерти держится, прежде чем хост загрузит последнее сохранение и все переподключатся. Пока идёт отсчёт, никто не может двигаться и сохраняться. Используется только настройка хоста.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Здоровье после подъёма</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Время подъёма напарником (с)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Rich Presence в Discord</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Показывать в Discord, во что вы играете. В сессии публикуется ваша группа, так что друзей можно пригласить, а они могут запросить вход; вне сессии показываются ссылки на наш Discord и AP-PRO. Discord даёт карточке только два слота, поэтому ссылки и кнопка входа никогда не показываются вместе.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Макс. игроков</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Сколько игроков вмещает ваша сессия, считая вас. Это же число Discord показывает размером группы. Применяется к следующей запущенной сессии.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Пароль</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Пароль, который вводит подключающийся игрок. Оставьте пустым, чтобы пароля не было. Пробел и слэш в нём недопустимы.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Порт</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>UDP-порт, на котором слушает ваша сессия. По нему к вам подключаются те, кто заходит по адресу, поэтому он должен быть открыт на роутере и в брандмауэре. Не используется, когда сессия идёт через Steam. Применяется к следующей запущенной сессии.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Хостить через Steam</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Вкл: игроки заходят по вашему Steam ID, это проходит через NAT и не требует открытого порта, а друзья могут зайти из списка друзей или по приглашению в Discord. Выкл: только прямые подключения на порт выше. Применяется к следующей запущенной сессии.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Имя игрока</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Ваше имя в кооперативе. Оно отправляется хосту при подключении и становится именем вашего персонажа на его стороне. Если оставить пустым, имя будет создано при первом подключении.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Выдавать награды всем игрокам</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Вкл: reward_money и reward_item получают все игроки. Выкл: их получает только сдающий задание. fetch_reward_and_remove всегда забирает предметы и выплачивает деньги только сдающему. Настройка хоста определяет получателей при сдаче.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Ранение и подъём</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Хостинг</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Игрок</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Награды за задания</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Ранение и подъём</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Хостинг</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Игрок</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Задания</text>
+  </string>
+</string_table>

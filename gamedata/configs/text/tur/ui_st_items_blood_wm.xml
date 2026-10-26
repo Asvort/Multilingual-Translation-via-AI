@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_blood_bullettime">
+    <text>Mermi zamanı</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_advanced_title">
+    <text>Gelişmiş</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_effects_title">
+    <text>Ekran efektleri ve sesler</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable">
+    <text>Kafa vuruşunda mermi zamanını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx">
+    <text>Mermi zamanı sırasında ekran efektlerini etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_brighten">
+    <text>Ekrana aydınlatma efekti ekle</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_contrast">
+    <text>Ekrana kontrast efekti ekle</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_gravi">
+    <text>Ekrana yerçekimi efekti ekle</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_screenfx_psychic">
+    <text>Ekrana psişik efekt ekle</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_enable_sounds">
+    <text>Mermi zamanı başlarken ve biterken sesleri etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_length">
+    <text>Mermi zamanı süresi</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_end">
+    <text>Zamanın normale dönüşü aniden değil, kademeli olur</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_end_factor">
+    <text>Zaman değişiminin bitiş yumuşatma katsayısı</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_start">
+    <text>Zaman değişimi aniden değil, kademeli başlar</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_smooth_start_factor">
+    <text>Zaman değişiminin başlangıç yumuşatma katsayısı</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_time_speed">
+    <text>Mermi zamanı ölçeği. Daha düşük değer zamanı daha fazla yavaşlatır.</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_title">
+    <text>Mermi zamanı</text>
+  </string>
+  <string id="ui_mcm_blood_bullettime_trigger_chance">
+    <text>Kafa vuruşuyla öldürmede mermi zamanını tetikleme olasılığı</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment">
+    <text>Parçalanma</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable">
+    <text>Parçalanmayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_bone_removal">
+    <text>Uzuvların koparılmasına izin ver. Kapalıysa bunun yerine uzvun üzerine büyük bir kan izi yerleştirilir.</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_head">
+    <text>Yalnızca kafaları parçala</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_mutant">
+    <text>Mutantlar için etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_enable_stalker">
+    <text>Stalkerlar için etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_threshold_mutant">
+    <text>Mutant parçalanması için vuruş eşiği</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_threshold_stalker">
+    <text>Stalker parçalanması için vuruş eşiği</text>
+  </string>
+  <string id="ui_mcm_blood_dismemberment_title">
+    <text>Parçalanma</text>
+  </string>
+  <string id="ui_mcm_blood_general">
+    <text>Genel</text>
+  </string>
+  <string id="ui_mcm_blood_general_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_general_title">
+    <text>Genel</text>
+  </string>
+  <string id="ui_mcm_blood_killcam">
+    <text>Ölüm kamerası</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_advanced_title">
+    <text>Gelişmiş</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_distance">
+    <text>Kameranın hedeften uzaklığı</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_enable">
+    <text>Fallout tarzı ölüm kamerasını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_gamify">
+    <text>Belirtilen sayıda mermi zamanı öldürmesinden sonra ölüm kamerasını tetikle</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_length">
+    <text>Ölüm kamerası süresi</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_safemode_distance">
+    <text>Ölüm kamerasını yalnızca bu mesafede başka düşman yoksa tetikle</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_end">
+    <text>Ölüm kamerasındaki zaman değişimi aniden değil, kademeli biter</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_end_factor">
+    <text>Ölüm kamerası zaman değişiminin bitiş yumuşatma katsayısı</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_start">
+    <text>Ölüm kamerasındaki zaman değişimi aniden değil, kademeli başlar</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_smooth_start_factor">
+    <text>Ölüm kamerası zaman değişiminin başlangıç yumuşatma katsayısı</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_time_speed">
+    <text>Ölüm kamerasının zaman ölçeği. Daha düşük değer zamanı daha fazla yavaşlatır.</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_title">
+    <text>Ölüm kamerası</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_trigger_range">
+    <text>Ölüm kamerasını yalnızca hedef bu mesafedeyken tetikle</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_trigger_range_desc">
+    <text>Kamera konumu oyuncuyu göstermez; bu nedenle yakın çekim tuhaf görünür</text>
+  </string>
+  <string id="ui_mcm_blood_killcam_triggers_title">
+    <text>Tetikleme seçenekleri</text>
+  </string>
+  <string id="ui_mcm_blood_particles">
+    <text>Parçacıklar</text>
+  </string>
+  <string id="ui_mcm_blood_particles_advanced_title">
+    <text>Gelişmiş</text>
+  </string>
+  <string id="ui_mcm_blood_particles_buffer_max_size">
+    <text>Aynı anda oynatılabilecek parçacık animasyonu sayısı</text>
+  </string>
+  <string id="ui_mcm_blood_particles_debug_distance">
+    <text>Hata ayıklama parçacıklarının görüntülenme mesafesi</text>
+  </string>
+  <string id="ui_mcm_blood_particles_dismemberment_enable">
+    <text>Kafa vuruşunda sahte parçalanma parçacığı oynat</text>
+  </string>
+  <string id="ui_mcm_blood_particles_enable">
+    <text>Parçacık efektlerini etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_particles_enable_armor_feedback">
+    <text>Parçacıkları zırh türüne göre değiştir (cam, dış iskelet, ağır zırh)</text>
+  </string>
+  <string id="ui_mcm_blood_particles_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_enable">
+    <text>Vuruşta parmaklardan kan dumanı parçacıkları oynat</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_option">
+    <text>Parmak yönü: yukarı, dışarı veya yukarı ve dışarı</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_size_max">
+    <text>Bulutun maksimum boyutu</text>
+  </string>
+  <string id="ui_mcm_blood_particles_fingers_size_min">
+    <text>Bulutun minimum boyutu</text>
+  </string>
+  <string id="ui_mcm_blood_particles_headshot_enable">
+    <text>Kafa vuruşunda parçacık oynat</text>
+  </string>
+  <string id="ui_mcm_blood_particles_headshot_exclusive">
+    <text>Parçalanmada bu parçacığı oynatma</text>
+  </string>
+  <string id="ui_mcm_blood_particles_hit_enable">
+    <text>Vuruşta parçacık oynat</text>
+  </string>
+  <string id="ui_mcm_blood_particles_hit_exclusive">
+    <text>Kafa vuruşunda veya parçalanmada bu parçacığı oynatma</text>
+  </string>
+  <string id="ui_mcm_blood_particles_limit">
+    <text>Her parçacık türünden aynı anda yalnızca bir tane oynat</text>
+  </string>
+  <string id="ui_mcm_blood_particles_options_title">
+    <text>Görüntüleme seçenekleri</text>
+  </string>
+  <string id="ui_mcm_blood_particles_title">
+    <text>Parçacıklar</text>
+  </string>
+  <string id="ui_mcm_blood_particles_ttl">
+    <text>Parçacığın yenisiyle değiştirilmeden önce animasyonunu tamamlaması için süre</text>
+  </string>
+  <string id="ui_mcm_blood_wm">
+    <text>Darbe izleri</text>
+  </string>
+  <string id="ui_mcm_blood_wm_advanced_title">
+    <text>Gelişmiş</text>
+  </string>
+  <string id="ui_mcm_blood_wm_delay">
+    <text>Yeni bir darbe izi çizilmeden önceki bekleme süresi</text>
+  </string>
+  <string id="ui_mcm_blood_wm_dismemberment_count">
+    <text>Parçalanma sırasında çizilecek iz sayısı</text>
+  </string>
+  <string id="ui_mcm_blood_wm_dismemberment_distance">
+    <text>Parçalanma noktasından izlerin çizileceği mesafe</text>
+  </string>
+  <string id="ui_mcm_blood_wm_dismemberment_title">
+    <text>Parçalanma</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_avoid_wallmark">
+    <text>Yalnızca oyun motoru iz oluşturmadıysa zemin izlerini göster</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_dismemberment">
+    <text>Parçalanma sırasında ek izler yerleştir</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_drip">
+    <text>Damla izlerini kullan</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_floor">
+    <text>Vuruşta zeminde kan izi oluştur</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_floor_desc">
+    <text>Bunlar, Anomaly varsayılan kan izlerine ek yeni kaplamalardır.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_normal">
+    <text>Normal izleri kullan</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_pool">
+    <text>Ölümde zeminde kan birikintisi oluştur</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_pool_desc">
+    <text>Açıksa ölüm anında zemindeki darbe izinin yerine geçer.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_splash">
+    <text>Sıçrama izlerini kullan</text>
+  </string>
+  <string id="ui_mcm_blood_wm_enable_static_size">
+    <text>Tüm zemin izlerini aynı boyuta getir</text>
+  </string>
+  <string id="ui_mcm_blood_wm_gravity">
+    <text>Kanın algılanan yerçekimi</text>
+  </string>
+  <string id="ui_mcm_blood_wm_gravity_desc">
+    <text>Yerçekimi yükseldikçe zemin izi NPC’ye yaklaşır; düştükçe çıkış yarasından uzaklaşır.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_lifetime">
+    <text>Darbe izinin ömrü (saniye)</text>
+  </string>
+  <string id="ui_mcm_blood_wm_pool_title">
+    <text>Kan birikintileri</text>
+  </string>
+  <string id="ui_mcm_blood_wm_size">
+    <text>Zemindeki izin boyutu.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_size_desc">
+    <text>«Tüm zemin izlerini aynı boyuta getir» açıksa varsayılan boyut çarpanı.</text>
+  </string>
+  <string id="ui_mcm_blood_wm_size_pool">
+    <text>Zemindeki birikintinin boyutu</text>
+  </string>
+  <string id="ui_mcm_blood_wm_static_title">
+    <text>Ek darbe izleri</text>
+  </string>
+  <string id="ui_mcm_menu_blood">
+    <text>Bölge Ressamı</text>
+  </string>
+</string_table>

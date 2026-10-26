@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_desc_mcm">
+    <text>Bienvenue dans le menu de configuration des mods d’Anomaly (MCM).\n\n\nLe MCM ne fait rien par lui-même : il permet aux autres mods et extensions d’afficher leur interface de réglages.\n\n\nLa fenêtre du MCM comporte deux panneaux.\n\n\nLe panneau de gauche répertorie par ordre alphabétique les mods et extensions installés qui utilisent le MCM.\n\nIl comporte trois niveaux : la page principale de chaque mod et deux sous-menus.\n\nLe menu du MCM apparaît en premier.\n\nUn clic sur le menu ou le sous-menu d’un mod ouvre son interface de réglage dans le panneau de droite.\n\nElle peut contenir : une bannière graphique et le titre de l’interface en haut du panneau ; des noms de réglages, parfois accompagnés d’une info-bulle au survol ; des cases à cocher ; des curseurs ; des listes déroulantes ; et des descriptions textuelles, comme celle-ci.</text>
+  </string>
+  <string id="ui_mcm_desc_mcm2">
+    <text>Les bugs du MCM ou les plantages liés à ui_mcm.script sont probablement causés par un mod ou une extension qui utilise le MCM.\nSignalez-les à l’auteur du mod concerné.</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_alt">
+    <text>Touche Alt</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+    <text>Touche Ctrl</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_none">
+    <text>Aucun modificateur</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_shift">
+    <text>Touche Maj</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_dtap">
+    <text>Double appui</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_hold">
+    <text>Appui long</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_press">
+    <text>Appui simple</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb">
+    <text>Les raccourcis MCM fonctionnent « à la Minecraft » : cliquez sur la case puis appuyez sur une touche.\nCliquez à nouveau ou appuyez sur Échap pour annuler.\nSi la touche affichée ne correspond pas, ou si le MCM en ignore certaines, adaptez mcm_key_localization.ltx à votre disposition clavier. Les touches affectées à plusieurs raccourcis ou à une touche du moteur sont signalées en rouge.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb2">
+    <text>La couleur rouge n’indique pas toujours un problème : les touches peuvent servir dans des interfaces différentes ou une combinaison peut nécessiter Maj.\n\n\nLe MCM ignore le rôle des touches dans chaque extension ; à vous de juger si le conflit est important.\n\n\nLa couleur se met correctement à jour pour un changement en attente, mais pas forcément pour plusieurs.\n\nAppliquez les changements puis rouvrez le MCM pour vérifier.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all">
+    <text>Ce panneau regroupe tous les raccourcis MCM dans l’ordre des mods affichés à gauche.\nIl ne peut pas inclure les autres réglages des extensions susceptibles d’affecter une touche.\nConsultez toujours le panneau du mod d’origine et sa documentation.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all2">
+    <text>Les changements en attente dans d’autres panneaux ne s’affichent pas ici, et ceux de ce panneau n’apparaissent pas ailleurs.\n\nAppliquez les changements avant et après son utilisation.\n\nPour les touches rouges : il peut ne pas y avoir de conflit si elles servent dans des interfaces distinctes ou si l’une exige Maj.\n\nLe MCM ignore leur usage par chaque extension ; à vous d’évaluer le conflit.\n\nAvec plusieurs changements en attente, la couleur peut être incorrecte.\n\nAppliquez-les puis rouvrez le MCM pour vérifier.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_conflicts">
+    <text>Ce panneau regroupe par touche tous les raccourcis MCM signalés comme conflictuels.\n\nSi une touche n’apparaît qu’une fois, elle entre probablement en conflit avec un raccourci du moteur, listé dans les options normales d’Anomaly.\nLe panneau n’inclut pas les réglages supplémentaires des mods susceptibles de modifier son comportement.\nConsultez toujours le panneau du mod d’origine et sa documentation.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_log">
+    <text>Cet outil destiné aux créateurs d’extensions permet de sortir leurs journaux du journal X-Ray et de la console.\n\n\nDes commandes permettent d’ajuster leur fonctionnement et de limiter les ralentissements et les écritures sur le SSD.\n\nLes fichiers portent le nom du script et l’identifiant de session MCM, et sont créés dans appdata/logs/mcm/.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode">
+    <text>Mode de saisie</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode_desc">
+    <text>Le raccourci ci-dessus s’active lorsque la touche est utilisée de cette manière.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier">
+    <text>Avec touche modificatrice</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier_desc">
+    <text>Le raccourci ci-dessus ne s’active que si cette touche est également maintenue.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml">
+    <text>Noms des mods toujours en anglais</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml_desc">
+    <text>Force la traduction des noms d’extensions en anglais pour améliorer le tri, car certaines n’ont qu’un nom anglais.\n(!) Le jeu doit être redémarré pour appliquer ce réglage.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset">
+    <text>Recharger tous les menus</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset_desc">
+    <text>En cochant cette option puis en cliquant sur Appliquer, le MCM rechargera tous les menus. Cet outil de débogage est inutile en usage normal.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+    <text>Délai du double appui</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+    <text>Définit le délai maximal entre deux pressions pour qu’elles comptent comme un double appui.\n\nCe réglage ne concerne que les extensions qui détectent les doubles appuis via le MCM.\nIl peut aussi retarder certains appuis simples : réglez-le aussi bas que possible.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+    <text>Multiplicateur d’appui long</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+    <text>Ce multiplicateur s’applique au délai du double appui et détermine combien de temps maintenir une touche pour qu’il s’agisse d’un appui long.\n\nUniquement pour les extensions qui détectent les appuis longs via le MCM.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous">
+    <text>Autoriser l’écriture continue dans les fichiers</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous_desc">
+    <text>Les journaux sont normalement mis à jour par lots, ce qui peut entraîner une perte d’informations en cas de plantage.\n\nL’auteur d’une extension peut vous demander d’activer cette option pour mettre son journal à jour immédiatement.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2">
+    <text>Activer la journalisation de débogage</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+    <text>Active le journal de débogage propre au MCM ; il doit être activé avant de signaler un bug du MCM.\n\n\nD’autres extensions peuvent également utiliser ce réglage pour activer leurs journaux.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable">
+    <text>Activer la journalisation MCM</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable_desc">
+    <text>Décochez cette option pour empêcher la création ou la mise à jour de nouveaux journaux.\nLe changement peut ne prendre effet qu’après le chargement d’une nouvelle sauvegarde.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs">
+    <text>Nombre de journaux à conserver</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+    <text>Lorsque le nombre de journaux d’un script dépasse cette limite, les plus anciens sont supprimés.\nCette suppression n’aura pas lieu si le jeu plante.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq">
+    <text>Intervalle entre les sauvegardes automatiques du journal (ms)</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+    <text>Quelle que soit la valeur,\nles journaux sont également enregistrés à l’ouverture de divers écrans d’interface et lors des sauvegardes ou chargements.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp">
+    <text>Fréquence des horodatages du journal X-Ray</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+    <text>Le MCM ajoute des horodatages au journal X-Ray pour faciliter la coordination des événements avec ses propres journaux.\nCette valeur définit l’intervalle minimal entre les horodatages.\nSi rien d’autre n’écrit dans la console, le MCM n’y écrira pas non plus.</text>
+  </string>
+  <string id="ui_mcm_menu_mcm">
+    <text>MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_about">
+    <text>À propos</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_all_kb">
+    <text>Tous les raccourcis</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb">
+    <text>Raccourcis clavier MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_conflicts">
+    <text>Conflits de touches</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_main">
+    <text>Principal</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_log">
+    <text>Journalisation</text>
+  </string>
+  <string id="ui_mcm_menu_search">
+    <text>Rechercher…</text>
+  </string>
+  <string id="ui_mcm_menu_search_clear">
+    <text>Clic droit pour effacer</text>
+  </string>
+  <string id="ui_mm_menu_mcm">
+    <text>Menu de configuration des mods</text>
+  </string>
+</string_table>

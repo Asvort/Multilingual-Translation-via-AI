@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Inclinación del arma junto a coberturas</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Inercia de la animación</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Un valor menor acelera la animación.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Factor de peso</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Cuanto mayor sea el valor, más influirá el peso del arma en la velocidad de la animación.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Tener en cuenta el silenciador para el radio</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Las armas con silenciador instalado tendrán un radio de activación aproximadamente 0,1 m mayor.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Activar inclinación manual</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Activar</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Tecla de inclinación manual</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>Desplazamiento del arma en X</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — a la izquierda. &gt; 0 — a la derecha</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Desplazamiento del arma en Y</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — hacia abajo. &gt; 0 — hacia arriba</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Desplazamiento del arma en Z</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — hacia atrás. &gt; 0 — hacia delante</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Variación de balanceo del arma</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Al levantar el arma, se inclinará aleatoriamente una cantidad de grados para variar la animación.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Sonido de traqueteo al inclinarse</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Inclinación del arma junto a coberturas</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Radio de activación (m)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Modificador de longitud del arma</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Cambia cuánto depende el radio de activación de la longitud del arma. Un valor mayor aumenta la diferencia entre armas cortas y largas.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>Usar dimensiones del modelo del HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>Depurar dimensiones del modelo HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Al activarlo, la inclinación depende de las dimensiones reales del modelo HUD. WCT lanza un rayo desde el hueso fire_bone y el desplazamiento fire_point en la dirección de disparo. REQUIERE EXE MODIFICADO &gt;= 2025.04.22. Si el método nuevo no está disponible, se usa el estándar.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Variación de guiñada del arma</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Al levantar el arma, girará horizontalmente una cantidad aleatoria de grados para variar la animación.</text>
+  </string>
+</string_table>

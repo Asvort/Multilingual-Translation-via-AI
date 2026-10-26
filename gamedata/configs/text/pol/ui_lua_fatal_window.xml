@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_continue">
+    <text>Kontynuuj</text>
+  </string>
+  <string id="st_disconnect">
+    <text>Wróć do menu głównego</text>
+  </string>
+  <string id="st_lua_fatal_error">
+    <text>UWAGA: NIestabilny STAN GRY\n \nWystąpił krytyczny błąd Lua, który uszkodził silnik skryptów (stan „Busy Hands”).\nGra została zapisana w pliku „tempsave”. Zalecamy natychmiast wrócić do menu głównego lub ponownie wczytać zapis.\nDalsza gra od tego momentu spowoduje kolejne uszkodzenia i może doprowadzić do awarii.\n \nSkrypt: %s\n \nBłąd zapisano w dzienniku z oznaczeniem [BusyHandsDebug].\nWyślij dziennik i zgłoś problem autorowi skryptu lub zespołowi modpacka.</text>
+  </string>
+  <string id="st_reload_save">
+    <text>Wczytaj zapis ponownie</text>
+  </string>
+</string_table>

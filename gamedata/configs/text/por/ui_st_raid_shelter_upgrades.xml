@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_raid_butcher_name">
+    <text>Sancho Moedor de Carne</text>
+  </string>
+  <string id="st_raid_mechanic_name">
+    <text>Motych</text>
+  </string>
+  <string id="st_raid_medic_name">
+    <text>Corvo</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bed_descr">
+    <text>Encomende um sofá ao Shustry. É bem mais confortável para descansar após uma incursão do que um saco de dormir sobre o concreto. \n \nBônus: \nConcede +1% de vigor por 5 horas após dormir. O tempo de viagem entre locais também conta.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bed_title">
+    <text>Sofá confortável</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bought">
+    <text>Comprado</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_btr_descr">
+    <text>Consertar o motor e a suspensão de um blindado antigo permite usá-lo para chegar ao local da incursão com rapidez e relativa segurança. \n \nBônus: \nReduz o tempo de viagem até o local. \nDuração da incursão: +10 minutos. \nCombustível do blindado: um galão ou pagamento em dinheiro. \nPode ser combinado com um helicóptero. \n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_btr_title">
+    <text>Blindado</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_butcher_descr">
+    <text>Contrate Sancho como açougueiro entregador. Ele sabe preparar os troféus de mutantes para vendê-los melhor aos cientistas. \n \nBônus: \nAdiciona um açougueiro entregador. \nCompra partes de mutantes por um preço maior. \nVende uma grande variedade de comida, bebidas e rações por um preço justo.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_butcher_title">
+    <text>Sancho: açougueiro entregador</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_buy">
+    <text>Comprar por %s rublos</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_clock_descr">
+    <text>Dispositivo eletrônico especializado baseado em um protótipo do professor Sakharov. Novos sensores paramétricos e o algoritmo adaptativo do professor German calculam com mais precisão o intervalo entre Super-Emissões, economizando minutos preciosos para a incursão. \n \nBônus: \nAdiciona permanentemente +5 minutos à incursão.\nFunciona até em incursões especiais como as Saídas.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_clock_title">
+    <text>Analisador da Noosfera</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_bought">
+    <text>Já está abastecido para a próxima incursão.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_btr">
+    <text>Solicitar viagem de blindado para a próxima incursão \n %s rublos ou 1 galão de combustível</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_exit">
+    <text>Sair</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_heli">
+    <text>Solicitar transporte de helicóptero para a próxima incursão \n %s rublos ou 1 galão de combustível</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_ok">
+    <text>Solicitar (por dinheiro)</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_gui_ok_fuel">
+    <text>Solicitar (por combustível)</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_heli_descr">
+    <text>Comprar um rádio e pagar às pessoas certas permite chamar um helicóptero para o transporte. Isso economiza tempo de viagem e amplia o intervalo entre Emissões para a incursão. \n \nBônus: \nReduz bastante o tempo até o local. \nDuração da incursão: +20 minutos. \nCombustível do helicóptero: um galão ou pagamento em dinheiro. \nPode ser combinado com o blindado. \n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_heli_title">
+    <text>Estação de rádio</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_mechanic_descr">
+    <text>Contrate o ajudante mecânico Motych. Ele consegue peças, melhorias e kits de reparo por um preço justo. \n \nBônus: \nAdiciona um comerciante mecânico que repara equipamentos rapidamente. \nO estoque de Motych depende das ferramentas encontradas e inclui kits de reparo e alguns recursos. \nAdiciona uma sequência de missões para encontrar ferramentas para a bancada.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_mechanic_title">
+    <text>Motych: stalker mecânico</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_medic_descr">
+    <text>Contrate Raven como ajudante médico. Ele fornece remédios e presta atendimento médico por uma pequena quantia. Graças aos contatos na Zona, também pode trocar alguns itens raros ou únicos. \n \nBônus: \nAdiciona um comerciante médico. \n30% de desconto em produtos médicos. \nAtendimento médico por um preço justo. \nPermite trocar vários itens.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_medic_title">
+    <text>Raven: stalker médico</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_psi_emitter_descr">
+    <text>Instale um Extrator-Ressonador Anômalo, ou unidade ERA. Esse dispositivo único se tornou possível após o surgimento da superanomalia Crepúsculo e foi desenvolvido pelo professor Rozhkov, melhor aluno de Sakharov e German. A documentação de calibração do protótipo foi perdida em algum lugar da Zona, então restaurá-lo não será fácil... \n \nBônus: \nA unidade ERA divide artefatos em Frações A correspondentes à natureza do artefato.\nAs Frações A podem aprimorar qualquer artefato ou gerar uma nova amostra.\nA unidade inclui uma enciclopédia que guarda em um banco de dados as propriedades de todas as amostras encontradas.\n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_psi_emitter_title">
+    <text>Unidade ERA</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_required">
+    <text>Necessário:</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_workbench_descr">
+    <text>Compre uma bancada para reparar e aprimorar equipamentos. \n \nBônus: \nOferece acesso pessoal a uma bancada para reparar qualquer equipamento.\nLibera a contratação do stalker mecânico Motych.\n</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_workbench_title">
+    <text>Bancada</text>
+  </string>
+</string_table>

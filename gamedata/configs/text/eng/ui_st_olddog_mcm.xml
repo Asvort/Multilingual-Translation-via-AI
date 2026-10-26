@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_olddog">
+    <text>Old Dog HUD</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow">
+    <text>Total Ammo Counter</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow_desc">
+    <text>Shows the TOTAL amount of ammo you have for each 3 types available in the inventory.</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar">
+    <text>Armor Condition Bar</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar_desc">
+    <text>Shows the Armor Condition Bar.</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext">
+    <text>Armor Condition Text</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext_desc">
+    <text>Shows the Armor Condition as a percentage in cyan text. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow">
+    <text>Bleeding Bar</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow_desc">
+    <text>Shows the amount of blood you're losing as a bar that is besides the Health bar, going from left-to-right.</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar">
+    <text>Health Prediction Bar</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar_desc">
+    <text>Shows the amount of Health you are recovering as a 1-by-10 health signs, on top and bottom of the Bleeding Bar. \n\nRecommended to have the Bleed Bar enabled with this.</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow">
+    <text>Old Ammo</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow_desc">
+    <text>Makes the Old Ammo appear where relevant (Such as not having its "good" counterparts)</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow">
+    <text>Radiation Exposure Bar</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow_desc">
+    <text>Shows the amount of Radiation you have as an icon that is besides the Stamina &amp; Psy bars, going from bottom-to-top.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide">
+    <text>Hide on Unequip</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide_desc">
+    <text>Makes the Weapon Condition Bar disappear when you unequip. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow">
+    <text>Weapon Condition Bar</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow_desc">
+    <text>Shows the Weapon Condition Bar.</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext">
+    <text>Weapon Condition Text</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext_desc">
+    <text>Shows the Weapon Condition as a percentage in orange text. \n%c[ui_gray_2]Has no effect if the bar is disabled.</text>
+  </string>
+  <string id="ui_mm_video_hud_dogslide">
+    <text>Old Dog Options</text>
+  </string>
+</string_table>

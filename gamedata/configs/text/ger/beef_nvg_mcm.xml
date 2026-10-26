@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+    <text>Maximale Nachtsichtverstärkung</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+    <text>Höhere Werte erhöhen die Helligkeit bis zu einem Grenzwert. Nachts bei Wetter cloudy_dark_2 einstellen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+    <text>Minimale Nachtsichtverstärkung</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+    <text>Niedrige Werte dunkeln die Nachtsicht stärker ab; sehr niedrige erlauben die Nutzung am Tag.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+    <text>Versatz der Welt-Helligkeit</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+    <text>1.0 lässt die Welthelligkeit unverändert. Höhere Werte vervielfachen sie, nicht jedoch Lichtquellen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+    <text>Hintergrundüberlagerung Gen 1 (Standard: keine)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+    <text>Hintergrundüberlagerung wählen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+    <text>Röhrenkonfiguration Gen 1 (Standard: eine mittig)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+    <text>Anzahl und Anordnung der Gen-1-Röhren wählen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+    <text>Hintergrundüberlagerung Gen 2 (Standard: verschwommen)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+    <text>Hintergrundüberlagerung wählen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+    <text>Röhrenkonfiguration Gen 2 (Standard: zwei mittig)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+    <text>Anzahl und Anordnung der Gen-2-Röhren wählen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+    <text>Hintergrundüberlagerung Gen 3 (Standard: verschwommen)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+    <text>Hintergrundüberlagerung wählen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+    <text>Röhrenkonfiguration Gen 3 (Standard: vier mittig)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+    <text>Anzahl und Anordnung der Gen-3-Röhren wählen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+    <text>Nachtsicht beim PDA-Blick eingeschaltet lassen:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+    <text>Deaktiviert schaltet sich die Nachtsicht beim Betrachten des PDA automatisch aus.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+    <text>Nachtsicht beim Zielen verwenden:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+    <text>Aktiviert bleibt die Nachtsicht beim Zielen an. Deaktiviert schaltet sie sich beim Anheben der Waffe aus.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+    <text>Schwelle für das Überstrahlen von Lichtquellen</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+    <text>Empfohlen ist 0.1. Höhere Werte verringern das Überstrahlen leicht. Der Schwellenwert skaliert mit der Verstärkung.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat">
+    <text>Aktivieren, wenn Sie shaderbasierte 2D-Zielfernrohre nutzen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+    <text>Shaderbasierte 2D-Zielfernrohre benötigen diese Option. Andernfalls ausgeschaltet lassen.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title">
+    <text>Beef-Nachtsichteinstellungen</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title_2">
+    <text>Kompatibilität mit shaderbasierten 2D-Zielfernrohren</text>
+  </string>
+  <string id="ui_mcm_lst_black_background">
+    <text>Schwarze Überlagerung</text>
+  </string>
+  <string id="ui_mcm_lst_blurred_background">
+    <text>Unscharfe Überlagerung</text>
+  </string>
+  <string id="ui_mcm_lst_clear_vision">
+    <text>Keine Überlagerung (klare Sicht)</text>
+  </string>
+  <string id="ui_mcm_lst_dual_centered">
+    <text>Zwei Röhren, mittig</text>
+  </string>
+  <string id="ui_mcm_lst_image_overlay">
+    <text>(Nicht implementiert) Bildüberlagerung</text>
+  </string>
+  <string id="ui_mcm_lst_quad_centered">
+    <text>Vier Röhren, mittig</text>
+  </string>
+  <string id="ui_mcm_lst_single_centered">
+    <text>Eine Röhre, mittig</text>
+  </string>
+  <string id="ui_mcm_lst_single_left">
+    <text>Eine Röhre, linke Seite</text>
+  </string>
+  <string id="ui_mcm_lst_single_right">
+    <text>Eine Röhre, rechte Seite</text>
+  </string>
+  <string id="ui_mcm_menu_beef_nvg">
+    <text>Beef-Nachtsicht</text>
+  </string>
+</string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_continue">
+    <text>Fortfahren</text>
+  </string>
+  <string id="st_disconnect">
+    <text>Zurück zum Hauptmenü</text>
+  </string>
+  <string id="st_lua_fatal_error">
+    <text>WARNUNG: INSTABILER SPIELZUSTAND\n \nEin kritischer Lua-Fehler hat die Skript-Engine beschädigt (Zustand „Busy Hands“).\nDein Spiel wurde in der Datei „tempsave“ gespeichert. Kehre sofort zum Hauptmenü zurück oder lade den Spielstand neu.\nWenn du an dieser Stelle weiterspielst, werden weitere Daten beschädigt und das Spiel könnte abstürzen.\n \nSkript: %s\n \nDer Fehler wurde mit dem Vermerk [BusyHandsDebug] protokolliert.\nSende das Protokoll und melde das Problem dem zuständigen Skriptautor oder Modpack-Team.</text>
+  </string>
+  <string id="st_reload_save">
+    <text>Spielstand neu laden</text>
+  </string>
+</string_table>

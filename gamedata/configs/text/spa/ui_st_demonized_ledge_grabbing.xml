@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_demonized_ledge_grabbing_BHSMode">
+    <text>Integración con BHS</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_BHSMode_desc">
+    <text>Si está activado Body Health System y el jugador tiene un brazo roto, no podrá trepar.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection">
+    <text>Detección alternativa de salientes</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection_desc">
+    <text>El método alternativo busca salientes más cerca de la mira del jugador. El método estándar busca desde una altura fija.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_animationRandomization">
+    <text>Aleatoriedad de animación</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_animationRandomization_desc">
+    <text>Añade variaciones aleatorias al movimiento de la cámara.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance">
+    <text>Distancia de activación</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance_desc">
+    <text>Distancia máxima para iniciar el agarre del saliente.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_enable">
+    <text>Activar</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_gruntProbability">
+    <text>Probabilidad de gruñidos</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_gruntVolume">
+    <text>Volumen de los gruñidos</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode">
+    <text>Modo extremo</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode_desc">
+    <text>Al activarlo, se aplican restricciones adicionales al trepar: \n 1. No se puede trepar si el jugador pesa más de 90 kg \n 2. No se puede trepar si la salud del jugador es inferior al 60 % \n 3. Aumenta el consumo de resistencia</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_inputMethod">
+    <text>Método de entrada</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime">
+    <text>Tiempo de pulsación para activar</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime_desc">
+    <text>Si mantienes la tecla pulsada más tiempo, se activará el agarre del saliente.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_keybind">
+    <text>Asignación de tecla</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck">
+    <text>Comprobar espacio para el jugador</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck_desc">
+    <text>Si se activa, se comprueba además si el jugador cabe en el saliente. Esto puede reducir el número de salientes accesibles.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_raySteps">
+    <text>Precisión al agarrarse a salientes</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_raySteps_desc">
+    <text>Cuanto mayor sea el valor, mejor será la detección y la posición de agarre, pero bajará un poco el rendimiento.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_soundVolume">
+    <text>Volumen del sonido</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_staminaDrain">
+    <text>Consumo de resistencia</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_throttleCheck">
+    <text>Retardo de comprobación al trepar</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_throttleCheck_desc">
+    <text>Tiempo entre comprobaciones en ms. Auméntalo para mejorar el rendimiento a costa de la precisión.</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_unstuckCheck">
+    <text>Comprobar si queda atascado</text>
+  </string>
+  <string id="ui_mcm_demonized_ledge_grabbing_unstuckCheck_desc">
+    <text>Si se activa, el mod intentará liberar al jugador si el agarre del saliente falla.</text>
+  </string>
+  <string id="ui_mcm_ledge_grabbing_title">
+    <text>Agarrarse a salientes</text>
+  </string>
+  <string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_both">
+    <text>Ambos</text>
+  </string>
+  <string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_buttonPress">
+    <text>Pulsar el botón</text>
+  </string>
+  <string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_jumpHold">
+    <text>Mantener la tecla</text>
+  </string>
+  <string id="ui_mcm_menu_demonized_ledge_grabbing">
+    <text>Agarrarse a salientes</text>
+  </string>
+</string_table>

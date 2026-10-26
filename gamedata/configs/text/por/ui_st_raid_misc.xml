@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_art_cache_fallback">
+    <text>Nao ha onde deixar; vou entregar em maos. Nao de bandeira.</text>
+  </string>
+  <string id="st_art_cache_found">
+    <text>Chip ativado. Esconderijos marcados: %s. O artefato esta em um deles. Descubra qual.</text>
+  </string>
+  <string id="st_art_cache_no_stash">
+    <text>Nao ha esconderijos. Todos estao cheios. Volte mais tarde.</text>
+  </string>
+  <string id="st_art_cache_spot">
+    <text>Esconderijo T%d | %s</text>
+  </string>
+  <string id="st_art_lvl_agroprom">
+    <text>Agroprom</text>
+  </string>
+  <string id="st_art_lvl_darkvalley">
+    <text>Vale Sombrio</text>
+  </string>
+  <string id="st_art_lvl_escape">
+    <text>Cordon</text>
+  </string>
+  <string id="st_art_lvl_garbage">
+    <text>Lixao</text>
+  </string>
+  <string id="st_art_lvl_grimwood">
+    <text>Floresta Sombria</text>
+  </string>
+  <string id="st_art_lvl_jupiter">
+    <text>Arredores de Jupiter</text>
+  </string>
+  <string id="st_art_lvl_marsh">
+    <text>Pantanos</text>
+  </string>
+  <string id="st_art_lvl_military">
+    <text>Depositos do Exercito</text>
+  </string>
+  <string id="st_art_lvl_poselok">
+    <text>Vila do Sul</text>
+  </string>
+  <string id="st_art_lvl_pripyat">
+    <text>Arredores de Pripyat</text>
+  </string>
+  <string id="st_art_lvl_promzona">
+    <text>Zona Industrial</text>
+  </string>
+  <string id="st_art_lvl_redforest">
+    <text>Floresta Vermelha</text>
+  </string>
+  <string id="st_art_lvl_trucks">
+    <text>Cemiterio de veiculos</text>
+  </string>
+  <string id="st_art_lvl_zaton">
+    <text>Zaton</text>
+  </string>
+  <string id="st_ecolog_raid_event_item">
+    <text>Trofeu de incursao dos ecologistas</text>
+  </string>
+  <string id="st_ecolog_raid_event_item_descr">
+    <text>Item obtido em incursao dos ecologistas. O medico aceita como pagamento por equipamento.</text>
+  </string>
+  <string id="st_raid_art_cache_t1">
+    <text>Coordenadas do esconderijo de artefatos [Nível I]</text>
+  </string>
+  <string id="st_raid_art_cache_t1_descr">
+    <text>Coordenadas criptografadas de um esconderijo perto de uma anomalia na região central da Zona. O vendedor garante um artefato de nível I, mas há 10% de chance de o esconderijo já ter sido saqueado. No mercado negro, não há devoluções. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Ative pelo inventário quando quiser verificar o esconderijo.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t2">
+    <text>Coordenadas do esconderijo de artefatos [Nível II]</text>
+  </string>
+  <string id="st_raid_art_cache_t2_descr">
+    <text>Coordenadas criptografadas de um esconderijo perto de uma anomalia numa área perigosa. Um artefato de nível II é garantido, a menos que alguém chegue primeiro (20% de chance). Artefatos desse nível não são fáceis de obter. Sem devoluções. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Ative pelo inventário quando quiser verificar o esconderijo.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t3">
+    <text>Coordenadas do esconderijo de artefatos [Nível III]</text>
+  </string>
+  <string id="st_raid_art_cache_t3_descr">
+    <text>Coordenadas criptografadas de um esconderijo nas áreas de anomalias mais perigosas: Zaton, Júpiter e Tchernóbil. Contém um artefato de nível III. Há 30% de chance de já ter sido saqueado ou interceptado. Não será fácil e não há devoluções. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Ative pelo inventário quando quiser verificar o esconderijo.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t4">
+    <text>Coordenadas do esconderijo de artefatos [Nível IV]</text>
+  </string>
+  <string id="st_raid_art_cache_t4_descr">
+    <text>Coordenadas criptografadas de um esconderijo nas zonas de anomalias mais letais: a usina nuclear, o Sarcófago e os Geradores. Contém um artefato de nível IV. Há 40% de chance de já ter desaparecido. É o melhor de todos, mas não há devoluções. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Ative pelo inventário quando quiser verificar o esconderijo.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_use">
+    <text>Ativar coordenadas</text>
+  </string>
+  <string id="st_raid_barrier_device">
+    <text>Unidade de criptografia “Barreira”</text>
+  </string>
+  <string id="st_raid_barrier_device_descr">
+    <text>Unidade criptográfica militar com antena e sistema de proteção de dados. É usada por militares e mercenários para comunicações seguras. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_bitcoin">
+    <text>Bitcoin físico</text>
+  </string>
+  <string id="st_raid_bitcoin_descr">
+    <text>Uma pesada moeda de ouro, trabalho único de um joalheiro: o símbolo do bitcoin em relevo traz minúsculas gravações antifalsificação. No verso há um QR code e mais de sessenta caracteres gravados a laser. A borda tem correntes entrelaçadas e, sob um selo holográfico, há um chip com uma chave privada. O dono não confiou em corretoras, bancos nem no próprio computador: guardou toda a fortuna numa peça de ouro. A moeda já vale uma fortuna como joia; os dados do chip valem muito mais. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_bread_rosary">
+    <text>Terço de pão (feito à mão)</text>
+  </string>
+  <string id="st_raid_bread_rosary_descr">
+    <text>Um terço rústico, feito à mão e popular entre os brutamontes. Foi montado às pressas com miolo de pão e qualquer pedaço de sucata disponível. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_camera_lens">
+    <text>Câmera de visão noturna</text>
+  </string>
+  <string id="st_raid_camera_lens_descr">
+    <text>Módulo óptico blindado para equipamento militar. Amplifica a luz e o espectro infravermelho para enxergar na escuridão total. Está parcialmente danificado, mas ainda serve para desmontagem ou restauração. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_cassette">
+    <text>Fita cassete de música (antiga, etiquetada)</text>
+  </string>
+  <string id="st_raid_cassette_descr">
+    <text>Uma fita cassete antiga de rock, comum entre os stalkers da Liberdade. A caixa tem uma inscrição desbotada feita com marcador. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_chimera_statuette">
+    <text>Estatueta de quimera (prata, detalhada)</text>
+  </string>
+  <string id="st_raid_chimera_statuette_descr">
+    <text>Uma estatueta de quimera em prata com gravação manual minuciosa. Valorizada por colecionadores e caçadores. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_gold_coin">
+    <text>Moeda de ouro antiga</text>
+  </string>
+  <string id="st_raid_gold_coin_descr">
+    <text>Uma moeda de ouro bastante pesada: um chervonets da época czarista. O tempo a escureceu, mas ouro não enferruja nem perde valor. Talvez um veterano a tenha escondido antes da primeira Emissão, ou um garimpeiro ilegal tentasse cruzar o Perímetro e não conseguisse. Um comerciante pagará bem pelo ouro puro, sem impurezas. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_lab_disc">
+    <text>Disco do laboratório</text>
+  </string>
+  <string id="st_raid_lab_disc_descr">
+    <text>Um disco de dados encontrado em um laboratório subterrâneo. A etiqueta está gasta demais para ser lida. Não se sabe o que contém, mas alguém claramente não queria que fosse encontrado. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_medal">
+    <text>Distintivo vermelho de veterano</text>
+  </string>
+  <string id="st_raid_medal_descr">
+    <text>Um distintivo gasto de um veterano do Dever que participou de dezenas de incursões contra mutantes e contra a anarquia da Zona. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_nato_battery">
+    <text>Fonte de alimentação portátil da OTAN (padrão militar)</text>
+  </string>
+  <string id="st_raid_nato_battery_descr">
+    <text>Uma fonte de energia de campo confiável, frequentemente usada por mercenários com equipamentos ocidentais. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_press_badge">
+    <text>Crachá de imprensa</text>
+  </string>
+  <string id="st_raid_press_badge_descr">
+    <text>Um crachá gasto e manchado de sangue que pertenceu ao jornalista Veniamin Alekseenko. O selo “PRESS” e os carimbos oficiais já não têm valor legal; restou apenas a lembrança do mundo além do Perímetro. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_religious_icon">
+    <text>Ícone antigo dourado (rachado e patinado)</text>
+  </string>
+  <string id="st_raid_religious_icon_descr">
+    <text>Um ícone escurecido pelo tempo, rachado e com vestígios de fuligem. Muitos na Zona o consideram um amuleto de sorte. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_raid_walkman">
+    <text>Toca-fitas portátil (estilo anos 90)</text>
+  </string>
+  <string id="st_raid_walkman_descr">
+    <text>Um toca-fitas gasto com uma cassete dentro, item favorito dos stalkers da Liberdade durante as pausas. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Um comerciante pode se interessar por este item.\n \n
+		</text>
+  </string>
+  <string id="st_stalker_raid_event_item">
+    <text>Trofeu de incursao dos stalkers livres</text>
+  </string>
+  <string id="st_stalker_raid_event_item_descr">
+    <text>Item obtido em incursao dos stalkers livres. O medico aceita como pagamento por equipamento.</text>
+  </string>
+</string_table>

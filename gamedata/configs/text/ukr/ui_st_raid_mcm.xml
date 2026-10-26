@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Високий</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Низький</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Стандартний</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Прискорений прогрес (20–30 годин гри)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Стандартний прогрес (30–40 годин гри)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Швидкий прогрес (10–20 годин гри)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Grim Raid</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Населення «Рейд у Темряву»</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Дозволити збереження біля вогнищ</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Дозволяє зберігатися біля багать.\n\nЗа ввімкненої опції також працюють консольні збереження командою «save назва_збереження».\n\n%c[200, 235, 76, 52]Увага! Рекомендуємо не зберігатися під час рейду, оскільки це псує враження від гри.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>Справжній «режим Темряви» використовує типові значення.</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Страхування в інформатора (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Шанс зберегти предмети у слотах після купівлі «страхування» в інформатора.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Зберігати предмети після смерті</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Відсоток споряджених предметів, які гарантовано залишаються в інвентарі після смерті.\n\nНаприклад, за значення 60 % із 10 предметів залишаться 6 випадкових.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Поступова втрата предметів</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>Кількість предметів, які зберігаються після смерті, залежить від рангу гравця. Що вищий ранг, то менше речей залишається. Ця опція вимикає повзунок нижче, який визначає кількість збережених речей.\nНовачок - втрата 10 % речей\nПочатківець - втрата 20 % речей\nДосвідчений - втрата 30 % речей\nПрофесіонал - втрата 40 % речей\nВетеран - втрата 50 % речей\nЕксперт - втрата 60 % речей\nМайстер - втрата 70 % речей\nЛегенда - втрата 33 % речей\n\nКоли опцію вимкнено, відсоток можна налаштувати в пункті «Кількість збережених предметів після смерті».</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Втрата очок звання після смерті (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Відсоток рангу, що втрачається після смерті.\n\nВпливає на розвиток персонажа.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Населення «Рейд у Темряву»</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Множник появи у симуляції</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>За замовчуванням 100% відповідає початковим налаштуванням симуляції. Змініть значення на 20–50%, щоб помітити різницю.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Шаблон чисельності на локаціях</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>Визначає кількість загонів під час початкової та можливої додаткової появи. Працює лише у стандартних рейдах.\nРекомендовано стандартне значення, під яке налаштовано ігровий процес.</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>Швидкість розвитку</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Визначає нагороди за завдання: звання, гроші та репутацію в замовників.\nРекомендовано стандартне значення, під яке налаштовано ігровий процес.</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Grim Raid</text>
+  </string>
+</string_table>

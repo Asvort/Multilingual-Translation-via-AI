@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ssr">
+    <text>SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm">
+    <text>Unschärfe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm_desc">
+    <text>Legt fest, wie unscharf Reflexionen dargestellt werden.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm">
+    <text>Gesamtintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm_desc">
+    <text>Gesamtstärke der Reflexionen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm">
+    <text>Qualität (Schritte)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm_desc">
+    <text>[ NEUSTART ERFORDERLICH ] Anzahl der Schritte für Reflexionen. Diese Option kann die Leistung deutlich beeinträchtigen. [ 8, 16, 24, 32, 48, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm">
+    <text>Render-Skalierung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm_desc">
+    <text>Skalierung des SSR-Renderings. Niedrigere Werte verringern die Bildqualität, verbessern aber die Leistung. Bei geringerer Skalierung kann mehr Unschärfe den Qualitätsverlust kaschieren.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm">
+    <text>Himmelsintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm_desc">
+    <text>Stärke der Skybox-Reflexion.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm">
+    <text>Zeitliche Akkumulation</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm_desc">
+    <text>Legt fest, wie stark vorherige Bilder zur Stabilisierung der Reflexionen genutzt werden. Das verringert Rauschen, hohe Werte können jedoch Geisterbilder verursachen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_title">
+    <text>Einstellungen für Bildschirmraum-Reflexionen</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm">
+    <text>Rauschen verwenden</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm_desc">
+    <text>Aktiviert oder deaktiviert Rauschen zur Verbesserung der SSR-Rekonstruktion. Bei hoher Unschärfe empfohlen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm">
+    <text>Maximale Waffenreflexionsintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm_desc">
+    <text>Maximale Stärke der Reflexionen auf Waffen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm">
+    <text>Waffenreflexionsintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm_desc">
+    <text>Stärke der Reflexionen auf Waffen.</text>
+  </string>
+</string_table>

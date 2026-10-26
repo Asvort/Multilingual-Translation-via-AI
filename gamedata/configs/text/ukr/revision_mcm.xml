@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_lst_LUM">
+    <text>Розрахунок освітленості</text>
+  </string>
+  <string id="ui_mcm_lst_VDT">
+    <text>Розрахунок порогу дистанційного виявлення</text>
+  </string>
+  <string id="ui_mcm_menu_revision">
+    <text>RE:VISION</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response">
+    <text>Агресивна реакція</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response_desc">
+    <text>Якщо стріляти по NPC за межами порогу дистанційного виявлення, вони агресивно реагуватимуть на постріли.</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength">
+    <text>Сила корекції яскравих ділянок</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength_desc">
+    <text>Посилює або послаблює вплив дуже яскравого оточення на помітність, щоб уникнути пересвічення зору ШІ. Налаштуйте RE:Tinal відповідно до погодної системи.</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance">
+    <text>Дальність впливу багаття</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance_desc">
+    <text>Визначає відстань, на якій багаття та подібні джерела світла освітлюють зони сприйняття NPC.</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier">
+    <text>Множник помітності під час присідання</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier_desc">
+    <text>Визначає, наскільки зменшується помітність під час присідання. Нижче значення покращує маскування.</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength">
+    <text>Сила корекції темних ділянок</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength_desc">
+    <text>Посилює або послаблює помітність у темряві, щоб NPC не сліпли майже в повній темряві. Налаштуйте RE:Tinal відповідно до погодної системи.</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type">
+    <text>Тип налагодження</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type_desc">
+    <text>Виберіть розрахунок VDT або освітленості.</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range">
+    <text>Дальність виявлення</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range_desc">
+    <text>Визначає максимальну відстань, на якій NPC можуть виявити гравця та інших NPC.</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug">
+    <text>Увімкнути налагодження</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug_desc">
+    <text>Показує журнали на екрані та повідомлення консолі для перевірки помітності й налагодження реакцій системи.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle">
+    <text>Кут центрального зору NPC</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle_desc">
+    <text>Налаштовує ширину центрального поля зору NPC. У його межах вони повністю сприймають цілі.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle">
+    <text>Кут периферійного зору NPC</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle_desc">
+    <text>Налаштовує ширину периферійного поля зору NPC. У ньому вони гірше сприймають цілі; освітленість також має вплив.</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier">
+    <text>Глобальний множник яскравості</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier_desc">
+    <text>Налаштовує загальну чутливість зору NPC до яскравості. Вищі значення роблять світ світлішим для ШІ. Використовуйте для налаштування RE:Tinal відповідно до вашої погоди.</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency">
+    <text>Частота перевірки перебування в приміщенні</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency_desc">
+    <text>Визначає частоту перевірки, чи перебуває персонаж у приміщенні або надворі. Використовується трасування променів.</text>
+  </string>
+  <string id="ui_mcm_revision_key_0">
+    <text>Північ (00:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_0_desc">
+    <text>Дозволяє налаштувати яскравість для кожної ключової часової точки основного профілю.</text>
+  </string>
+  <string id="ui_mcm_revision_key_10">
+    <text>10:00 ранку</text>
+  </string>
+  <string id="ui_mcm_revision_key_10_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_12">
+    <text>Полудень (12:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_12_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_14">
+    <text>День (14:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_14_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_16">
+    <text>Післяобідній час (16:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_16_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_18">
+    <text>Вечір (18:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_18_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_2">
+    <text>Ранок (02:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_20">
+    <text>Вечір (20:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_20_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_22">
+    <text>Пізній вечір (22:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_22_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_2_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_4">
+    <text>Ранній ранок (04:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_4_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_6">
+    <text>Світанок (06:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_6_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_8">
+    <text>Ранок (08:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_8_desc">
+    <text>Установіть рівень освітленості для цієї часової точки</text>
+  </string>
+  <string id="ui_mcm_revision_master_profile">
+    <text>Основний профіль погоди</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength">
+    <text>Ефективність окулярів нічного бачення</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength_desc">
+    <text>Визначає, наскільки окуляри нічного бачення покращують сприйняття NPC за слабкого освітлення.</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier">
+    <text>Множник помітності під час повільного руху навприсядки</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier_desc">
+    <text>Додатково знижує помітність під час повільного руху навприсядки, покращуючи скритність.</text>
+  </string>
+  <string id="ui_mcm_revision_something">
+    <text>Заповнювач</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier">
+    <text>Множник помітності під час спринту</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier_desc">
+    <text>Збільшує помітність під час спринту через інтенсивніші рухи та шум.</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity">
+    <text>Коефіцієнт матеріалу поверхні</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity_desc">
+    <text>Визначає вплив трави й кущів на сприйняття NPC. Вищі значення роблять вас менш помітним для ШІ.</text>
+  </string>
+  <string id="ui_mcm_revision_title">
+    <text>RE:VISION: покращене зорове сприйняття та сприйняття руху</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting">
+    <text>Використовувати трасування променів</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting_desc">
+    <text>Використовує трасування променів для точнішого розрахунку яскравості в приміщеннях.</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear">
+    <text>Ясна погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy">
+    <text>Хмарна погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark">
+    <text>Темна хмарна погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog">
+    <text>Туман</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy">
+    <text>Мінлива хмарність</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain">
+    <text>Дощ</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm">
+    <text>Гроза</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm_desc">
+    <text>Визначає множник для цього типу погоди на основі основного профілю</text>
+  </string>
+</string_table>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_LUM">
+    <text>Calcul de luminosité</text>
+  </string>
+  <string id="ui_mcm_lst_VDT">
+    <text>Calcul du seuil de distance de visibilité</text>
+  </string>
+  <string id="ui_mcm_menu_revision">
+    <text>RE:VISION</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response">
+    <text>Réaction agressive</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response_desc">
+    <text>Les tirs sur des PNJ au-delà du seuil de visibilité les feront réagir agressivement.</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength">
+    <text>Intensité de correction des zones lumineuses</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength_desc">
+    <text>Augmente ou réduit l’influence des environnements très lumineux sur la visibilité afin d’éviter la surexposition de la vision de l’IA. À régler selon votre météo avec RE:Tinal.</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance">
+    <text>Distance d’influence du feu de camp</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance_desc">
+    <text>Définit la distance à laquelle les feux de camp et les sources lumineuses similaires éclairent les zones de perception des PNJ.</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier">
+    <text>Multiplicateur de visibilité accroupi</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier_desc">
+    <text>Règle la réduction de votre visibilité en position accroupie. Une valeur basse améliore la dissimulation.</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength">
+    <text>Intensité de correction des zones sombres</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength_desc">
+    <text>Augmente ou réduit la visibilité dans les zones sombres afin que les PNJ ne soient pas complètement aveugles. À régler selon votre météo avec RE:Tinal.</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type">
+    <text>Type de débogage</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type_desc">
+    <text>Choisissez entre le calcul VDT et le calcul de luminosité.</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range">
+    <text>Portée de détection</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range_desc">
+    <text>Définit la distance maximale à laquelle les PNJ peuvent détecter ou voir le joueur et les autres PNJ.</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug">
+    <text>Activer le débogage</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug_desc">
+    <text>Affiche des journaux à l’écran et des messages dans la console pour tester la visibilité et déboguer les réactions du système.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle">
+    <text>Angle de vision centrale des PNJ</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle_desc">
+    <text>Règle la largeur du champ de vision central des PNJ. Dans cet angle, leur perception est complète.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle">
+    <text>Angle de vision périphérique des PNJ</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle_desc">
+    <text>Règle la largeur du champ de vision périphérique des PNJ. Leur perception y est réduite et dépend aussi de la luminosité.</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier">
+    <text>Multiplicateur global de luminance</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier_desc">
+    <text>Règle la sensibilité générale de la vision des PNJ à la luminosité. Les valeurs élevées rendent le monde plus clair pour l'IA. À utiliser pour adapter RE:Tinal à votre météo.</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency">
+    <text>Fréquence de vérification en intérieur</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency_desc">
+    <text>Définit la fréquence à laquelle le script vérifie si le personnage est à l'intérieur ou à l'extérieur. Utilise le lancer de rayons.</text>
+  </string>
+  <string id="ui_mcm_revision_key_0">
+    <text>Minuit (00:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_0_desc">
+    <text>Permet de régler la luminosité de chaque heure clé du profil principal.</text>
+  </string>
+  <string id="ui_mcm_revision_key_10">
+    <text>10 h du matin</text>
+  </string>
+  <string id="ui_mcm_revision_key_10_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_12">
+    <text>Midi (12 h)</text>
+  </string>
+  <string id="ui_mcm_revision_key_12_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_14">
+    <text>14 h</text>
+  </string>
+  <string id="ui_mcm_revision_key_14_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_16">
+    <text>16 h</text>
+  </string>
+  <string id="ui_mcm_revision_key_16_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_18">
+    <text>18 h</text>
+  </string>
+  <string id="ui_mcm_revision_key_18_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_2">
+    <text>2 h du matin</text>
+  </string>
+  <string id="ui_mcm_revision_key_20">
+    <text>20 h</text>
+  </string>
+  <string id="ui_mcm_revision_key_20_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_22">
+    <text>22 h</text>
+  </string>
+  <string id="ui_mcm_revision_key_22_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_2_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_4">
+    <text>4 h du matin</text>
+  </string>
+  <string id="ui_mcm_revision_key_4_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_6">
+    <text>6 h du matin</text>
+  </string>
+  <string id="ui_mcm_revision_key_6_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_key_8">
+    <text>8 h du matin</text>
+  </string>
+  <string id="ui_mcm_revision_key_8_desc">
+    <text>Règle la luminosité de cette heure clé</text>
+  </string>
+  <string id="ui_mcm_revision_master_profile">
+    <text>Profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength">
+    <text>Efficacité des lunettes de vision nocturne</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength_desc">
+    <text>Détermine dans quelle mesure les lunettes de vision nocturne améliorent la perception des PNJ dans la pénombre.</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier">
+    <text>Multiplicateur de visibilité en déplacement accroupi lent</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier_desc">
+    <text>Réduit davantage la visibilité en avançant lentement accroupi pour améliorer la discrétion.</text>
+  </string>
+  <string id="ui_mcm_revision_something">
+    <text>Espace réservé</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier">
+    <text>Multiplicateur de visibilité en sprint</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier_desc">
+    <text>Augmente la visibilité pendant un sprint en raison des mouvements et du bruit accrus.</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity">
+    <text>Coefficient du matériau de surface</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity_desc">
+    <text>Détermine l’influence des surfaces comme l’herbe et les buissons sur la perception des PNJ. Les valeurs élevées vous rendent moins visible pour l’IA.</text>
+  </string>
+  <string id="ui_mcm_revision_title">
+    <text>RE:VISION : amélioration de la perception visuelle et du mouvement</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting">
+    <text>Utiliser le lancer de rayons</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting_desc">
+    <text>Utilise le lancer de rayons pour calculer plus précisément la luminosité en intérieur.</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear">
+    <text>Temps clair</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy">
+    <text>Temps nuageux</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark">
+    <text>Temps très nuageux</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog">
+    <text>Brouillard</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy">
+    <text>Temps partiellement nuageux</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain">
+    <text>Pluie</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm">
+    <text>Orage</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm_desc">
+    <text>Définit le multiplicateur de ce type de météo selon le profil météo principal</text>
+  </string>
+</string_table>

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="at_development_hud_position_lst_bottomleft">
+    <text>Унизу ліворуч</text>
+  </string>
+  <string id="at_development_hud_position_lst_bottomright">
+    <text>Унизу праворуч</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerleft">
+    <text>По центру ліворуч</text>
+  </string>
+  <string id="at_development_hud_position_lst_centerright">
+    <text>По центру праворуч</text>
+  </string>
+  <string id="at_development_hud_position_lst_off">
+    <text>Вимк.</text>
+  </string>
+  <string id="at_development_hud_position_lst_topleft">
+    <text>Угорі ліворуч</text>
+  </string>
+  <string id="at_development_hud_position_lst_topright">
+    <text>Угорі праворуч</text>
+  </string>
+  <string id="at_development_log_level_lst_debug">
+    <text>Налагодження</text>
+  </string>
+  <string id="at_development_log_level_lst_error">
+    <text>Помилка</text>
+  </string>
+  <string id="at_development_log_level_lst_info">
+    <text>Інформація</text>
+  </string>
+  <string id="at_development_log_level_lst_warn">
+    <text>Попередження</text>
+  </string>
+  <string id="st_at_reset_all_done">
+    <text>AlifeTactics: усі налаштування відновлено до типових.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced">
+    <text>Розсіювання досвідченого</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_experienced_desc">
+    <text>Масштаб конуса пострілу для досвідчених сталкерів. Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert">
+    <text>Розсіювання: експерт</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_expert_desc">
+    <text>Масштаб конуса пострілу для рангу «експерт». Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend">
+    <text>Розсіювання: легенда</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_legend_desc">
+    <text>Масштаб конуса пострілу для рангу «легенда». Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master">
+    <text>Розсіювання: майстер</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_master_desc">
+    <text>Масштаб конуса пострілу для рангу «майстер». Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice">
+    <text>Розсіювання новачка</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_novice_desc">
+    <text>Масштаб конуса пострілу для новачків. Менше значення — купніше й смертоносніше. 1.00 відповідає стандартному конусу.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional">
+    <text>Розсіювання: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_professional_desc">
+    <text>Масштаб конуса пострілу для рангу «професіонал». Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee">
+    <text>Розсіювання стажера</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_trainee_desc">
+    <text>Масштаб конуса пострілу для стажерів. Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran">
+    <text>Розсіювання: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_disp_veteran_desc">
+    <text>Масштаб конуса пострілу для рангу «ветеран». Менше значення — купніша стрільба.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced">
+    <text>Стрільба в русі: досвідчений</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_experienced_desc">
+    <text>Визначає, яку частину штрафу до розкиду під час руху зберігає досвідчений сталкер, стріляючи на ходу. Значення 1.00 відповідає повному штрафу оригінальної гри; менше значення робить стрільбу стабільнішою.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert">
+    <text>Стрільба в русі: експерт</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_expert_desc">
+    <text>Частка штрафу розсіювання в русі для рангу «експерт». — повний стандартний штраф; нижче значення підвищує стійкість.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend">
+    <text>Стрільба в русі: легенда</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_legend_desc">
+    <text>Частка штрафу, що лишається для легендарного рангу під час стрільби в русі. За 0.50 вона така ж стабільна, як стрільба стоячи.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master">
+    <text>Стрільба в русі: майстер</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_master_desc">
+    <text>Частка штрафу розсіювання в русі для рангу «майстер». — повний стандартний штраф; нижче значення підвищує стійкість.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice">
+    <text>Стрільба в русі: новачок</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_novice_desc">
+    <text>Визначає, яку частину штрафу до розкиду під час руху зберігає новачок сталкер, стріляючи на ходу. Значення 1.00 відповідає повному штрафу оригінальної гри; менше значення робить стрільбу стабільнішою.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional">
+    <text>Стрільба в русі: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_professional_desc">
+    <text>Частка штрафу розсіювання в русі для рангу «професіонал». — повний стандартний штраф; менше значення підвищує точність.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee">
+    <text>Стрільба в русі: стажер</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_trainee_desc">
+    <text>Визначає, яку частину штрафу до розкиду під час руху зберігає стажист сталкер, стріляючи на ходу. Значення 1.00 відповідає повному штрафу оригінальної гри; менше значення робить стрільбу стабільнішою.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran">
+    <text>Стрільба в русі: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_acc_move_veteran_desc">
+    <text>Частка штрафу розсіювання в русі для рангу «ветеран». — повний стандартний штраф; нижче значення підвищує стійкість.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_desc">
+    <text>Точність сталкерів зростає з рангом: майстер стріляє купніше за новачка. Нижче можна налаштувати кожен ранг. Рушій підтримує криву розсіювання, але стандартні значення Anomaly майже не відрізняються.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled">
+    <text>Увімкнути криву розсіювання</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_disp_enabled_desc">
+    <text>Визначає ширину конуса прицілювання для кожного рангу: низькі ранги стріляють ширше, високі — купніше. Якщо вимкнути, діє фіксований конус рушія.</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled">
+    <text>Увімкнути стрільбу в русі</text>
+  </string>
+  <string id="ui_mcm_at_accuracy_move_enabled_desc">
+    <text>Визначає, наскільки ранг компенсує штраф точності під час стрільби в русі. Високі ранги зберігають точність; якщо вимкнути, діє повний штраф.</text>
+  </string>
+  <string id="ui_mcm_at_ammo_desc">
+    <text>Сталкери використовують набої зі свого інвентарю. Ветерани й вищі ранги застосовують бронебійні набої з реальною балістикою, а після вичерпання переходять на звичайні. За бій може витрачатися одна коробка; швидка зброя й низькі ранги витрачають її швидше. Набої надходять через торгівлю та здобич і не випадають із NPC. Поріг рангу й витрати: configs/alifetactics/at_ammo.ltx.</text>
+  </string>
+  <string id="ui_mcm_at_behaviors_desc">
+    <text>У планах: нові бойові дії, яких бракує стандартному планувальнику; спершу ближній бій. Налаштувань поки немає.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled">
+    <text>Увімкнути перехоплення керування в бою</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_enabled_desc">
+    <text>Якщо вимкнено, AlifeTactics не втручається й діє поточний ШІ. Якщо ввімкнено, мод може ненадовго взяти сталкера для маневру.</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions">
+    <text>Не керувати напарниками</text>
+  </string>
+  <string id="ui_mcm_at_combat_combat_ignore_companions_desc">
+    <text>Якщо ввімкнено, AlifeTactics не керує напарниками, тож їхня поведінка й ваші накази лишаються під вашим контролем. Вимкніть, щоб дозволити маневри для них.</text>
+  </string>
+  <string id="ui_mcm_at_combat_desc">
+    <text>Маневр тимчасово повністю керує одним сталкером, щоб виконати дію, якої не підтримує стандартний рушій. Система аналізує бій, характеристики, світ, загін, фракцію, відстань, укриття та зброю. Загони координують рух відповідно до фракції. Бойові скрипти не замінюються; кожен маневр вмикається окремо.</text>
+  </string>
+  <string id="ui_mcm_at_combat_hdr_maneuvers">
+    <text>Маневри</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank">
+    <text>Протидія обходу</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_counterflank_desc">
+    <text>Якщо сталкер стріляє по далекій цілі, а ворожий гравець підійшов впритул, він розвертається й атакує ближню загрозу, не підставляючи спину.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee">
+    <text>Втеча</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_flee_desc">
+    <text>Останній боєць розбитого загону тікає зі зброєю на ремені до далекої дружньої бази, спершу дочекавшись затишшя. Тікають лише обережні фракції; фанатики не відступають.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite">
+    <text>Відступ із вогнем</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_kite_desc">
+    <text>Якщо ворог наблизився ближче за мінімальну дальність зброї, сталкер відступає до своєї дистанції, стріляючи перевіреним безпечним напрямком.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff">
+    <text>Відстріл здалеку</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_pickoff_desc">
+    <text>Якщо зброя сталкера має більшу дальність, він тримає позицію та стріляє одиночними. Відступає, коли ворог наближається, і не залишається під вогнем чи вашим прицілом.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover">
+    <text>Перезаряджання в укритті</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_reload_cover_desc">
+    <text>Якщо сталкера застали за перезаряджанням на лінії вогню, він біжить до найближчого укриття й завершує перезаряджання дорогою. Поза полем зору чи прицілом це не змінюється. Потрібен новий рушій.</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat">
+    <text>Відступ</text>
+  </string>
+  <string id="ui_mcm_at_combat_maneuver_retreat_desc">
+    <text>Коли сталкер тяжко поранений, а стрілець поруч, він відступає за укриття, продовжуючи стріляти. Обране укриття збільшує відстань до стрільця; одне місце не займають двоє.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin">
+    <text>Фіксація в укритті</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_cover_pin_desc">
+    <text>За чистого пострілу сталкер утримує укриття, а не переходить до трохи кращої позиції, що прибирає зайві перебіжки. Якщо позиція стає небезпечною, він відходить. Потрібна нова версія рушія.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled">
+    <text>Увімкнути рішучість</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_enabled_desc">
+    <text>Якщо вимкнено, сталкери поводяться стандартно: рушій постійно переоцінює ситуацію й змінює їхню дію заради незначної переваги, спричиняючи метушню.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s">
+    <text>Максимальний час дії</text>
+  </string>
+  <string id="ui_mcm_at_commitment_commitment_hold_s_desc">
+    <text>Як довго сталкер може виконувати одну дію, перш ніж рушій зможе перемістити його. Це межа, а не фіксований час: він продовжує, доки є причина. Відходить, щойно втрачає огляд або чистий постріл. Вище значення довше утримує позицію.</text>
+  </string>
+  <string id="ui_mcm_at_commitment_desc">
+    <text>Звичайні сталкери постійно змінюють рішення через найменші зміни, тому метушаться та стрибають між укриттями. Параметр допомагає їм продовжувати дію, доки вона має сенс, і перемикатися, якщо ворог зник, постріл заблоковано або втрачено огляд. За чистого пострілу сталкер утримує укриття. Потрібна нова версія рушія; у старих діє стандартна поведінка.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture">
+    <text>Положення в укритті</text>
+  </string>
+  <string id="ui_mcm_at_conduct_conduct_posture_desc">
+    <text>Досвідчені стрільці та снайпери присідають за укриттям по груди й встають, якщо його немає. Параметр покращує бойову поставу.</text>
+  </string>
+  <string id="ui_mcm_at_conduct_desc">
+    <text>Невеликі бойові покращення для сталкерів під керуванням стандартного рушія: без перехоплення контролю, лише кращі рішення. Потрібна нова версія рушія.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled">
+    <text>Зменшити дружній вогонь усередині фракції</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_enabled_desc">
+    <text>Якщо вимкнено, дружній вогонь завдає повної стандартної шкоди.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor">
+    <text>Множник шкоди всередині фракції</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_crossfire_factor_desc">
+    <text>Шкода від влучання бійця своєї фракції. 0.00 — союзники не завдають шкоди одне одному; 1.00 — повна стандартна шкода.</text>
+  </string>
+  <string id="ui_mcm_at_crossfire_desc">
+    <text>Бійці однієї фракції завдають менше шкоди одне одному під час перехресного вогню; множник налаштовується нижче. Ворожі фракції завдають повну шкоду. Ваші постріли не змінюються.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions">
+    <text>Шум дій</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_heard_actions_desc">
+    <text>Ворожі сталкери реагують на звук перезаряджання, клацання порожньої зброї або використання предмета поруч. Дальність менша за шум руху. Перезаряджання й клацання змушують їх перевірити місце, а на предмет вони повертаються до звуку.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise">
+    <text>Шум руху</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_move_noise_desc">
+    <text>Ворожі сталкери чують ваші кроки. Базова дальність ходьби — 5m; біг множить її на 1.6, приземлення після стрибка сягає 10m. Рух навприсядки безшумний. Поверхні: метал x1.25, дерево x1.15, вода x1.35, трава x0.7, ґрунт і пісок x0.8; дощ скорочує дальність до 40%. Сталкери йдуть перевірити звук, але не вважають його підтвердженням ворога. Реагують лише ворожі NPC поза боєм.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire">
+    <text>Тривога від нейтральних пострілів</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_neutral_gunfire_desc">
+    <text>Нейтральні й дружні сталкери поруч стають напоготові та повертаються до ваших пострілів. Вони не стають ворогами й не змінюють позицію, а заспокоюються після стрілянини. Дальність мала, не бойова.</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult">
+    <text>Дальність шуму</text>
+  </string>
+  <string id="ui_mcm_at_danger_danger_noise_mult_desc">
+    <text>Масштабує дальність кроків і дій. Нижче 1 скритність легша, вище 1 сталкери чують краще.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_desc">
+    <text>Виправлення перевірки небезпеки й огляду тіл завжди активні; нижче є один додатковий параметр. Вони усувають давні збої та помилки. Патч вбудовується в скрипт небезпеки збірки.</text>
+  </string>
+  <string id="ui_mcm_at_danger_fixes_list">
+    <text>1. Виправлено читання рядків налаштувань небезпеки.\n2. Виправлено перевірку часу для тіл мутантів.\n3. Виправлено збій через видалене посилання NPC.\n4. Виправлено хибне значення часу небезпеки.\n5. Виправлено пам’ять про влучання без стрільця.\n6. Виправлено зависання анімації під час зміни стану небезпеки.\n7. Тепер очищується лише резерв укриття самого сталкера.\n8. Виправлено збій, якщо тіло зникає під час огляду.\n9. Огляд тіла більше не керує не тим бійцем загону.\n10. Дослідник прямує до знайденого укриття, а не до очищеного місця.\n11. Налаштування розбираються лише раз, що покращує продуктивність.\n12. Небезпека загиблого сталкера скидається під час повторного використання ID.\n13. Виправлено збій реакції на тіло до початку огляду.</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_fixes">
+    <text>Постійні виправлення (без перемикача)</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_gunfire">
+    <text>Постріли</text>
+  </string>
+  <string id="ui_mcm_at_danger_hdr_noise">
+    <text>Ваші шуми</text>
+  </string>
+  <string id="ui_mcm_at_danger_hit_desc">
+    <text>Реакції на влучання. Відстані беруться з налаштувань небезпеки; AlifeTactics додає реакції, але не змінює параметри.</text>
+  </string>
+  <string id="ui_mcm_at_danger_sound_desc">
+    <text>Реакції на постріли використовують відстані з налаштувань небезпеки вашої збірки; для кроків і дій є короткі вбудовані радіуси. Патч сумісний з іншими бойовими ШІ та модами скритності. Скритність залежить від видимості; звук не змінює виявлення, а рух навприсядки безшумний.</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled">
+    <text>Налагодження балістики</text>
+  </string>
+  <string id="ui_mcm_at_development_ballistics_enabled_desc">
+    <text>Записує результати сутичок поблизу: влучання за рангом і рухом стрільця, шкоду, близькі промахи та довжину черг за типом зброї, а також систему керування NPC (Maneuver, Commitment або vanilla). Щохвилини записує дані в alifetactics_world.log. У вимкненому стані не створює навантаження.</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all">
+    <text>Скинути налаштування</text>
+  </string>
+  <string id="ui_mcm_at_development_btn_reset_all_desc">
+    <text>Відновлює типові значення всіх параметрів AlifeTactics у MCM. Використовуйте після оновлення з версії, де структура MCM відрізнялася.</text>
+  </string>
+  <string id="ui_mcm_at_development_desc">
+    <text>Засоби налагодження. DEBUG записує тривалість маневрів, перевірок небезпеки, розкриття, лікування й предметів, точність кожного пострілу, набої та перезаряджання в alifetactics.log. Це навантажує систему; для гри використовуйте WARN.</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position">
+    <text>Положення</text>
+  </string>
+  <string id="ui_mcm_at_development_hud_position_desc">
+    <text>Накладка показує сталкерів поруч: ранг, ім’я, здоров’я, логіку, психічний стан і поточну ціль із відстанню. Зелений рядок із назвою маневру позначає сталкера під керуванням AlifeTactics. Оновлюється двічі на секунду й ховається при відкритому КПК. Виберіть кут екрана.</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level">
+    <text>Рівень журналу</text>
+  </string>
+  <string id="ui_mcm_at_development_log_level_desc">
+    <text>Докладність журналу. ERROR: лише помилки. WARN: аномалії. INFO: запуск модулів і встановлення патчів. DEBUG: повне трасування подій із часом.</text>
+  </string>
+  <string id="ui_mcm_at_development_reset_warning">
+    <text>Спочатку збережіть або скасуйте незастосовані зміни MCM. Інакше наступне натискання «Прийняти» скасує скидання.</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled">
+    <text>Налагодження поведінки світу</text>
+  </string>
+  <string id="ui_mcm_at_development_world_trace_enabled_desc">
+    <text>Стежить за бойовими NPC поблизу гравця та виявляє ковзання: рух без анімації ходьби чи бігу, зокрема відштовхування після влучання. Вказує систему керування NPC (Maneuver, Commitment або vanilla) і записує дані в alifetactics_world.log. У вимкненому стані не створює навантаження.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_desc">
+    <text>Якщо поранити одного бійця загону, усі одразу дізнаються про стрільця, навіть патрульні поза чутністю та попри глушник. Стандартна гра передає інформацію лише тим, хто почув постріл. AlifeTactics записує стрільця в пам’ять кожного й переводить загін у бій; далі інформацію поширює рушій. У нових версіях рушія стрілець також стає пріоритетною видимою ціллю. Стосунки не підробляються; миттєве вбивство без свідків лишається тихим, але тіло можуть знайти.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled">
+    <text>Увімкнути виявлення стрільця</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_enabled_desc">
+    <text>Вимкнено: стандартна поведінка; загін дізнається про стрільця, лише почувши постріл, а віддалені патрульні не отримують сповіщення.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min">
+    <text>Забути стрільця за (ігрових хвилин)</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_retention_min_desc">
+    <text>Кількість ігрових хвилин без нових влучань, після якої загін забуває стрільця. Наступне влучання знову сповістить увесь загін. Враховується ігровий, а не реальний час.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate">
+    <text>Не розкривати стрільця після вбивства</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_survivor_gate_desc">
+    <text>Якщо влучання одразу вбиває ціль, стрільця не буде розкрито: загиблий не встигне повідомити про нього рацією, тож постріли з глушником і приховані атаки залишаться непоміченими. Загін усе ще може знайти вас за звуком, зором або тілом. Якщо ціль лише поранена, сповіщення відбудеться як завжди.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn">
+    <text>Націлити загін на стрільця</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_disclosure_turn_desc">
+    <text>Розкритий стрілець стає пріоритетною ціллю для кожного бійця, тож загін повертається до нього замість далекого видимого ворога. Якщо вимкнено, загін знає про стрільця й може атакувати, але видимий ворог має вищий пріоритет. Потрібна нова версія рушія.</text>
+  </string>
+  <string id="ui_mcm_at_disclosure_hdr_survivor">
+    <text>Скритність</text>
+  </string>
+  <string id="ui_mcm_at_effects_desc">
+    <text>У планах: бойові ефекти для гравця, спершу контузія. Налаштувань поки немає.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled">
+    <text>Бронебійні набої NPC</text>
+  </string>
+  <string id="ui_mcm_at_fixes_ammo_ammo_enabled_desc">
+    <text>Увімкнено: відповідні сталкери використовують і витрачають бронебійні набої. Вимкнено: усі стріляють стандартними, запас не витрачається.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables">
+    <text>Дистанції гравця</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_actor_tables_desc">
+    <text>Небезпека від гравця використовує окремі таблиці, якщо конфігурація їх розрізняє. Це діє лише тоді, коли встановлений скрипт справді їх застосовує; інакше зберігаються його налаштування.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound">
+    <text>Постріли ворога</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_attack_sound_desc">
+    <text>NPC реагують на чутні постріли ворогів, яких не бачать: повертаються до звуку, стають у бойову стійку й шукають укриття, коли помітять стрільця. На нейтральні та дружні постріли не реагують. Дистанція береться з налаштувань небезпеки.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass">
+    <text>Влучання здалеку</text>
+  </string>
+  <string id="ui_mcm_at_fixes_danger_danger_hit_bypass_desc">
+    <text>Стандартний ШІ ігнорує далекі постріли через обмеження дистанції. Якщо ввімкнено, пряме влучання завжди враховується: сталкер, уражений з 200m, повернеться й шукатиме укриття.</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled">
+    <text>Приглушити заклинювання NPC</text>
+  </string>
+  <string id="ui_mcm_at_fixes_jam_jam_enabled_desc">
+    <text>Увімкнено: фіктивні заклинювання NPC вимкнено. Вимкнено: діє стандартна логіка модифікованої версії гри. Ваша зброя не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_curve">
+    <text>Крива рангів</text>
+  </string>
+  <string id="ui_mcm_at_hdr_accuracy_move">
+    <text>Точність стрільби в русі</text>
+  </string>
+  <string id="ui_mcm_at_hdr_commitment_hold">
+    <text>Межа рішучості</text>
+  </string>
+  <string id="ui_mcm_at_hdr_heal_rate">
+    <text>Швидкість лікування</text>
+  </string>
+  <string id="ui_mcm_at_hdr_healing_charge">
+    <text>Лікувальний запас</text>
+  </string>
+  <string id="ui_mcm_at_hdr_hud">
+    <text>Налагоджувальний HUD</text>
+  </string>
+  <string id="ui_mcm_at_hdr_logging">
+    <text>Журналювання</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_aim">
+    <text>Швидкість супроводу: </text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_lead">
+    <text>Випередження цілі</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_qinterval">
+    <text>Темп вогню (інтервал)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_trigger">
+    <text>Дисципліна вогню (розмір черги)</text>
+  </string>
+  <string id="ui_mcm_at_hdr_reaction_vision">
+    <text>Крива швидкості виявлення</text>
+  </string>
+  <string id="ui_mcm_at_hdr_retention">
+    <text>Тривалість пам’яті</text>
+  </string>
+  <string id="ui_mcm_at_hdr_visuals">
+    <text>Візуальні ефекти</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced">
+    <text>Шанс заряду для досвідченого (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_experienced_desc">
+    <text>Шанс лікувального заряду для сталкерів рангу «Досвідчений».</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master">
+    <text>Шанс заряду для майстра (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_master_desc">
+    <text>Шанс лікувального заряду для сталкерів рангу «Майстер».</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice">
+    <text>Шанс заряду для новачка (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_novice_desc">
+    <text>Імовірність, що новачок отримає одноразовий лікувальний заряд під час першої появи. Він спрацює один раз, коли здоров’я впаде нижче порога й аптечки не буде. Стандартна гра задає 50% для всіх рангів.</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran">
+    <text>Шанс заряду для ветерана (%)</text>
+  </string>
+  <string id="ui_mcm_at_healing_charge_chance_veteran_desc">
+    <text>Шанс лікувального заряду для сталкерів рангу «Ветеран».</text>
+  </string>
+  <string id="ui_mcm_at_healing_desc">
+    <text>Поранені сталкери лікуються аптечками й бинтами, які мають при собі; вони накульгують, а поза боєм відтворюють анімацію лікування. У стандартній грі списки лікувальних предметів порожні, тому їх не використовували. AlifeTactics відновлює списки під час запуску. Нижче налаштовуються швидкість, одноразовий запас за рангом і анімації.</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier">
+    <text>Множник швидкості лікування</text>
+  </string>
+  <string id="ui_mcm_at_healing_heal_rate_multiplier_desc">
+    <text>Множить кількість здоров’я за цикл самолікування. За 2.0 аптечка лікує вдвічі швидше, за 0.5 — удвічі повільніше. Кількість циклів визначає рушій.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled">
+    <text>Анімація лікування</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_anim_enabled_desc">
+    <text>На початку лікування поза боєм сталкер показує жест використання аптечки чи бинта. Рушій сам завершує анімацію.</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled">
+    <text>Увімкнути лікування</text>
+  </string>
+  <string id="ui_mcm_at_healing_healing_enabled_desc">
+    <text>Головний перемикач швидкості лікування та одноразового лікувального запасу за рангом. Вимкнено — діє стандартне самолікування. Потрібен перезапуск. Списки предметів відновлюються під час запуску завжди.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled">
+    <text>Анімація кульгання</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_anim_enabled_desc">
+    <text>Поза боєм сталкери нижче порога здоров’я помітно кульгають; стійка й хода залежать від зброї в руках. Бійці та ті, хто лікується, не зачіпаються.</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold">
+    <text>Поріг здоров’я для кульгання</text>
+  </string>
+  <string id="ui_mcm_at_healing_limping_health_threshold_desc">
+    <text>Частка здоров’я, нижче якої сталкер починає кульгати. Що нижче значення, то тяжче він має бути поранений.</text>
+  </string>
+  <string id="ui_mcm_at_jam_desc">
+    <text>Зброя NPC заклинює лише по-справжньому, а перезаряджання відбувається після спорожнення магазину. У модифікованих версіях гри фіктивне заклинювання змушує NPC перезаряджати навіть справні гвинтівки кожні кілька пострілів. AlifeTactics вимикає це для NPC; ваша зброя працює стандартно.</text>
+  </string>
+  <string id="ui_mcm_at_mutants_desc">
+    <text>У планах: поведінка мутантів у бою. Налаштувань поки немає.</text>
+  </string>
+  <string id="ui_mcm_at_range_desc">
+    <text>У планах: дистанція бою. Зараз гра обмежує дальність бою NPC незалежно від зброї. Налаштувань поки немає.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled">
+    <text>Увімкнути швидкість супроводу</text>
+  </string>
+  <string id="ui_mcm_at_reaction_aim_enabled_desc">
+    <text>Наскільки точно ствол рангу «» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_desc">
+    <text>Ранг сталкера визначає, як зброя супроводжує рухому ціль і як швидко її помічають здалеку.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled">
+    <text>Увімкнути дисципліну вогню</text>
+  </string>
+  <string id="ui_mcm_at_reaction_discipline_enabled_desc">
+    <text>Масштабує довжину й частоту черг для кожного рангу. Високі ранги частіше стріляють короткими чергами; низькі зберігають стандартну поведінку. За замовчуванням масштаб довжини не нижчий за інтервал, тому влучань за хвилину не меншає. Вимкнено — стандартні черги.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled">
+    <text>Увімкнути випередження цілі</text>
+  </string>
+  <string id="ui_mcm_at_reaction_lead_enabled_desc">
+    <text>Наскільки приціл випереджає рухому ціль з урахуванням фактичного часу польоту кулі. Високі ранги розраховують точно, низькі надмірно. Якщо вимкнути, діє фіксоване випередження рушія.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced">
+    <text>Швидкість супроводу: досвідчений</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_experienced_desc">
+    <text>Наскільки точно ствол рангу «досвідчений» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert">
+    <text>Швидкість супроводу: експерт</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_expert_desc">
+    <text>Наскільки точно ствол рангу «експерт» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend">
+    <text>Швидкість супроводу: легенда</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_legend_desc">
+    <text>Наскільки точно ствол рангу «легенда» супроводжує рухому ціль. 2.50 відповідає параметру прицілювання хардкорного ШІ.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master">
+    <text>Швидкість супроводу: майстер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_master_desc">
+    <text>Наскільки точно ствол рангу «майстер» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice">
+    <text>Швидкість супроводу: новачок</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_novice_desc">
+    <text>Наскільки точно ствол рангу «новачок» супроводжує рухому ціль, у радіанах за секунду. 0.24 відповідає стандартному значенню рушія.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional">
+    <text>Швидкість супроводу: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_professional_desc">
+    <text>Наскільки точно ствол рангу «професіонал» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee">
+    <text>Швидкість супроводу: стажер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_trainee_desc">
+    <text>Наскільки точно ствол рангу «стажер» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran">
+    <text>Швидкість супроводу: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_aim_veteran_desc">
+    <text>Наскільки точно ствол рангу «ветеран» супроводжує рухому ціль. Вище значення покращує супровід.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced">
+    <text>Випередження цілі: досвідчений</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_experienced_desc">
+    <text>Помилка випередження рангу «досвідчений» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert">
+    <text>Випередження цілі: експерт</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_expert_desc">
+    <text>Помилка випередження рангу «експерт» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend">
+    <text>Випередження цілі: легенда</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_legend_desc">
+    <text>Помилка випередження рангу «легенда» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master">
+    <text>Випередження цілі: майстер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_master_desc">
+    <text>Помилка випередження рангу «майстер» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice">
+    <text>Випередження цілі: новачок</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_novice_desc">
+    <text>Множник помилки випередження новачка відносно фізично правильного значення. 2.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional">
+    <text>Випередження цілі: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_professional_desc">
+    <text>Помилка випередження рангу «професіонал» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee">
+    <text>Випередження цілі: стажер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_trainee_desc">
+    <text>Помилка випередження рангу «стажер» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran">
+    <text>Випередження цілі: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_lead_veteran_desc">
+    <text>Помилка випередження рангу «ветеран» відносно фізично правильного значення. Вище 1.00 — надмірне випередження, 1.00 — точне.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced">
+    <text>Темп вогню: досвідчений</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_experienced_desc">
+    <text>Множник паузи між чергами для рангу «досвідчений». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert">
+    <text>Темп вогню: експерт</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_expert_desc">
+    <text>Множник паузи між чергами для рангу «експерт». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend">
+    <text>Темп вогню: легенда</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_legend_desc">
+    <text>Множник паузи між чергами для рангу «легенда». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master">
+    <text>Темп вогню: майстер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_master_desc">
+    <text>Множник паузи між чергами для рангу «майстер». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice">
+    <text>Темп вогню: новачок</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_novice_desc">
+    <text>Множник паузи між чергами для рангу «новачок». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional">
+    <text>Темп вогню: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_professional_desc">
+    <text>Множник паузи між чергами для рангу «професіонал». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee">
+    <text>Темп вогню: стажер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_trainee_desc">
+    <text>Множник паузи між чергами для рангу «стажер». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran">
+    <text>Темп вогню: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qinterval_veteran_desc">
+    <text>Множник паузи між чергами для рангу «ветеран». 1.00 — стандарт; нижче 1 черги йдуть частіше.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced">
+    <text>Довжина черги: досвідчений</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_experienced_desc">
+    <text>Множник довжини черги для рангу «досвідчений». 1.00 — стандарт; нижче 1 — коротша черга з точними першими пострілами.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert">
+    <text>Довжина черги: експерт</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_expert_desc">
+    <text>Множник довжини черги для рангу «експерт». 1.00 — стандарт; нижче 1 черга коротша для точних перших пострілів.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend">
+    <text>Довжина черги: легенда</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_legend_desc">
+    <text>Множник довжини черги для рангу «легенда». 1.00 — стандарт; нижче 1 черга коротша для точних перших пострілів.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master">
+    <text>Довжина черги: майстер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_master_desc">
+    <text>Множник довжини черги для рангу «майстер». 1.00 — стандарт; нижче 1 черга коротша для точних перших пострілів.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice">
+    <text>Довжина черги: новачок</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_novice_desc">
+    <text>Множник довжини черги для рангу «новачок». 1.00 — стандарт; нижче 1 — коротша черга з точними першими пострілами.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional">
+    <text>Довжина черги: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_professional_desc">
+    <text>Множник довжини черги для рангу «професіонал». 1.00 — стандарт; нижче 1 — коротша черга з точними першими пострілами.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee">
+    <text>Довжина черги: стажер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_trainee_desc">
+    <text>Множник довжини черги для рангу «стажер». 1.00 — стандарт; нижче 1 — коротша черга з точними першими пострілами.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran">
+    <text>Довжина черги: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_qsize_veteran_desc">
+    <text>Множник довжини черги для рангу «ветеран». 1.00 — стандарт; нижче 1 черга коротша для точних перших пострілів.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced">
+    <text>Швидкість виявлення: досвідчений</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_experienced_desc">
+    <text>Множник швидкості виявлення для рангу «досвідчений». Вище значення швидше помічає цілі здалеку. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert">
+    <text>Швидкість виявлення: експерт</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_expert_desc">
+    <text>Множник швидкості виявлення для рангу «експерт». Вище значення швидше помічає цілі здалеку. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend">
+    <text>Швидкість виявлення: легенда</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_legend_desc">
+    <text>Множник швидкості виявлення для рангу «легенда». Вище значення швидше помічає цілі здалеку. 2.00 виявляє цілі вдвічі швидше за базове значення. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master">
+    <text>Швидкість виявлення: майстер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_master_desc">
+    <text>Множник швидкості виявлення для рангу «майстер». Вище значення швидше помічає цілі здалеку. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice">
+    <text>Швидкість виявлення: новачок</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_novice_desc">
+    <text>Множник швидкості виявлення для рангу «новачок». Вище значення швидше помічає цілі здалеку. 1.00 не змінює поточні налаштування. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional">
+    <text>Швидкість виявлення: професіонал</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_professional_desc">
+    <text>Множник швидкості виявлення для рангу «професіонал». Вище значення швидше помічає цілі здалеку. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee">
+    <text>Швидкість виявлення: стажер</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_trainee_desc">
+    <text>Множник швидкості виявлення для рангу «стажер». Вище значення швидше помічає цілі здалеку. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran">
+    <text>Швидкість виявлення: ветеран</text>
+  </string>
+  <string id="ui_mcm_at_reaction_rct_vision_veteran_desc">
+    <text>Множник швидкості виявлення для рангу «ветеран». Вище значення швидше помічає цілі здалеку. Виявлення впритул не змінюється.</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled">
+    <text>Увімкнути швидкість виявлення</text>
+  </string>
+  <string id="ui_mcm_at_reaction_vision_enabled_desc">
+    <text>Визначає швидкість виявлення цілі здалеку для кожного рангу, поверх поточних налаштувань. Високі ранги помічають вас раніше. Якщо вимкнути, діє фіксована швидкість рушія.</text>
+  </string>
+  <string id="ui_mcm_at_resistance_desc">
+    <text>У планах: стійкість NPC з урахуванням броні, спорядження, захисту від шкоди й артефактів. Налаштувань поки немає.</text>
+  </string>
+  <string id="ui_mcm_at_title">
+    <text>AlifeTactics</text>
+  </string>
+  <string id="ui_mcm_menu_accuracy">
+    <text>Точність</text>
+  </string>
+  <string id="ui_mcm_menu_at">
+    <text>Тактика життя</text>
+  </string>
+  <string id="ui_mcm_menu_behaviors">
+    <text>Поведінка</text>
+  </string>
+  <string id="ui_mcm_menu_combat">
+    <text>Бій</text>
+  </string>
+  <string id="ui_mcm_menu_commitment">
+    <text>Рішучість</text>
+  </string>
+  <string id="ui_mcm_menu_conduct">
+    <text>Тактика</text>
+  </string>
+  <string id="ui_mcm_menu_crossfire">
+    <text>Перехресний вогонь</text>
+  </string>
+  <string id="ui_mcm_menu_danger">
+    <text>Небезпека</text>
+  </string>
+  <string id="ui_mcm_menu_development">
+    <text>Розвиток</text>
+  </string>
+  <string id="ui_mcm_menu_disclosure">
+    <text>Виявлення</text>
+  </string>
+  <string id="ui_mcm_menu_effectiveness">
+    <text>Ефективність</text>
+  </string>
+  <string id="ui_mcm_menu_effects">
+    <text>Ефекти</text>
+  </string>
+  <string id="ui_mcm_menu_fixes">
+    <text>Виправлення</text>
+  </string>
+  <string id="ui_mcm_menu_healing">
+    <text>Лікування</text>
+  </string>
+  <string id="ui_mcm_menu_hit">
+    <text>Влучання</text>
+  </string>
+  <string id="ui_mcm_menu_jam">
+    <text>Заклинювання</text>
+  </string>
+  <string id="ui_mcm_menu_maneuvers">
+    <text>Маневри</text>
+  </string>
+  <string id="ui_mcm_menu_mechanics">
+    <text>Механіки</text>
+  </string>
+  <string id="ui_mcm_menu_mutants">
+    <text>Мутанти</text>
+  </string>
+  <string id="ui_mcm_menu_range">
+    <text>Дальність</text>
+  </string>
+  <string id="ui_mcm_menu_reaction">
+    <text>Реакція</text>
+  </string>
+  <string id="ui_mcm_menu_resistance">
+    <text>Стійкість</text>
+  </string>
+  <string id="ui_mcm_menu_sound">
+    <text>Звук</text>
+  </string>
+</string_table>

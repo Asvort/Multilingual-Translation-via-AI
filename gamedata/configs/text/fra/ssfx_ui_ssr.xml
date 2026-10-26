@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ssr">
+    <text>SSR</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm">
+    <text>Flou</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_blur_mcm_desc">
+    <text>Définit le degré de flou des réflexions.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm">
+    <text>Intensité générale</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_general_int_mcm_desc">
+    <text>Intensité générale des réflexions.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm">
+    <text>Qualité (étapes)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_quality_mcm_desc">
+    <text>[ REDÉMARRAGE REQUIS ] Nombre d’étapes utilisées pour calculer les réflexions. Cette option peut fortement affecter les performances. [ 8, 16, 24, 32, 48, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm">
+    <text>Échelle de rendu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_render_scale_mcm_desc">
+    <text>Échelle de rendu SSR. Les valeurs basses réduisent la qualité visuelle mais améliorent les performances. Si vous la baissez, augmentez éventuellement le flou pour masquer la perte de qualité.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm">
+    <text>Intensité du ciel</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_sky_int_mcm_desc">
+    <text>Intensité du reflet du ciel.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm">
+    <text>Accumulation temporelle</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_temporal_mcm_desc">
+    <text>Définit l’utilisation des images précédentes pour stabiliser les réflexions. Cela réduit le bruit et améliore le SSR, mais les valeurs élevées peuvent créer des images fantômes.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_title">
+    <text>Paramètres des réflexions en espace écran</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm">
+    <text>Utiliser le bruit</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_use_noise_mcm_desc">
+    <text>Active ou désactive le bruit pour améliorer la reconstruction SSR. Recommandé avec un flou élevé.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm">
+    <text>Intensité maximale sur les armes</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_max_mcm_desc">
+    <text>Intensité maximale des réflexions sur les armes.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm">
+    <text>Intensité sur les armes</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ssr_weapon_int_mcm_desc">
+    <text>Intensité des réflexions sur les armes.</text>
+  </string>
+</string_table>

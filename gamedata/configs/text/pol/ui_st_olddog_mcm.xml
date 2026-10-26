@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_olddog">
+    <text>HUD Old Dog</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow">
+    <text>Licznik amunicji ogółem</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow_desc">
+    <text>Pokazuje ŁĄCZNĄ liczbę sztuk amunicji dla każdego z 3 typów dostępnych w ekwipunku.</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar">
+    <text>Pasek stanu pancerza</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar_desc">
+    <text>Pokazuje pasek stanu pancerza.</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext">
+    <text>Tekst stanu pancerza</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext_desc">
+    <text>Pokazuje stan pancerza w procentach turkusowym tekstem. \n%c[ui_gray_2]Nie działa, gdy pasek jest wyłączony.</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow">
+    <text>Pasek krwawienia</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow_desc">
+    <text>Pokazuje ilość traconej krwi na pasku obok paska zdrowia, wypełniającym się od lewej do prawej.</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar">
+    <text>Pasek przewidywanego zdrowia</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar_desc">
+    <text>Pokazuje ilość odzyskiwanego zdrowia za pomocą znaków zdrowia w układzie 1 na 10, nad i pod paskiem krwawienia. \n Zaleca się włączyć również pasek krwawienia.</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow">
+    <text>Stara amunicja</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow_desc">
+    <text>Wyświetla starą amunicję tam, gdzie jest potrzebna (na przykład gdy nie ma jej „lepszych” odpowiedników).</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow">
+    <text>Pasek napromieniowania</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow_desc">
+    <text>Pokazuje poziom promieniowania ikoną obok pasków wytrzymałości i psi, wypełniającą się od dołu do góry.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide">
+    <text>Ukryj po odłożeniu</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide_desc">
+    <text>Ukrywa pasek stanu broni po jej odłożeniu. \n%c[ui_gray_2]Nie działa, gdy pasek jest wyłączony.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow">
+    <text>Pasek stanu broni</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow_desc">
+    <text>Pokazuje pasek stanu broni.</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext">
+    <text>Tekst stanu broni</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext_desc">
+    <text>Pokazuje stan broni w procentach pomarańczowym tekstem. \n%c[ui_gray_2]Nie działa, gdy pasek jest wyłączony.</text>
+  </string>
+  <string id="ui_mm_video_hud_dogslide">
+    <text>Opcje Old Dog</text>
+  </string>
+</string_table>

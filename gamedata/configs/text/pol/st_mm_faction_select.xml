@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_azazel_lives_possessed">
+    <text>Opętania</text>
+  </string>
+  <string id="st_azazel_lives_possessed_single">
+    <text>Opętanie</text>
+  </string>
+  <string id="st_cap_check_campfire">
+    <text>Zapisy przy ogniskach</text>
+  </string>
+  <string id="st_cap_check_conditions">
+    <text>Agonia</text>
+  </string>
+  <string id="st_cap_check_drx">
+    <text>Wątki zadań DoctorX</text>
+  </string>
+  <string id="st_cap_check_freeplay">
+    <text>Swobodna gra</text>
+  </string>
+  <string id="st_cap_check_routes">
+    <text>Otwarta Zona</text>
+  </string>
+  <string id="st_cap_check_warfare">
+    <text>Tryb Prawdziwego Mroku</text>
+  </string>
+  <string id="st_cap_list_difficulty">
+    <text>Poziom trudności</text>
+  </string>
+  <string id="st_cap_list_economy">
+    <text>Trudność ekonomii</text>
+  </string>
+  <string id="st_cap_list_hardcore_lives">
+    <text>Liczba żyć</text>
+  </string>
+  <string id="st_cap_list_hardcore_regen">
+    <text>Dni na dodatkowe życie</text>
+  </string>
+  <string id="st_cap_list_timer">
+    <text>Licznik czasu</text>
+  </string>
+  <string id="st_diff_1">
+    <text>Łatwy</text>
+  </string>
+  <string id="st_diff_2">
+    <text>Średni</text>
+  </string>
+  <string id="st_diff_3">
+    <text>Trudny</text>
+  </string>
+  <string id="st_diff_4">
+    <text>Hardcore</text>
+  </string>
+  <string id="st_econ_1">
+    <text>Turysta</text>
+  </string>
+  <string id="st_econ_2">
+    <text>Zbieracz</text>
+  </string>
+  <string id="st_econ_3">
+    <text>Przetrwanie</text>
+  </string>
+  <string id="st_faction_army">
+    <text>Wojsko</text>
+  </string>
+  <string id="st_faction_army_desc">
+    <text>%c[0,150,150,150]Wojsko obejmuje agentów SBU, siły specjalne, stalkerów wojskowych i żołnierzy regularnej armii.\n \nStrzeże dostępu do zamkniętej części Zony, patroluje obwód, odstrzeliwuje mutanty i łapie szabrowników.</text>
+  </string>
+  <string id="st_faction_bandit">
+    <text>Bandyci</text>
+  </string>
+  <string id="st_faction_bandit_desc">
+    <text>%c[0,150,150,150]Bandyci to przestępcy, którzy przybyli do Zony z różnych powodów: by zarabiać na sprzedaży artefaktów, ukryć się przed prawem albo kupować i sprzedawać broń.\n \nChoć rządy Ukrainy i Białorusi oficjalnie sprawują nad Zoną jedynie nominalną kontrolę, nadal panuje tu bezprawie.</text>
+  </string>
+  <string id="st_faction_csky">
+    <text>Czyste Niebo</text>
+  </string>
+  <string id="st_faction_csky_desc">
+    <text>%c[0,150,150,150]Czyste Niebo to niezależna, częściowo paramilitarna frakcja badawcza, której celem jest poznawanie Zony i ochrona jej niebezpiecznej wiedzy przed niewłaściwymi osobami.\n \nChoć niemal unicestwiono ją podczas nieudanego i kosztownego natarcia na elektrownię w Czarnobylu, garstka ocalałych nie tylko uratowała sytuację, ale odbudowała Czyste Niebo niemal do dawnej siły.\n \n%c[0,255,255,255]Polecane nowym graczom.</text>
+  </string>
+  <string id="st_faction_dolg">
+    <text>Powinność</text>
+  </string>
+  <string id="st_faction_dolg_desc">
+    <text>%c[0,150,150,150]Powinność to paramilitarna frakcja, która uważa Zonę i wszystkie jej twory za poważne zagrożenie dla świata zewnętrznego. Jej członkowie za główny cel uznają ochronę świata przed wpływem i ekspansją Zony.\n \nPowinność od dawna zaciekle walczy z Wolnością z powodu sprzecznych ideologii.</text>
+  </string>
+  <string id="st_faction_ecolog">
+    <text>Naukowcy</text>
+  </string>
+  <string id="st_faction_ecolog_desc">
+    <text>%c[0,150,150,150]Naukowcy i ekolodzy prowadzą ekspedycje w Zonie, finansowane przez rząd Ukrainy, aby ją badać i wykorzystać jej potencjał dla dobra ludzkości.\n \n%c[0,255,255,255]Polecane dla graczy pacyfistycznych.</text>
+  </string>
+  <string id="st_faction_freedom">
+    <text>Wolność</text>
+  </string>
+  <string id="st_faction_freedom_desc">
+    <text>%c[0,150,150,150]Wolność tworzą anarchiści i ryzykanci, którzy ogłosili się obrońcami wolności w Zonie, przez co stale konfliktują z wojskiem i Powinnością.</text>
+  </string>
+  <string id="st_faction_greh">
+    <text>Grzech</text>
+  </string>
+  <string id="st_faction_greh_desc">
+    <text>%c[0,150,150,150]Grzech przypomina bardziej sektę religijną niż frakcję. Jego członkowie wierzą, że tylko oni potrafią zrozumieć Zonę, a pozostali muszą albo do nich dołączyć, by osiągnąć wielki cel, albo zginąć.\n \nIch wyznawców opisuje się jako zombi, fanatyków lub mutantów zwanych «mrocznymi stalkerami», którzy chcą przemienić cały świat w Zonę. Nie cofną się przed niczym, by osiągnąć cel.\n \n%c[0,255,255,255]Polecane wyłącznie doświadczonym graczom.</text>
+  </string>
+  <string id="st_faction_isg">
+    <text>ISG</text>
+  </string>
+  <string id="st_faction_isg_desc">
+    <text>%c[0,150,150,150]Międzynarodowa Grupa Badawcza (ISG; UNISG) została odtworzona za pośrednictwem ONZ dzięki staraniom USA i ponownie wysłana do Zony w celu prowadzenia badań.\n \nNiezależnie od prawdziwych celów agenci ISG wykazują niezwykłe zdolności w sprawach wojskowych, zwiadzie i szpiegostwie. Zrobią wszystko, by informacje o ich ruchach w Zonie nie przedostały się na zewnątrz.\n \n%c[0,255,255,255]Polecane wyłącznie doświadczonym graczom.</text>
+  </string>
+  <string id="st_faction_killer">
+    <text>Najemnicy</text>
+  </string>
+  <string id="st_faction_killer_desc">
+    <text>%c[0,150,150,150]Najemnicy wywodzą się z różnych warstw społecznych i narodowości. Oferują usługi żołnierzy fortuny niemal każdemu, kto zapłaci pokaźną sumę. Nie wiadomo, kim są ich zleceniodawcy na Wielkiej Ziemi ani jakie mają cele w Zonie, pomagając wybranym grupom dostać się do strefy katastrofy ekologicznej. Wojsko mogłoby pozazdrościć im wyszkolenia i dyscypliny.</text>
+  </string>
+  <string id="st_faction_monolith">
+    <text>Monolit</text>
+  </string>
+  <string id="st_faction_monolith_desc">
+    <text>%c[0,150,150,150]Monolit to fanatyczny kult religijny, którego wyznawcy uznają każdego odmiennego stalkera za zaprzysięgłego wroga zagrażającego świętości Monolitu.\n \nMimo zniszczenia Świadomości-C i przerzedzonych szeregów bojownicy Monolitu zebrali siły i odbili większość swoich terenów.\n \n%c[0,255,255,255]Polecane wyłącznie doświadczonym graczom.</text>
+  </string>
+  <string id="st_faction_renegade">
+    <text>Renegaci</text>
+  </string>
+  <string id="st_faction_renegade_desc">
+    <text>%c[0,150,150,150]Renegaci to najbardziej niemoralni stalkerzy, którzy tak bardzo zawinili wobec swoich frakcji i klanów, że zostali wygnani i pod żadnym pozorem nie zostaną przyjęci z powrotem.\n \nNie mają etyki, moralności ani praw. Wszyscy stalkerzy nimi gardzą, a bandyci ledwo tolerują ich obecność.\n \n%c[0,255,255,255]Polecane wyłącznie doświadczonym graczom.</text>
+  </string>
+  <string id="st_faction_stalker">
+    <text>Samotnicy</text>
+  </string>
+  <string id="st_faction_stalker_desc">
+    <text>%c[0,150,150,150]Witamy w Raid into Darkness, wersja 1.0. Przeczytaj to przed rozpoczęciem podróży. Dodatek jest przeznaczony do gry samotnikiem; być może w przyszłości pojawią się inne frakcje.\n
+\nPodróż rozpoczniesz w jednym ze Schronów. Śmierć nie jest już zwykłym „F9”, lecz pełnoprawną częścią rozgrywki. Po śmierci ilość utraconego wyposażenia zależy od rangi: nowicjusz traci 10%, a Mistrz 80%. Przedmioty możesz ubezpieczyć u Informatora w sekcji Zadań na laptopie. Zwróć uwagę na dwa nowe tryby: Ciemność i Prawdziwa Ciemność; najedź na ich przyciski, aby przeczytać opisy. Jeśli uruchomisz grę bez tych trybów, włączy się tryb Standardowy z zapisami przy ogniskach (zalecany dla początkujących, włączony w opcjach MCM). Rozważnie dobieraj wyposażenie, działaj z namysłem i spróbuj zdobyć rangę Legendy!\n
+\n%c[0,255,255,255]Ta wersja dodatku nie zawiera fabuły. Być może zostanie dodana później, jeśli dodatek znajdzie odbiorców.\n
+\n%c[0,150,150,150]Strefa się zmieniła. Klasyfikacja emisji jest inna: emisję, którą można przeczekać w drewnianym domu, nazywa się teraz jedynie „Falą”. Pozostałe emisje, czyli Superemisje, wypalają umysł nawet tam, gdzie ludzie wcześniej czuli się bezpiecznie.\nW centrum Strefy pojawiło się nowe, tajemnicze zjawisko. Stalkerzy niemal od razu nazwali je Ciemnością. Czym jest i skąd się wzięło? To kolejna tajemnica Strefy.\nFrakcje Powinność i Wolność straciły większość członków. Bazy opustoszały, a dawne kordony zmiotły fale mutantów i anomalii. Wszystko, co dawniej było względnie „bezpieczną Strefą”, stało się prawdziwym piekłem na Ziemi.\nWielu doświadczonych stalkerów wróciło do Strefy. Wyruszają na rajdy i podejmują tak zwane zlecenia, desperacko próbując nie zginąć w tej nowej, zmienionej Strefie.\n 
+\n%c[0,255,255,255]Uwaga: poznaj mechanikę moda w trybie uproszczonym, zanim włączysz Ciemność lub Prawdziwą Ciemność.</text>
+  </string>
+  <string id="st_faction_zombied">
+    <text>Zombifikowani</text>
+  </string>
+  <string id="st_faction_zombied_desc">
+    <text>%c[0,150,150,150]M-m-m-mi-i-istrzu!!!\n \nZombifikowani to nieszczęśni stalkerzy, których umysły zniszczyły emitery psi lub ataki kontrolera. Pozostały im tylko podstawowe instynkty, więc atakują wszystkich i wszystko.\n \n%c[0,255,255,255]Polecane wyłącznie doświadczonym graczom.</text>
+  </string>
+  <string id="st_godmode">
+    <text>Tryb Boga</text>
+  </string>
+  <string id="st_hardcore_lives_left">
+    <text>Pozostałe życia</text>
+  </string>
+  <string id="st_hardcore_lives_left_single">
+    <text>Pozostałe życie</text>
+  </string>
+  <string id="st_loading">
+    <text>Wczytywanie</text>
+  </string>
+  <string id="st_main_menu">
+    <text>Menu główne</text>
+  </string>
+  <string id="st_mm_box_faction_desc">
+    <text>%c[0,150,150,150]%s.</text>
+  </string>
+  <string id="st_mm_box_icon_desc">
+    <text>%c[0,150,150,150]Portret głównego bohatera.</text>
+  </string>
+  <string id="st_mm_btn_new_game_back">
+    <text>Wstecz</text>
+  </string>
+  <string id="st_mm_btn_new_game_faction">
+    <text>Frakcja</text>
+  </string>
+  <string id="st_mm_btn_new_game_icon">
+    <text>Profil</text>
+  </string>
+  <string id="st_mm_btn_new_game_rand">
+    <text>Losowe imię</text>
+  </string>
+  <string id="st_mm_btn_new_game_submit">
+    <text>Rozpocznij</text>
+  </string>
+  <string id="st_mm_ck_azazel_mode_desc">
+    <text>%c[0,150,150,150]Śmierć to nie koniec.\n \nJako demon Azazel po śmierci otrzymasz nowe ciało — twoja dusza przeniesie się do losowego stalkera, który naprawdę przebywa w Zonie.\n \nJeśli masz towarzyszy, staniesz się jednym z nich. Ta opcja dobrze uzupełnia tryby Jedno życie i/lub Przetrwanie.\n \n \n%c[200,200,50,50]• %c[0,150,150,150]W tym trybie dostępne są wszystkie lokacje.\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem fabularnym.</text>
+  </string>
+  <string id="st_mm_ck_campfire_desc">
+    <text>%c[0,150,150,150]Po włączeniu zapisów przy ogniskach możesz zapisywać grę tylko w pobliżu ogniska.\n \n%c[200,50,200,50]• %c[0,150,150,150]Wszystkie hardkorowe tryby zapisu są ze sobą w pełni zgodne.</text>
+  </string>
+  <string id="st_mm_ck_conditions_desc">
+    <text>%c[0,150,150,150]Tryb Agonia nie pozwoli zapisać gry, gdy jesteś: \n%c[200,200,200,50]• %c[0,150,150,150]Ranny\n%c[200,200,200,50]• %c[0,150,150,150]Krwawisz\n%c[200,200,200,50]• %c[0,150,150,150]Napromieniowany\n%c[200,200,200,50]• %c[0,150,150,150]W walce\n%c[200,200,200,50]• %c[0,150,150,150]Przeczekujesz emisję lub burzę psi\n \n%c[200,50,200,50]• %c[0,150,150,150]Wszystkie hardkorowe tryby zapisu są w pełni zgodne.</text>
+  </string>
+  <string id="st_mm_ck_drx_desc">
+    <text>%c[0,150,150,150]Zestaw dynamicznych zadań rozsianych po całej Zonie.\n Nieskończona regrywalność — przebieg każdej rozgrywki będzie inny.\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem fabularnym.\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem Życie po życiu.</text>
+  </string>
+  <string id="st_mm_ck_hardcore_aim_desc">
+    <text>%c[0,150,150,150]Wysoka celność NPC. Wrogowie lepiej strzelają do ruchomych celów — nawet podczas manewrowania trudno uniknąć ran postrzałowych.</text>
+  </string>
+  <string id="st_mm_ck_hardcore_desc">
+    <text>Tryb%c[0,150,150,150] o podwyższonym poziomie trudności. Ekwipunek zostaje w miejscu śmierci i można go odzyskać; traci się 75% łupów z ekwipunku,\n\n a\n reszta%c[200,127,255,212] pozostaje%c[0,150,150,150] na miejscu.%c[200,34,130,34] Łatwiejszy%c[0,150,150,150] niż Prawdziwa Ciemność.%c[200,150,34,34] Trudniejszy%c[0,150,150,150] niż „Bez\n Ciemności”,%c[200,127,255,212]\n ale%c[0,150,150,150] łatwiejszy niż Prawdziwa Ciemność. W miejscu śmierci pojawia się\n\n%c[200,127,255,212] skrytka ze%c[0,150,150,150] wszystkimi przedmiotami%c[200,150,34,34] do odebrania%c[0,150,150,150] podczas kolejnych rajdów.\n\n Podczas%c[200,127,255,212] rajdu%c[0,150,150,150] nie można zapisywać%c[200,150,34,34] gry; zapisy%c[0,150,150,150] działają tylko\n\n w%c[200,127,255,212] Schronie.%c[0,150,150,150] Konsola gry jest niedostępna%c[200,150,34,34] podczas rajdu.%c[0,150,150,150] Przycisk „Wczytaj\n\n%c[200,127,255,212] grę” jest%c[0,150,150,150] niedostępny podczas%c[200,150,34,34] rajdu. Zmiana%c[0,150,150,150] opcji MCM nie wpływa na moda; wartości domyślne są zablokowane.\n\n%c[200,127,255,212] Zob. MCM%c[0,150,150,150] -&gt; Raid into Darkness. Jeśli nie ukończysz rajdu lub%c[200,150,34,34] w nim zginiesz,%c[0,150,150,150] wszystkie wcześniejsze zapisy zostaną\n%c[200,127,255,212]\n usunięte. Po%c[0,150,150,150] powrocie do Schronu%c[200,150,34,34] powstanie%c[0,150,150,150] nowy zapis. Tego\n trybu\n%c[200,127,255,212] nie można%c[0,150,150,150] wyłączyć w trakcie gry.%c[200,160,115,10] Odblokowuje%c[0,150,150,150] osiągnięcia.\n%c[200,200,50,50]\n Niekompatybilny%c[0,150,150,150] z Prawdziwą Ciemnością.</text>
+  </string>
+  <string id="st_mm_ck_reset_desc">
+    <text>%c[0,150,150,150]Zresetuj wyposażenie.</text>
+  </string>
+  <string id="st_mm_ck_routes_desc">
+    <text>%c[0,150,150,150]Domyślnie wiele lokacji jest niedostępnych. Ukryte trasy można odblokować na różne sposoby.\n \nWłączenie tej opcji odblokuje wszystkie poziomy po rozpoczęciu nowej gry.</text>
+  </string>
+  <string id="st_mm_ck_story_desc">
+    <text>%c[0,150,150,150]Tryb fabularny pozwala bezpośrednio uczestniczyć w kilku wątkach historii.\n \nŻywa legenda, Śmiertelny grzech i Operacja Poświata są dostępne tylko dla Samotników, Powinności, Wolności, Naukowców, Najemników i Czystego Nieba.\n\nDynamiczne wątki zadań są natomiast dostępne dla wszystkich grywalnych frakcji. W obu przypadkach, aby rozpocząć, porozmawiaj z przywódcą swojej frakcji. Powodzenia, stalkerze!\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem Wojny frakcji.\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem Przetrwania.\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem Życie po życiu.</text>
+  </string>
+  <string id="st_mm_ck_survival_desc">
+    <text>%c[0,150,150,150]Tryb, w którym wszyscy NPC zostają zastąpieni przez zombie.\n \nHordy zombie będą powoli, lecz nieuchronnie cię doganiać — przygotuj się! Jak długo uda ci się wytrzymać?\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem Wojny frakcji.</text>
+  </string>
+  <string id="st_mm_ck_warfare_desc">
+    <text>%c[0,150,150,150]Specjalny tryb hardkorowy, który zmienia zasady gry i włącza stały balans moda Grim Raid. \n \n\n %c[200,127,255,212]• %c[0,150,150,150]Oparty na %c[200,34,130,34]oryginalnym balansie %c[0,150,150,150]moda Shabasha\n \n%c[200,127,255,212]• %c[0,150,150,150]Zapisy podczas rajdu są %c[200,150,34,34]niedostępne%c[0,150,150,150]. Zapisywać można tylko w schronie\n \n%c[200,127,255,212]• %c[0,150,150,150]Konsola gry jest %c[200,150,34,34]niedostępna%c[0,150,150,150] podczas rajdu\n \n%c[200,127,255,212]• %c[0,150,150,150]Przycisk „Wczytaj grę” jest %c[200,150,34,34]niedostępny%c[0,150,150,150] podczas rajdu\n \n%c[200,127,255,212]• %c[0,150,150,150]Zmiana opcji MCM %c[200,150,34,34]nie wpływa%c[0,150,150,150] na systemy moda; wszystkie wartości domyślne są zablokowane. (Patrz „Menu MCM” -&gt; „Grim Raid”)\n \n%c[200,127,255,212]• %c[0,150,150,150]Jeśli nie ukończysz rajdu lub zginiesz podczas niego, wszystkie wcześniejsze zapisy zostaną %c[200,150,34,34]usunięte%c[0,150,150,150]. Po powrocie do schronu zostanie utworzony nowy zapis\n \n%c[200,127,255,212]• %c[0,150,150,150]Tego trybu %c[200,150,34,34]nie można wyłączyć%c[0,150,150,150] w trakcie gry\n \n%c[200,127,255,212]• %c[0,150,150,150]Odblokowuje dostęp do %c[200,160,115,10]osiągnięć%c[0,150,150,150]\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilny z trybem Mroku.</text>
+  </string>
+  <string id="st_mm_itm_desc_unknown">
+    <text>Brak informacji</text>
+  </string>
+  <string id="st_mm_list_difficulty_desc">
+    <text>%c[0,150,150,150]Czas rajdu: %c[200,210,180,150]Łatwy - 35 min, Średni - 30 min, Trudny - 25 min\n \n%c[0,150,150,150]Poziom trudności wpływa na cechy gracza: odporność na obrażenia, utratę wytrzymałości i udźwig, a także pragnienie oraz potrzebę snu.\n \n%c[200,200,50,50]• %c[0,150,150,150]Możesz zmienić te ustawienia w dowolnym momencie gry.\nPatrz: „Menu gry” -&gt; „Opcje” -&gt; „Rozgrywka” -&gt; „Trudność”.\nUwaga! Zmiana ustawień po rozpoczęciu gry zablokuje część osiągnięć Grim Raid.</text>
+  </string>
+  <string id="st_mm_list_economy_desc">
+    <text>%c[0,150,150,150]Trudność ekonomii ma duży wpływ na życie w Zonie i różne aspekty decydujące o osiągnięciach gracza:\n\nChodzi o ceny kupna i sprzedaży, naprawy i modyfikacji sprzętu, rzadkość łupów, nagrody pieniężne oraz zdobywaną reputację.\n \n%c[200,200,50,50]• %c[0,150,150,150]Możesz zmienić te ustawienia w dowolnym momencie gry.\nPatrz: „Menu gry” -&gt; „Opcje” -&gt; „Rozgrywka” -&gt; „Ekonomia”.\nUwaga! Zmiana tych ustawień po rozpoczęciu gry zablokuje część osiągnięć Grim Raid.</text>
+  </string>
+  <string id="st_mm_list_hardcore_lives_desc">
+    <text>%c[0,150,150,150]Dodatkowa funkcja trybu Jedno życie pozwalająca ustawić liczbę żyć na początku nowej gry.\nZa każdym razem po śmierci tracisz jedno życie.\nGdy skończą ci się życia, wszystkie zapisy tej postaci zostaną usunięte.\n\n%c[200,200,50,50]• %c[0,150,150,150]Tryb Jedno życie musi być włączony.</text>
+  </string>
+  <string id="st_mm_list_hardcore_regen_desc">
+    <text>%c[0,150,150,150]Dodatkowa funkcja trybu Jedno życie pozwalająca ustawić liczbę dni potrzebnych do zdobycia kolejnego życia.\n%c[200,200,50,50]• %c[0,150,150,150]Przesypianie czasu nie wpływa na ten warunek.\n%c[200,200,50,50]• %c[0,150,150,150]Tryb Jedno życie musi być włączony.</text>
+  </string>
+  <string id="st_mm_list_map_desc">
+    <text>%c[0,150,150,150]Wybierz miejsce startu.</text>
+  </string>
+  <string id="st_mm_list_timer_desc">
+    <text>%c[0,150,150,150]W trybie Licznika czasu możesz zapisać grę dopiero po upływie określonego czasu.\nPo zapisie nie możesz zapisać ponownie, dopóki nie minie wyznaczony czas.\n\n%c[200,50,200,50]• %c[0,150,150,150]Zgodny ze wszystkimi trybami zapisu.</text>
+  </string>
+  <string id="st_mm_new_game_character">
+    <text>Postać</text>
+  </string>
+  <string id="st_mm_new_game_description">
+    <text>Opis</text>
+  </string>
+  <string id="st_mm_new_game_essential">
+    <text>Ważne</text>
+  </string>
+  <string id="st_mm_new_game_faction">
+    <text>Wybór frakcji</text>
+  </string>
+  <string id="st_mm_new_game_faction_2">
+    <text>Frakcja:</text>
+  </string>
+  <string id="st_mm_new_game_icon">
+    <text>Wybór profilu</text>
+  </string>
+  <string id="st_mm_new_game_inventory">
+    <text>Wyposażenie początkowe</text>
+  </string>
+  <string id="st_mm_new_game_loadout">
+    <text>Dodatkowe wyposażenie</text>
+  </string>
+  <string id="st_mm_new_game_money">
+    <text>Pieniądze:</text>
+  </string>
+  <string id="st_mm_new_game_name">
+    <text>Imię:</text>
+  </string>
+  <string id="st_mm_new_game_options">
+    <text>Wybór trudności i trybu</text>
+  </string>
+  <string id="st_mm_new_game_points">
+    <text>Koszt</text>
+  </string>
+  <string id="st_mm_new_game_points_left">
+    <text>Dostępne punkty:</text>
+  </string>
+  <string id="st_mm_new_game_points_used">
+    <text>Wydane punkty:</text>
+  </string>
+  <string id="st_mm_new_game_relations">
+    <text>Relacje frakcji</text>
+  </string>
+  <string id="st_new_game_day">
+    <text>dzień</text>
+  </string>
+  <string id="st_new_game_days">
+    <text>dni</text>
+  </string>
+  <string id="st_new_game_hour">
+    <text>godz.</text>
+  </string>
+  <string id="st_new_game_hours">
+    <text>godz.</text>
+  </string>
+  <string id="st_new_game_life">
+    <text>szt.</text>
+  </string>
+  <string id="st_new_game_lives">
+    <text>szt.</text>
+  </string>
+  <string id="st_new_game_min">
+    <text>min</text>
+  </string>
+  <string id="st_new_game_mins">
+    <text>min</text>
+  </string>
+  <string id="st_off">
+    <text>wył.</text>
+  </string>
+  <string id="st_pause_menu">
+    <text>Menu pauzy</text>
+  </string>
+  <string id="st_player_dead">
+    <text>Martwy</text>
+  </string>
+  <string id="ui_st_random_location">
+    <text>-Losowa lokacja-</text>
+  </string>
+</string_table>

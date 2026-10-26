@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="not_enough_money_actor">
+    <text>Недостатньо грошей</text>
+  </string>
+  <string id="not_enough_money_partner">
+    <text>У персонажа недостатньо грошей</text>
+  </string>
+  <string id="quick_use_str_1">
+    <text>$$ACTION_QUICK_USE_1$$</text>
+  </string>
+  <string id="quick_use_str_2">
+    <text>$$ACTION_QUICK_USE_2$$</text>
+  </string>
+  <string id="quick_use_str_3">
+    <text>$$ACTION_QUICK_USE_3$$</text>
+  </string>
+  <string id="quick_use_str_4">
+    <text>$$ACTION_QUICK_USE_4$$</text>
+  </string>
+  <string id="st_activate_artefact">
+    <text>активувати артефакт</text>
+  </string>
+  <string id="st_ah_sec">
+    <text>А·год/с</text>
+  </string>
+  <string id="st_awr_disassembly_helmet">
+    <text>розібрати головний убір [!]</text>
+  </string>
+  <string id="st_awr_disassembly_outfit">
+    <text>розібрати костюм [!]</text>
+  </string>
+  <string id="st_awr_disassembly_weapon">
+    <text>розібрати зброю [!]</text>
+  </string>
+  <string id="st_awr_r_detail">
+    <text>відновити деталь [!]</text>
+  </string>
+  <string id="st_base_cost">
+    <text>Ціна</text>
+  </string>
+  <string id="st_cap_companion_inv">
+    <text>Змінити речі</text>
+  </string>
+  <string id="st_cap_components">
+    <text>Компоненти</text>
+  </string>
+  <string id="st_cap_con_100_o">
+    <text>Неушкоджене</text>
+  </string>
+  <string id="st_cap_con_100_w">
+    <text>Справне</text>
+  </string>
+  <string id="st_cap_con_25_o">
+    <text>Розірване</text>
+  </string>
+  <string id="st_cap_con_25_w">
+    <text>Зламане</text>
+  </string>
+  <string id="st_cap_con_50_o">
+    <text>Пошкоджене</text>
+  </string>
+  <string id="st_cap_con_50_w">
+    <text>Пошкоджене</text>
+  </string>
+  <string id="st_cap_con_75_o">
+    <text>Зношене</text>
+  </string>
+  <string id="st_cap_con_75_w">
+    <text>Зношене</text>
+  </string>
+  <string id="st_cap_craftables">
+    <text>Предмети для створення</text>
+  </string>
+  <string id="st_cap_inventory">
+    <text>Інвентар</text>
+  </string>
+  <string id="st_cap_meal_1">
+    <text>(Виготовлено в Зоні)</text>
+  </string>
+  <string id="st_cap_meal_2">
+    <text>(Тушковане)</text>
+  </string>
+  <string id="st_cap_meal_3">
+    <text>(Продезінфіковано)</text>
+  </string>
+  <string id="st_cap_menu">
+    <text>Меню створення</text>
+  </string>
+  <string id="st_cap_old">
+    <text>Старі</text>
+  </string>
+  <string id="st_cap_recipes">
+    <text>Вивчені рецепти</text>
+  </string>
+  <string id="st_cap_replace_parts">
+    <text>Запчастини</text>
+  </string>
+  <string id="st_cap_req_toolkit">
+    <text>Потрібний набір</text>
+  </string>
+  <string id="st_cap_result">
+    <text>Результат</text>
+  </string>
+  <string id="st_cap_upgr_1">
+    <text>(Груба робота)</text>
+  </string>
+  <string id="st_cap_upgr_2">
+    <text>(Тонка робота)</text>
+  </string>
+  <string id="st_cap_upgr_3">
+    <text>(Калібрування)</text>
+  </string>
+  <string id="st_cap_upgrades">
+    <text>Модифікації</text>
+  </string>
+  <string id="st_cap_verybad">
+    <text>Непридатні</text>
+  </string>
+  <string id="st_community">
+    <text>Група:</text>
+  </string>
+  <string id="st_condition">
+    <text>Стан</text>
+  </string>
+  <string id="st_drink">
+    <text>пити</text>
+  </string>
+  <string id="st_eat">
+    <text>з’їсти</text>
+  </string>
+  <string id="st_g">
+    <text>г</text>
+  </string>
+  <string id="st_ghz">
+    <text>ГГц</text>
+  </string>
+  <string id="st_hz">
+    <text>Гц</text>
+  </string>
+  <string id="st_imm_swiss_open">
+    <text>відкрити бляшанку</text>
+  </string>
+  <string id="st_item_charge">
+    <text>зарядити універсальний зарядний пристрій</text>
+  </string>
+  <string id="st_item_disassemble">
+    <text>розібрати</text>
+  </string>
+  <string id="st_item_money">
+    <text>взяти %s руб.</text>
+  </string>
+  <string id="st_item_place">
+    <text>Розмістити предмет</text>
+  </string>
+  <string id="st_item_play">
+    <text>відтворити</text>
+  </string>
+  <string id="st_item_reveal">
+    <text>відкрити</text>
+  </string>
+  <string id="st_item_sort">
+    <text>відсортувати</text>
+  </string>
+  <string id="st_item_use">
+    <text>використати</text>
+  </string>
+  <string id="st_itm_desc_arty_cont">
+    <text>містить артефакт</text>
+  </string>
+  <string id="st_itm_desc_arty_cont_rad">
+    <text>допустимий рівень випромінювання</text>
+  </string>
+  <string id="st_itm_desc_details">
+    <text>ПОДРОБИЦІ</text>
+  </string>
+  <string id="st_itm_desc_eat_health">
+    <text>шкодить здоров’ю</text>
+  </string>
+  <string id="st_itm_desc_eat_radiation">
+    <text>радіаційне опромінення</text>
+  </string>
+  <string id="st_itm_desc_eat_sleepiness">
+    <text>%s %s сонливості</text>
+  </string>
+  <string id="st_itm_desc_eat_thirst">
+    <text>%s %s спраги</text>
+  </string>
+  <string id="st_itm_desc_outfit_carry_weight">
+    <text>збільшення переносимої ваги</text>
+  </string>
+  <string id="st_itm_desc_outfit_faction">
+    <text>угруповання</text>
+  </string>
+  <string id="st_itm_desc_outfit_heardgear">
+    <text>головний убір</text>
+  </string>
+  <string id="st_itm_desc_outfit_num_of_slots">
+    <text>кріплення для додаткових слотів</text>
+  </string>
+  <string id="st_itm_desc_outfit_patch_torn">
+    <text>%s було зірвано з цього костюма</text>
+  </string>
+  <string id="st_itm_desc_outfit_repair_bonus">
+    <text>бонус до ремонту</text>
+  </string>
+  <string id="st_itm_desc_outfit_required_tool">
+    <text>потрібно</text>
+  </string>
+  <string id="st_itm_desc_outfit_run">
+    <text>пересування бігом:</text>
+  </string>
+  <string id="st_itm_desc_outfit_upgradable">
+    <text>можна покращити</text>
+  </string>
+  <string id="st_itm_desc_part_i">
+    <text>основний компонент</text>
+  </string>
+  <string id="st_itm_desc_part_o">
+    <text>деталь спорядження</text>
+  </string>
+  <string id="st_itm_desc_part_usable">
+    <text>можна використати на верстаку для заміни деталей</text>
+  </string>
+  <string id="st_itm_desc_part_w">
+    <text>деталь зброї</text>
+  </string>
+  <string id="st_itm_desc_properties">
+    <text>Особливості</text>
+  </string>
+  <string id="st_itm_desc_repair_base_con">
+    <text>базове покращення стану</text>
+  </string>
+  <string id="st_itm_desc_repair_match">
+    <text>можна використати для ремонту матеріалів за допомогою ідентичних запчастин</text>
+  </string>
+  <string id="st_itm_desc_repair_min_con">
+    <text>не можна використати, якщо стан спорядження нижчий за</text>
+  </string>
+  <string id="st_itm_desc_state_avail">
+    <text>Доступно</text>
+  </string>
+  <string id="st_itm_desc_state_avail_workshop">
+    <text>доступно (у техніка)</text>
+  </string>
+  <string id="st_itm_desc_state_average">
+    <text>середній</text>
+  </string>
+  <string id="st_itm_desc_state_decrease">
+    <text>зниження</text>
+  </string>
+  <string id="st_itm_desc_state_high">
+    <text>високий</text>
+  </string>
+  <string id="st_itm_desc_state_increase">
+    <text>підвищення</text>
+  </string>
+  <string id="st_itm_desc_state_low">
+    <text>низький</text>
+  </string>
+  <string id="st_itm_desc_state_moderate">
+    <text>помірне</text>
+  </string>
+  <string id="st_itm_desc_state_not_avail">
+    <text>недоступно</text>
+  </string>
+  <string id="st_itm_desc_state_not_included">
+    <text>Відсутня</text>
+  </string>
+  <string id="st_itm_desc_state_not_possible">
+    <text>неможливо</text>
+  </string>
+  <string id="st_itm_desc_state_possible">
+    <text>можливо</text>
+  </string>
+  <string id="st_itm_desc_state_significant">
+    <text>значне</text>
+  </string>
+  <string id="st_itm_desc_state_slight">
+    <text>незначне</text>
+  </string>
+  <string id="st_itm_desc_upgr_o">
+    <text>комплект покращення спорядження</text>
+  </string>
+  <string id="st_itm_desc_upgr_usable">
+    <text>можна використати на верстаку для встановлення покращень</text>
+  </string>
+  <string id="st_itm_desc_upgr_w">
+    <text>комплект покращення зброї</text>
+  </string>
+  <string id="st_itm_desc_warning">
+    <text>УВАГА</text>
+  </string>
+  <string id="st_itm_desc_workshop_tool">
+    <text>можна використати на верстаку для заміни деталей і встановлення покращень</text>
+  </string>
+  <string id="st_j">
+    <text>Н/мм2</text>
+  </string>
+  <string id="st_kcal">
+    <text>ккал екв.</text>
+  </string>
+  <string id="st_kcal_sec">
+    <text>ккал/с екв.</text>
+  </string>
+  <string id="st_kg">
+    <text>кг</text>
+  </string>
+  <string id="st_khz">
+    <text>кГц</text>
+  </string>
+  <string id="st_kv">
+    <text>кВ</text>
+  </string>
+  <string id="st_kw_m2">
+    <text>кВт/м2</text>
+  </string>
+  <string id="st_lamp_disconnected">
+    <text>Налобний ліхтар знято</text>
+  </string>
+  <string id="st_lamp_equipped">
+    <text>Налобний ліхтар надягнуто</text>
+  </string>
+  <string id="st_lamp_no_power_left">
+    <text>Налобний ліхтар розряджений</text>
+  </string>
+  <string id="st_lamp_power_left">
+    <text>Заряд батареї налобного ліхтаря: %s%</text>
+  </string>
+  <string id="st_mah_sec">
+    <text>мА·год/с</text>
+  </string>
+  <string id="st_mhz">
+    <text>МГц</text>
+  </string>
+  <string id="st_microg">
+    <text>мкг адреналіну</text>
+  </string>
+  <string id="st_microg_sec">
+    <text>мкг адреналіну/с</text>
+  </string>
+  <string id="st_ml_min">
+    <text>мл/хв</text>
+  </string>
+  <string id="st_msv">
+    <text>мЗв</text>
+  </string>
+  <string id="st_msv_sec">
+    <text>мЗв/с</text>
+  </string>
+  <string id="st_mt">
+    <text>мТл</text>
+  </string>
+  <string id="st_new_anomaly_map">
+    <text>Виявлено нову мапу аномалій</text>
+  </string>
+  <string id="st_news_dis_items">
+    <text>%c[d_red]Для розбирання потрібен відповідний інструмент.</text>
+  </string>
+  <string id="st_no_trade_tip_1">
+    <text>Торговця не цікавлять такі предмети.</text>
+  </string>
+  <string id="st_no_trade_tip_2">
+    <text>Предмет у надто поганому стані для продажу.</text>
+  </string>
+  <string id="st_pah_sec">
+    <text>пА·год/с</text>
+  </string>
+  <string id="st_pda_no_active">
+    <text>Немає активного КПК</text>
+  </string>
+  <string id="st_pda_no_power">
+    <text>КПК розряджений</text>
+  </string>
+  <string id="st_perc">
+    <text>%</text>
+  </string>
+  <string id="st_play">
+    <text>відтворити</text>
+  </string>
+  <string id="st_ppm">
+    <text>C1 мд екв.</text>
+  </string>
+  <string id="st_sell_item">
+    <text>продати предмет</text>
+  </string>
+  <string id="st_tab_craft">
+    <text>СТВОРЕННЯ</text>
+  </string>
+  <string id="st_tab_repair">
+    <text>Ремонт</text>
+  </string>
+  <string id="st_tab_state">
+    <text>СТАН</text>
+  </string>
+  <string id="st_tab_upgrade">
+    <text>МОДИФІКАЦІЯ</text>
+  </string>
+  <string id="st_uah_sec">
+    <text>мкА·год/с</text>
+  </string>
+  <string id="st_ui_amount">
+    <text>Кількість</text>
+  </string>
+  <string id="st_ui_armor_static">
+    <text>Стан спорядження</text>
+  </string>
+  <string id="st_ui_artefact">
+    <text>Артефакт</text>
+  </string>
+  <string id="st_ui_artifacts">
+    <text>Артефакти</text>
+  </string>
+  <string id="st_ui_arty_rank">
+    <text>Ранг артефакту</text>
+  </string>
+  <string id="st_ui_awr_parts_list">
+    <text>Запчастини</text>
+  </string>
+  <string id="st_ui_base">
+    <text>Базове</text>
+  </string>
+  <string id="st_ui_bleeding_sensor">
+    <text>Кровотеча</text>
+  </string>
+  <string id="st_ui_bonus">
+    <text>Бонус</text>
+  </string>
+  <string id="st_ui_cancel">
+    <text>Скасувати</text>
+  </string>
+  <string id="st_ui_container_place">
+    <text>Покласти в контейнер</text>
+  </string>
+  <string id="st_ui_container_remove">
+    <text>Дістати з контейнера</text>
+  </string>
+  <string id="st_ui_containers">
+    <text>Контейнери</text>
+  </string>
+  <string id="st_ui_cook_fuel_usable">
+    <text>Використовуване пальне</text>
+  </string>
+  <string id="st_ui_craft">
+    <text>Створення</text>
+  </string>
+  <string id="st_ui_craft_ammo">
+    <text>Назва набою</text>
+  </string>
+  <string id="st_ui_craft_device">
+    <text>Пристрої</text>
+  </string>
+  <string id="st_ui_craft_equipment">
+    <text>Спорядження</text>
+  </string>
+  <string id="st_ui_craft_medical">
+    <text>Медикаменти</text>
+  </string>
+  <string id="st_ui_craft_repair">
+    <text>Ремкомплекти</text>
+  </string>
+  <string id="st_ui_craft_upgrades">
+    <text>Комплекти покращення</text>
+  </string>
+  <string id="st_ui_disassemly_list">
+    <text>Компоненти</text>
+  </string>
+  <string id="st_ui_grenade_launcher">
+    <text>Підствольний гранатомет</text>
+  </string>
+  <string id="st_ui_health_sensor">
+    <text>Самопочуття</text>
+  </string>
+  <string id="st_ui_health_sensor_inv">
+    <text>Самопочуття</text>
+  </string>
+  <string id="st_ui_info">
+    <text>Про меню</text>
+  </string>
+  <string id="st_ui_inventory_attach">
+    <text>прикріпити</text>
+  </string>
+  <string id="st_ui_inventory_unpack">
+    <text>розпакувати</text>
+  </string>
+  <string id="st_ui_itm_cook_food">
+    <text>Рецепти</text>
+  </string>
+  <string id="st_ui_itm_cook_fuel">
+    <text>Пальне</text>
+  </string>
+  <string id="st_ui_itm_repair_base">
+    <text>Потребують ремонту</text>
+  </string>
+  <string id="st_ui_itm_repair_support">
+    <text>Витратні матеріали</text>
+  </string>
+  <string id="st_ui_main_sensor">
+    <text>Опромінення</text>
+  </string>
+  <string id="st_ui_need_charger">
+    <text>Для проведення електрики потрібен %s</text>
+  </string>
+  <string id="st_ui_number_of_uses">
+    <text>Кількість використань</text>
+  </string>
+  <string id="st_ui_oldcon">
+    <text>Попередній стан</text>
+  </string>
+  <string id="st_ui_power">
+    <text>Залишок енергії</text>
+  </string>
+  <string id="st_ui_power_consumption">
+    <text>енергоспоживання</text>
+  </string>
+  <string id="st_ui_power_loss">
+    <text>втрата енергії</text>
+  </string>
+  <string id="st_ui_repair">
+    <text>Ремонт</text>
+  </string>
+  <string id="st_ui_repair_add_condition">
+    <text>базове покращення стану</text>
+  </string>
+  <string id="st_ui_repair_bonus">
+    <text>бонус до ремонту</text>
+  </string>
+  <string id="st_ui_repair_kit_list">
+    <text>Сумісне ремонтне приладдя</text>
+  </string>
+  <string id="st_ui_repair_min_condition">
+    <text>не можна використовувати, якщо стан спорядження нижчий за</text>
+  </string>
+  <string id="st_ui_repair_parts_include">
+    <text>Використані матеріали</text>
+  </string>
+  <string id="st_ui_scopes">
+    <text>Приціли</text>
+  </string>
+  <string id="st_ui_silencer">
+    <text>Прилад безшумної стрільби</text>
+  </string>
+  <string id="st_ui_total">
+    <text>Разом</text>
+  </string>
+  <string id="st_ui_upgr_required_con">
+    <text>Мінімально необхідний стан</text>
+  </string>
+  <string id="st_ui_upgrade_list">
+    <text>Модифікації</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_1">
+    <text>Для створення різних предметів можна використовувати багато матеріалів.\nРецепти та посібники, придбані або знайдені під час вилазок, можуть містити багато інформації про створення предметів.\nВиберіть категорію в меню створення, щоб побачити доступні предмети.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_2">
+    <text>Виберіть предмет, який хочете створити.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_3">
+    <text>Для створення вибраного предмета потрібні зазначені компоненти.\nЯкщо бракує мінімальної кількості компонента, його буде виділено червоним, що унеможливить створення предмета.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_4">
+    <text>Є всі компоненти для створення вибраного предмета. Натисніть «Створити», щоб продовжити.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_5">
+    <text>Поки немає інформації про те, як створити вибраний предмет.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_6">
+    <text>Для створення вибраного предмета на цьому верстаку потрібен «%s».</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_intro">
+    <text>Для створення різних предметів можна використовувати багато матеріалів.\nРецепти та посібники, придбані або знайдені під час вилазок, можуть містити багато інформації про створення предметів.\nВиберіть категорію в меню створення, щоб побачити доступні предмети.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_solution_2">
+    <text>У посібниках і рецептах можна знайти інформацію про створення вибраного предмета.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_solution_3">
+    <text>Такі інструменти зазвичай трапляються рідко, тож будьте уважні під час вилазок.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_solution_4">
+    <text>Компоненти можна отримати, розбираючи непотрібні предмети та спорядження.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_tip_1">
+    <text>Виберіть предмет, який хочете створити.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_tip_5">
+    <text>Є всі компоненти для створення «%s». Натисніть «Створити», щоб продовжити.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_warning_2">
+    <text>Поки немає інформації про те, як створити «%s».</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_warning_3">
+    <text>Для створення вибраного предмета із зазначених компонентів потрібен «%s» (доступний лише у гравця або техніка).</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_warning_4">
+    <text>В інвентарі бракує деяких компонентів, необхідних для створення вибраного предмета.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_1">
+    <text>Пошкоджені деталі зброї або спорядження можна замінити запчастинами та відповідним набором інструментів.
+Виберіть в інвентарі предмет спорядження, який хочете відремонтувати.\n</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_2">
+    <text>Кожен предмет спорядження має власний набір деталей і матеріалів.\nСірі деталі означають, що в інвентарі немає відповідної заміни.\nЯкщо у вас є відповідна запчастина та «%s», натисніть на деталь, яку хочете замінити.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_3">
+    <text>В інвентарі можна вибрати ідентичну запчастину.\nДля заміни можна використовувати запчастини в стані не гіршому за вже встановлені.\nСірі запчастини перебувають у гіршому стані, ніж уже встановлені деталі.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_4">
+    <text>Запчастини готові до встановлення. Натисніть «Відремонтувати», щоб установити їх.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_intro">
+    <text>Пошкоджені деталі зброї або спорядження можна замінити запчастинами та відповідним набором інструментів.
+Виберіть в інвентарі предмет спорядження, який хочете відремонтувати.\n</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_solution_1">
+    <text>Запчастини можна отримати, розбираючи зброю та спорядження.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_solution_2">
+    <text>Більшість техніків продають такі набори. Їх також можна знайти іншими способами.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_solution_3">
+    <text>Деякі інструменти (мультитул, шомпол, напилок, проста швейна нитка та польовий швейний набір) дають змогу ремонтувати деталі за допомогою ідентичних запчастин. Більшість техніків продають такі інструменти; їх також можна знайти іншими способами.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_tip_1">
+    <text>Кожен предмет спорядження має власний набір деталей і матеріалів.\nСірі деталі означають, що в інвентарі немає відповідної заміни.\nЯкщо у вас є відповідна запчастина та «%s», натисніть на деталь, яку хочете замінити.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_tip_3">
+    <text>В інвентарі можна вибрати ідентичну запчастину «%s».\nДля заміни можна використовувати запчастини в стані не гіршому за вже встановлені.\nСірі запчастини перебувають у гіршому стані, ніж уже встановлені деталі.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_tip_4">
+    <text>Запчастини готові до встановлення. Натисніть «Відремонтувати», щоб установити їх.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_warning_1">
+    <text>В інвентарі немає запчастин для вибраного предмета спорядження.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_warning_2">
+    <text>Для заміни деталей потрібен «%s».</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_warning_3">
+    <text>Запчастина «%s» в інвентарі має гірший стан, ніж уже встановлена деталь.</text>
+  </string>
+  <string id="st_ui_workshop_info_state_1">
+    <text>За верстаком можна самостійно ремонтувати, покращувати та створювати предмети за допомогою відповідних ремонтних наборів та інструментів.\nОсновні доступні для цього верстака інструменти показано вище. Вони дають змогу ремонтувати, покращувати та створювати спорядження.\nВиберіть одну з вкладок, щоб продовжити.</text>
+  </string>
+  <string id="st_ui_workshop_info_state_intro">
+    <text>За верстаком можна самостійно ремонтувати, покращувати та створювати предмети за допомогою відповідних ремонтних наборів та інструментів.\nОсновні доступні для цього верстака інструменти показано вище. Вони дають змогу ремонтувати, покращувати та створювати спорядження.\nВиберіть одну з вкладок, щоб продовжити.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgr_1">
+    <text>Маючи відповідні набори інструментів, можна встановлювати покращення на зброю та спорядження.\nВиберіть в інвентарі предмет спорядження, який хочете покращити.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgr_2">
+    <text>Для кожного покращення потрібен набір інструментів того самого типу, що й «%s».\nДля успішного встановлення мають бути виконані всі додаткові умови.\nНатисніть на покращення, яке хочете встановити на вибраний предмет спорядження.\nЯкщо покращення заблоковане, наведіть на нього курсор, щоб побачити всі вимоги.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgr_3">
+    <text>Покращення готові. Натисніть «Модифікувати», щоб установити їх.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_intro">
+    <text>Маючи відповідні набори інструментів, можна встановлювати покращення на зброю та спорядження.\nВиберіть в інвентарі предмет спорядження, який хочете покращити.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_solution_1">
+    <text>Більшість техніків продають такі комплекти. Їх також можна знайти іншими способами.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_solution_2">
+    <text>Наведіть курсор на покращення, щоб побачити необхідні умови.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_tip_1">
+    <text>Для кожного покращення потрібен набір інструментів того самого типу, що й «%s».\nДля успішного встановлення мають бути виконані всі додаткові умови.\nНатисніть на покращення, яке хочете встановити на вибраний предмет спорядження.\nЯкщо покращення заблоковане, наведіть на нього курсор, щоб побачити всі вимоги.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_tip_3">
+    <text>Покращення готові. Натисніть «Модифікувати», щоб установити їх.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_warning_1">
+    <text>Для встановлення покращення потрібен «%s».</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_warning_2">
+    <text>Немає доступних покращень для встановлення.</text>
+  </string>
+  <string id="st_ui_workshop_kit_list">
+    <text>Ремонтний набір, сумісний із верстаком</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_1">
+    <text>Для встановлення вибраного покращення потрібен «%s».</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_2">
+    <text>Для встановлення вибраного покращення потрібен «%s».</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_3">
+    <text>Стан цього предмета надто поганий для встановлення цього покращення.</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_4">
+    <text>У вибраному слоті вже встановлено інше покращення.</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_5">
+    <text>Неможливо встановити вибране покращення без встановлення попередніх.</text>
+  </string>
+  <string id="st_ui_workshop_owner">
+    <text>Верстак належить: %s</text>
+  </string>
+  <string id="st_ui_workshop_owner_nobody">
+    <text>нікому</text>
+  </string>
+  <string id="st_upd_disconnected">
+    <text>У вас немає універсального зарядного пристрою (УЗП)</text>
+  </string>
+  <string id="st_upd_low">
+    <text>Низький заряд батареї</text>
+  </string>
+  <string id="st_weight">
+    <text>Вага</text>
+  </string>
+  <string id="st_weight_full">
+    <text>Вага</text>
+  </string>
+  <string id="ui_ammo_count">
+    <text>Магазин</text>
+  </string>
+  <string id="ui_ammo_types">
+    <text>Назва набою</text>
+  </string>
+  <string id="ui_inv_accuracy">
+    <text>Точність</text>
+  </string>
+  <string id="ui_inv_af_condition">
+    <text>Ефективність</text>
+  </string>
+  <string id="ui_inv_ammo_pistol">
+    <text>Купити пістолетні набої (Q)</text>
+  </string>
+  <string id="ui_inv_ammo_rifle">
+    <text>Купити гвинтівкові набої (W)</text>
+  </string>
+  <string id="ui_inv_bleeding">
+    <text>Загоєння</text>
+  </string>
+  <string id="ui_inv_burn_protection">
+    <text>Тепло</text>
+  </string>
+  <string id="ui_inv_cancel">
+    <text>Скасувати</text>
+  </string>
+  <string id="ui_inv_cant_buy_item">
+    <text>Неможливо купити зброю</text>
+  </string>
+  <string id="ui_inv_chemical_burn_protection">
+    <text>Хімзахист</text>
+  </string>
+  <string id="ui_inv_count_restr">
+    <text>Обмеження кількості</text>
+  </string>
+  <string id="ui_inv_damage">
+    <text>Шкода</text>
+  </string>
+  <string id="ui_inv_default(F5)">
+    <text>Початковий (F5)</text>
+  </string>
+  <string id="ui_inv_effect_time">
+    <text>Час дії</text>
+  </string>
+  <string id="ui_inv_exit">
+    <text>Вихід</text>
+  </string>
+  <string id="ui_inv_fire_wound_protection">
+    <text>Балістика</text>
+  </string>
+  <string id="ui_inv_granadelauncher_rifle">
+    <text>Купити підствольник для гвинтівки (D)</text>
+  </string>
+  <string id="ui_inv_granades_rifle">
+    <text>Купити гранати для підствольника (E)</text>
+  </string>
+  <string id="ui_inv_handling">
+    <text>Зручність</text>
+  </string>
+  <string id="ui_inv_has">
+    <text>Зараз</text>
+  </string>
+  <string id="ui_inv_health">
+    <text>Відн. здоров’я</text>
+  </string>
+  <string id="ui_inv_heavy_weapons">
+    <text>Важка зброя</text>
+  </string>
+  <string id="ui_inv_last_buy">
+    <text>Купити останній придбаний набір</text>
+  </string>
+  <string id="ui_inv_last_buy(F4)">
+    <text>Попередній (F4)</text>
+  </string>
+  <string id="ui_inv_money">
+    <text>Гроші</text>
+  </string>
+  <string id="ui_inv_need">
+    <text>Необхідно</text>
+  </string>
+  <string id="ui_inv_needs">
+    <text>Потребує</text>
+  </string>
+  <string id="ui_inv_not_enought_money">
+    <text>Недостатньо грошей</text>
+  </string>
+  <string id="ui_inv_ok">
+    <text>Гаразд</text>
+  </string>
+  <string id="ui_inv_outfit_additional_weight">
+    <text>Вантажність</text>
+  </string>
+  <string id="ui_inv_outfit_artefact_count">
+    <text>Артефакти</text>
+  </string>
+  <string id="ui_inv_outfit_burn_protection">
+    <text>Тепло</text>
+  </string>
+  <string id="ui_inv_outfit_chemical_burn_protection">
+    <text>Хімзахист</text>
+  </string>
+  <string id="ui_inv_outfit_explosion_protection">
+    <text>Вибух</text>
+  </string>
+  <string id="ui_inv_outfit_fire_wound_protection">
+    <text>Балістика</text>
+  </string>
+  <string id="ui_inv_outfit_hit_fraction_actor">
+    <text>Міцність</text>
+  </string>
+  <string id="ui_inv_outfit_power_restore">
+    <text>Відновлення сил</text>
+  </string>
+  <string id="ui_inv_outfit_radiation_protection">
+    <text>Радіація</text>
+  </string>
+  <string id="ui_inv_outfit_shock_protection">
+    <text>Електрика</text>
+  </string>
+  <string id="ui_inv_outfit_strike_protection">
+    <text>Удар</text>
+  </string>
+  <string id="ui_inv_outfit_telepatic_protection">
+    <text>Псі-захист</text>
+  </string>
+  <string id="ui_inv_outfit_wound_protection">
+    <text>Розриви</text>
+  </string>
+  <string id="ui_inv_power">
+    <text>Відновлення сил</text>
+  </string>
+  <string id="ui_inv_power_restore">
+    <text>Відновлення сил</text>
+  </string>
+  <string id="ui_inv_preset1(F1)">
+    <text>Набір 1 (F1)</text>
+  </string>
+  <string id="ui_inv_preset2(F2)">
+    <text>Набір 2 (F2)</text>
+  </string>
+  <string id="ui_inv_preset3(F3)">
+    <text>Набір 3 (F3)</text>
+  </string>
+  <string id="ui_inv_radiation">
+    <text>Радіація</text>
+  </string>
+  <string id="ui_inv_radiation_protection">
+    <text>Радіація</text>
+  </string>
+  <string id="ui_inv_rank_restr">
+    <text>Обмеження за рангом</text>
+  </string>
+  <string id="ui_inv_rate_of_fire">
+    <text>Темп вогню</text>
+  </string>
+  <string id="ui_inv_reset_items(C)">
+    <text>Очистити (C)</text>
+  </string>
+  <string id="ui_inv_rifles">
+    <text>Штурмові гвинтівки</text>
+  </string>
+  <string id="ui_inv_satiety">
+    <text>Насичення</text>
+  </string>
+  <string id="ui_inv_scope_rifle">
+    <text>Купити оптичний приціл для гвинтівки (S)</text>
+  </string>
+  <string id="ui_inv_seconds">
+    <text>секунд</text>
+  </string>
+  <string id="ui_inv_seconds_short">
+    <text>с</text>
+  </string>
+  <string id="ui_inv_sell_items(X)">
+    <text>Продати всі речі з рюкзака (X)</text>
+  </string>
+  <string id="ui_inv_shock_protection">
+    <text>Електрика</text>
+  </string>
+  <string id="ui_inv_shotguns">
+    <text>Дробовики</text>
+  </string>
+  <string id="ui_inv_silencer_pistol">
+    <text>Купити глушник для пістолета (A)</text>
+  </string>
+  <string id="ui_inv_silencer_rifle">
+    <text>Купити глушник для гвинтівки (F)</text>
+  </string>
+  <string id="ui_inv_sniper_rifles">
+    <text>Снайперські гвинтівки</text>
+  </string>
+  <string id="ui_inv_survive_surge">
+    <text>Дозволяє пережити викид</text>
+  </string>
+  <string id="ui_inv_telepatic_protection">
+    <text>Псі-захист</text>
+  </string>
+  <string id="ui_inv_time">
+    <text>Час</text>
+  </string>
+  <string id="ui_inv_weight">
+    <text>Макс. вага</text>
+  </string>
+  <string id="ui_inv_wound_protection">
+    <text>Розриви</text>
+  </string>
+  <string id="ui_inv_you_already_have">
+    <text>Вже є</text>
+  </string>
+  <string id="ui_repair_button_hint">
+    <text>Відремонтувати вибраний предмет</text>
+  </string>
+  <string id="ui_st_battery_more_power">
+    <text>Пристрій заряджено</text>
+  </string>
+  <string id="ui_st_buy">
+    <text>Купити</text>
+  </string>
+  <string id="ui_st_buy_hint">
+    <text>Купити вибрані предмети</text>
+  </string>
+  <string id="ui_st_err_gs_not_available">
+    <text>Онлайн-сервіси S.T.A.L.K.E.R. недоступні</text>
+  </string>
+  <string id="ui_st_err_sb_master_server_conn_fail">
+    <text>Не вдалося підключитися до майстер-сервера</text>
+  </string>
+  <string id="ui_st_geiger_mode_1">
+    <text>Режим 1: активний</text>
+  </string>
+  <string id="ui_st_geiger_mode_2">
+    <text>Режим 2: пасивний</text>
+  </string>
+  <string id="ui_st_geiger_mode_3">
+    <text>Режим 3: за натисканням</text>
+  </string>
+  <string id="ui_st_inv_repair">
+    <text>Ремонт</text>
+  </string>
+  <string id="ui_st_npc_pda_access_denied">
+    <text>ДОСТУП ЗАБОРОНЕНО</text>
+  </string>
+  <string id="ui_st_npc_pda_low_power">
+    <text>НИЗЬКИЙ ЗАРЯД БАТАРЕЇ</text>
+  </string>
+  <string id="ui_st_npc_pda_strelok">
+    <text>УБИТИ СТРІЛЬЦЯ</text>
+  </string>
+  <string id="ui_st_npc_pda_unkown">
+    <text>КПК не працює</text>
+  </string>
+  <string id="ui_st_outfit_protect">
+    <text>Захист:</text>
+  </string>
+  <string id="ui_st_preset_def">
+    <text>Початковий</text>
+  </string>
+  <string id="ui_st_preset_stored_to">
+    <text>Придбаний набір збережено як</text>
+  </string>
+  <string id="ui_st_put_all">
+    <text>Покласти все</text>
+  </string>
+  <string id="ui_st_put_all_hint">
+    <text>Покласти всі предмети з рюкзака (SHIFT + P)</text>
+  </string>
+  <string id="ui_st_sell">
+    <text>Продати</text>
+  </string>
+  <string id="ui_st_sell_hint">
+    <text>Продати вибрані предмети</text>
+  </string>
+  <string id="ui_st_take_all">
+    <text>Взяти все</text>
+  </string>
+  <string id="ui_st_take_all_hint">
+    <text>Взяти всі предмети до рюкзака (SHIFT + T)</text>
+  </string>
+  <string id="ui_total_price">
+    <text>Разом:</text>
+  </string>
+  <string id="ui_total_weight">
+    <text>Загальна вага:</text>
+  </string>
+</string_table>

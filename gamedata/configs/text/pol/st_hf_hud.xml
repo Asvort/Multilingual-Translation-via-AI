@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_hf_advanced_msg">
+    <text>$key_interact - Umieść obiekt\n
+            \n
+            Przekształcenia:\n
+            MOUSE1 - Przesuwaj w poziomie\n
+            MOUSE2 - Obracaj wokół osi pionowej\n
+            LSHIFT + MOUSE1 - Przesuwaj wzdłuż osi pionowej\n
+            \n
+            Modyfikatory:\n
+            LALT - Przyciągaj\n
+            LCTRL - Precyzyjna kontrola\n
+            \n
+            $key_mode - Przełącz na tryb podglądu\n
+            ESCAPE - Przełącz na tryb normalny\n
+        </text>
+  </string>
+  <string id="st_hf_holding_msg">
+    <text>$key_interact - Umieść obiekt\n
+            \n
+            $key_collision - Przełącz wykrywanie kolizji\n
+            $key_align - Przełącz wyrównanie do powierzchni\n
+            \n
+            $key_mode - Przełącz na tryb zaawansowany\n
+            ESCAPE - Anuluj umieszczanie\n
+        </text>
+  </string>
+  <string id="st_hf_preview_msg">
+    <text>$key_interact - Umieść obiekt\n
+            \n
+            ESCAPE - Anuluj umieszczanie\n
+            $key_mode - Przełącz na tryb zaawansowany
+        </text>
+  </string>
+</string_table>

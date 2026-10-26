@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_shw_cascades_high">
+    <text>Élevé</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_low">
+    <text>Faible (par défaut dans Anomaly)</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_medium">
+    <text>Moyen</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_ultra">
+    <text>Ultra (fort impact sur les performances)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades">
+    <text>Cascades d’ombres</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+    <text>Distance des ombres de l’herbe (soleil)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+    <text>Définit la distance d’affichage des ombres de l’herbe projetées par le soleil, en pourcentage de la distance d’affichage de l’herbe. Une valeur plus basse améliore les performances.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+    <text>Distance maximale des ombres de l’herbe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+    <text>[ QUALITÉ ULTRA UNIQUEMENT ] Définit la distance d’affichage des ombres de l’herbe projetées par des lumières non directionnelles. Une valeur plus basse améliore les performances, mais les ombres peuvent disparaître plus tôt.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+    <text>Qualité des ombres de l’herbe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+    <text>[ LOW ] Les ombres de l’herbe apparaissent uniquement dans la cascade PROCHE (comportement par défaut d’Anomaly). [ MEDIUM ] Elles apparaissent dans les cascades PROCHE et MOYENNE. [ HIGH ] Elles apparaissent dans toutes les cascades et les rayons volumétriques du soleil. [ ULTRA ] Toutes les lumières projettent des ombres de l’herbe.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+    <text>Taille de la cascade proche</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+    <text>Une valeur plus basse améliore la qualité des ombres du soleil.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+    <text>Taille de la cascade intermédiaire</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+    <text>Une valeur plus basse améliore la qualité des ombres du soleil.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+    <text>Taille de la cascade lointaine</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+    <text>Cette cascade définit la distance maximale d’affichage des ombres du soleil. Une valeur basse améliore les performances ; une valeur élevée améliore les ombres lointaines au prix des performances.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_title">
+    <text>Paramètres des cascades d’ombres</text>
+  </string>
+</string_table>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_balon_gas">
+    <text>Gaz tüpü
+		</text>
+  </string>
+  <string id="st_balon_gas_descr">
+    <text>\n \n
+		%c[d_red]UYARI: Darbede patlar\n \n
+		%c[ui_gray_1]Ağır metal gaz tüpü, hava koşullarına, aşınmaya ve UV ışınlarına dayanması için uyumlu polimer ve Hypalon ile kaplanmıştır. Katlanabilir bu depo, basınç altında doldurulmadan önce endüstriyel gazları saklar. Bölge’de genellikle yemek, ısınma veya çatışma amacıyla metan, propan, etan ve bütan karışımı taşır. Doğrudan mermi isabeti tüpü tutuşturabilir; açığa çıkan enerji gazı genişletir ve metal şarapnelleri her yöne saçan gecikmeli, güçlü bir patlamaya yol açar. Bu tüpler fraksiyon çatışmalarında birçok kişiyi öldürüp sakat bırakmıştır. Boşken zırh tamirinde kullanılabilir.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_blue] • %c[ui_gray_2] içerik: %c[ui_gray_1] arıtılmış doğal gaz\n
+		%c[d_green] • %c[ui_gray_2] üst düzey yemek pişirme yakıtı\n
+		%c[d_purple] • %c[ui_gray_2] tetikleme mekanizması: %c[ui_gray_1]mermi isabeti veya patlama\n
+		%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]çok yüksek\n
+		%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] şarapnel yarıçapı: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] ortalama şarapnel sayısı: %c[ui_gray_1]28 (ağır metal parçaları)\n
+		%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]~2 saniye\n
+		</text>
+  </string>
+  <string id="st_balon_gas_empty">
+    <text>Gaz tüpü (boş)</text>
+  </string>
+  <string id="st_balon_gas_empty_descr">
+    <text>Hypalon kaplı dış yüzeyi hava koşullarına, aşınmaya ve UV ışınlarına dayanıklı, içi uyumlu polimerle kaplanmış boş ağır metal gaz tüpü. Katlanabilir depo, basınçla doldurulmadan önce endüstriyel gazları saklar. Bölge’de genellikle metan, propan, etan ve bütan içerir. Şimdi boş, ama giysi tamirinde işe yarar.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n
+		</text>
+  </string>
+  <string id="st_ied">
+    <text>El yapımı patlayıcı düzenek (kimyasal)</text>
+  </string>
+  <string id="st_ied_descr">
+    <text>Patlayıcı kimyasallardan, bozuk elektrikli ateşleyiciden ve çelik bilye haznesinden yapılmış el yapımı düzenek. Kimyasallar yoğun kokulu ve çok zehirlidir. Bu düzenek, yaygın OG-7V sürümünden çok daha güçlüdür. Bölge’de kapalı alanlara girmekten pusu kurmaya kadar çeşitli amaçlarla kullanılır; patlamayı güçlendirmek için mayınların yanına da konur. İyi gizlenerek neredeyse görünmez hâle getirilebilir.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] askerî eşya\n
+		%c[d_blue] • %c[ui_gray_2] yere konduğunda fark edilmez\n
+		%c[d_purple] • %c[ui_gray_2] tetikleme mekanizması: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]çok yüksek\n
+		%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] şarapnel yarıçapı: 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] ortalama şarapnel sayısı: %c[ui_gray_1]580 (çelik bilyeler)\n
+		%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]yok\n
+		</text>
+  </string>
+  <string id="st_ied_rpg">
+    <text>El yapımı patlayıcı düzenek (OG-7V savaş başlığı)</text>
+  </string>
+  <string id="st_ied_rpg_descr">
+    <text>OG-7V savaş başlığı ve araba aküsü parçalarına dayanan el yapımı patlayıcı. Eski görünüyor ve her an patlayabilir, ancak doğrudan mermi isabeti ya da güçlü bir fiziksel darbe olmadıkça tetiklenmez. Bölge’de kapalı alanlara girmek ve pusu kurmak için kullanılır; patlamayı artırmak için mayınların yanına da konur. Etkili biçimde gizlenip neredeyse görünmez yapılabilir.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] askerî eşya\n
+		%c[d_blue] • %c[ui_gray_2] yere konduğunda fark edilmez\n
+		%c[d_purple] • %c[ui_gray_2] tetikleme mekanizması: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]yüksek\n
+		%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] şarapnel yarıçapı: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] ortalama şarapnel sayısı: %c[ui_gray_1]440 (şarapnel)\n
+		%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]yok\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel">
+    <text>Benzin bidonu
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_descr">
+    <text>\n \n
+		%c[d_red]UYARI: Darbede patlar\n \n
+		%c[ui_gray_1]E95 benziniyle dolu büyük metal bidon. Ukrayna ordusu zırhlı araçları için Bölge’ye çok sayıda getirmişti. İkinci Çernobil Felaketi’nden sonra, nedeni hâlâ bilinmeyen biçimde araçlar çalışmaz hâle gelene kadar görevlerini yaptılar. Bazı Bölge sakinleri enkazları hâlâ çalıştırmaya uğraşıyor; bazılarıysa bidonlara başka bir kullanım buldu: el yapımı patlayıcı. Doğrudan isabet bidonu tutuşturur ve kısa bir gecikmeden sonra patlatır. Ağır ve hantal olsa da son derece güçlüdür; iyi yerleştirilmiş bir bidon en ağır zırhlı hedefi bile öldürebilir. Patlama o kadar güçlü olabilir ki saldırganın kendisi de kurbana dönüşür, bu yüzden dikkatli kullanın. Söylentiye göre deneyimli stalker Yuya bir keresinde bir pseudogiant’ı bidon tuzağına çekerek canını kurtarmış. Son Makarov şarjörünü boşaltmış ve dev, sesi bütün Jüpiter’den duyulan bir kükremeyle alev almış.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_blue] • %c[ui_gray_2] içerik: %c[ui_gray_1] E95 gasoline\n
+		%c[d_green] • %c[ui_gray_2] üst düzey yemek pişirme yakıtı\n
+		%c[d_purple] • %c[ui_gray_2] tetikleme mekanizması: %c[ui_gray_1]mermi isabeti veya patlama\n
+		%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]yüksek\n
+		%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] şarapnel yarıçapı: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] ortalama şarapnel sayısı: %c[ui_gray_1]39 (ağır metal parçaları)\n
+		%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]~3 saniye\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty">
+    <text>Boş bidon</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty_descr">
+    <text>Boş metal bidon. Yalnızca giysilerin temel onarımlarında malzeme olarak kullanılabilir ya da tüccarlara satılabilir.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n
+		</text>
+  </string>
+  <string id="st_jerrycan_item">
+    <text>Bidon
+		</text>
+  </string>
+  <string id="st_metalcan_powder">
+    <text>Barut kutusu
+		</text>
+  </string>
+  <string id="st_metalcan_powder_descr">
+    <text>\n \n
+		%c[d_red]UYARI: Darbede patlar\n \n
+		%c[ui_gray_1]Patlayıcı endüstriyel kimyasallar, metal cıvata ve somunlar ile eski mühimmattan çıkarılmış kara barut karışımıyla dolu, küçük ve oldukça ağır bir metal kutu. “Swireksters” olarak bilinen Rus haydutlar tarafından tasarlanan bu ölüm tuzağı, Bölge’deki çeşitli haydut gruplarına satıldı. Doğrudan mermi isabeti kutuyu anında patlatır; metal cıvataları ve aşındırıcı kimyasalları her yöne saçar. Bu ölümcül silahı kullanırken tetikte olun. Kutunun metal parçaları acil giysi tamirinde de kullanılabilir.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_purple] • %c[ui_gray_2] tetikleme mekanizması: %c[ui_gray_1]mermi isabeti veya patlama\n
+		%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]düşük\n
+		%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] şarapnel yarıçapı: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] ortalama şarapnel sayısı: %c[ui_gray_1]77 (düşük metal pieces)\n
+		%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]yok\n
+		</text>
+  </string>
+  <string id="st_mine_descr">
+    <text>PFM-1 (“tahrip etkili anti-personel mayını” ifadesinin kısaltması; NATO kod adı: “Yeşil Papağan”), Kızıl Ordu’nun standart personel karşıtı mayınıydı ve özellikle Sovyetlerin Afganistan’ı işgali sırasında kullanıldı. Yaygın kullanımı birçok sivilin, özellikle de tanıdık şekli ve rengi nedeniyle etrafa saçılmış mayınları oyuncak sanan çocukların ölümüne yol açtı. Bu yüzden uğursuz “Çocuk Katili” lakabını aldı. Daha sonra yeni modellerle değiştirildi, ancak hizmetten çıkarılmış pek çok silah bir şekilde Bölge’ye ulaştı; PFM-1 burada yaygın bir tuzak patlayıcısı oldu. İşlevselliği, kullanım kolaylığı, küçük boyutu ve hafifliği nedeniyle değerlidir. Başlıca kusuru, ağır zırhlı bir stalkerı tek patlamada öldürmeye çoğu zaman yetmeyen küçük patlayıcı yüküdür. Ateşleyici olarak başka patlayıcılarla birlikte kullanın. Kurulmamışsa vurulsa bile patlamaz.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] patlayıcı\n
+		%c[d_blue] • %c[ui_gray_2] askerî eşya\n
+		%c[d_blue] • %c[ui_gray_2] personel karşıtı mayın\n
+		%c[d_purple] • %c[ui_gray_2] tetikleme mekanizması: %c[ui_gray_1]basınç\n
+		%c[d_purple] • %c[ui_gray_2] patlama gücü: %c[ui_gray_1]düşük\n
+		%c[d_purple] • %c[ui_gray_2] patlama yarıçapı: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] şarapnel yarıçapı: %c[ui_gray_1]yok\n
+		%c[d_purple] • %c[ui_gray_2] ortalama şarapnel sayısı: %c[ui_gray_1]yok\n
+		%c[d_purple] • %c[ui_gray_2] patlama gecikmesi: %c[ui_gray_1]yok\n
+		</text>
+  </string>
+  <string id="st_mine_name">
+    <text>Saçılabilir PFM-1 personel mayını</text>
+  </string>
+</string_table>

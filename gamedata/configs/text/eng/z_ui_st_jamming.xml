@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="article_wpo">
+    <text>Weapon maintenance</text>
+  </string>
+  <string id="article_wpo_text">
+    <text>
+			%c[pda_green]Questions and Answers%c[ui_gray_1]\n \n
+			\n1. Why does my weapon jam at 100% condition?\nA. Some weapon parts are probably damaged. Check their condition.\n2. How do I clear a jam?\nA. Press the use key twice (F by default). Or right-click the weapon in your inventory and choose “Unjam”.\n3. Why does replacing parts reduce my weapon condition?\nA. You need to lubricate the weapon again. Replacing parts cannot lower its condition below 60%. Use a Leatherman multitool to reduce the loss, or use a workbench to avoid it entirely.\n4. Why do technicians not repair weapon parts?\nA. Parts must be repaired individually. You can buy them from technicians or use weapon repair kits. That is the main idea behind Weapon Part Overhaul. \n \nWeapon Part Overhaul radically changes how maintenance works in Anomaly. Read this guide carefully to understand the system.\n \n
+			
+			%c[pda_green]I. Weapon parts and maintenance%c[ui_gray_1]\n
+			\n• Your weapon’s overall condition (the familiar condition bar) is now easier to maintain. Technicians restore it for 60% less. All weapon repair items are much more effective.\n• Weapon parts need maintenance. Hover over a part to see its condition.\n   ? Text color indicates the overall condition.\n%c[d_red]   ?  Missing\n%c[d_orange]   ?  Damaged and cannot be serviced\n%c[pda_yellow]   ? Dirty and can be cleaned%c[ui_gray_1]			
+			\n• You can remove weapon parts by disassembling the weapon. This removes every part except the barrel.\n• Weapon parts can be replaced by dragging them. %c[d_red]NOTE: THIS REDUCES YOUR WEAPON’S CONDITION IF IT IS ABOVE 60%. Carry a Leatherman multitool to reduce the condition loss when replacing parts. %c[ui_gray_1] 
+			\n• Weapon parts can also be replaced for free at a workbench if you have the required repair kit. %c[pda_yellow]This is one of two ways to replace a barrel.\n \n
+			%c[pda_green]II. Weapon part damage and jams%c[ui_gray_1]\n
+			\n• Parts have 5 damage levels: %c[d_red]broken%c[ui_gray_1], %c[d_red]damaged%c[ui_gray_1], %c[d_orange]worn%c[ui_gray_1], %c[0,250,250,0]dirty%c[ui_gray_1], %c[d_green]functional%c[ui_gray_1]
+			\n• The more damaged a part is, the more likely it is to break.\n• There are three types of malfunction: misfire, jam and severe jam.\n• Misfires and jams can be cleared with the regular unjam action.\n• To clear a severe jam, remove the magazine from the weapon first.\n• Barrels do not increase the chance of a jam. However, dirt or a lower condition level can reduce weapon damage by up to 50%.\n• Firing a weapon below 85% condition (change this in %c[pda_yellow]MCM: Part damage condition threshold%c[ui_gray_1]) can damage the weapon’s condition. \n• Firing in heavy rain wears the weapon down much faster.\n• Long bursts cause overheating, which can lead to jams and faster weapon wear.%c[pda_green]III. Economy changes%c[ui_gray_1]\n
+			\n• A cleaning kit cleans “dirty” weapon parts (above 60% condition).\n• A repair kit replaces the part in the worst condition.%c[pda_yellow]This is another way to replace a barrel.%c[ui_gray_1]
+			\n• Technicians will sometimes sell weapon parts at a steep markup.\n• Weapon parts above 60% condition can be repaired with a file, cleaning rod or multitool.\n• Weapon parts above 10% condition can be repaired with very expensive repair kits sold by traders.\n \nFor any other questions, message arti#3278 on Discord (in English, of course). I’m too lazy to read comments on ModDB.</text>
+  </string>
+  <string id="kb_unjam">
+    <text>Unjam</text>
+  </string>
+  <string id="st_clean_half">
+    <text>effectiveness is halved when condition is below </text>
+  </string>
+  <string id="st_damage_0">
+    <text>broken:</text>
+  </string>
+  <string id="st_damage_1">
+    <text>damaged:</text>
+  </string>
+  <string id="st_damage_2">
+    <text>worn:</text>
+  </string>
+  <string id="st_damage_3">
+    <text>dirty:</text>
+  </string>
+  <string id="st_damage_4">
+    <text>functional:</text>
+  </string>
+  <string id="st_damage_5">
+    <text>in working order:</text>
+  </string>
+  <string id="st_damage_missing">
+    <text>missing:</text>
+  </string>
+  <string id="st_field_strip_fail">
+    <text>There is nothing left to remove from this weapon.</text>
+  </string>
+  <string id="st_name_all">
+    <text>all</text>
+  </string>
+  <string id="st_name_barrel">
+    <text>barrel</text>
+  </string>
+  <string id="st_name_bolt">
+    <text>firing pin</text>
+  </string>
+  <string id="st_name_bolt_carrier">
+    <text>bolt carrier</text>
+  </string>
+  <string id="st_name_chock">
+    <text>choke</text>
+  </string>
+  <string id="st_name_ejector">
+    <text>ejector</text>
+  </string>
+  <string id="st_name_extractor">
+    <text>extractor</text>
+  </string>
+  <string id="st_name_gas_tube">
+    <text>gas block</text>
+  </string>
+  <string id="st_name_hammers">
+    <text>hammer</text>
+  </string>
+  <string id="st_name_issues">
+    <text>CONDITION:</text>
+  </string>
+  <string id="st_name_pump">
+    <text>pump-action mechanism</text>
+  </string>
+  <string id="st_name_spring">
+    <text>recoil mechanism</text>
+  </string>
+  <string id="st_name_trigger">
+    <text>trigger mechanism</text>
+  </string>
+  <string id="st_news_cleaned">
+    <text>Cleaned parts:</text>
+  </string>
+  <string id="st_news_fieldstrip">
+    <text>Removed parts:</text>
+  </string>
+  <string id="st_news_parts_alreadygood">
+    <text>This part does not need replacing.</text>
+  </string>
+  <string id="st_news_parts_barrel">
+    <text>%c[d_red]The barrel cannot be replaced in the field.</text>
+  </string>
+  <string id="st_news_parts_fail">
+    <text>%c[d_red]A better-quality part is already installed on this weapon.</text>
+  </string>
+  <string id="st_news_parts_incompatible">
+    <text>%c[d_red]This part is incompatible with this weapon.</text>
+  </string>
+  <string id="st_news_parts_repair_success">
+    <text>Successfully repaired: </text>
+  </string>
+  <string id="st_news_parts_rusty">
+    <text>%c[d_red]This weapon is too rusty to disassemble in the field.</text>
+  </string>
+  <string id="st_news_parts_success">
+    <text>%c[d_green]Part replaced successfully.</text>
+  </string>
+  <string id="st_news_parts_trigger">
+    <text>%c[d_red]The trigger mechanism cannot be replaced in the field.</text>
+  </string>
+  <string id="st_partskit">
+    <text>Weapon component repair kit</text>
+  </string>
+  <string id="st_partskit_descr">
+    <text>A high-tech tool kit containing micro-files, metal epoxy for cold welding, an electrolysis bath setup, and plenty of lubricants, gasoline distillates and other solvents. These tools could turn a Lada engine into a Ferrari, let alone repair other machine components. Only the most ruined scrap metal cannot be restored with this kit. It is very difficult to assemble in the Zone, so technicians sell it in very limited quantities.\n\n</text>
+  </string>
+  <string id="st_wpn_service_cost">
+    <text>Service cost:</text>
+  </string>
+  <string id="st_wpn_service_dropdown">
+    <text>Parts service menu</text>
+  </string>
+  <string id="st_wpn_service_hint">
+    <text>Parts service</text>
+  </string>
+  <string id="st_wpo_repair">
+    <text>restore 25% condition: </text>
+  </string>
+  <string id="ui_mcm_lst_easy">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_eng">
+    <text>English</text>
+  </string>
+  <string id="ui_mcm_lst_hard">
+    <text>Hard</text>
+  </string>
+  <string id="ui_mcm_lst_no">
+    <text>Duty</text>
+  </string>
+  <string id="ui_mcm_lst_ofc">
+    <text>Freedom</text>
+  </string>
+  <string id="ui_mcm_lst_rus">
+    <text>Russian</text>
+  </string>
+  <string id="ui_mcm_lst_vanilla">
+    <text>Vanilla</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_full">
+    <text>All</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_none">
+    <text>None</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_yes">
+    <text>Loners</text>
+  </string>
+  <string id="ui_mcm_menu_wpo">
+    <text>WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpoecon">
+    <text>WPO economy</text>
+  </string>
+  <string id="ui_mcm_menu_wpojam">
+    <text>WPO jamming</text>
+  </string>
+  <string id="ui_mcm_menu_wpomisc">
+    <text>WPO miscellaneous</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode">
+    <text>Child mode (no jams)</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode_desc">
+    <text>Why?</text>
+  </string>
+  <string id="ui_mcm_wpo_title">
+    <text>Weapon Parts Overhaul settings</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon">
+    <text>Economy settings</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll">
+    <text>Weighted distribution of component condition</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+    <text>Uses a new formula for weapon-part drops. Weapon condition determines whether the dropped parts are in good or poor condition. Lower values improve drop quality; higher values reduce it.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll">
+    <text>Weighted distribution of weapon condition</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll_desc">
+    <text>Distributes weapon condition in the world using Lagrange interpolation. It lowers overall loot quality and encourages scavenging. Works well with the next option.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation">
+    <text>Rain degradation multiplier</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation_desc">
+    <text>Weapon degradation multiplier when used in the rain.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easybarrel">
+    <text>Replace barrels without a workbench.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easytrigger">
+    <text>Replace trigger mechanisms without a workbench.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice">
+    <text>Technician service level</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+    <text>Determines the service level provided by technicians.	
+        \n\n Weapon cleaning only: Restores only the basic weapon condition.
+        \n\n +Part cleaning: Restores the basic weapon condition and cleans parts if needed.
+        \n\n Full service: Restores basic condition, repairs and replaces parts.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart">
+    <text>Minimum condition of parts for sale</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart_desc">
+    <text>Minimum condition required for ALL weapon components to be accepted by traders. If even ONE component is below this value, they will not buy the weapon. Set to 0 to disable this check.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit">
+    <text>Repair kits restore components</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+    <text>Repair kits restore weapon components (up to 100%). If disabled, they only add 25% condition. Leaving this option off makes the game more challenging.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype">
+    <text>Weapon sales rules</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype_desc">
+    <text>Choose how weapon sales work:\n \n
+			- Vanilla: Weapons sell for a price based on their condition (unbalanced).\n
+			- Normal: The sale price depends on each part's condition, treating parts as broken or intact (60% or higher). Recommended.\n
+			- Hard: Every part must be intact (over 60%) to sell the weapon.\n
+			Note: Any missing part makes the weapon unsellable, regardless of the rules above.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold">
+    <text>Part damage condition threshold</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold_desc">
+    <text>Weapon condition at which parts may be damaged. The lower the value, the more damaged the weapon must be before its parts start taking damage.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam">
+    <text>Weapon jamming settings</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat">
+    <text>Enable weapon overheating</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat_desc">
+    <text>Weapons heat up as they are fired, affecting degradation speed, jam chance and damage to internal components.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance">
+    <text>Jamming chance multiplier</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance_desc">
+    <text>Multiplier for the chance of the new weapon-jamming mechanic.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_keybind">
+    <text>Unjam key</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo">
+    <text>Old ammunition affects degradation</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo_desc">
+    <text>Old ammunition increases barrel wear and the chance of a jam.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam">
+    <text>Eject magazine on severe jam</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam_desc">
+    <text>When enabled, pressing reload (R by default) while the weapon is severely jammed ejects the magazine. No need to fumble through the inventory.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam">
+    <text>Allow severe jams</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam_desc">
+    <text>Enables or disables the so-called “severe jam”. When it happens, the weapon must be completely unloaded.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc">
+    <text>Miscellaneous settings</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug">
+    <text>Debug log</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug_desc">
+    <text>Additional debug information written to the game log.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_display">
+    <text>Display part condition</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_fun">
+    <text>Fun level</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity">
+    <text>Weapon-jam swearing</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_desc">
+    <text>Enables colorful language when a weapon jams.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_language">
+    <text>Swearing language</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+    <text>Reduce swearing frequency</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+    <text>Adds a delay between swearing lines when weapon-jam swearing is enabled. Use it if you're having too much fun.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity">
+    <text>Jamming notification detail</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+    <text>Displays weapon-jam messages in the interface. Three levels:\nNone: only notify when the weapon jams due to its overall condition, to avoid confusion.\nNormal (recommended): notify when a jam occurs and when it is cleared.\nAll: also notify about severe jams and damage to components.</text>
+  </string>
+  <string id="ui_st_functional">
+    <text>Weapon is ready to fire</text>
+  </string>
+  <string id="ui_st_heat1">
+    <text>, but warm.</text>
+  </string>
+  <string id="ui_st_heat2">
+    <text>, but hot!</text>
+  </string>
+  <string id="ui_st_heat3">
+    <text>, but very hot!</text>
+  </string>
+  <string id="ui_st_jam">
+    <text>Weapon jammed!</text>
+  </string>
+  <string id="ui_st_misfire">
+    <text>Weapon misfired!</text>
+  </string>
+  <string id="ui_st_missing">
+    <text>Weapon components are missing.</text>
+  </string>
+  <string id="ui_st_mockery_1">
+    <text>Your weapon would jam every time, but that seems too much for you.</text>
+  </string>
+  <string id="ui_st_mockery_2">
+    <text>Prefer easy repairs?</text>
+  </string>
+  <string id="ui_st_mockery_3">
+    <text>Why not raise your carry weight to 600 while you're at it?</text>
+  </string>
+  <string id="ui_st_mockery_4">
+    <text>You're disappointing me.</text>
+  </string>
+  <string id="ui_st_nothing">
+    <text>There is no firearm in your hands.</text>
+  </string>
+  <string id="ui_st_oldjam">
+    <text>The weapon jammed due to its poor condition. Reload it.</text>
+  </string>
+  <string id="ui_st_parts_damage">
+    <text>Internal weapon components are damaged.</text>
+  </string>
+  <string id="ui_st_superjam">
+    <text>Weapon is badly jammed!</text>
+  </string>
+  <string id="ui_st_unjam">
+    <text>Weapon unjammed.</text>
+  </string>
+  <string id="ui_st_unjam_fail">
+    <text>Weapon is badly jammed — unload the magazine, then cycle the action.</text>
+  </string>
+</string_table>

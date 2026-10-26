@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_visbody_no_model_msg">
+    <text>VISIBLE BODY: WARNUNG: Modell nicht gefunden: </text>
+  </string>
+  <string id="st_visbody_no_model_msg_2">
+    <text>VISIBLE BODY: Falls dies beim letzten Laden nicht auftrat, Outfit erneut anlegen und speichern.</text>
+  </string>
+  <string id="st_visbody_no_sec_msg">
+    <text>VISIBLE BODY: WARNUNG: Outfit-Body-Konfigurationsabschnitt nicht gefunden: </text>
+  </string>
+  <string id="ui_mcm_menu_swm_legs">
+    <text>SWM Visible Body</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled">
+    <text>Körperanzeige deaktivieren (sichere Deinstallation; siehe Beschreibung)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled_desc">
+    <text>Mit dieser Option lässt sich das Add-on sicher deinstallieren.\n1) Aktivieren Sie die Option.\n2) Prüfen Sie, ob das Körpermodell verschwunden ist.\n3) Speichern Sie, beenden Sie das Spiel und deaktivieren Sie das Add-on.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood">
+    <text>(Experimentell) Blutspuren am Körper aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood_desc">
+    <text>Starke Treffer können Blutspuren hinterlassen. Engine-Grenzen machen sie unregelmäßig oder kurzlebig; die Anpassung ist noch eingeschränkt.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_debug_warnings">
+    <text>Debug-Warnungen aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt">
+    <text>(Experimentell) Schmutzspuren am Körper aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt_desc">
+    <text>Beim Gehen auf Erde oder im Wasser kann Schmutz am Körper erscheinen. Engine-Grenzen machen den Effekt unregelmäßig oder kurzlebig; Anpassung unvollständig.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims">
+    <text>Zufällige Leerlaufanimationen aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims_desc">
+    <text>Wenn die Figur stillsteht, werden nach einer Pause Leerlaufanimationen abgespielt. Sie laufen nur beim Blick nach unten und werden von einem leisen Bewegungsgeräusch begleitet.\nHinweise:\n1) Die Option ist für den aktivierten Kampf-/Ruhezustand gedacht und sieht damit besser aus.\n2) Änderungen an der Pausendauer können verzögert wirksam werden.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+    <text>Körper in tiefer Hocke ausblenden</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_max_cooldown">
+    <text>Maximalpause zwischen Leerlaufanimationen</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_min_cooldown">
+    <text>Mindestpause zwischen Leerlaufanimationen (Sek.)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset">
+    <text>Körperposition (näher/weiter von der Bildschirmmitte)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_noncombat">
+    <text>Körperposition (näher/weiter) im Ruhezustand</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_side">
+    <text>Körperposition (links/rechts)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_title">
+    <text>SWM Visible Body. Portiert aus Shoker Weapon Mod (CoP) von Shoker und Mitwirkenden.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+    <text>Schrittgeräusche beim Drehen aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo">
+    <text>Exoskelett-Schritte beim Drehen aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo_desc">
+    <text>Ergänzt normale Schritte um Exoservo-Geräusche.\nExo Servo Sounds erforderlich.\nLautstärke dort einstellen.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_turn_step_sound_volume">
+    <text>Schrittlautstärke</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state">
+    <text>Kampf- und Ruhezustände aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state_desc">
+    <text>Ist die Option aktiv, werden einige Körperanimationen durch neue ersetzt, wenn sich die Figur nicht im Kampfzustand befindet (sie hält eine Waffe, senkt sie nicht oder kämpft).\nIst sie deaktiviert, werden nur die Standardanimationen abgespielt.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_hd_models">
+    <text>HD-Modelle verwenden (HD Models Pack-Erweiterung erforderlich!)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state">
+    <text>Verlangsamte Bewegungszustände aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state_desc">
+    <text>Aktiviert hängen einige Animationen vom Tempo ab. Bei langsamem Sprint kann Joggen abgespielt werden.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_special_noncombat_shift">
+    <text>Spezielle Körperposition im Ruhezustand verwenden</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled">
+    <text>Optische Rüstungsverbesserungen aktivieren</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled_desc">
+    <text>Wenn Ihre Kleidung eine Rüstungsverbesserung hat, wird eine Schutzweste angezeigt.\nDerzeit ist dies nur bei einigen Jacken und SSP-99-Anzügen umgesetzt.</text>
+  </string>
+</string_table>

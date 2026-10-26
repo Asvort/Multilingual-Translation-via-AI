@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Smart-Terrain-Prüfintervall (Sekunden)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>Wie oft jedes aktive Smart-Terrain auf NPC-Aufgabenwechsel geprüft wird.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Animpoints (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Höchstdauer, für die ein freier Animpoint für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Animpoints (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Mindestdauer, für die ein freier Animpoint für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Verhaltensauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Höchstdauer, für die ein freier Verhaltensauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Verhaltensauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Mindestdauer, für die ein freier Verhaltensauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Lagerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Höchstdauer, für die ein freier Lagerauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Lagerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Mindestdauer, für die ein freier Lagerauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Sammlerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Höchstdauer, für die ein freier Sammlerauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Sammlerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Mindestdauer, für die ein freier Sammlerauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Legt fest, wie lange eine freie Aufgabe nicht verfügbar bleibt, bevor ein anderer NPC sie über Intelligente Aktivität wieder übernehmen kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Wachauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Höchstdauer, für die ein freier Wachauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Wachauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Mindestdauer, für die ein freier Wachauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Abklingzeiten für Aufgaben</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Patrouillenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Höchstdauer, für die ein freier Patrouillenauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Patrouillenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Mindestdauer, für die ein freier Patrouillenauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Schlafauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Höchstdauer, für die ein freier Schlafauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Schlafauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Mindestdauer, für die ein freier Schlafauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Smart-Cover-Auftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Höchstdauer, für die ein freier Smart-Cover-Auftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Smart-Cover-Auftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Mindestdauer, für die ein freier Smart-Cover-Auftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Scharfschützenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Höchstdauer, für die ein freier Scharfschützenauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Scharfschützenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Mindestdauer, für die ein freier Scharfschützenauftrag für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Maximale Wartezeit bis zur erneuten Vergabe des Streifzugs (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Höchstdauer, für die ein freier Streifzug für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Mindestwartezeit bis zur erneuten Vergabe des Streifzugs (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Mindestdauer, für die ein freier Streifzug für Intelligente Aktivität nicht verfügbar ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Debug-Ausgaben</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Schreibt jeden erfolgreichen dynamischen Aufgabenwechsel ins Protokoll. Während des Betatests empfohlen.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Intelligente Aktivität aktivieren</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Aktiviert oder deaktiviert den dynamischen Aufgabenwechsel auf Smart-Terrains für unterstützte Simulations-NPCs.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Allgemeine Einstellungen</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Intelligente Aktivität</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>ANIMPOINT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>VERHALTEN</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>CAMPER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>SAMMLER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>WACHE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>PATROUILLE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>SCHLAFEN</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>SMART COVER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>SCHARFSCHÜTZE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>UMHERSTREIFER</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Wartezeit bis zum nächsten Versuch (Sekunden)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Wie lange ein NPC wartet, bevor er es erneut versucht, wenn keine passende neue Aufgabe verfügbar oder der Wechsel vorübergehend blockiert ist.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Höchstdauer des Animpoint-Auftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Höchstdauer, die ein NPC einen Animpoint-Auftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Mindestdauer des Animpoint-Auftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Mindestdauer, die ein NPC einen Animpoint-Auftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Höchstdauer des Verhaltensauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Höchstdauer, die ein NPC einen Verhaltensauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Mindestdauer des Verhaltensauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Mindestdauer, die ein NPC einen Verhaltensauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Höchstdauer des Lagerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Höchstdauer, die ein NPC einen Lagerauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Mindestdauer des Lagerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Mindestdauer, die ein NPC einen Lagerauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Höchstdauer des Sammlerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Höchstdauer, die ein NPC einen Sammlerauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Mindestdauer des Sammlerauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Mindestdauer, die ein NPC einen Sammlerauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Legt fest, wie lange ein NPC eine Aktivität normalerweise ausführt, bevor er zu einer anderen verfügbaren Aufgabe wechselt.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Höchstdauer des Wachauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Höchstdauer, die ein NPC Wache hält, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Mindestdauer des Wachauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Mindestdauer, die ein NPC Wache hält, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Aufgabendauer</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Höchstdauer des Patrouillenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Höchstdauer, die ein NPC einen Patrouillenauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Mindestdauer des Patrouillenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Mindestdauer, die ein NPC einen Patrouillenauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Höchstdauer des Schlafauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Höchstdauer, die ein NPC einen Schlafauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Mindestdauer des Schlafauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Mindestdauer, die ein NPC einen Schlafauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Höchstdauer des Smart-Cover-Auftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Höchstdauer, die ein NPC einen Smart-Cover-Auftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Mindestdauer des Smart-Cover-Auftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Mindestdauer, die ein NPC einen Smart-Cover-Auftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Höchstdauer des Scharfschützenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Höchstdauer, die ein NPC einen Scharfschützenauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Mindestdauer des Scharfschützenauftrags (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Mindestdauer, die ein NPC einen Scharfschützenauftrag ausführt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Höchstdauer des Streifzugs (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Höchstdauer, die ein NPC auf Streife bleibt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Mindestdauer des Streifzugs (Minuten)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Mindestdauer, die ein NPC auf Streife bleibt, bevor er wechseln kann.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Abklingzeiten für Aufgaben</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>Allgemein</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Aufenthaltsdauer bei Aufgaben</text>
+  </string>
+</string_table>

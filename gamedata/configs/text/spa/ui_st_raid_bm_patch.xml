@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bm_already_bought">
+    <text>Comprado</text>
+  </string>
+  <string id="st_bm_authority_low">
+    <text>Autoridad insuficiente.</text>
+  </string>
+  <string id="st_bm_authority_required">
+    <text>Autoridad: %s</text>
+  </string>
+  <string id="st_bm_delivery_arrived">
+    <text>Pedidos entregados: %d. Recógelos del alijo.</text>
+  </string>
+  <string id="st_bm_delivery_comment_1">
+    <text>No lo pierdas. No conseguiremos otro.</text>
+  </string>
+  <string id="st_bm_delivery_comment_2">
+    <text>Funciona. Probado con alguien vivo.</text>
+  </string>
+  <string id="st_bm_delivery_comment_3">
+    <text>Todo quedó oculto. No lo viste y no te conocemos.</text>
+  </string>
+  <string id="st_bm_delivery_comment_4">
+    <text>Por ese dinero, podrías hacer una reverencia.</text>
+  </string>
+  <string id="st_bm_delivery_comment_5">
+    <text>No hay rastro. Haz como si hubiera aparecido solo.</text>
+  </string>
+  <string id="st_bm_delivery_comment_6">
+    <text>No me des las gracias. Mejor vuelve con dinero.</text>
+  </string>
+  <string id="st_bm_delivery_elapsed">
+    <text>Tiempo de espera: %d h</text>
+  </string>
+  <string id="st_bm_delivery_item">
+    <text>Artículo: %s</text>
+  </string>
+  <string id="st_bm_delivery_item_short">
+    <text>- %s (%d h)</text>
+  </string>
+  <string id="st_bm_delivery_label">
+    <text>Entrega: %d h</text>
+  </string>
+  <string id="st_bm_delivery_ready_hdr">
+    <text>NaData -- pedido listo</text>
+  </string>
+  <string id="st_bm_delivery_ready_hdr_multi">
+    <text>NaData -- pedidos listos: %d</text>
+  </string>
+  <string id="st_bm_exchange_btn">
+    <text>Canjear (+%d %s)</text>
+  </string>
+  <string id="st_bm_exchanged">
+    <text>Intercambio: +%d %s</text>
+  </string>
+  <string id="st_bm_flash_sale_label">
+    <text>Oferta | quedan %d h</text>
+  </string>
+  <string id="st_bm_flash_sale_notify">
+    <text>NaData \nOferta. %s disponible durante %d h. Date prisa.</text>
+  </string>
+  <string id="st_bm_greet_1">
+    <text>¿Qué quieres? Tienes la tienda delante, no te entretengas.</text>
+  </string>
+  <string id="st_bm_greet_2">
+    <text>Ah, otra vez tú. ¿Esta vez tienes dinero?</text>
+  </string>
+  <string id="st_bm_greet_3">
+    <text>Pasa. Pero nada de tonterías como la última vez.</text>
+  </string>
+  <string id="st_bm_greet_4">
+    <text>Qué tal, vagabundo. ¿Vienes por algo o solo pasabas?</text>
+  </string>
+  <string id="st_bm_greet_5">
+    <text>Cuánto tiempo. ¿Cómo te va?</text>
+  </string>
+  <string id="st_bm_greet_6">
+    <text>Buenas. Mira lo que llegó hoy.</text>
+  </string>
+  <string id="st_bm_greet_7">
+    <text>Has venido. Bien. Hay un asunto que hablaremos luego.</text>
+  </string>
+  <string id="st_bm_greet_8">
+    <text>Justo te esperábamos. Mira lo que apartamos.</text>
+  </string>
+  <string id="st_bm_greet_9">
+    <text>Llegó el jefe. La tienda es tuya, toma lo que quieras.</text>
+  </string>
+  <string id="st_bm_lvl_1">
+    <text>desconocido</text>
+  </string>
+  <string id="st_bm_lvl_2">
+    <text>don nadie</text>
+  </string>
+  <string id="st_bm_lvl_3">
+    <text>mensajero</text>
+  </string>
+  <string id="st_bm_lvl_4">
+    <text>de confianza</text>
+  </string>
+  <string id="st_bm_lvl_5">
+    <text>cliente</text>
+  </string>
+  <string id="st_bm_lvl_6">
+    <text>de los nuestros</text>
+  </string>
+  <string id="st_bm_lvl_7">
+    <text>cómplice</text>
+  </string>
+  <string id="st_bm_lvl_8">
+    <text>sombra</text>
+  </string>
+  <string id="st_bm_lvl_9">
+    <text>autoridad</text>
+  </string>
+  <string id="st_bm_misc_barrier_device_src">
+    <text>Dispositivo de barrera de origen desconocido</text>
+  </string>
+  <string id="st_bm_misc_bread_rosary_src">
+    <text>Rosario de pan, bendecido en alguna anomalía</text>
+  </string>
+  <string id="st_bm_misc_camera_lens_src">
+    <text>Objetivo de una cámara cara, casi intacto</text>
+  </string>
+  <string id="st_bm_misc_cassette_src">
+    <text>Casete vieja con grabaciones, hallada entre chatarra</text>
+  </string>
+  <string id="st_bm_misc_chimera_statuette_src">
+    <text>Figura de quimera de plata, muy detallada</text>
+  </string>
+  <string id="st_bm_misc_lab_disc_src">
+    <text>Disco con datos de laboratorio, clasificado</text>
+  </string>
+  <string id="st_bm_misc_medal_src">
+    <text>Medalla de combate grabada, historia ajena</text>
+  </string>
+  <string id="st_bm_misc_nato_battery_src">
+    <text>Batería de estándar OTAN, una rareza</text>
+  </string>
+  <string id="st_bm_misc_religious_icon_src">
+    <text>Icono antiguo envuelto en papel de aluminio</text>
+  </string>
+  <string id="st_bm_misc_walkman_src">
+    <text>Reproductor portátil que milagrosamente funciona en la Zona</text>
+  </string>
+  <string id="st_bm_no_money">
+    <text>Fondos insuficientes.</text>
+  </string>
+  <string id="st_bm_order_btn">
+    <text>PEDIR</text>
+  </string>
+  <string id="st_bm_order_pending">
+    <text>En camino: quedan unas %d h</text>
+  </string>
+  <string id="st_bm_order_placed">
+    <text>Pedido realizado. Plazo de entrega: %d h.</text>
+  </string>
+  <string id="st_bm_order_ready">
+    <text>Pedido listo</text>
+  </string>
+  <string id="st_bm_picked_up">
+    <text>Pedido recogido.</text>
+  </string>
+  <string id="st_bm_pickup_btn">
+    <text>RECOGER</text>
+  </string>
+  <string id="st_bm_price_decay_label">
+    <text>-%d%% (precio rebajado)</text>
+  </string>
+  <string id="st_bm_purchased">
+    <text>Lote comprado. -%d %s</text>
+  </string>
+  <string id="st_bm_quest_label">
+    <text>Pedido especial, %d h</text>
+  </string>
+  <string id="st_bm_rank_low">
+    <text>Rango bajo</text>
+  </string>
+  <string id="st_bm_rotation_next">
+    <text>Renovación en: %d h</text>
+  </string>
+  <string id="st_bm_rotation_notify_1">
+    <text>NaData \nCambió el surtido. Pásate antes de que se agote.</text>
+  </string>
+  <string id="st_bm_rotation_notify_2">
+    <text>NaData \nLlegaron cosas interesantes. No durarán mucho.</text>
+  </string>
+  <string id="st_bm_rotation_notify_3">
+    <text>NaData \nHay mercancía nueva. No te duermas o volará.</text>
+  </string>
+  <string id="st_bm_rotation_notify_4">
+    <text>NaData \nLlegó el nuevo surtido. Si tienes dinero, ya sabes dónde ir.</text>
+  </string>
+  <string id="st_bm_rotation_notify_5">
+    <text>NaData \nLlegó mercancía fresca. Pásate, quizá te sirva algo.</text>
+  </string>
+  <string id="st_bm_rotation_notify_6">
+    <text>NaData \nLo anterior se agotó. Mira tú mismo qué llegó.</text>
+  </string>
+  <string id="st_bm_rotation_notify_7">
+    <text>NaData \nLlegó algo nuevo. Luego no digas que nadie te avisó.</text>
+  </string>
+  <string id="st_bm_rotation_notify_8">
+    <text>NaData \nCambió la vitrina. Si llegas tarde, no te quejes.</text>
+  </string>
+  <string id="st_bm_sell_btn_eur">
+    <text>Vender (%d EUR)</text>
+  </string>
+  <string id="st_bm_sell_btn_usd">
+    <text>Vender (%d USD)</text>
+  </string>
+  <string id="st_bm_sell_no_items">
+    <text>No tienes nada vendible en el inventario.</text>
+  </string>
+  <string id="st_bm_sold">
+    <text>Vendido: +%d %s</text>
+  </string>
+  <string id="st_bm_src_01">
+    <text>Hallado en un cadáver de un búnker abandonado</text>
+  </string>
+  <string id="st_bm_src_02">
+    <text>Contrabando de la frontera del Valle Oscuro</text>
+  </string>
+  <string id="st_bm_src_03">
+    <text>Archivo de un sótano de Prípiat</text>
+  </string>
+  <string id="st_bm_src_04">
+    <text>De un lote retirado del suministro</text>
+  </string>
+  <string id="st_bm_src_05">
+    <text>Incautado a la banda CPK, Valle Oscuro</text>
+  </string>
+  <string id="st_bm_src_06">
+    <text>Hallado en un sótano entre trofeos</text>
+  </string>
+  <string id="st_bm_src_07">
+    <text>Interceptado en la ruta a la base báltica</text>
+  </string>
+  <string id="st_bm_src_08">
+    <text>Hallado averiado y reparado por particulares</text>
+  </string>
+  <string id="st_bm_src_09">
+    <text>Se vendió una vez y se revendió muchas más</text>
+  </string>
+  <string id="st_bm_src_10">
+    <text>Quitado a un stalker cerca del Vertedero</text>
+  </string>
+  <string id="st_bm_src_11">
+    <text>Comprado discretamente a un grupo ISG</text>
+  </string>
+  <string id="st_bm_src_12">
+    <text>Conseguido en Limansk, con esfuerzo</text>
+  </string>
+  <string id="st_bm_src_13">
+    <text>Lista de personal militar</text>
+  </string>
+  <string id="st_bm_src_14">
+    <text>Carga de contrabandistas interceptada</text>
+  </string>
+  <string id="st_bm_src_15">
+    <text>Nunca nos hagas preguntas</text>
+  </string>
+  <string id="st_bm_src_16">
+    <text>Simplemente lo guardé. No preguntes.</text>
+  </string>
+  <string id="st_bm_temp_unavail">
+    <text>Temporalmente no disponible</text>
+  </string>
+  <string id="st_bm_uniq_ammo_gauss_descr">
+    <text>Munición para el rifle electromagnético. Extremadamente rara. La encontramos y ni sabemos dónde. Cómprala mientras haya.</text>
+  </string>
+  <string id="st_bm_uniq_ammo_gauss_name">
+    <text>Munición Gauss (5 uds.)</text>
+  </string>
+  <string id="st_bm_uniq_card_agr_descr">
+    <text>Tarjeta magnética para los subterráneos de Agroprom. Su antiguo dueño no volverá allí.</text>
+  </string>
+  <string id="st_bm_uniq_card_agr_name">
+    <text>Tarjeta de acceso: AGROPROM</text>
+  </string>
+  <string id="st_bm_uniq_card_jup_descr">
+    <text>Pase a los subterráneos de Júpiter. Quienes lo sacaron repartieron el precio y nunca volvieron.</text>
+  </string>
+  <string id="st_bm_uniq_card_jup_name">
+    <text>Tarjeta de acceso: Júpiter</text>
+  </string>
+  <string id="st_bm_uniq_card_x18_descr">
+    <text>Llave electrónica del laboratorio X-18. Se consiguió en el Valle Oscuro; mejor no preguntes a qué precio.</text>
+  </string>
+  <string id="st_bm_uniq_card_x18_name">
+    <text>Tarjeta de acceso: X-18</text>
+  </string>
+  <string id="st_bm_uniq_exo_csky_descr">
+    <text>El exoesqueleto de Cielo Despejado es uno de los más antiguos de la Zona. Restaurado a su estado de fábrica.</text>
+  </string>
+  <string id="st_bm_uniq_exo_csky_name">
+    <text>Exoesqueleto de Cielo Despejado CH-5</text>
+  </string>
+  <string id="st_bm_uniq_exo_greh_descr">
+    <text>Exoesqueleto con insignias del Pecado: pesado, blindado y sin concesiones. Las balas no lo detienen, y la conciencia tampoco.</text>
+  </string>
+  <string id="st_bm_uniq_exo_greh_name">
+    <text>Exoesqueleto del Pecado</text>
+  </string>
+  <string id="st_bm_uniq_exo_isg_descr">
+    <text>Exoesqueleto de combate de ISG. Nos llegó por fuera de todos los canales; no cualquiera puede llevarlo.</text>
+  </string>
+  <string id="st_bm_uniq_exo_isg_name">
+    <text>Exoesqueleto de ISG</text>
+  </string>
+  <string id="st_bm_uniq_gauss_descr">
+    <text>Rifle electromagnético experimental. Conseguir munición es otro problema.</text>
+  </string>
+  <string id="st_bm_uniq_gauss_name">
+    <text>Rifle Gauss</text>
+  </string>
+  <string id="st_bm_uniq_hyena_descr">
+    <text>Está aquí como si esperara a su dueño. Gracias por el lote.</text>
+  </string>
+  <string id="st_bm_uniq_hyena_name">
+    <text>Hiena</text>
+  </string>
+  <string id="st_bm_uniq_kar98_hunter_descr">
+    <text>Obra del Guardabosques: un Mauser restaurado con óptica japonesa March. Dice que es para cazar intrusos en el Bosque Rojo.</text>
+  </string>
+  <string id="st_bm_uniq_kar98_hunter_name">
+    <text>Mauser Kar98 Retrotac</text>
+  </string>
+  <string id="st_bm_uniq_karatysh_descr">
+    <text>PKM acortado con accesorios Zenit. Potencia de ametralladora en el tamaño de un fusil de asalto.</text>
+  </string>
+  <string id="st_bm_uniq_karatysh_name">
+    <text>PKM Karatysh</text>
+  </string>
+  <string id="st_bm_uniq_m24_green_descr">
+    <text>Rifle de francotirador militar con camuflaje verde. Su dueño anterior cambió de profesión para siempre.</text>
+  </string>
+  <string id="st_bm_uniq_m24_green_name">
+    <text>M24 con camuflaje verde</text>
+  </string>
+  <string id="st_bm_uniq_m82_descr">
+    <text>Rifle semiautomático de gran calibre. Atraviesa todo lo que encuentres en la Zona. No preguntes de dónde salió.</text>
+  </string>
+  <string id="st_bm_uniq_m82_name">
+    <text>Barrett M82</text>
+  </string>
+  <string id="st_bm_uniq_m98b_descr">
+    <text>Rifle de cerrojo .338 Lapua de alta precisión para largas distancias. No incluye mira.</text>
+  </string>
+  <string id="st_bm_uniq_m98b_name">
+    <text>Barrett M98B</text>
+  </string>
+  <string id="st_bm_uniq_nosorog_monolit_descr">
+    <text>Un Nosorog con marcas del Monolito. Se lo quitamos a quienes creían y ya no creen. La entrega nos costó tres hombres.</text>
+  </string>
+  <string id="st_bm_uniq_nosorog_monolit_name">
+    <text>Armadura del Monolito</text>
+  </string>
+  <string id="st_bm_uniq_rd47_descr">
+    <text>AKM personalizado de Rifle Dynamics con accesorios de ISG. Interceptado junto con un cargamento de equipo en el Cordón.</text>
+  </string>
+  <string id="st_bm_uniq_rd47_name">
+    <text>AKM RD47 (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rd74m_isg_descr">
+    <text>Fusil de asalto ISG de tamaño completo, del mismo lote que el modelo acortado. Interceptado en una ruta de suministro.</text>
+  </string>
+  <string id="st_bm_uniq_rd74m_isg_name">
+    <text>AK-74M Escarcha (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rd74u_isg_descr">
+    <text>Fusil acortado de una unidad de combate de ISG. Número de serie limado; no hagas preguntas.</text>
+  </string>
+  <string id="st_bm_uniq_rd74u_isg_name">
+    <text>AKS-74U Escarcha (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rd9x39_isg_descr">
+    <text>Vintorez adaptado al cartucho de alta potencia de ISG. No debería estar a la venta, por eso está aquí.</text>
+  </string>
+  <string id="st_bm_uniq_rd9x39_isg_name">
+    <text>Vintorez 9x39 (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_rsh12_descr">
+    <text>Revólver de asalto de 12,7 mm desarrollado por TsKIB para operaciones especiales en espacios cerrados. Se lo quitaron a un agente en Limansk.</text>
+  </string>
+  <string id="st_bm_uniq_rsh12_name">
+    <text>RSh-12</text>
+  </string>
+  <string id="st_bm_uniq_saiga_isg_descr">
+    <text>Saiga táctica con accesorios de ISG. Llegó en un cargamento que debía salir del país y nunca lo hizo.</text>
+  </string>
+  <string id="st_bm_uniq_saiga_isg_name">
+    <text>Saiga-12 Táctica (ISG)</text>
+  </string>
+  <string id="st_bm_uniq_shak12_descr">
+    <text>Sistema de asalto 12.7x55 para combatir en edificios donde las paredes no protegen. Del mismo lote que el Vykhlop.</text>
+  </string>
+  <string id="st_bm_uniq_shak12_name">
+    <text>ShAK-12</text>
+  </string>
+  <string id="st_bm_uniq_vintorez_merk_descr">
+    <text>Variante mercenaria del Vintorez, más ligera y ergonómica. El dueño anterior no terminó el contrato.</text>
+  </string>
+  <string id="st_bm_uniq_vintorez_merk_name">
+    <text>VSS Mercenario</text>
+  </string>
+  <string id="st_bm_uniq_vss_savant_descr">
+    <text>Vintorez mejorado con silenciador perfeccionado. El dueño anterior no vivió para recogerlo del taller.</text>
+  </string>
+  <string id="st_bm_uniq_vss_savant_name">
+    <text>VSS Vintorez M1</text>
+  </string>
+  <string id="st_bm_uniq_vssk_descr">
+    <text>Rifle de francotirador silenciado de 12,7 mm, más silencioso que algunos Vintorez. De un arsenal que ya nadie vigila.</text>
+  </string>
+  <string id="st_bm_uniq_vssk_name">
+    <text>VSSK Vykhlop</text>
+  </string>
+  <string id="st_raid_bm_balance_label">
+    <text>Saldo</text>
+  </string>
+  <string id="st_raid_bm_buy_btn">
+    <text>COMPRAR</text>
+  </string>
+  <string id="st_raid_bm_disclaimer">
+    <text>La administración no se hace responsable de las operaciones. No hay devoluciones. Buena caza, stalker.</text>
+  </string>
+  <string id="st_raid_bm_empty">
+    <text>Todavía no hay lotes disponibles en esta pestaña. Vuelve más tarde.</text>
+  </string>
+  <string id="st_raid_bm_empty_sell">
+    <text>No hay objetos vendibles en el inventario.</text>
+  </string>
+  <string id="st_raid_bm_entry_label">
+    <text>Mercado negro</text>
+  </string>
+  <string id="st_raid_bm_id">
+    <text>ID</text>
+  </string>
+  <string id="st_raid_bm_id_value">
+    <text>ST-7742</text>
+  </string>
+  <string id="st_raid_bm_kind_armor">
+    <text>Armadura</text>
+  </string>
+  <string id="st_raid_bm_kind_misc">
+    <text>Lote</text>
+  </string>
+  <string id="st_raid_bm_kind_weapon">
+    <text>Arma</text>
+  </string>
+  <string id="st_raid_bm_lot_prefix">
+    <text>LOTE #</text>
+  </string>
+  <string id="st_raid_bm_next_update">
+    <text>Próxima renovación de lotes en: %s</text>
+  </string>
+  <string id="st_raid_bm_rank_label">
+    <text>Rango</text>
+  </string>
+  <string id="st_raid_bm_rank_req_short">
+    <text>Rango</text>
+  </string>
+  <string id="st_raid_bm_rank_required">
+    <text>Rango: %s</text>
+  </string>
+  <string id="st_raid_bm_reserve_label">
+    <text>Reserva</text>
+  </string>
+  <string id="st_raid_bm_slot_prefix">
+    <text>SLOT_</text>
+  </string>
+  <string id="st_raid_bm_source">
+    <text>Origen</text>
+  </string>
+  <string id="st_raid_bm_status_low_rank">
+    <text>Rango bajo</text>
+  </string>
+  <string id="st_raid_bm_status_no_money">
+    <text>Fondos insuficientes</text>
+  </string>
+  <string id="st_raid_bm_status_owned">
+    <text>Ya comprado</text>
+  </string>
+  <string id="st_raid_bm_subtitle">
+    <text>Mercado cerrado. Si conoces el código, conoces las coordenadas.</text>
+  </string>
+  <string id="st_raid_bm_terminal_subtitle">
+    <text>OBJECT 0-21 :: BLACK_MARKET_V2</text>
+  </string>
+  <string id="st_raid_bm_terminal_title">
+    <text>BLACK_MARKET // ZONE_SECTOR_C</text>
+  </string>
+  <string id="st_raid_bm_title">
+    <text>MERCADO</text>
+  </string>
+  <string id="st_raid_bm_title_bot">
+    <text>MERCADO</text>
+  </string>
+  <string id="st_raid_bm_title_full">
+    <text>Mercado negro</text>
+  </string>
+  <string id="st_raid_bm_title_top">
+    <text>NEGRO</text>
+  </string>
+  <string id="st_raid_bm_update_static">
+    <text>Próxima renovación de lotes en: 41:12:05</text>
+  </string>
+  <string id="st_raid_bm_wear">
+    <text>Desgaste</text>
+  </string>
+  <string id="st_raid_rank_experienced">
+    <text>experimentado</text>
+  </string>
+  <string id="st_raid_rank_expert">
+    <text>experto</text>
+  </string>
+  <string id="st_raid_rank_legend">
+    <text>leyenda</text>
+  </string>
+  <string id="st_raid_rank_master">
+    <text>maestro</text>
+  </string>
+  <string id="st_raid_rank_novice">
+    <text>novato</text>
+  </string>
+  <string id="st_raid_rank_professional">
+    <text>profesional</text>
+  </string>
+  <string id="st_raid_rank_trainee">
+    <text>aprendiz</text>
+  </string>
+  <string id="st_raid_rank_veteran">
+    <text>veterano</text>
+  </string>
+</string_table>

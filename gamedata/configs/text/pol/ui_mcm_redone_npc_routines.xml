@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Interwał sprawdzania smart-terrain (sekundy)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>Jak często każdy aktywny smart-terrain jest sprawdzany pod kątem rotacji zadań NPC.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Maksymalny czas odnowienia animpoint (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Maksymalny czas, przez jaki zwolniony animpoint pozostaje niedostępny dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Minimalny czas odnowienia animpoint (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Minimalny czas, przez jaki zwolniony animpoint pozostaje niedostępny dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Maksymalny czas odnowienia zadania zachowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie zachowania pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Minimalny czas odnowienia zadania zachowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie zachowania pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Maksymalny czas odnowienia zadania obozowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie obozowania pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Minimalny czas odnowienia zadania obozowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie obozowania pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Maksymalny czas odnowienia zadania zbieracza (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie zbieracza pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Minimalny czas odnowienia zadania zbieracza (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie zbieracza pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Określa, jak długo zwolnione zadanie pozostaje niedostępne, zanim inny NPC będzie mógł ponownie je wykonać dzięki Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Maksymalny czas odnowienia zadania wartownika (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie wartownika pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Minimalny czas odnowienia zadania wartownika (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie wartownika pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Czasy odnowienia zadań</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Maksymalny czas odnowienia zadania patrolowego (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie patrolowe pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Minimalny czas odnowienia zadania patrolowego (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie patrolowe pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Maksymalny czas odnowienia zadania snu (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie snu pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Minimalny czas odnowienia zadania snu (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie snu pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Maksymalny czas odnowienia zadania inteligentnej osłony (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie inteligentnej osłony pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Minimalny czas odnowienia zadania inteligentnej osłony (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie inteligentnej osłony pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Maksymalny czas odnowienia zadania snajpera (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie snajpera pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Minimalny czas odnowienia zadania snajpera (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie snajpera pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Maksymalny czas odnowienia zadania wędrowca (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Maksymalny czas, przez jaki zwolnione zadanie wędrowca pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Minimalny czas odnowienia zadania wędrowca (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Minimalny czas, przez jaki zwolnione zadanie wędrowca pozostaje niedostępne dla Inteligentnej aktywności.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Debugowanie</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Komunikaty debugowania</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Zapisuje w dzienniku każdą udaną dynamiczną zmianę zadania. Zalecane podczas testów beta.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Debugowanie</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Włącz inteligentną aktywność</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Włącza lub wyłącza dynamiczną rotację zadań na smart-terrain dla obsługiwanych NPC symulacji.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Ustawienia ogólne</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Inteligentna aktywność</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>ANIMPOINT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>ZACHOWANIE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>OBOZOWICZ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>ZBIERACZ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>WARTOWNIK</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>PATROL</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>SEN</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>INTELIGENTNA OSŁONA</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>SNAJPER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>WĘDROWIEC</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Opóźnienie ponowienia (sekundy)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Jak długo NPC czeka przed ponowną próbą, gdy nie ma odpowiedniego nowego zadania lub rotacja jest tymczasowo zablokowana.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Maksymalny czas zadania animpoint (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie animpoint, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Minimalny czas zadania animpoint (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie animpoint, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Maksymalny czas zadania zachowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie zachowania, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Minimalny czas zadania zachowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie zachowania, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Maksymalny czas zadania obozowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie obozowania, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Minimalny czas zadania obozowania (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie obozowania, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Maksymalny czas zadania zbieracza (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie zbieracza, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Minimalny czas zadania zbieracza (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie zbieracza, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Określa, jak długo NPC zwykle wykonuje daną aktywność, zanim przejdzie do innego dostępnego zadania.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Maksymalny czas zadania wartownika (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Maksymalny czas, przez jaki NPC pełni wartę, zanim będzie można zmienić zadanie.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Minimalny czas zadania wartownika (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Minimalny czas, przez jaki NPC pełni wartę, zanim będzie można zmienić zadanie.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Czas wykonywania zadań</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Maksymalny czas zadania patrolowego (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie patrolowe, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Minimalny czas zadania patrolowego (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie patrolowe, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Maksymalny czas zadania snu (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie snu, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Minimalny czas zadania snu (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie snu, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Maksymalny czas zadania inteligentnej osłony (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Maksymalny czas, przez jaki NPC zajmuje pozycję inteligentnej osłony, zanim będzie można ją zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Minimalny czas zadania inteligentnej osłony (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Minimalny czas, przez jaki NPC zajmuje pozycję inteligentnej osłony, zanim będzie można ją zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Maksymalny czas zadania snajpera (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie snajpera, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Minimalny czas zadania snajpera (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie snajpera, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Maksymalny czas zadania wędrowca (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Maksymalny czas, przez jaki NPC wykonuje zadanie wędrowca, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Minimalny czas zadania wędrowca (minuty)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Minimalny czas, przez jaki NPC wykonuje zadanie wędrowca, zanim będzie można je zmienić.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Czas odnowienia zadań</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Debugowanie</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>Ogólne</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Czas wykonywania zadań</text>
+  </string>
+</string_table>

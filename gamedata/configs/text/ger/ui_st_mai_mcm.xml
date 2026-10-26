@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Erkennungsradius (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>Entfernung, aus der NPCs Anomalien erkennen. Höher = frühere Erkennung, aber mehr Einschränkungen. Standard: 30 m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Bei Leichen blockieren</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Verhindert Anomalieauslösung an Leichen. Verhindert Ragdoll-Fehler und verbessert die Leistung.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Verzögerung beim Cache-Neuaufbau (s)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Verzögerung nach Emission oder Psi-Sturm. Für Arrival nötig. Standard: 2,5 s</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Alte Markierungen bereinigen</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Entfernt alte Markierungen. Einschalten, anwenden, wieder ausschalten.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>Im Kampf</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Fehlchance-Multiplikator im Kampf. Abgelenkte NPCs geraten häufiger in Anomalien. Standard: 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Schadenseinstellungen</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Debugmodus</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Protokolliert Erkennung, Schaden und Todesursachen.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Erkennungseinstellungen</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Wirkungsradius (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>NPC außerhalb dieses Radius sind vor Anomalieschaden geschützt. Standard: 300 m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Anzugsschutz</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Verringert Schaden anhand der Anzugschutzwerte für Feuer, Strom, Chemikalien usw.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Allgemeine Einstellungen</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Immun bei 0 % Fehlchance</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>NPCs mit 0 % Basis-Fehlchance sind immun gegen Anomalieschaden.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>MAI aktivieren</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Schaltet MAI ein oder aus. Deaktiviert ignorieren NPCs Anomalien.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Multiplikatoren für Bewegungszustände</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Erfahren</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Basis-Fehlchance für erfahrene Stalker. Standard: 50 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Experte</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Basis-Fehlchance für Experten. Standard: 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Legende</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Basis-Fehlchance für Legenden. Standard: 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Meister</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Basis-Fehlchance für Meister. Standard: 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Anfänger</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Basis-Fehlchance für Anfänger. 100 % bedeutet, dass sie ständig in Anomalien geraten können. Standard: 100 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Profi</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Basis-Fehlchance für Profis. Standard: 25 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Basis-Fehlchance nach Rang (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Anwärter</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Basis-Fehlchance für Anwärter. Standard: 75 %</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Veteran</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Basis-Fehlchance für Veteranen. 0 % bedeutet, dass sie nie in Anomalien geraten. Standard: 0 %</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Globale Wegfindung</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Aktiviert: Alle NPCs meiden Anomalien. Deaktiviert: Einschränkungen nur im Wirkungsradius.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Laufend</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Fehlchance-Multiplikator beim Rennen. Höher = Anomalien werden eher übersehen. Standard: 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Anomalien auf der Karte anzeigen</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Markiert Anomalien aus dem Cache auf dem PDA zur Wegfindungsprüfung. Ausschalten entfernt sie.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Stehend</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Fehlchance-Multiplikator im Stand. Niedriger = aufmerksamere Beobachtung. Standard: 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — Interaktion zwischen Mutanten und Anomalien</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Ausführliches Debugging</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Details zu Aktualisierungen, Cache und Einschränkungen. Sehr viele Meldungen!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Gehend</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Fehlchance-Multiplikator beim Gehen. Standard: 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Anomalieinteraktion</text>
+  </string>
+</string_table>

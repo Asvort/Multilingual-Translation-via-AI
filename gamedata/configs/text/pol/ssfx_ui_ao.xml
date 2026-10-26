@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_ao">
+    <text>Okluzja otoczenia</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_blur_mcm">
+    <text>Rozmycie</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_blur_mcm_desc">
+    <text>Podstawowa intensywność rozmycia wygładzającego wynik okluzji otoczenia.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_distance_mcm">
+    <text>Maksymalna odległość</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_distance_mcm_desc">
+    <text>Maksymalna odległość renderowania okluzji otoczenia.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_flora_int_mcm">
+    <text>Intensywność roślinności</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_flora_int_mcm_desc">
+    <text>Intensywność roślinności (trawy, drzew itp.) jako procent intensywności globalnej. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_global_int_mcm">
+    <text>Intensywność globalna</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_global_int_mcm_desc">
+    <text>Ogólna intensywność okluzji otoczenia. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_hud_int_mcm">
+    <text>Intensywność HUD</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_hud_int_mcm_desc">
+    <text>Intensywność elementów HUD (broni, rąk itp.) jako procent intensywności globalnej. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_max_occ_mcm">
+    <text>Maksymalna okluzja</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_max_occ_mcm_desc">
+    <text>Maksymalna możliwa okluzja piksela. [ 0.0 = całkowita czerń ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_quality_mcm">
+    <text>Jakość</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_quality_mcm_desc">
+    <text>[ WYMAGANE PONOWNE URUCHOMIENIE ] Liczba próbek renderowania okluzji otoczenia. Bardzo wysoka jakość może mocno obniżyć wydajność. [ 2, 4, 8 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_radius_mcm">
+    <text>Promień ogólny</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_radius_mcm_desc">
+    <text>Maksymalna odległość sprawdzania okluzji piksela. Jej zwiększenie może wymagać zmiany intensywności efektu.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_res_mcm">
+    <text>Rozdzielczość</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_res_mcm_desc">
+    <text>Rozdzielczość renderowania okluzji otoczenia.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_ao_title">
+    <text>Ustawienia okluzji otoczenia</text>
+  </string>
+</string_table>

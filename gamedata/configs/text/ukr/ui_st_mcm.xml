@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_desc_mcm">
+    <text>Вітаємо в меню налаштування модів Anomaly (MCM).\n\n\nСам по собі MCM нічого не робить: він надає іншим модам і додаткам місце для відображення інтерфейсу налаштувань.\n\n\nВікно MCM має дві панелі.\n\n\nЛіва панель меню містить упорядкований за абеткою список установлених модів і додатків, що використовують MCM. Є три рівні: головне меню кожного мода та два підменю.\n\n\nМеню самого MCM розташоване на початку списку.\n\n\nПісля натискання на головне меню чи підменю мода права панель показує його інтерфейс налаштувань.\n\nВін може містити: графічний банер і заголовок інтерфейсу у верхній частині панелі; назви параметрів із підказками, що з’являються під час наведення курсора; прапорці; повзунки; розкривні списки; і текстові описи, як цей.</text>
+  </string>
+  <string id="ui_mcm_desc_mcm2">
+    <text>Помилки MCM або вильоти, пов’язані з ui_mcm.script, найімовірніше спричинені одним із модів чи додатків, що використовують MCM.\nПовідомте про них автора відповідного мода.</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_alt">
+    <text>Клавіша Alt</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+    <text>Клавіша Ctrl</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_none">
+    <text>Без модифікатора</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mod_shift">
+    <text>Клавіша Shift</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_dtap">
+    <text>Подвійне натискання</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_hold">
+    <text>Тривале натискання</text>
+  </string>
+  <string id="ui_mcm_lst_mcm_kb_mode_press">
+    <text>Одне натискання</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb">
+    <text>Клавіші MCM працюють «як у Minecraft»: клацніть поле й натисніть клавішу.\nКлацання або Esc скасовує дію.\nЯкщо показана клавіша не відповідає натиснутій або MCM ігнорує певні клавіші, налаштуйте mcm_key_localization.ltx відповідно до розкладки. Клавіші, призначені кільком комбінаціям або клавіші рушія, підсвічуються червоним.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb2">
+    <text>Червоний колір не завжди означає проблему: клавіші можуть використовуватися в різних інтерфейсах або комбінація може вимагати Shift.\n\n\nMCM не знає, як додаток використовує клавішу, тож оцінити важливість конфлікту маєте ви.\n\n\nДля однієї очікуваної зміни колір оновлюється правильно, для кількох — не завжди.\n\nЗастосуйте зміни й відкрийте MCM знову, щоб перевірити.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all">
+    <text>На цій панелі зібрано всі клавіші MCM у порядку, в якому відповідні моди відображаються ліворуч.\nТут можуть бути відсутні інші параметри додатків, що впливають на клавішу.\nПереглядайте панель відповідного мода та його документацію.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_all2">
+    <text>Незастосовані зміни з інших панелей тут не відображаються, як і зміни з цієї панелі — в інших.\n\nЗастосовуйте зміни до й після її використання.\n\nЧервоні клавіші не завжди конфліктують: вони можуть діяти в різних інтерфейсах або вимагати Shift.\n\nMCM не знає, як додатки використовують клавіші, тож оцініть конфлікт самостійно.\n\nДля кількох незастосованих змін колір може оновитися некоректно.\n\nЗастосуйте зміни й відкрийте MCM знову.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_kb_conflicts">
+    <text>На цій панелі зібрано за клавішами всі комбінації MCM, позначені як конфліктні.\n\nЯкщо клавіша трапляється лише раз, імовірно, вона конфліктує з клавішею рушія, наведеною у звичайних параметрах Anomaly.\nПанель не враховує додаткові налаштування модів, які можуть впливати на неї.\nПереглядайте панель мода-джерела та його документацію.</text>
+  </string>
+  <string id="ui_mcm_mcm_desc_log">
+    <text>Ця утиліта для авторів додатків дає змогу винести журнали з журналу X-Ray і консолі гри.\n\n\nПараметри допомагають налаштувати журналювання та зменшити затримки й кількість записів на SSD.\n\nФайли мають назву скрипту та номер сеансу MCM і створюються в appdata/logs/mcm/.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode">
+    <text>Режим введення</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_mode_desc">
+    <text>Наведена комбінація активується, коли клавішу натискають у такий спосіб.</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier">
+    <text>З клавішею-модифікатором</text>
+  </string>
+  <string id="ui_mcm_mcm_kb_modifier_desc">
+    <text>Наведена комбінація активується, лише якщо цю клавішу також утримувати.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml">
+    <text>Завжди англійські назви модів</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_dxml_desc">
+    <text>Примусово перекладає назви додатків англійською для кращого сортування, адже деякі мають лише англійські назви.\n(!) Щоб зміна набула чинності, перезапустіть гру.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset">
+    <text>Перезавантажити всі меню</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_about_reset_desc">
+    <text>Якщо позначити цей параметр і натиснути «Застосувати», MCM перезавантажить усі меню. Це засіб налагодження, який не потрібен у звичайному використанні.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+    <text>Інтервал подвійного натискання</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+    <text>Визначає максимальний інтервал між двома натисканнями, щоб вони вважалися подвійним.\n\nДіє лише для додатків, які розпізнають подвійне натискання через MCM.\nТакож може затримувати окремі одиночні натискання, тому встановлюйте якомога менше значення.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+    <text>Множник тривалого натискання</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+    <text>Множник застосовується до інтервалу подвійного натискання й визначає, скільки треба утримувати клавішу, щоб це вважалося тривалим натисканням.\n\nДіє лише для додатків, які визначають його через MCM.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous">
+    <text>Дозволити безперервний запис у файл</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_continuous_desc">
+    <text>Зазвичай журнали оновлюються пакетами, тому під час вильоту гри частина інформації може втратитися.\n\nАвтор додатка може попросити ввімкнути цей параметр, щоб оновлювати журнал одразу.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2">
+    <text>Увімкнути налагоджувальне журналювання</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+    <text>Вмикає власний журнал налагодження MCM;\n\n\nйого слід увімкнути перед повідомленням про помилки MCM. Інші додатки також можуть використовувати цей параметр для своїх журналів.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable">
+    <text>Увімкнути журналювання MCM</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_enable_desc">
+    <text>Якщо зняти прапорець, нові журнали не створюватимуться й не оновлюватимуться.\nЗміна може набути чинності лише після завантаження нового збереження.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs">
+    <text>Кількість журналів для збереження</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+    <text>Коли кількість журналів скрипту перевищить це значення, старі буде видалено.\nЯкщо гра аварійно завершиться, видалення не відбудеться.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq">
+    <text>Інтервал між автозбереженнями журналу (мс)</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+    <text>Незалежно від значення,\nжурнали також зберігаються під час відкриття різних екранів інтерфейсу та збереження або завантаження гри.</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp">
+    <text>Частота часових позначок у журналі X-Ray</text>
+  </string>
+  <string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+    <text>MCM додає часові позначки до журналу X-Ray, щоб координувати події з журналами MCM.\nЦе мінімальний інтервал між позначками.\nЯкщо консоль більше нічого не виводить, MCM також мовчатиме.</text>
+  </string>
+  <string id="ui_mcm_menu_mcm">
+    <text>MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_about">
+    <text>Про меню</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_all_kb">
+    <text>Усі клавіші</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb">
+    <text>Клавіші MCM</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_conflicts">
+    <text>Конфлікти клавіш</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_kb_main">
+    <text>Основне</text>
+  </string>
+  <string id="ui_mcm_menu_mcm_log">
+    <text>Журналювання</text>
+  </string>
+  <string id="ui_mcm_menu_search">
+    <text>Пошук…</text>
+  </string>
+  <string id="ui_mcm_menu_search_clear">
+    <text>Клацніть правою кнопкою, щоб очистити</text>
+  </string>
+  <string id="ui_mm_menu_mcm">
+    <text>Меню налаштування модів</text>
+  </string>
+</string_table>

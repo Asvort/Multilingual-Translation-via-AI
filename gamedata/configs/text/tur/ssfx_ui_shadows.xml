@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_lst_shadows_128">
+    <text>128</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_1536">
+    <text>1536</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_1536_V">
+    <text>1536 ( varsayılan )</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_2048">
+    <text>2048</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_256">
+    <text>256</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_2560">
+    <text>2560</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_3072">
+    <text>3072</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_4096">
+    <text>4096</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_512">
+    <text>512</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_768">
+    <text>768</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_768_V">
+    <text>768 ( varsayılan )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows">
+    <text>Gölgeler ve ışık</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_max_mcm">
+    <text>En yüksek gölge çözünürlüğü</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_max_mcm_desc">
+    <text>Gölge haritasının en yüksek çözünürlüğü. Işıklar yakındayken gölge kalitesini artırmak için performans pahasına çözünürlük yükseltilir.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_min_mcm">
+    <text>En düşük gölge çözünürlüğü</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_min_mcm_desc">
+    <text>Gölge haritasının en düşük çözünürlüğü. Işıklar oyuncudan uzaktayken performansı artırmak için görüntü kalitesinden ödün verilerek gölge çözünürlüğü düşürülür.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm">
+    <text>Gölge ayrıntı düzeyi</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm_desc">
+    <text>Temel gölge haritası kalitesi. Değer yükseldikçe temel gölge çözünürlüğü ve uzaktaki gölgelerin çözünürlüğü artar.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_title">
+    <text>Gölgeler ve ışık ayarları</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm">
+    <text>Hacimsel ışığı zorla ( harita yeniden yüklenmeli )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm_desc">
+    <text>Tüm yönsüz ışıklarda hacimsel efekti zorla etkinleştirir. Ayarı uygulamak için haritayı yeniden yükleyin.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm">
+    <text>Hacimsel ışık yoğunluğu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm_desc">
+    <text>Hacimsel efektin yoğunluğunu belirler.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm">
+    <text>Hacimsel ışık kalitesi</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm_desc">
+    <text>Performans karşılığında hacimsel efektin kalitesini belirler.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm">
+    <text>Hacimsel ışık çözünürlüğü</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm_desc">
+    <text>Hacimsel ışığın görüntüleme çözünürlüğü, mevcut çözünürlüğün yüzdesidir. [ min: 14% ~ max: 100% ]</text>
+  </string>
+</string_table>

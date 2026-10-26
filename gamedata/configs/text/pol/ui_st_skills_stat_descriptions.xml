@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_player_skill_stats">
+    <text>\nUMIEJĘTNOŚCI:</text>
+  </string>
+  <string id="st_player_skills_hint_endurance">
+    <text>Zwiększa wytrzymałość i szybkość.\n \nLekki ekwipunek w podróży daje doświadczenie.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_scavenging">
+    <text>Zwiększa łupy z przeszukiwania stalkerów.\n \nPrzeszukiwanie daje doświadczenie; wyższa ranga więcej.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_strength">
+    <text>Zwiększa udźwig i obrażenia wręcz.\n \nCiężki ładunek i walka wręcz dają doświadczenie.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_survival">
+    <text>Zmniejsza obrażenia i krwawienie oraz może dać część mutanta.\n \nObrażenia fizyczne i oprawianie dają doświadczenie; groźniejsze więcej.\n \n</text>
+  </string>
+  <string id="st_skills_stats_base_weight">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Dodatkowy udźwig: %c[d_green]+$stat kg</text>
+  </string>
+  <string id="st_skills_stats_bleed_restore">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Redukcja krwawienia: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_hunting_skill_negative">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Szansa utraty części mutanta: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_hunting_skill_positive">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Szansa na dodatkową część mutanta: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_melee_damage_negative">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Mnożnik obrażeń wręcz: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_melee_damage_positive">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Mnożnik obrażeń wręcz: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_power_loss_negative">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Mnożnik zużycia wytrzymałości: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_power_loss_positive">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Mnożnik zużycia wytrzymałości: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_resistance_negative">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Mnożnik odporności na obrażenia: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_resistance_positive">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Mnożnik odporności na obrażenia: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_scavenging_skill_negative">
+    <text>\n%c[255,86,102,255]•%c[ui_6] Szansa utraty przedmiotu: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_scavenging_skill_positive">
+    <text>\n%c[255,86,102,255]•%c[ui_6] Szansa na dodatkowy przedmiot: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_speed_modifier_negative">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Mnożnik szybkości: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_speed_modifier_positive">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Mnożnik szybkości: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_weight_modifer_negative">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Mnożnik udźwigu: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_weight_modifer_positive">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Mnożnik udźwigu: %c[d_green]x$stat</text>
+  </string>
+</string_table>

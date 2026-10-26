@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_raid_access_card_agr_und_descr">
+    <text>Una pequeña tarjeta de plástico con una tarjeta SD integrada. Desde la llegada de Oscuridad, llegar al subterráneo es mucho más difícil: algunos pasajes quedaron sepultados y otros están bloqueados por anomalías. La tarjeta SD contiene datos de acceso actualizados. \n \n
+		Da acceso al subterráneo de Agroprom.
+		</text>
+  </string>
+  <string id="st_raid_access_card_agr_und_name">
+    <text>Acceso — Subterráneo de Agroprom</text>
+  </string>
+  <string id="st_raid_access_card_jup_und_descr">
+    <text>Una tarjeta magnética roja. En una cara se lee Paso elevado Prípiat-1. Está manchada de sangre seca. \n \n
+		Abre la puerta del Paso elevado Prípiat-1.
+		</text>
+  </string>
+  <string id="st_raid_access_card_jup_und_name">
+    <text>Tarjeta llave — Paso elevado Prípiat-1</text>
+  </string>
+  <string id="st_raid_access_card_x18_descr">
+    <text>Una tarjeta magnética amarilla. En una cara se lee “Laboratorio X18”. No se sabe cómo sigue funcionando allí la puerta magnética; quizá tenga alimentación de reserva. \n \n
+		Abre la puerta del Laboratorio X18.
+		</text>
+  </string>
+  <string id="st_raid_access_card_x18_name">
+    <text>Tarjeta llave — Laboratorio X18</text>
+  </string>
+  <string id="st_raid_access_card_x8_descr">
+    <text>Una tarjeta magnética verde. En una cara se lee “X8”. \n \n
+		Abre la puerta del Laboratorio X8.
+		</text>
+  </string>
+  <string id="st_raid_access_card_x8_name">
+    <text>Tarjeta llave — X8</text>
+  </string>
+  <string id="st_raid_intelligence_note_descr">
+    <text>Con la aparición de la superanomalía Oscuridad, gran parte de lo que se sabía de la Zona quedó obsoleto. Surgieron anomalías totalmente nuevas, los campos anómalos bloquearon rutas antiguas y mutantes desconocidos recorren la zona, representando una amenaza mortal. En estas condiciones, los datos confirmados valen oro: el conocimiento ya no es solo poder, ahora es supervivencia. Los datos pueden venderse, cambiarse por reputación o intercambiarse por objetos valiosos. \n \n
+		%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Estos datos no quedan obsoletos con el tiempo. \n
+		%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Es posible que un comerciante se interese por este objeto.
+		</text>
+  </string>
+  <string id="st_raid_intelligence_note_name">
+    <text>Paquete de datos de inteligencia</text>
+  </string>
+  <string id="st_raid_item_travel_dungeons_start_time">
+    <text>Encontrado:</text>
+  </string>
+  <string id="st_raid_item_travel_dungeons_time_left">
+    <text>Perderá vigencia en:</text>
+  </string>
+  <string id="st_raid_item_travel_dungeons_time_left_d">
+    <text>d</text>
+  </string>
+  <string id="st_raid_item_travel_dungeons_time_left_h">
+    <text>h</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_base_name">
+    <text>Esquema de ruta actual: Darkscape</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de un alijo. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_infected_name">
+    <text>Esquema de ruta actual: Darkscape</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_lair_name">
+    <text>Esquema de ruta actual: Darkscape</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_k01_darkscape_scouting_name">
+    <text>Esquema de ruta actual: Darkscape</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_base_name">
+    <text>Esquema de ruta actual: Territorio Salvaje</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de un alijo. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_infected_name">
+    <text>Esquema de ruta actual: Territorio Salvaje</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_lair_name">
+    <text>Esquema de ruta actual: Territorio Salvaje</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l06_rostok_scouting_name">
+    <text>Esquema de ruta actual: Territorio Salvaje</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_base_name">
+    <text>Esquema de ruta actual: Yantar</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de un alijo. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_infected_name">
+    <text>Esquema de ruta actual: Yantar</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_lair_name">
+    <text>Esquema de ruta actual: Yantar</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l08_yantar_scouting_name">
+    <text>Esquema de ruta actual: Yantar</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_base_name">
+    <text>Esquema de ruta actual: Ciudad Muerta</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de un alijo. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_infected_name">
+    <text>Esquema de ruta actual: Ciudad Muerta</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_lair_name">
+    <text>Esquema de ruta actual: Ciudad Muerta</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l09_deadcity_scouting_name">
+    <text>Esquema de ruta actual: Ciudad Muerta</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_base_name">
+    <text>Esquema de ruta actual: Limansk</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de un alijo. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_infected_name">
+    <text>Esquema de ruta actual: Limansk</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_lair_name">
+    <text>Esquema de ruta actual: Limansk</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l10_limansk_scouting_name">
+    <text>Esquema de ruta actual: Limansk</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_base_name">
+    <text>Esquema de ruta actual: Centro de Prípiat</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de varios alijos. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_infected_name">
+    <text>Esquema de ruta actual: Centro de Prípiat</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_lair_name">
+    <text>Esquema de ruta actual: Centro de Prípiat</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_l11_pripyat_scouting_name">
+    <text>Esquema de ruta actual: Centro de Prípiat</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_base_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_base_name">
+    <text>Esquema de ruta actual: La Pradera</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_infected_descr">
+    <text>\nTipo de incursión:: %c[255,57, 162, 78]Territorio anómalo%c[255,160,160,160] \n
+		El documento indica las coordenadas de un alijo. \n
+		Todo el territorio está cubierto por un campo de anomalías. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_infected_name">
+    <text>Esquema de ruta actual: La Pradera</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_lair_descr">
+    <text>Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_lair_name">
+    <text>Esquema de ruta actual: La Pradera</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_scouting_descr">
+    <text>\nTipo de incursión:: %c[255,184, 148, 50]Reconocimiento%c[255,160,160,160] \n
+		El documento señala puntos estratégicos que se pueden inspeccionar. \n \n
+		Contiene datos actuales sobre los campos anómalos locales. Incluye las coordenadas de un paso seguro, además del tipo y el vector de deriva de las anomalías detectadas. Requiere verificación constante.
+		</text>
+  </string>
+  <string id="st_raid_map_travel_y04_pole_scouting_name">
+    <text>Esquema de ruta actual: La Pradera</text>
+  </string>
+  <string id="st_raid_route_unavailable">
+    <text>El campo de anomalías bloquea el camino</text>
+  </string>
+  <string id="st_raid_str_get_intelligence_note">
+    <text>Objeto recibido:</text>
+  </string>
+  <string id="st_raid_travel_Intro_screen_typ">
+    <text>Tipo de incursión:</text>
+  </string>
+  <string id="st_raid_travel_Intro_screen_typ_base">
+    <text>Base</text>
+  </string>
+  <string id="st_raid_travel_Intro_screen_typ_infected">
+    <text>Territorio anómalo</text>
+  </string>
+  <string id="st_raid_travel_Intro_screen_typ_lair">
+    <text>Guarida</text>
+  </string>
+  <string id="st_raid_travel_Intro_screen_typ_scouting">
+    <text>Reconocimiento</text>
+  </string>
+  <string id="st_raid_travel_confirmation_base">
+    <text>¿Salir de incursión a la base?</text>
+  </string>
+  <string id="st_raid_travel_confirmation_infected">
+    <text>¿Salir de incursión al territorio anómalo?</text>
+  </string>
+  <string id="st_raid_travel_confirmation_lair">
+    <text>¿Salir de incursión a la guarida?</text>
+  </string>
+  <string id="st_raid_travel_confirmation_scouting">
+    <text>¿Salir de incursión de reconocimiento?</text>
+  </string>
+  <string id="st_raid_travel_itm_already_used">
+    <text>Ya se ha usado</text>
+  </string>
+  <string id="st_raid_travel_itm_no_use">
+    <text>Solo disponible en el refugio</text>
+  </string>
+  <string id="st_raid_travel_level_descr">
+    <text>Ubicación:</text>
+  </string>
+</string_table>

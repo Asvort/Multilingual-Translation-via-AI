@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_lst_LUM">
+    <text>Obliczanie jasności</text>
+  </string>
+  <string id="ui_mcm_lst_VDT">
+    <text>Obliczanie progu widocznej odległości</text>
+  </string>
+  <string id="ui_mcm_menu_revision">
+    <text>RE:VISION</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response">
+    <text>Agresywna reakcja</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response_desc">
+    <text>Strzelanie do NPC-ów poza progiem widocznej odległości spowoduje ich agresywną reakcję.</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength">
+    <text>Siła korekty jasnych obszarów</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength_desc">
+    <text>Zwiększa lub zmniejsza wpływ bardzo jasnego otoczenia na widoczność, zapobiegając prześwietleniu wzroku SI. Dostosuj RE:Tinal do używanego systemu pogody.</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance">
+    <text>Zasięg wpływu ogniska</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance_desc">
+    <text>Określa, z jakiej odległości ogniska i podobne źródła światła oświetlają strefy percepcji NPC-ów.</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier">
+    <text>Mnożnik widoczności podczas kucania</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier_desc">
+    <text>Określa, jak bardzo kucanie zmniejsza widoczność. Niższe wartości poprawiają ukrycie.</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength">
+    <text>Siła korekty ciemnych obszarów</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength_desc">
+    <text>Zwiększa lub zmniejsza widoczność w ciemności, aby NPC-e nie były całkiem ślepe. Dostosuj RE:Tinal do używanego systemu pogody.</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type">
+    <text>Typ debugowania</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type_desc">
+    <text>Wybierz obliczanie VDT lub jasności.</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range">
+    <text>Zasięg wykrywania</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range_desc">
+    <text>Określa maksymalną odległość, z której NPC-e mogą wykryć gracza i innych NPC-ów.</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug">
+    <text>Włącz debugowanie</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug_desc">
+    <text>Wyświetla logi na ekranie i komunikaty konsoli do testowania widoczności oraz debugowania reakcji systemu.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle">
+    <text>Kąt widzenia centralnego NPC-ów</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle_desc">
+    <text>Ustawia szerokość centralnego pola widzenia NPC. W jego obrębie NPC w pełni wykrywają cele.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle">
+    <text>Kąt widzenia peryferyjnego NPC</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle_desc">
+    <text>Ustawia szerokość peryferyjnego pola widzenia NPC. W tym obszarze wykrywają gorzej; wpływa na to także jasność.</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier">
+    <text>Globalny mnożnik luminancji</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier_desc">
+    <text>Ustawia ogólną czułość wzroku NPC na jasność. Wyższe wartości sprawiają, że świat wydaje się jaśniejszy dla AI. Użyj, by dostosować RE:Tinal do pogody w grze.</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency">
+    <text>Częstotliwość sprawdzania wnętrza</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency_desc">
+    <text>Określa, jak często skrypt sprawdza, czy postać jest wewnątrz budynku. Używa śledzenia promieni.</text>
+  </string>
+  <string id="ui_mcm_revision_key_0">
+    <text>Północ (00:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_0_desc">
+    <text>Pozwala ustawić jasność dla każdego kluczowego czasu profilu głównego.</text>
+  </string>
+  <string id="ui_mcm_revision_key_10">
+    <text>10:00 rano</text>
+  </string>
+  <string id="ui_mcm_revision_key_10_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_12">
+    <text>Południe (12:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_12_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_14">
+    <text>14:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_14_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_16">
+    <text>16:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_16_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_18">
+    <text>18:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_18_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_2">
+    <text>02:00 w nocy</text>
+  </string>
+  <string id="ui_mcm_revision_key_20">
+    <text>20:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_20_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_22">
+    <text>22:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_22_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_2_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_4">
+    <text>04:00 rano</text>
+  </string>
+  <string id="ui_mcm_revision_key_4_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_6">
+    <text>06:00 rano</text>
+  </string>
+  <string id="ui_mcm_revision_key_6_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_key_8">
+    <text>08:00 rano</text>
+  </string>
+  <string id="ui_mcm_revision_key_8_desc">
+    <text>Ustaw jasność dla tego kluczowego czasu</text>
+  </string>
+  <string id="ui_mcm_revision_master_profile">
+    <text>Główny profil pogody</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength">
+    <text>Premia noktowizora</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength_desc">
+    <text>Określa, jak noktowizor poprawia percepcję NPC w słabym świetle.</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier">
+    <text>Mnożnik widoczności podczas powolnego skradania</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier_desc">
+    <text>Dodatkowo zmniejsza widoczność podczas powolnego kucania, poprawiając skradanie.</text>
+  </string>
+  <string id="ui_mcm_revision_something">
+    <text>Symbol zastępczy</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier">
+    <text>Mnożnik widoczności podczas sprintu</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier_desc">
+    <text>Zwiększa widoczność podczas sprintu ze względu na ruch i hałas.</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity">
+    <text>Współczynnik materiału powierzchni</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity_desc">
+    <text>Określa wpływ trawy i krzewów na percepcję NPC. Wyższe wartości zmniejszają twoją widoczność dla AI.</text>
+  </string>
+  <string id="ui_mcm_revision_title">
+    <text>RE:VISION: lepsza percepcja wzrokowa i ruchu</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting">
+    <text>Użyj śledzenia promieni</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting_desc">
+    <text>Używa śledzenia promieni, by dokładniej obliczać jasność we wnętrzach.</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear">
+    <text>Bezchmurna pogoda</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy">
+    <text>Pochmurna pogoda</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark">
+    <text>Ciemne zachmurzenie</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog">
+    <text>Mgła</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy">
+    <text>Częściowe zachmurzenie</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain">
+    <text>Deszcz</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm">
+    <text>Burza</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm_desc">
+    <text>Ustawia mnożnik dla tego rodzaju pogody na podstawie głównego profilu</text>
+  </string>
+</string_table>

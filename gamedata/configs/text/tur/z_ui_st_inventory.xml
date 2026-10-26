@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="not_enough_money_actor">
+    <text>Yeterli para yok</text>
+  </string>
+  <string id="not_enough_money_partner">
+    <text>Karakterin yeterli parası yok</text>
+  </string>
+  <string id="quick_use_str_1">
+    <text>$$ACTION_QUICK_USE_1$$</text>
+  </string>
+  <string id="quick_use_str_2">
+    <text>$$ACTION_QUICK_USE_2$$</text>
+  </string>
+  <string id="quick_use_str_3">
+    <text>$$ACTION_QUICK_USE_3$$</text>
+  </string>
+  <string id="quick_use_str_4">
+    <text>$$ACTION_QUICK_USE_4$$</text>
+  </string>
+  <string id="st_activate_artefact">
+    <text>artefaktı etkinleştir</text>
+  </string>
+  <string id="st_ah_sec">
+    <text>Ah/sn</text>
+  </string>
+  <string id="st_awr_disassembly_helmet">
+    <text>başlığı sök [!]</text>
+  </string>
+  <string id="st_awr_disassembly_outfit">
+    <text>kıyafeti sök [!]</text>
+  </string>
+  <string id="st_awr_disassembly_weapon">
+    <text>silahı sök [!]</text>
+  </string>
+  <string id="st_awr_r_detail">
+    <text>parçayı onar [!]</text>
+  </string>
+  <string id="st_base_cost">
+    <text>Fiyat</text>
+  </string>
+  <string id="st_cap_companion_inv">
+    <text>Eşyaları değiştir</text>
+  </string>
+  <string id="st_cap_components">
+    <text>Bileşenler</text>
+  </string>
+  <string id="st_cap_con_100_o">
+    <text>Dokunulmamış</text>
+  </string>
+  <string id="st_cap_con_100_w">
+    <text>Çalışır durumda</text>
+  </string>
+  <string id="st_cap_con_25_o">
+    <text>Yırtık</text>
+  </string>
+  <string id="st_cap_con_25_w">
+    <text>Kırık</text>
+  </string>
+  <string id="st_cap_con_50_o">
+    <text>Hasarlı</text>
+  </string>
+  <string id="st_cap_con_50_w">
+    <text>Hasarlı</text>
+  </string>
+  <string id="st_cap_con_75_o">
+    <text>Yıpranmış</text>
+  </string>
+  <string id="st_cap_con_75_w">
+    <text>Yıpranmış</text>
+  </string>
+  <string id="st_cap_craftables">
+    <text>Üretilebilir eşyalar</text>
+  </string>
+  <string id="st_cap_inventory">
+    <text>Envanter</text>
+  </string>
+  <string id="st_cap_meal_1">
+    <text>(Bölgede üretilmiş)</text>
+  </string>
+  <string id="st_cap_meal_2">
+    <text>(Haşlanmış)</text>
+  </string>
+  <string id="st_cap_meal_3">
+    <text>(Dezenfekte edilmiş)</text>
+  </string>
+  <string id="st_cap_menu">
+    <text>Üretim menüsü</text>
+  </string>
+  <string id="st_cap_old">
+    <text>Eski</text>
+  </string>
+  <string id="st_cap_recipes">
+    <text>Bilinen tarifler</text>
+  </string>
+  <string id="st_cap_replace_parts">
+    <text>Yedek parçalar</text>
+  </string>
+  <string id="st_cap_req_toolkit">
+    <text>Gerekli takım</text>
+  </string>
+  <string id="st_cap_result">
+    <text>Sonuç</text>
+  </string>
+  <string id="st_cap_upgr_1">
+    <text>(Kaba işçilik)</text>
+  </string>
+  <string id="st_cap_upgr_2">
+    <text>(İnce işçilik)</text>
+  </string>
+  <string id="st_cap_upgr_3">
+    <text>(Kalibrasyon)</text>
+  </string>
+  <string id="st_cap_upgrades">
+    <text>Yükseltmeler</text>
+  </string>
+  <string id="st_cap_verybad">
+    <text>Kullanılamaz</text>
+  </string>
+  <string id="st_community">
+    <text>Grup:</text>
+  </string>
+  <string id="st_condition">
+    <text>Durum</text>
+  </string>
+  <string id="st_drink">
+    <text>iç</text>
+  </string>
+  <string id="st_eat">
+    <text>ye</text>
+  </string>
+  <string id="st_g">
+    <text>g</text>
+  </string>
+  <string id="st_ghz">
+    <text>GHz</text>
+  </string>
+  <string id="st_hz">
+    <text>Hz</text>
+  </string>
+  <string id="st_imm_swiss_open">
+    <text>konserve kutusunu aç</text>
+  </string>
+  <string id="st_item_charge">
+    <text>evrensel şarj cihazını şarj et</text>
+  </string>
+  <string id="st_item_disassemble">
+    <text>sök</text>
+  </string>
+  <string id="st_item_money">
+    <text>%s ruble al</text>
+  </string>
+  <string id="st_item_place">
+    <text>Eşyayı yerleştir</text>
+  </string>
+  <string id="st_item_play">
+    <text>oynat</text>
+  </string>
+  <string id="st_item_reveal">
+    <text>ortaya çıkar</text>
+  </string>
+  <string id="st_item_sort">
+    <text>sırala</text>
+  </string>
+  <string id="st_item_use">
+    <text>kullan</text>
+  </string>
+  <string id="st_itm_desc_arty_cont">
+    <text>artefakt içerir</text>
+  </string>
+  <string id="st_itm_desc_arty_cont_rad">
+    <text>izin verilen radyasyon seviyesi</text>
+  </string>
+  <string id="st_itm_desc_details">
+    <text>AYRINTILAR</text>
+  </string>
+  <string id="st_itm_desc_eat_health">
+    <text>sağlığa zarar verir</text>
+  </string>
+  <string id="st_itm_desc_eat_radiation">
+    <text>radyasyona maruz kalma</text>
+  </string>
+  <string id="st_itm_desc_eat_sleepiness">
+    <text>%s %s uyku hali</text>
+  </string>
+  <string id="st_itm_desc_eat_thirst">
+    <text>%s %s susuzluk</text>
+  </string>
+  <string id="st_itm_desc_outfit_carry_weight">
+    <text>taşıma kapasitesi artışı</text>
+  </string>
+  <string id="st_itm_desc_outfit_faction">
+    <text>grup</text>
+  </string>
+  <string id="st_itm_desc_outfit_heardgear">
+    <text>başlık</text>
+  </string>
+  <string id="st_itm_desc_outfit_num_of_slots">
+    <text>ek yuva bağlantıları</text>
+  </string>
+  <string id="st_itm_desc_outfit_patch_torn">
+    <text>%s bu kıyafetten söküldü</text>
+  </string>
+  <string id="st_itm_desc_outfit_repair_bonus">
+    <text>onarım bonusu</text>
+  </string>
+  <string id="st_itm_desc_outfit_required_tool">
+    <text>gerekli</text>
+  </string>
+  <string id="st_itm_desc_outfit_run">
+    <text>koşu hareketi:</text>
+  </string>
+  <string id="st_itm_desc_outfit_upgradable">
+    <text>yükseltilebilir</text>
+  </string>
+  <string id="st_itm_desc_part_i">
+    <text>ana bileşen</text>
+  </string>
+  <string id="st_itm_desc_part_o">
+    <text>donanım parçası</text>
+  </string>
+  <string id="st_itm_desc_part_usable">
+    <text>tezgâhta parça değiştirmek için kullanılabilir</text>
+  </string>
+  <string id="st_itm_desc_part_w">
+    <text>silah parçası</text>
+  </string>
+  <string id="st_itm_desc_properties">
+    <text>Özellikler</text>
+  </string>
+  <string id="st_itm_desc_repair_base_con">
+    <text>temel durum iyileştirmesi</text>
+  </string>
+  <string id="st_itm_desc_repair_match">
+    <text>aynı yedek parçalarla malzemeleri onarmak için kullanılabilir</text>
+  </string>
+  <string id="st_itm_desc_repair_min_con">
+    <text>ekipman durumu şu değerin altındaysa kullanılamaz:</text>
+  </string>
+  <string id="st_itm_desc_state_avail">
+    <text>Mevcut</text>
+  </string>
+  <string id="st_itm_desc_state_avail_workshop">
+    <text>mevcut (teknisyende)</text>
+  </string>
+  <string id="st_itm_desc_state_average">
+    <text>orta</text>
+  </string>
+  <string id="st_itm_desc_state_decrease">
+    <text>azalma</text>
+  </string>
+  <string id="st_itm_desc_state_high">
+    <text>yüksek</text>
+  </string>
+  <string id="st_itm_desc_state_increase">
+    <text>artış</text>
+  </string>
+  <string id="st_itm_desc_state_low">
+    <text>düşük</text>
+  </string>
+  <string id="st_itm_desc_state_moderate">
+    <text>orta</text>
+  </string>
+  <string id="st_itm_desc_state_not_avail">
+    <text>mevcut değil</text>
+  </string>
+  <string id="st_itm_desc_state_not_included">
+    <text>Eksik</text>
+  </string>
+  <string id="st_itm_desc_state_not_possible">
+    <text>imkânsız</text>
+  </string>
+  <string id="st_itm_desc_state_possible">
+    <text>mümkün</text>
+  </string>
+  <string id="st_itm_desc_state_significant">
+    <text>önemli</text>
+  </string>
+  <string id="st_itm_desc_state_slight">
+    <text>hafif</text>
+  </string>
+  <string id="st_itm_desc_upgr_o">
+    <text>donanım yükseltme kiti</text>
+  </string>
+  <string id="st_itm_desc_upgr_usable">
+    <text>tezgâhta yükseltme takmak için kullanılabilir</text>
+  </string>
+  <string id="st_itm_desc_upgr_w">
+    <text>silah yükseltme kiti</text>
+  </string>
+  <string id="st_itm_desc_warning">
+    <text>UYARI</text>
+  </string>
+  <string id="st_itm_desc_workshop_tool">
+    <text>tezgâhta parça değiştirmek ve yükseltme takmak için kullanılabilir</text>
+  </string>
+  <string id="st_j">
+    <text>N/mm2</text>
+  </string>
+  <string id="st_kcal">
+    <text>kcal eşdeğeri</text>
+  </string>
+  <string id="st_kcal_sec">
+    <text>kcal/sn eşdeğeri</text>
+  </string>
+  <string id="st_kg">
+    <text>kg</text>
+  </string>
+  <string id="st_khz">
+    <text>kHz</text>
+  </string>
+  <string id="st_kv">
+    <text>kV</text>
+  </string>
+  <string id="st_kw_m2">
+    <text>kW/m2</text>
+  </string>
+  <string id="st_lamp_disconnected">
+    <text>Kafa lambası çıkarıldı</text>
+  </string>
+  <string id="st_lamp_equipped">
+    <text>Kafa lambası takıldı</text>
+  </string>
+  <string id="st_lamp_no_power_left">
+    <text>Kafa lambasının şarjı bitti</text>
+  </string>
+  <string id="st_lamp_power_left">
+    <text>Kafa lambası pil şarjı: %s%</text>
+  </string>
+  <string id="st_mah_sec">
+    <text>mAh/sn</text>
+  </string>
+  <string id="st_mhz">
+    <text>MHz</text>
+  </string>
+  <string id="st_microg">
+    <text>µg adrenalin</text>
+  </string>
+  <string id="st_microg_sec">
+    <text>µg adrenalin/sn</text>
+  </string>
+  <string id="st_ml_min">
+    <text>mL/dk</text>
+  </string>
+  <string id="st_msv">
+    <text>mSv</text>
+  </string>
+  <string id="st_msv_sec">
+    <text>mSv/sn</text>
+  </string>
+  <string id="st_mt">
+    <text>mT</text>
+  </string>
+  <string id="st_new_anomaly_map">
+    <text>Yeni anomali haritası tespit edildi</text>
+  </string>
+  <string id="st_news_dis_items">
+    <text>%c[d_red]Sökmek için uygun bir alet gerekir.</text>
+  </string>
+  <string id="st_no_trade_tip_1">
+    <text>Tüccar bu eşyalarla ilgilenmiyor.</text>
+  </string>
+  <string id="st_no_trade_tip_2">
+    <text>Eşya satılamayacak kadar kötü durumda.</text>
+  </string>
+  <string id="st_pah_sec">
+    <text>pAh/sn</text>
+  </string>
+  <string id="st_pda_no_active">
+    <text>Etkin PDA yok</text>
+  </string>
+  <string id="st_pda_no_power">
+    <text>PDA'nın şarjı bitti</text>
+  </string>
+  <string id="st_perc">
+    <text>%</text>
+  </string>
+  <string id="st_play">
+    <text>oynat</text>
+  </string>
+  <string id="st_ppm">
+    <text>C1 md eşdeğeri</text>
+  </string>
+  <string id="st_sell_item">
+    <text>eşyayı sat</text>
+  </string>
+  <string id="st_tab_craft">
+    <text>ÜRETİM</text>
+  </string>
+  <string id="st_tab_repair">
+    <text>Tamirat</text>
+  </string>
+  <string id="st_tab_state">
+    <text>DURUM</text>
+  </string>
+  <string id="st_tab_upgrade">
+    <text>GELİŞTİRMELER</text>
+  </string>
+  <string id="st_uah_sec">
+    <text>µAh/sn</text>
+  </string>
+  <string id="st_ui_amount">
+    <text>Miktar</text>
+  </string>
+  <string id="st_ui_armor_static">
+    <text>Ekipman durumu</text>
+  </string>
+  <string id="st_ui_artefact">
+    <text>Artefakt</text>
+  </string>
+  <string id="st_ui_artifacts">
+    <text>Artefaktlar</text>
+  </string>
+  <string id="st_ui_arty_rank">
+    <text>Eser rütbesi</text>
+  </string>
+  <string id="st_ui_awr_parts_list">
+    <text>Yedek parçalar</text>
+  </string>
+  <string id="st_ui_base">
+    <text>Temel</text>
+  </string>
+  <string id="st_ui_bleeding_sensor">
+    <text>Kanama</text>
+  </string>
+  <string id="st_ui_bonus">
+    <text>Bonus</text>
+  </string>
+  <string id="st_ui_cancel">
+    <text>İptal</text>
+  </string>
+  <string id="st_ui_container_place">
+    <text>Kaba koy</text>
+  </string>
+  <string id="st_ui_container_remove">
+    <text>Kaptan çıkar</text>
+  </string>
+  <string id="st_ui_containers">
+    <text>Kaplar</text>
+  </string>
+  <string id="st_ui_cook_fuel_usable">
+    <text>Kullanılabilir yakıt</text>
+  </string>
+  <string id="st_ui_craft">
+    <text>Üretim</text>
+  </string>
+  <string id="st_ui_craft_ammo">
+    <text>Mühimmat adı</text>
+  </string>
+  <string id="st_ui_craft_device">
+    <text>Cihazlar</text>
+  </string>
+  <string id="st_ui_craft_equipment">
+    <text>Ekipman</text>
+  </string>
+  <string id="st_ui_craft_medical">
+    <text>Tıbbi malzemeler</text>
+  </string>
+  <string id="st_ui_craft_repair">
+    <text>Tamir kitleri</text>
+  </string>
+  <string id="st_ui_craft_upgrades">
+    <text>Geliştirme kitleri</text>
+  </string>
+  <string id="st_ui_disassemly_list">
+    <text>Bileşenler</text>
+  </string>
+  <string id="st_ui_grenade_launcher">
+    <text>Bombaatar</text>
+  </string>
+  <string id="st_ui_health_sensor">
+    <text>Sağlık</text>
+  </string>
+  <string id="st_ui_health_sensor_inv">
+    <text>Sağlık</text>
+  </string>
+  <string id="st_ui_info">
+    <text>Hakkında</text>
+  </string>
+  <string id="st_ui_inventory_attach">
+    <text>tak</text>
+  </string>
+  <string id="st_ui_inventory_unpack">
+    <text>paketi aç</text>
+  </string>
+  <string id="st_ui_itm_cook_food">
+    <text>Tarifler</text>
+  </string>
+  <string id="st_ui_itm_cook_fuel">
+    <text>Yakıt</text>
+  </string>
+  <string id="st_ui_itm_repair_base">
+    <text>Onarım gerekiyor</text>
+  </string>
+  <string id="st_ui_itm_repair_support">
+    <text>Sarf malzemeleri</text>
+  </string>
+  <string id="st_ui_main_sensor">
+    <text>Radyasyon</text>
+  </string>
+  <string id="st_ui_need_charger">
+    <text>Elektrik iletimi için %s gerekir</text>
+  </string>
+  <string id="st_ui_number_of_uses">
+    <text>Kullanım sayısı</text>
+  </string>
+  <string id="st_ui_oldcon">
+    <text>Önceki durum</text>
+  </string>
+  <string id="st_ui_power">
+    <text>Kalan enerji</text>
+  </string>
+  <string id="st_ui_power_consumption">
+    <text>enerji tüketimi</text>
+  </string>
+  <string id="st_ui_power_loss">
+    <text>enerji kaybı</text>
+  </string>
+  <string id="st_ui_repair">
+    <text>Tamirat</text>
+  </string>
+  <string id="st_ui_repair_add_condition">
+    <text>temel durum iyileştirmesi</text>
+  </string>
+  <string id="st_ui_repair_bonus">
+    <text>tamir bonusu</text>
+  </string>
+  <string id="st_ui_repair_kit_list">
+    <text>Uyumlu tamir malzemeleri</text>
+  </string>
+  <string id="st_ui_repair_min_condition">
+    <text>ekipman durumu şu değerin altındaysa kullanılamaz:</text>
+  </string>
+  <string id="st_ui_repair_parts_include">
+    <text>Kullanılan malzemeler</text>
+  </string>
+  <string id="st_ui_scopes">
+    <text>Dürbünler</text>
+  </string>
+  <string id="st_ui_silencer">
+    <text>Susturucu</text>
+  </string>
+  <string id="st_ui_total">
+    <text>Toplam</text>
+  </string>
+  <string id="st_ui_upgr_required_con">
+    <text>Gerekli asgari durum</text>
+  </string>
+  <string id="st_ui_upgrade_list">
+    <text>Yükseltmeler</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_1">
+    <text>Farklı eşyaları üretmek için pek çok malzeme kullanılabilir.\nKeşiflerde satın aldığınız veya bulduğunuz tarifler ve kılavuzlar üretim hakkında çok sayıda bilgi içerebilir.\nÜretilebilecek eşyaları görmek için üretim menüsünden bir kategori seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_2">
+    <text>Üretmek istediğiniz eşyayı seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_3">
+    <text>Seçilen eşyayı üretmek için belirtilen bileşenlere sahip olmanız gerekir.\nBir bileşenin gereken asgari miktarı yoksa kırmızı renkle gösterilir ve eşyanın üretilmesini engeller.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_4">
+    <text>Seçilen eşyayı üretmek için gereken tüm bileşenler mevcut. Devam etmek için “Üret” düğmesine basın.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_5">
+    <text>Seçilen eşyanın nasıl üretileceğine dair henüz bilgi yok.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_6">
+    <text>Seçilen eşyayı bu tezgahta üretmek için “%s” gerekir.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_intro">
+    <text>Farklı eşyaları üretmek için pek çok malzeme kullanılabilir.\nKeşiflerde satın aldığınız veya bulduğunuz tarifler ve kılavuzlar üretim hakkında çok sayıda bilgi içerebilir.\nÜretilebilecek eşyaları görmek için üretim menüsünden bir kategori seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_solution_2">
+    <text>Seçilen eşyanın üretimi hakkında bilgi kılavuzlarda ve tariflerde bulunabilir.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_solution_3">
+    <text>Bu tür aletlere nadiren rastlanır; keşifleriniz sırasında dikkatli olun.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_solution_4">
+    <text>Gereksiz eşyaları ve ekipmanları sökerek bileşen elde edebilirsiniz.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_tip_1">
+    <text>Üretmek istediğiniz eşyayı seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_tip_5">
+    <text>“%s” üretmek için gereken tüm bileşenler mevcut. Devam etmek için “Üret” düğmesine basın.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_warning_2">
+    <text>“%s” üretimi hakkında henüz bilgi yok.</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_warning_3">
+    <text>Belirtilen bileşenlerle seçilen eşyayı üretmek için “%s” gerekir (yalnızca oyuncuda veya teknisyende bulunur).</text>
+  </string>
+  <string id="st_ui_workshop_info_craft_warning_4">
+    <text>Seçilen eşyayı üretmek için gereken bazı bileşenler envanterde yok.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_1">
+    <text>Hasarlı silah veya ekipman parçaları, yedek parçalar ve uygun alet setiyle değiştirilebilir.
+Envanterden onarmak istediğiniz ekipmanı seçin.\n</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_2">
+    <text>Her ekipmanın kendine özgü parça ve malzeme seti vardır.\nGri parçalar, envanterde uygun yedek bulunmadığını gösterir.\nUygun bir parçanız ve “%s” varsa değiştirmek istediğiniz parçaya tıklayın.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_3">
+    <text>Envanterden aynı yedek parçayı seçebilirsiniz.\nDeğişimde takılı parçalarla aynı veya daha iyi durumda olan parçalar kullanılabilir.\nGri parçalar, takılı parçalardan daha kötü durumdadır.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_4">
+    <text>Parçalar takılmaya hazır. Takmak için “Tamir Et” düğmesine basın.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_intro">
+    <text>Hasarlı silah veya ekipman parçaları, yedek parçalar ve uygun alet setiyle değiştirilebilir.
+Envanterden onarmak istediğiniz ekipmanı seçin.\n</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_solution_1">
+    <text>Silahları ve ekipmanları sökerek yedek parça elde edebilirsiniz.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_solution_2">
+    <text>Çoğu teknisyen bu kitleri satar. Bunları başka yollarla da bulabilirsiniz.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_solution_3">
+    <text>Bazı aletler (çok amaçlı alet, harbi, eğe, basit dikiş ipliği ve saha dikiş seti) parçaları aynı yedek parçalarla onarmanızı sağlar. Çoğu teknisyen bu aletleri satar; başka yollarla da bulunabilirler.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_tip_1">
+    <text>Her ekipmanın kendine özgü parça ve malzeme seti vardır.\nGri parçalar, envanterde uygun yedek bulunmadığını gösterir.\nUygun bir parçanız ve “%s” varsa değiştirmek istediğiniz parçaya tıklayın.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_tip_3">
+    <text>Envanterden aynı “%s” yedek parçasını seçebilirsiniz.\nDeğişimde takılı parçalarla aynı veya daha iyi durumda olan parçalar kullanılabilir.\nGri parçalar, takılı parçalardan daha kötü durumdadır.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_tip_4">
+    <text>Parçalar takılmaya hazır. Takmak için “Tamir Et” düğmesine basın.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_warning_1">
+    <text>Envanterde seçilen ekipman için yedek parça yok.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_warning_2">
+    <text>Parçaları değiştirmek için “%s” gerekir.</text>
+  </string>
+  <string id="st_ui_workshop_info_repair_warning_3">
+    <text>Envanterdeki “%s” parçası takılı parçadan daha kötü durumda.</text>
+  </string>
+  <string id="st_ui_workshop_info_state_1">
+    <text>Tezgâhta uygun tamir kitleri ve aletlerle eşyaları kendiniz onarabilir, geliştirebilir ve üretebilirsiniz.\nBu tezgâhta kullanılabilen başlıca aletler yukarıda gösterilmiştir; bunlarla ekipman onarabilir, geliştirebilir ve üretebilirsiniz.\nDevam etmek için sekmelerden birini seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_state_intro">
+    <text>Tezgâhta uygun tamir kitleri ve aletlerle eşyaları kendiniz onarabilir, geliştirebilir ve üretebilirsiniz.\nBu tezgâhta kullanılabilen başlıca aletler yukarıda gösterilmiştir; bunlarla ekipman onarabilir, geliştirebilir ve üretebilirsiniz.\nDevam etmek için sekmelerden birini seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgr_1">
+    <text>Uygun alet setleriyle silah ve ekipmana geliştirme kurabilirsiniz.\nEnvanterinizden geliştirmek istediğiniz ekipmanı seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgr_2">
+    <text>Her geliştirme, “%s” ile aynı türde bir alet seti gerektirir.\nGeliştirmenin başarıyla kurulması için tüm ek koşullar karşılanmalıdır.\nSeçili ekipmana kurmak istediğiniz geliştirmeye tıklayın.\nBir geliştirme kilitliyse tüm gereksinimleri görmek için üzerine gelin.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgr_3">
+    <text>Geliştirmeler hazır. Kurmak için “Değiştir” düğmesine basın.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_intro">
+    <text>Uygun alet setleriyle silah ve ekipmana geliştirme kurabilirsiniz.\nEnvanterinizden geliştirmek istediğiniz ekipmanı seçin.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_solution_1">
+    <text>Çoğu teknisyen bu kitleri satar. Bunları başka yollarla da bulabilirsiniz.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_solution_2">
+    <text>Gereksinimleri görmek için geliştirme üzerine gelin.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_tip_1">
+    <text>Her geliştirme, “%s” ile aynı türde bir alet seti gerektirir.\nGeliştirmenin başarıyla kurulması için tüm ek koşullar karşılanmalıdır.\nSeçili ekipmana kurmak istediğiniz geliştirmeye tıklayın.\nBir geliştirme kilitliyse tüm gereksinimleri görmek için üzerine gelin.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_tip_3">
+    <text>Geliştirmeler hazır. Kurmak için “Değiştir” düğmesine basın.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_warning_1">
+    <text>Geliştirmeyi kurmak için “%s” gerekir.</text>
+  </string>
+  <string id="st_ui_workshop_info_upgrade_warning_2">
+    <text>Kurulabilecek geliştirme yok.</text>
+  </string>
+  <string id="st_ui_workshop_kit_list">
+    <text>Tezgâhla uyumlu tamir kiti</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_1">
+    <text>Seçilen geliştirmeyi kurmak için “%s” gerekir.</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_2">
+    <text>Seçilen geliştirmeyi kurmak için “%s” gerekir.</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_3">
+    <text>Bu eşyanın durumu, bu geliştirmeyi kurmak için kritik derecede kötü.</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_4">
+    <text>Bu yuvada zaten başka bir geliştirme kurulu.</text>
+  </string>
+  <string id="st_ui_workshop_no_upgr_5">
+    <text>Önceki geliştirmeler kurulmadan seçilen geliştirme kurulamaz.</text>
+  </string>
+  <string id="st_ui_workshop_owner">
+    <text>Tezgâhın sahibi: %s</text>
+  </string>
+  <string id="st_ui_workshop_owner_nobody">
+    <text>kimseye</text>
+  </string>
+  <string id="st_upd_disconnected">
+    <text>Evrensel şarj cihazın (UZU) yok</text>
+  </string>
+  <string id="st_upd_low">
+    <text>Pil zayıf</text>
+  </string>
+  <string id="st_weight">
+    <text>Ağırlık</text>
+  </string>
+  <string id="st_weight_full">
+    <text>Ağırlık</text>
+  </string>
+  <string id="ui_ammo_count">
+    <text>Şarjör</text>
+  </string>
+  <string id="ui_ammo_types">
+    <text>Mühimmat adı</text>
+  </string>
+  <string id="ui_inv_accuracy">
+    <text>İsabet</text>
+  </string>
+  <string id="ui_inv_af_condition">
+    <text>Etkinlik</text>
+  </string>
+  <string id="ui_inv_ammo_pistol">
+    <text>Tabanca mermisi satın al (Q)</text>
+  </string>
+  <string id="ui_inv_ammo_rifle">
+    <text>Tüfek mermisi satın al (W)</text>
+  </string>
+  <string id="ui_inv_bleeding">
+    <text>Pıhtılaşma</text>
+  </string>
+  <string id="ui_inv_burn_protection">
+    <text>Isı</text>
+  </string>
+  <string id="ui_inv_cancel">
+    <text>İptal</text>
+  </string>
+  <string id="ui_inv_cant_buy_item">
+    <text>Silah satın alınamıyor</text>
+  </string>
+  <string id="ui_inv_chemical_burn_protection">
+    <text>Kimyasal</text>
+  </string>
+  <string id="ui_inv_count_restr">
+    <text>Miktar sınırı</text>
+  </string>
+  <string id="ui_inv_damage">
+    <text>Hasar</text>
+  </string>
+  <string id="ui_inv_default(F5)">
+    <text>Varsayılan (F5)</text>
+  </string>
+  <string id="ui_inv_effect_time">
+    <text>Etki süresi</text>
+  </string>
+  <string id="ui_inv_exit">
+    <text>Çıkış</text>
+  </string>
+  <string id="ui_inv_fire_wound_protection">
+    <text>Balistik</text>
+  </string>
+  <string id="ui_inv_granadelauncher_rifle">
+    <text>Tüfek bombaatarı satın al (D)</text>
+  </string>
+  <string id="ui_inv_granades_rifle">
+    <text>Tüfek bombası satın al (E)</text>
+  </string>
+  <string id="ui_inv_handling">
+    <text>Kullanım</text>
+  </string>
+  <string id="ui_inv_has">
+    <text>Mevcut</text>
+  </string>
+  <string id="ui_inv_health">
+    <text>İyileşme</text>
+  </string>
+  <string id="ui_inv_heavy_weapons">
+    <text>Ağır silahlar</text>
+  </string>
+  <string id="ui_inv_last_buy">
+    <text>Son alınan dizilimi satın al</text>
+  </string>
+  <string id="ui_inv_last_buy(F4)">
+    <text>Son satın alınan (F4)</text>
+  </string>
+  <string id="ui_inv_money">
+    <text>Para</text>
+  </string>
+  <string id="ui_inv_need">
+    <text>Gerekli</text>
+  </string>
+  <string id="ui_inv_needs">
+    <text>Gerektirir</text>
+  </string>
+  <string id="ui_inv_not_enought_money">
+    <text>Yeterli para yok</text>
+  </string>
+  <string id="ui_inv_ok">
+    <text>Tamam</text>
+  </string>
+  <string id="ui_inv_outfit_additional_weight">
+    <text>Yük sınırı</text>
+  </string>
+  <string id="ui_inv_outfit_artefact_count">
+    <text>Eser yuvası</text>
+  </string>
+  <string id="ui_inv_outfit_burn_protection">
+    <text>Isı</text>
+  </string>
+  <string id="ui_inv_outfit_chemical_burn_protection">
+    <text>Kimyasal</text>
+  </string>
+  <string id="ui_inv_outfit_explosion_protection">
+    <text>Patlama</text>
+  </string>
+  <string id="ui_inv_outfit_fire_wound_protection">
+    <text>Balistik</text>
+  </string>
+  <string id="ui_inv_outfit_hit_fraction_actor">
+    <text>Sağlamlık</text>
+  </string>
+  <string id="ui_inv_outfit_power_restore">
+    <text>Güç yenilenmesi</text>
+  </string>
+  <string id="ui_inv_outfit_radiation_protection">
+    <text>Radyasyon</text>
+  </string>
+  <string id="ui_inv_outfit_shock_protection">
+    <text>Elektrik</text>
+  </string>
+  <string id="ui_inv_outfit_strike_protection">
+    <text>Darbe</text>
+  </string>
+  <string id="ui_inv_outfit_telepatic_protection">
+    <text>Psi</text>
+  </string>
+  <string id="ui_inv_outfit_wound_protection">
+    <text>Yırtılma</text>
+  </string>
+  <string id="ui_inv_power">
+    <text>Güç yenil.</text>
+  </string>
+  <string id="ui_inv_power_restore">
+    <text>Güç yenil.</text>
+  </string>
+  <string id="ui_inv_preset1(F1)">
+    <text>Dizilim 1 (F1)</text>
+  </string>
+  <string id="ui_inv_preset2(F2)">
+    <text>Dizilim 2 (F2)</text>
+  </string>
+  <string id="ui_inv_preset3(F3)">
+    <text>Dizilim 3 (F3)</text>
+  </string>
+  <string id="ui_inv_radiation">
+    <text>Radyasyon</text>
+  </string>
+  <string id="ui_inv_radiation_protection">
+    <text>Radyasyon</text>
+  </string>
+  <string id="ui_inv_rank_restr">
+    <text>Rütbe sınırı</text>
+  </string>
+  <string id="ui_inv_rate_of_fire">
+    <text>Atış hızı</text>
+  </string>
+  <string id="ui_inv_reset_items(C)">
+    <text>Sıfırla (C)</text>
+  </string>
+  <string id="ui_inv_rifles">
+    <text>Saldırı tüfekleri</text>
+  </string>
+  <string id="ui_inv_satiety">
+    <text>Tokluk</text>
+  </string>
+  <string id="ui_inv_scope_rifle">
+    <text>Tüfek dürbünü satın al (S)</text>
+  </string>
+  <string id="ui_inv_seconds">
+    <text>saniye</text>
+  </string>
+  <string id="ui_inv_seconds_short">
+    <text>sn</text>
+  </string>
+  <string id="ui_inv_sell_items(X)">
+    <text>Sırt çantasındaki tüm eşyaları sat (X)</text>
+  </string>
+  <string id="ui_inv_shock_protection">
+    <text>Elektrik</text>
+  </string>
+  <string id="ui_inv_shotguns">
+    <text>Av tüfekleri</text>
+  </string>
+  <string id="ui_inv_silencer_pistol">
+    <text>Tabanca susturucusu satın al (A)</text>
+  </string>
+  <string id="ui_inv_silencer_rifle">
+    <text>Tüfek susturucusu satın al (F)</text>
+  </string>
+  <string id="ui_inv_sniper_rifles">
+    <text>Keskin nişancı tüfekleri</text>
+  </string>
+  <string id="ui_inv_survive_surge">
+    <text>Psi emisyonundan sağ çıkmayı sağlar</text>
+  </string>
+  <string id="ui_inv_telepatic_protection">
+    <text>Psi</text>
+  </string>
+  <string id="ui_inv_time">
+    <text>Süre</text>
+  </string>
+  <string id="ui_inv_weight">
+    <text>Maks. ağırlık</text>
+  </string>
+  <string id="ui_inv_wound_protection">
+    <text>Yırtılma</text>
+  </string>
+  <string id="ui_inv_you_already_have">
+    <text>Zaten var</text>
+  </string>
+  <string id="ui_repair_button_hint">
+    <text>Seçili eşyayı tamir et</text>
+  </string>
+  <string id="ui_st_battery_more_power">
+    <text>Cihaz şarj edildi</text>
+  </string>
+  <string id="ui_st_buy">
+    <text>Satın al</text>
+  </string>
+  <string id="ui_st_buy_hint">
+    <text>Seçili eşyaları satın al</text>
+  </string>
+  <string id="ui_st_err_gs_not_available">
+    <text>S.T.A.L.K.E.R. çevrimiçi hizmetleri kullanılamıyor</text>
+  </string>
+  <string id="ui_st_err_sb_master_server_conn_fail">
+    <text>Ana sunucuya bağlanılamıyor</text>
+  </string>
+  <string id="ui_st_geiger_mode_1">
+    <text>Mod 1: etkin</text>
+  </string>
+  <string id="ui_st_geiger_mode_2">
+    <text>Mod 2: pasif</text>
+  </string>
+  <string id="ui_st_geiger_mode_3">
+    <text>Mod 3: basıldığında</text>
+  </string>
+  <string id="ui_st_inv_repair">
+    <text>Tamirat</text>
+  </string>
+  <string id="ui_st_npc_pda_access_denied">
+    <text>ERİŞİM REDDEDİLDİ</text>
+  </string>
+  <string id="ui_st_npc_pda_low_power">
+    <text>PİL ZAYIF</text>
+  </string>
+  <string id="ui_st_npc_pda_strelok">
+    <text>STRELOK'U ÖLDÜR</text>
+  </string>
+  <string id="ui_st_npc_pda_unkown">
+    <text>PDA çalışmıyor</text>
+  </string>
+  <string id="ui_st_outfit_protect">
+    <text>Koruma:</text>
+  </string>
+  <string id="ui_st_preset_def">
+    <text>Varsayılan</text>
+  </string>
+  <string id="ui_st_preset_stored_to">
+    <text>Satın alınan dizilim şu adla kaydedildi:</text>
+  </string>
+  <string id="ui_st_put_all">
+    <text>Hepsini koy</text>
+  </string>
+  <string id="ui_st_put_all_hint">
+    <text>Sırt çantasındaki tüm eşyaları koy (SHIFT + P)</text>
+  </string>
+  <string id="ui_st_sell">
+    <text>Sat</text>
+  </string>
+  <string id="ui_st_sell_hint">
+    <text>Seçili eşyaları sat</text>
+  </string>
+  <string id="ui_st_take_all">
+    <text>Hepsini al</text>
+  </string>
+  <string id="ui_st_take_all_hint">
+    <text>Tüm eşyaları sırt çantasına al (SHIFT + T)</text>
+  </string>
+  <string id="ui_total_price">
+    <text>Toplam:</text>
+  </string>
+  <string id="ui_total_weight">
+    <text>Toplam ağırlık:</text>
+  </string>
+</string_table>

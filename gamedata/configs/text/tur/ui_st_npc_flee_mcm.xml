@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_npc_flee">
+    <text>NPC kaçışı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cancel_on_hit">
+    <text>NPC vurulursa kaçışı iptal et</text>
+  </string>
+  <string id="ui_mcm_npc_flee_companion_pwr">
+    <text>Yoldaş gücü çarpanı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time">
+    <text>Tim örtüsü süresi (devre dışı bırakmak için 0)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time_desc">
+    <text>En uzaktaki NPC, ekibinin kaçışını koruyacak.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_pwr_mult">
+    <text>Düşman gücü çarpanı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_radius">
+    <text>Düşman yarıçapı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_upd_radius">
+    <text>Düşman yarıçapı 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_dbg">
+    <text>Hata ayıklama (konsola yazdır)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time">
+    <text>Kaçış koruma süresi (sn)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time_desc">
+    <text>NPC kaçmayı bıraktığında bu süre boyunca tekrar kaçamaz.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist">
+    <text>Kaçmak için en az mesafe</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+    <text>Kaçış hedefi yalnızca bu değerden daha uzaktaysa seçilir.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_pwr_mult">
+    <text>Dost gücü çarpanı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_radius">
+    <text>Dost yarıçapı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_upd_radius">
+    <text>Dost yarıçapı 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_after">
+    <text>Yarıçap 2 (kaçarken yakında daha zayıf düşmanlar varsa kaçışı iptal etmek için yarıçapı düşür)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_before">
+    <text>Yarıçap (kaçıştan önce düşman ve dost gücü yalnızca bu yarıçapta hesaplanır)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_others">
+    <text>Diğer</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_power">
+    <text>Güç ("enemies_power &gt; friends_power*threshold_mult" ise kaçar)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_hits_to_cancel">
+    <text>Kaçışı iptal etmek için gereken isabet sayısı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_smoke_enabled">
+    <text>Sis bombaları</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time">
+    <text>İptal edilemeyen ilk kaçış saniyeleri</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time_desc">
+    <text>Kaçış başladıktan sonraki ilk saniyeler zayıf düşmanlar veya isabetlerle iptal edilemez.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_threshold_mult">
+    <text>Eşik çarpanı</text>
+  </string>
+  <string id="ui_mcm_npc_flee_title">
+    <text>NPC kaçışı</text>
+  </string>
+</string_table>

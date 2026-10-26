@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="actor_inventory_box_use">
+    <text>Kişisel kutuyu aç ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bar_arena_actor_afraid">
+    <text>Dövüş iptal! Meydan okuyan korktu ve dövüşmeye bile çıkmadı!</text>
+  </string>
+  <string id="bar_arena_fight_10">
+    <text>10 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_20">
+    <text>20 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_30">
+    <text>30 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_40">
+    <text>40 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_50">
+    <text>50 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_60">
+    <text>Dövüşte 1 dakika geçti!</text>
+  </string>
+  <string id="bar_arena_fight_70">
+    <text>1 dakika 10 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_80">
+    <text>1 dakika 20 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_90">
+    <text>1 dakika 30 saniye geçti!</text>
+  </string>
+  <string id="bar_arena_fight_begin">
+    <text>Çatışma başladı!</text>
+  </string>
+  <string id="bar_arena_fight_bloodsucker">
+    <text>Dikkat! Dikkat! Arenada yeni bir dövüş başlamak üzere! Sol köşede Bölge'nin en korkunç kâbusu, hiç doymayan Kan Emici! Sağ köşede ise... bir insan mı? Evet, bir insan! Stalkeri alkışlarınızla karşılayın!</text>
+  </string>
+  <string id="bar_arena_fight_burer">
+    <text>Dikkat! Dikkat! Arenada yeni bir dövüş başlamak üzere! Sol köşede kaşık büken kung fu ustası burer! Sağ köşede ise her an tetikte bir stalker!</text>
+  </string>
+  <string id="bar_arena_fight_dead">
+    <text>Meydan okuyan öldürüldü! Ne sürpriz!</text>
+  </string>
+  <string id="bar_arena_fight_lose">
+    <text>Meydan okuyan rakibini öldürdü ama süre yetmedi. Dövüşü kaybetti!</text>
+  </string>
+  <string id="bar_arena_fight_pseudodog">
+    <text>Dikkat! Dikkat! Arenada yeni bir dövüş başlamak üzere. Sol köşede beyaz, tüylü ve son derece öfkeli... Psödoköpek! Sağ köşede ise hiçbir yerden çıkıp yine tam oraya gidecek biri.</text>
+  </string>
+  <string id="bar_arena_fight_savage">
+    <text>Dikkat! Dikkat! Arenada yeni bir dövüş başlamak üzere. Sol köşede onu tanıyorsunuz, seviyorsunuz ve o da sizden nefret ediyor: Canavar! Sağ köşede ise en azından şimdilik hâlâ ayakta olan stalkerımız!</text>
+  </string>
+  <string id="bar_arena_fight_snork">
+    <text>Dikkat! Dikkat! Arenada yeni bir dövüş başlamak üzere. Sol köşede dövüş sanatları gurusu ve sağlık uzmanı snork! Sağ köşede ise geçmişi ve geleceği olmayan adam.</text>
+  </string>
+  <string id="bar_arena_fight_timeout">
+    <text>Süre doldu! Meydan okuyan kaybetti ama hâlâ hayatta kalmak için savaşıyor!</text>
+  </string>
+  <string id="bar_arena_fight_victory">
+    <text>Yaşasın! Meydan okuyan rakibini zamanında öldürdü ve kazandı!</text>
+  </string>
+  <string id="bp_open">
+    <text>Sırt çantasını aç</text>
+  </string>
+  <string id="bp_to">
+    <text>Hareket ediyor</text>
+  </string>
+  <string id="bridge_down_red_forest_tips">
+    <text>Köprüyü indir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_stop_red_forest_tips">
+    <text>Köprüyü durdur ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_up_red_forest_tips">
+    <text>Köprüyü kaldır ($$ACTION_USE$$)</text>
+  </string>
+  <string id="cant_walk">
+    <text>Hareket edemeyecek kadar bitkinsin.</text>
+  </string>
+  <string id="cant_walk_weight">
+    <text>Hareket edemeyecek kadar fazla yük taşıyorsun.</text>
+  </string>
+  <string id="car_character_use">
+    <text>Kapıyı aç ($$ACTION_USE$$)</text>
+  </string>
+  <string id="character_use">
+    <text>Konuş ($$ACTION_USE$$)</text>
+  </string>
+  <string id="dar_poltergeist_hold_the_door">
+    <text>Biri kapıyı tutuyor.</text>
+  </string>
+  <string id="dead_character_use">
+    <text>Cesedi ara ($$ACTION_USE$$)</text>
+  </string>
+  <string id="dead_character_use_or_drag">
+    <text>Cesedi ara ($$ACTION_USE$$)\nCesedi sürükle (SHIFT+$$ACTION_USE$$)</text>
+  </string>
+  <string id="drx_sl_tips_rad_switcher_press">
+    <text>Beyin Yakıcıyı etkinleştir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="general_complete_task">
+    <text>Görev tamamlandı:</text>
+  </string>
+  <string id="general_fail_task">
+    <text>Görev başarısız:</text>
+  </string>
+  <string id="general_in_item">
+    <text>Alınan eşya:</text>
+  </string>
+  <string id="general_in_money">
+    <text>Para alındı:</text>
+  </string>
+  <string id="general_new_task">
+    <text>Yeni görev:</text>
+  </string>
+  <string id="general_out_item">
+    <text>Kaybedilen eşya:</text>
+  </string>
+  <string id="general_out_money">
+    <text>Para kaybedildi:</text>
+  </string>
+  <string id="general_reverse_task">
+    <text>Görev iptal edildi:</text>
+  </string>
+  <string id="general_update_task">
+    <text>Görev güncellendi:</text>
+  </string>
+  <string id="gun_jammed">
+    <text> </text>
+  </string>
+  <string id="inventory_box_use">
+    <text>Kutuyu ara ($$ACTION_USE$$)</text>
+  </string>
+  <string id="inventory_item_use">
+    <text>Eşyayı al ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b10_ufo_searching_tips">
+    <text>Uçağı ara ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b1_bar_door">
+    <text>Kapı sıkışmış</text>
+  </string>
+  <string id="jup_b1_door_is_closed">
+    <text>Kapı içeriden kilitli</text>
+  </string>
+  <string id="jup_b202_treasures_closed">
+    <text>Kasa kilitli</text>
+  </string>
+  <string id="jup_b205_tip_door_closed">
+    <text>Kod gerekli</text>
+  </string>
+  <string id="jup_b205_tip_door_decode">
+    <text>Kodu gir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b206_use_plant">
+    <text>Bitkiyi al ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_place_tips">
+    <text>Tarayıcıyı kur ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_remove_tips">
+    <text>Tarayıcıyı al ($$ACTION_USE$$)</text>
+  </string>
+  <string id="lx8_raduga">
+    <text>Gökkuşağı saldırganlık bastırıcı\nharici emisyon kompleksi modeli\nölçek 1:20</text>
+  </string>
+  <string id="pas_b400_tip_switcher">
+    <text>Düğmeyi etkinleştir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a18_use_idol">
+    <text>Cihazı incele ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a25_blow_up_enter_door">
+    <text>Patlayıcıları yerleştir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a28_talk_with_stupid_medic">
+    <text>İyileş ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_b306_elevator_door_locked_used">
+    <text>Asansörde güç yok</text>
+  </string>
+  <string id="pri_b306_generator_use">
+    <text>Jeneratörü etkinleştir ($$ACTION_USE$$)</text>
+  </string>
+  <string id="sleep_ok_button">
+    <text>Uyu</text>
+  </string>
+  <string id="sleep_warning_all_pleasures">
+    <text>Uyuyamazsın! Tehlikeli biçimde kan kaybediyor ve radyasyona maruz kalıyorsun. İlaç kullan ya da bir doktora başvur.</text>
+  </string>
+  <string id="sleep_warning_bleeding">
+    <text>Uyuyamazsın! Tehlikeli biçimde kan kaybediyorsun. İlaç kullan ya da bir doktora başvur.</text>
+  </string>
+  <string id="sleep_warning_radiation">
+    <text>Uyuyamazsın! Radyasyona maruz kalıyorsun. İlaç kullan ya da bir doktora başvur.</text>
+  </string>
+  <string id="sleep_zone_tip">
+    <text>Uyu ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_autosave">
+    <text>Otomatik kaydediliyor...</text>
+  </string>
+  <string id="st_awr_tiski">
+    <text>Onar ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_bad_turn_dezombification">
+    <text>Zombileşmeden arındırma başarıyla tamamlandı!</text>
+  </string>
+  <string id="st_bad_turn_dezombification_news">
+    <text>%c[0,255,64,0]Zombileşmeden arındırma başarıyla tamamlandı!</text>
+  </string>
+  <string id="st_bad_turn_into_bandit">
+    <text>Gruptan kovuldun!</text>
+  </string>
+  <string id="st_bad_turn_into_bandit_news">
+    <text>%c[0,255,0,0]Gruptan kovuldun!</text>
+  </string>
+  <string id="st_bad_turn_into_zombie">
+    <text>Psi radyasyon seviyesi kritik, zombileştin!</text>
+  </string>
+  <string id="st_bad_turn_into_zombie_news">
+    <text>%c[0,255,64,0]Psi radyasyon seviyesi kritik, zombileştin!</text>
+  </string>
+  <string id="st_body_decayed">
+    <text>Ceset çok fazla çürümüş</text>
+  </string>
+  <string id="st_body_knife_bad">
+    <text>Bıçak çok kötü durumda</text>
+  </string>
+  <string id="st_body_knife_needed">
+    <text>Bıçak gerekli</text>
+  </string>
+  <string id="st_body_knife_weak">
+    <text>Bu mutant için daha sağlam bir bıçak gerekiyor</text>
+  </string>
+  <string id="st_body_useless">
+    <text>Cesette işe yarar bir şey yok</text>
+  </string>
+  <string id="st_bribe_broke">
+    <text>Kuralları çiğnedin; %s ile anlaşma iptal edildi.</text>
+  </string>
+  <string id="st_bribe_expired">
+    <text>%s ile ateşkes sona erdi.</text>
+  </string>
+  <string id="st_camp_help">
+    <text>Kamp ateşi başarıyla yakıldı</text>
+  </string>
+  <string id="st_camp_m">
+    <text>Ateş yakmak için çakmağa ihtiyacın var</text>
+  </string>
+  <string id="st_can_use_weapon_now">
+    <text>Artık silahını çıkarabilirsin.</text>
+  </string>
+  <string id="st_cant_sleep_find_shelter_mlr">
+    <text>Uyumak için daha güvenli bir yer bulmalısın</text>
+  </string>
+  <string id="st_cant_sleep_outside_tent_mlr">
+    <text>Uyumak için çadırına girmelisin</text>
+  </string>
+  <string id="st_codelock">
+    <text>Şifreli kilit ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_death_count">
+    <text>%s kez öldün.</text>
+  </string>
+  <string id="st_detective_news">
+    <text>Kayıp stalkerların sırrını çözdüğün için Skadovsk'taki kişisel kutuya tıbbi malzeme kondu.</text>
+  </string>
+  <string id="st_disguse_actor_exposed">
+    <text>Ortaya çıkarıldın! Herkes %s üyesi kılığına girdiğini biliyor.</text>
+  </string>
+  <string id="st_drx_questlines_and_this_one">
+    <text>Bu da...</text>
+  </string>
+  <string id="st_drx_questlines_faction">
+    <text> grubu.</text>
+  </string>
+  <string id="st_drx_questlines_joined">
+    <text>Şu gruba katıldın:</text>
+  </string>
+  <string id="st_duty_first_reward_news">
+    <text>Duty'ye yardım ettiğin için Yanov'daki kişisel kutuya PS5-M Evrensel Koruma tulumu kondu.</text>
+  </string>
+  <string id="st_duty_second_reward_news">
+    <text>Duty'ye yardım ettiğin için Yanov'daki kişisel kutuya PSZ-9d Duty zırhı kondu.</text>
+  </string>
+  <string id="st_extinguish_fire">
+    <text>Söndür ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_fail">
+    <text>Kamp ateşi yakılamadı</text>
+  </string>
+  <string id="st_found_new_treasure">
+    <text>Zula koordinatları alındı</text>
+  </string>
+  <string id="st_found_old_treasure">
+    <text>Daha önce bulunmuş bir zulanın koordinatları alındı.</text>
+  </string>
+  <string id="st_freedom_first_reward_news">
+    <text>Freedom'a yardım ettiğin için Yanov'daki kişisel kutuya Özgürlüğün Rüzgârı tulumu kondu.</text>
+  </string>
+  <string id="st_freedom_second_reward_news">
+    <text>Freedom'a yardım ettiğin için Yanov'daki kişisel kutuya Özgürlük Muhafızı tulumu kondu.</text>
+  </string>
+  <string id="st_freeplay_text_ok">
+    <text>Helikopterlere ulaşamadın ve tahliye ekibi sensiz Bölge'den ayrıldı.</text>
+  </string>
+  <string id="st_freeplay_text_yes_no">
+    <text>Bölge'den ayrılmaya hazır mısın? Geri dönüş yok.</text>
+  </string>
+  <string id="st_game_over">
+    <text> </text>
+  </string>
+  <string id="st_game_over_press_jump">
+    <text> </text>
+  </string>
+  <string id="st_game_paused">
+    <text>Duraklatıldı</text>
+  </string>
+  <string id="st_game_saved">
+    <text>Oyun kaydedildi</text>
+  </string>
+  <string id="st_got_treasure">
+    <text>Zula bulundu</text>
+  </string>
+  <string id="st_helmet_countdown">
+    <text>Koruma kapatılıyor</text>
+  </string>
+  <string id="st_herald_of_justice_news">
+    <text>Magpie'yi ortaya çıkarmaya yardım ettiğin için Skadovsk'taki kişisel kutuya bir artefakt kondu.</text>
+  </string>
+  <string id="st_ignite_far">
+    <text>Yakında kamp ateşi yok ya da çok uzaktasın</text>
+  </string>
+  <string id="st_ignite_fire">
+    <text>Yak ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_ignite_wait">
+    <text>Yeniden yakmadan önce biraz beklemelisin</text>
+  </string>
+  <string id="st_imm_befor_swiss">
+    <text>Konserve kutusunu açmak için keskin bir şey gerekli</text>
+  </string>
+  <string id="st_imm_need_swiss">
+    <text>Konserve kutusunu açmak için çakı gerekiyor</text>
+  </string>
+  <string id="st_imm_smoke_already_used">
+    <text>Zaten daha etkili benzer bir etkiye sahipsin</text>
+  </string>
+  <string id="st_imm_smoke_fail">
+    <text>Sigaranı yakmak için kibrit gerekli</text>
+  </string>
+  <string id="st_imm_swiss_broken">
+    <text>Çakın kırıldı</text>
+  </string>
+  <string id="st_impending_doom">
+    <text>Yaklaşan emisyon</text>
+  </string>
+  <string id="st_ironman_new_life">
+    <text>YENİ BİR HAK VERİLDİ! %s kez öldün. Kalan hak: %s</text>
+  </string>
+  <string id="st_item_taken">
+    <text>%s</text>
+  </string>
+  <string id="st_itm_manager_greater_effect">
+    <text>Zaten daha etkili benzer bir etkinin var: %s</text>
+  </string>
+  <string id="st_itm_manager_missing_requirements">
+    <text>%s gerekli!</text>
+  </string>
+  <string id="st_itm_stash">
+    <text>zula</text>
+  </string>
+  <string id="st_itm_stash_of_character">
+    <text>%s adlı kişinin zulasi</text>
+  </string>
+  <string id="st_jup_b41_door_locked">
+    <text>Rıhtım hava geçirmez olana kadar beklemelisin</text>
+  </string>
+  <string id="st_labx18_pass_to_1st_door">
+    <text>Harika, meslektaşım. 2. seviye erişim aldığınıza sevindim. Sonunda laboratuvarımızda neler olduğunu öğreneceksiniz. Erişim kodunuz 1243. X18 Laboratuvarı Şefi Piotr Ilich Kalugin.</text>
+  </string>
+  <string id="st_labx18_pass_to_2nd_door">
+    <text>Değerli meslektaşım, yarından itibaren laboratuvarın merkez odasındaki konteynerle ilgileneceğinizi hatırlatırım. Konteynerleri iki saatte bir kontrol etmelisiniz. Her şeyi doğrudan bana bildirin. Merkez laboratuvar odasının kodu 9524. X18 Laboratuvarı Şefi Piotr Ilyitch Kalugin.</text>
+  </string>
+  <string id="st_letter_is_known">
+    <text>Bunu daha önce okudun</text>
+  </string>
+  <string id="st_lttz_eidolon_strelok_message">
+    <text>Keşif birliği yok oldu. Pripyat merkezine son bir saldırı başlatma zamanı.</text>
+  </string>
+  <string id="st_lttz_gen_stitch_message">
+    <text>Hey, sen misin? Çabuk buraya gel!</text>
+  </string>
+  <string id="st_lttz_intercepted_transmission_message">
+    <text>...şimdilik terk edilmiş trafo merkezinin atölyelerinde kamp kuracağız. Düşman SR birimini tespit ettik ve ... için hazırlanıyoruz.</text>
+  </string>
+  <string id="st_lttz_kat_rogue_message">
+    <text>Bu iş kolay olmayacak. Yavaş ilerleyin. Kapılara ve köşelere dikkat edin.</text>
+  </string>
+  <string id="st_lttz_limansk_rogue_message">
+    <text>Hey, sert adam. Limansk'ta bir sorun var. Yardımına ihtiyacım olacak. Koordinatlarım burada.</text>
+  </string>
+  <string id="st_lttz_mon_strelok_message">
+    <text>Parça sıkı korunuyor. Tüm muhafızları öldürmeliyiz.</text>
+  </string>
+  <string id="st_lttz_oa_army_degtyarev_jup_meet_msg">
+    <text>%s, ben %s. Jupiter'de benimle buluş, seninle konuşmak istediğim bir şey var.</text>
+  </string>
+  <string id="st_lttz_pripyat_degtyarev_message">
+    <text>Ben Ukrayna Güvenlik Servisinden Albay Alexander Degtyarev. Orada olduğunu biliyoruz, Strelok; neden geldiğimizi de biliyorsun. Silahlarını bırak ve teker teker, yavaşça dışarı çık. İş birliği yaparsan şiddete başvurmayız.</text>
+  </string>
+  <string id="st_lttz_pripyat_rogue_message">
+    <text>Y-yardım... edin... biri... yardım etsin!</text>
+  </string>
+  <string id="st_lttz_pripyat_stitch_message">
+    <text>Kahretsin, kahretsin! Burada yardıma ihtiyacım var! Kimse yok mu?!</text>
+  </string>
+  <string id="st_lttz_pripyat_strelok_message">
+    <text>Terk edilmiş hastanenin yakınında Monolith güçleriyle çatışıyorum. Her türlü yardım iyi olur.</text>
+  </string>
+  <string id="st_lttz_pripyat_strelok_message2">
+    <text>Bölgeden asla ayrılamazsın Albay; ister Santrale baskın yap, ister gezegenin öteki ucunda saklan. Bölge var olduğu sürece bütün dünyayı tehdit eder. Üstlerin bunu örtbas edemez. Size katılmayacağım.</text>
+  </string>
+  <string id="st_lttz_pripyat_unisg_message">
+    <text>İşimize son kez karışıyorsun Albay. Son duanı et.</text>
+  </string>
+  <string id="st_lttz_stancia_strelok_message">
+    <text>Şimdi Lahit'e gireceğiz. Devam etmeden önce soluklan. Bu zor olacak.</text>
+  </string>
+  <string id="st_lttz_war_stitch_message">
+    <text>Lanet olsun! Kapı kilitli! Bakalım... Ne yapacağız...? Ya şöyleyse...? Bak, arka çıkışın kodu 26041986 idi. Burada da kontrol et; zararı olmaz.</text>
+  </string>
+  <string id="st_lttz_yanov_invitation2_message">
+    <text>Selam stalker. Konuşmak için yanıma gelsene?</text>
+  </string>
+  <string id="st_lttz_yanov_invitation_message">
+    <text>Buralarda olduğunu görüyorum. Konuşmak için Yanov İstasyonu'na gelsene?</text>
+  </string>
+  <string id="st_lx18_pda">
+    <text>PDA kaydını dinle</text>
+  </string>
+  <string id="st_lx8_button_press_true">
+    <text>Erişim sağlandı</text>
+  </string>
+  <string id="st_lx8_lift_button">
+    <text>Asansörle yukarı çık ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_make_a_wish">
+    <text>Dilek tut ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_msg_unlocked_routes">
+    <text>PDA'na yeni konumlar işaretlendi.</text>
+  </string>
+  <string id="st_mutant_hunter_news">
+    <text>Tehlikeli mutantları ortadan kaldırdığın için Yanov'daki kişisel kutuya cephane kondu.</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_1">
+    <text>DAVETSİZ MİSAFİR!!!</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_2">
+    <text>CASUS!! ATEŞ EDİN.</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_3">
+    <text>CASUS!! ÇABUK! ATEŞ EDİN!</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_4">
+    <text>BU HERİF DÜŞMAN!!! HEMEN ATEŞ EDİN.</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_5">
+    <text>OLDUĞUN YERDE KAL, SUÇLU AŞAĞILIK! Mahkemeye para cezası öde ya da cezanı çek. Çalıntı mallarına el konuldu.</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_1">
+    <text>Birini mi gözetliyordun?! Seni kim gönderdi?</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_2">
+    <text>Gizli görevde misin? Komik mi sanıyorsun?</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_3">
+    <text>Kimseyi kandıramıyorsun, aptal.</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_4">
+    <text>Defol.</text>
+  </string>
+  <string id="st_news_goodwill_enemy_1">
+    <text>%s bunu pek iyi karşılamadı.</text>
+  </string>
+  <string id="st_news_goodwill_intro_1">
+    <text>Son çabaların hakkında söylentiler yayılıyor.</text>
+  </string>
+  <string id="st_news_goodwill_intro_lose_1">
+    <text>Son başarısızlığın hakkında söylentiler yayılıyor.</text>
+  </string>
+  <string id="st_news_goodwill_main_1">
+    <text>%s arasında daha fazla güven kazandın.</text>
+  </string>
+  <string id="st_news_goodwill_main_lose_1">
+    <text>%s'nin güvenini kaybediyorsun.</text>
+  </string>
+  <string id="st_news_goodwill_update_title">
+    <text>Emir değişikliği</text>
+  </string>
+  <string id="st_nobody_left_to_replace">
+    <text>Yerine geçecek kimse kalmadı.</text>
+  </string>
+  <string id="st_nothing_useful">
+    <text>İşe yarar bir şey yok</text>
+  </string>
+  <string id="st_oa_transmission_decryption">
+    <text>İletinin şifresi çözülüyor</text>
+  </string>
+  <string id="st_only_campfire_load">
+    <text>Hayattayken yükleme devre dışı</text>
+  </string>
+  <string id="st_only_campfire_quit">
+    <text>Hayattayken oyundan çıkış devre dışı</text>
+  </string>
+  <string id="st_only_campfire_save">
+    <text>Elle kayıt devre dışı (yalnızca kamp ateşlerinde)</text>
+  </string>
+  <string id="st_press_any_key">
+    <text>Devam etmek için herhangi bir tuşa bas</text>
+  </string>
+  <string id="st_pri_b306_go_down">
+    <text>Asansörle aşağı in ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_pri_special_trader_mlr_message">
+    <text>Griffin:\nStalker, Sendika bölgesindesin. Saldırıya uğramayacaksın ama düzgün davranmanı bekliyoruz. İş arıyorsan sana verebileceğim birkaç iş olabilir.</text>
+  </string>
+  <string id="st_pri_special_trader_mlr_message2">
+    <text>Meeker:\nStalker, siparişin geldi. Gelip al.</text>
+  </string>
+  <string id="st_psy_danger">
+    <text>Tehlikeli psi emisyon seviyesi. İlerlemek için koruma gerekli.</text>
+  </string>
+  <string id="st_radiation_danger">
+    <text>Tehlikeli radyasyon seviyesi. İlerlemek için koruma gerekli.</text>
+  </string>
+  <string id="st_recipe_is_known">
+    <text>Bu tarifi daha önce okudun</text>
+  </string>
+  <string id="st_resupply_ready">
+    <text>Teğmen Rogovets ve Teğmen Kirillov'u ziyaret ederek tıbbi malzeme ve cephane ikmali yapabilirsin.</text>
+  </string>
+  <string id="st_screen_field_dress">
+    <text>Parçaları topla</text>
+  </string>
+  <string id="st_screen_kick">
+    <text>Tekmele</text>
+  </string>
+  <string id="st_search_helicopter">
+    <text>Helikopteri incele ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_search_treasure">
+    <text>Zulayı ara ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_sleep_awake">
+    <text>Dinlenmen gerekmiyor</text>
+  </string>
+  <string id="st_sleep_awake_wired">
+    <text>Fazla kafein aldığın için dinlenemiyorsun</text>
+  </string>
+  <string id="st_sleep_bleeding">
+    <text>Kan kaybediyorsun; tıbbi yardım al</text>
+  </string>
+  <string id="st_sleep_bleeding_irradiated">
+    <text>Kan kaybediyor ve radyasyondan etkileniyorsun; tıbbi yardım al</text>
+  </string>
+  <string id="st_sleep_deprived">
+    <text>Bilincin kapalıyken öldürüldün</text>
+  </string>
+  <string id="st_sleep_event">
+    <text>Bunun sırasında dinlenecek kadar delirmedin</text>
+  </string>
+  <string id="st_sleep_exhausted">
+    <text>Bitkinsin ve dinlenmen gerekiyor</text>
+  </string>
+  <string id="st_sleep_exhausted_final">
+    <text>Aşırı bitkinsin, hemen dinlen!</text>
+  </string>
+  <string id="st_sleep_hours">
+    <text>sa</text>
+  </string>
+  <string id="st_sleep_irradiated">
+    <text>Radyasyondan etkilenmişsin; tıbbi yardım al</text>
+  </string>
+  <string id="st_stash_created">
+    <text>Zula oluşturuldu</text>
+  </string>
+  <string id="st_stash_no_backpack_found">
+    <text>Sırt çantası takılı değil</text>
+  </string>
+  <string id="st_stash_placed">
+    <text>Zaten bir zula yerleştirdin</text>
+  </string>
+  <string id="st_stash_unsafe">
+    <text>Zula buraya yerleştirilemez</text>
+  </string>
+  <string id="st_surge_while_asleep">
+    <text>Bölgede kısa süre önce bir emisyon yaşandı.</text>
+  </string>
+  <string id="st_swsh">
+    <text>Konserve kutusunu açmak için keskin bir şey gerekli</text>
+  </string>
+  <string id="st_tip">
+    <text>Mesaj</text>
+  </string>
+  <string id="st_tiski">
+    <text>Atölyeyi kullan ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_tiski_no_info">
+    <text>Bu mengene kullanma iznin yok</text>
+  </string>
+  <string id="st_toggle_animation_off">
+    <text>Eşya animasyonları devre dışı</text>
+  </string>
+  <string id="st_toggle_animation_on">
+    <text>Eşya animasyonları etkin</text>
+  </string>
+  <string id="st_travel_already_here">
+    <text>Zaten varış noktasındasın</text>
+  </string>
+  <string id="st_travel_event">
+    <text>Yakında düşmanlar varken seyahat etmek tehlikeli</text>
+  </string>
+  <string id="st_travel_overloaded">
+    <text>Çok fazla yük taşıyorsun</text>
+  </string>
+  <string id="st_ui_campfire_prereq">
+    <text>Kamp ateşi yakmak için kibrit ya da ateş başlatma seti gerekir.</text>
+  </string>
+  <string id="st_ui_heli">
+    <text>Helikopter</text>
+  </string>
+  <string id="st_ui_no_save_bleed">
+    <text>Kan kaybederken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_bleed_radiation">
+    <text>Kan kaybederken ya da radyasyondan etkilenmişken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_campfire">
+    <text>Yalnızca kamp ateşlerinin yakınında %s yapabilirsin.</text>
+  </string>
+  <string id="st_ui_no_save_combat">
+    <text>Çatışma sırasında %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_injury_1">
+    <text>Orta derecede yaralıyken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_injury_2">
+    <text>Ağır yaralıyken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_injury_3">
+    <text>Çok ağır yaralıyken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_injury_4">
+    <text>Kritik derecede yaralıyken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_radiation">
+    <text>Radyasyondan etkilenmişken %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_surge">
+    <text>Emisyon ya da psi fırtınası sırasında %s yapamazsın.</text>
+  </string>
+  <string id="st_ui_no_save_timer">
+    <text>Zamanlayıcı etkin, henüz %s yapamazsın.</text>
+  </string>
+  <string id="st_use_action_sit">
+    <text>Otur ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_yan_saharov_message">
+    <text>Aferin, sonunda başardın. Laboratuvardaki makineyi incelememiz çok önemli. Ona bakabilmemiz için kapatmayı dene.</text>
+  </string>
+  <string id="st_yan_saharov_message_2">
+    <text>Dinle, bu prototip seni güçlü salımlardan uzun süre koruyamaz. Her algılama bir sayaç başlatır. Süre dolunca koruma sona erer. Dikkatli ol ve zamanı takip et.</text>
+  </string>
+  <string id="st_yan_saharov_message_3">
+    <text>Harika iş. Emisyonu durdurdun ve hâlâ hayattasın. Bu arada, ara sıra sığınağımıza uğra, olur mu?</text>
+  </string>
+  <string id="st_zone_disappeared">
+    <text> DİLEĞİN GERÇEKLEŞTİ! </text>
+  </string>
+  <string id="tip_door_blocked">
+    <text>Kapı engellenmiş</text>
+  </string>
+  <string id="tip_door_close">
+    <text>Kapıyı kapat ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_door_closed_base_alarm">
+    <text>Kapı kilitli — kamp alarm durumunda</text>
+  </string>
+  <string id="tip_door_closed_hide_weapon">
+    <text>Kapı kilitli — silahını kılıfına koymalısın</text>
+  </string>
+  <string id="tip_door_coded">
+    <text>Kapı kodla kilitli</text>
+  </string>
+  <string id="tip_door_decode">
+    <text>Kapının şifresini çözmek için ($$ACTION_USE$$) tuşuna bas</text>
+  </string>
+  <string id="tip_door_decoding">
+    <text>Kod çözülüyor</text>
+  </string>
+  <string id="tip_door_locked">
+    <text>Kapı kilitli</text>
+  </string>
+  <string id="tip_door_no_electricity">
+    <text>Kapıya güç verilmiyor</text>
+  </string>
+  <string id="tip_door_open">
+    <text>Kapıyı aç ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_gate_locked">
+    <text>Geçit kapalı</text>
+  </string>
+  <string id="tip_need_access_card">
+    <text>Erişim kartını kullan ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_no_access_card">
+    <text>Erişim kartı gerekli</text>
+  </string>
+  <string id="tip_open_another_site">
+    <text>Kapı bu taraftan açılamaz</text>
+  </string>
+  <string id="tips_labx16switcher_press">
+    <text>Mucize Makinesini kapat ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tips_rad_switcher_press">
+    <text>Beyin Yakıcıyı kapat ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tips_warlab_switcher_press">
+    <text>Jeneratörleri kapat ($$ACTION_USE$$)</text>
+  </string>
+  <string id="ui_st_disguse_back_to_default">
+    <text>Artık yeniden %s üyesi olarak tanınıyorsun.</text>
+  </string>
+  <string id="ui_st_disguse_blacklisted_faction">
+    <text>%s üyesi kılığına giremezsin.</text>
+  </string>
+  <string id="ui_st_disguse_disabled">
+    <text>Kılık değiştirme sistemi devre dışı.</text>
+  </string>
+  <string id="ui_st_disguse_naked">
+    <text>Kılık değiştirmezsen stalkerlar %s topluluğunun üyesi olduğunu anlar.</text>
+  </string>
+  <string id="ui_st_disguse_on">
+    <text>Bu kıyafetle çoğu stalker seni %s topluluğundan sanacak.</text>
+  </string>
+  <string id="ui_st_disguse_patch_attach_now">
+    <text>Bu kıyafete %s arması taktın; artık kılık değiştirmek için kullanabilirsin.</text>
+  </string>
+  <string id="ui_st_disguse_patch_torn">
+    <text>Bu kıyafetin arması yırtık; stalkerlar seni %s topluluğundan sanacak.</text>
+  </string>
+  <string id="ui_st_disguse_patch_torn_now">
+    <text>Bu kıyafetteki %s armasını yırttın; artık kılık değiştirmek için kullanılamaz.</text>
+  </string>
+  <string id="ui_st_disguse_someone_remember">
+    <text>Yakın zamanda görüldün; herkes seni %s üyesi olarak hatırlıyor.</text>
+  </string>
+  <string id="ui_st_disguse_someone_saw">
+    <text>Kıyafet değiştirirken görüldün; herkes seni %s üyesi olarak hatırlıyor.</text>
+  </string>
+  <string id="ui_st_mp_create">
+    <text>Oluştur</text>
+  </string>
+  <string id="ui_st_mp_experience_grow">
+    <text>-</text>
+  </string>
+  <string id="zat_b12_conteiner_full_locked">
+    <text>Konteyner kilitli. Açmak için iki anahtar gerekiyor.</text>
+  </string>
+  <string id="zat_b12_conteiner_has_one_key">
+    <text>Anahtarı kullan ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_has_two_key">
+    <text>Anahtarları kullan ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_locked">
+    <text>Konteyner kilitli. Açmak için ikinci anahtar gerekiyor.</text>
+  </string>
+  <string id="zat_b12_conteiner_open">
+    <text>Konteyneri aç ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b14_door_locked_hint">
+    <text>Kapı mekanizması içeriden engellenmiş.</text>
+  </string>
+  <string id="zat_b33_car_searching_tip">
+    <text>Arabayı ara ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b57_balon_use_hint">
+    <text>Gaz tüpünü bağla ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b57_gas_warning">
+    <text>Uyarı! Kimyasal tehlike!</text>
+  </string>
+  <string id="zat_b57_vintil_press">
+    <text>Vanayı çevir ($$ACTION_USE$$)</text>
+  </string>
+</string_table>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_persistent_weather">
+    <text>Beständiges Wetter</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled">
+    <text>Mod aktivieren</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled_desc">
+    <text>Aktiviert das System für beständiges Wetter. Das Wetter wird beim Laden eines Spielstands gespeichert und wiederhergestellt.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay">
+    <text>Mindestverzögerung beim Gebietswechsel (Minuten)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay_desc">
+    <text>Mindestspielzeit, bevor sich das Wetter beim Gebietswechsel ändern darf. Reist du früher, bleibt es bestehen. Mit 0 wird die Verzögerung deaktiviert.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance">
+    <text>Chance, das Wetter beim Gebietswechsel beizubehalten (%)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance_desc">
+    <text>Chance (0–100 %), dass das Wetter beim Wechsel in ein neues Gebiet gleich bleibt. Bei 0 % ändert es sich immer (Standardverhalten), bei 100 % bleibt es immer bestehen.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_title">
+    <text>Beständiges Wetter</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout">
+    <text>Zeit unter der Erde (Minuten)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout_desc">
+    <text>Echtzeit, die du unter der Erde bleiben kannst, bevor sich das Wetter ändern darf. Standard: 10 Minuten.</text>
+  </string>
+</string_table>

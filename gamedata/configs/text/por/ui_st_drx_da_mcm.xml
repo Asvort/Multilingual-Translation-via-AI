@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier">
+    <text>Modificador da quantidade de anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
+    <text>Altera quantas anomalias cada zona pode conter</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
+    <text>Raio da zona de anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
+    <text>Distância máxima do centro do terreno inteligente até a zona de anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
+    <text>Distância mínima entre anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
+    <text>Distância mínima entre anomalias na zona. Valores negativos permitem sobreposição.</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
+    <text>Chance de surgimento de zona de anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
+    <text>Chance de um terreno inteligente predefinido gerar uma zona de anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance">
+    <text>Chance de surgimento de artefatos</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
+    <text>Cada artefato até o limite tem essa chance de surgir</text>
+  </string>
+  <string id="ui_mcm_drx_da_choose_help">
+    <text>Abaixo você pode ativar seletivamente\n quais novos tipos de anomalias surgirão no jogo.</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode">
+    <text>Modo de depuração</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode_desc">
+    <text>Ativa mensagens detalhadas no console</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies">
+    <text>Excluir anomalias dinâmicas</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
+    <text>Exclui todas as zonas geradas. Para remover o mod com segurança, ative a opção, volte ao jogo, salve, saia e remova o mod.</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies">
+    <text>Desativar novas anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies_desc">
+    <text>Impede o surgimento de novos tipos. Entra em vigor após a próxima emissão, tempestade psi ou em um novo jogo.</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier">
+    <text>Modificador do campo elétrico</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier_desc">
+    <text>Altera o dano dos campos elétricos, mas não afeta falhas em dispositivos eletrônicos.</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour">
+    <text>Ativar comportamento dinâmico das anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
+    <text>Define se anomalias dinâmicas podem surgir e desaparecer na Zona.</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier">
+    <text>Modificador de tremor gravitacional</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
+    <text>Altera o tremor de tela perto de anomalias gravitacionais</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone">
+    <text>Máximo de artefatos por zona</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
+    <text>Define o máximo de artefatos que podem surgir em uma zona</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets">
+    <text>Predefinições</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets_desc">
+    <text>Escolha predefinições na lista</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance">
+    <text>Chance de artefato aleatório</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
+    <text>O nível define os artefatos possíveis: no sul surgem os fracos; no norte e no subsolo, os fortes. Esta chance permite qualquer artefato, inclusive os únicos.</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup">
+    <text>Salvar jogo após remover anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup_desc">
+    <text>Salva após uma emissão ou tempestade psi remover anomalias dinâmicas do nível.</text>
+  </string>
+  <string id="ui_mcm_drx_da_title">
+    <text>Arrival - Anomalias</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_cdf_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_flash_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_ghost_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_gold_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_net_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_point_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_seed_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_shatterpoint_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sloth_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sphere_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_thorn_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_umbra_enable">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_easy">
+    <text>Fácil</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_hard">
+    <text>Difícil</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_menu_drx_da">
+    <text>Arrival</text>
+  </string>
+</string_table>

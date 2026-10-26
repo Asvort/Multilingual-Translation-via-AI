@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_olddog">
+    <text>HUD Old Dog</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow">
+    <text>Compteur total de munitions</text>
+  </string>
+  <string id="ui_mcm_olddog_ammoshow_desc">
+    <text>Affiche la quantité TOTALE de munitions que vous possédez pour chacun des 3 types disponibles dans l’inventaire.</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar">
+    <text>Barre d’état de l’armure</text>
+  </string>
+  <string id="ui_mcm_olddog_armorbar_desc">
+    <text>Affiche la barre d’état de l’armure.</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext">
+    <text>Texte de l’état de l’armure</text>
+  </string>
+  <string id="ui_mcm_olddog_armortext_desc">
+    <text>Affiche l’état de l’armure en pourcentage avec un texte cyan. \n%c[ui_gray_2]Sans effet si la barre est désactivée.</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow">
+    <text>Barre de saignement</text>
+  </string>
+  <string id="ui_mcm_olddog_bleedingbarshow_desc">
+    <text>Affiche la quantité de sang perdue dans une barre située à côté de la barre de santé et qui se remplit de gauche à droite.</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar">
+    <text>Barre de prévision de santé</text>
+  </string>
+  <string id="ui_mcm_olddog_healingbar_desc">
+    <text>Affiche la quantité de santé récupérée sous forme de symboles de santé sur une grille de 1 par 10, au-dessus et en dessous de la barre de saignement. \n Il est recommandé d’activer aussi la barre de saignement.</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow">
+    <text>Anciennes munitions</text>
+  </string>
+  <string id="ui_mcm_olddog_oldammoshow_desc">
+    <text>Affiche les anciennes munitions lorsqu’elles sont pertinentes (par exemple, lorsqu’elles n’ont pas d’équivalent « amélioré »).</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow">
+    <text>Barre d’exposition aux radiations</text>
+  </string>
+  <string id="ui_mcm_olddog_radhealthshow_desc">
+    <text>Affiche votre niveau de radiation avec une icône à côté des barres d’endurance et psi, qui se remplit de bas en haut.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide">
+    <text>Masquer au déséquipement</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponbarhide_desc">
+    <text>Masque la barre d’état de l’arme lorsque vous la rangez. \n%c[ui_gray_2]Sans effet si la barre est désactivée.</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow">
+    <text>Barre d’état de l’arme</text>
+  </string>
+  <string id="ui_mcm_olddog_weaponshow_desc">
+    <text>Affiche la barre d’état de l’arme.</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext">
+    <text>Texte de l’état de l’arme</text>
+  </string>
+  <string id="ui_mcm_olddog_weapontext_desc">
+    <text>Affiche l’état de l’arme en pourcentage avec un texte orange. \n%c[ui_gray_2]Sans effet si la barre est désactivée.</text>
+  </string>
+  <string id="ui_mm_video_hud_dogslide">
+    <text>Options Old Dog</text>
+  </string>
+</string_table>

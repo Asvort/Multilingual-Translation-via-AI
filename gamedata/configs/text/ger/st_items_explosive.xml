@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_balon_gas">
+    <text>Gasflasche
+		</text>
+  </string>
+  <string id="st_balon_gas_descr">
+    <text>\n \n
+		%c[d_red]WARNUNG: Explodiert beim Aufprall\n \n
+		%c[ui_gray_1]Der schwere Metall-Gasballon ist innen mit einem geeigneten Polymer ausgekleidet und außen mit Hypalon gegen Witterung, Abrieb und UV-Strahlung beschichtet. Der faltbare Gasbehälter dient als Zwischenspeicher für Industriegase, bevor sie unter Druck abgefüllt werden. In der Zone enthalten solche Flaschen meist ein Gemisch aus Methan, Propan, Ethan und Butan und können zum Kochen, Heizen oder im Kampf verwendet werden. Bei direktem Beschuss kann sich der Behälter entzünden. Kurz darauf wird eine große Energiemenge freigesetzt: Das Gas dehnt sich schlagartig aus und verursacht eine verzögerte, aber heftige Explosion, die Metallsplitter in alle Richtungen schleudert. Solche Behälter wurden in den Fehden zwischen den Fraktionen der Zone als Waffen eingesetzt und haben viele Menschen getötet oder schwer verletzt. Ist der Ballon leer, kann er zur Reparatur von Anzügen verwendet werden.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n
+		%c[d_blue] • %c[ui_gray_2] enthält: %c[ui_gray_1] aufbereitetes Erdgas\n
+		%c[d_green] • %c[ui_gray_2] hochwertiger Kochbrennstoff\n
+		%c[d_purple] • %c[ui_gray_2] Auslösemechanismus: %c[ui_gray_1]Schusseinschlag oder Explosion\n
+		%c[d_purple] • %c[ui_gray_2] Explosionskraft: %c[ui_gray_1]sehr hoch\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] Splitterradius: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] durchschnittliche Splitterzahl: %c[ui_gray_1]28 (schwere Metallsplitter)\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsverzögerung: %c[ui_gray_1]~2 Sekunden\n
+		</text>
+  </string>
+  <string id="st_balon_gas_empty">
+    <text>Gasflasche (leer)</text>
+  </string>
+  <string id="st_balon_gas_empty_descr">
+    <text>Leerer schwerer Metall-Gasballon, innen mit geeignetem Polymer ausgekleidet und außen mit Hypalon gegen Witterung, Abrieb und UV-Strahlung beschichtet. Der faltbare Gasbehälter dient als Zwischenspeicher für Industriegase, bevor sie unter Druck abgefüllt werden. In der Zone enthalten solche Flaschen meist ein Gemisch aus Methan, Propan, Ethan und Butan und können zum Kochen, Heizen oder im Kampf verwendet werden. Er ist jetzt leer, lässt sich aber noch gut zur Instandhaltung von Anzügen verwenden.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n
+		</text>
+  </string>
+  <string id="st_ied">
+    <text>Improvisierter Sprengsatz (chemisch)</text>
+  </string>
+  <string id="st_ied_descr">
+    <text>Improvisierter Sprengsatz aus verschiedenen Chemikalien mit defektem elektrischem Zünder und einem Behälter aus Stahlkugeln. Die Chemikalien riechen stark und sind hochgiftig. Er ist deutlich stärker als die verbreitetere OG-7V-Version. In der Zone dient er zum Öffnen verschlossener Bereiche und für Hinterhalte; oft wird er neben Minen platziert, um die Explosion zu verstärken. Er lässt sich gut tarnen und ist dann nahezu unsichtbar.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] militärischer Gegenstand\n
+		%c[d_blue] • %c[ui_gray_2] am Boden kaum zu erkennen\n
+		%c[d_purple] • %c[ui_gray_2] Auslösemechanismus: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] Explosionskraft: %c[ui_gray_1]sehr hoch\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] Splitterradius: 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] durchschnittliche Splitterzahl: %c[ui_gray_1]580 (Stahlkugeln)\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsverzögerung: %c[ui_gray_1]keine\n
+		</text>
+  </string>
+  <string id="st_ied_rpg">
+    <text>Improvisierter Sprengsatz (OG-7V-Gefechtskopf)</text>
+  </string>
+  <string id="st_ied_rpg_descr">
+    <text>Improvisierter Sprengsatz auf Basis eines OG-7V-Gefechtskopfs und Teilen einer Autobatterie. Er wirkt alt und könnte jederzeit explodieren, doch der Zünder löst nur aus, wenn ihn eine Kugel direkt trifft oder eine andere starke Krafteinwirkung erfolgt. In der Zone nutzt man solche Sprengsätze zum Öffnen verschlossener Bereiche und für Hinterhalte; oft liegen sie neben Minen, um die Explosion zu verstärken. Er lässt sich wirksam tarnen.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] militärischer Gegenstand\n
+		%c[d_blue] • %c[ui_gray_2] am Boden kaum zu erkennen\n
+		%c[d_purple] • %c[ui_gray_2] Auslösemechanismus: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] Explosionskraft: %c[ui_gray_1]hoch\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] Splitterradius: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] durchschnittliche Splitterzahl: %c[ui_gray_1]440 (Schrapnell)\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsverzögerung: %c[ui_gray_1]keine\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel">
+    <text>Benzinkanister
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_descr">
+    <text>\n \n
+		%c[d_red]WARNUNG: Explodiert beim Aufprall\n \n
+		%c[ui_gray_1]Ein großer Metallkanister mit E95-Benzin. Das ukrainische Militär brachte große Mengen davon für seine Panzerfahrzeuge in die Zone. Sie erfüllten ihren Zweck, bis die Fahrzeuge nach der Zweiten Tschernobyl-Katastrophe aus bis heute unbekannten Gründen nicht mehr funktionierten. Manche Bewohner versuchen weiterhin, die Wracks wieder flottzumachen; andere nutzen die Kanister als improvisierte Sprengsätze. Ein direkter Treffer entzündet den Kanister, der nach kurzer Verzögerung explodiert. Er ist schwer und unhandlich, aber äußerst wirkungsvoll; gut platziert tötet er selbst jemanden in der schwersten Rüstung. Die Explosion kann so stark sein, dass der Täter selbst zum Opfer wird – also Vorsicht. Der erfahrene Stalker Yuya soll sich einmal gerettet haben, indem er einen Pseudogiganten in eine Kanisterfalle lockte. Er leerte sein letztes Makarow-Magazin, und der Riese ging mit einem Brüllen in Flammen auf, das man in ganz Jupiter hörte.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n
+		%c[d_blue] • %c[ui_gray_2] enthält: %c[ui_gray_1] E95 gasoline\n
+		%c[d_green] • %c[ui_gray_2] hochwertiger Kochbrennstoff\n
+		%c[d_purple] • %c[ui_gray_2] Auslösemechanismus: %c[ui_gray_1]Schusseinschlag oder Explosion\n
+		%c[d_purple] • %c[ui_gray_2] Explosionskraft: %c[ui_gray_1]hoch\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] Splitterradius: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] durchschnittliche Splitterzahl: %c[ui_gray_1]39 (schwere Metallsplitter)\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsverzögerung: %c[ui_gray_1]~3 Sekunden\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty">
+    <text>Leerer Kanister</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty_descr">
+    <text>Leerer Metallkanister. Er eignet sich nur als Material für einfache Anzugreparaturen oder zum Verkauf an Händler.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n
+		</text>
+  </string>
+  <string id="st_jerrycan_item">
+    <text>Kanister
+		</text>
+  </string>
+  <string id="st_metalcan_powder">
+    <text>Pulverdose
+		</text>
+  </string>
+  <string id="st_metalcan_powder_descr">
+    <text>\n \n
+		%c[d_red]WARNUNG: Explodiert beim Aufprall\n \n
+		%c[ui_gray_1]Eine kleine, recht schwere Metalldose mit einer Mischung aus industriellen Sprengchemikalien, Metallschrauben und -muttern sowie Schwarzpulver aus alter Munition. Eine berüchtigte Todesfalle, die von einer Gruppe russischer Banditen namens „Swireksters“ entwickelt und an verschiedene Banden in der Zone verkauft wurde. Bei direktem Beschuss explodiert die Dose sofort; Metallschrauben und ätzende Chemikalien fliegen in alle Richtungen. Wer diese tödliche Waffe einsetzen will, sollte keinesfalls unaufmerksam werden. Die Metallteile der Dose lassen sich auch zur Notfallreparatur von Anzügen verwenden.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n
+		%c[d_purple] • %c[ui_gray_2] Auslösemechanismus: %c[ui_gray_1]Schusseinschlag oder Explosion\n
+		%c[d_purple] • %c[ui_gray_2] Explosionskraft: %c[ui_gray_1]niedrig\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] Splitterradius: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] durchschnittliche Splitterzahl: %c[ui_gray_1]77 (gering metal pieces)\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsverzögerung: %c[ui_gray_1]keine\n
+		</text>
+  </string>
+  <string id="st_mine_descr">
+    <text>Die PFM-1 (Abkürzung für „Antipersonen-Sprengmine“; NATO-Bezeichnung: „Grüner Papagei“) war eine Standard-Antipersonenmine der Roten Armee und wurde vor allem während des sowjetischen Einmarschs in Afghanistan eingesetzt. Ihr weitverbreiteter Einsatz forderte viele zivile Opfer, besonders unter Kindern, die die verstreuten Minen wegen ihrer vertrauten Form und Farbe oft für Spielzeug hielten. Deshalb bekam die PFM-1 den düsteren Beinamen „Kindermörder“. Später wurde die Mine durch neuere Modelle ersetzt. Wie zahlreiche andere ausgemusterte Waffen gelangten jedoch viele davon auf unbekanntem Weg in die Zone und wurden dort zu einer verbreiteten Sprengfalle. Geschätzt wird die Mine vor allem wegen ihrer Funktionalität, einfachen Handhabung, kompakten Größe und ihres geringen Gewichts. Ihr größter Nachteil ist die relativ kleine Sprengladung: Sie reicht oft nicht aus, um einen schwer gepanzerten Stalker mit einer einzigen Explosion zu töten. Deshalb sollte die Mine zusammen mit anderen Sprengmitteln als Zünder verwendet werden. Ist sie nicht scharf gemacht, detoniert sie auch bei Beschuss nicht.\n \n
+		%c[ui_gray_3]EIGENSCHAFTEN:\n
+		%c[d_blue] • %c[ui_gray_2] Sprengstoff\n
+		%c[d_blue] • %c[ui_gray_2] militärischer Gegenstand\n
+		%c[d_blue] • %c[ui_gray_2] Antipersonenmine\n
+		%c[d_purple] • %c[ui_gray_2] Auslösemechanismus: %c[ui_gray_1]Druck\n
+		%c[d_purple] • %c[ui_gray_2] Explosionskraft: %c[ui_gray_1]gering\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] Splitterradius: %c[ui_gray_1]keine\n
+		%c[d_purple] • %c[ui_gray_2] durchschnittliche Splitterzahl: %c[ui_gray_1]keine\n
+		%c[d_purple] • %c[ui_gray_2] Explosionsverzögerung: %c[ui_gray_1]keine\n
+		</text>
+  </string>
+  <string id="st_mine_name">
+    <text>Verstreubare PFM-1-Antipersonenmine</text>
+  </string>
+</string_table>

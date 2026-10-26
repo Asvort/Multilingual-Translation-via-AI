@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_visbody_no_model_msg">
+    <text>VISIBLE BODY: AVISO: modelo não encontrado: </text>
+  </string>
+  <string id="st_visbody_no_model_msg_2">
+    <text>VISIBLE BODY: Se isso não ocorreu na última vez, equipe o traje novamente e salve.</text>
+  </string>
+  <string id="st_visbody_no_sec_msg">
+    <text>VISIBLE BODY: AVISO: seção Outfit-Body não encontrada: </text>
+  </string>
+  <string id="ui_mcm_menu_swm_legs">
+    <text>SWM Visible Body</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled">
+    <text>Desativar corpo (desinstalação segura; veja descrição)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_disabled_desc">
+    <text>Esta opção permite desinstalar o complemento com segurança.\n1) Ative a opção.\n2) Confira se o modelo do corpo desapareceu.\n3) Salve o jogo, saia e desative o complemento.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood">
+    <text>(Experimental) Exibir marcas de sangue no corpo</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_blood_desc">
+    <text>Golpes físicos fortes podem deixar marcas de sangue. Limitações do motor podem torná-las raras ou breves; a personalização ainda é limitada.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_debug_warnings">
+    <text>Ativar avisos de depuração</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt">
+    <text>(Experimental) Exibir marcas de sujeira no corpo</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_dirt_desc">
+    <text>Andar em terra ou água pode deixar sujeira no corpo. Limitações do motor podem torná-la rara ou breve; a personalização está incompleta.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims">
+    <text>Ativar animações aleatórias em repouso</text>
+  </string>
+  <string id="ui_mcm_swm_legs_enable_idle_anims_desc">
+    <text>Quando o personagem fica parado, animações de espera são reproduzidas após algumas pausas. Elas só tocam quando ele olha para baixo e vêm acompanhadas de um leve som de movimento.\nObservações:\n1) Foram feitas para funcionar com a opção de estados de combate/calmo ativada e ficam melhores assim.\n2) A alteração no tempo da pausa pode demorar para entrar em vigor.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+    <text>Ocultar o corpo ao agachar bastante</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_max_cooldown">
+    <text>Pausa máxima entre animações</text>
+  </string>
+  <string id="ui_mcm_swm_legs_idle_anim_min_cooldown">
+    <text>Pausa mínima entre animações (s)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset">
+    <text>Posição do corpo (mais perto/longe do centro)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_noncombat">
+    <text>Posição do corpo (perto/longe) em estado calmo</text>
+  </string>
+  <string id="ui_mcm_swm_legs_legs_offset_side">
+    <text>Posição do corpo (esquerda/direita)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_title">
+    <text>SWM Visible Body. Adaptado de Shoker Weapon Mod (CoP) por Shoker e colaboradores.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+    <text>Ativar sons de passos ao virar</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo">
+    <text>Ativar passos do exotraje ao virar</text>
+  </string>
+  <string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo_desc">
+    <text>Adiciona servomotores do exotraje aos passos comuns.\nRequer Exo Servo Sounds.\nAjuste o volume nesse complemento.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_turn_step_sound_volume">
+    <text>Volume dos passos</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state">
+    <text>Ativar estados de combate e calma</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_combat_state_desc">
+    <text>Quando ativada, algumas animações do corpo serão substituídas por novas se o personagem não estiver em estado de combate (estiver com uma arma em mãos, sem baixá-la, ou estiver lutando).\nQuando desativada, somente as animações padrão serão reproduzidas.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_hd_models">
+    <text>Usar modelos HD (requer o complemento HD Models Pack!)</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state">
+    <text>Ativar estados de movimento lento</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_slow_down_state_desc">
+    <text>Ativado, algumas animações dependem da velocidade. Se a corrida for lenta, pode tocar a animação de trote.</text>
+  </string>
+  <string id="ui_mcm_swm_legs_use_special_noncombat_shift">
+    <text>Usar posição especial do corpo em estado calmo</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled">
+    <text>Ativar melhorias visuais de armadura</text>
+  </string>
+  <string id="ui_mcm_swm_legs_visual_upg_enabled_desc">
+    <text>Se o traje tiver alguma melhoria de armadura, um colete será exibido.\nNo momento, isso só foi implementado para algumas jaquetas e trajes SSP-99.</text>
+  </string>
+</string_table>

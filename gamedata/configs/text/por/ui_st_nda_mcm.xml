@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_nda">
+    <text>NDA - NPCs morrem em anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay">
+    <text>Memória de anomalia (s)</text>
+  </string>
+  <string id="ui_mcm_nda_anomaly_memory_decay_desc">
+    <text>Por quanto tempo o NPC se lembra de uma anomalia detectada após sair da área. Anomalias lembradas não passam novamente pela rolagem de erro, mantendo a evasão confiável. 0 desativa a memória. Padrão: 30 s.</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius">
+    <text>Raio de detecção (m)</text>
+  </string>
+  <string id="ui_mcm_nda_base_detection_radius_desc">
+    <text>Distância em que os NPCs detectam anomalias. Um valor maior permite detectá-las antes, mas impõe mais restrições à busca de caminho. Padrão: 30 m.</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses">
+    <text>Bloquear em cadáveres</text>
+  </string>
+  <string id="ui_mcm_nda_block_anomalies_on_corpses_desc">
+    <text>Impede que anomalias sejam ativadas em corpos. Evita falhas de física ragdoll e melhora o desempenho.</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies">
+    <text>Bloquear saqueio em anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_block_corpse_loot_in_anomalies_desc">
+    <text>Impede que NPCs entrem em campos de anomalia para saquear corpos. Evita mortes em cadeia quando stalkers seguem uns aos outros para dentro da anomalia. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled">
+    <text>Área de interação</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_enabled_desc">
+    <text>Somente NPCs dentro do raio ao redor do jogador interagem com anomalias e podem sofrer dano ou evitá-las. Os que estiverem fora não recebem dano de anomalia. Desative para processar todos os NPCs ativos, independentemente da distância.</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius">
+    <text>Raio da área (m)</text>
+  </string>
+  <string id="ui_mcm_nda_bubble_radius_desc">
+    <text>Raio da área de interação ao redor do jogador. NPCs além dela ficam protegidos do dano de anomalias. Padrão: 150 m. Usado somente quando a área de interação está ativada.</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay">
+    <text>Atraso para reconstruir o cache (s)</text>
+  </string>
+  <string id="ui_mcm_nda_cache_rebuild_delay_desc">
+    <text>Atraso antes de reconstruir o cache de anomalias após uma emissão ou tempestade psi. Necessário para compatibilidade com o mod Arrival. Padrão: 2,5 s.</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers">
+    <text>Limpar marcadores antigos</text>
+  </string>
+  <string id="ui_mcm_nda_cleanup_map_markers_desc">
+    <text>Remove marcadores de anomalias e mortes de sessões anteriores. Ative, aplique e depois desative. A ação é executada uma única vez.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier">
+    <text>Combate</text>
+  </string>
+  <string id="ui_mcm_nda_combat_miss_multiplier_desc">
+    <text>Multiplicador da chance de erro em combate. NPCs distraídos têm muito mais chance de avançar contra anomalias. Padrão: 3,0x.</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage">
+    <text>Dano apenas em combate</text>
+  </string>
+  <string id="ui_mcm_nda_combat_only_damage_desc">
+    <text>NPCs só sofrem dano de anomalias em combate. Fora dele, continuam detectando e evitando anomalias, mas não sofrem dano de campos próximos. Ativado, substitui imunidade ao caminhar ou ficar parado, período de tolerância e multiplicadores de erro por movimento e patente; fora de combate os NPCs já são imunes. Desative para usar esses ajustes. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_community_excl_title">
+    <text>Exclusões por facção</text>
+  </string>
+  <string id="ui_mcm_nda_damage_title">
+    <text>Configurações de dano</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot">
+    <text>Marcador de morte por anomalia no mapa</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_map_spot_desc">
+    <text>Marca temporariamente no mapa um stalker morto por uma anomalia. O marcador vermelho some após 5 minutos e não é salvo.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news">
+    <text>Notícias de mortes por anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_debug_death_news_desc">
+    <text>Exibe uma notícia sempre que um stalker morre em uma anomalia: nome, patente e facção, anomalia responsável e local (nível e coordenadas).</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode">
+    <text>Modo de depuração</text>
+  </string>
+  <string id="ui_mcm_nda_debug_mode_desc">
+    <text>Ativa o registro de depuração no console. Mostra as rolagens de detecção, eventos de dano e atribuição de mortes.</text>
+  </string>
+  <string id="ui_mcm_nda_debug_title">
+    <text>Configurações de depuração</text>
+  </string>
+  <string id="ui_mcm_nda_detection_title">
+    <text>Configurações de detecção</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult">
+    <text>Proteção do traje</text>
+  </string>
+  <string id="ui_mcm_nda_enable_armor_damage_mult_desc">
+    <text>Reduz o dano de anomalias conforme o traje do NPC. Lê os valores de proteção nas configurações do traje (queimadura, choque, químico etc.).</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance">
+    <text>Desvio do mecanismo (feel)</text>
+  </string>
+  <string id="ui_mcm_nda_engine_avoidance_desc">
+    <text>Em campos pouco densos, permite que o sistema feel do mecanismo desvie NPCs das anomalias; eles também lançam parafusos. Evita todos os tipos, diferente das restrições do script, que só bloqueiam formas que afetam a malha de navegação (campos ácidos e elétricos não podem ser bloqueados). Use apenas em áreas pouco densas: o feel pode travar em grupos densos ou fechados. Desative para máxima estabilidade. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density">
+    <text>Limite de densidade do feel</text>
+  </string>
+  <string id="ui_mcm_nda_engine_feel_max_density_desc">
+    <text>Número máximo de anomalias em cerca de 12 m para considerar o campo pouco denso e usar a evasão feel do mecanismo. Campos mais densos usam restrições do script e corrida através deles. Valores maiores ativam feel em áreas mais cheias, melhorando o desvio, mas aumentando o risco de travamento; valores menores são mais seguros. Padrão: 3.</text>
+  </string>
+  <string id="ui_mcm_nda_general_title">
+    <text>Configurações gerais</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage">
+    <text>Pecado: ignorar dano de anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_damage_desc">
+    <text>NPCs da facção Pecado (Greh) são imunes ao dano de anomalias. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions">
+    <text>Pecado: ignorar desvio de anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_greh_ignore_restrictions_desc">
+    <text>NPCs da facção Pecado (Greh) não recebem restrições de caminho para evitar anomalias. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance">
+    <text>Imune com 0% de erro</text>
+  </string>
+  <string id="ui_mcm_nda_immune_zero_miss_chance_desc">
+    <text>NPCs com chance base de erro de 0% ficam totalmente imunes ao dano de anomalias. Uma proteção para veteranos.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army">
+    <text>Mortes de militares/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_army_desc">
+    <text>Máximo de NPCs Militares mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit">
+    <text>Mortes de bandidos/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_bandit_desc">
+    <text>Máximo de NPCs bandidos mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky">
+    <text>Mortes do Céu Limpo/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_csky_desc">
+    <text>Máximo de NPCs do Céu Limpo mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg">
+    <text>Mortes do Dever/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_dolg_desc">
+    <text>Máximo de NPCs do Dever mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog">
+    <text>Mortes de ecologistas/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_ecolog_desc">
+    <text>Máximo de NPCs Ecologistas mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom">
+    <text>Mortes da Liberdade/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_freedom_desc">
+    <text>Máximo de NPCs Liberdade mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh">
+    <text>Mortes do Pecado/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_greh_desc">
+    <text>Máximo de NPCs do Pecado mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_header">
+    <text>Por facção</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg">
+    <text>Mortes do ISG/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_isg_desc">
+    <text>Máximo de NPCs do ISG mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer">
+    <text>Mortes de mercenários/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_killer_desc">
+    <text>Máximo de NPCs Mercenários mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith">
+    <text>Mortes do Monólito/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_monolith_desc">
+    <text>Máximo de NPCs Monólito mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade">
+    <text>Mortes de renegados/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_renegade_desc">
+    <text>Máximo de NPCs renegados mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker">
+    <text>Mortes de solitários/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_stalker_desc">
+    <text>Máximo de NPCs solitários mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied">
+    <text>Mortes de zumbis/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_faction_zombied_desc">
+    <text>Máximo de NPCs zumbis mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global">
+    <text>Mortes totais/min (todos os NPCs)</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_global_desc">
+    <text>Limite total de NPCs mortos por anomalias por minuto, independentemente de facção ou patente. Ao atingir o limite no minuto móvel, todos os NPCs deixam de sofrer dano de anomalia até que mortes antigas saiam do intervalo. Este limite geral se soma aos limites por facção e patente. 0 = ilimitado. Padrão: 3.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced">
+    <text>Mortes de experientes/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_experienced_desc">
+    <text>Máximo de NPCs experientes mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert">
+    <text>Mortes de especialistas/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_expert_desc">
+    <text>Máximo de NPCs especialistas mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_header">
+    <text>Por patente</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend">
+    <text>Mortes de lendas/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_legend_desc">
+    <text>Máximo de NPCs lendários mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master">
+    <text>Mortes de mestres/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_master_desc">
+    <text>Máximo de NPCs mestres mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice">
+    <text>Mortes de novatos/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_novice_desc">
+    <text>Máximo de NPCs novatos mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional">
+    <text>Mortes de profissionais/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_professional_desc">
+    <text>Máximo de NPCs profissionais mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee">
+    <text>Mortes de aprendizes/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_trainee_desc">
+    <text>Máximo de NPCs aprendizes mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran">
+    <text>Mortes de veteranos/min</text>
+  </string>
+  <string id="ui_mcm_nda_kill_cap_rank_veteran_desc">
+    <text>Máximo de NPCs veteranos mortos por anomalias por minuto. 0 = ilimitado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit">
+    <text>Ativar limite de mortes</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_limit_desc">
+    <text>Limita quantos NPCs podem morrer por anomalias por minuto, separando facção e patente. O NPC fica protegido quando sua facção OU patente atinge o limite no minuto móvel. 0 significa ilimitado. Controle geral de todos os limites. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_kill_rate_title">
+    <text>Limite de mortes por anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores">
+    <text>Exclusões antigas fixas</text>
+  </string>
+  <string id="ui_mcm_nda_legacy_anomaly_ignores_desc">
+    <text>Continuar ignorando campos de anomalia excluídos quando os NPCs não conseguiam contornar grupos densos ou fechados com segurança (Cordon, Lixão, Território Selvagem, Armazéns do Exército). Desative para o NDA gerenciá-los pelo sistema atual: evitar anomalias, suprimir dano e permitir verificar corpos caídos dentro delas. Anomalias sem raio são sempre ignoradas. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled">
+    <text>Ativar NDA</text>
+  </string>
+  <string id="ui_mcm_nda_mod_enabled_desc">
+    <text>Ativa ou desativa o mod NDA por completo. Quando desativado, os NPCs ignoram totalmente as anomalias.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage">
+    <text>Monólito: ignorar dano de anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_damage_desc">
+    <text>NPCs da facção Monólito são imunes ao dano de anomalias, protegidos pela fé. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions">
+    <text>Monólito: ignorar desvio de anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_monolith_ignore_restrictions_desc">
+    <text>NPCs da facção Monólito não recebem restrições de caminho para evitar anomalias. Padrão: desativado.</text>
+  </string>
+  <string id="ui_mcm_nda_movement_title">
+    <text>Multiplicadores do estado de movimento</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout">
+    <text>Tempo limite de bloqueio (s)</text>
+  </string>
+  <string id="ui_mcm_nda_npc_stuck_timeout_desc">
+    <text>Por quanto tempo o NPC pode tentar contornar um campo sem avançar, como andando em círculos, antes de correr direto por ele e sofrer dano. Padrão: 20 s.</text>
+  </string>
+  <string id="ui_mcm_nda_pathfinding_title">
+    <text>Configurações de desvio</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance">
+    <text>Experiente</text>
+  </string>
+  <string id="ui_mcm_nda_rank_experienced_miss_chance_desc">
+    <text>Chance base de stalkers experientes não perceberem anomalias. Padrão: 30%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance">
+    <text>Especialista</text>
+  </string>
+  <string id="ui_mcm_nda_rank_expert_miss_chance_desc">
+    <text>Chance base de especialistas não perceberem anomalias. Padrão: 5%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance">
+    <text>Lenda</text>
+  </string>
+  <string id="ui_mcm_nda_rank_legend_miss_chance_desc">
+    <text>Chance base de lendas não perceberem anomalias. Padrão: 0%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance">
+    <text>Mestre</text>
+  </string>
+  <string id="ui_mcm_nda_rank_master_miss_chance_desc">
+    <text>Chance base de mestres não perceberem anomalias. Padrão: 0%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance">
+    <text>Novato</text>
+  </string>
+  <string id="ui_mcm_nda_rank_novice_miss_chance_desc">
+    <text>Chance base de stalkers novatos não perceberem anomalias. Quanto maior, maior a chance de entrarem nelas. Padrão: 75%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance">
+    <text>Profissional</text>
+  </string>
+  <string id="ui_mcm_nda_rank_professional_miss_chance_desc">
+    <text>Chance base de stalkers profissionais não perceberem anomalias. Padrão: 15%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_title">
+    <text>Chance base de erro por patente (%)</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance">
+    <text>Aprendiz</text>
+  </string>
+  <string id="ui_mcm_nda_rank_trainee_miss_chance_desc">
+    <text>Chance base de aprendizes não perceberem anomalias. Padrão: 50%.</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance">
+    <text>Veterano</text>
+  </string>
+  <string id="ui_mcm_nda_rank_veteran_miss_chance_desc">
+    <text>Chance base de veteranos não perceberem anomalias. Com 0%, eles nunca entram nelas. Padrão: 10%.</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius">
+    <text>Busca global de caminho</text>
+  </string>
+  <string id="ui_mcm_nda_restrictions_ignore_radius_desc">
+    <text>Ativado: todos os NPCs evitam anomalias, independentemente da distância. Desativado: as restrições afetam apenas NPCs dentro do raio de efeito.</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier">
+    <text>Correndo</text>
+  </string>
+  <string id="ui_mcm_nda_running_miss_multiplier_desc">
+    <text>Multiplicador da chance de erro enquanto o NPC corre. Quanto maior, mais provável que não perceba anomalias. Padrão: 1,2x.</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period">
+    <text>Período de tolerância (s)</text>
+  </string>
+  <string id="ui_mcm_nda_safe_grace_period_desc">
+    <text>Quando um NPC tranquilo começa a correr, continua imune ao dano de anomalias por estes segundos extras, evitando que um stalker em fuga sofra dano imediatamente. Não se aplica em combate. 0 desativa. Padrão: 10.</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies">
+    <text>Mostrar anomalias no mapa</text>
+  </string>
+  <string id="ui_mcm_nda_show_debug_anomalies_desc">
+    <text>Mostra todas as anomalias em cache como marcadores no mapa do PDA. Útil para depurar o caminho. Desative para remover os marcadores.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity">
+    <text>Imunidade parado</text>
+  </string>
+  <string id="ui_mcm_nda_standing_immunity_desc">
+    <text>Parados e fora de combate, NPCs sempre detectam e evitam anomalias e não sofrem dano. Protege guardas e acampados cujo posto fica dentro de um campo: sem isso, insistem em permanecer no local e morrem repetidamente. É independente da imunidade ao caminhar, então caminhar e correr ainda podem ser letais. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier">
+    <text>Parado</text>
+  </string>
+  <string id="ui_mcm_nda_standing_miss_multiplier_desc">
+    <text>Multiplicador da chance de erro quando o NPC está parado. Quanto menor o valor, mais cuidadosa é a observação. Padrão: 0,3x.</text>
+  </string>
+  <string id="ui_mcm_nda_title">
+    <text>NDA v3.0 - NPCs morrem em anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug">
+    <text>Depuração detalhada</text>
+  </string>
+  <string id="ui_mcm_nda_verbose_debug_desc">
+    <text>Ativa o registro detalhado: informações do ciclo de atualização, reconstruções do cache e mudanças de restrições. Gera mensagens demais!</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity">
+    <text>Imunidade ao caminhar</text>
+  </string>
+  <string id="ui_mcm_nda_walking_immunity_desc">
+    <text>Ao caminhar fora de combate, NPCs sempre detectam e evitam anomalias e não sofrem dano. Só vale para caminhada: ficar parado tem outra opção; corrida e combate usam os multiplicadores de movimento. Padrão: ativado.</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier">
+    <text>Caminhando</text>
+  </string>
+  <string id="ui_mcm_nda_walking_miss_multiplier_desc">
+    <text>Multiplicador da chance de erro enquanto o NPC caminha. Padrão: 0,6x.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage">
+    <text>Zumbificados: ignorar dano de anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_damage_desc">
+    <text>Stalkers zumbificados são imunes ao dano de anomalias. Padrão: desativado.</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions">
+    <text>Zumbificados: ignorar desvio de anomalias</text>
+  </string>
+  <string id="ui_mcm_nda_zombied_ignore_restrictions_desc">
+    <text>Stalkers zumbificados não recebem restrições de caminho para evitar anomalias: sem juízo, seguem em frente através delas. Padrão: ativado.</text>
+  </string>
+</string_table>

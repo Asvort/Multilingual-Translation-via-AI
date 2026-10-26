@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_sar_editor">
+    <text>Efekt düzenleyici</text>
+  </string>
+  <string id="ui_mcm_menu_sar_main">
+    <text>Ana</text>
+  </string>
+  <string id="ui_mcm_menu_spatial_audio">
+    <text>Uzamsal ses yenilemesi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_dbug">
+    <text>Geliştirici ayarları</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor1">
+    <text>Ön ayar düzenleyicisine hoş geldiniz. Nasıl kullanılacağını görmek için aşağı kaydırın.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor2">
+    <text>1. Düzenleyiciyi etkinleştirip özel ön ayarınızı yükleyin (ya da temel olarak başka bir ön ayar seçin).</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor3">
+    <text>2. Düzenlemeye başlayın, değeri değiştirin ve etkisini görmek için çıkın.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor4">
+    <text>3. İşiniz bitince aşağı kaydırın, özel ön ayar için bir ad girin (mevcut bir ayarın üzerine yazabilirsiniz) ve Export'a basın.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor5">
+    <text>4. İşte bu! Artık ön ayarı MCM'nin ana ayarlarından seçebilirsin.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor6">
+    <text>Tüm efektlerin belgeleri mod-folder/SAR-DOC/Effect Extension Guide.pdf konumundadır. Ön ayarı dışa aktardıktan sonra dosyasını mo2/overwrite/gamedata/script/[your_preset_name]_preset_inject.script konumunda bulabilirsiniz. Ön ayarınızı paylaşmak için bu dosyayı başkalarına gönderebilirsiniz.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_npc">
+    <text>NPC ayarları</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_preset">
+    <text>Ön ayar ayarları — yankıyla ilgili seçenekler. Varsayılan ön ayarları script/sar_reverb_preset.script dosyasında bulabilir veya Preset Editor sekmesinde özel bir ön ayar oluşturabilirsiniz.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_ray">
+    <text>Işın ayarları</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_threshold">
+    <text>Eşik ayarları — algılamanın hassasiyeti</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_air_absorption_gain_hf">
+    <text>Yüksek frekans hava soğurma kazancı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_limit">
+    <text>Yüksek frekans sönüm sınırı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_ratio">
+    <text>Yüksek frekans sönüm oranı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_lf_ratio">
+    <text>Düşük frekans sönüm oranı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_time">
+    <text>Sönümlenme süresi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_density">
+    <text>Yoğunluk</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_diffusion">
+    <text>Yayılma</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_depth">
+    <text>Yankı derinliği</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_time">
+    <text>Yankı süresi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_edit">
+    <text>Düzenleme modunu etkinleştir</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_enable_editor">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_export">
+    <text>Dışa aktar</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain">
+    <text>Kazanç</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_hf">
+    <text>Yüksek frekans kazancı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_lf">
+    <text>Düşük frekans kazancı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_hf_reference">
+    <text>Yüksek frekans referansı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_delay">
+    <text>Geç yankı gecikmesi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_gain">
+    <text>Geç yankı kazancı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_lf_reference">
+    <text>Düşük frekans referansı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb">
+    <text>Yükle</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb_name">
+    <text>Yankı adını yükle</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_depth">
+    <text>Modülasyon derinliği</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_time">
+    <text>Modülasyon süresi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_delay">
+    <text>Yansıma gecikmesi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_gain">
+    <text>Yansıma kazancı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reverb_name">
+    <text>Yankı adıyla dışa aktar</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_room_rolloff_factor">
+    <text>Oda sönüm faktörü</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_dbug">
+    <text>Hata ayıklama modu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc">
+    <text>NPC'ye özel ışın algılamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc_desc">
+    <text>Her NPC için ateş ettiğinde ve oyuncuya yeterince yakın olduğunda (100 birim) iç mekân algılaması yapılır. Nokta yeterince yüksekse özel iç mekân sesi çalar. Bunun yerine oyuncu algılamasını kullanmak için devre dışı bırakın. Daha iyi performans için kapatın. </text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval">
+    <text>Enterpolasyon aralığı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval_desc">
+    <text>Oda boyutu değerleri arasındaki enterpolasyon süresi. Daha kısa süre daha keskin değer sıçramalarına neden olur ve efektin fazla titremesini önler.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length">
+    <text>Büyük oda ön ayarı mesafesi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length_desc">
+    <text>Işının çarptığı noktalarla oyuncu arasındaki mesafe bu değere eşit veya daha fazlaysa büyük oda ön ayarı tam güçte çalar.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset">
+    <text>Büyük oda ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset_desc">
+    <text>Büyük oda için yankı ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength">
+    <text>Büyük oda ön ayarı gücü</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength_desc">
+    <text>Yankı etkisinin gücünü belirler: 0 hiç yankı yok, 1 etki tam güçte.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_length_interpolation_interval">
+    <text>Mesafe enterpolasyon aralığı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold">
+    <text>Alt eşik</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold_desc">
+    <text>İç mekân puanı (ışın isabetlerinin sayısı) bu eşiği aşarsa yankı sesi etkilemeye başlar.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length">
+    <text>Orta boy oda ön ayarı mesafesi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length_desc">
+    <text>Işının çarptığı noktalarla oyuncu arasındaki mesafe bu değere eşitse orta oda ön ayarı tam güçte çalar.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset">
+    <text>Orta boy oda ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset_desc">
+    <text>Orta boy oda için yankı ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength">
+    <text>Orta boy oda ön ayarı gücü</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength_desc">
+    <text>Yankı etkisinin gücünü belirler: 0 hiç yankı yok, 1 etki tam güçte.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_ray_bounce_count">
+    <text>NPC ışın yansıma sayısı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_tick_interval">
+    <text>NPC işlem aralığı (ms)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset">
+    <text>Dış mekân ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset_desc">
+    <text>Dış mekân için yankı ön ayarı (genellikle hiç yankı olmaz)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_bounce_count">
+    <text>Işın yansıma sayısı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_dbug">
+    <text>Işın hata ayıklama modu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_length_mult">
+    <text>Işın uzunluğu</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_show_replaced_sound">
+    <text>Değiştirilen sesi göster</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length">
+    <text>Küçük oda ön ayarı mesafesi</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length_desc">
+    <text>Işının çarptığı noktalarla oyuncu arasındaki mesafe bundan azsa küçük oda ön ayarı kullanılır.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset">
+    <text>Küçük oda ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset_desc">
+    <text>Küçük oda için yankı ön ayarı</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength">
+    <text>Küçük oda ön ayarı gücü</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength_desc">
+    <text>Yankı etkisinin gücünü belirler: 0 hiç yankı yok, 1 etki tam güçte.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_tick_interval">
+    <text>İşlem aralığı (ms)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold">
+    <text>Üst eşik</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold_desc">
+    <text>İç mekân puanı (ışın isabetlerinin sayısı) bu eşiği aşarsa efekt tam güce ulaşır ve özel iç mekân sesi çalar.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_volume">
+    <text>Ses düzeyi</text>
+  </string>
+</string_table>

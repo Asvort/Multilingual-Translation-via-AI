@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="exten_sion_pda">
+    <text>Ein teurer, wasser- und stoßfester PDA mit integriertem Musikplayer und Chat.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] spielt Musik ab und ermöglicht den Zugang zum Stalker-Netzwerk\n</text>
+  </string>
+  <string id="extension_pda">
+    <text>PDA mit Musikplayer und Chat</text>
+  </string>
+  <string id="st_actor_rads">
+    <text>Kumulierte Dosis</text>
+  </string>
+  <string id="st_batteries">
+    <text>Batteriesatz</text>
+  </string>
+  <string id="st_batteries_ccell">
+    <text>Militärischer Batterieblock</text>
+  </string>
+  <string id="st_batteries_ccell_descr">
+    <text>Ein Satz vollständig geladener Batterien, wie er in Militäreinheiten verwendet wird. Sie sind sehr wertvoll und stark gefragt, da in der Zone ständig Batterien knapp sind. Alle Fraktionen und Stalker jeder Rangstufe, vom Anfänger bis zum Meister, verwenden sie. Verkauft werden sie von Militäroffizieren, die in der Zone etwas dazuverdienen wollen.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n</text>
+  </string>
+  <string id="st_batteries_dead">
+    <text>Alte Batterien</text>
+  </string>
+  <string id="st_batteries_dead_descr">
+    <text>Nur eine von zehn in der Zone gefundenen Batterien hält noch eine Weile Ladung. Stalker scheinen sie nach dem Gebrauch weggeworfen zu haben, da passende Ladegeräte schwer zu finden sind. Ihre Außenhülle ist von Schmutz und Korrosion bedeckt — ein weiteres Zeichen dafür, dass sie „tot“ sind. Trotzdem lässt sich wie bei allem in der Zone noch eine Verwendung finden: Man kann ihnen etwa etwas Energie für häufiges Nachladen eines Universal-Ladegeräts entlocken.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>Jemand hat diesen Batteriesatz wahrscheinlich bereits benutzt, denn nur noch die Hälfte der Ladung ist übrig. Er ist für Taschenlampen, PDAs, Nachtsichtgeräte und andere elektronische Geräte vorgesehen. Denk daran, die Batterien rechtzeitig zu wechseln.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n</text>
+  </string>
+  <string id="st_broken_pda">
+    <text>Defekter PDA</text>
+  </string>
+  <string id="st_broken_pda_descr">
+    <text>Dieser PDA ist stark beschädigt: Die Hälfte des Displays ist zerbrochen und das GPS-Modul funktioniert nicht richtig. Das Innenleben ist weitgehend unversehrt.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n</text>
+  </string>
+  <string id="st_detector1">
+    <text>Echo-Detektor (T1)</text>
+  </string>
+  <string id="st_detector1_descr">
+    <text>Ein veralteter Detektor für anomale Aktivität. Bei Annäherung an Anomalien gibt er ein akustisches Signal aus, sobald anomale Partikel in seine Spezialkammer gelangen. Außerdem kann er Artefakte erkennen und die Entfernung zum nächsten messen; die Signalhäufigkeit zeigt die Entfernung an. Hebe die Antennenabdeckung an der Vorderseite an, um den Artefaktsuchmodus zu aktivieren. Aufgrund seiner einfachen Bauweise findet er nur die häufigsten Artefakte.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_detector2">
+    <text>Bär-Detektor (T2)</text>
+  </string>
+  <string id="st_detector2_descr">
+    <text>Ein Anomaliedetektor der vorherigen Generation. Er besitzt einen Anomalie-Orter und eine LED-Anzeige, die die Richtung zu Artefakten zeigt. Er kann Artefakte erkennen und ihre Entfernung bestimmen. Hebe die Antennenabdeckung an der Vorderseite an, um den Artefaktsuchmodus zu aktivieren. Leider ist die etwas veraltete Liste erkennbarer Artefakte fest in der Hardware gespeichert.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_detector3">
+    <text>Weles-Detektor (T3)</text>
+  </string>
+  <string id="st_detector3_descr">
+    <text>Ein Detektor-Scanner der neuen Generation, der von Wissenschaftlern verwendet wird. Dank drei verbesserter Messkammern zeigt ein Spezialbildschirm die Position eines Artefakts relativ zum Detektor an. Das Gerät kann Strahlung und Anomalien erkennen. Hebe die Anzeige an der Vorderseite an, um den Artefaktsuchmodus zu aktivieren; in diesem Modus findet es alle der Wissenschaft bekannten Artefakte.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] hoher Energieverbrauch\n</text>
+  </string>
+  <string id="st_detector4">
+    <text>Svarog-Detektor-Prototyp (T4)</text>
+  </string>
+  <string id="st_detector4_descr">
+    <text>Prototyp eines Anomaliezonen-Scanners mit erweitertem Funktionsumfang. Ein Programm zur Erkennung statischer, in der Datenbank gespeicherter Anomaliezonen wurde ergänzt; Artefakte kann das Gerät weiterhin aufspüren. Ein Spezialbildschirm zeigt die Position von Anomaliezonen und Artefakten relativ zum Detektor. Das Artefaktsuchprogramm, das durch Anheben der Anzeige an der Vorderseite aktiviert wird, wurde verbessert. Theoretisch kann das Gerät dadurch auch der Wissenschaft noch unbekannte Anomalieformationen entdecken.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] hoher Energieverbrauch\n</text>
+  </string>
+  <string id="st_detector8">
+    <text>Messgerät für anomale Aktivität</text>
+  </string>
+  <string id="st_detector8_descr">
+    <text>Der erste Prototyp wurde 2008 im mobilen Forschungslabor auf Jantar unter Professor Sacharow entwickelt. Nach erfolgreichen Feldtests wurden viele weitere Exemplare hergestellt. Das Gerät kann Messwerte und Daten anomaler Felder verarbeiten und aufzeichnen. Verbesserte Sensoren und ein verstärktes Gehäuse gewährleisten den Betrieb selbst unter schwierigsten Bedingungen; dank der hohen Empfindlichkeit bei Erfassung und Verfolgung lässt es sich in vielen Umgebungen einsetzen.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_detector9">
+    <text>HF-Empfänger</text>
+  </string>
+  <string id="st_detector9_descr">
+    <text>Kleines Gerät mit hochempfindlichem Hochfrequenzmodul für grundlegende Kommunikation. Trotz veralteter Technik ist es beim Militär recht verbreitet. Es kann Signale in bis zu 200 Metern Entfernung empfangen und Funkwellen im Bereich von 30 bis 300 MHz verarbeiten.\n \n %c[0,56,166,209]Bedienungsanleitung%c[ui_gray_1]:\nNimm das Gerät in die Hand, um es zu verwenden.\nBei freier rechter Hand lassen sich die Frequenzen wie folgt ändern:\n• Linksklick erhöht die Frequenz.\n• Rechtsklick senkt die Frequenz.\n• Halte L-Shift, um die Frequenz in 10-Hz-Schritten (+/-) zu ändern.\n• Halte L-Alt, um die Frequenz in 50-Hz-Schritten (+/-) zu ändern.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_device_flashlight">
+    <text>Taschenlampe</text>
+  </string>
+  <string id="st_device_flashlight_descr">
+    <text>Eine gewöhnliche Handlampe, den Gebrauchsspuren nach zu urteilen bereits benutzt. Sie ist ein wichtiges und lebensnotwendiges Hilfsmittel beim Streifen durch die Zone. Leider lässt sie sich mit den meisten Waffen nicht verwenden, da nur eine Hand frei bleibt.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>Eine gewöhnliche Stirnlampe, die dabei hilft, sich im Dunkeln nicht zu verirren. In den Händen eines unvorsichtigen Stalkers kann sie sowohl unerwünschte Personen als auch Mutanten anlocken.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>Stirnlampe (T1)</text>
+  </string>
+  <string id="st_device_torch_nv_1_descr">
+    <text>Eine Standard-Stirnlampe mit einem Nachtsichtgerät 1PN93-1. Sie liefert Bilder der Generation 2+ und ist besonders nachts sowie bei schwachem Licht nützlich.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_purple] • %c[ui_gray_2] Nachtsichtgerät: %c[ui_gray_1]1PN93-1\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_device_torch_nv_1_name">
+    <text>Stirnlampe mit 1PN93-1 (T2)</text>
+  </string>
+  <string id="st_device_torch_nv_2_descr">
+    <text>Eine Stirnlampe, die nützlich ist, wenn einen Stalker unterwegs die Nacht überrascht, aber unerwünschte Aufmerksamkeit erregen kann. Sie besitzt einen IIT-Bildverstärker der Generation 2+ und ist für Nachteinsätze bei natürlichem Licht sowie für völlige Dunkelheit mit eingeschaltetem IR-Strahler ausgelegt.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_purple] • %c[ui_gray_2] Nachtsichtgerät: %c[ui_gray_1]PN21KL\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_device_torch_nv_2_name">
+    <text>Stirnlampe mit PN21KL (T3)</text>
+  </string>
+  <string id="st_device_torch_nv_3_descr">
+    <text>Das Stirnlampen- und Nachtsichtgerät-Set verfügt über einen verbesserten Antrieb, Linsen und Software, die Bildrauschen beseitigen und die Fähigkeiten des PN21K für ein schärferes Bild deutlich erweitern. Dadurch entspricht es praktisch einem vollwertigen Nachtsichtgerät der IIT-Generation 3.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_purple] • %c[ui_gray_2] Nachtsichtgerät: %c[ui_gray_1]„Orakel“\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_device_torch_nv_3_name">
+    <text>Stirnlampe mit Nachtsichtgerät „Orakel“ (T4)</text>
+  </string>
+  <string id="st_dosimeter_mode">
+    <text>Dosimetermodus</text>
+  </string>
+  <string id="st_electric power">
+    <text>Universelles Ladegerät (ULG)</text>
+  </string>
+  <string id="st_electric power_descr">
+    <text>Ein kleines tragbares Netzteil aus der Zeit des Kalten Krieges, etwa so groß wie ein kleines Funkgerät. Es eignet sich für nahezu alle Akku- und Batterietypen. Es nutzt Batterien bis zum letzten Rest aus und überträgt die Energie über die mitgelieferten dünnen Kabel an elektronische Geräte. Fast jedes Gerät lässt sich anschließen, unabhängig von Komplexität und Baujahr. Solche Geräte helfen Stalkern, ihre Elektronik betriebsbereit zu halten.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] tragbare Stromquelle\n %c[d_blue] • %c[ui_gray_2] unterstützt die meisten modernen Geräte\n %c[d_blue] • %c[ui_gray_2] unterstützt alle Batterietypen\n %c[d_blue] • %c[ui_gray_2] Kapazität: %c[ui_gray_1]3 Ah (Amperestunden)\n</text>
+  </string>
+  <string id="st_environment_rads">
+    <text>Hintergrundstrahlung</text>
+  </string>
+  <string id="st_geiger_dead">
+    <text>Dosimeter</text>
+  </string>
+  <string id="st_geiger_dead_descr">
+    <text>Ein Dosimeter zur Messung ionisierender (radioaktiver) Strahlung. Es erkennt Alpha-, Beta- und Gammastrahlung.\nDer 1908 erfundene Geigerzähler ist noch immer ein verbreitetes technisches Gerät und Bestandteil zahlreicher Messinstrumente in Gesundheitswesen, Physik, Industrie, Geologie und anderen Bereichen. Solche Geräte werden aus einfachen elektronischen Schaltungen hergestellt.\n \n %c[0,56,166,209]Merkmale%c[ui_gray_1]: \n• Zeigt in der Hand Hintergrundstrahlung und kumulierte Dosis in Echtzeit an; mit „SHIFT+8“ wird der Modus gewechselt. \n• Zeigt Messwerte an, wenn der Standard-Hotkey „8“ gedrückt wird, während sich der Zähler im Inventar befindet“.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät \n %c[d_orange] • %c[ui_gray_2] misst radioaktive Kontamination\n %c[d_blue] • %c[ui_gray_2] mittlerer Energieverbrauch\n</text>
+  </string>
+  <string id="st_gps_tracker">
+    <text>Militärisches GPS-Modul</text>
+  </string>
+  <string id="st_gps_tracker_descr">
+    <text>Prototyp eines GPS-Navigationsgeräts der nächsten Generation. Es wurden nur wenige Exemplare hergestellt und an hochrangige Militärs verteilt, doch einige sind bereits in andere Hände gelangt.\nEs funktioniert selbst in der aggressivsten Umgebung zuverlässig. Anders als gewöhnliche GPS-Module nutzt dieser Prototyp Schlüsselsätze, um direkt auf vernetzte Geräte zuzugreifen und deren Daten abzurufen. Außerdem kann er die Koordinaten anderer GPS-Module im Umkreis von 300 Metern übertragen. Der Nachteil ist der sehr hohe Energieverbrauch. Nach 20 Sekunden ununterbrochenem Scannen schaltet sich das Gerät automatisch ab.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] sehr hoher Energieverbrauch\n</text>
+  </string>
+  <string id="st_musicplayer">
+    <text>Radio</text>
+  </string>
+  <string id="st_musicplayer_desc">
+    <text>Ein modifiziertes Radio, das andere Sender finden und möglichst viele Störungen herausfiltern soll.\n \n %c[ui_gray_2]EIGENSCHAFTEN:\n \n %c[d_cyan] • %c[ui_gray_2] technisches Gerät\n</text>
+  </string>
+  <string id="st_pda_1_descr">
+    <text>Ein leicht veralteter PDA mit Grundfunktionen, den viele Stalker noch verwenden. Er ist für den täglichen Nachrichtenaustausch unverzichtbar. Sein eingebautes GPS-Modul ermittelt Uhrzeit und Standort des Benutzers und liefert weitere geografische Daten.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] niedriger Energieverbrauch\n</text>
+  </string>
+  <string id="st_pda_1_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_2_descr">
+    <text>Eines der neuesten PDA-Modelle mit erweitertem Funktionsumfang. Es enthält digitale Tagebücher und detaillierte Karten von Gebieten und Anomalienstellen. Für den täglichen Nachrichtenaustausch ist es unverzichtbar. Das eingebaute GPS-Modul ermittelt Uhrzeit und Standort des Benutzers und liefert weitere geografische Daten. Dieses Modell kann außerdem andere PDAs im Umkreis von 300 Metern erkennen und ihre Koordinaten übermitteln. Viele Stalker hätten gern so eins.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] niedriger Energieverbrauch\n %c[d_purple] • %c[ui_gray_2] zeigt die Position der Trupps der Spielerfraktion an\n</text>
+  </string>
+  <string id="st_pda_2_name">
+    <text>PDA (Modell 2.0)</text>
+  </string>
+  <string id="st_pda_3_descr">
+    <text>Möglicherweise das modernste PDA-Modell, das derzeit erhältlich ist. Sein deutlich verbesserter Algorithmus erkennt und überträgt Daten anderer PDAs im Umkreis von 300 Metern. Anders als gewöhnliche GPS-Module verwendet es Schlüsselsätze, um direkt auf vernetzte Geräte zuzugreifen und deren Daten abzurufen. Aufgrund dieser Fähigkeiten ist das Modell bei Stalkern sehr begehrt.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] niedriger Energieverbrauch\n %c[d_purple] • %c[ui_gray_2] zeigt die Position neutraler Trupps an\n</text>
+  </string>
+  <string id="st_pda_3_name">
+    <text>PDA (Modell 3.1)</text>
+  </string>
+  <string id="st_pda_descr">
+    <text>Ein gewöhnlicher PDA, den jeder Streuner in der Zone bei sich trägt. Er enthält digitale Tagebücher und detaillierte Karten der Gebiete und Anomalien. Wenn du den richtigen Händler findest, kannst du mit gefundenen PDAs gutes Geld verdienen.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] niedriger Energieverbrauch</text>
+  </string>
+  <string id="st_pda_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_weather_radar">
+    <text>Doppler-Wetterradar-Set</text>
+  </string>
+  <string id="st_weather_radar_descr">
+    <text>Ein Satz moderner meteorologischer Geräte mit einem Wetterradar, das den Doppler-Effekt nutzt. Eine wahre technische Meisterleistung der Meteorologie: Ein über einen Wellenleiter mit einer Parabolantenne verbundener Magnetron sendet gerichtete Mikrowellenimpulse von etwa einer Mikrosekunde Dauer aus, um Wetterdaten zu erfassen.\nZwei Forscher fanden heraus, dass ein Meat-Chunk-Artefakt nahe der Antenne die Impulse so stark verstärken kann, dass sie in den oberen Atmosphärenschichten Ionen und damit die Eigenschaften der gesamten Atmosphäre verändern.\n \n %c[ui_gray_3]EIGENSCHAFTEN:\n %c[d_blue] • %c[ui_gray_2] technisches Gerät\n %c[d_blue] • %c[ui_gray_2] meteorologische Ausrüstung\n %c[d_blue] • %c[ui_gray_2] wird von einem Meat-Chunk-Artefakt gespeist\n</text>
+  </string>
+</string_table>

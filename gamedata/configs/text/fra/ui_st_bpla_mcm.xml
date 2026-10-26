@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Activez ou désactivez séparément les fonctions du PDA du drone.
+		\n \nChaque fonction ne marche qu’après l’achat et le ravitaillement du drone avant une sortie ; vous pouvez ici masquer celles qui ne vous intéressent pas. Les changements s’appliquent immédiatement, sans nouvelle partie.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Les fonctions ne marchent qu’après l’achat et le ravitaillement du drone avant une sortie.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Mise en évidence des champs contenant des artefacts</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Les cercles des champs d’anomalies sur la carte deviennent cyan lorsqu’un artefact s’y trouve.
+		\n \nDésactivez cette option si vous ne souhaitez pas mettre les champs en évidence.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Marqueurs de caches</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Met en évidence sur la carte du PDA les caches connues et leur contenu tant que le drone est chargé.
+		\n \nDésactivez cette option si vous utilisez le drone uniquement pour les artefacts.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Alertes de vol d’artefacts</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>Le drone envoie un message au PDA lorsqu’un PNJ proche ramasse un artefact : faction, armure et direction (sans nom).
+		\n \nDésactivez cette option si vous ne souhaitez pas recevoir ces alertes.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]Drone de reconnaissance UAV</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]Drone de reconnaissance UAV</text>
+  </string>
+</string_table>

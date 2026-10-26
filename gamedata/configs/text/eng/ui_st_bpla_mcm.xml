@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_bpla_desc_top">
+    <text>Enable or disable the UAV's PDA features individually.
+		\n \nEvery feature still works only after the UAV is purchased and refueled before a raid — here you can just hide the ones you don't like. Changes apply immediately, no new game needed.</text>
+  </string>
+  <string id="ui_mcm_bpla_info">
+    <text>Features only work after the UAV is purchased and refueled before a raid.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts">
+    <text>Artifact field highlight</text>
+  </string>
+  <string id="ui_mcm_bpla_show_artifacts_desc">
+    <text>Anomaly-field circles on the map turn cyan when an artifact is inside.
+		\n \nTurn off if you don't want field highlighting.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes">
+    <text>Stash markers</text>
+  </string>
+  <string id="ui_mcm_bpla_show_stashes_desc">
+    <text>Highlight known stashes with contents on the PDA map while the UAV is charged.
+		\n \nTurn off if you use the UAV only for artifacts.</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft">
+    <text>Artifact theft alerts</text>
+  </string>
+  <string id="ui_mcm_bpla_show_theft_desc">
+    <text>PDA message from the UAV when a nearby NPC picks up an artifact: faction, armor and direction (no name).
+		\n \nTurn off if you don't want these alerts.</text>
+  </string>
+  <string id="ui_mcm_bpla_title">
+    <text>%c[255,80,200,255]UAV Recon Drone</text>
+  </string>
+  <string id="ui_mcm_menu_bpla">
+    <text>%c[255,80,200,255]UAV Recon Drone</text>
+  </string>
+</string_table>

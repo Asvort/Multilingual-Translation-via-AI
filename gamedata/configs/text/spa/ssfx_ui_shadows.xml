@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_lst_shadows_128">
+    <text>128</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_1536">
+    <text>1536</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_1536_V">
+    <text>1536 ( original )</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_2048">
+    <text>2048</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_256">
+    <text>256</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_2560">
+    <text>2560</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_3072">
+    <text>3072</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_4096">
+    <text>4096</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_512">
+    <text>512</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_768">
+    <text>768</text>
+  </string>
+  <string id="ui_mcm_lst_shadows_768_V">
+    <text>768 ( original )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows">
+    <text>Sombras e iluminación</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_max_mcm">
+    <text>Resolución máxima de las sombras</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_max_mcm_desc">
+    <text>Resolución máxima del mapa de sombras. Cuando las luces están más cerca, la resolución aumenta para mejorar la calidad de las sombras a costa del rendimiento.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_min_mcm">
+    <text>Resolución mínima de las sombras</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_min_mcm_desc">
+    <text>Resolución mínima del mapa de sombras. Cuando las luces están lejos del jugador, la resolución de las sombras baja para mejorar el rendimiento a costa de la calidad de imagen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm">
+    <text>Nivel de detalle de las sombras</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm_desc">
+    <text>Calidad base del mapa de sombras. Cuanto mayor sea el valor, mayor será la resolución inicial y la resolución de las sombras a distancia.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_title">
+    <text>Ajustes de sombras e iluminación</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm">
+    <text>Forzar iluminación volumétrica ( requiere recargar el mapa )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm_desc">
+    <text>Fuerza el efecto volumétrico en todas las luces no direccionales. Recarga el mapa para aplicar el ajuste.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm">
+    <text>Intensidad de la iluminación volumétrica</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm_desc">
+    <text>Define la intensidad del efecto volumétrico.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm">
+    <text>Calidad de la iluminación volumétrica</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm_desc">
+    <text>Define la calidad del efecto volumétrico a costa del rendimiento.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm">
+    <text>Resolución de la iluminación volumétrica</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm_desc">
+    <text>Resolución de renderizado de la iluminación volumétrica como porcentaje de la resolución actual. [ min: 14% ~ max: 100% ]</text>
+  </string>
+</string_table>

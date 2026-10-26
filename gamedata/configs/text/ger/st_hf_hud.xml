@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_hf_advanced_msg">
+    <text>$key_interact - Objekt platzieren\n
+            \n
+            Transformationen:\n
+            MOUSE1 - Auf der horizontalen Ebene bewegen\n
+            MOUSE2 - Um die vertikale Achse drehen\n
+            LSHIFT + MOUSE1 - Entlang der vertikalen Achse bewegen\n
+            \n
+            Modifikatoren:\n
+            LALT - Einrasten\n
+            LCTRL - Feinsteuerung\n
+            \n
+            $key_mode - Zum Vorschaumodus wechseln\n
+            ESCAPE - Zum normalen Modus wechseln\n
+        </text>
+  </string>
+  <string id="st_hf_holding_msg">
+    <text>$key_interact - Objekt platzieren\n
+            \n
+            $key_collision - Kollisionserkennung umschalten\n
+            $key_align - Oberflächenausrichtung umschalten\n
+            \n
+            $key_mode - Zum erweiterten Modus wechseln\n
+            ESCAPE - Platzierung abbrechen\n
+        </text>
+  </string>
+  <string id="st_hf_preview_msg">
+    <text>$key_interact - Objekt platzieren\n
+            \n
+            ESCAPE - Platzierung abbrechen\n
+            $key_mode - Zum erweiterten Modus wechseln
+        </text>
+  </string>
+</string_table>

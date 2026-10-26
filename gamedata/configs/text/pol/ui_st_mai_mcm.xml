@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Promień wykrywania (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>Odległość wykrywania anomalii przez NPC. Więcej = wcześniejsze wykrycie, ale więcej ograniczeń. Domyślnie: 30 m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Blokuj na zwłokach</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Nie pozwala anomaliom aktywować się na zwłokach. Zapobiega błędom ragdoll i poprawia wydajność.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Opóźnienie przebudowy pamięci (s)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Opóźnienie przebudowy cache po emisji lub burzy psi. Wymagane przez Arrival. Domyślnie: 2,5 s</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Usuń stare znaczniki</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Usuwa znaczniki z poprzednich sesji. Włącz, zastosuj, potem wyłącz.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>W walce</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Mnożnik przeoczenia w walce. Rozproszone NPC częściej wpadają w anomalie. Domyślnie: 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Ustawienia obrażeń</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Tryb debugowania</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Zapisuje w konsoli wykrycia, obrażenia i przyczyny śmierci.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Ustawienia wykrywania</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Promień działania (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>NPC poza tym zasięgiem są chronieni przed obrażeniami od anomalii. Domyślnie: 300 m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Ochrona kombinezonu</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>Zmniejsza obrażenia według ochrony kombinezonu NPC przed ogniem, porażeniem, chemią itd.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Ustawienia ogólne</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>Odporność przy 0% szansy przeoczenia</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>NPC z bazową szansą przeoczenia 0% są odporni na obrażenia od anomalii.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>Włącz MAI</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>Włącza lub wyłącza MAI. Po wyłączeniu NPC ignorują anomalie.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Mnożniki stanu ruchu</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Doświadczony</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia doświadczonych stalkerów. Domyślnie: 50%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Ekspert</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia ekspertów. Domyślnie: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Legenda</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia legend. Domyślnie: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Mistrz</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia mistrzów. Domyślnie: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Nowicjusz</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia nowicjuszy. 100% oznacza, że stale wpadają w anomalie. Domyślnie: 100%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Profesjonalista</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia profesjonalistów. Domyślnie: 25%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Bazowa szansa przeoczenia według rangi (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Rekrut</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia rekrutów. Domyślnie: 75%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Weteran</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Bazowa szansa przeoczenia weteranów. 0% oznacza, że nigdy nie wejdą w anomalię. Domyślnie: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Globalne wyznaczanie tras</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Włączone: wszystkie NPC omijają anomalie. Wyłączone: ograniczenia tylko w zasięgu.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Biegnąc</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Mnożnik przeoczenia podczas biegu. Więcej = częstsze przeoczenia. Domyślnie: 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Pokazuj anomalie na mapie</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Oznacza anomalie z pamięci podręcznej na PDA, by debugować trasy. Wyłącz, by usunąć znaczniki.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Stojąc</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>Mnożnik przeoczenia, gdy NPC stoi. Mniej = uważniej obserwuje. Domyślnie: 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — interakcje mutantów z anomaliami</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Szczegółowe debugowanie</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Szczegóły aktualizacji, pamięci podręcznej i ograniczeń. Bardzo dużo komunikatów!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Idąc</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Mnożnik przeoczenia podczas marszu. Domyślnie: 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Interakcja z anomaliami</text>
+  </string>
+</string_table>

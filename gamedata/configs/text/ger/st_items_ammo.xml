@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ammo-11.43x23-fmj">
+    <text>.45-ACP-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_bad">
+    <text>.45-ACP-Patronen (alt)</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_descr">
+    <text>Die .45er Vollmantelpatrone ist dank ihrer ballistischen Leistung und der relativ kleinen Treibladung seit hundert Jahren beliebt. Das Geschoss ist langsam, aber sehr präzise und hat eine beträchtliche Mannstoppwirkung.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_s">
+    <text>.45 FMJ</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_verybad">
+    <text>.45-ACP-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-11.43x23-hydro">
+    <text>.45-ACP-Hydra-Shok-HP-Patronen</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_bad">
+    <text>.45-ACP-Hydra-Shok-HP-Patronen (alt)</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_descr">
+    <text>Diese ungewöhnliche .45-ACP-Patrone besitzt ein ummanteltes Teilmantelgeschoss mit hohlem Stahlkern und vereint die Vor- und Nachteile beider Bauweisen.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_s">
+    <text>.45 AP</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_verybad">
+    <text>.45-ACP-Hydra-Shok-HP-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-12.7x55-fmj">
+    <text>12,7×55-mm-STs-130-Patronen</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_bad">
+    <text>12,7×55-mm-STs-130-Patronen (alt)</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_descr">
+    <text>Die 12,7x55-mm-SC-130 ist eine russische Gewehrpatrone mit Unterschallgeschoss. TsKIB SOO entwickelte sie, um geschützte Ziele und Personen in schweren Schutzwesten leise und ohne Mündungsblitz auf bis zu 600 m zu bekämpfen.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_s">
+    <text>12,7×55 FMJ</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_verybad">
+    <text>12,7×55-mm-STs-130-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-12x70-buck">
+    <text>12×70-Schrotpatronen</text>
+  </string>
+  <string id="ammo-12x70-buck_bad">
+    <text>12×70-Schrotpatronen (alt)</text>
+  </string>
+  <string id="ammo-12x70-buck_descr">
+    <text>Eine gewöhnliche Patrone im Kaliber 12 mit 9-mm-Postenschrot. Auf mittlere und kurze Distanz hat sie eine enorme tödliche und stoppende Wirkung. Für Glattrohrwaffen und Flinten vorgesehen.\n \n%c[ui_gray_1]BESONDERHEIT:\n%c[d_purple] • %c[ui_gray_2] verschießt eine Schrotgarbe, geringe effektive Reichweite\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-12x70-buck_s">
+    <text>12×70 buck</text>
+  </string>
+  <string id="ammo-12x70-buck_self">
+    <text>Selbstgemachte 12×70-Schrotpatronen</text>
+  </string>
+  <string id="ammo-12x70-buck_self_descr">
+    <text>Eine selbstgefertigte Patrone im Kaliber 12 mit 6-mm-Schrot. Auf kurze Distanz äußerst wirksam. Sie kann nur in Glattrohrwaffen und Flinten verwendet werden.\n\n%c[d_purple] • %c[ui_gray_2] Panzerungsdurchschlag: %c[ui_gray_1]keiner\n%c[d_purple] • %c[ui_gray_2] Gewebeschaden: %c[ui_gray_1]mittel\n\n%c[ui_gray_1]BESONDERHEIT:\n\n%c[d_purple] • %c[ui_gray_2] verschießt eine Schrotgarbe, geringe effektive Reichweite</text>
+  </string>
+  <string id="ammo-12x70-buck_verybad">
+    <text>12×70-Schrotpatronen (beschädigt)</text>
+  </string>
+  <string id="ammo-12x76-bull">
+    <text>12×76-Bull-Patronen</text>
+  </string>
+  <string id="ammo-12x76-bull_descr">
+    <text>Spezialgeschoss im Kaliber 12 zum Erlegen von Dinosauriern und Mutanten. Das lange, kupferbeschichtete Bleigeschoss enthält einen pfeilförmigen Stahlkern. Die große Pulverladung erzeugt einen Rückstoß, der die Hände verletzen kann.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-12x76-bull_s">
+    <text>12×76 Bull</text>
+  </string>
+  <string id="ammo-12x76-dart">
+    <text>12×76-Panzerbrechende Flintenlaufgeschosse</text>
+  </string>
+  <string id="ammo-12x76-dart_bad">
+    <text>12×76-Panzerbrechende Flintenlaufgeschosse (alt)</text>
+  </string>
+  <string id="ammo-12x76-dart_descr">
+    <text>Von Hand geladene Patrone im Kaliber 12, bestückt mit dem Expansivgeschoss «Impuls-8» und einer erhöhten Pulverladung. Das Geschoss «Impuls-8» hat einen Expansivmantel mit einem Stahlkugel-Kern. Auf dem «großen Festland» werden solche Patronen mangels Nutzen nicht verwendet (denn nach einem Treffer wird alles, was aus Fleisch besteht, zu Hackfleisch); in der Zone ist diese Munition jedoch für die Jagd auf die gefährlichsten Mutanten sehr begehrt. Hervorragende Ballistik in Verbindung mit außergewöhnlicher Mannstoppwirkung. Nachteile sind der sehr hohe Preis und der erhöhte Verschleiß der Waffe. Der Stahlkern des Geschosses kann eine mittelschwere kugelsichere Weste durchschlagen\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-12x76-dart_s">
+    <text>12×76-Panzerbrechende Flintenlaufgeschosse</text>
+  </string>
+  <string id="ammo-12x76-dart_verybad">
+    <text>12×76-Panzerbrechende Flintenlaufgeschosse (beschädigt)</text>
+  </string>
+  <string id="ammo-12x76-zhekan">
+    <text>12×76-Flintenlaufgeschosse</text>
+  </string>
+  <string id="ammo-12x76-zhekan_bad">
+    <text>12×76-Flintenlaufgeschosse (alt)</text>
+  </string>
+  <string id="ammo-12x76-zhekan_descr">
+    <text>Dieses schwere Flintenlaufgeschoss im Kaliber 12 wird normalerweise für die Großwildjagd verwendet, eignet sich aber auch für andere Zwecke. Statt die Panzerung zu durchbohren, zerquetscht es sich hindurch.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-12x76-zhekan_s">
+    <text>12×76-Flintenlaufgeschoss</text>
+  </string>
+  <string id="ammo-12x76-zhekan_verybad">
+    <text>12×76-Flintenlaufgeschosse (beschädigt)</text>
+  </string>
+  <string id="ammo-338-lapua">
+    <text>.338-Lapua-Magnum-Patronen</text>
+  </string>
+  <string id="ammo-338-lapua_bad">
+    <text>.338-Lapua-Magnum-Patronen (alt)</text>
+  </string>
+  <string id="ammo-338-lapua_descr">
+    <text>Die .338 Lapua Magnum ist eine spezialisierte randlose Flaschenhalspatrone mit Zentralfeuerzündung für militärische Scharfschützengewehre großer Reichweite. Die Kriege in Afghanistan und im Irak bewiesen ihre Gefechtstauglichkeit und sorgten für gute Verfügbarkeit. Sie eignet sich gegen Personen und Material, wobei ihre Wirkung gegen Material begrenzt ist.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-338-lapua_s">
+    <text>.338 Lapua Magnum</text>
+  </string>
+  <string id="ammo-338-lapua_verybad">
+    <text>.338-Lapua-Magnum-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-357-hp">
+    <text>.357-HP-Patronen</text>
+  </string>
+  <string id="ammo-357-hp_bad">
+    <text>.357-HP-Patronen (alt)</text>
+  </string>
+  <string id="ammo-357-hp_descr">
+    <text>Die .357-HP-Patrone hat ein Hohlspitzgeschoss. Es wird beim Aufprall abgebremst, wodurch die Durchschlagskraft sinkt, aber innere Gewebe stärker beschädigt werden.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-357-hp_s">
+    <text>.357 HP</text>
+  </string>
+  <string id="ammo-357-hp_verybad">
+    <text>.357-HP-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-4.6x30-fmj">
+    <text>4,6×30-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_bad">
+    <text>4,6×30-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_descr">
+    <text>Die HK-4,6×30-mm-Patrone wird hauptsächlich in der Selbstverteidigungswaffe Heckler &amp; Koch MP7 eingesetzt. Sie soll Gewicht und Rückstoß verringern und zugleich die Durchschlagskraft gegen Schutzwesten erhöhen. Sie hat eine Flaschenhalshülse und ein spitzes Geschoss mit Stahlkern und Messingmantel.  \n		\n%c[d_purple] - %c[ui_gray_2] Panzerungsdurchschlag: %c[ui_gray_1]BR3  \n		\n%c[d_purple] - %c[ui_gray_2] Fleischschaden: %c[ui_gray_1]niedrig - mittel</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_s">
+    <text>4,6×30 FMJ</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_verybad">
+    <text>4,6×30-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.45x39-ap">
+    <text>5,45×39-mm-panzerbrechende Patronen</text>
+  </string>
+  <string id="ammo-5.45x39-ap_bad">
+    <text>5,45×39-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-5.45x39-ap_descr">
+    <text>Militärische 7N22-Panzerpatrone im Kaliber 5,45×39 mm für Sturmgewehre der Warschauer-Pakt-Staaten. Das Geschoss besitzt einen Hartmetallpenetrator und wirkt gegen Schutzwesten.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.45x39-ap_s">
+    <text>5,45×39 AP</text>
+  </string>
+  <string id="ammo-5.45x39-ap_verybad">
+    <text>5,45×39-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.45x39-ep">
+    <text>5,45×39-mm-Hohlspitzpatronen</text>
+  </string>
+  <string id="ammo-5.45x39-ep_bad">
+    <text>5,45×39-mm-Hohlspitzpatronen (alt)</text>
+  </string>
+  <string id="ammo-5.45x39-ep_descr">
+    <text>Die Militärpatrone 7N10 im Kaliber 5,45x39 mm mit einem Geschoss erhöhter Durchschlagskraft (PP) wird in automatischen Gewehren vieler Mitgliedsstaaten des Warschauer Pakts verwendet. Der wärmebehandelte Stahlkern des Geschosses sorgt für eine bessere Zieldurchdringung.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.45x39-ep_s">
+    <text>5,45×39 HP</text>
+  </string>
+  <string id="ammo-5.45x39-ep_verybad">
+    <text>5,45×39-mm-Hohlspitzpatronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.45x39-fmj">
+    <text>5,45×39-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_bad">
+    <text>5,45×39-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_descr">
+    <text>Die Militärpatrone 7N6 im Kaliber 5,45×39 mm war die erste Standardmunition für Sturmgewehre der Warschauer-Pakt-Staaten mit dem neuen Zwischenkaliber. Der geringere Rückstoß verbessert die Präzision gegenüber 7,62 mm und erhöht die Reichweite um 100 Meter.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_s">
+    <text>5,45×39 FMJ</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_verybad">
+    <text>5,45×39-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.56x45-ap">
+    <text>5,56×45-mm-panzerbrechende Patronen</text>
+  </string>
+  <string id="ammo-5.56x45-ap_bad">
+    <text>5,56×45-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-5.56x45-ap_descr">
+    <text>Diese Patrone im Kaliber 5,56x45 mm ist unter der Bezeichnung M855A1 bekannt und die neueste von der US-Armee verwendete Patrone des Typs Enhanced Performance Round. Das Geschoss besteht aus einem Kupfer-Teilmantel mit Stahlspitze, erreicht eine höhere Geschwindigkeit und durchdringt Panzerung besser als das Geschoss SS109/M855. Es wirkt wirksamer gegen gegnerische Panzerung und Weichteile.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.56x45-ap_s">
+    <text>5,56×45 AP</text>
+  </string>
+  <string id="ammo-5.56x45-ap_verybad">
+    <text>5,56×45-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.56x45-fmj">
+    <text>5,56×45-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_bad">
+    <text>5,56×45-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_descr">
+    <text>Die NATO-Standardpatrone M193 im Kaliber 5,56×45 mm wurde für präzises automatisches Feuer entwickelt und bietet gute ballistische Eigenschaften. Sie basiert auf einer Jagdpatrone, ist aus dem Vietnamkrieg bekannt und wirkt stark gegen Weichgewebe, hat aber eine begrenzte Durchschlagskraft.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_s">
+    <text>5,56×45 FMJ</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_verybad">
+    <text>5,56×45-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.56x45-ss190">
+    <text>5,56×45-mm-Hohlspitzpatronen</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_bad">
+    <text>5,56×45-mm-Hohlspitzpatronen (alt)</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_descr">
+    <text>Standardpatrone der NATO-Truppen im Kaliber 5,56x45 mm, bekannt unter der Bezeichnung M855, mit Stahlkern. Trotz geringerer Schäden an Weichteilen hat diese Patrone eine erhöhte Durchschlagskraft.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_s">
+    <text>5,56×45 HP</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_verybad">
+    <text>5,56×45-mm-Hohlspitzpatronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.7x28-ss190">
+    <text>5,7×28-mm-SS190-Patronen</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_bad">
+    <text>5,7×28-mm-SS190-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_descr">
+    <text>Die 5,7x28-mm-Patrone SS190 wurde Mitte der 1980er-Jahre vom belgischen Unternehmen Fabrique Nationale eigens für die Maschinenpistole FN P90 entwickelt. Später wurde sie auch in der Five-seveN-Pistole verwendet. Ihre Durchschlagskraft ist höher als die anderer Pistolenpatronen. Das Geschoss erreicht eine Mündungsgeschwindigkeit von bis zu 716 m/s und kann eine Schutzweste durchschlagen. Die Stoppwirkung ist dreimal so hoch wie bei der 9x19-mm-Patrone.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_s">
+    <text>5,7×28 AP</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_verybad">
+    <text>5,7×28-mm-SS190-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-5.7x28-ss195">
+    <text>5,7×28-mm-SS195-Patronen</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_bad">
+    <text>5,7×28-mm-SS195-Patronen (alt)</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_descr">
+    <text>Die 5,7x28-mm-Patrone SS195LF besitzt ein Expansionsgeschoss. Ihre Durchschlagskraft ist geringer als die der SS190, dafür sind Stoppwirkung und Tödlichkeit höher.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_s">
+    <text>5,7×28 FMJ</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_verybad">
+    <text>5,7×28-mm-SS195-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-50-bmg">
+    <text>.50-BMG-Patronen</text>
+  </string>
+  <string id="ammo-50-bmg_bad">
+    <text>.50-BMG-Patronen (alt)</text>
+  </string>
+  <string id="ammo-50-bmg_descr">
+    <text>.50 BMG (12,7x99 mm) ist eine großkalibrige Patrone, die in den 1920er-Jahren für das schwere Maschinengewehr Browning M1921 (M2HB) entwickelt wurde. Im Zweiten Weltkrieg war sie bei allen alliierten Staaten im Einsatz und wurde hauptsächlich in Flugzeugmaschinengewehren verwendet. Zusammen mit Lend-Lease-gepanzerten Fahrzeugen und Flugzeugen wurde sie auch an die UdSSR geliefert.\nNach dem Zweiten Weltkrieg verbreitete sich .50 BMG weltweit, außer in den Staaten des Warschauer Pakts, als NATO-Standardpatrone großen Kalibers für Infanteriemaschinengewehre. Heute wird sie von mehr als 30 Herstellern nach US-Normen gefertigt. Es gibt mehrere Varianten: gewöhnliche M2, panzerbrechende M2, panzerbrechend-brandstiftende M8, brandstiftende M1 und Leuchtspur-M1. Patronen für anhaltende Feuerstöße werden zu Gurten verbunden.\nDie Patrone wird außerdem in großkalibrigen Scharfschützengewehren verwendet.\n\n%c[d_purple] • %c[ui_gray_2] Panzerungsdurchschlagklasse: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Gewebeschaden: %c[ui_gray_1]hoch</text>
+  </string>
+  <string id="ammo-50-bmg_s">
+    <text>.50 BMG</text>
+  </string>
+  <string id="ammo-50-bmg_verybad">
+    <text>.50-BMG-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x25-p">
+    <text>7,62×25-mm-P-Patronen</text>
+  </string>
+  <string id="ammo-7.62x25-p_bad">
+    <text>7,62×25-mm-P-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x25-p_descr">
+    <text>Eine sowjetische 7,62-mm-Pistolenpatrone, heute als 7,62x25 mm Tokarew bekannt. Das Geschoss hat einen Bleikern und einen tombakplattierten Stahlmantel. Die Mündungsgeschwindigkeit beträgt 420 m/s, die Energie 510 J. Zur sicheren Verbindung des Geschosses mit der Messinghülse wurde deren Mund rundum gecrimpt und anschließend eingerollt. In den Depots der Einheiten der russischen Streitkräfte lagern noch sehr große Bestände dieser Patronen.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x25-p_s">
+    <text>7,62×25 P</text>
+  </string>
+  <string id="ammo-7.62x25-p_verybad">
+    <text>7,62×25-mm-P-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x25-ps">
+    <text>7,62×25-mm-Pst-Patronen</text>
+  </string>
+  <string id="ammo-7.62x25-ps_bad">
+    <text>7,62×25-mm-Pst-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x25-ps_descr">
+    <text>Die 7,62×25-mm-Patrone mit Stahlkern ist eine russische Flaschenhalspistolenpatrone, die in ehemaligen sowjetischen Satellitenstaaten, China, Pakistan und weiteren Ländern verbreitet ist. Sie wirkt sehr effektiv gegen ungeschützte Ziele.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x25-ps_s">
+    <text>7,62×25 Pst</text>
+  </string>
+  <string id="ammo-7.62x25-ps_verybad">
+    <text>7,62×25-mm-Pst-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x39_ap">
+    <text>7,62×39-mm-M43-Patronen</text>
+  </string>
+  <string id="ammo-7.62x39_ap_bad">
+    <text>7,62×39-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x39_ap_descr">
+    <text>Die 7,62×39-M43 ist eine in China hergestellte panzerbrechende Patrone und wird deshalb oft „7,62×39 CN“ genannt. Ihr Weichstahlkern verbessert die Durchschlagskraft. Diese chinesische Patrone ist wie alle M43-Munition derzeit von der Einfuhr in die USA ausgeschlossen, da das Bundesrecht sie als panzerbrechende Kurzwaffenmunition einstuft. Die Einstufung beruht auf Material und Geschossdesign, nicht auf der empirischen Fähigkeit, Panzerung zu durchdringen.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x39_ap_s">
+    <text>7,62×39 AP</text>
+  </string>
+  <string id="ammo-7.62x39_ap_verybad">
+    <text>7,62×39-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x39_fmj">
+    <text>7,62×39-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_bad">
+    <text>7,62×39-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_descr">
+    <text>Die 7,62×39-mm-Vollmantelpatrone gehört zu den verbreitetsten Munitionsarten, besonders in Afrika und im Nahen Osten. Wegen ihrer Beliebtheit bei terroristischen und kriminellen Organisationen nennen manche sie „Revolutionspatrone“. Aufgrund ihrer hohen Leistung setzen viele Streitkräfte zusätzliche Stahlplatten gegen 7,62×39 ein, da man ihr im Gefecht häufig begegnet.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_s">
+    <text>7,62×39 FMJ</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_verybad">
+    <text>7,62×39-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x51_ap">
+    <text>7,62×51-mm-NATO-panzerbrechende Patronen</text>
+  </string>
+  <string id="ammo-7.62x51_ap_bad">
+    <text>7,62×51-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x51_ap_descr">
+    <text>Militärische M61-Panzerpatrone im Kaliber 7,62×51 mm mit gehärtetem Stahlkern. Sie verursacht weiterhin hohen Schaden und wirkt deutlich besser gegen Schutzwesten.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x51_ap_s">
+    <text>7,62×51 AP</text>
+  </string>
+  <string id="ammo-7.62x51_ap_verybad">
+    <text>7,62×51-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x51_fmj">
+    <text>7,62×51-mm-NATO-Patronen</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_bad">
+    <text>7,62×51-mm-NATO-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_descr">
+    <text>Die 7,62×51-mm-NATO-Patrone ist eine militärische Variante der .308 und war bis zur Einführung der 5,56-mm-Munition in den 1970ern während des Vietnamkriegs NATO-Standard. Heute wird sie vor allem von privaten Militärunternehmen weltweit eingesetzt. Das verbreitete Maschinengewehrkaliber eignet sich auch für Kampf- und Scharfschützengewehre.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_s">
+    <text>7,62×51 FMJ</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_verybad">
+    <text>7,62×51-mm-NATO-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x54-7n1">
+    <text>7,62×54-mm-7N1-Patronen</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_bad">
+    <text>7,62×54-mm-7N1-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_descr">
+    <text>Eine 7,62×54-mm-Scharfschützenpatrone mit Stahlpenetrator, speziell für die SVD entwickelt. Ihr Stahlkern soll leichte Panzerung durchschlagen. In der Zone ist sie weit verbreitet und recht günstig.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_s">
+    <text>7,62×54 7N1</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_verybad">
+    <text>7,62×54-mm-7N1-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x54-ap">
+    <text>7,62×54-mm-panzerbrechende Patronen</text>
+  </string>
+  <string id="ammo-7.62x54-ap_bad">
+    <text>7,62×54-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x54-ap_descr">
+    <text>Die preisgünstige panzerbrechende Maschinengewehrpatrone 7N13 im Kaliber 7,62x54 mm. Aufgrund ihrer Konstruktion ist sie nicht für den Einsatz in Scharfschützengewehren geeignet und wird deshalb als Munition für das PKM-Maschinengewehr verwendet. Diese Patrone hat eine erhöhte Leistung und dank ihres Stahlkerns eine sehr gute Durchschlagskraft. Eine leistungsstarke Patrone für eine leistungsstarke Waffe.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x54-ap_s">
+    <text>7,62×54 AP</text>
+  </string>
+  <string id="ammo-7.62x54-ap_verybad">
+    <text>7,62×54-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x54-r">
+    <text>7,62×54-mm-PP-Patronen</text>
+  </string>
+  <string id="ammo-7.62x54-r_bad">
+    <text>7,62×54-mm-PP-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x54-r_descr">
+    <text>Die veraltete 7,62×54-PP-Gewehrpatrone wurde gegen Ende des 19. Jahrhunderts im Russischen Reich eingeführt und nach dem Zweiten Weltkrieg noch von der UdSSR verwendet. Sie wurde für das Mosin-Nagant-Standardgewehr entwickelt und ist wegen dessen Beliebtheit in der Zone häufig. Sie ist relativ günstig (50er-Packungen) und durchschlagskräftiger als erwartet, selbst im Vergleich zu moderner Munition. Auch als preiswerte Alternative im PKM verwendbar.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x54-r_s">
+    <text>7,62×54 PP</text>
+  </string>
+  <string id="ammo-7.62x54-r_verybad">
+    <text>7,62×54-mm-PP-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.62x54_7n14">
+    <text>7,62×54-mm-7N14-Patronen</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_bad">
+    <text>7,62×54-mm-7N14-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_descr">
+    <text>Die speziell entwickelte, modernisierte 7,62×54-mm-Scharfschützenpatrone verwendet das panzerbrechende 7N14-Geschoss. Das Geschoss besitzt einen kombinierten Kern aus Blei und gehärtetem Stahl der Güte U12A, der Schutzwesten und kleine Hindernisse durchschlagen kann. Im Vergleich zu einer Standardpatrone desselben Kalibers hat es einen leichteren Heckbereich, was für höhere Präzision und verbesserte ballistische Eigenschaften sorgt.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_s">
+    <text>7,62×54 7N14</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_verybad">
+    <text>7,62×54-mm-7N14-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.92x33_ap">
+    <text>7,92×57-mm-PS-Patronen</text>
+  </string>
+  <string id="ammo-7.92x33_ap_bad">
+    <text>7,92×57-mm-PS-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.92x33_ap_descr">
+    <text>Die 7,92×57-PS-Patrone wurde von den britischen Streitkräften gegen gepanzerte Ziele eingesetzt. Ihr gehärteter Stahlkern sorgt für hohe Durchschlagskraft. Sie wird vor allem auf große Entfernungen verwendet und ist hochwertiger als die Standardpatrone. Sie eignet sich für einige Scharfschützengewehre.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.92x33_ap_s">
+    <text>7,92×57 mm PS</text>
+  </string>
+  <string id="ammo-7.92x33_ap_verybad">
+    <text>7,92×57-mm-PS-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-7.92x33_fmj">
+    <text>7,92×57-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_bad">
+    <text>7,92×57-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_descr">
+    <text>Die 7,92×57-mm-Mauser-Patrone wurde vom Deutschen Kaiserreich und später vom Dritten Reich eingeführt. Zwischen den beiden Weltkriegen gehörte sie zu den beliebtesten Patronen. Heute wird sie hauptsächlich für Jagd und Sportschießen verwendet.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_s">
+    <text>7,92×57 FMJ</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_verybad">
+    <text>7,92×57-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x18-ap">
+    <text>9×18-mm-panzerbrechende Patronen</text>
+  </string>
+  <string id="ammo-9x18-ap_bad">
+    <text>9×18-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x18-ap_descr">
+    <text>Die RG028 ist für ihre Durchschlagskraft bekannt und soll Schutzwesten mit einem gehärteten Stahlkern überwinden. Leider ist sie keine große Verbesserung gegenüber der Standardmunition und hat lediglich eine stärkere Wirkung als eine gewöhnliche 9×18-mm-Patrone.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x18-ap_s">
+    <text>9×18 AP</text>
+  </string>
+  <string id="ammo-9x18-ap_verybad">
+    <text>9×18-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x18-fmj">
+    <text>9×18-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-9x18-fmj_bad">
+    <text>9×18-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x18-fmj_descr">
+    <text>Vollmantelgeschoss mit Stahlpenetrator und Bleikern unter dem Mantel. Es hat eine gute Mannstoppwirkung, ist aber gegen Schutzwesten wenig wirksam.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x18-fmj_s">
+    <text>9×18 FMJ</text>
+  </string>
+  <string id="ammo-9x18-fmj_verybad">
+    <text>9×18-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x18-pmm">
+    <text>9×18-mm-+P+-Patronen</text>
+  </string>
+  <string id="ammo-9x18-pmm_bad">
+    <text>9×18-mm-+P+-Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x18-pmm_descr">
+    <text>Die 7N16-Patrone hat eine erhöhte Mannstoppwirkung. Die europäische Kennzeichnung +P+ steht für sehr hohen Gasdruck im Patronenlager. Ihr Geschoss ist 30 % schneller als das einer Standardpatrone. Gegen Schutzwesten ist sie wenig wirksam.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x18-pmm_s">
+    <text>9×18 mm +P+</text>
+  </string>
+  <string id="ammo-9x18-pmm_verybad">
+    <text>9×18-mm-+P+-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x19-ap">
+    <text>9×19-mm-panzerbrechende Patronen</text>
+  </string>
+  <string id="ammo-9x19-ap_bad">
+    <text>9×19-mm-panzerbrechende Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x19-ap_descr">
+    <text>Die panzerbrechende 9×19-mm-Patrone besitzt ein Geschoss mit Stahlkern. Sie wurde entwickelt, um die Durchschlagsfähigkeit von Pistolen und Maschinenpistolen zu verbessern. Sie wird hauptsächlich von Anti-Terror- und Spezialeinheiten der Polizei eingesetzt, wenn diese auf Gegner treffen, die durch Schutzwesten geschützt sind.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x19-ap_s">
+    <text>9×19 AP</text>
+  </string>
+  <string id="ammo-9x19-ap_verybad">
+    <text>9×19-mm-panzerbrechende Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x19-fmj">
+    <text>9×19-mm-FMJ-Patronen</text>
+  </string>
+  <string id="ammo-9x19-fmj_bad">
+    <text>9×19-mm-FMJ-Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x19-fmj_descr">
+    <text>Diese einfache 9×19-mm-Patrone mit Mantelgeschoss ist leistungsfähig und leicht herzustellen. Sie ist beliebt, weil internationale Abkommen den Einsatz von Expansivmunition im Kampf verbieten. Gegen Schutzwesten unwirksam.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x19-fmj_s">
+    <text>9×19 FMJ</text>
+  </string>
+  <string id="ammo-9x19-fmj_verybad">
+    <text>9×19-mm-FMJ-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x19-pbp">
+    <text>9×19-mm-Hohlspitzpatronen</text>
+  </string>
+  <string id="ammo-9x19-pbp_bad">
+    <text>9×19-mm-Hohlspitzpatronen (alt)</text>
+  </string>
+  <string id="ammo-9x19-pbp_descr">
+    <text>Das ummantelte 9×19-mm-Hohlspitzgeschoss hat eine hohe Mannstoppwirkung und neigt kaum zu Abprallern. Es wird von der Polizei und zur Selbstverteidigung verwendet. Gegen Schutzwesten ist es wegen der geringen Durchschlagskraft unwirksam, verursacht aber hohen Gewebeschaden. Eine der günstigsten Munitionsarten, um Mutanten in der Zone effektiv zu töten.\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x19-pbp_s">
+    <text>9×19 HP</text>
+  </string>
+  <string id="ammo-9x19-pbp_verybad">
+    <text>9×19-mm-Hohlspitzpatronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x39-ap">
+    <text>9×39-mm-SP-6-Patronen</text>
+  </string>
+  <string id="ammo-9x39-ap_bad">
+    <text>9×39-mm-SP-6-Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x39-ap_descr">
+    <text>Die SP-6 ist eine Unterschall-Panzerpatrone mit ummanteltem Teilmantelgeschoss und hartem Stahlkern, der aus der Hülse herausragt. Für heimliche Schüsse wird ein Schalldämpfer benötigt. Sie wurde von Spezialeinheiten der Warschauer-Pakt-Staaten verwendet und wirkt gegen leichte Schutzwesten.\n \n%c[ui_gray_1]BESONDERHEITEN:\n%c[d_red] • %c[ui_gray_2] Unterschallmunition\n%c[d_purple] • %c[ui_gray_2] starker Geschossabfall auf große Entfernung\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x39-ap_s">
+    <text>9×39 SP-6</text>
+  </string>
+  <string id="ammo-9x39-ap_verybad">
+    <text>9×39-mm-SP-6-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-9x39-pab9">
+    <text>9×39-mm-SP-5-Patronen</text>
+  </string>
+  <string id="ammo-9x39-pab9_bad">
+    <text>9×39-mm-SP-5-Patronen (alt)</text>
+  </string>
+  <string id="ammo-9x39-pab9_descr">
+    <text>SP-5 ist eine Unterschallpatrone mit Bimetallhülse und Stahlkern; der Hohlraum dahinter ist mit Blei gefüllt. Für heimliche Schüsse wird ein Schalldämpfer benötigt. Sie wurde von Spezialeinheiten des Warschauer Pakts verwendet.\n \n%c[ui_gray_1]BESONDERHEITEN:\n%c[d_red] • %c[ui_gray_2] Unterschallmunition\n%c[d_purple] • %c[ui_gray_2] starker Geschossabfall auf große Entfernung\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-9x39-pab9_s">
+    <text>9×39 SP-5</text>
+  </string>
+  <string id="ammo-9x39-pab9_verybad">
+    <text>9×39-mm-SP-5-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo-gauss">
+    <text>Batterien</text>
+  </string>
+  <string id="ammo-gauss_bad">
+    <text>Batterien (alt)</text>
+  </string>
+  <string id="ammo-gauss_cardan">
+    <text>Selbstgemachte Batterien</text>
+  </string>
+  <string id="ammo-gauss_cardan_descr">
+    <text>Diese Zellen mit geringerer Kapazität nutzen gekapselte Fragmente des Artefakts „Blitz“. Die geringe Kapazität ist auf die improvisierte Herstellung und fehlende Spezialausrüstung zurückzuführen.\n \n%c[d_purple] - %c[ui_gray_2] Panzerungsdurchschlag: %c[ui_gray_1]V\n%c[d_purple] - %c[ui_gray_2] Fleischschaden: %c[ui_gray_1]sehr hoch\n \n%c[ui_gray_1]BESONDERHEIT:\n \n%c[d_purple] - %c[ui_gray_2] technischer Gegenstand\n%c[d_purple] - %c[ui_gray_2] Prototyp</text>
+  </string>
+  <string id="ammo-gauss_descr">
+    <text>Diese Batterien nutzen ein gekapseltes Fragment des Artefakts „Blitz“ als Energiequelle und wurden mit Hightech-Ausrüstung hergestellt.\n \n%c[ui_gray_1]BESONDERHEITEN:\n%c[d_purple] • %c[ui_gray_2] technologischer Gegenstand\n%c[d_purple] • %c[ui_gray_2] Prototyp\n \n%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo-gauss_verybad">
+    <text>Batterien (beschädigt)</text>
+  </string>
+  <string id="ammo-m209">
+    <text>M203-Granate</text>
+  </string>
+  <string id="ammo-m209_bad">
+    <text>M203-Granate (alt)</text>
+  </string>
+  <string id="ammo-m209_descr">
+    <text>40-mm-Granate für den Unterlaufgranatwerfer M203. Diese Munition hat eine tödliche Wirkzone von 3,5 Metern. Sie eignet sich auch für den integrierten Granatwerfer des FN F2000.\n \n%c[d_purple] - %c[ui_gray_2] Sprengkraft: %c[ui_gray_1]mittel\n%c[d_purple] - %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]4,1 m\n%c[d_purple] - %c[ui_gray_2] Splitterradius: %c[ui_gray_1]28 m\n%c[d_purple] - %c[ui_gray_2] Durchschnittliche Splitterzahl: %c[ui_gray_1]95 (kleine Splitter)\n%c[d_purple] - %c[ui_gray_2] Zündverzögerung: %c[ui_gray_1]keine (detoniert beim Aufprall)</text>
+  </string>
+  <string id="ammo-m209_s">
+    <text>M203</text>
+  </string>
+  <string id="ammo-m209_verybad">
+    <text>M203-Granate (beschädigt)</text>
+  </string>
+  <string id="ammo-og-7b">
+    <text>OG-7W-Gefechtskopf</text>
+  </string>
+  <string id="ammo-og-7b_bad">
+    <text>OG-7W-Gefechtskopf (alt)</text>
+  </string>
+  <string id="ammo-og-7b_descr">
+    <text>Splittergefechtskopf zur Personenbekämpfung für den RPG-7. Er dient vor allem dazu, Gegner in Deckung außerhalb der Reichweite von Handgranaten zu töten.\n \n%c[d_purple] - %c[ui_gray_2] Sprengkraft: %c[ui_gray_1]hoch\n%c[d_purple] - %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]5,6 m\n%c[d_purple] - %c[ui_gray_2] Splitterradius: %c[ui_gray_1]41 m\n%c[d_purple] - %c[ui_gray_2] Durchschnittliche Splitterzahl: %c[ui_gray_1]153 (kleine Splitter)\n%c[d_purple] - %c[ui_gray_2] Zündverzögerung: %c[ui_gray_1]keine (detoniert beim Aufprall)</text>
+  </string>
+  <string id="ammo-og-7b_s">
+    <text>OG-7W</text>
+  </string>
+  <string id="ammo-og-7b_verybad">
+    <text>OG-7W-Gefechtskopf (beschädigt)</text>
+  </string>
+  <string id="ammo-vog-25">
+    <text>WOG-25-Granate</text>
+  </string>
+  <string id="ammo-vog-25_bad">
+    <text>WOG-25-Granate (alt)</text>
+  </string>
+  <string id="ammo-vog-25_descr">
+    <text>Reguläre Splittergranate für den Unterlaufgranatwerfer GP-25 Kostjor. Diese Munition hat eine tödliche Wirkzone von 2,5 Metern. Die VOG-25 wird auch im Komplex OC-14 Groza und in den Trommelgranatwerfern RG6/6G30 verwendet.\n \n%c[d_purple] - %c[ui_gray_2] Sprengkraft: %c[ui_gray_1]mittel\n%c[d_purple] - %c[ui_gray_2] Explosionsradius: %c[ui_gray_1]3,6 m\n%c[d_purple] - %c[ui_gray_2] Splitterradius: %c[ui_gray_1]20 m\n%c[d_purple] - %c[ui_gray_2] Durchschnittliche Splitterzahl: %c[ui_gray_1]81 (kleine Splitter)\n%c[d_purple] - %c[ui_gray_2] Zündverzögerung: %c[ui_gray_1]keine (detoniert beim Aufprall)</text>
+  </string>
+  <string id="ammo-vog-25_s">
+    <text>WOG-25</text>
+  </string>
+  <string id="ammo-vog-25_verybad">
+    <text>WOG-25-Granate (beschädigt)</text>
+  </string>
+  <string id="ammo_12.7x55_ap">
+    <text>12,7×55-mm-STs-130-VPS-Patronen</text>
+  </string>
+  <string id="ammo_12.7x55_ap_bad">
+    <text>12,7×55-mm-STs-130-AP-Patronen (alt)</text>
+  </string>
+  <string id="ammo_12.7x55_ap_descr">
+    <text>Die großkalibrige Scharfschützenpatrone SC-130 VPS (mit hoher Durchschlagsleistung) ist dafür ausgelegt, gegnerische Soldaten mit einem lautlosen Schuss zu treffen, wenn sie durch schwere Schutzwesten geschützt sind (Schutzstufe 5–6 gemäß GOST R50744-95), und zwar auf Entfernungen bis zu 200 Metern. Sie kann auch Personen hinter verschiedenen Hindernissen (Fahrzeugverkleidung, Tür, Glas, Zaun usw.) auf bis zu 600 Meter Entfernung treffen. Außerdem ist sie zur Bekämpfung leicht gepanzerter und ungepanzerter Fahrzeuge bestimmt.\n \n
+		%c[ui_gray_1]PARAMETER:</text>
+  </string>
+  <string id="ammo_12.7x55_ap_s">
+    <text>12,7×55 AP</text>
+  </string>
+  <string id="ammo_12.7x55_ap_verybad">
+    <text>12,7×55-mm-STs-130-AP-Patronen (beschädigt)</text>
+  </string>
+  <string id="ammo_flw">
+    <text>Flammenwerfer-Brennstoff</text>
+  </string>
+  <string id="ammo_flw_descr">
+    <text>Gekochtes Tierfett, Diesel und Stücke geschmolzenen Gummis. Beim Entzünden entsteht eine klebrige, napalmähnliche Masse.</text>
+  </string>
+</string_table>

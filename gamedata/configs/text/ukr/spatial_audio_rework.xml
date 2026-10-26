@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_sar_editor">
+    <text>Редактор ефектів</text>
+  </string>
+  <string id="ui_mcm_menu_sar_main">
+    <text>Основне</text>
+  </string>
+  <string id="ui_mcm_menu_spatial_audio">
+    <text>Переробка просторового звуку</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_dbug">
+    <text>Розробницькі налаштування</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor1">
+    <text>Вітаємо в редакторі пресетів. Прокрутіть униз, щоб дізнатися, як ним користуватися.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor2">
+    <text>1. Увімкніть редактор і завантажте власний пресет (або будь-який інший як основу).</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor3">
+    <text>2. Почніть редагування, змініть значення та вийдіть, щоб побачити результат.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor4">
+    <text>3. Завершивши, прокрутіть униз, введіть назву власного пресету (можна перезаписати наявний) і натисніть Export.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor5">
+    <text>4. Готово! Тепер можна вибрати пресет в основних налаштуваннях MCM.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor6">
+    <text>Документація до всіх ефектів міститься в mod-folder/SAR-DOC/Effect Extension Guide.pdf. Після експорту пресету його файл буде в mo2/overwrite/gamedata/script/[your_preset_name]_preset_inject.script. Поділіться цим файлом, щоб передати свій пресет.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_npc">
+    <text>Налаштування НПС</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_preset">
+    <text>Налаштування пресетів — параметри реверберації. Стандартні пресети розташовані в script/sar_reverb_preset.script; власний можна створити на вкладці Preset Editor.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_ray">
+    <text>Налаштування променів</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_threshold">
+    <text>Налаштування порога — чутливість виявлення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_air_absorption_gain_hf">
+    <text>Підсилення поглинання повітрям ВЧ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_limit">
+    <text>Межа загасання ВЧ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_ratio">
+    <text>Коефіцієнт загасання ВЧ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_lf_ratio">
+    <text>Коефіцієнт загасання НЧ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_time">
+    <text>Час загасання</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_density">
+    <text>Щільність</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_diffusion">
+    <text>Розсіювання</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_depth">
+    <text>Глибина відлуння</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_time">
+    <text>Час відлуння</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_edit">
+    <text>Увімкнути режим редагування</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_enable_editor">
+    <text>Увімкнути</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_export">
+    <text>Експортувати</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain">
+    <text>Підсилення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_hf">
+    <text>Підсилення ВЧ (високих частот)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_lf">
+    <text>Підсилення НЧ (низьких частот)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_hf_reference">
+    <text>Опорна частота ВЧ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_delay">
+    <text>Затримка пізньої реверберації</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_gain">
+    <text>Підсилення пізньої реверберації</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_lf_reference">
+    <text>Опорна частота НЧ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb">
+    <text>Завантажити</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb_name">
+    <text>Завантажити назву реверберації</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_depth">
+    <text>Глибина модуляції</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_time">
+    <text>Час модуляції</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_delay">
+    <text>Затримка відбиттів</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_gain">
+    <text>Підсилення відбиттів</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reverb_name">
+    <text>Експортувати як назву реверберації</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_room_rolloff_factor">
+    <text>Коефіцієнт загасання приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_dbug">
+    <text>Режим налагодження</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable">
+    <text>Увімкнути</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc">
+    <text>Увімкнути виявлення променів окремо для НПС</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc_desc">
+    <text>Для кожного НПС перевіряється, чи він у приміщенні, коли стріляє та перебуває достатньо близько до гравця (100 одиниць). Якщо точка розташована достатньо високо, відтворюється особливий звук приміщення. Вимкніть це, щоб використовувати виявлення гравця. Вимкніть для кращої продуктивності. </text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval">
+    <text>Інтервал інтерполяції</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval_desc">
+    <text>Час інтерполяції між значеннями розміру приміщення. Менший час спричиняє різкіші стрибки значень і запобігає надмірному тремтінню ефекту.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length">
+    <text>Відстань для великого пресету</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length_desc">
+    <text>Якщо відстань від точок перетину променя до гравця дорівнює цьому значенню або перевищує його, великий пресет відтворюється на повну.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset">
+    <text>Пресет для великого приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset_desc">
+    <text>Пресет реверберації для великого приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength">
+    <text>Інтенсивність великого пресету</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength_desc">
+    <text>Визначає інтенсивність реверберації: 0 — її немає, 1 — ефект працює на повну.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_length_interpolation_interval">
+    <text>Інтервал інтерполяції відстані</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold">
+    <text>Нижній поріг</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold_desc">
+    <text>Якщо показник приміщення (кількість влучань променя) перевищує цей поріг, реверберація починає впливати на звук.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length">
+    <text>Відстань для середнього пресету</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length_desc">
+    <text>Якщо відстань від точок перетину променя до гравця дорівнює цьому значенню, середній пресет відтворюватиметься на повну.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset">
+    <text>Пресет для середнього приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset_desc">
+    <text>Пресет реверберації для середнього приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength">
+    <text>Інтенсивність середнього пресету</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength_desc">
+    <text>Визначає інтенсивність реверберації: 0 — її немає, 1 — ефект працює на повну.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_ray_bounce_count">
+    <text>Кількість відбиттів променя для НПС</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_tick_interval">
+    <text>Інтервал оновлення НПС (мс)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset">
+    <text>Пресет для відкритої місцевості</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset_desc">
+    <text>Пресет реверберації для відкритої місцевості (зазвичай без реверберації)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_bounce_count">
+    <text>Кількість відбиттів променя</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_dbug">
+    <text>Налагодження променів</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_length_mult">
+    <text>Довжина променя</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_show_replaced_sound">
+    <text>Показувати замінений звук</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length">
+    <text>Відстань для малого пресету</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length_desc">
+    <text>Якщо відстань від точок перетину променя до гравця менша за це значення, відтворюватиметься малий пресет.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset">
+    <text>Пресет для малого приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset_desc">
+    <text>Пресет реверберації для малого приміщення</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength">
+    <text>Інтенсивність малого пресету</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength_desc">
+    <text>Визначає інтенсивність реверберації: 0 — її немає, 1 — ефект працює на повну.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_tick_interval">
+    <text>Інтервал оновлення (мс)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold">
+    <text>Верхній поріг</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold_desc">
+    <text>Якщо показник приміщення (кількість влучань променя) перевищує цей поріг, ефект працює на повну потужність і відтворюється особливий звук приміщення.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_volume">
+    <text>Гучність</text>
+  </string>
+</string_table>

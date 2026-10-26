@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_blood_pool_max_pool_size">
+    <text>Максимальний розмір калюжі</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates">
+    <text>Кількість оновлень</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates_desc">
+    <text>Більше оновлень робить збільшення плавнішим (максимальний розмір не змінюється).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime">
+    <text>Час існування калюжі (секунди)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime_desc">
+    <text>Час існування калюжі після появи (pool_lifetime - num_of_updates * update_freq = час до повного зникнення).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_title">
+    <text>Калюжа крові</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq">
+    <text>Частота оновлень (секунди)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq_desc">
+    <text>Час між оновленнями. Менше значення пришвидшує збільшення калюжі до максимального розміру.</text>
+  </string>
+  <string id="ui_mcm_menu_blood_pool">
+    <text>Калюжа крові</text>
+  </string>
+</string_table>

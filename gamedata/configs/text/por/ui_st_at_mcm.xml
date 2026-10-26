@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Tempo até sangrar até morrer (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Por quanto tempo você fica caído antes de sangrar até morrer. O que acontece depois é definido abaixo.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Morrer ao sangrar até morrer</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Ativado: você morre ao sangrar até morrer, e um jogador caído pode ser finalizado após o período de proteção abaixo. Desativado: você revive onde caiu quando o sangramento termina, e ninguém pode finalizar um jogador caído. Só as configurações do anfitrião são usadas.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Estado derrubado ao sofrer um golpe fatal</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Ativado: um golpe fatal derruba você e um companheiro pode reanimá-lo. Desativado: o golpe leva você direto à base mais próxima ou a uma fogueira acesa. Nenhuma opção mata você na hora; a opção abaixo define se você morre sangrando. As configurações do anfitrião valem para todos.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Período de proteção após cair (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Por quanto tempo um jogador caído não pode ser finalizado, a partir do momento em que cai, para que um golpe forte o derrube em vez de matá-lo. Não é usado quando sangrar até morrer não causa morte. Só as configurações do anfitrião são usadas.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Contagem regressiva para recarregar (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Por quanto tempo a tela de morte fica aberta antes de o anfitrião carregar o último salvamento e todos voltarem a entrar. Ninguém pode se mover ou salvar durante a contagem. Só as configurações do anfitrião são usadas.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Vida após a reanimação</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Tempo para reanimar (s)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Presença avançada do Discord</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Mostra no Discord o que você está jogando. Durante uma sessão, exibe seu grupo para que amigos possam ser convidados ou pedir para entrar; fora dela, mostra links para nosso Discord e AP-PRO. O cartão do Discord só tem dois espaços, então os links e o botão de entrar nunca aparecem juntos.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Máx. de jogadores</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Número máximo de jogadores na sessão, incluindo você. Também define o tamanho do grupo exibido pelo Discord. Vale para a próxima sessão iniciada.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Senha</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Senha que os jogadores precisam informar para entrar. Deixe em branco para não usar senha. Não pode conter espaços nem barras.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Porta</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>Porta UDP em que sua sessão aguarda conexões. Jogadores que entrarem pelo endereço usarão essa porta, que precisa estar liberada no roteador e no firewall. É ignorada quando a sessão usa Steam. Vale para a próxima sessão iniciada.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Hospedar pelo Steam</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Ativado: os jogadores entram pelo seu ID Steam, que atravessa o NAT sem exigir portas abertas; amigos podem entrar pela lista de amigos ou por convite do Discord. Desativado: apenas conexões diretas pela porta acima. Vale para a próxima sessão iniciada.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Nome do jogador</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Seu nome no modo cooperativo. Ele é enviado ao anfitrião ao conectar e se torna o nome do seu personagem nessa sessão. Deixe em branco para gerar um nome na primeira conexão.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Dar recompensas a todos os jogadores</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Ativado: cada jogador recebe reward_money e reward_item. Desativado: só quem entrega a tarefa recebe. fetch_reward_and_remove sempre retira itens e paga apenas ao jogador que entrega a tarefa. A configuração do anfitrião vale a cada conclusão.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Caído e reanimação</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Hospedagem</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Jogador</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Recompensas das tarefas</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Caído e reanimação</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Hospedagem</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Jogador</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Tarefas</text>
+  </string>
+</string_table>

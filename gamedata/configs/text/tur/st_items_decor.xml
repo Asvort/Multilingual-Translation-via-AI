@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_placeable_ashtray">
+    <text>Küllük</text>
+  </string>
+  <string id="st_placeable_ashtray_descr">
+    <text>Sade ve kullanışlı tasarıma sahip, kalın ve dayanıklı cam bir küllük. Hafifçe kırılmış kenarları uzun süredir kullanıldığını gösteriyor. Geniş ve dengeli tabanı devrilmesini önler. Sigara içenlerin toplandığı bir sığınağa uygundur; ortalığı temiz tutar ve mekâna yaşanmışlık hissi verir.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_barrel_metal">
+    <text>Metal varil</text>
+  </string>
+  <string id="st_placeable_barrel_metal_descr">
+    <text>Diki paslı olsa da hâlâ sağlam olan dayanıklı bir metal varil. Daha önce endüstriyel malzemeleri depolamak için kullanılmış. Zamanın ve havanın izlerini taşısa da yakıt, su veya başka erzaklar için kullanılabilir. Bilinmeyen nedenlerle derme çatma sığınaklarda ve kamplarda sıkça görülür.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_bidon">
+    <text>Matara</text>
+  </string>
+  <string id="st_placeable_bidon_descr">
+    <text>Genellikle su veya başka sıvıları saklamak için kullanılan büyük bir metal bidon. Yarı saydam gövdesi içindekileri kolayca kontrol etmeyi sağlar. Sağlam sapı ve güvenilir kapağı sayesinde sıvıları taşımak ve depolamak için idealdir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_biliard">
+    <text>Bilardo masası</text>
+  </string>
+  <string id="st_placeable_biliard_descr">
+    <text>Solmuş yeşil çuhalı, eski ve çok yıpranmış bir bilardo masası. Yılların kullanımı ahşabı çizip ezmiş olsa da masa hâlâ sağlam ve düzdür. Istaka veya toplar eksik ya da takım dışı olabilir, ama yine de Bölge’de vakit geçirmek için iyi bir eğlencedir. Sığınaklar ve grup kampları için nadir bir lüks. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_box_paper">
+    <text>Karton kutu</text>
+  </string>
+  <string id="st_placeable_box_paper_descr">
+    <text>%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_box_wood">
+    <text>Ahşap kutu</text>
+  </string>
+  <string id="st_placeable_box_wood_descr">
+    <text>Köşeleri güçlendirilmiş sağlam bir ahşap sandık. Genellikle ağır eşyaları, yeniden satılacak toptan ürünleri veya endüstriyel malzemeleri taşımak için kullanılır. Kapağının dışı hasarlı, ahşabı yaşlanmış. Atölyelerde veya kişisel alanlarda yüksek kapasiteli saklama kutusu olarak kullanılabilir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_cabinet">
+    <text>Mutfak dolapları</text>
+  </string>
+  <string id="st_placeable_cabinet_descr">
+    <text>Sovyet dönemini yansıtan tasarıma sahip, sağlam ahşap mutfak dolapları. Bir zamanlar beyaz olan kaplama solmuş ve ahşabın damarlarını ortaya çıkarmış; kulplar biraz paslı olsa da hâlâ işlevsel. İç raflar yiyecekleri, sofra takımlarını ve diğer gerekli eşyaları saklayacak kadar geniş. Yaşlarına rağmen güvenilir depolama sağlar ve sığınak mutfağına nostaljik bir hava katar.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_clinic_equipments">
+    <text>Klinik ekipmanları</text>
+  </string>
+  <string id="st_placeable_clinic_equipments_descr">
+    <text>Sağlık kuruluşlarında kullanılan tıbbi ekipman koleksiyonu. Set, temel tıbbi işlemler için gereken çeşitli araç ve gereçleri içerir. Paslanmaz çelik ve dayanıklı plastikten üretilen malzemeler uzun ömürlü ve hijyeniktir. Bölge’deki klinik ve sağlık birimlerinde acil durumlar için hazır hâlde bulunurlar. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_countertop">
+    <text>Tezgâh</text>
+  </string>
+  <string id="st_placeable_countertop_descr">
+    <text>Yıllarca kullanılarak yüzeyi düzleşmiş sağlam bir ahşap tezgâh. Lekeli ve çizik yüzeyinde sayısız yemek hazırlığının izleri var. Yemek yapmak için geniş alan sunar ve çalışma yüzeyi olarak da kullanılabilir. Kaba görünümüne rağmen Bölge’deki işlevsel her mutfağın önemli bir parçasıdır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_cuttingboard">
+    <text>Kesme tahtası</text>
+  </string>
+  <string id="st_placeable_cuttingboard_descr">
+    <text>Bıçak izleriyle çizilmiş kalın bir ahşap kesme tahtası. Yıllarca kullanıldığı için kenarları yuvarlanmış, yüzeyi sayısız yemeğin yağını ve suyunu emmiştir. Her mutfakta bulunan basit ama vazgeçilmez bir araçtır. Farklı ağaç türlerinden seçenekleri vardır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_dev_guitar">
+    <text>Gitar</text>
+  </string>
+  <string id="st_placeable_dev_guitar_descr">
+    <text>Gövdesi yıpranmış, telleri kurumuş bir akustik gitar. Ahşabı zamanla kararmış, ses tahtası da sık kullanıldığını gösteriyor. Hırpalanmış görünümüne rağmen hâlâ zengin ve sıcak bir ses çıkarıyor. Bölge’deki her müzisyen için değerli bir eşya; vakit geçirmeyi ve morali yükseltmeyi sağlar. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_documents_1">
+    <text>Kağıt destesi</text>
+  </string>
+  <string id="st_placeable_documents_1_descr">
+    <text>Zamanla hafifçe sararmış ve sıradan bir sicimle bağlanmış bir kâğıt destesi. Yaprakların boyutları ve kalınlıkları farklı; eski formlardan, mektuplardan ve notlardan oluşan bir koleksiyon gibi görünüyor. Bazılarındaki solmuş mürekkep izleri yaşlarını ve önceki kullanımlarını ele veriyor. Ateş yakmak ya da not almak için ideal olan bu deste, her derme çatma sığınağa gerçekçi bir hava katar.\n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_documents_2">
+    <text>Belge yığını</text>
+  </string>
+  <string id="st_placeable_documents_2_descr">
+    <text>Haritalar, notlar ve raporlar dahil çeşitli belgelerden oluşan bir yığın. Kâğıtlar sararmış, bazı köşeler kıvrılmış; uzun süredir kullanıldıkları belli. Doğru kişinin elinde bu belgeler yararlı bilgiler ve başvuru malzemesi sağlayabilir. Askeri ofislerde ve deneyimli stalkerların kişisel kamplarında sık bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_exoskelet">
+    <text>Dış iskelet seti</text>
+  </string>
+  <string id="st_placeable_exoskelet_descr">
+    <text>Motorlu iskelet, güçlendirilmiş zırh plakaları ve kontrol ünitesi dahil tam bir dış iskelet takımı. Bileşenlerde belirgin kullanım izleri var ve hasarlı parçalar sistemi çalışmaz hâle getirmiş. Dış iskeletler üstün koruma sağlar ve kullanıcının gücünü artırır. Bunun gibi hasarlı parçalar atölyelerde sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_fchair">
+    <text>Modern sandalye</text>
+  </string>
+  <string id="st_placeable_fchair_descr">
+    <text>Metal iskeletli ve plastik oturaklı zarif, modern bir sandalye. Sade tasarımı kullanışlı ve rahattır. Oturağında küçük çizikler, metal parçalarında hafif pas gibi yıpranma izleri vardır. Güvenilir bir oturma alanı sunar ve her sığınağa modern bir hava katar. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_fuel">
+    <text>Yakıt bidonu</text>
+  </string>
+  <string id="st_placeable_fuel_descr">
+    <text>Başlangıçta askeri kullanım için tasarlanmış metal bir benzin bidonu. Dış yüzeyi ezik ve çizik olsa da sızdırmaz ve sağlamdır. 20 litreye kadar yakıt alır; jeneratörlere veya araçlara yakıt sağlamak için sıkça kullanılır. Dayanıklı tasarımı Bölge’nin zorlu koşullarına karşı koyar. Endüstriyel dekor olarak da kullanılabilir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_game">
+    <text>Masa oyunu</text>
+  </string>
+  <string id="st_placeable_game_descr">
+    <text>Klasik bir tavla takımı: 24 hanesi olan katlanır ahşap tahta, siyah ve beyaz pullar ve zamanla aşınmış yüzeylere sahip bir çift oyma zar. Kutunun köşeleri yıpranmış, tahtanın cilası bazı yerlerde silinmiş; uzun ve çekişmeli oyunların izleri. Yaşına rağmen her parçası yerinde: pullar sağlam, zarların kenarları hâlâ belirgin. Sığınakta ya da kamp ateşi başında gece oyunları için ideal; rekabet, strateji ve kahkaha insanları bir araya getirir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_gaz_balon">
+    <text>Gaz tüpü</text>
+  </string>
+  <string id="st_placeable_gaz_balon_descr">
+    <text>Genellikle propan veya başka yanıcı gazları depolamak için kullanılan büyük bir metal gaz tüpü. Dış yüzeyi çizilmiş ve hasar görmüş; Rusça güvenlik etiketleri solmuş. Yıpranmış görünmesine rağmen yeniden doldurulup kullanılabilir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_grave1">
+    <text>Mezar A</text>
+  </string>
+  <string id="st_placeable_grave1_descr">
+    <text>Hava koşullarından yıpranmış sade bir ahşap mezar haçı. Yüzeyine kazınmış yazıların bazıları zamanla silinmiş. Ölenleri trajik biçimde hatırlatıyor. Genellikle büyük grup üslerinin yakınındaki derme çatma mezarlıklarda veya anma alanlarında bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n</text>
+  </string>
+  <string id="st_placeable_grave2">
+    <text>Mezar B</text>
+  </string>
+  <string id="st_placeable_grave2_descr">
+    <text>Yaşlanma ve yıpranma izleri taşıyan sade bir ahşap mezar taşı. Üzerindeki yazılar kısmen aşınmış ve zor okunuyor. Başka bir talihsiz kişi için yeni bir mezarda yeniden kullanılabilir. Bölge’de kaybedilenleri dokunaklı biçimde hatırlatıyor. Büyük grup üslerinin yakınındaki derme çatma mezarlık ve anma alanlarında sık bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n</text>
+  </string>
+  <string id="st_placeable_guidebook1">
+    <text>Hayatta kalma kılavuzu</text>
+  </string>
+  <string id="st_placeable_guidebook1_descr">
+    <text>Zorlu koşullarda hayatta kalmaya yönelik pratik tavsiyeler içeren ayrıntılı bir rehber. Sayfaları barınak kurma, yiyecek bulma ve yön bulma önerileriyle dolu. Kitap yıpranmış ve kenarları sayısız notla kaplanmış. Kitaplar ve kılavuzlar genellikle yatakhanelerde ve kişisel sığınaklarda bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_guidebook2">
+    <text>Mekanik kılavuzu</text>
+  </string>
+  <string id="st_placeable_guidebook2_descr">
+    <text>Çeşitli makine ve ekipmanların onarımını ve bakımını ele alan kapsamlı bir mekanik kılavuzu. Kapağında birkaç yağ lekesi, sayfalarında ise yoğun yıpranma var. Bilgili bir okura teknik beceri kazandırabilir. Kitaplar ve kılavuzlar genellikle yatakhanelerde ve kişisel sığınaklarda bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_gun_parts">
+    <text>Silah parçaları</text>
+  </string>
+  <string id="st_placeable_gun_parts_descr">
+    <text>Namlular, tetikler, ateşleme mekanizmaları, tabanca kabzaları, hatta fişekler, kovanlar ve şarjörler dahil çeşitli silah parçalarından oluşan bir koleksiyon. Parçaların durumu değişken; bazılarında pas var, bazıları toplandığından beri temizlenmemiş. Bölge’de silah tamir atölyelerinde ve teknisyenlerin özel alanlarında sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_junk">
+    <text>Mekanik hurda</text>
+  </string>
+  <string id="st_placeable_junk_descr">
+    <text>Paslı dişliler, kırık aletler ve atılmış metal parçalar içeren bir mekanik hurda yığını. Bileşenler aşınmış ve kısmen sökülmüş; artık ham madde durumundalar. Kişisel çalışma alanına endüstriyel bir çürüme havası katmak için ideal. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_kartina03">
+    <text>Resim çerçevesi</text>
+  </string>
+  <string id="st_placeable_kartina03_descr">
+    <text>Yüzeyi hafifçe aşınmış ve rengi solmuş, sade bir ahşap fotoğraf çerçevesi. Camı sağlamdır ve içindeki fotoğrafı ya da sanat eserini korur. Basit tasarımına rağmen manevi değeri vardır ve her mekâna kişilik katar. Sert Bölge ortamına biraz insanlık hissi verir; birçok sığınakta sevilen bir süstür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_lead_box_open">
+    <text>Açık kurşun kutu</text>
+  </string>
+  <string id="st_placeable_lead_box_open_descr">
+    <text>Daha önce radyoaktif maddeleri güvenle saklamak için kullanılan açık bir metal kap. İç kısmı kurşunla kaplı, dış yüzeyi ise ciddi biçimde yıpranmış. Gövdedeki uzun süreli hasar kapağın düzgün kapanmasını engelliyor. Anormal oluşumları saklamak veya taşımak için kullanılması önerilmez. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_light1">
+    <text>Duvar Lambası</text>
+  </string>
+  <string id="st_placeable_light1_descr">
+    <text>%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]2700K\n</text>
+  </string>
+  <string id="st_placeable_light2">
+    <text>Projektör</text>
+  </string>
+  <string id="st_placeable_light2_descr">
+    <text>Çalışma alanları için yüksek parlaklıklı, pilli projektör. 6500 K gün ışığı tonundaki ışığı iki haftaya kadar çalışır ve ayrıntılı işler için uygundur.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]6500K\n</text>
+  </string>
+  <string id="st_placeable_light3">
+    <text>Abajurlu Lamba</text>
+  </string>
+  <string id="st_placeable_light3_descr">
+    <text>Kumaş abajurlu, pilli dekoratif lamba. Sıcak 3000 K ışığı okumak ve dinlenmek için idealdir; iki haftaya kadar çalışır.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]3000K\n</text>
+  </string>
+  <string id="st_placeable_light4">
+    <text>Sarkıt Ampul</text>
+  </string>
+  <string id="st_placeable_light4_descr">
+    <text>Nötr beyaz 4000 K ışık veren basit, pilli sarkıt ampul. İki haftaya kadar çalışır ve geniş alanlar için uygundur.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]4000K\n</text>
+  </string>
+  <string id="st_placeable_light5">
+    <text>Üç Tüplü Lamba</text>
+  </string>
+  <string id="st_placeable_light5_descr">
+    <text>Parlak ve verimli aydınlatma sağlayan, pille çalışan üç tüplü set. Nötr beyaz 4000 K ışık iki haftaya kadar sürer; geniş alanlar ve çalışma bölgeleri için uygundur.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]4000K\n</text>
+  </string>
+  <string id="st_placeable_light6">
+    <text>Duvar Lambası (A)</text>
+  </string>
+  <string id="st_placeable_light6_descr">
+    <text>Parlak beyaz 5000 K ışık veren pilli duvar lambası. Genel aydınlatmaya uygundur ve iki haftaya kadar çalışır.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]5000K\n</text>
+  </string>
+  <string id="st_placeable_light7">
+    <text>Duvar Lambası (B)</text>
+  </string>
+  <string id="st_placeable_light7_descr">
+    <text>Yumuşak beyaz ışık veren pilli duvar lambası. Sıcak 2000 K rengi rahat bir ortam yaratır ve iki haftaya kadar çalışır.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]2000K\n</text>
+  </string>
+  <string id="st_placeable_light8">
+    <text>Tek Tüplü Lamba</text>
+  </string>
+  <string id="st_placeable_light8_descr">
+    <text>Nötr beyaz 4000 K ışık veren pilli tek tüplü lamba. İki haftaya kadar çalışır ve farklı odalarda genel aydınlatma sağlar.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_3] Güç kaynağı: %c[ui_gray_2]piller\n	
+		%c[d_blue] • %c[ui_gray_3] çalışma süresi: %c[ui_gray_2]2 hafta\n
+		%c[d_purple] • %c[ui_gray_3] RENK SIC.: %c[ui_gray_2]4000K\n</text>
+  </string>
+  <string id="st_placeable_map1">
+    <text>Duvar haritası A</text>
+  </string>
+  <string id="st_placeable_map1_descr">
+    <text>Kalın kâğıda basılmış ve ahşap çerçeveye alınmış büyük bir duvar haritası. Hafifçe sararmış, kenarları püsküllenmiş ve küçük yırtıkları var. Dışlama bölgesindeki alanı ayrıntılı biçimde gösterir; stratejik planlamada veya dekor olarak kullanılabilir. Komuta merkezlerinde ve brifing odalarında sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_map2">
+    <text>Duvar haritası B</text>
+  </string>
+  <string id="st_placeable_map2_descr">
+    <text>Kalın kâğıda basılmış, ahşap çerçeveli bir duvar haritası. Yıpranmış; bazı yerleri solmuş ve hafifçe sudan zarar görmüş. Dışlama bölgesinin belirli bir kısmını ayrıntılı gösterdiği için başvuru kaynağı veya dekor olarak işe yarar. Komuta noktalarında ve taktik planlama odalarında sık bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_merc_outfit">
+    <text>Paralı asker ekipman seti</text>
+  </string>
+  <string id="st_placeable_merc_outfit_descr">
+    <text>Taktik yelek, savaş pantolonu ve kaliteli botlardan oluşan eski bir paralı asker kıyafeti. Teçhizat iyi korunmuş ve çok az yıpranma izi taşıyor. Kişisel sığınaklarda ve grup kamplarında yıkanmış temiz kıyafetlere sık rastlanır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_metal_plate">
+    <text>Metal levha</text>
+  </string>
+  <string id="st_placeable_metal_plate_descr">
+    <text>Pencere ve girişleri güçlendirmek için galvanizli çelik levha. Zorla girişe ve hava koşullarına karşı koruma sağlar, yapıya sabitlenebilir.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] Pencere ve girişleri kapatmak için kullanılır\n</text>
+  </string>
+  <string id="st_placeable_metal_table1">
+    <text>Metal masa A</text>
+  </string>
+  <string id="st_placeable_metal_table1_descr">
+    <text>%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_metal_table2">
+    <text>Metal masa B</text>
+  </string>
+  <string id="st_placeable_metal_table2_descr">
+    <text>%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_microscope">
+    <text>Mikroskop</text>
+  </string>
+  <string id="st_placeable_microscope_descr">
+    <text>Metal gövdeli ve cam mercekli eski bir mikroskop. Kasasında oksitlenme izleri var; odaklama mekanizması sertleşmiş olsa da çalışıyor. Bir zamanlar bilimsel gözlemler için kullanılırken şimdi daha çok nostaljik bir sergi eşyası. Çalışma alanına akademik bir hava katmak için ideal. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_money_5000">
+    <text>Para destesi</text>
+  </string>
+  <string id="st_placeable_money_5000_descr">
+    <text>Yıpranmış bir lastikle tutturulmuş, yaklaşık 5.000 ruble değerinde banknot destesi. Paralar solmuş ve çok elden geçtiği belli. Harcanabilir ya da kişisel sığınakta dekor olarak kullanılabilir. İstenmeyen ziyaretçileri çekebilir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_notes_writing_book">
+    <text>Kişisel günlük</text>
+  </string>
+  <string id="st_placeable_notes_writing_book_descr">
+    <text>Deri kapaklı ve sararmış sayfalı, yıpranmış bir günlük. Sayfaları, dışlama bölgesinde geçirilen günler boyunca yazılmış el yazısı notlar, çizimler ve gözlemlerle dolu. Bu tür günlükler düşünce ve deneyimleri kaydetmek için kişisel bir alan sunar; Bölge’nin tarihini korumanın nadir ama önemli bir yoludur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_plant2">
+    <text>Anomalili bitki</text>
+  </string>
+  <string id="st_placeable_plant2_descr">
+    <text>Kuru yapraklı saksı bitkisi. Nereden geldiği bilinmiyor ve güneş ışığı olmadan büyüyor gibi görünüyor. Kişisel bir alana dünya dışı bir hava katıyor. Muhtemelen Pripyat’ın dış mahallelerinde bir yerden sökülüp buraya dikilmiş. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_plant3">
+    <text>Doğaçlama bitki</text>
+  </string>
+  <string id="st_placeable_plant3_descr">
+    <text>Geri dönüştürülmüş bir kaptan yapılma derme çatma saksıda yetişen bir bitki. Dayanıklı olduğu ve zorlu koşullara uyum sağladığı, yapraklarından belli. Aksi hâlde çorak olan ortama biraz yeşillik ve canlılık katıyor. Yaratıcılığın zorunlulukla buluştuğu kişisel sığınaklarda sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_plant4">
+    <text>Uzun bitki</text>
+  </string>
+  <string id="st_placeable_plant4_descr">
+    <text>Uzun, ince yapraklı, saksıda yetişen boylu bir bitki. Bakımlı görünümüyle her alana huzur ve doğallık katıyor. Yüksekliği boş köşeleri doldurmak veya dikey bir vurgu eklemek için ideal. Yeşillik katması için oturma alanlarında ve koridorlarda sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster1">
+    <text>Poster 1</text>
+  </string>
+  <string id="st_placeable_poster1_descr">
+    <text>Viktor Govorkov’un 1956 tarihli tasarımını taşıyan renkli bir Sovyet propaganda afişi. Üzerinde şu slogan belirgin biçimde yer alıyor: “Barış ve Dostluk. Deneyimimiz dostlarımız içindir.” Tasarım, Sovyet dostluğunu canlı imgelerle, güçlü renklerle ve dinamik bir kompozisyonla anlatarak birlik ve karşılıklı yardımlaşma mesajı veriyor. Soğuk Savaş’ın doruğunda basılan afiş, SSCB’nin uluslararası dayanışmaya bağlılık iddiasını temsil ediyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster2">
+    <text>Poster 2</text>
+  </string>
+  <string id="st_placeable_poster2_descr">
+    <text>Turuncu ve siyah tonlardaki afişin üstünde iri harflerle “İNSANLIK: ÇÖKÜŞ” yazıyor. Aşağıda ağır koruyucu giysiler içindeki iki kişi ıssız bir manzaraya bakıyor. Kompozisyonun merkezinde, üzerinde parlak “DİKKAT: RADYASYON ALANI” tabelası bulunan yıkık bir yapı var. Baskının kaynağı bilinmiyor; belki bir albüm kapağıdır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster3">
+    <text>Poster 3</text>
+  </string>
+  <string id="st_placeable_poster3_descr">
+    <text>Parlak kırmızı zemin üzerinde II. Dünya Savaşı döneminden bir tabanca tutan eli gösteren renkli bir afiş. Alt kısmındaki kalın yazıda “MAKİNELİ TÜFEK” yazıyor. Üstte okunamayan beyaz harfler var. Kırmızı ve beyazın cesur kullanımı aciliyet ve güç hissi veriyor. Eski bir film ya da müzik afişi olabilir; kesin kaynağı bilinmiyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster4">
+    <text>Poster 4</text>
+  </string>
+  <string id="st_placeable_poster4_descr">
+    <text>Canlı kırmızı ve siyah tonlara sahip renkli bir Sovyet propaganda afişi; çekiç tutan üç figürü gösteriyor. Kiril alfabesindeki yazı “Sahte Şok İşçilere Darbe” anlamına geliyor ve iş gücündeki verimsiz unsurlara karşı ortak mücadeleyi savunuyor. Stilize, dinamik siluetler sanayi gücü ve birlik duygusu veriyor. Büyük orak ve çekiç simgesi Sovyet emeğinin gücünü vurgularken alttaki dişliler ve kadranlar endüstriyel ilerlemede zaman ve verimliliğin önemini öne çıkarıyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster5">
+    <text>Poster 5</text>
+  </string>
+  <string id="st_placeable_poster5_descr">
+    <text>Üst kısmında kalın harflerle “ENFEKTE” yazan siyah beyaz bir afiş. Merkezde gaz maskeli, ürkütücü bir figür var. Alttaki küçük yazıda “UZAK DURUN” deniyor. Alt bölümde veba doktoru simgeleri, bozulmuş figürler ve başka semboller yer alıyor. Küçük puntolu metin şöyle uyarıyor: “Hastalık, son ceset düşene kadar kişiden kişiye tartışmasız bir hızla yayılacak. Sıcaklığını hissedecek hiçbir yuva kalmayacak.” Afişin kaynağı bilinmiyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster6">
+    <text>Poster 6</text>
+  </string>
+  <string id="st_placeable_poster6_descr">
+    <text>Üstünde kan kırmızısı harflerle “ENFEKTE DÜŞÜNCELER” yazan karanlık renkli bir afiş. Merkezde loş mavi ışıkta ürkütücü biçimde parlayan bir beyin ve yüz, çevresinde de sivri desenler var. Alttaki başlık, kırmızı karıncaların üzerinde “BEYNİMİ KONTROL ET” diyor. Tasarım zihne müdahale, paranoya ve psikolojik korku hissi uyandırıyor; Bölge’de insanın aklını yitirme korkusunu yansıtıyor olabilir. Kaynağı bilinmiyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_poster7">
+    <text>Poster 7</text>
+  </string>
+  <string id="st_placeable_poster7_descr">
+    <text>“GÖKTEN KAÇAMAZSIN” başlıklı karanlık renkli bir afiş. Orta Çağ şövalyesi diz çökmüş, elinde kılıç tutuyor. Arka planda solda hayaletimsi bir figür, sağda katedral penceresi var. Bir metin kutusunda “KÖTÜLÜĞÜMLE DÖVÜŞ VE UMUTSUZLUĞUMUN KAPILARINDAN İÇERİ GİR” yazıyor. “45” sayısı birkaç yerde görülüyor. Kasvetli mücadele, kaçınılmaz kader ve gotik atmosfer, kaynağının bilinmediğini düşündürüyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_pot">
+    <text>Tencere</text>
+  </string>
+  <string id="st_placeable_pot_descr">
+    <text>Ağır kapaklı, büyük bir dökme demir tencere. Yüzeyi sayısız ateşten kararmış, sapı da sık kullanıldığını gösteriyor. Çorba veya yahni pişirecek kadar geniştir ve her sığınakta değerlidir. Yıpranmış görünümüne rağmen derme çatma mutfağın temel eşyalarından biridir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_psi_helmet">
+    <text>Psi kaskı</text>
+  </string>
+  <string id="st_placeable_psi_helmet_descr">
+    <text>Başlangıçta Bölge’deki psi ışınımına karşı koruma sağlamak üzere tasarlanmış, çalışmayan bir psi kaskı. Hantal yapısına çeşitli elektronik parçalar ve sensörler yerleştirilmiş. Orta düzeyde kullanım izi var, ancak neden bozulduğu bilinmiyor. Yine de ilginç bir dekor olabilir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_radiola">
+    <text>Radyo</text>
+  </string>
+  <string id="st_placeable_radiola_descr">
+    <text>Ahşap kasalı ve metal ayrıntılı eski bir radyo. Düğmeler ve anahtarlar yıpranmış, ancak iç aksamı iyi durumda görünüyor ve radyo hâlâ çalışıyor. Dışlama bölgesindeki yoğun radyo paraziti nedeniyle normal koşullarda düzenli yayınlar alınamıyor. Bölge’deki kişisel yaşam alanına nostaljik bir hava katıyor. \n \n
+		Çalışır durumdaki bir radyo.\n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n</text>
+  </string>
+  <string id="st_placeable_rug">
+    <text>Halı</text>
+  </string>
+  <string id="st_placeable_rug_descr">
+    <text>Karmaşık desenleri ve klasik Avrupa tasarımıyla büyük, dokuma bir halı. Kumaşı biraz solmuş ve kenarlarında yılların kullanımını gösteren birkaç delik var. Halılar kişisel yaşam ve çalışma alanlarına sıcaklık ve rahatlık katar. Bu halı, yeniden değerlendirilmiş beton yığınına sıcak bir hava ve biraz stil kazandırıyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n
+		%c[d_red] • %c[d_red] UYARI: %c[ui_gray_2]HALIYI ENVANTERDEN YERE ATMAYIN. İNME GEÇİRİP BÖLGEYİ KENDİLİĞİNİZDEN TERK EDECEKSİNİZ.\n</text>
+  </string>
+  <string id="st_placeable_shelves">
+    <text>Metal raflar</text>
+  </string>
+  <string id="st_placeable_shelves_b">
+    <text>Banyo rafları</text>
+  </string>
+  <string id="st_placeable_shelves_b_descr">
+    <text>Bazı yerleri dökülmüş beyaz emayeli metal banyo rafları. Her raf, tuvalet malzemeleri, ilk yardım çantaları veya küçük kişisel eşyalar için yeterince geniştir. Duvara monte tasarım zeminde yer kazandırır ve alanı verimli kullanır. Yıpranmış görünmesine rağmen banyoda güvenilir ve düzenli bir saklama alanı sağlar. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_shelves_descr">
+    <text>Biraz paslanmış ama yapısal olarak sağlam, kullanılmış metal raflar. Her raf erzak, alet veya kişisel eşyalar için geniş alan sunar. Endüstriyel tasarımları her atölyeye ya da depolama alanına uygundur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_shield">
+    <text>Kalkan</text>
+  </string>
+  <string id="st_placeable_shield_descr">
+    <text>Yüksek dayanımlı çelikten kişisel metal kalkan. Mermilere ve yakın dövüş saldırılarına karşı korur; güçlendirilmiş sapı sağlam tutuş sağlar. Yakın çatışmada hayat kurtarabilir.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n</text>
+  </string>
+  <string id="st_placeable_shooting_target_1">
+    <text>Atış hedefi</text>
+  </string>
+  <string id="st_placeable_shooting_target_1_descr">
+    <text>Metal bir atış hedefi. Yüzeyi kurşun darbelerinin izleriyle dolu ve hava koşullarından yıpranmıştır. Atış sırasında sabit durması için ağırlıklı bir taban üzerine yerleştirilmiştir. Nişancılığı geliştirmeye yarar ve askeri grup üslerinde düzenli talim için sık kullanılır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_shower">
+    <text>Duş</text>
+  </string>
+  <string id="st_placeable_shower_descr">
+    <text>Kişisel hijyen için standart duş ünitesi. Paslanmaz çelik ve plastikten yapılmıştır; duş başlığı, ayar düğmeleri ve gider içerir. Dayanıklı ve kurulumu kolaydır.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_sidetable1">
+    <text>Yan sehpa A</text>
+  </string>
+  <string id="st_placeable_sidetable1_descr">
+    <text>Tek çekmeceli küçük bir ahşap sehpa. Ahşap zamanla koyulaşmış, üzerinde birkaç çizik ve ezik oluşmuş. Yıpranmış olsa da sağlam ve işlevseldir; küçük eşyaları ve ışık kaynaklarını saklamak için uygundur. Kullanışlılığı ve hoş görünümü nedeniyle kişisel alanlara sık konur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_sidetable2">
+    <text>Yan sehpa B</text>
+  </string>
+  <string id="st_placeable_sidetable2_descr">
+    <text>%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_sink">
+    <text>Lavabo</text>
+  </string>
+  <string id="st_placeable_sink_descr">
+    <text>Bağlantı parçaları paslanmış, emayesi dökülmüş porselen bir lavabo. Haznesinde yoğun kullanım izleri ve yüzeyinde ince çatlaklar var. Çalışan bir su tesisatına bağlandığında yıkanmak için kullanılabilir ve her üsse işlevsellik katar. Genellikle derme çatma banyolarda bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_stalker_outfit">
+    <text>Stalker ekipman seti</text>
+  </string>
+  <string id="st_placeable_stalker_outfit_descr">
+    <text>Ceket, sağlam pantolon ve botlardan oluşan, iyice yıpranmış sıradan bir stalker kıyafeti. Giysiler yoğun kullanım izleri, görünür yamalar ve onarımlar taşıyor. Kişisel sığınaklarda ve grup kamplarında yıkanmış temiz kıyafetlere sık rastlanır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_stool">
+    <text>Tabure</text>
+  </string>
+  <string id="st_placeable_stool_descr">
+    <text>Aşınma nedeniyle ayakları hafifçe sallanan sade bir ahşap tabure. Yuvarlak ve pürüzsüz oturağı ahşabın doğal desenini gösterir. Hafif ve taşınması kolay olduğundan çok yönlü bir oturma seçeneğidir. Basit yapısına rağmen her sığınakta işlevsel ve gerekli bir mobilyadır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_storage01">
+    <text>Metal saklama konteyneri</text>
+  </string>
+  <string id="st_placeable_storage01_descr">
+    <text>Paslanmaya dayanıklı galvanizli çelikten yapılmış orta boy bir saklama kutusu. Çeşitli eşyaları güvenle depolamaya uygundur. Ek güvenlik için kilitlenebilir kapağı vardır. Bir sığınakta erzak veya ekipman saklamak için idealdir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage02">
+    <text>Büyük metal saklama konteyneri</text>
+  </string>
+  <string id="st_placeable_storage02_descr">
+    <text>Güçlendirilmiş çelikten üretilmiş büyük bir metal saklama konteyneri. Hava koşullarına ve hırsızlığa karşı en üst düzeyde koruma sağlar. Toptan malları ve değerli eşyaları uzun süre saklamaya uygundur. İyi donanımlı üslerde ve güvenli yerlerde sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage03">
+    <text>Yeşil metal kutu</text>
+  </string>
+  <string id="st_placeable_storage03_descr">
+    <text>Taşımayı kolaylaştıran hafif alüminyumdan yeşil bir metal kutu. Kullanışlı bir tutamağı ve sağlam mandalı var. Küçük ekipmanları veya kişisel eşyaları saklamak için ideal. Arazi kamplarında ve geçici barınaklarda sık bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage04">
+    <text>Küçük kasa</text>
+  </string>
+  <string id="st_placeable_storage04_descr">
+    <text>Değerli eşyaları güvenle saklamak için tasarlanmış küçük bir kasa. Sertleştirilmiş çelikten yapılmış ve ek güvenlik için şifreli kilitle donatılmıştır. Önemli belgeler, para veya diğer kıymetli eşyalar için idealdir. Genellikle özel dairelerde ve idari ofislerde bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage05">
+    <text>Boş alet çantası</text>
+  </string>
+  <string id="st_placeable_storage05_descr">
+    <text>Dayanıklı plastikten yapılmış boş bir alet çantası. Aletleri ve küçük parçaları düzenlemek için birkaç bölmesi, kullanışlı bir sapı ve sağlam mandalları var. Aletlerini düzenli ve taşınabilir tutması gereken teknisyenler ve tamirciler için ideal. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage06">
+    <text>Boş sandık</text>
+  </string>
+  <string id="st_placeable_storage06_descr">
+    <text>Metal kuşaklarla güçlendirilmiş ahşaptan yapılma boş, sağlam ve geniş bir sandık. İçindekileri korumak için kilit mekanizmalı menteşeli kapağı var. Giysilerden ekipmana kadar çeşitli eşyaları saklamaya uygundur. Depolama alanlarında ve bodrumlarda sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage07">
+    <text>Dolap</text>
+  </string>
+  <string id="st_placeable_storage07_descr">
+    <text>Kişisel eşyaları saklamak için kullanılan metal bir dolap. Çelikten yapılmıştır; havalandırma delikleri ve sağlam bir kilidi vardır. İç bölmeleri eşyaları düzenli saklamayı sağlar. Kışlalarda, ofislerde ve yatakhanelerde kıyafetleri ve kişisel eşyaları koymak için sık kullanılır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_storage08">
+    <text>Büyük kasa</text>
+  </string>
+  <string id="st_placeable_storage08_descr">
+    <text>Güvenli saklama için tasarlanmış büyük bir kasa. Yüksek dayanımlı çelikten yapılmıştır; hırsızlığa ve yangına karşı güvenilir koruma sağlar. Şifreli kilidi ve güçlendirilmiş menteşeleri vardır. Büyük değerli eşyalar ve gizli belgeler için idealdir. Ofisler ve değerli eşya depoları gibi güvenli yerlerde sık bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_blue] • %c[ui_gray_2] eşya depolama\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir\n</text>
+  </string>
+  <string id="st_placeable_stretcher">
+    <text>Sedye</text>
+  </string>
+  <string id="st_placeable_stretcher_descr">
+    <text>Kanvası ve metal tutacakları olan sade bir sedye. Kanvas kirli ve yıpranmış; yoğun kullanıldığı belli. Bu tür modeller yaralıları acil durumda taşımak için tasarlanır ve ambulanslarda ya da hastanelerde yaygın olarak kullanılır. Bölge’de sağlık personeli bulunan grup kamplarında ve terk edilmiş bazı binalarda sık görülür. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_suit">
+    <text>SSP-99M kıyafet standı</text>
+  </string>
+  <string id="st_placeable_suit_descr">
+    <text>Yüksek kaliteli, kapalı devre solunum ve koruma giysisi olan SSP-99M’nin sergilenmiş bir örneği. 99M modeli gelişmiş çevresel koruma sağlar ve sırtta taşınan basınçlı bir tüpten oksijen verir. Bu sergi giysisi kullanım izleri taşısa da görünüşünü iyi korumuş. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_survivalguide">
+    <text>Güvenlik kılavuzu</text>
+  </string>
+  <string id="st_placeable_survivalguide_descr">
+    <text>Yıpranmış kapaklı ve kıvrılmış sayfalı, çok kullanılmış bir teknik kılavuz. Hayatta kalma yöntemleri, ilk yardım ve acil durum prosedürleri hakkında bilgiler içeriyor. Eski bir baskı gibi görünse de becerikli bir okur için hâlâ değerli bir kaynak olabilir. Kitaplar ve kılavuzlar genellikle yatakhanelerde ve kişisel sığınaklarda bulunur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_teapot">
+    <text>Demlik</text>
+  </string>
+  <string id="st_placeable_teapot_descr">
+    <text>Sade tasarımlı metal bir çaydanlık. Yüzeyi, sık kullanımdan ve hava koşullarından dolayı kararmış görünüyor. Saptaki kumaş, sıcaktan korumak için sarılmış. Su kaynatmak, çay veya kahve yapmak için kullanışlıdır; kişisel sığınağın mutfağına güzel bir katkı sağlar. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_toilet">
+    <text>Tuvalet</text>
+  </string>
+  <string id="st_placeable_toilet_descr">
+    <text>Her sığınakta hijyen için gerekli temel tuvalet. Seramikten yapılmıştır; dayanıklı ve temizlemesi kolaydır. Basit sifonu ve makul rahatlıktaki oturağı, çalılığa gitmekten iyidir.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie1">
+    <text>Yaban domuzu kupası A</text>
+  </string>
+  <string id="st_placeable_trophie1_descr">
+    <text>Bölge’de sık görülen iri bir hayvan olan yaban domuzunun doldurulmuş başı, el yapımı ahşap bir levhaya monte edilip sergilenmiş. Genel görünümü yıpranmış olsa da tahnit işi kaliteli. Ahşapta birkaç çizik var; kürk de muhtemelen hava koşullarından dolayı seyrelmiş ve solmuş. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie2">
+    <text>Kimera kupası</text>
+  </string>
+  <string id="st_placeable_trophie2_descr">
+    <text>El yapımı ahşap bir levhaya monte edilmiş kimera başı; etkileyici ve ürkütücü bir sergi parçası. Baş iyi korunmuş ve tahnit işi genel olarak kaliteli, ancak kürkün bazı bölümleri muhtemelen paketleme ve taşıma nedeniyle yıpranmış. Nadir ve değerli bir ganimet; önemli bir başarının simgesi olarak sığınaklarda sergilenir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie3">
+    <text>Sahte köpek kupası</text>
+  </string>
+  <string id="st_placeable_trophie3_descr">
+    <text>Tehditkâr diş gösterişini koruyacak şekilde özenle doldurulup ahşap kaideye yerleştirilmiş çevik bir psödoköpek. Tahnit işi kaliteli; keskin dişleri ve kürkü dahil yaratık iyi korunmuş. Bu ganimet, Bölge’deki en küçük tehlikelerin bile dikkatsiz bir stalkerın sonunu aniden getirebileceğini hatırlatıyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie4">
+    <text>Kedi kupası</text>
+  </string>
+  <string id="st_placeable_trophie4_descr">
+    <text>Ahşap kaide üzerine yerleştirilmiş, vahşi ifadesi korunacak şekilde ustalıkla doldurulmuş bir kedi. Tahnit işi kaliteli, kürkü iyi korunmuş; ancak bazı bölgelerde yıpranma var. Bir ganimet olarak başarılı bir avı ve sahibinin karşılaştığı tehlikeleri temsil ediyor. Dışlama bölgesindeki mutant kedilerin vahşiliği hâlâ hissediliyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie5">
+    <text>Kan emici kupası A</text>
+  </string>
+  <string id="st_placeable_trophie5_descr">
+    <text>Kasvetli sırıtışı korunarak özenle doldurulmuş ve el yapımı ahşap levhaya monte edilmiş bir kan emici kafası. Tahnit işi, özellikle tek tek dokunaçlarda kaliteli; ancak derisi çevresel etkilerden dolayı hafifçe renk değiştirmiş. Doldurulmuş kan emici ganimetleri Bölge’de nadir görülen süslerdir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie6">
+    <text>Kan emici kupası B</text>
+  </string>
+  <string id="st_placeable_trophie6_descr">
+    <text>Ahşap kaide üzerinde tehditkâr bir pozda duran, tamamen doldurulmuş bir kan emici. Özenle korunmuş ve tahnit işi kaliteli; ancak derisinde küçük çatlaklar ve renk değişimleri var. Kan emici ganimetleri, bu yaratığın ölümcül doğasını yansıtan nadir ve ürkütücü süslerdir. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie7">
+    <text>Kör köpek kupası</text>
+  </string>
+  <string id="st_placeable_trophie7_descr">
+    <text>Ahşap kaideye gerçekçi bir pozda yerleştirilmiş doldurulmuş bir kör köpek. Tahnit işi kaliteli, kürkü yumuşak; ancak bazı bölümleri sert ve keçeleşmiş, belki örnek canlıyken de böyleydi. Ganimetin ürkütücü bir havası var; en sıradan mutantın bile kötü bir günde tehlikeli olabileceğini hatırlatıyor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie8">
+    <text>Et kupası</text>
+  </string>
+  <string id="st_placeable_trophie8_descr">
+    <text>Tüm sarkan bacakları dahil grotesk görünümü korunarak ahşap kaideye monte edilmiş bir et parçası. Derisi kalın ve gözenekli, vücudu baştan başa yara izleriyle dolu. Et mutantı ganimetleri, daha az tehditkâr örnekleriyle bile Bölge’nin alışılmadık ve tehlikeli faunasını nadiren hatırlatır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_trophie9">
+    <text>Yaban domuzu kupası B</text>
+  </string>
+  <string id="st_placeable_trophie9_descr">
+    <text>Ahşap kaideye yerleştirilmiş dev bir doldurulmuş yaban domuzu. İri cüssesine rağmen yüksek ayrıntı düzeyiyle canlı görünüyor. Kürkü kaba, dişleri hafifçe kırık; bunlar yaşını ve muhtemelen talihsiz acemilerle çatışmalarını gösteriyor. Yaban domuzu ganimetleri, Bölge’nin sert doğasını sergileyen nadir bir dekor. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_tv_box">
+    <text>Eski televizyon</text>
+  </string>
+  <string id="st_placeable_tv_box_descr">
+    <text>Bölge sakinlerine eğlence ve haber sunan eski model televizyon. Sağlam plastik kasasında CRT ekran ve mekanik kanal düğmeleri bulunur. Eski olsa da sinyal varsa yayınları alabilir.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] teknolojik eşya\n</text>
+  </string>
+  <string id="st_placeable_wall_divider">
+    <text>Oda bölücü 2×2 m</text>
+  </string>
+  <string id="st_placeable_wall_divider_descr">
+    <text>Hafif ama dayanıklı malzemelerden yapılmış, 2’ye 2 metre boyutlarında taşınabilir bir paravan. Yaşam alanlarında veya sığınaklarda geçici bölmeler oluşturmak için idealdir. Görsel mahremiyet sağlayan kumaş panelli alüminyum bir çerçevesi vardır. Derme çatma barınaklarda sık görülür ve alanı verimli düzenlemeye yardımcı olur. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] mobilya\n</text>
+  </string>
+  <string id="st_placeable_wooden_board">
+    <text>Ahşap panel</text>
+  </string>
+  <string id="st_placeable_wooden_board_descr">
+    <text>Pencereleri ve girişleri kapatmak için kullanılan ahşap bir panel. İşlenmiş çamdan yapılmıştır; sağlamdır ve hava koşullarına dayanır. Derme çatma barınaklarda ve savunma yapılarında hassas açıklıkları korumak için sık kullanılır. Gerektiğinde kolayca takılıp çıkarılır. \n \n
+		%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] Pencere ve girişleri kapatmak için kullanılır\n</text>
+  </string>
+  <string id="st_placeable_wooden_plank">
+    <text>Ahşap tahta</text>
+  </string>
+  <string id="st_placeable_wooden_plank_descr">
+    <text>Pencere ve girişleri kapatmak için kullanılan sağlam meşe tahta. Davetsiz kişilere karşı güvenilir bir engel oluşturur; çakılabilir veya vidalanabilir. Şantiyelerde ve derme çatma sığınaklarda bulunur.%c[ui_gray_3]ÖZELLİKLER:\n
+		%c[d_orange] • %c[ui_gray_2] yerleştirilebilir eşya\n
+		%c[d_blue] • %c[ui_gray_2] Pencere ve girişleri kapatmak için kullanılır\n</text>
+  </string>
+</string_table>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_itm_placeable_trashcan_name">
+    <text>Zonen-Recyclingbehälter</text>
+  </string>
+  <string id="st_open_trashcan">
+    <text>Behälter öffnen</text>
+  </string>
+  <string id="st_place_trashcan">
+    <text>Behälter platzieren</text>
+  </string>
+  <string id="st_placeable_trashcan_descr">
+    <text>Großer Metallbehälter für unerwünschte Gegenstände. Wie ein Versteck platzierbar, doch nach einer Frist wird der gesamte Inhalt dauerhaft vernichtet.\n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] platzierbarer Behälter\n%c[d_blue] • %c[ui_gray_2] zerstört alles, was hineingelegt wird</text>
+  </string>
+  <string id="st_trashcan_mollyguard">
+    <text>WARNUNG: Alle Gegenstände in diesem Behälter werden nach Ablauf VERNICHTET</text>
+  </string>
+  <string id="st_trashcan_searchtip">
+    <text>Gegenstände in den Behälter legen ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_trashcan_seconds">
+    <text>Sekunden</text>
+  </string>
+  <string id="st_trashcan_shutupwesley">
+    <text>Behälter platziert</text>
+  </string>
+  <string id="ui_mcm_menu_zrb">
+    <text>Zonen-Recyclingbehälter</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs">
+    <text>Debug-Protokoll aktivieren</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs_desc">
+    <text>Das Skript schreibt ausführliche Meldungen in die Konsole. Normalerweise ausgeschaltet lassen; zur Fehlerreproduktion aktivieren.</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout">
+    <text>Verzögerung vor dem Löschen</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout_desc">
+    <text>Anzahl der Sekunden, die vergehen müssen, bis alle Gegenstände aus dem Behälter entfernt werden.\n \nNach dem Leeren sind alle Gegenstände FÜR IMMER verloren.</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled">
+    <text>Gegenstandslöschung aktivieren</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled_desc">
+    <text>Schaltet das Löschen von Gegenständen ein oder aus.</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin">
+    <text>Kostenlosen Behälter für den Spieler erzeugen</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin_desc">
+    <text>Gibt dem Spieler einen kostenlosen Behälter und deaktiviert die Option. Für einen weiteren erneut einschalten.</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall">
+    <text>ZRB deinstallieren</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall_desc">
+    <text>Löscht alle Behälter aus dem Inventar des Spielers.</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots">
+    <text>Behälter auf der Karte markieren</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots_desc">
+    <text>Fügt beim Platzieren ein eigenes Kartensymbol hinzu.</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled">
+    <text>Vor dauerhaftem Löschen warnen</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled_desc">
+    <text>Zeigt bei jedem Platzieren eine Warnung. Deaktivieren, um eine normale Bestätigung zu verwenden.</text>
+  </string>
+</string_table>

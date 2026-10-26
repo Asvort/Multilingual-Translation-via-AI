@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_auto_fire">
+    <text>Tryb ognia automatycznego</text>
+  </string>
+  <string id="st_gauss_cannot_be_repaired">
+    <text>Nie wiadomo, jak działa ta broń. Nie można jej naprawić bez dodatkowych informacji o jej konstrukcji.</text>
+  </string>
+  <string id="st_int_silencer">
+    <text>Zintegrowany tłumik</text>
+  </string>
+  <string id="st_no_buck">
+    <text>Nie używa amunicji śrutowej</text>
+  </string>
+  <string id="st_prop_artefact">
+    <text>Liczba modułów mocowania artefaktów</text>
+  </string>
+  <string id="st_prop_autolock">
+    <text>System automatycznego namierzania celu</text>
+  </string>
+  <string id="st_prop_autolockscope">
+    <text>System automatycznego namierzania celu</text>
+  </string>
+  <string id="st_prop_binoc_autolock">
+    <text>Wykrywalność</text>
+  </string>
+  <string id="st_prop_binoc_nightvision">
+    <text>Noktowizja</text>
+  </string>
+  <string id="st_prop_binoc_nightvision_1">
+    <text>Wysoki kontrast</text>
+  </string>
+  <string id="st_prop_binoc_nightvision_2">
+    <text>Noktowizja, poziom 1</text>
+  </string>
+  <string id="st_prop_binoc_nightvision_3">
+    <text>Noktowizja, poziom 2</text>
+  </string>
+  <string id="st_prop_binoc_zoom">
+    <text>Powiększenie</text>
+  </string>
+  <string id="st_prop_bullet_speed">
+    <text>Płaskość toru lotu</text>
+  </string>
+  <string id="st_prop_calibre">
+    <text>Kaliber</text>
+  </string>
+  <string id="st_prop_contrast">
+    <text>Celownik o wysokim kontraście</text>
+  </string>
+  <string id="st_prop_durability">
+    <text>Wytrzymałość kombinezonu</text>
+  </string>
+  <string id="st_prop_grenade_launcher">
+    <text>Podwieszany granatnik</text>
+  </string>
+  <string id="st_prop_night_vision">
+    <text>Urządzenie noktowizyjne 1PN93-1</text>
+  </string>
+  <string id="st_prop_night_vision_10">
+    <text>Ulepszenie noktowizora PN21KL</text>
+  </string>
+  <string id="st_prop_night_vision_2">
+    <text>Urządzenie noktowizyjne PN21KL</text>
+  </string>
+  <string id="st_prop_night_vision_3">
+    <text>Ulepszenie noktowizora PN21KL</text>
+  </string>
+  <string id="st_prop_not_available">
+    <text>Wymagany poziom broni:</text>
+  </string>
+  <string id="st_prop_not_available_no_reason">
+    <text>Ta broń nie obsługuje tego ulepszenia</text>
+  </string>
+  <string id="st_prop_recoil">
+    <text>Odrzut</text>
+  </string>
+  <string id="st_prop_reliability">
+    <text>Niezawodność</text>
+  </string>
+  <string id="st_prop_restore_bleeding">
+    <text>Leczenie ran</text>
+  </string>
+  <string id="st_prop_restore_health">
+    <text>Przywracanie zdrowia</text>
+  </string>
+  <string id="st_prop_scanner">
+    <text>Skaner podczerwieni</text>
+  </string>
+  <string id="st_prop_scope">
+    <text>Regulowany celownik</text>
+  </string>
+  <string id="st_prop_scope_1.6x">
+    <text>Celownik kolimatorowy 1,6x</text>
+  </string>
+  <string id="st_prop_scope_12x">
+    <text>Celownik optyczny 12x</text>
+  </string>
+  <string id="st_prop_scope_15x">
+    <text>Celownik optyczny 15x</text>
+  </string>
+  <string id="st_prop_scope_4x">
+    <text>Celownik optyczny 4x</text>
+  </string>
+  <string id="st_prop_scope_5x">
+    <text>Celownik optyczny 5x</text>
+  </string>
+  <string id="st_prop_scope_6x">
+    <text>Celownik optyczny 6x</text>
+  </string>
+  <string id="st_prop_scope_attach">
+    <text>Mocowanie celownika optycznego</text>
+  </string>
+  <string id="st_prop_silencer">
+    <text>Zgodność z tłumikiem</text>
+  </string>
+  <string id="st_prop_sprint">
+    <text>Wspomaganie serwomotoru</text>
+  </string>
+  <string id="st_prop_underbarrel_slot">
+    <text>Mocowanie pod lufą</text>
+  </string>
+  <string id="st_prop_weight">
+    <text>Waga</text>
+  </string>
+  <string id="st_prop_weightoutfit">
+    <text>Masa pancerza</text>
+  </string>
+  <string id="st_semi_auto_fire">
+    <text>Seria 3-strzałowa</text>
+  </string>
+  <string id="st_up_add_a1_descr">
+    <text>Gwint zewnętrzny umożliwia zamontowanie tłumika.</text>
+  </string>
+  <string id="st_up_add_a1_name">
+    <text>Gwint zewnętrzny lufy</text>
+  </string>
+  <string id="st_up_add_a2_descr">
+    <text>Montaż mocowania do celownika optycznego.</text>
+  </string>
+  <string id="st_up_add_a2_name">
+    <text>Mocowanie optyczne</text>
+  </string>
+  <string id="st_up_add_a3_descr">
+    <text>Montaż mocowania podwieszanego granatnika.</text>
+  </string>
+  <string id="st_up_add_a3_name">
+    <text>Mocowanie podwieszanego granatnika</text>
+  </string>
+  <string id="st_up_add_a4_descr">
+    <text>Zastąpienie standardowego magazynka większym.</text>
+  </string>
+  <string id="st_up_add_a4_name">
+    <text>Zwiększona pojemność magazynka</text>
+  </string>
+  <string id="st_up_add_b1_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b1_name">
+    <text>Zmiana kalibru na 5.45x39</text>
+  </string>
+  <string id="st_up_add_b2_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b2_name">
+    <text>Zmiana kalibru na 5.56x45</text>
+  </string>
+  <string id="st_up_add_b3_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b3_name">
+    <text>Zmiana kalibru na 9x18</text>
+  </string>
+  <string id="st_up_add_b4_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b4_name">
+    <text>Zmiana kalibru na 9x19</text>
+  </string>
+  <string id="st_up_add_b5_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b5_name">
+    <text>Zmiana kalibru na 7.62x39</text>
+  </string>
+  <string id="st_up_add_b6_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b6_name">
+    <text>Zmiana kalibru na 7.62x51</text>
+  </string>
+  <string id="st_up_add_b7_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_add_b7_name">
+    <text>Zmiana kalibru na 7.62x54</text>
+  </string>
+  <string id="st_up_addd_a1_descr">
+    <text>Zwiększenie pojemności magazynka bez wydłużania broni.</text>
+  </string>
+  <string id="st_up_addd_a1_name">
+    <text>Zwiększona pojemność magazynka</text>
+  </string>
+  <string id="st_up_addh_a1_descr">
+    <text>Lżejszy, pojemniejszy magazynek pudełkowy z poliwęglanu, który częściowo równoważy wzrost masy.</text>
+  </string>
+  <string id="st_up_addh_a1_name">
+    <text>Zwiększona pojemność magazynka pudełkowego</text>
+  </string>
+  <string id="st_up_arm_a1_descr">
+    <text>Zwiększenie liczby płyt tytanowych znacznie poprawia wytrzymałość pancerza.</text>
+  </string>
+  <string id="st_up_arm_a1_name">
+    <text>Dodatkowe płyty aluminiowo-tytanowe</text>
+  </string>
+  <string id="st_up_arm_a2_descr">
+    <text>Wzmocnione płyty, które służą dłużej, ale nie są bardziej wytrzymałe.</text>
+  </string>
+  <string id="st_up_arm_a2_name">
+    <text>Płyty kevlarowe</text>
+  </string>
+  <string id="st_up_arm_a3_descr">
+    <text>Stop aluminium i tytanu zmniejsza masę tytanu, umożliwiając jego użycie w osobistym wyposażeniu ochronnym.</text>
+  </string>
+  <string id="st_up_arm_a3_name">
+    <text>Płyty aluminiowe i tytanowe</text>
+  </string>
+  <string id="st_up_arm_a4_descr">
+    <text>Tytan jest zwykle zbyt ciężki do użycia w osobistym wyposażeniu ochronnym, ale bywa stosowany w egzoszkieletach.</text>
+  </string>
+  <string id="st_up_arm_a4_name">
+    <text>Elementy z litego tytanu</text>
+  </string>
+  <string id="st_up_arm_a5_descr">
+    <text>Zastąpienie metalu włóknem węglowym zmniejsza masę pancerza bez utraty niezawodności.</text>
+  </string>
+  <string id="st_up_arm_a5_name">
+    <text>Zastąpienie metalowych elementów pancerza włóknem węglowym</text>
+  </string>
+  <string id="st_up_arm_a6_descr">
+    <text>Kevlar jest jednym z najczęściej stosowanych materiałów w pancerzach.</text>
+  </string>
+  <string id="st_up_arm_a6_name">
+    <text>Płyty kevlarowe</text>
+  </string>
+  <string id="st_up_arm_a7_descr">
+    <text>Poliwęglan potrafi zatrzymać pocisk z pistoletu, pozostając przy tym lekki jak plastik.</text>
+  </string>
+  <string id="st_up_arm_a7_name">
+    <text>Płyty poliwęglanowe</text>
+  </string>
+  <string id="st_up_arm_a8_descr">
+    <text>Płyty ceramiczne nie wytrzymują długo, ale dzięki lepszemu tłumieniu energii pocisku są bardziej niezawodne niż Kevlar.</text>
+  </string>
+  <string id="st_up_arm_a8_name">
+    <text>Montaż płyt ceramicznych</text>
+  </string>
+  <string id="st_up_arm_a9_descr">
+    <text>Proste stalowe płyty wszyte w płaszcz.</text>
+  </string>
+  <string id="st_up_arm_a9_name">
+    <text>Płyty stalowe</text>
+  </string>
+  <string id="st_up_arm_b1_descr">
+    <text>Ceramiczna warstwa zewnętrzna może odbijać pociski przeciwpancerne trafiające pod kątem, a te uderzające bezpośrednio kruszyć na drobny pył.</text>
+  </string>
+  <string id="st_up_arm_b1_name">
+    <text>Zewnętrzna warstwa ceramiczna pancerza</text>
+  </string>
+  <string id="st_up_arm_b2_descr">
+    <text>Dodatkowa wewnętrzna warstwa pancerza chroni na wypadek uszkodzenia warstwy zewnętrznej.</text>
+  </string>
+  <string id="st_up_arm_b2_name">
+    <text>Dodatkowa warstwa płyt ochronnych</text>
+  </string>
+  <string id="st_up_arm_b3_descr">
+    <text>Pancerz z wewnętrzną warstwą rozpraszającą uderzenie na większej powierzchni.</text>
+  </string>
+  <string id="st_up_arm_b3_name">
+    <text>Dodanie elementu kompensującego</text>
+  </string>
+  <string id="st_up_arm_b4_descr">
+    <text>Rama może zatrzymać pocisk z pistoletu, jeśli główna część pancerza zostanie uszkodzona.</text>
+  </string>
+  <string id="st_up_arm_b4_name">
+    <text>Dodatkowa opancerzona rama</text>
+  </string>
+  <string id="st_up_arm_b5_descr">
+    <text>Cieńsze arkusze pancerza układa się warstwami, by zwiększyć jego odporność na zużycie.</text>
+  </string>
+  <string id="st_up_arm_b5_name">
+    <text>Ochrona segmentowa</text>
+  </string>
+  <string id="st_up_arm_b6_descr">
+    <text>Więcej płyt nie oznacza lepszej ochrony, ale gwarantuje większą wytrzymałość.</text>
+  </string>
+  <string id="st_up_arm_b6_name">
+    <text>Druga warstwa zapasowa</text>
+  </string>
+  <string id="st_up_arm_b7_descr">
+    <text>Ruchome płyty chronią stawy przed ranami postrzałowymi.</text>
+  </string>
+  <string id="st_up_arm_b7_name">
+    <text>Montaż ruchomych płyt ochronnych na stawy</text>
+  </string>
+  <string id="st_up_arm_b8_descr">
+    <text>Lżejsza aluminiowa rama płyt zastępująca stalową.</text>
+  </string>
+  <string id="st_up_arm_b8_name">
+    <text>Lżejsza rama aluminiowa</text>
+  </string>
+  <string id="st_up_arm_b9_descr">
+    <text>Pogrubione wkładki zmniejszające siłę uderzeń pocisków odczuwanych przez kamizelkę kuloodporną.</text>
+  </string>
+  <string id="st_up_arm_b9_name">
+    <text>Pogrubienie skórzanych wkładek</text>
+  </string>
+  <string id="st_up_arm_c10_descr">
+    <text>Dodatkowa warstwa ceramiczna z amortyzacją silikonową.</text>
+  </string>
+  <string id="st_up_arm_c10_name">
+    <text>Wzmocnione płyty ceramiczne</text>
+  </string>
+  <string id="st_up_arm_c11_descr">
+    <text>Zastosowanie lżejszych materiałów w celu zmniejszenia masy kamizelki kuloodpornej.</text>
+  </string>
+  <string id="st_up_arm_c11_name">
+    <text>Montaż lżejszych elementów syntetycznych i plastikowych</text>
+  </string>
+  <string id="st_up_arm_c12_descr">
+    <text>Lite płyty z litego tytanu są zbyt ciężkie, by piechur mógł je nosić, ale egzoszkielet z mocnymi serwomotorami poradzi sobie z takim ciężarem.</text>
+  </string>
+  <string id="st_up_arm_c12_name">
+    <text>Tytanowy pancerz napierśnika</text>
+  </string>
+  <string id="st_up_arm_c13_descr">
+    <text>SBK-RKhZ.m.II — specjalny kombinezon bojowy ochrony radiochemicznej, model drugi.</text>
+  </string>
+  <string id="st_up_arm_c13_name">
+    <text>Szczelny kombinezon ochrony radiologicznej SBK-RKhZ.m.II</text>
+  </string>
+  <string id="st_up_arm_c1_descr">
+    <text>To pracochłonne i czasochłonne ulepszenie nie jest zbyt popularne, choć wiadomo, że ratowało życie.</text>
+  </string>
+  <string id="st_up_arm_c1_name">
+    <text>Wszyta kolczuga</text>
+  </string>
+  <string id="st_up_arm_c2_descr">
+    <text>Łuska składa się z nakładanych płyt ceramicznych, które zapobiegają trafieniu noszącego dwa razy z rzędu w to samo miejsce.</text>
+  </string>
+  <string id="st_up_arm_c2_name">
+    <text>Modyfikacja Scale z odchylającą ceramiką</text>
+  </string>
+  <string id="st_up_arm_c3_descr">
+    <text>Po zastosowaniu Sovereign kombinezon staje się niemal niewrażliwy na uszkodzenia mechaniczne i rozdarcia tkaniny.</text>
+  </string>
+  <string id="st_up_arm_c3_name">
+    <text>Obróbka spoiwem Sovereign</text>
+  </string>
+  <string id="st_up_arm_c4_descr">
+    <text>Ceramika znacznie łagodzi uderzenie pocisku, rozpraszając je na odrywające się fragmenty.</text>
+  </string>
+  <string id="st_up_arm_c4_name">
+    <text>Nałożenie warstwy ceramicznej na płyty</text>
+  </string>
+  <string id="st_up_arm_c5_descr">
+    <text>Wzmocniona matryca wykorzystująca beryl zamiast aluminium to jeden z najpewniejszych sposobów ochrony piechoty.</text>
+  </string>
+  <string id="st_up_arm_c5_name">
+    <text>Wzmocniona matryca tytanowo-berylowa</text>
+  </string>
+  <string id="st_up_arm_c6_descr">
+    <text>Ceramika znacznie łagodzi uderzenie pocisku, rozpraszając je na odrywające się fragmenty.</text>
+  </string>
+  <string id="st_up_arm_c6_name">
+    <text>Warstwa ceramiczna na płytach</text>
+  </string>
+  <string id="st_up_arm_c7_descr">
+    <text>Włókno węglowe należy do najtrwalszych i najbardziej odpornych na zużycie materiałów; stosuje się je nawet w budowie samolotów.</text>
+  </string>
+  <string id="st_up_arm_c7_name">
+    <text>Dodatkowa powłoka z włókna węglowego</text>
+  </string>
+  <string id="st_up_arm_c8_descr">
+    <text>Połączona, wielowarstwowa powłoka polimerowo-ceramiczna.</text>
+  </string>
+  <string id="st_up_arm_c8_name">
+    <text>Połączona powłoka płyt Screen</text>
+  </string>
+  <string id="st_up_arm_c9_descr">
+    <text>Krajowa technologia i jedno z najnowszych osiągnięć w dziedzinie ochrony osobistej: hodowla sztucznych szafirów.</text>
+  </string>
+  <string id="st_up_arm_c9_name">
+    <text>Powłoka ochronna Armadillo na bazie kryształów szafiru</text>
+  </string>
+  <string id="st_up_autd_a1_descr">
+    <text>Regulacja podzespołów wydłuża działanie broni bez zacięć.</text>
+  </string>
+  <string id="st_up_autd_a1_name">
+    <text>Regulacja podzespołów</text>
+  </string>
+  <string id="st_up_autd_a2_descr">
+    <text>Moda na plastikowe elementy nie tylko się sprawdziła, lecz także stała się dość popularnym ulepszeniem.</text>
+  </string>
+  <string id="st_up_autd_a2_name">
+    <text>Elementy polimerowe</text>
+  </string>
+  <string id="st_up_autd_b1_descr">
+    <text>Mechanizm strzałowy o małym impulsie zapewnia mniejszy odrzut niż starsze wersje.</text>
+  </string>
+  <string id="st_up_autd_b1_name">
+    <text>Mechanizm strzałowy o małym impulsie</text>
+  </string>
+  <string id="st_up_autd_b2_descr">
+    <text>Pewne ustawienie naboju podczas strzału sprawia, że pocisk leci prosto i trafia w cel.</text>
+  </string>
+  <string id="st_up_autd_b2_name">
+    <text>Montaż układu pozycjonowania naboju</text>
+  </string>
+  <string id="st_up_autd_b3_descr">
+    <text>Często stosowany w broni układ ryglowania rolkowego zmniejsza odrzut i poprawia skupienie.</text>
+  </string>
+  <string id="st_up_autd_b3_name">
+    <text>Zamek półswobodny z układem rolkowym</text>
+  </string>
+  <string id="st_up_autd_b4_descr">
+    <text>Montaż dodatkowego cylindra gazowego zmniejsza obciążenie broni i pozwala znacznie zwiększyć szybkostrzelność.</text>
+  </string>
+  <string id="st_up_autd_b4_name">
+    <text>Montaż dodatkowego cylindra gazowego</text>
+  </string>
+  <string id="st_up_autd_b5_descr">
+    <text>W samonapinających strzelbach powtarzalnych stosuje się silnik gazowy do ognia półautomatycznego.</text>
+  </string>
+  <string id="st_up_autd_b5_name">
+    <text>Montaż silnika gazowego</text>
+  </string>
+  <string id="st_up_autd_c1_descr">
+    <text>Powłoka ochronna zapobiega niewypałom spowodowanym awarią mechanizmu.</text>
+  </string>
+  <string id="st_up_autd_c1_name">
+    <text>Ochronna powłoka podzespołów</text>
+  </string>
+  <string id="st_up_autd_c2_descr">
+    <text>Podczas strzału element otwiera drogę do lufy, a następnie wraca do pozycji zamkniętej dzięki wzdłużnemu przesunięciu łoża.</text>
+  </string>
+  <string id="st_up_autd_c2_name">
+    <text>Układ zamykania lufy</text>
+  </string>
+  <string id="st_up_autd_c3_descr">
+    <text>Układ automatyczny z bezwładnością pozwala przerobić mechanizm pompowy zwykłej strzelby na samonapinający.</text>
+  </string>
+  <string id="st_up_autd_c3_name">
+    <text>Montaż układu automatycznego z bezwładnością</text>
+  </string>
+  <string id="st_up_autd_c4_descr">
+    <text>Zunifikowany moduł odrzutu to jedno z najlepszych rozwiązań technicznych zmniejszających odrzut.</text>
+  </string>
+  <string id="st_up_autd_c4_name">
+    <text>Zunifikowany moduł odrzutu</text>
+  </string>
+  <string id="st_up_autd_c5_descr">
+    <text>Automatyczny drążek napędowy poprawia celność broni.</text>
+  </string>
+  <string id="st_up_autd_c5_name">
+    <text>Montaż automatycznego drążka napędowego</text>
+  </string>
+  <string id="st_up_auth_a1_descr">
+    <text>Aktywna przeciwwaga przesuwa się z ramy zamka i częściowo kompensuje odrzut.</text>
+  </string>
+  <string id="st_up_auth_a1_name">
+    <text>Dodanie aktywnej przeciwwagi</text>
+  </string>
+  <string id="st_up_auth_b1_descr">
+    <text>Montaż dodatkowych elementów rolkowych zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_auth_b1_name">
+    <text>Montaż rolkowego układu kompensacji odrzutu</text>
+  </string>
+  <string id="st_up_auth_c1_descr">
+    <text>Zastąpienie mechanizmu zamka lepiej dobraną konstrukcją zwiększa szybkostrzelność.</text>
+  </string>
+  <string id="st_up_auth_c1_name">
+    <text>Systemy strzelania z otwartego zamka</text>
+  </string>
+  <string id="st_up_auth_c2_descr">
+    <text>Podczas strzału przeciwwaga ramy zamka porusza się w kierunku przeciwnym do zamka, co ułatwia strzelanie z karabinu maszynowego.</text>
+  </string>
+  <string id="st_up_auth_c2_name">
+    <text>Montaż samoregulującej się przeciwwagi</text>
+  </string>
+  <string id="st_up_auto_a1_descr">
+    <text>W komorze zamkowej montuje się dodatkową przeciwwagę, która przeciwną siłą zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_auto_a1_name">
+    <text>Dodanie ruchomej przeciwwagi</text>
+  </string>
+  <string id="st_up_auto_a2_descr">
+    <text>Moda na elementy polimerowe nie tylko się sprawdziła, lecz także stała się dość popularnym ulepszeniem.</text>
+  </string>
+  <string id="st_up_auto_a2_name">
+    <text>Odporne na uderzenia elementy polimerowe do mechanizmów automatycznych</text>
+  </string>
+  <string id="st_up_auto_b1_descr">
+    <text>Montaż specjalnego mechanizmu chroniącego broń przed brudem.</text>
+  </string>
+  <string id="st_up_auto_b1_name">
+    <text>Automatyczny dwupozycyjny regulator gazowy</text>
+  </string>
+  <string id="st_up_auto_b2_descr">
+    <text>Specjalny element szczelnie zamyka lufę, zwiększając ciśnienie podczas strzału.</text>
+  </string>
+  <string id="st_up_auto_b2_name">
+    <text>Montaż urządzenia zamykającego lufę</text>
+  </string>
+  <string id="st_up_auto_b3_descr">
+    <text>Synchronizację zapewnia zębatka, co pozwala zwiększyć płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_auto_b3_name">
+    <text>Synchronizacja ruchu drążka</text>
+  </string>
+  <string id="st_up_auto_b4_descr">
+    <text>Element zamontowany z tyłu komory zamkowej zmniejsza prędkość zamka. Montuje się go, by zwiększyć skuteczność celowanego ognia.</text>
+  </string>
+  <string id="st_up_auto_b4_name">
+    <text>Mechanizm opóźniający bezwładnościowy</text>
+  </string>
+  <string id="st_up_auto_c1_descr">
+    <text>Specjalny element w mechanizmie zamka łagodzi jego ruch i zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_auto_c1_name">
+    <text>Dodanie urządzenia zmniejszającego prędkość odrzutu</text>
+  </string>
+  <string id="st_up_auto_c2_descr">
+    <text>Zintegrowane ulepszenie stosowane zwykle w karabinach snajperskich ze względu na znaczny wzrost masy broni.</text>
+  </string>
+  <string id="st_up_auto_c2_name">
+    <text>Wbudowany układ amortyzacji odrzutu</text>
+  </string>
+  <string id="st_up_auto_c3_descr">
+    <text>Montaż mechanizmu z ruchomymi elementami, które przyspieszają podawanie nabojów podczas strzału.</text>
+  </string>
+  <string id="st_up_auto_c3_name">
+    <text>Automatyczne podawanie nabojów</text>
+  </string>
+  <string id="st_up_auto_c4_descr">
+    <text>Ulepszenie automatycznych elementów broni wymagające wymiany kilku części. Zwiększa celność.</text>
+  </string>
+  <string id="st_up_auto_c4_name">
+    <text>Zrównoważony układ bezudarowy</text>
+  </string>
+  <string id="st_up_auto_c5_descr">
+    <text>Syntetyczny element tuż przed obszarem ruchu zamka mocno go ściska, poprawiając celność strzałów.</text>
+  </string>
+  <string id="st_up_auto_c5_name">
+    <text>Dodanie ogranicznika</text>
+  </string>
+  <string id="st_up_auto_c6_descr">
+    <text>Łącznik ustala pozycję lufy; gdy lufa się poruszy, otwierają się dodatkowe otwory kompensacyjne.</text>
+  </string>
+  <string id="st_up_auto_c6_name">
+    <text>Montaż elementu „inteligentnej kompensacji”</text>
+  </string>
+  <string id="st_up_auts_a1_descr">
+    <text>Modernizacja zapewniająca płynniejsze działanie mechanizmu spustowego, istotne dla snajperów.</text>
+  </string>
+  <string id="st_up_auts_a1_name">
+    <text>Montaż mechanizmu regulacji zwalniania spustu</text>
+  </string>
+  <string id="st_up_auts_a2_descr">
+    <text>Ten element pozwala strzelcowi wyczuć moment oddania strzału, poprawiając celność.</text>
+  </string>
+  <string id="st_up_auts_a2_name">
+    <text>Montaż spustu z wczesnym wyczuciem</text>
+  </string>
+  <string id="st_up_auts_b1_descr">
+    <text>Często stosowany w zachodniej broni układ ryglowania rolkowego zmniejsza odrzut i poprawia skupienie.</text>
+  </string>
+  <string id="st_up_auts_b1_name">
+    <text>Zamek półswobodny z układem rolkowym</text>
+  </string>
+  <string id="st_up_auts_b2_descr">
+    <text>Specjalny mechanizm przejmuje część uderzenia podczas strzału, dzięki czemu strzelanie z broni jest wygodniejsze.</text>
+  </string>
+  <string id="st_up_auts_b2_name">
+    <text>Układ amortyzacji strzału</text>
+  </string>
+  <string id="st_up_auts_b3_descr">
+    <text>Karabiny snajperskie wymagają więcej konserwacji niż zwykła broń, dlatego można wyposażyć je w trójpozycyjne regulatory gazowe.</text>
+  </string>
+  <string id="st_up_auts_b3_name">
+    <text>Montaż automatycznego, trójpozycyjnego regulatora gazowego</text>
+  </string>
+  <string id="st_up_auts_c1_descr">
+    <text>Powłoka zapobiega rozpraszaniu energii, zwiększając impuls pocisku.</text>
+  </string>
+  <string id="st_up_auts_c1_name">
+    <text>Regulacja części automatycznych za pomocą powłoki</text>
+  </string>
+  <string id="st_up_auts_c2_descr">
+    <text>Montaż długiego drążka mechanizmu strzałowego pozwala prowadzić ogień z karabinu snajperskiego w trybie automatycznym.</text>
+  </string>
+  <string id="st_up_auts_c2_name">
+    <text>Układ długiego drążka mechanizmu strzałowego</text>
+  </string>
+  <string id="st_up_auts_c3_descr">
+    <text>Ogranicznik oddziałuje na mechanizm odrzutu, poprawiając celność strzałów.</text>
+  </string>
+  <string id="st_up_auts_c3_name">
+    <text>Montaż ogranicznika</text>
+  </string>
+  <string id="st_up_bar_a1_descr">
+    <text>Zastąpienie standardowej lufy dłuższą poprawia celność i płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_bar_a1_name">
+    <text>Dłuższa lufa</text>
+  </string>
+  <string id="st_up_bar_a2_descr">
+    <text>Brak dużych komór gazowych i mocowanie lufy na łożu pozytywnie wpływają na celność.</text>
+  </string>
+  <string id="st_up_bar_a2_name">
+    <text>Montaż „swobodnej” lufy</text>
+  </string>
+  <string id="st_up_bar_a3_descr">
+    <text>Ta modyfikacja ogranicza szkodliwe skutki nadmiernego zwiększania szybkostrzelności.</text>
+  </string>
+  <string id="st_up_bar_a3_name">
+    <text>Montaż lufy z żebrami chłodzącymi</text>
+  </string>
+  <string id="st_up_bar_b1_descr">
+    <text>Zastąpienie przestarzałego elementu nowocześniejszym zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_bar_b1_name">
+    <text>Zoptymalizowany kompensacyjny hamulec wylotowy</text>
+  </string>
+  <string id="st_up_bar_b2_descr">
+    <text>Montaż lufy z dodatkowymi kanałami gwintowanymi zwiększa prędkość pocisków i celność broni, kosztem znacznego wzrostu odrzutu.</text>
+  </string>
+  <string id="st_up_bar_b2_name">
+    <text>Dodatkowe kanały gwintowane w lufie</text>
+  </string>
+  <string id="st_up_bar_b3_descr">
+    <text>Ta lufa ma zwiększać strefę rażenia w walce na bliskim dystansie, dlatego nie nadaje się do precyzyjnego ognia. Uproszczenie części gwintowanej zwiększa szybkostrzelność.</text>
+  </string>
+  <string id="st_up_bar_b3_name">
+    <text>Montaż lufy z uproszczoną częścią gwintowaną</text>
+  </string>
+  <string id="st_up_bar_c1_descr">
+    <text>Gwint poligonalny wykonuje się zwykle w celu poprawy celności.</text>
+  </string>
+  <string id="st_up_bar_c1_name">
+    <text>Montaż lufy z gwintem poligonalnym</text>
+  </string>
+  <string id="st_up_bar_c2_descr">
+    <text>Ogranicza nagrzewanie się lufy i zwiększa szybkostrzelność.</text>
+  </string>
+  <string id="st_up_bar_c2_name">
+    <text>Sinusoidalne gwintowanie komory lufy</text>
+  </string>
+  <string id="st_up_bar_c3_descr">
+    <text>Nietypowa wymiana lufy w broni o płaskim torze lotu, poprawiająca jej celność.</text>
+  </string>
+  <string id="st_up_bar_c3_name">
+    <text>Gwintowane kanały karabinu snajperskiego</text>
+  </string>
+  <string id="st_up_bard_a1_descr">
+    <text>Wytrzymałe materiały spowalniają zużycie lufy broni.</text>
+  </string>
+  <string id="st_up_bard_a1_name">
+    <text>Lufa z trwałego stopu</text>
+  </string>
+  <string id="st_up_bard_b1_descr">
+    <text>Obróbka wewnętrznej powierzchni lufy chroni ją przed uszkodzeniami mechanicznymi.</text>
+  </string>
+  <string id="st_up_bard_b1_name">
+    <text>Obróbka lufy</text>
+  </string>
+  <string id="st_up_bard_b2_descr">
+    <text>Syntetyczne pogrubienie wnętrza lufy znacznie poprawia skupienie strzałów.</text>
+  </string>
+  <string id="st_up_bard_b2_name">
+    <text>Syntetyczne pogrubienie lufy</text>
+  </string>
+  <string id="st_up_bard_b3_descr">
+    <text>Zastąpienie standardowej lufy dłuższą poprawia płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_bard_b3_name">
+    <text>Dłuższe odcinki lufy</text>
+  </string>
+  <string id="st_up_bard_b4_descr">
+    <text>Kanały odprowadzające gazy w lufie zapobiegają gromadzeniu się brudu, a także częściowo kierują odrzut z powrotem na samą lufę.</text>
+  </string>
+  <string id="st_up_bard_b4_name">
+    <text>Podłużne kanały odprowadzania gazów</text>
+  </string>
+  <string id="st_up_bard_b5_descr">
+    <text>Zastąpienie standardowej lufy dłuższą poprawia płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_bard_b5_name">
+    <text>Dłuższy odcinek lufy</text>
+  </string>
+  <string id="st_up_bard_b6_descr">
+    <text>Ta powłoka zapobiega przegrzewaniu lufy, usuwa wady produkcyjne i znacznie wydłuża jej żywotność.</text>
+  </string>
+  <string id="st_up_bard_b6_name">
+    <text>Nałożenie powłoki ochronnej wewnątrz lufy</text>
+  </string>
+  <string id="st_up_bard_c1_descr">
+    <text>Układ równoważenia lufy obejmuje kilka ruchomych tłoków, które stabilizują broń podczas trzymania.</text>
+  </string>
+  <string id="st_up_bard_c1_name">
+    <text>Układ równoważenia lufy</text>
+  </string>
+  <string id="st_up_bard_c2_descr">
+    <text>Gwintowana część lufy uniemożliwia strzelanie śrutem, ale uzyskana celność rekompensuje tę wadę.</text>
+  </string>
+  <string id="st_up_bard_c2_name">
+    <text>Lufy gwintowane</text>
+  </string>
+  <string id="st_up_bard_c3_descr">
+    <text>Pogrubienie materiałami polimerowymi pozwala zwiększyć ciśnienie w lufie i prędkość pocisków.</text>
+  </string>
+  <string id="st_up_bard_c3_name">
+    <text>Dynamiczne pogrubienie lufy</text>
+  </string>
+  <string id="st_up_bard_c4_descr">
+    <text>Cylindryczne rozwiercenie lufy pomaga zwiększyć szybkostrzelność broni bez wpływu na celność.</text>
+  </string>
+  <string id="st_up_bard_c4_name">
+    <text>Cylindryczne rozwiercenie lufy</text>
+  </string>
+  <string id="st_up_bard_c5_descr">
+    <text>Podczas strzału aktywna przeciwwaga przesuwa się ku wylotowi lufy, kompensując część odrzutu.</text>
+  </string>
+  <string id="st_up_bard_c5_name">
+    <text>Dodanie aktywnej przeciwwagi do osłony lufy</text>
+  </string>
+  <string id="st_up_bard_c6_descr">
+    <text>Złożona, zintegrowana modyfikacja mechanicznych i automatycznych części broni pozwala zmienić jej kaliber kosztem niezawodności.</text>
+  </string>
+  <string id="st_up_bard_c6_name">
+    <text>Zmiana kalibru na 7.62x54</text>
+  </string>
+  <string id="st_up_barp_a1_descr">
+    <text>Zastąpienie standardowej lufy dłuższą poprawia celność i płaskość toru lotu, ale zmniejsza szybkostrzelność.</text>
+  </string>
+  <string id="st_up_barp_a1_name">
+    <text>Długi odcinek lufy</text>
+  </string>
+  <string id="st_up_barp_a2_descr">
+    <text>Perforacja lufy zmniejsza odrzut, umożliwiając uchodzenie gazów przez specjalne otwory.</text>
+  </string>
+  <string id="st_up_barp_a2_name">
+    <text>Perforowany odcinek lufy</text>
+  </string>
+  <string id="st_up_barp_a3_descr">
+    <text>Bardziej zaawansowana, skrócona lufa zwiększa szybkostrzelność bez utraty płaskości toru lotu i celności.</text>
+  </string>
+  <string id="st_up_barp_a3_name">
+    <text>Skrócony odcinek lufy</text>
+  </string>
+  <string id="st_up_barp_b1_descr">
+    <text>Chromowanie wydłuża żywotność lufy.</text>
+  </string>
+  <string id="st_up_barp_b1_name">
+    <text>Chromowanie wewnętrznej powierzchni lufy</text>
+  </string>
+  <string id="st_up_barp_b2_descr">
+    <text>Przekładki przejmują część odrzutu.</text>
+  </string>
+  <string id="st_up_barp_b2_name">
+    <text>Dodanie gumowych przekładek</text>
+  </string>
+  <string id="st_up_barp_b3_descr">
+    <text>Uproszczona część gwintowana przydaje się w walce na bliskim dystansie, gdzie szybkostrzelność jest ważniejsza od celności.</text>
+  </string>
+  <string id="st_up_barp_b3_name">
+    <text>Montaż lufy z uproszczoną częścią gwintowaną</text>
+  </string>
+  <string id="st_up_barp_b4_descr">
+    <text>Montaż lufy z dodatkowymi kanałami gwintowanymi zwiększa prędkość pocisków i celność broni, kosztem znacznego wzrostu odrzutu.</text>
+  </string>
+  <string id="st_up_barp_b4_name">
+    <text>Dodatkowe kanały gwintowane w lufie</text>
+  </string>
+  <string id="st_up_barp_b5_descr">
+    <text>Odciążenie lufy pozwala znacznie ograniczyć odrzut.</text>
+  </string>
+  <string id="st_up_barp_b5_name">
+    <text>Przeniesienie kompensatora/tłumika płomienia z lufy na komorę zamkową</text>
+  </string>
+  <string id="st_up_barp_c1_descr">
+    <text>Ogranicza nagrzewanie lufy i zwiększa szybkostrzelność bez utraty płaskości toru lotu.</text>
+  </string>
+  <string id="st_up_barp_c1_name">
+    <text>Sinusoidalne gwintowanie lufy</text>
+  </string>
+  <string id="st_up_barp_c2_descr">
+    <text>Gwint poligonalny wykonuje się zwykle w celu poprawy celności karabinów snajperskich.</text>
+  </string>
+  <string id="st_up_barp_c2_name">
+    <text>Montaż lufy z częścią gwintowaną poligonalnie</text>
+  </string>
+  <string id="st_up_barp_c3_descr">
+    <text>Wzmacniacz pneumatyczny pozwala zamienić część odrzutu na wyższe ciśnienie w lufie, zwiększając prędkość wylotową.</text>
+  </string>
+  <string id="st_up_barp_c3_name">
+    <text>Montaż wzmacniacza pneumatycznego</text>
+  </string>
+  <string id="st_up_binoc_a1_descr">
+    <text>Montaż nowego zestawu soczewek do obserwacji z większej odległości, o powiększeniu x10.</text>
+  </string>
+  <string id="st_up_binoc_a1_name">
+    <text>Soczewka obiektywu (powiększenie x10)</text>
+  </string>
+  <string id="st_up_binoc_a2_descr">
+    <text>Montaż nowego zestawu soczewek do obserwacji z większej odległości, o powiększeniu x15.</text>
+  </string>
+  <string id="st_up_binoc_a2_name">
+    <text>Soczewka obiektywu (powiększenie x15)</text>
+  </string>
+  <string id="st_up_binoc_a3_descr">
+    <text>Montaż nowego zestawu soczewek do obserwacji z dużej odległości, o powiększeniu x20.</text>
+  </string>
+  <string id="st_up_binoc_a3_name">
+    <text>Wysokiej jakości soczewka obiektywu (powiększenie x20)</text>
+  </string>
+  <string id="st_up_binoc_b1_descr">
+    <text>Zastosowanie szkła ED zamiast zwykłej soczewki ogranicza aberrację chromatyczną i widmo wtórne, poprawiając obraz.</text>
+  </string>
+  <string id="st_up_binoc_b1_name">
+    <text>Poprawa kontrastu celownika</text>
+  </string>
+  <string id="st_up_binoc_b2_descr">
+    <text>Montaż noktowizji do słabego oświetlenia, wykrywającej niewidzialne dla człowieka promieniowanie w użytecznych nocą zakresach widma i natężenia.</text>
+  </string>
+  <string id="st_up_binoc_b2_name">
+    <text>Urządzenie noktowizyjne pierwszej generacji</text>
+  </string>
+  <string id="st_up_binoc_b3_descr">
+    <text>Udoskonalenie noktowizji zwiększa wzmocnienie światła, rozdzielczość systemu i światłoczułość, poprawiając jakość obrazu.</text>
+  </string>
+  <string id="st_up_binoc_b3_name">
+    <text>Urządzenie noktowizyjne drugiej generacji</text>
+  </string>
+  <string id="st_up_binoc_c1_descr">
+    <text>Zmiana konstrukcji obudowy w celu zmniejszenia masy przez zastosowanie otwartego mostka i korpusu ze stopu aluminium.</text>
+  </string>
+  <string id="st_up_binoc_c1_name">
+    <text>Konstrukcja obudowy</text>
+  </string>
+  <string id="st_up_binoc_d1_descr">
+    <text>Zmiana konstrukcji obudowy w celu zmniejszenia masy przez zastosowanie otwartego mostka i korpusu ze stopu aluminium.</text>
+  </string>
+  <string id="st_up_binoc_d1_name">
+    <text>Wykrywanie celów</text>
+  </string>
+  <string id="st_up_exo_a1_descr">
+    <text>Dodatkowe urządzenia ruchowe pozwalają maksymalnie zwiększyć udźwig.</text>
+  </string>
+  <string id="st_up_exo_a1_name">
+    <text>Dodatkowe serwomotory</text>
+  </string>
+  <string id="st_up_exo_b1_descr">
+    <text>Opracowanie techników Wolności, którzy jako pierwsi zastąpili metal włóknem węglowym ze względu na ogromną masę egzoszkieletów.</text>
+  </string>
+  <string id="st_up_exo_b1_name">
+    <text>Zastąpienie metalowych elementów włóknem węglowym</text>
+  </string>
+  <string id="st_up_exo_b2_descr">
+    <text>Opancerzenie chroni kluczowe elementy egzoszkieletu przed uszkodzeniem precyzyjnym ogniem.</text>
+  </string>
+  <string id="st_up_exo_b2_name">
+    <text>Opancerzenie układu napędowego</text>
+  </string>
+  <string id="st_up_exo_c1_descr">
+    <text>Lekki układ ruchu wykorzystuje wzmocnione sprężyny i przeguby, dzięki czemu masa egzoszkieletu ułatwia pracę silników.</text>
+  </string>
+  <string id="st_up_exo_c1_name">
+    <text>Lekki układ ruchu Shagohod</text>
+  </string>
+  <string id="st_up_exo_c2_descr">
+    <text>Montaż wspomagania hydraulicznego odróżnia egzoszkielety czwartej generacji od trzeciej i umożliwia sprint w egzoszkielecie.</text>
+  </string>
+  <string id="st_up_exo_c2_name">
+    <text>Dodanie wspomagania hydraulicznego do układów napędowych</text>
+  </string>
+  <string id="st_up_kom_a1_descr">
+    <text>Wkładka z tkaniny zapobiega uszkodzeniu tkanek miękkich przy uderzeniu o płytę.</text>
+  </string>
+  <string id="st_up_kom_a1_name">
+    <text>Amortyzująca warstwa tkaniny</text>
+  </string>
+  <string id="st_up_kom_a2_descr">
+    <text>Silikonowe pogrubienia skuteczniej od gumowych odpowiedników pochłaniają uderzenia i mniej szkodzą użytkownikowi.</text>
+  </string>
+  <string id="st_up_kom_a2_name">
+    <text>Amortyzujące pogrubienia silikonowe</text>
+  </string>
+  <string id="st_up_kom_a3_descr">
+    <text>Tkaninę, klipsy i pogrubienia zastąpiono lżejszymi materiałami syntetycznymi, aby zmniejszyć masę pancerza.</text>
+  </string>
+  <string id="st_up_kom_a3_name">
+    <text>Lżejsze materiały syntetyczne i polimerowe</text>
+  </string>
+  <string id="st_up_kom_a4_descr">
+    <text>Gumowa warstwa zapobiega uszkodzeniu tkanek miękkich przy uderzeniu o płytę.</text>
+  </string>
+  <string id="st_up_kom_a4_name">
+    <text>Gumowa warstwa amortyzująca</text>
+  </string>
+  <string id="st_up_kom_a5_descr">
+    <text>Warstwa spodnia pomoże, jeśli główna tkanina się rozerwie.</text>
+  </string>
+  <string id="st_up_kom_a5_name">
+    <text>Spodnia warstwa gumowanej tkaniny</text>
+  </string>
+  <string id="st_up_kom_a6_descr">
+    <text>Wielowarstwowa wkładka z poliwęglanu, silikonu i włókna węglowego na wypadek przebicia głównego pancerza.</text>
+  </string>
+  <string id="st_up_kom_a6_name">
+    <text>Polimerowe wkładki ochronne</text>
+  </string>
+  <string id="st_up_kom_a7_descr">
+    <text>Szczelny kombinezon Expanse Wolności, używany do lokalizowania artefaktów w strefach anomalii.</text>
+  </string>
+  <string id="st_up_kom_a7_name">
+    <text>Kombinezon ochrony przed anomaliami Expanse</text>
+  </string>
+  <string id="st_up_kom_a8_descr">
+    <text>Szczelna warstwa z materiałów syntetycznych na wypadek uszkodzenia warstwy zewnętrznej.</text>
+  </string>
+  <string id="st_up_kom_a8_name">
+    <text>Warstwa syntetyczna</text>
+  </string>
+  <string id="st_up_kom_b10_descr">
+    <text>Ergonomiczne rozwiązania z gumową konstrukcją pozwalają zachować swobodę ruchu nawet w masywnym pancerzu.</text>
+  </string>
+  <string id="st_up_kom_b10_name">
+    <text>Gumowy kombinezon zapewniający swobodę ruchu</text>
+  </string>
+  <string id="st_up_kom_b11_descr">
+    <text>Konstantan zapewnia izolację elektryczną i ma bardzo wysoką temperaturę topnienia.</text>
+  </string>
+  <string id="st_up_kom_b11_name">
+    <text>Wkładki termoizolacyjne z konstantanu</text>
+  </string>
+  <string id="st_up_kom_b12_descr">
+    <text>Ołów stanowi niezawodną ochronę przed promieniowaniem, ponieważ pochłania wszystkie jego trzy rodzaje.</text>
+  </string>
+  <string id="st_up_kom_b12_name">
+    <text>Dodanie ołowiu do kombinezonu</text>
+  </string>
+  <string id="st_up_kom_b1_descr">
+    <text>Podstawowa ochrona przed deszczem i żrącymi substancjami mającymi kontakt ze skórą.</text>
+  </string>
+  <string id="st_up_kom_b1_name">
+    <text>Kombinezon płócienny</text>
+  </string>
+  <string id="st_up_kom_b2_descr">
+    <text>Tkanina nasączona środkiem ognioodpornym jest popularna wśród stalkerów szukających artefaktów ognia.</text>
+  </string>
+  <string id="st_up_kom_b2_name">
+    <text>Tkanina nasączona środkiem ognioodpornym</text>
+  </string>
+  <string id="st_up_kom_b3_descr">
+    <text>Wkładki magnezowe chronią użytkownika przed zagrożeniami termicznymi.</text>
+  </string>
+  <string id="st_up_kom_b3_name">
+    <text>Wkładki z płyt magnezowych</text>
+  </string>
+  <string id="st_up_kom_b4_descr">
+    <text>Nawet prosta wewnętrzna warstwa z tworzywa może chronić użytkownika przed zagrożeniami chemicznymi i elektrycznymi.</text>
+  </string>
+  <string id="st_up_kom_b4_name">
+    <text>Szczelna wewnętrzna warstwa z tworzywa</text>
+  </string>
+  <string id="st_up_kom_b5_descr">
+    <text>Tkaninę, klipsy i pogrubienia zastąpiono lżejszymi materiałami syntetycznymi, aby zmniejszyć masę pancerza.</text>
+  </string>
+  <string id="st_up_kom_b5_name">
+    <text>Zastąpienie tkaniny materiałami syntetycznymi</text>
+  </string>
+  <string id="st_up_kom_b6_descr">
+    <text>Pleksiglas pochłania dwa rodzaje promieniowania, a przy tym jest znacznie lżejszy od ołowiu.</text>
+  </string>
+  <string id="st_up_kom_b6_name">
+    <text>Wewnętrzna warstwa z pleksiglasu chroniąca przed promieniowaniem</text>
+  </string>
+  <string id="st_up_kom_b7_descr">
+    <text>Niezawodna ochrona przed zagrożeniami chemicznymi i elektrycznymi.</text>
+  </string>
+  <string id="st_up_kom_b7_name">
+    <text>Elastyczna, szczelna wewnętrzna warstwa z tworzywa</text>
+  </string>
+  <string id="st_up_kom_b8_descr">
+    <text>Cienka warstwa konstantanu może zapewnić izolację elektryczną.</text>
+  </string>
+  <string id="st_up_kom_b8_name">
+    <text>Wewnętrzna warstwa izolacyjna na bazie konstantanu</text>
+  </string>
+  <string id="st_up_kom_b9_descr">
+    <text>Włókna szklanego używa się w kombinezonach ekip reagujących na klęski żywiołowe.</text>
+  </string>
+  <string id="st_up_kom_b9_name">
+    <text>Termiczna ochrona z włókna szklanego</text>
+  </string>
+  <string id="st_up_kom_c1_descr">
+    <text>Impregnowana tkanina powinna zapobiegać zatruciu chemicznemu.</text>
+  </string>
+  <string id="st_up_kom_c1_name">
+    <text>Impregnowana tkanina kombinezonu</text>
+  </string>
+  <string id="st_up_kom_c2_descr">
+    <text>Guma zapewnia podstawową ochronę przed krótkotrwałym napromieniowaniem.</text>
+  </string>
+  <string id="st_up_kom_c2_name">
+    <text>Gumowana tkanina kombinezonu</text>
+  </string>
+  <string id="st_up_kom_c3_descr">
+    <text>Stosowany w kombinezonach stalkerów w celu zwiększenia wytrzymałości.</text>
+  </string>
+  <string id="st_up_kom_c3_name">
+    <text>Wytrzymały stelaż ochronny Shield</text>
+  </string>
+  <string id="st_up_kom_c4_descr">
+    <text>Nikiel jest wystarczająco odporny na ogień, by stosować go we wkładkach pancerza.</text>
+  </string>
+  <string id="st_up_kom_c4_name">
+    <text>Ognioodporny kombinezon z wkładkami niklowymi</text>
+  </string>
+  <string id="st_up_kom_c5_descr">
+    <text>Stop niklu i magnezu stosuje się w pancerzach, aby zapobiegać porażeniom prądem.</text>
+  </string>
+  <string id="st_up_kom_c5_name">
+    <text>Kombinezon izolacyjny z wkładkami z manganinu</text>
+  </string>
+  <string id="st_up_kom_c6_descr">
+    <text>Szczelny kombinezon z warstwą antykorozyjną i pancerzem z kevlaru.</text>
+  </string>
+  <string id="st_up_kom_c6_name">
+    <text>Zintegrowany kombinezon pancerny Second Skin</text>
+  </string>
+  <string id="st_up_kom_c7_descr">
+    <text>Kombinezon z nowych, nieokreślonych polimerów używanych wcześniej przez kijowski instytut badawczy przy opracowywaniu kombinezonu Ekologa; wnęki wypełniono bizmutem.</text>
+  </string>
+  <string id="st_up_kom_c7_name">
+    <text>Polimerowy kombinezon Ekologa z wkładkami bizmutowymi</text>
+  </string>
+  <string id="st_up_kom_c8_descr">
+    <text>Ołowiana siatka zapewnia nieprzeniknioną ochronę przed promieniowaniem i chemikaliami bez ograniczania swobody ruchu.</text>
+  </string>
+  <string id="st_up_kom_c8_name">
+    <text>Kombinezon z pleksiglasu Lifesaver z elastyczną ołowianą siatką</text>
+  </string>
+  <string id="st_up_kom_c9_descr">
+    <text>Krajowe opracowanie powstałe po katastrofie w Czarnobylu. Stosowane w egzoszkieletach, by zapobiegać awariom elektroniki.</text>
+  </string>
+  <string id="st_up_kom_c9_name">
+    <text>Kombinezon Evacuator z wkładkami ołowianymi</text>
+  </string>
+  <string id="st_up_opt_a1_descr">
+    <text>Montaż celownika szturmowego do walki na krótkim dystansie.</text>
+  </string>
+  <string id="st_up_opt_a1_name">
+    <text>Celownik kolimatorowy 1.6x</text>
+  </string>
+  <string id="st_up_opt_a2_descr">
+    <text>Montaż celownika optycznego do walki na średnim i dalekim dystansie.</text>
+  </string>
+  <string id="st_up_opt_a2_name">
+    <text>Celownik optyczny 4.0x</text>
+  </string>
+  <string id="st_up_opt_a3_descr">
+    <text>Montaż celownika POSP 8x42 W do walki na dalekim dystansie.</text>
+  </string>
+  <string id="st_up_opt_a3_name">
+    <text>Celownik optyczny POSP 8x42 W 8.0x</text>
+  </string>
+  <string id="st_up_opt_a4_descr">
+    <text>Modyfikacja celownika optycznego do walki na dalekim dystansie.</text>
+  </string>
+  <string id="st_up_opt_a4_name">
+    <text>Zwiększenie powiększenia do 12.0x</text>
+  </string>
+  <string id="st_up_opt_a5_descr">
+    <text>Modyfikacja celownika optycznego do walki na dalekim dystansie.</text>
+  </string>
+  <string id="st_up_opt_a5_name">
+    <text>Zwiększenie powiększenia do 15.0x</text>
+  </string>
+  <string id="st_up_opt_a6_descr">
+    <text>Modyfikacja celownika optycznego do walki na dalekim dystansie.</text>
+  </string>
+  <string id="st_up_opt_a6_name">
+    <text>Zwiększenie powiększenia do 10.0x</text>
+  </string>
+  <string id="st_up_opt_b1_descr">
+    <text>Modyfikacja broni szturmowej z celownikiem kolimatorowym, która poprawia kontrast w żółtym zakresie. Jest ważna podczas walki o zmierzchu i w słabo oświetlonych budynkach.</text>
+  </string>
+  <string id="st_up_opt_b1_name">
+    <text>Poprawa kontrastu celownika</text>
+  </string>
+  <string id="st_up_opt_binoc1_descr">
+    <text>Filtry poprawiające kontrast, wbudowane w soczewkę lornetki, zwiększają widoczność w mieście i przy słabym oświetleniu.</text>
+  </string>
+  <string id="st_up_opt_binoc1_name">
+    <text>Nakładka poprawiająca kontrast celownika</text>
+  </string>
+  <string id="st_up_opt_binoc2_descr">
+    <text>Wymiana soczewki lornetki zapewnia lepsze przybliżenie. Powiększenie celownika wzrasta do 5.0x.</text>
+  </string>
+  <string id="st_up_opt_binoc2_name">
+    <text>Zwiększenie powiększenia do 5.0x</text>
+  </string>
+  <string id="st_up_opt_binoc3_descr">
+    <text>Wymiana układu optycznego lornetki umożliwia regulację powiększenia. Masa nieznacznie wzrasta z powodu montażu bardziej złożonego mechanizmu.</text>
+  </string>
+  <string id="st_up_opt_binoc3_name">
+    <text>Soczewka z regulowanym powiększeniem</text>
+  </string>
+  <string id="st_up_opt_c1_descr">
+    <text>Wizjer termiczny pozwala wykrywać i rozpoznawać pasujące źródła ciepła.</text>
+  </string>
+  <string id="st_up_opt_c1_name">
+    <text>Automatyczne optyczne namierzanie celów</text>
+  </string>
+  <string id="st_up_opt_c2_descr">
+    <text>Od czasu wynalezienia noktowizory uratowały wielu snajperów. Zwiększa masę o 0.27 kg.</text>
+  </string>
+  <string id="st_up_opt_c2_name">
+    <text>Montaż urządzenia noktowizyjnego</text>
+  </string>
+  <string id="st_up_opt_c3_descr">
+    <text>Ta modyfikacja umożliwia łatwe dostosowanie celownika do odległości strzału.</text>
+  </string>
+  <string id="st_up_opt_c3_name">
+    <text>Celownik z regulowanym dalmierzem</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand1_descr">
+    <text>Zastąpienie przekładni redukcyjnej nylonową zmniejsza tarcie i nieznacznie poprawia niezawodność oraz trwałość mechanizmu.</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand1_name">
+    <text>Blok przekładni</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand2_descr">
+    <text>Zastąpienie stalowych części ramy generatora duraluminium znacznie zmniejsza masę.</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand2_name">
+    <text>Rama z duraluminium</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand3_descr">
+    <text>Dodatkowe magnesy nikodimovich na wirniku silnika zwiększają wydajność generatora.</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand3_name">
+    <text>Dodatkowe magnesy</text>
+  </string>
+  <string id="st_up_pri_a1_descr">
+    <text>Kolba pneumatyczna służy do ograniczenia odrzutu podczas strzelania seriami.</text>
+  </string>
+  <string id="st_up_pri_a1_name">
+    <text>Kolba pneumatyczna</text>
+  </string>
+  <string id="st_up_pri_b1_descr">
+    <text>Ruchoma podpórka barkowa znacznie ogranicza wpływ odrzutu na ciało.</text>
+  </string>
+  <string id="st_up_pri_b1_name">
+    <text>Montaż amortyzującej podpórki barkowej</text>
+  </string>
+  <string id="st_up_pri_b2_descr">
+    <text>Nowocześniejsza kolba uwzględniająca specyfikę ludzkiej fizjologii.</text>
+  </string>
+  <string id="st_up_pri_b2_name">
+    <text>Kolba ergonomiczna</text>
+  </string>
+  <string id="st_up_pri_c1_descr">
+    <text>Podczas strzału część gazów prochowych trafia z lufy do komory za zamkiem, zapewniając jego płynne zatrzymanie w drodze powrotnej.</text>
+  </string>
+  <string id="st_up_pri_c1_name">
+    <text>Montaż gazowego amortyzatora zespołu zamka</text>
+  </string>
+  <string id="st_up_pri_c2_descr">
+    <text>Częściowe przedłużenie ramy zamka w kolbę poprawia płaskość toru lotu kosztem większego odrzutu.</text>
+  </string>
+  <string id="st_up_pri_c2_name">
+    <text>Przedłużenie amortyzatora ramy zamka</text>
+  </string>
+  <string id="st_up_pri_c3_descr">
+    <text>Montaż ruchomego elementu w kolbie, który przeciwdziała sile powstającej podczas strzału.</text>
+  </string>
+  <string id="st_up_pri_c3_name">
+    <text>Ruchoma przeciwwaga</text>
+  </string>
+  <string id="st_up_prih_a1_descr">
+    <text>Większa podpórka umożliwia celne strzelanie.</text>
+  </string>
+  <string id="st_up_prih_a1_name">
+    <text>Zwiększenie rozmiaru podpórki</text>
+  </string>
+  <string id="st_up_prih_b1_descr">
+    <text>Sprężynowy amortyzator odrzutu częściowo zmniejsza dyskomfort podczas strzelania z ręcznego karabinu maszynowego.</text>
+  </string>
+  <string id="st_up_prih_b1_name">
+    <text>Wbudowany sprężynowy amortyzator odrzutu</text>
+  </string>
+  <string id="st_up_prih_c1_descr">
+    <text>Amortyzator zespołu zamka umieszczony w kolbie przejmuje i pochłania większość odrzutu.</text>
+  </string>
+  <string id="st_up_prih_c1_name">
+    <text>Dodatkowy gazowy amortyzator zespołu zamka</text>
+  </string>
+  <string id="st_up_pris_a1_descr">
+    <text>Gumowany element łagodzący odrzut często stosuje się w fabrycznych kolbach wielkokalibrowych karabinów snajperskich.</text>
+  </string>
+  <string id="st_up_pris_a1_name">
+    <text>Amortyzujący element kolby</text>
+  </string>
+  <string id="st_up_pris_b1_descr">
+    <text>Regulowana kolba z poduszką policzkową przydaje się podczas strzelania z wygodnych i niewygodnych pozycji.</text>
+  </string>
+  <string id="st_up_pris_b1_name">
+    <text>Regulowana kolba z poduszką policzkową</text>
+  </string>
+  <string id="st_up_pris_c1_descr">
+    <text>Element montowany w kolbie broni dużego kalibru o silnym odrzucie.</text>
+  </string>
+  <string id="st_up_pris_c1_name">
+    <text>Hydrauliczny amortyzator odrzutu kolby</text>
+  </string>
+  <string id="st_up_res_a1_descr">
+    <text>Aktywne filtry są odporne nawet na żrące substancje chemiczne.</text>
+  </string>
+  <string id="st_up_res_a1_name">
+    <text>Aktywne filtry</text>
+  </string>
+  <string id="st_up_res_a2_descr">
+    <text>Wykazano, że zamknięta opaska zapewnia częściową ochronę przed bezpośrednim promieniowaniem psi.</text>
+  </string>
+  <string id="st_up_res_a2_name">
+    <text>Opaska ochrony psi z podwójnych stalowych kratek</text>
+  </string>
+  <string id="st_up_res_a3_descr">
+    <text>Maska używana w zanieczyszczonym powietrzu lub przy temperaturze zbyt niskiej albo wysokiej do oddychania.</text>
+  </string>
+  <string id="st_up_res_b1_descr">
+    <text>Nałożenie powłoki ekranującej.</text>
+  </string>
+  <string id="st_up_res_b1_name">
+    <text>Nałożenie powłoki ekranującej</text>
+  </string>
+  <string id="st_up_res_b2_descr">
+    <text>Filtr ze wzmocnioną powłoką antykorozyjną i dodatkową warstwą usuwającą trucizny.</text>
+  </string>
+  <string id="st_up_res_b2_name">
+    <text>Filtr do pracy na skażonych obszarach</text>
+  </string>
+  <string id="st_up_res_b3_descr">
+    <text>Maska z pleksiglasu może zapewnić częściową ochronę przed promieniowaniem.</text>
+  </string>
+  <string id="st_up_res_b3_name">
+    <text>Powłoka z pleksiglasu</text>
+  </string>
+  <string id="st_up_res_b4_descr">
+    <text>Maska z pleksiglasu może zapewnić częściową ochronę przed promieniowaniem.</text>
+  </string>
+  <string id="st_up_res_b4_name">
+    <text>Maska oddechowa z pleksiglasu</text>
+  </string>
+  <string id="st_up_res_b5_descr">
+    <text>Respirator całkowicie blokujący trucizny.</text>
+  </string>
+  <string id="st_up_res_b5_name">
+    <text>Impregnowana maska oddechowa</text>
+  </string>
+  <string id="st_up_res_c1_descr">
+    <text>Matryca z berylu i aluminium zapewnia doskonałą ochronę bez znacznego zwiększenia masy hełmu.</text>
+  </string>
+  <string id="st_up_res_c1_name">
+    <text>Płyty z berylu i aluminium</text>
+  </string>
+  <string id="st_up_res_c2_descr">
+    <text>Matryca z berylu i tytanu zapewnia skuteczniejszą ochronę bez znacznego wzrostu masy.</text>
+  </string>
+  <string id="st_up_res_c2_name">
+    <text>Płyty z berylu i tytanu</text>
+  </string>
+  <string id="st_up_res_c3_descr">
+    <text>Ulepszone filtry zapewniają taki sam dopływ tlenu niezależnie od stopnia skażenia terenu.</text>
+  </string>
+  <string id="st_up_res_c3_name">
+    <text>Montaż ulepszonych filtrów do pracy naukowej</text>
+  </string>
+  <string id="st_up_res_c4_descr">
+    <text>Zaawansowana ochrona psi, podobno wynaleziona przez naukowca o nazwisku Sacharow.</text>
+  </string>
+  <string id="st_up_res_c4_name">
+    <text>Montaż opaski Psy-Dome</text>
+  </string>
+  <string id="st_up_res_c5_descr">
+    <text>Ochronna rama ze stopu zapobiegająca uszkodzeniom termicznym i elektrycznym.</text>
+  </string>
+  <string id="st_up_res_c5_name">
+    <text>Osłona twarzy Thunderbird z konstantanu</text>
+  </string>
+  <string id="st_up_res_c6_descr">
+    <text>Dodatkowy pancerz zwiększający wytrzymałość hełmu.</text>
+  </string>
+  <string id="st_up_res_c6_name">
+    <text>Wzmocniony korpus hełmu pancernego</text>
+  </string>
+  <string id="st_up_res_c7_descr">
+    <text>Filtr z dodatkową powłoką oczyszczającą i systemem usuwania trucizn.</text>
+  </string>
+  <string id="st_up_res_c7_name">
+    <text>Wzmocniony respirator do ekstremalnych warunków</text>
+  </string>
+  <string id="st_up_resp_a1_descr">
+    <text>Standardowe urządzenie noktowizyjne 1PN93-1 Rosyjskich Sił Zbrojnych. Tę zmodyfikowaną wersję można zamontować na hełmie bojowym. Zapewnia wzmacnianie obrazu generacji 2+, szczególnie przydatne nocą i przy słabym oświetleniu. Po usunięciu komory baterii i zastąpieniu jej wejściem UPD masę całkowitą zmniejszono do znośnych ~1,5 kg. Urządzenie jest kupowane i dostarczane jako kompletny zestaw; ma też interfejs montażowy umożliwiający późniejszą instalację lepszych urządzeń. Szybko zużywa UPD.\n \n%c[d_cyan] • %c[default] wysokie zużycie UPD</text>
+  </string>
+  <string id="st_up_resp_a1_name">
+    <text>Urządzenie noktowizyjne 1PN93-1</text>
+  </string>
+  <string id="st_up_resp_a2_descr">
+    <text>System przełączania na oddychanie w obiegu zamkniętym w razie krytycznego skażenia powietrza cząstkami radioaktywnymi lub chemicznymi.</text>
+  </string>
+  <string id="st_up_resp_a2_name">
+    <text>System ochrony przed zagrożeniami radioaktywnymi i chemicznymi</text>
+  </string>
+  <string id="st_up_resp_a3_name">
+    <text>Maska do oczyszczania pary i oddychania</text>
+  </string>
+  <string id="st_up_resp_b1_descr">
+    <text>Nowoczesne urządzenie noktowizyjne PN21KL generacji IIT produkowane przez Nowosybirskie Zakłady Przyrządów. Mocowane na głowie, znacznie poprawia widzenie przy słabym oświetleniu. Ma zaawansowane oprogramowanie do przetwarzania obrazu, wyświetlające obraz w odcieniach szarości. Wymaga zamontowania podstawowej siatki mocującej. Waży około 270 gramów, znacznie mniej niż inne hełmy. Zestaw ulepszeń pozwala zamontować lepsze soczewki i bardziej zaawansowane oprogramowanie do przetwarzania obrazu. Szybko zużywa UPD.\n \n%c[d_cyan] • %c[default] wysokie zużycie UPD</text>
+  </string>
+  <string id="st_up_resp_b1_name">
+    <text>Urządzenie noktowizyjne PN21KL</text>
+  </string>
+  <string id="st_up_resp_b2_descr">
+    <text>Wizjer termiczny pozwala wykrywać i rozpoznawać pasujące źródła ciepła.</text>
+  </string>
+  <string id="st_up_resp_b2_name">
+    <text>System automatycznego namierzania celów</text>
+  </string>
+  <string id="st_up_resp_b3_descr">
+    <text>Naukowe urządzenie falowe opracowane do pracy w strefach anomalii z promieniowaniem psi.</text>
+  </string>
+  <string id="st_up_resp_b3_name">
+    <text>Stymulator psi Oracle</text>
+  </string>
+  <string id="st_up_resp_c1_descr">
+    <text>Aktualizacja soczewek i oprogramowania do przetwarzania obrazu usuwa szum wideo i zwiększa możliwości wzmacniania obrazu urządzenia PN21K, przekształcając je w pełnoprawny noktowizor IIT generacji 3+. Nie wpływa na masę hełmu ani zużycie UPD.</text>
+  </string>
+  <string id="st_up_resp_c1_name">
+    <text>Aktualizacja soczewek i oprogramowania do przetwarzania obrazu w noktowizorze PN21K</text>
+  </string>
+  <string id="st_up_resp_c2_descr">
+    <text>Zjonizowane cząsteczki powietrza przemieszczają się między elektrodami układu przeciwnie do ruchu elektronów, wykorzystując prąd i tworząc wiatr jonowy.</text>
+  </string>
+  <string id="st_up_resp_c2_name">
+    <text>Układ chłodzenia Ion Wind</text>
+  </string>
+  <string id="st_up_resp_c3_descr">
+    <text>Skaner podczerwieni pozwala wykrywać ludzi w pobliżu.</text>
+  </string>
+  <string id="st_up_resp_c3_name">
+    <text>Skaner podczerwieni</text>
+  </string>
+  <string id="st_up_resp_c4_descr">
+    <text>SPB - VPZ.m.IV system ochrony psychologicznej falami, model czwarty.</text>
+  </string>
+  <string id="st_up_resp_c4_name">
+    <text>System bojowy SPB - VPZ.m.IV</text>
+  </string>
+  <string id="st_up_ret_a1_descr">
+    <text>Wzmocniona sprężyna służy do zwiększenia prędkości pocisków.</text>
+  </string>
+  <string id="st_up_ret_a1_name">
+    <text>Wzmocniona sprężyna powrotna</text>
+  </string>
+  <string id="st_up_ret_a2_descr">
+    <text>Pogrubienia na ruchomych częściach mechanizmu ograniczają odchylenie lufy od celu podczas strzału.</text>
+  </string>
+  <string id="st_up_ret_a2_name">
+    <text>Amortyzacja mechanizmu powrotnego</text>
+  </string>
+  <string id="st_up_ret_a3_descr">
+    <text>Dodatkowa sprężyna o odwrotnym uzwojeniu zmniejsza odrzut bez pogorszenia płaskości toru lotu.</text>
+  </string>
+  <string id="st_up_ret_a3_name">
+    <text>Dodatkowa sprężyna powrotna</text>
+  </string>
+  <string id="st_up_ret_b1_descr">
+    <text>Powłoka ochronna zwiększa niezawodność, a co ważniejsze, zapewnia szczelność zapobiegającą rozpraszaniu energii.</text>
+  </string>
+  <string id="st_up_ret_b1_name">
+    <text>Powłoka ochronna elementu mechanizmu powrotnego</text>
+  </string>
+  <string id="st_up_ret_b2_descr">
+    <text>Tytanowe pręty wytrzymują znacznie większą szybkostrzelność niż zwykłe.</text>
+  </string>
+  <string id="st_up_ret_b2_name">
+    <text>Tytanowe pręty mechanizmu powrotnego</text>
+  </string>
+  <string id="st_up_ret_b3_descr">
+    <text>Syntetyczny element zamontowany na prętach zapewnia ich właściwy ruch i zwiększa celność.</text>
+  </string>
+  <string id="st_up_ret_b3_name">
+    <text>Dodanie elementu równoważącego</text>
+  </string>
+  <string id="st_up_ret_c1_descr">
+    <text>Pogrubienie tulei pozwala zwiększyć ciśnienie w lufie i prędkość pocisków.</text>
+  </string>
+  <string id="st_up_ret_c1_name">
+    <text>Pogrubienie tulei mechanizmu powrotnego</text>
+  </string>
+  <string id="st_up_ret_c2_descr">
+    <text>Łącznik otwierany przez gazy i zamykany przez sam mechanizm powrotny pozwala wykorzystać część energii gazów do jego działania.</text>
+  </string>
+  <string id="st_up_ret_c2_name">
+    <text>Montaż łącznika rozdzielającego</text>
+  </string>
+  <string id="st_up_ret_c3_descr">
+    <text>Zastąpienie mechanizmu powrotnego mocniejszą wersją z dwoma prętami prowadzącymi i sprężynami powrotnymi. Zwiększa szybkostrzelność broni.</text>
+  </string>
+  <string id="st_up_ret_c3_name">
+    <text>Przebudowa na układ dwudrążkowy</text>
+  </string>
+  <string id="st_up_roun_a1_descr">
+    <text>Specjalne kanały wylotowe gazów wokół bębnowej części broni zmniejszają odrzut.</text>
+  </string>
+  <string id="st_up_roun_a1_name">
+    <text>Wykorzystanie energii gazów</text>
+  </string>
+  <string id="st_up_roun_a2_descr">
+    <text>Dodanie ukośnych rowków krzywkowych na bębnie przyspiesza obrót mechanizmu wykorzystującego energię gazów.</text>
+  </string>
+  <string id="st_up_roun_a2_name">
+    <text>Dodanie ukośnych rowków krzywkowych na bębnie</text>
+  </string>
+  <string id="st_up_stk_a1_descr">
+    <text>Zaletą tej modyfikacji zgodnej ze standardem europejskim jest mniejsza masa bez utraty niezawodności.</text>
+  </string>
+  <string id="st_up_stk_a1_name">
+    <text>Odporna na uderzenia kolba polimerowa</text>
+  </string>
+  <string id="st_up_stk_a2_descr">
+    <text>Wytrzymała komora zamkowa ze stopu pomaga karabinom szturmowym znosić codzienne warunki walki.</text>
+  </string>
+  <string id="st_up_stk_a2_name">
+    <text>Wytrzymała komora zamkowa ze stopu</text>
+  </string>
+  <string id="st_up_stk_a3_descr">
+    <text>Proste dodanie obciążenia z przodu komory zamkowej zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_stk_a3_name">
+    <text>Dodanie przeciwwagi do stalowej komory</text>
+  </string>
+  <string id="st_up_stk_b1_descr">
+    <text>Montaż osłon pomaga opanować dodatkowe ciepło powstające wskutek zwiększenia szybkostrzelności broni.</text>
+  </string>
+  <string id="st_up_stk_b1_name">
+    <text>Dodatkowa osłona chłodząca</text>
+  </string>
+  <string id="st_up_stk_b2_descr">
+    <text>Wygodniejszy kształt chwytu ułatwia obsługę broni podczas strzelania w ruchu.</text>
+  </string>
+  <string id="st_up_stk_b2_name">
+    <text>Ergonomiczny kształt komory zamkowej</text>
+  </string>
+  <string id="st_up_stk_binoc1_descr">
+    <text>Zastąpienie metalizowanego chwytu polimerowym znacznie zmniejsza masę.</text>
+  </string>
+  <string id="st_up_stk_binoc1_name">
+    <text>Polimerowy chwyt</text>
+  </string>
+  <string id="st_up_stk_binoc2_descr">
+    <text>Zastąpienie ramy lornetki aluminiową zmniejsza masę i znacznie poprawia wygodę użytkowania.</text>
+  </string>
+  <string id="st_up_stk_binoc2_name">
+    <text>Aluminiowa rama</text>
+  </string>
+  <string id="st_up_stk_binoc3_descr">
+    <text>Zastąpienie ruchomych części tytanowymi zmniejsza masę i zwiększa funkcjonalność.</text>
+  </string>
+  <string id="st_up_stk_binoc3_name">
+    <text>Mechanizm tytanowy</text>
+  </string>
+  <string id="st_up_stk_c1_descr">
+    <text>Modyfikacja stosowana wyłącznie w lufach z pełną komorą zamkową typu bullpup, ułatwiająca konserwację broni.</text>
+  </string>
+  <string id="st_up_stk_c1_name">
+    <text>Modułowa komora zamkowa</text>
+  </string>
+  <string id="st_up_stk_c2_descr">
+    <text>Ta powłoka zapobiega przegrzewaniu lufy, usuwa wady produkcyjne i znacznie wydłuża jej żywotność.</text>
+  </string>
+  <string id="st_up_stk_c2_name">
+    <text>Powłoka wygładzająca rowki i wgłębienia komory</text>
+  </string>
+  <string id="st_up_stk_c3_descr">
+    <text>W pochylonym chwycie montuje się lekki ruchomy element, który stabilizuje broń, przeciwdziałając odrzutowi podczas strzału.</text>
+  </string>
+  <string id="st_up_stk_c3_name">
+    <text>Pochylony chwyt</text>
+  </string>
+  <string id="st_up_stvd_a1_descr">
+    <text>Wnęka wewnątrz chwytu pozwala zmniejszyć masę broni.</text>
+  </string>
+  <string id="st_up_stvd_a1_name">
+    <text>Pochylony chwyt</text>
+  </string>
+  <string id="st_up_stvd_a2_descr">
+    <text>Lżejsza wersja standardowej kolby.</text>
+  </string>
+  <string id="st_up_stvd_a2_name">
+    <text>Lżejsza kolba</text>
+  </string>
+  <string id="st_up_stvd_a3_descr">
+    <text>Lżejszy materiał polimerowy pozwala zmniejszyć masę broni.</text>
+  </string>
+  <string id="st_up_stvd_a3_name">
+    <text>Odporna na uderzenia kolba polimerowa</text>
+  </string>
+  <string id="st_up_stvd_b1_descr">
+    <text>Dodanie obciążnika do broni w celu ograniczenia odrzutu.</text>
+  </string>
+  <string id="st_up_stvd_b1_name">
+    <text>Dodanie przeciwwagi</text>
+  </string>
+  <string id="st_up_stvd_b2_descr">
+    <text>Nowocześniejszy i wygodniejszy chwyt ułatwia obsługę broni.</text>
+  </string>
+  <string id="st_up_stvd_b2_name">
+    <text>Ergonomiczny chwyt</text>
+  </string>
+  <string id="st_up_stvd_b3_descr">
+    <text>Amortyzujący chwyt zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_stvd_b3_name">
+    <text>Amortyzujący chwyt</text>
+  </string>
+  <string id="st_up_stvd_b4_descr">
+    <text>Nowocześniejsza i wygodniejsza kolba ułatwia obsługę broni.</text>
+  </string>
+  <string id="st_up_stvd_b4_name">
+    <text>Kolba ergonomiczna</text>
+  </string>
+  <string id="st_up_stvd_b5_descr">
+    <text>Specjalna powłoka chroni broń przed działaniem czynników atmosferycznych.</text>
+  </string>
+  <string id="st_up_stvd_b5_name">
+    <text>Powłoka antykorozyjna</text>
+  </string>
+  <string id="st_up_stvd_c1_descr">
+    <text>W kolbie znajduje się rtęciowy pochłaniacz odrzutu, który częściowo absorbuje go podczas strzału.</text>
+  </string>
+  <string id="st_up_stvd_c1_name">
+    <text>Rtęciowy pochłaniacz odrzutu</text>
+  </string>
+  <string id="st_up_stvd_c2_descr">
+    <text>Swobodnie poruszający się obciążnik impulsowy odsuwa się od zamka podczas strzału i pochłania część odrzutu.</text>
+  </string>
+  <string id="st_up_stvd_c2_name">
+    <text>Dodanie obciążnika impulsowego</text>
+  </string>
+  <string id="st_up_stvh_a1_descr">
+    <text>Zmiana materiału ogranicza uszkodzenia lufy wskutek nierównomiernego nagrzewania podczas strzelania, co pozwala zwiększyć szybkostrzelność.</text>
+  </string>
+  <string id="st_up_stvh_a1_name">
+    <text>Wytrzymałe, odporne na ciepło stopy</text>
+  </string>
+  <string id="st_up_stvh_b1_descr">
+    <text>Ważna modyfikacja chroniąca broń przed wpływem temperatury powietrza podczas strzelania.</text>
+  </string>
+  <string id="st_up_stvh_b1_name">
+    <text>Dodanie osłon regulujących temperaturę</text>
+  </string>
+  <string id="st_up_stvh_b2_descr">
+    <text>Zewnętrzne użebrowanie to zaawansowane rozwiązanie wymagające skrajnej precyzji, by zapobiec powstawaniu punktów przegrzania lufy.</text>
+  </string>
+  <string id="st_up_stvh_b2_name">
+    <text>Zewnętrzne użebrowanie lufy</text>
+  </string>
+  <string id="st_up_stvh_c1_descr">
+    <text>Zastąpienie lufy nowocześniejszą wersją pozwala znacznie poprawić celność.</text>
+  </string>
+  <string id="st_up_stvh_c1_name">
+    <text>Zmiana geometrii lufy</text>
+  </string>
+  <string id="st_up_stvp_a1_descr">
+    <text>Droga rama do broni, która posłuży przez długi czas.</text>
+  </string>
+  <string id="st_up_stvp_a1_name">
+    <text>Rama tytanowa</text>
+  </string>
+  <string id="st_up_stvp_a2_descr">
+    <text>W tym przypadku rama jest bardziej niezawodna niż kompozytowa.</text>
+  </string>
+  <string id="st_up_stvp_a2_name">
+    <text>Rama z litej stali</text>
+  </string>
+  <string id="st_up_stvp_b1_descr">
+    <text>Techniczna wymiana szkieletu pistoletu na lżejszy nie wpływa na niezawodność broni.</text>
+  </string>
+  <string id="st_up_stvp_b1_name">
+    <text>Polimerowy szkielet pistoletu</text>
+  </string>
+  <string id="st_up_stvp_b2_descr">
+    <text>Nowocześniejszy i wygodniejszy chwyt ułatwia obsługę broni.</text>
+  </string>
+  <string id="st_up_stvp_b2_name">
+    <text>Ergonomiczny chwyt</text>
+  </string>
+  <string id="st_up_stvp_b3_descr">
+    <text>Amortyzujący chwyt zmniejsza odrzut.</text>
+  </string>
+  <string id="st_up_stvp_b3_name">
+    <text>Amortyzujący chwyt</text>
+  </string>
+  <string id="st_up_stvp_b4_descr">
+    <text>Pogrubione klapy ochronne powinny zabezpieczać broń przed brudem i uderzeniami.</text>
+  </string>
+  <string id="st_up_stvp_b4_name">
+    <text>Pogrubione klapy ochronne korpusu</text>
+  </string>
+  <string id="st_up_stvp_b5_descr">
+    <text>Zmiana tylnej części nadaje chwytowi bardziej ergonomiczny kształt.</text>
+  </string>
+  <string id="st_up_stvp_b5_name">
+    <text>Zmiana kształtu chwytu na wariant z prostą tylną częścią</text>
+  </string>
+  <string id="st_up_stvp_b6_descr">
+    <text>Możliwość dobrania odpowiedniej długości chwytu zapewnia bardziej ergonomiczny kształt.</text>
+  </string>
+  <string id="st_up_stvp_b6_name">
+    <text>Regulowany chwyt</text>
+  </string>
+  <string id="st_up_stvp_c1_descr">
+    <text>Ta modyfikacja jest możliwa tylko po zamontowaniu sprężyny powrotnej w chwycie.</text>
+  </string>
+  <string id="st_up_stvp_c1_name">
+    <text>Montaż elementu amortyzującego sprężynę powrotną</text>
+  </string>
+  <string id="st_up_stvp_c2_descr">
+    <text>Możliwość dobrania odpowiedniej okładziny zapewnia bardziej ergonomiczny kształt chwytu.</text>
+  </string>
+  <string id="st_up_stvp_c2_name">
+    <text>Chwyt o zmienionym kształcie z wymiennymi okładzinami</text>
+  </string>
+  <string id="st_up_stvs_a1_descr">
+    <text>W przypadku często używanej broni osłona chroni ją przed przedwczesnym zużyciem.</text>
+  </string>
+  <string id="st_up_stvs_a1_name">
+    <text>Montaż perforowanej stalowej osłony</text>
+  </string>
+  <string id="st_up_stvs_b1_descr">
+    <text>Bardziej zaawansowany element lepiej tłumiący odrzut niż rozwiązania stosowane w zwykłej broni automatycznej.</text>
+  </string>
+  <string id="st_up_stvs_b1_name">
+    <text>Skuteczny kompensacyjny hamulec wylotowy</text>
+  </string>
+  <string id="st_up_stvs_b2_descr">
+    <text>Nowocześniejsza lufa lepiej nadająca się do strzałów snajperskich na bardzo dalekim dystansie.</text>
+  </string>
+  <string id="st_up_stvs_b2_name">
+    <text>Montaż ciężkiej sekcji lufy z gwintem poligonalnym</text>
+  </string>
+  <string id="st_up_stvs_b3_descr">
+    <text>Podłużne rowki w sekcji lufy zapobiegają jej przegrzewaniu i zabrudzeniu.</text>
+  </string>
+  <string id="st_up_stvs_b3_name">
+    <text>Podłużne rowki sekcji lufy</text>
+  </string>
+  <string id="st_up_stvs_c1_descr">
+    <text>Zintegrowany tłumik i tłumik płomienia, niezbędne do skrytego strzelania.</text>
+  </string>
+  <string id="st_up_stvs_c1_name">
+    <text>Montaż zintegrowanego tłumika</text>
+  </string>
+  <string id="st_up_stvs_c2_descr">
+    <text>Sinusoidalne gwintowanie komory lufy stosuje się zwykle w broni szturmowej, by zwiększyć szybkostrzelność.</text>
+  </string>
+  <string id="st_up_stvs_c2_name">
+    <text>Sinusoidalne gwintowanie komory lufy</text>
+  </string>
+  <string id="st_up_tch_a1_descr">
+    <text>Wstrzykiwacz generacji A, opracowany przez jeden z kijowskich instytutów badawczych, regularnie podaje do krwiobiegu niewielkie dawki adrenaliny. Może to być niebezpieczne, ale w nagłym wypadku może też uratować życie.</text>
+  </string>
+  <string id="st_up_tch_a1_name">
+    <text>Wstrzykiwacz adrenaliny Fury</text>
+  </string>
+  <string id="st_up_tch_a2_descr">
+    <text>System usuwania kondensatu z truciznami z filtra oczyszczającego.</text>
+  </string>
+  <string id="st_up_tch_a2_name">
+    <text>System usuwania trucizn</text>
+  </string>
+  <string id="st_up_tch_a3_descr">
+    <text>To opracowany przez Czyste Niebo niewielki emiter fal mocowany na plecach, który przy stałym noszeniu skutecznie przyspiesza krzepnięcie krwi.</text>
+  </string>
+  <string id="st_up_tch_a3_name">
+    <text>Hemostymulator Ray</text>
+  </string>
+  <string id="st_up_tch_a4_descr">
+    <text>System zasila elektrycznie zewnętrzną powierzchnię kombinezonu, odpychając cząstki radioaktywne i chemiczne.</text>
+  </string>
+  <string id="st_up_tch_a4_name">
+    <text>Wbudowany system odpychania pyłu</text>
+  </string>
+  <string id="st_up_tch_b1_descr">
+    <text>Wstrzykiwacz generacji B regularnie wprowadza do krwiobiegu środek krzepnący, gdy ciśnienie krwi znacznie spada.</text>
+  </string>
+  <string id="st_up_tch_b1_name">
+    <text>Wstrzykiwacz hemoglobiny Hydra</text>
+  </string>
+  <string id="st_up_tch_b2_descr">
+    <text>Utrzymywanie optymalnej temperatury ciała zapobiega wyczerpaniu.</text>
+  </string>
+  <string id="st_up_tch_b2_name">
+    <text>Montaż układu regulacji temperatury</text>
+  </string>
+  <string id="st_up_tch_b3_descr">
+    <text>Emiter fal mocowany na klatce piersiowej, używany stale, znacznie przyspiesza gojenie ran, wzmacnia układ odpornościowy i podnosi próg bólu.</text>
+  </string>
+  <string id="st_up_tch_b3_name">
+    <text>Biostymulator Sun</text>
+  </string>
+  <string id="st_up_tch_b4_descr">
+    <text>Naukowe urządzenie falowe opracowane do pracy w strefach anomalii z promieniowaniem psi.</text>
+  </string>
+  <string id="st_up_tch_b4_name">
+    <text>Stymulator psi Oracle</text>
+  </string>
+  <string id="st_up_tch_c1_descr">
+    <text>Wstrzykiwacz generacji C wprowadza do krwiobiegu mieszankę bojową o wątpliwym składzie, która poprawia regenerację tkanek i usuwa ból.</text>
+  </string>
+  <string id="st_up_tch_c1_name">
+    <text>System regeneracji Phoenix</text>
+  </string>
+  <string id="st_up_tch_c2_descr">
+    <text>Zintegrowany system monitoruje stan użytkownika i w razie potrzeby podaje witaminy, adrenalinę lub substancje anaboliczne.</text>
+  </string>
+  <string id="st_up_tch_c2_name">
+    <text>Montaż systemu podtrzymywania życia</text>
+  </string>
+  <string id="st_up_tch_c3_descr">
+    <text>Emiter fal mocowany na szyi ma niejasny mechanizm i sposób działania, ale silnie uspokaja.</text>
+  </string>
+  <string id="st_up_tch_c3_name">
+    <text>Neurostymulator Reflection</text>
+  </string>
+  <string id="st_up_upgrade_not_available_descr">
+    <text>Ta opcja ulepszenia nie jest dostępna dla tego przedmiotu.</text>
+  </string>
+  <string id="st_up_upgrade_not_available_name">
+    <text>Ulepszenie niedostępne</text>
+  </string>
+  <string id="st_up_usm_a1_descr">
+    <text>Kompensator kurka zamka pochłania część odrzutu i poprawia skupienie podczas strzelania seriami.</text>
+  </string>
+  <string id="st_up_usm_a1_name">
+    <text>Kompensator kurka zamka</text>
+  </string>
+  <string id="st_up_usm_a2_descr">
+    <text>Jedna z najprostszych i najpopularniejszych modyfikacji zmniejszających opór spustu. Prosta i poręczna.</text>
+  </string>
+  <string id="st_up_usm_a2_name">
+    <text>Lekki spust</text>
+  </string>
+  <string id="st_up_usm_b1_descr">
+    <text>Specjalny zestaw elementów z różnych materiałów dobranych do danej broni. Może być kosztowny, ale wydłuża żywotność broni palnej.</text>
+  </string>
+  <string id="st_up_usm_b1_name">
+    <text>Kompozytowe elementy mechanizmu spustowego</text>
+  </string>
+  <string id="st_up_usm_b2_descr">
+    <text>Pozwala zwiększyć szybkostrzelność kosztem celności i niezawodności.</text>
+  </string>
+  <string id="st_up_usm_b2_name">
+    <text>Urządzenie wymuszające opóźnienie spustu</text>
+  </string>
+  <string id="st_up_usm_b3_descr">
+    <text>Usunięcie sprężyny kurkowej pozwala oddać pierwszy strzał o pół sekundy wcześniej. To niewiele, ale może uratować życie.</text>
+  </string>
+  <string id="st_up_usm_b3_name">
+    <text>Spust bez sprężyny</text>
+  </string>
+  <string id="st_up_usm_c1_descr">
+    <text>Powłoka ochronna uniemożliwia niewypały spowodowane awarią mechanizmu spustowego.</text>
+  </string>
+  <string id="st_up_usm_c1_name">
+    <text>Powłoka ochronna elementu mechanizmu spustowego</text>
+  </string>
+  <string id="st_up_usm_c2_descr">
+    <text>Mocowanie bez zamka pozwala zwiększyć automatyczne ładowanie, znacznie poprawiając szybkostrzelność broni.</text>
+  </string>
+  <string id="st_up_usm_c2_name">
+    <text>Mocowanie mechanizmu spustowego bez zamka</text>
+  </string>
+  <string id="st_up_usm_c3_descr">
+    <text>Układ bezudarowy przebija nabój zamiast uderzać w niego specjalnym kurkiem, dzięki czemu strzał przebiega znacznie łagodniej.</text>
+  </string>
+  <string id="st_up_usm_c3_name">
+    <text>Montaż bezudarowego mechanizmu spustowego</text>
+  </string>
+  <string id="st_up_usmp_a1_descr">
+    <text>Spust zostaje napięty przez pierwszy strzał, a wszystkie kolejne oddawane są podczas jego automatycznego napinania.</text>
+  </string>
+  <string id="st_up_usmp_a1_name">
+    <text>Mechanizm spustowy z podwójnym spustem</text>
+  </string>
+  <string id="st_up_usmp_b1_descr">
+    <text>Jedna z najprostszych i najpopularniejszych modyfikacji zmniejszających opór spustu. Prosta i poręczna.</text>
+  </string>
+  <string id="st_up_usmp_b1_name">
+    <text>Lekki spust</text>
+  </string>
+  <string id="st_up_usmp_b2_descr">
+    <text>Częściowe napięcie mechanizmu pozwala poprawić celność strzału.</text>
+  </string>
+  <string id="st_up_usmp_b2_name">
+    <text>Mechanizm spustowy z częściowym wstępnym napięciem</text>
+  </string>
+  <string id="st_up_usmp_b3_descr">
+    <text>Pozwala zachować jednakowy nacisk na spust od pierwszego do ostatniego strzału, ułatwiając obsługę.</text>
+  </string>
+  <string id="st_up_usmp_b3_name">
+    <text>Urządzenie bezpiecznego zwalniania</text>
+  </string>
+  <string id="st_up_usmp_b4_descr">
+    <text>Nowoczesna modyfikacja zapobiegająca odłączeniu części zamka broni.</text>
+  </string>
+  <string id="st_up_usmp_b4_name">
+    <text>Powiększona głowica zamka spustu</text>
+  </string>
+  <string id="st_up_usmp_b5_descr">
+    <text>Modułowy mechanizm spustowy ułatwia konserwację i wymianę części, a także poprawia wygodę obsługi.</text>
+  </string>
+  <string id="st_up_usmp_b5_name">
+    <text>Modułowy mechanizm spustowy</text>
+  </string>
+  <string id="st_up_usmp_c1_descr">
+    <text>Element napinający znacznie zmniejsza nacisk wymagany na spuście i poprawia celność.</text>
+  </string>
+  <string id="st_up_usmp_c1_name">
+    <text>Montaż elementu napinającego</text>
+  </string>
+  <string id="st_up_usmp_c2_descr">
+    <text>Nowe rozwiązanie technologiczne pozwala łatwo zmienić tryb mechanizmu spustowego — to kolejny krok ku lepszej ergonomii i łatwiejszej regulacji broni.</text>
+  </string>
+  <string id="st_up_usmp_c2_name">
+    <text>Tryb strzelania „podwójny”</text>
+  </string>
+  <string id="st_up_usmp_c3_descr">
+    <text>Po pierwszym strzale do oddawania kolejnych wystarczy połowa ruchu spustu.</text>
+  </string>
+  <string id="st_up_usmp_c3_name">
+    <text>Mechanizm spustowy o krótkim skoku</text>
+  </string>
+  <string id="st_up_uti_a1_descr">
+    <text>Dodatkowe urządzenia ruchowe pozwalają maksymalnie zwiększyć udźwig.</text>
+  </string>
+  <string id="st_up_uti_a1_name">
+    <text>Dodatkowe serwomotory</text>
+  </string>
+  <string id="st_up_uti_a2_descr">
+    <text>System dostarcza substancje przeciwtężcowe, przeciwzapalne i streptocydowe.</text>
+  </string>
+  <string id="st_up_uti_a2_name">
+    <text>Wbudowany system Field Doctor</text>
+  </string>
+  <string id="st_up_uti_a3_descr">
+    <text>System wentylacji kombinezonu z filtrem ochronnym do pracy na skażonych obszarach.</text>
+  </string>
+  <string id="st_up_uti_a3_name">
+    <text>Wewnętrzny układ regulacji temperatury</text>
+  </string>
+  <string id="st_up_uti_a4_descr">
+    <text>Usprawnienie ergonomiczne: specjalne mocowania kombinezonu sprawiają, że przenoszony ciężar wydaje się lżejszy.</text>
+  </string>
+  <string id="st_up_uti_a4_name">
+    <text>Kamizelka rozkładająca ciężar</text>
+  </string>
+  <string id="st_up_uti_a5_descr">
+    <text>Butla tlenowa jest potrzebna na obszarach, gdzie powietrze jest skażone chemikaliami lub cząstkami radioaktywnymi.</text>
+  </string>
+  <string id="st_up_uti_a5_name">
+    <text>Montaż butli tlenowej</text>
+  </string>
+  <string id="st_up_uti_b1_descr">
+    <text>Montaż dodatkowego modułu mocowania pancerza.</text>
+  </string>
+  <string id="st_up_uti_b1_name">
+    <text>Dodatkowy moduł mocowania pancerza</text>
+  </string>
+  <string id="st_up_uti_b2_descr">
+    <text>System mocowań pozwala równomierniej rozłożyć ciężar na całym ciele.</text>
+  </string>
+  <string id="st_up_uti_b2_name">
+    <text>System mocowań rozkładający ciężar</text>
+  </string>
+  <string id="st_up_uti_b3_descr">
+    <text>Stelaż plecowy odciąża barki, rozkładając ciężar na całym ciele, co zwiększa maksymalny udźwig.</text>
+  </string>
+  <string id="st_up_uti_b3_name">
+    <text>Stelaż plecowy rozkładający ciężar</text>
+  </string>
+  <string id="st_up_uti_b4_descr">
+    <text>System podawania substancji antyseptycznych, przeciwtężcowych i pobudzających. Domowej roboty, ale raczej nie szkodzi organizmowi.</text>
+  </string>
+  <string id="st_up_uti_b4_name">
+    <text>Wbudowany system Care</text>
+  </string>
+  <string id="st_up_uti_b5_descr">
+    <text>System ładuje specjalną kratę ładunkiem identycznym z ładunkiem anomalii, aby zmniejszyć zagrożenie.</text>
+  </string>
+  <string id="st_up_uti_b5_name">
+    <text>System przeciwdziałania elektrostatycznego Stingray</text>
+  </string>
+  <string id="st_up_uti_b6_descr">
+    <text>Impregnowana warstwa wewnętrzna powinna zapobiegać zatruciu chemicznemu.</text>
+  </string>
+  <string id="st_up_uti_b6_name">
+    <text>Impregnowana warstwa wewnętrzna do ochrony chemicznej</text>
+  </string>
+  <string id="st_up_uti_b7_descr">
+    <text>Eksperymentalny system do biegania w maratonach, nieużywany poza Strefą ze względu na wysoką cenę i wątpliwe zastosowanie.</text>
+  </string>
+  <string id="st_up_uti_b7_name">
+    <text>Wbudowany system Athlete</text>
+  </string>
+  <string id="st_up_uti_b8_descr">
+    <text>System usuwa trucizny wraz ze skroplinami z komór respiratora.</text>
+  </string>
+  <string id="st_up_uti_b8_name">
+    <text>System usuwania trucizn Antidote</text>
+  </string>
+  <string id="st_up_uti_c1_descr">
+    <text>Montaż dodatkowego modułu mocowania pancerza.</text>
+  </string>
+  <string id="st_up_uti_c1_name">
+    <text>Dodatkowy dwukomorowy moduł mocowania pancerza</text>
+  </string>
+  <string id="st_up_uti_c2_descr">
+    <text>System wsparcia bojowego wbudowany w cały kombinezon. Rzadko używany, głównie przez siły specjalne. Fabrycznie ma układy podawania adrenaliny i krzepnięcia krwi.</text>
+  </string>
+  <string id="st_up_uti_c2_name">
+    <text>Polowy system wsparcia Varyag</text>
+  </string>
+  <string id="st_up_uti_c3_descr">
+    <text>W tym prototypie systemu wsparcia bojowego konstruktorzy zrezygnowali ze szkodliwych zastrzyków adrenaliny i dodali substancje lecznicze do układu krzepnięcia krwi.</text>
+  </string>
+  <string id="st_up_uti_c3_name">
+    <text>Polowy system wsparcia Skif</text>
+  </string>
+  <string id="st_up_zat_a1_descr">
+    <text>To dość kosztowne ulepszenie jest powszechne w broni nowej generacji.</text>
+  </string>
+  <string id="st_up_zat_a1_name">
+    <text>Montaż litego zamka</text>
+  </string>
+  <string id="st_up_zat_a2_descr">
+    <text>Pogrubienie sekcji zamka zapobiega rozpraszaniu energii i poprawia płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_zat_a2_name">
+    <text>Pogrubienie sekcji zamka wkładkami syntetycznymi</text>
+  </string>
+  <string id="st_up_zat_a3_descr">
+    <text>Wbrew nazwie wymieniany jest zamek, który musi wytrzymać skutki zwiększonej szybkostrzelności.</text>
+  </string>
+  <string id="st_up_zat_a3_name">
+    <text>Szybkie zwalnianie automatyczne</text>
+  </string>
+  <string id="st_up_zat_b1_descr">
+    <text>Otwór gazowy współpracuje z blokiem poruszającym się z tą samą prędkością i przejmującym część odrzutu.</text>
+  </string>
+  <string id="st_up_zat_b1_name">
+    <text>Montaż otworu gazowego z ruchomym blokiem</text>
+  </string>
+  <string id="st_up_zat_b2_descr">
+    <text>Drugi tłok przesuwa przeciwwagę, kompensując impuls ruchu mechanizmu zamka.</text>
+  </string>
+  <string id="st_up_zat_b2_name">
+    <text>Montaż dodatkowego tłoka gazowego</text>
+  </string>
+  <string id="st_up_zat_b3_descr">
+    <text>Powłoka ochronna zwiększa niezawodność i, co ważniejsze, zapewnia szczelność zapobiegającą nadmiernemu rozpraszaniu energii.</text>
+  </string>
+  <string id="st_up_zat_b3_name">
+    <text>Powłoka ochronna sekcji zamka</text>
+  </string>
+  <string id="st_up_zat_b4_descr">
+    <text>Skośne rowki komory zamkowej zmniejszają tarcie i zatrzymują drobiny, zapobiegając zabrudzeniu sekcji zamka.</text>
+  </string>
+  <string id="st_up_zat_b4_name">
+    <text>Dodanie rowków podłużnych</text>
+  </string>
+  <string id="st_up_zat_b5_descr">
+    <text>Zmniejszenie średnicy komory gazowej za pomocą syntetycznych pogrubień znacznie zwiększa prędkość pocisków.</text>
+  </string>
+  <string id="st_up_zat_b5_name">
+    <text>Ukierunkowana energia gazów</text>
+  </string>
+  <string id="st_up_zat_b6_descr">
+    <text>Podczas powrotu do położenia wyjściowego zamek kieruje przepływ powietrza przez komorę lufy, chłodząc ją.</text>
+  </string>
+  <string id="st_up_zat_b6_name">
+    <text>Wymuszone chłodzenie</text>
+  </string>
+  <string id="st_up_zat_c1_descr">
+    <text>Zamek broni przesuwa się wzdłuż lufy, zapobiegając unoszeniu się jej wylotu.</text>
+  </string>
+  <string id="st_up_zat_c1_name">
+    <text>Montaż zamka ślizgowego</text>
+  </string>
+  <string id="st_up_zat_c2_descr">
+    <text>Montaż tłoka gazowego zapobiega przedostawaniu się gazów do ramy zamka, znacznie ograniczając zabrudzenie broni.</text>
+  </string>
+  <string id="st_up_zat_c2_name">
+    <text>Montaż tłoka gazowego</text>
+  </string>
+  <string id="st_up_zat_c3_descr">
+    <text>System wykorzystuje sekcję zamka do zbierania części gazów, co poprawia jego ruch.</text>
+  </string>
+  <string id="st_up_zat_c3_name">
+    <text>Układ odzyskiwania energii gazów</text>
+  </string>
+  <string id="st_up_zat_c4_descr">
+    <text>Wymiana części automatyki to raczej optymalizacja niż ulepszenie tłoka gazowego. Znacznie zwiększa szybkostrzelność broni.</text>
+  </string>
+  <string id="st_up_zat_c4_name">
+    <text>Tłok gazowy o krótkim skoku</text>
+  </string>
+  <string id="st_up_zat_c5_descr">
+    <text>Ryglowanie rolkowe, często stosowane w nowoczesnej broni, zmniejsza odrzut i poprawia skupienie.</text>
+  </string>
+  <string id="st_up_zat_c5_name">
+    <text>Przejście na układ rolkowy z zamkiem półswobodnym</text>
+  </string>
+  <string id="st_up_zath_a1_descr">
+    <text>Pochłaniając część ciepła, elementy ograniczają zmiany temperatury broni podczas strzelania.</text>
+  </string>
+  <string id="st_up_zath_a1_name">
+    <text>Elementy pochłaniające ciepło</text>
+  </string>
+  <string id="st_up_zath_b1_descr">
+    <text>Dłuższy skok tłoka gazowego nieznacznie wydłuża broń, ale znacznie poprawia płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_zath_b1_name">
+    <text>Długi skok tłoka gazowego</text>
+  </string>
+  <string id="st_up_zath_b2_descr">
+    <text>Amortyzator ruchomych części równomiernie rozkłada odrzut na całą broń podczas strzału, przez co jest on mniej odczuwalny.</text>
+  </string>
+  <string id="st_up_zath_b2_name">
+    <text>Montaż specjalnego amortyzatora ruchomych części</text>
+  </string>
+  <string id="st_up_zath_c1_descr">
+    <text>Symetryczne wymuszone chłodzenie części lufy dzięki działaniu wyrzutnika zapobiega przegrzewaniu się broni.</text>
+  </string>
+  <string id="st_up_zath_c1_name">
+    <text>Układ równomiernego wymuszonego chłodzenia</text>
+  </string>
+  <string id="st_up_zatp_a1_descr">
+    <text>Zwiększa szybkostrzelność bez dodatkowego obciążania innych części odrzutem.</text>
+  </string>
+  <string id="st_up_zatp_a1_name">
+    <text>Ruchoma sekcja zamka</text>
+  </string>
+  <string id="st_up_zatp_b1_descr">
+    <text>Poprawia płaskość toru lotu dzięki lepszemu przekazywaniu impulsu pociskowi.</text>
+  </string>
+  <string id="st_up_zatp_b1_name">
+    <text>System ryglowania lufy sekcją zamka</text>
+  </string>
+  <string id="st_up_zatp_b2_descr">
+    <text>Łagodzi odrzut, spowalniając ruch sekcji zamka.</text>
+  </string>
+  <string id="st_up_zatp_b2_name">
+    <text>Układ powolnego ruchu wstecznego sekcji zamka</text>
+  </string>
+  <string id="st_up_zatp_b3_descr">
+    <text>Powłoka chroni broń przed przedwczesnym zużyciem.</text>
+  </string>
+  <string id="st_up_zatp_b3_name">
+    <text>Powłoka ochronna sekcji zamka</text>
+  </string>
+  <string id="st_up_zatp_b4_descr">
+    <text>Poprawia płaskość toru lotu dzięki lepszemu przekazywaniu impulsu pociskowi.</text>
+  </string>
+  <string id="st_up_zatp_b4_name">
+    <text>System ryglowania lufy przez przekoszenie</text>
+  </string>
+  <string id="st_up_zatp_b5_descr">
+    <text>Cięższy i zamknięty zamek zapobiega awarii sekcji zamka pistoletu.</text>
+  </string>
+  <string id="st_up_zatp_b5_name">
+    <text>Wzmocniony, całkowicie zamknięty zamek</text>
+  </string>
+  <string id="st_up_zatp_b6_descr">
+    <text>Niewielki amortyzator pochłaniający część odrzutu.</text>
+  </string>
+  <string id="st_up_zatp_b6_name">
+    <text>Polimerowy amortyzator odrzutu</text>
+  </string>
+  <string id="st_up_zatp_b7_descr">
+    <text>Montaż stalowej wkładki pomaga ograniczyć odrzut.</text>
+  </string>
+  <string id="st_up_zatp_b7_name">
+    <text>Montaż wkładki ryglującej z profilowanym rowkiem spiralnym</text>
+  </string>
+  <string id="st_up_zatp_b8_descr">
+    <text>Zwiększenie skoku zamka i odpowiednie wzmocnienie mechanizmu powrotnego poprawia płaskość toru lotu.</text>
+  </string>
+  <string id="st_up_zatp_b8_name">
+    <text>Zwiększenie skoku zamka</text>
+  </string>
+  <string id="st_up_zatp_c1_descr">
+    <text>Krótki skok znacznie zwiększa szybkostrzelność broni bez pogorszenia płaskości toru lotu.</text>
+  </string>
+  <string id="st_up_zatp_c1_name">
+    <text>Montaż układu krótkiego skoku zamka</text>
+  </string>
+  <string id="st_up_zatp_c2_descr">
+    <text>Długi skok zamka zapewnia pociskowi większą energię.</text>
+  </string>
+  <string id="st_up_zatp_c2_name">
+    <text>Montaż układu długiego skoku zamka</text>
+  </string>
+  <string id="st_up_zatp_c3_descr">
+    <text>Wymiana części automatyki optymalizuje tłok gazowy, zamiast go ulepszać. Znacznie zwiększa szybkostrzelność broni.</text>
+  </string>
+  <string id="st_up_zatp_c3_name">
+    <text>Montaż układu krótkiego skoku wykorzystującego energię odrzutu</text>
+  </string>
+  <string id="st_up_zatp_c4_descr">
+    <text>Montaż tego modułu znacznie poprawia skupienie bez obniżania szybkostrzelności.</text>
+  </string>
+  <string id="st_up_zatp_c4_name">
+    <text>Połączony moduł powrotny z dwiema sprężynami</text>
+  </string>
+  <string id="st_up_zatp_c5_descr">
+    <text>Dodanie dodatkowych otworów kompensacyjnych znacznie ogranicza odrzut.</text>
+  </string>
+  <string id="st_up_zatp_c5_name">
+    <text>Zintegrowany kompensator podrzutu lufy</text>
+  </string>
+  <string id="st_up_zatp_c6_descr">
+    <text>Modernizacja części automatyki pistoletu przystosowująca go do ognia automatycznego.</text>
+  </string>
+  <string id="st_up_zatp_c6_name">
+    <text>Tryb ognia w pełni automatycznego</text>
+  </string>
+  <string id="st_up_zatp_c7_descr">
+    <text>Ulepszenie automatyki pistoletu przystosowujące go do strzelania seriami po trzy naboje.</text>
+  </string>
+  <string id="st_up_zatp_c7_name">
+    <text>Tryb strzelania seriami po trzy naboje</text>
+  </string>
+  <string id="st_upgr_cant_do">
+    <text>Technik nie może wykonać tej modyfikacji</text>
+  </string>
+  <string id="st_upgr_condlist">
+    <text>technik potrzebuje dodatkowych narzędzi</text>
+  </string>
+  <string id="st_upgr_cost">
+    <text>Koszt</text>
+  </string>
+  <string id="st_upgr_disable">
+    <text>Nie można zamontować</text>
+  </string>
+  <string id="st_upgr_enough_materials">
+    <text>Za mało materiałów</text>
+  </string>
+  <string id="st_upgr_enough_money">
+    <text>Za mało pieniędzy</text>
+  </string>
+  <string id="st_upgr_group">
+    <text>Ta część została już zmodyfikowana</text>
+  </string>
+  <string id="st_upgr_installed">
+    <text>Zainstalowano</text>
+  </string>
+  <string id="st_upgr_no_reason">
+    <text>Nie można zmodyfikować tego przedmiotu</text>
+  </string>
+  <string id="st_upgr_parents">
+    <text>Wymagane są wcześniejsze modyfikacje</text>
+  </string>
+  <string id="st_upgr_required_materials">
+    <text>Wymagane materiały</text>
+  </string>
+  <string id="st_upgr_rusty_profile">
+    <text>Broń jest zardzewiała, nie można wprowadzić modyfikacji mechanicznych</text>
+  </string>
+  <string id="st_upgr_standard_profile">
+    <text>Do przeprowadzenia modyfikacji wymagany jest zmodernizowany profil broni</text>
+  </string>
+  <string id="st_upgr_toolkit_1">
+    <text>Technik potrzebuje narzędzi do podstawowych prac</text>
+  </string>
+  <string id="st_upgr_toolkit_2">
+    <text>Technik potrzebuje narzędzi do precyzyjnych prac</text>
+  </string>
+  <string id="st_upgr_toolkit_3">
+    <text>Technik potrzebuje narzędzi do kalibracji</text>
+  </string>
+  <string id="st_upgr_vodka">
+    <text>Technik potrzebuje wódki</text>
+  </string>
+  <string id="st_upgr_worn_profile">
+    <text>Korozja uniemożliwia modyfikacje powyżej poziomu podstawowego</text>
+  </string>
+  <string id="st_upgrade_install">
+    <text>Czy na pewno chcesz zainstalować:</text>
+  </string>
+</string_table>

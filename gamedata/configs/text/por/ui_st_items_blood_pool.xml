@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_blood_pool_max_pool_size">
+    <text>Tamanho máximo da poça</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates">
+    <text>Número de atualizações</text>
+  </string>
+  <string id="ui_mcm_blood_pool_num_of_updates_desc">
+    <text>Mais atualizações tornam o aumento de tamanho mais suave (não alteram o tamanho máximo).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime">
+    <text>Duração da poça (segundos)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_pool_lifetime_desc">
+    <text>Tempo que a poça permanece após surgir (pool_lifetime - num_of_updates * update_freq = tempo até desaparecer completamente).</text>
+  </string>
+  <string id="ui_mcm_blood_pool_title">
+    <text>Poça de sangue</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq">
+    <text>Frequência de atualização (segundos)</text>
+  </string>
+  <string id="ui_mcm_blood_pool_update_freq_desc">
+    <text>Intervalo entre atualizações. Um valor menor faz a poça atingir o tamanho máximo mais rápido.</text>
+  </string>
+  <string id="ui_mcm_menu_blood_pool">
+    <text>Poça de sangue</text>
+  </string>
+</string_table>

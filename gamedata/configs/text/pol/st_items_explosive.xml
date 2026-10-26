@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_balon_gas">
+    <text>Butla gazowa
+		</text>
+  </string>
+  <string id="st_balon_gas_descr">
+    <text>\n \n
+		%c[d_red]UWAGA: Wybucha przy uderzeniu\n \n
+		%c[ui_gray_1]Ciężki metalowy cylinder gazowy, wyłożony zgodnym polimerem i pokryty Hypalonem odpornym na pogodę, ścieranie i UV. Składany zbiornik przechowuje gazy przemysłowe przed napełnieniem pod ciśnieniem. W Zonie zwykle zawiera metan, propan, etan i butan do gotowania, ogrzewania lub walki. Bezpośredni strzał może go zapalić; nagły wyrzut energii rozpręża gaz i powoduje opóźniony, potężny wybuch rozrzucający metalowe odłamki we wszystkie strony. Cylindry te zabijały i okaleczały wielu ludzi w konfliktach frakcji. Pusty można wykorzystać do naprawy pancerza.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zawiera: %c[ui_gray_1] oczyszczony gaz ziemny\n
+		%c[d_green] • %c[ui_gray_2] wysokiej klasy paliwo do gotowania\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm wyzwalający: %c[ui_gray_1]trafienie pociskiem lub wybuch\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]bardzo duża\n
+		%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]28 (odłamki ciężkiego metalu)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]~2 sekundy\n
+		</text>
+  </string>
+  <string id="st_balon_gas_empty">
+    <text>Butla gazowa (pusta)</text>
+  </string>
+  <string id="st_balon_gas_empty_descr">
+    <text>Pusty, ciężki metalowy cylinder gazowy, wyłożony zgodnym polimerem i pokryty Hypalonem odpornym na pogodę, ścieranie i UV. Składany zbiornik przechowuje gazy przemysłowe przed napełnieniem pod ciśnieniem. W Zonie zwykle zawiera metan, propan, etan i butan. Jest już pusty, ale nadal przyda się do naprawy kombinezonu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		</text>
+  </string>
+  <string id="st_ied">
+    <text>Improwizowany ładunek wybuchowy (chemiczny)</text>
+  </string>
+  <string id="st_ied_descr">
+    <text>Improwizowany ładunek z substancji chemicznych, uszkodzonym zapalnikiem elektrycznym i stalowymi kulkami. Chemikalia silnie pachną i są bardzo toksyczne. Jest znacznie potężniejszy od popularniejszej wersji OG-7V. W Zonie służy do forsowania zamkniętych przejść i zasadzek; często umieszcza się go przy minach, by zwiększyć siłę wybuchu. Można go dobrze ukryć, dzięki czemu jest niemal niewidoczny.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] niewidoczny po położeniu na ziemi\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm wyzwalający: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]bardzo duża\n
+		%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]580 (stalowe kulki)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+  </string>
+  <string id="st_ied_rpg">
+    <text>Improwizowany ładunek wybuchowy (głowica OG-7V)</text>
+  </string>
+  <string id="st_ied_rpg_descr">
+    <text>Improwizowany ładunek na bazie głowicy OG-7V i części akumulatora samochodowego. Wygląda na stary i może wybuchnąć w każdej chwili, ale nie zdetonuje, dopóki nie trafi go bezpośrednio pocisk lub inna silna siła fizyczna. W Zonie służy do forsowania zamkniętych przejść i zasadzek; często kładzie się go przy minach, by zwiększyć wybuch. Można go skutecznie zamaskować.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] niewidoczny po położeniu na ziemi\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm wyzwalający: %c[ui_gray_1]proximity\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]duża\n
+		%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]440 (odłamki)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel">
+    <text>Kanister z benzyną
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_descr">
+    <text>\n \n
+		%c[d_red]UWAGA: Wybucha przy uderzeniu\n \n
+		%c[ui_gray_1]Wielki metalowy kanister wypełniony benzyną E95. Ukraińskie wojsko sprowadziło ich do Zony mnóstwo dla pojazdów opancerzonych. Służyły do tego celu aż do Drugiej Katastrofy Czarnobylskiej, po której z nieznanych przyczyn pojazdy przestały działać. Część mieszkańców Zony nadal próbuje uruchomić wraki, inni znaleźli kanistrom nowe zastosowanie: improwizowane ładunki wybuchowe. Bezpośrednie trafienie podpala kanister, który po krótkiej chwili wybucha. Jest ciężki i nieporęczny, ale bardzo potężny; dobrze ustawiony może zabić nawet osobę w najcięższym pancerzu. Wybuch bywa tak silny, że napastnik sam staje się ofiarą, więc używaj go ostrożnie. Podobno weteran Yuya ocalił się kiedyś, zwabiając pseudogiganta w pułapkę z kanistrów. Opróżnił ostatni magazynek Makarowa, a olbrzym stanął w płomieniach z rykiem słyszanym w całym Jupiterze.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zawiera: %c[ui_gray_1] E95 gasoline\n
+		%c[d_green] • %c[ui_gray_2] wysokiej klasy paliwo do gotowania\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm wyzwalający: %c[ui_gray_1]trafienie pociskiem lub wybuch\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]duża\n
+		%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]39 (odłamki ciężkiego metalu)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]~3 sekundy\n
+		</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty">
+    <text>Pusty kanister</text>
+  </string>
+  <string id="st_jerrycan_fuel_empty_descr">
+    <text>Pusty metalowy kanister. Można go wykorzystać wyłącznie jako materiał do podstawowych napraw kombinezonów albo sprzedać handlarzom.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		</text>
+  </string>
+  <string id="st_jerrycan_item">
+    <text>Kanister
+		</text>
+  </string>
+  <string id="st_metalcan_powder">
+    <text>Puszka z prochem
+		</text>
+  </string>
+  <string id="st_metalcan_powder_descr">
+    <text>\n \n
+		%c[d_red]UWAGA: Wybucha przy uderzeniu\n \n
+		%c[ui_gray_1]Mała, dość ciężka metalowa puszka wypełniona mieszanką wybuchowych chemikaliów przemysłowych, metalowych śrub i nakrętek oraz czarnego prochu odzyskanego ze starej amunicji. Tę osławioną pułapkę śmierci skonstruowali rosyjscy bandyci zwani „Swireksterami” i sprzedawali ją różnym grupom bandytów w Zonie. Bezpośredni strzał powoduje natychmiastowy wybuch, rozrzucając metalowe śruby i żrące chemikalia we wszystkie strony. Przy używaniu tej śmiercionośnej broni nie wolno tracić czujności. Metalowe części puszki można też wykorzystać do awaryjnej naprawy kombinezonu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm wyzwalający: %c[ui_gray_1]trafienie pociskiem lub wybuch\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]mała\n
+		%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]77 (mała metal pieces)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+  </string>
+  <string id="st_mine_descr">
+    <text>PFM-1 (skrót od „przeciwpiechotnej miny burzącej”; kryptonim NATO: „Zielona papuga”) była standardową miną przeciwpiechotną Armii Czerwonej, używaną głównie podczas radzieckiej inwazji na Afganistan. Jej powszechne stosowanie przyniosło wiele ofiar cywilnych, zwłaszcza wśród dzieci, które przez znajomy kształt i kolor brały rozrzucone miny za zabawki. Stąd ponury przydomek „Zabójca dzieci”. Później zastąpiono ją nowszymi modelami, ale wiele wycofanej broni trafiło do Zony, gdzie PFM-1 stała się częstą miną-pułapką. Ceniona jest za funkcjonalność, łatwą obsługę, kompaktowy rozmiar i małą wagę. Jej główną wadą jest niewielki ładunek, często zbyt słaby, by jednym wybuchem zabić stalkera w ciężkim pancerzu. Używaj jej z innymi materiałami wybuchowymi jako zapalnika. Nieuzbrojona nie wybuchnie nawet po trafieniu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] mina przeciwpiechotna\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm wyzwalający: %c[ui_gray_1]nacisk\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]mała\n
+		%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+  </string>
+  <string id="st_mine_name">
+    <text>Rozrzutna mina przeciwpiechotna PFM-1</text>
+  </string>
+</string_table>

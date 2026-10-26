@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_barter_allOf">
+    <text>Você precisa ter todos os itens para concluir esta troca.</text>
+  </string>
+  <string id="st_barter_ammo">
+    <text>munição: </text>
+  </string>
+  <string id="st_barter_anyOf">
+    <text>Selecione um tipo de item para entregar.</text>
+  </string>
+  <string id="st_barter_cond">
+    <text>condição: %</text>
+  </string>
+  <string id="st_barter_fixed">
+    <text>(não é renovado)</text>
+  </string>
+  <string id="st_barter_goodwill">
+    <text>reputação necessária: </text>
+  </string>
+  <string id="st_barter_info">
+    <text>requer uma troca anterior</text>
+  </string>
+  <string id="st_barter_init">
+    <text>Quer trocar alguma coisa? %c[orange][Troca]</text>
+  </string>
+  <string id="st_barter_limit">
+    <text>limite</text>
+  </string>
+  <string id="st_barter_restock">
+    <text>(renovado ao reabastecer)</text>
+  </string>
+  <string id="st_barter_toolkit1">
+    <text>o técnico precisa de ferramentas básicas</text>
+  </string>
+  <string id="st_barter_toolkit2">
+    <text>o técnico precisa de ferramentas avançadas</text>
+  </string>
+  <string id="st_barter_toolkit3">
+    <text>o técnico precisa de ferramentas especializadas</text>
+  </string>
+  <string id="st_barter_uses">
+    <text>usos: </text>
+  </string>
+  <string id="st_desc_1">
+    <text>• Após a troca, você receberá os itens listados abaixo.</text>
+  </string>
+  <string id="st_raid_sec_t2">
+    <text>Itens comuns</text>
+  </string>
+  <string id="st_raid_sec_t3">
+    <text>Itens raros</text>
+  </string>
+  <string id="st_raid_sec_t4">
+    <text>Itens únicos</text>
+  </string>
+  <string id="st_raid_sec_t5">
+    <text>Artefatos</text>
+  </string>
+  <string id="st_raid_sec_zero">
+    <text>Lista completa</text>
+  </string>
+  <string id="st_ui_barter_rules">
+    <text>Regras básicas de troca:\n• Itens com condição devem ter pelo menos %s%.\n• Itens de vários usos devem estar com todos os usos.\n• A munição deve ser uma caixa completa.</text>
+  </string>
+  <string id="st_ui_itm_barter_base">
+    <text>Trocas disponíveis</text>
+  </string>
+  <string id="st_ui_itm_barter_support">
+    <text>Itens necessários</text>
+  </string>
+  <string id="st_ui_mm_barter">
+    <text>Troca</text>
+  </string>
+  <string id="ui_mcm_barter_cond">
+    <text>Condição mínima da arma para troca</text>
+  </string>
+  <string id="ui_mcm_barter_cond_desc">
+    <text>Condição mínima exigida para itens com estado fornecidos pelo jogador (armas, trajes) em uma troca.</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part">
+    <text>Condição mínima das peças</text>
+  </string>
+  <string id="ui_mcm_barter_cond_part_desc">
+    <text>Condição mínima exigida para peças fornecidas pelo jogador, tanto avulsas quanto integradas a um item maior (por exemplo, peças de armas ou trajes).</text>
+  </string>
+  <string id="ui_mcm_barter_debug">
+    <text>Exibir informações de depuração</text>
+  </string>
+  <string id="ui_mcm_barter_title">
+    <text>Trocas com NPCs de Anomaly</text>
+  </string>
+  <string id="ui_mcm_menu_barter">
+    <text>Troca</text>
+  </string>
+</string_table>

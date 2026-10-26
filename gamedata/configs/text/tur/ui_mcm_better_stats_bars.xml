@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_better_stats_bars_abf_compatibility">
+    <text>ABF uyumluluğu</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
+    <text>ABF (Anomalous Balance Fix) modu kullanılırken istatistikleri daha doğru gösterir</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_acid_bar_fix">
+    <text>Alternatif asit çubuğu görünümü</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_acid_bar_fix_desc">
+    <text>«Oyun değerlerini kullan» modunda kapsama alanını artırmak için mayın hasarını yapay olarak azaltır; gösterim hassasiyeti düşer.</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_arx_compatibility">
+    <text>ARX uyumluluğu</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
+    <text>ARX (Artefact Restoration eXperiment) modu kullanılırken istatistikleri daha doğru gösterir</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_efp_ui_compatibility">
+    <text>EFP arayüzü (Modern UI) uyumluluğu</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_efp_ui_compatibility_desc">
+    <text>Escape From Pripyat (EFP) mod paketiyle çubukların görünümünü iyileştirir. Ayrıca "Tüm yüksekliği doldur" konumu ve çubuk opaklığını azaltmak önerilir.</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_gamma_ui_compatibility">
+    <text>G.A.M.M.A. arayüzü uyumluluğu (eski Açlık, Susuzluk ve Uyku çubuğu modu için de geçerlidir)</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_gamma_ui_compatibility_desc">
+    <text>G.A.M.M.A. paketi veya eski Açlık, Susuzluk ve Uyku çubuğu moduyla görünümü iyileştirir</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_negative_color_a">
+    <text>Opaklık</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_negative_color_b">
+    <text>Mavi</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_negative_color_g">
+    <text>Yeşil</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_negative_color_help">
+    <text>Azalan istatistik çubuğunun rengi</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_negative_color_r">
+    <text>Kırmızı</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_neutral_color_a">
+    <text>Opaklık</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_neutral_color_b">
+    <text>Mavi</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_neutral_color_g">
+    <text>Yeşil</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_neutral_color_help">
+    <text>Değişmeyen istatistik çubuğunun rengi</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_neutral_color_r">
+    <text>Kırmızı</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_position">
+    <text>Konum</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_positive_color_a">
+    <text>Opaklık</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_positive_color_b">
+    <text>Mavi</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_positive_color_g">
+    <text>Yeşil</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_positive_color_help">
+    <text>Artan istatistik çubuğunun rengi</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_positive_color_r">
+    <text>Kırmızı</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_title">
+    <text>Geliştirilmiş istatistik çubukları</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_use_game_values">
+    <text>Oyun değerlerini kullan</text>
+  </string>
+  <string id="ui_mcm_better_stats_bars_use_game_values_desc">
+    <text>Bu seçenek etkinleştirildiğinde çubuklar, hasar değerleri ve element türlerine göre gerçek oyun tehditlerine (NPC'ler, mutantlar, anomaliler) karşı korumayı gösterir; kıyafet ve kask korumasının düzeltilmiş davranışı da hesaba katılır. Seçenekler:\n\nYok: seçeneği kapatır.\n\nMaksimum: çubuğun en yüksek değeri alınabilecek en yüksek hasarı temsil eder. Çubuğun üçte biri genellikle ateş, asit, psi alanları, zayıf mutantlar ve küçük kalibreli silahlara karşılık gelir. Üçte ikisi elektrikli ve yerçekimsel anomalileri, yakıcıları ve asit havuzlarını, psi köpek saldırılarını, orta güçte mutantları ve orta kalibreli silahları temsil eder. Tam çubuk en güçlü mayınlara ve alanlara, kontrolör saldırılarına, güçlü mutantlara ve yüksek kalibreli silahlara karşı korumayı gösterir.\n\nMaksimum (Mayınlar Yok): Maksimum ile aynıdır ancak anomali mayınlarını hesaba katmaz. Alanlara karşı kesin korumayı görüp mayınlardan alınacak hasarı ölçmek yerine onlardan kaçınmayı planlamak için kullanışlıdır.</text>
+  </string>
+  <string id="ui_mcm_lst_better_stats_bars_position_bottom">
+    <text>Alt</text>
+  </string>
+  <string id="ui_mcm_lst_better_stats_bars_position_justify">
+    <text>Tüm yüksekliği doldur</text>
+  </string>
+  <string id="ui_mcm_lst_better_stats_bars_position_top">
+    <text>Üst</text>
+  </string>
+  <string id="ui_mcm_lst_better_stats_bars_use_game_values_max">
+    <text>Maksimum</text>
+  </string>
+  <string id="ui_mcm_lst_better_stats_bars_use_game_values_max_no_mines">
+    <text>Maksimum (Mayınlar Yok)</text>
+  </string>
+  <string id="ui_mcm_lst_better_stats_bars_use_game_values_none">
+    <text>Yok</text>
+  </string>
+  <string id="ui_mcm_menu_better_stats_bars">
+    <text>Geliştirilmiş istatistikler</text>
+  </string>
+</string_table>

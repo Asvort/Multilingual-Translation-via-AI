@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_lst_LUM">
+    <text>Вычисление яркости</text>
+  </string>
+  <string id="ui_mcm_lst_VDT">
+    <text>Расчёт порога видимости</text>
+  </string>
+  <string id="ui_mcm_menu_revision">
+    <text>RE:VISION</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response">
+    <text>Агрессивная реакция</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response_desc">
+    <text>Выстрел по NPC вне пределов дальности детекции заставляет их агрессивно реагировать на стрельбу.</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength">
+    <text>Степень ослабления ярких зон</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength_desc">
+    <text>Ослабляет или усиливает влияние яркой окружающей среды, чтобы предотвратить эффекты передержанной экспозиции в зрительном восприятии ИИ. Используйте этот параметр для калибровки RE:Tinal относительно вашей системы погоды.</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance">
+    <text>Радиус воздействия костра</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance_desc">
+    <text>Устанавливает расстояние, на которое освещение от костров и аналогичных источников света распространяется на зоны восприятия NPC.</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier">
+    <text>Множитель заметности при приседании</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier_desc">
+    <text>Определяет степень уменьшения заметности при приседании. Менее высокие значения означают лучшую маскировку.</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength">
+    <text>Степень усиления тёмных зон</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength_desc">
+    <text>Увеличивает или уменьшает видимость в тёмных участках, чтобы NPC не становились совершенно слепыми в полной темноте. Используйте этот параметр для калибровки RE:Tinal относительно вашей системы погоды.</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type">
+    <text>Способ работы Debug</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type_desc">
+    <text>Выберите между фокусировкой на расчете VDT или расчете Lum.</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range">
+    <text>Дальность обнаружения</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range_desc">
+    <text>Устанавливает максимальное расстояние, на котором персонажи могут обнаруживать игрока и друг друга.</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug">
+    <text>Активировать Debug</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug_desc">
+    <text>Отображает журналы на экране и сообщения консоли для тестирования видимости поведения и отладки ответов системы.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle">
+    <text>Центральный угол обзора NPC</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle_desc">
+    <text>Настраивает ширину центрального поля зрения NPC. Внутри центрального угла NPC обладают полным восприятием.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle">
+    <text>Периферийный угол обзора NPC</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle_desc">
+    <text>Настраивает ширину периферийного поля зрения NPC. Внутри периферийного угла NPC получают меньшую воспринимающую способность. Так же зависит от освещённости.</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier">
+    <text>Глобальный множитель яркости</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier_desc">
+    <text>Изменяет общую чувствительность зрения NPC к яркости окружения. Большее значение делает мир визуально ярче для ИИ. Используйте этот параметр для калибровки RE:Tinal относительно вашей системы погоды.</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency">
+    <text>Частота проверки нахождения внутри помещения</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency_desc">
+    <text>Определяет частоту проверок скриптом нахождения актера внутри или снаружи помещений. Использует трассировку лучей.</text>
+  </string>
+  <string id="ui_mcm_revision_key_0">
+    <text>Полночь (12:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_0_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_10">
+    <text>Утро (10 часов утра)</text>
+  </string>
+  <string id="ui_mcm_revision_key_10_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_12">
+    <text>Полдень (12:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_12_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_14">
+    <text>Дневное время (14:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_14_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_16">
+    <text>Вторая половина дня (16:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_16_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_18">
+    <text>Начало вечера (18:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_18_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_2">
+    <text>Утро (2 часа ночи)</text>
+  </string>
+  <string id="ui_mcm_revision_key_20">
+    <text>Вечер (20:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_20_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_22">
+    <text>Поздний вечер (22:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_22_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_2_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_4">
+    <text>Раннее утро (4 часа утра)</text>
+  </string>
+  <string id="ui_mcm_revision_key_4_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_6">
+    <text>Рассвет (6 часов утра)</text>
+  </string>
+  <string id="ui_mcm_revision_key_6_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_key_8">
+    <text>Утро (8 часов утра)</text>
+  </string>
+  <string id="ui_mcm_revision_key_8_desc">
+    <text>Установите уровень освещённости для этой временной точки</text>
+  </string>
+  <string id="ui_mcm_revision_master_profile">
+    <text>Мастер-профиль Погоды</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength">
+    <text>Эффективность очков ночного видения</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength_desc">
+    <text>Определяет насколько сильно очки ночного видения усиливают восприятие NPC в условиях слабой освещённости.</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier">
+    <text>Множитель заметности при медленном передвижении пригнувшись (лёжа)</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier_desc">
+    <text>Дополнительное снижение заметности при медленной ходьбе пригнувшись, повышающее точность скрытого перемещения.</text>
+  </string>
+  <string id="ui_mcm_revision_something">
+    <text>Заглушка</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier">
+    <text>Множитель заметности при спринте</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier_desc">
+    <text>Увеличивает заметность при быстром движении, учитывая большее движение тела и производимый шум.</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity">
+    <text>Коэффициент материала поверхности</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity_desc">
+    <text>Масштабирует воздействие типов поверхностей (таких как трава и кустарники) на восприятие NPC. Высшие значения делают вас менее заметным для ИИ.</text>
+  </string>
+  <string id="ui_mcm_revision_title">
+    <text>RE:VISION - Повышение Визуальной Осведомленности и Восприятия Движения</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting">
+    <text>Использовать трассировку лучей</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting_desc">
+    <text>Использует трассировку лучей для точного расчета яркости в закрытых помещениях.</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear">
+    <text>Ясная погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy">
+    <text>Облачная погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark">
+    <text>Темная облачная погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog">
+    <text>Туманная погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy">
+    <text>Частично облачная погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain">
+    <text>Дождливая погода</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm">
+    <text>Гроза</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm_desc">
+    <text>Устанавливает множитель для этого типа погоды на основании основного профиля погоды</text>
+  </string>
+</string_table>

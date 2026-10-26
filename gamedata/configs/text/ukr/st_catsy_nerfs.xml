@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_nerfs_freq_preset">
+    <text>Частота пресета %s: %s МГц</text>
+  </string>
+  <string id="ui_mcm_menu_nerfmain">
+    <text>Основні налаштування</text>
+  </string>
+  <string id="ui_mcm_menu_nerfpresets">
+    <text>Пресети</text>
+  </string>
+  <string id="ui_mcm_menu_nerfs">
+    <text>Джерела NERF</text>
+  </string>
+  <string id="ui_mcm_menu_nerfwidget">
+    <text>Доступність</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header1">
+    <text>Можна задати до дев’яти частот і призначити окрему гарячу клавішу для кожної.</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header2">
+    <text>Якщо ввімкнено підтримку коліщатка миші, утримуйте Ctrl під час прокручування, щоб перемикати пресети нижче.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_binaries">
+    <text>Модифіковані виконувані файли від demonized: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs">
+    <text>Увімкнути журнал налагодження</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs_desc">
+    <text>Журнал буде об’ємним, але міститиме корисні дані для налагодження. Щоб повідомити про проблему, СПОЧАТКУ:\n\n1. Увімкніть цей параметр.\n2. Повністю вийдіть із гри.\n3. Завантажте збереження та відтворіть проблему, за можливості без інших модифікацій.\n4. Знову вийдіть із гри.\n\nПотім заархівуйте журнал із [anomaly_folder]/appdata/logs і завантажте його в мережу.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr">
+    <text>Увімкнути сумісність із Reworked RF Receiver</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr_desc">
+    <text>Якщо встановлено Reworked RF Receiver від Coverdrave, NERFS використовує його параметри MCM для екіпірування, сигналів і зміни частоти. Інші покращення RRFR вже включені.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header1">
+    <text>New Extensible RF Sources покращує RF-детектор у кілька способів:\n• Розширює діапазон частот із 300 до 999 (налаштовується нижче).\n• Додає нові цікаві джерела RF-завад.\n• Переносить усі RF-джерела до розширюваної системи на основі LTX, придатної для модифікацій і без конфліктів.\n• Додає нотатки з корисними частотами та статті до енциклопедії; їх можна випадково знайти на тілах сталкерів (лише повна версія — посилання нижче).\n• Додає необов’язковий індикатор сили сигналу в HUD для зручності або доступності.\n• Підтримує Reworked RF Receiver і TB’s RF Tasks.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header2">
+    <text>Докладніше про NERFS і завантаження повної версії на сторінці Moddb:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header_dar">
+    <text>Мінімальна версія фреймворку для включення в Devices of Anomaly Redone</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq">
+    <text>Максимальна частота RF-сигналу</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq_desc">
+    <text>RF-приймач може відображати тризначні числа, але гра обмежує його робочий діапазон УКХ (30–300 МГц). Водночас деякі джерела сигналу в базовій грі виходять за ці межі. Цей параметр розширює одразу два діапазони: робочих частот приймача та частот, які гра використовує, видаючи завдання на пошук сигналів.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel">
+    <text>Змінювати частоту коліщатком миші</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel_desc">
+    <text>Якщо ввімкнено, прокручуйте коліщатко миші вгору або вниз, щоб змінювати частоту. Як і в оригінальній грі, утримуйте Shift або Alt, щоб змінити крок відповідно на 10 або 50. Коліщатко дає змогу змінювати частоту значно швидше!\nДля цієї функції потрібні модифіковані виконувані файли версії 20230701 або новішої. GAMMA наразі не підтримує цю функцію.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset1">
+    <text>Клавіша пресету 1</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset2">
+    <text>Клавіша пресету 2</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset3">
+    <text>Клавіша пресету 3</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset4">
+    <text>Клавіша пресету 4</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset5">
+    <text>Клавіша пресету 5</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset6">
+    <text>Клавіша пресету 6</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset7">
+    <text>Клавіша пресету 7</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset8">
+    <text>Клавіша пресету 8</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset9">
+    <text>Клавіша для пресета 9</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset1_freq">
+    <text>Частота пресета 1</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset2_freq">
+    <text>Частота пресета 2</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset3_freq">
+    <text>Частота пресета 3</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset4_freq">
+    <text>Частота пресета 4</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset5_freq">
+    <text>Частота пресета 5</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset6_freq">
+    <text>Частота пресета 6</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset7_freq">
+    <text>Частота пресета 7</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset8_freq">
+    <text>Частота пресета 8</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset9_freq">
+    <text>Частота пресета 9</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_a">
+    <text>Прозорість</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_b">
+    <text>Синій</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_g">
+    <text>Зелений</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_r">
+    <text>Червоний</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_em_header">
+    <text>\n\nПід час викидів індикатор блиматиме цим кольором.\nТипово (червоний): 128,200,0,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_header1">
+    <text>Віджет доступності — це простий візуальний індикатор у HUD, що показує силу RF-сигналу. Він призначений для глухих і слабкочуючих людей, але стане в пригоді кожному, кому важко відрізнити звукові сигнали від фонового шуму. Позицію та кольори індикатора можна налаштувати відповідно до вподобань або потреб людей із дальтонізмом. Віджет з’являється ЛИШЕ тоді, коли гравець тримає в руках RF-детектор.\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy">
+    <text>Координати XY верхнього лівого кута віджета:</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy_desc">
+    <text>0,0 — верхній лівий кут, 1024,768 — нижній правий. Значення масштабуються під роздільність. Типово (знизу по центру): 491,670.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_hi_header">
+    <text>\n\nЗа сильного сигналу індикатор блиматиме цим кольором.\nТипово (зелений): 255,0,250,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_lo_header">
+    <text>\n\nЗа слабкого сигналу індикатор блиматиме цим кольором.\nТипово (сірий): 255,50,50,50\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_x">
+    <text>Координата X (горизонталь, зліва направо)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_y">
+    <text>Координата Y (вертикаль, згори донизу)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_show">
+    <text>Показувати віджет доступності</text>
+  </string>
+  <string id="ui_mcm_nerfs_scrolldown">
+    <text>** Прокрутіть униз, щоб побачити інші налаштування **</text>
+  </string>
+</string_table>

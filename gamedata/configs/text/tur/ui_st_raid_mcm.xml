@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_lst_spawn_mult_high">
+    <text>Yüksek</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_low">
+    <text>Düşük</text>
+  </string>
+  <string id="ui_mcm_lst_spawn_mult_mid">
+    <text>Standart</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_accelerated">
+    <text>Hızlandırılmış ilerleme (20-30 saat oyun)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_standard">
+    <text>Standart ilerleme (30-40 saat oyun)</text>
+  </string>
+  <string id="ui_mcm_lst_speed_develop_turbo">
+    <text>Hızlı ilerleme (10-20 saat oyun)</text>
+  </string>
+  <string id="ui_mcm_menu_raidx">
+    <text>%c[200, 255, 120, 0]Grim Raid</text>
+  </string>
+  <string id="ui_mcm_menu_raidx_sim">
+    <text>%c[200, 191, 157, 127]Raid into Darkness nüfusu</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves">
+    <text>Kamp ateşlerinin yanında kayıt yapılabilsin</text>
+  </string>
+  <string id="ui_mcm_raidx_campfire_saves_desc">
+    <text>Kamp ateşlerinin yanında kayıt yapmaya izin verir.\n\nBu seçenek açıkken konsolda «save kayıt_adı» komutuyla kayıt yapmak da mümkündür.\n\n%c[200, 235, 76, 52]Dikkat! Oyun deneyimini olumsuz etkilediği için baskın sırasında kayıt yapmamanız önerilir.</text>
+  </string>
+  <string id="ui_mcm_raidx_info">
+    <text>Gerçek «Karanlık modu» varsayılan değerleri kullanır.</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent">
+    <text>Muhbir sigortası (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_insurance_percent_desc">
+    <text>Muhbirden «sigorta» satın aldıktan sonra yuvalardaki eşyaları koruma olasılığı.</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death">
+    <text>Ölümde eşyaları koru</text>
+  </string>
+  <string id="ui_mcm_raidx_keep_items_on_death_desc">
+    <text>Ölümden sonra envanterde kalması garanti edilen kuşanılmış eşya yüzdesi.\n\nÖrneğin %60 değerinde, 10 eşyanın rastgele seçilen 6 tanesi kalır.</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop">
+    <text>Kademeli eşya kaybı</text>
+  </string>
+  <string id="ui_mcm_raidx_progressive_drop_desc">
+    <text>Ölümden sonra korunan eşya sayısı oyuncunun rütbesine bağlıdır. Rütbe yükseldikçe daha az eşya korunur. Bu seçenek, korunan eşya sayısını belirleyen aşağıdaki kaydırıcıyı devre dışı bırakır.\nAcemi - eşyaların %10 kadarı kaybedilir\nBaşlangıç - eşyaların %20 kadarı kaybedilir\nDeneyimli - eşyaların %30 kadarı kaybedilir\nProfesyonel - eşyaların %40 kadarı kaybedilir\nKıdemli - eşyaların %50 kadarı kaybedilir\nUzman - eşyaların %60 kadarı kaybedilir\nUsta - eşyaların %70 kadarı kaybedilir\nEfsane - eşyaların %33 kadarı kaybedilir\n\nSeçenek kapalıyken yüzdeyi «Ölümden sonra korunan eşya sayısı» ayarından değiştirebilirsiniz.</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death">
+    <text>Ölümde rütbe puanı kaybı (%)</text>
+  </string>
+  <string id="ui_mcm_raidx_rank_loss_on_death_desc">
+    <text>Ölünce kaybedilen rütbe yüzdesi.\n\nKarakterin gelişimini etkiler.</text>
+  </string>
+  <string id="ui_mcm_raidx_sim_title">
+    <text>%c[200, 178, 151, 127]Raid into Darkness nüfusu</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult">
+    <text>Simülasyon doğma çarpanı</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_mult_desc">
+    <text>Varsayılan olarak %100, özgün simülasyon ayarlarını kullanır. Fark edilir bir değişiklik için değeri %20–50 oranında değiştirin.</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi">
+    <text>Bölge nüfusu ön ayarı</text>
+  </string>
+  <string id="ui_mcm_raidx_simulation_spawn_multi_desc">
+    <text>İlk ve olası ek doğuşlarda oluşacak manga sayısını belirler. Yalnızca standart baskınlarda çalışır.\nOyun dengesi varsayılan ayara göre yapıldığından bu ayar önerilir.</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop">
+    <text>İlerleme hızı</text>
+  </string>
+  <string id="ui_mcm_raidx_speed_develop_desc">
+    <text>Görev ödüllerini belirler: rütbe, para ve işverenlerle itibar.\nOyun dengesi varsayılan ayara göre yapıldığından bu ayar önerilir.</text>
+  </string>
+  <string id="ui_mcm_raidx_title">
+    <text>%c[200, 204, 96, 0]Grim Raid</text>
+  </string>
+</string_table>

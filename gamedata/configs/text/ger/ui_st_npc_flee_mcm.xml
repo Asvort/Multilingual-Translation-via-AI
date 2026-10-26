@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_npc_flee">
+    <text>NPC-Flucht</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cancel_on_hit">
+    <text>Flucht abbrechen, wenn NPC getroffen wird</text>
+  </string>
+  <string id="ui_mcm_npc_flee_companion_pwr">
+    <text>Stärkemultiplikator für Begleiter</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time">
+    <text>Deckungszeit des Trupps (0 zum Deaktivieren)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_cover_time_desc">
+    <text>Der am weitesten entfernte NPC deckt den Rückzug seines Trupps.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_pwr_mult">
+    <text>Stärkemultiplikator der Gegner</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_radius">
+    <text>Gegnerradius</text>
+  </string>
+  <string id="ui_mcm_npc_flee_enemies_upd_radius">
+    <text>Gegner-Radius 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_dbg">
+    <text>Debug (Konsolenausgabe)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time">
+    <text>Fluchtschutzzeit (Sek.)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_protection_time_desc">
+    <text>Wenn ein NPC aufhört zu fliehen, kann er während dieser Zeit nicht erneut fliehen.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist">
+    <text>Mindestfluchtdistanz</text>
+  </string>
+  <string id="ui_mcm_npc_flee_flee_smart_min_dist_desc">
+    <text>Ein Fluchtziel wird nur gewählt, wenn es weiter als dieser Wert entfernt ist.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_pwr_mult">
+    <text>Stärkemultiplikator der Verbündeten</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_radius">
+    <text>Verbündetenradius</text>
+  </string>
+  <string id="ui_mcm_npc_flee_friends_upd_radius">
+    <text>Verbündetenradius 2</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_after">
+    <text>Radius 2 (während der Flucht verkleinern, um sie bei schwächeren Gegnern in der Nähe abzubrechen)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_dist_before">
+    <text>Radius (vor der Flucht wird die Stärke von Gegnern und Verbündeten nur in diesem Umkreis berechnet)</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_others">
+    <text>Sonstiges</text>
+  </string>
+  <string id="ui_mcm_npc_flee_header_power">
+    <text>Stärke (Flucht, wenn "enemies_power &gt; friends_power*threshold_mult")</text>
+  </string>
+  <string id="ui_mcm_npc_flee_hits_to_cancel">
+    <text>Trefferzahl zum Abbrechen der Flucht</text>
+  </string>
+  <string id="ui_mcm_npc_flee_smoke_enabled">
+    <text>Rauchgranaten</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time">
+    <text>Erste Fluchtsekunden, die nicht abgebrochen werden können</text>
+  </string>
+  <string id="ui_mcm_npc_flee_start_flee_time_desc">
+    <text>Die ersten Sekunden nach Fluchtbeginn können weder durch schwache Gegner noch durch Treffer abgebrochen werden.</text>
+  </string>
+  <string id="ui_mcm_npc_flee_threshold_mult">
+    <text>Schwellenwertmultiplikator</text>
+  </string>
+  <string id="ui_mcm_npc_flee_title">
+    <text>NPC-Flucht</text>
+  </string>
+</string_table>

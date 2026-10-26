@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier">
+    <text>Anomali miktarı çarpanı</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
+    <text>Her bölgedeki anomali sayısını değiştirir</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
+    <text>Anomali bölgesi yarıçapı</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
+    <text>Akıllı arazi merkezinden anomali bölgesine izin verilen en büyük mesafe</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
+    <text>Anomaliler arasındaki en az mesafe</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
+    <text>Bir bölgedeki anomaliler arasındaki en az mesafe. Negatif değerler çakışmalarına izin verir.</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
+    <text>Anomali bölgesi oluşma şansı</text>
+  </string>
+  <string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
+    <text>Önceden belirlenmiş akıllı arazide anomali bölgesi oluşma şansı</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance">
+    <text>Artefakt oluşma şansı</text>
+  </string>
+  <string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
+    <text>Belirlenen üst sınıra kadarki her artefakt bu olasılıkla oluşur</text>
+  </string>
+  <string id="ui_mcm_drx_da_choose_help">
+    <text>Aşağıdan seçerek etkinleştirebilirsiniz\n oyunda hangi yeni anomali türlerinin ortaya çıkacağını.</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode">
+    <text>Hata ayıklama modu</text>
+  </string>
+  <string id="ui_mcm_drx_da_debug_mode_desc">
+    <text>Konsola çok sayıda ileti yazılmasını sağlar</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies">
+    <text>Dinamik anomalileri sil</text>
+  </string>
+  <string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
+    <text>Oluşturulan tüm anomali bölgelerini siler. Modu güvenle kaldırmak için seçeneği açın, oyuna dönüp kaydedin, çıkın ve modu kaldırın.</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies">
+    <text>Yeni anomalileri devre dışı bırak</text>
+  </string>
+  <string id="ui_mcm_drx_da_disable_new_anomalies_desc">
+    <text>Yeni anomali türlerini engeller. Sonraki emisyon, psi fırtınası veya yeni oyunda yürürlüğe girer.</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier">
+    <text>Elektrik alanı çarpanı</text>
+  </string>
+  <string id="ui_mcm_drx_da_electric_field_modifier_desc">
+    <text>Elektrik alanı hasarını değiştirir; elektronik cihaz arızalarını etkilemez.</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour">
+    <text>Dinamik anomali davranışını etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
+    <text>Dinamik anomalilerin Bölgede ortaya çıkıp kaybolmasını belirler.</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier">
+    <text>Yerçekimi anomalisi sarsıntı çarpanı</text>
+  </string>
+  <string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
+    <text>Yerçekimi anomalilerinin yakınındaki ekran sarsıntısını değiştirir</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone">
+    <text>Bölge başına en fazla artefakt</text>
+  </string>
+  <string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
+    <text>Bir anomali bölgesinde oluşabilecek en fazla artefakt sayısı</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets">
+    <text>Ön ayarlar</text>
+  </string>
+  <string id="ui_mcm_drx_da_presets_desc">
+    <text>Listeden hazır ayar seçin</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance">
+    <text>Rastgele artefakt şansı</text>
+  </string>
+  <string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
+    <text>Bölge seviyeye göre artefakt seçer: güneyde zayıflar, kuzey ve yer altında güçlüler çıkar. Bu olasılık benzersizler dahil herhangi bir artefaktı mümkün kılar.</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup">
+    <text>Anomali temizliğinden sonra oyunu kaydet</text>
+  </string>
+  <string id="ui_mcm_drx_da_save_after_cleanup_desc">
+    <text>Emisyon veya psi fırtınası dinamik anomalileri kaldırınca kaydeder.</text>
+  </string>
+  <string id="ui_mcm_drx_da_title">
+    <text>Arrival - Anomaliler</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_cdf_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_flash_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_ghost_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_gold_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_net_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_point_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_seed_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_shatterpoint_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sloth_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_sphere_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_thorn_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_drx_da_zone_mine_umbra_enable">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_easy">
+    <text>Kolay</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_hard">
+    <text>Zor</text>
+  </string>
+  <string id="ui_mcm_lst_drx_da_preset_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_menu_drx_da">
+    <text>Arrival</text>
+  </string>
+</string_table>

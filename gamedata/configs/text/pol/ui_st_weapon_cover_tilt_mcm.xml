@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Przechylanie broni przy osłonie</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Bezwładność animacji</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Mniejsza wartość przyspiesza animację.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Współczynnik wagi</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Im wyższa wartość, tym większy wpływ wagi broni na szybkość animacji.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Uwzględnij tłumik przy obliczaniu promienia</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Broń z zamontowanym tłumikiem zyska około 0,1 m promienia aktywacji.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Włącz ręczne przechylanie</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Włącz</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Klawisz ręcznego przechylania</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>Przesunięcie broni w osi X</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — w lewo. &gt; 0 — w prawo</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Przesunięcie broni w osi Y</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — w dół. &gt; 0 — w górę</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Przesunięcie broni w osi Z</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — do tyłu. &gt; 0 — do przodu</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Losowy przechył broni</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Po uniesieniu broń przechyla się o losową liczbę stopni, urozmaicając animację.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Dźwięk grzechotania przy przechyleniu</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Przechylanie broni przy osłonie</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Promień aktywacji (m)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Modyfikator długości broni</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Zmienia zależność promienia aktywacji od długości broni. Wyższa wartość zwiększa różnicę między krótką a długą bronią.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>Użyj wymiarów modelu HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>Debuguj wymiary modelu HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Po włączeniu moment przechylenia zależy od rzeczywistych wymiarów modelu HUD. WCT wykonuje raycast od kości fire_bone i przesunięcia fire_point w kierunku strzału. WYMAGANE ZMODYFIKOWANE EXE &gt;= 2025.04.22. Jeśli nowa metoda jest niedostępna, używana jest standardowa.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Losowe odchylenie broni w poziomie</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Po uniesieniu broń obraca się poziomo o losową liczbę stopni, urozmaicając animację.</text>
+  </string>
+</string_table>

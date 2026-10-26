@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Smart-terrain kontrol aralığı (saniye)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>Her etkin smart-terrain'in NPC görev rotasyonu için ne sıklıkla kontrol edileceği.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Animpoint'in yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Boşalan animpoint görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Animpoint'in yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Boşalan animpoint görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Davranış görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Boşalan davranış görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Davranış görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Boşalan davranış görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Kamp görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Boşalan kamp görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Kamp görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Boşalan kamp görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Toplayıcı görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Boşalan toplayıcı görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Toplayıcı görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Boşalan toplayıcı görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Boşalan bir görevin başka bir NPC tarafından Akıllı Etkinlik üzerinden yeniden kullanılabilmesinden önce ne kadar süre kullanılamayacağını belirler.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Nöbet görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Boşalan nöbet görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Nöbet görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Boşalan nöbet görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Görevlerin yeniden kullanılma bekleme süreleri</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Devriye görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Boşalan devriye görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Devriye görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Boşalan devriye görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Uyku görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Boşalan uyku görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Uyku görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Boşalan uyku görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Akıllı siper görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Boşalan akıllı siper görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Akıllı siper görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Boşalan akıllı siper görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Keskin nişancı görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Boşalan keskin nişancı görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Keskin nişancı görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Boşalan keskin nişancı görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Dolaşma görevinin yeniden kullanılma bekleme süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Boşalan dolaşma görevinin Akıllı Etkinlik için kullanılamayacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Dolaşma görevinin yeniden kullanılma bekleme süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Boşalan dolaşma görevinin Akıllı Etkinlik için kullanılamayacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Hata ayıklama çıktıları</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Her başarılı dinamik görev değişikliğini günlüğe yazar. Beta testleri sırasında önerilir.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Akıllı etkinliği etkinleştir</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Simülasyondaki desteklenen NPC'ler için smart-terrain görev rotasyonunu etkinleştirir veya devre dışı bırakır.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Genel ayarlar</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Akıllı etkinlik</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>ANIMPOINT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>DAVRANIŞ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>KAMPÇI</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>TOPLAYICI</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>NÖBETÇİ</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>DEVRİYE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>UYKU</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>AKILLI SİPER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>KESKİN NİŞANCI</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>GEZGİN</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Yeniden deneme gecikmesi (saniye)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Uygun yeni görev olmadığında veya rotasyon geçici olarak engellendiğinde NPC'nin yeniden denemeden önce ne kadar bekleyeceği.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Animpoint görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce animpoint görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Animpoint görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce animpoint görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Davranış görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce davranış görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Davranış görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce davranış görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Kamp görevi süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce kamp görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Kamp görevi süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce kamp görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Toplayıcı görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce toplayıcı görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Toplayıcı görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce toplayıcı görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Bir NPC'nin başka bir uygun göreve geçmeden önce her etkinliği normalde ne kadar sürdüreceğini belirler.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Nöbet görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce nöbet görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Nöbet görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce nöbet görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Görev süreleri</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Devriye görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce devriye görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Devriye görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce devriye görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Uyku görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce uyku görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Uyku görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce uyku görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Akıllı siper görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce akıllı siper görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Akıllı siper görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce akıllı siper görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Keskin nişancı görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce keskin nişancı görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Keskin nişancı görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce keskin nişancı görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Dolaşma görevinde kalma süresi en çok (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>NPC'nin görevini değiştirmeden önce dolaşma görevinde kalacağı en uzun süre.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Dolaşma görevinde kalma süresi en az (dakika)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>NPC'nin görevini değiştirmeden önce devriye görevinde kalacağı en kısa süre.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>İş tekrar bekleme süreleri</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>Genel</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>İş süresi</text>
+  </string>
+</string_table>

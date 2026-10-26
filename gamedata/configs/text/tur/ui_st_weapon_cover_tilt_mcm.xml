@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Siper kenarında silah eğimi</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Animasyon ataleti</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Değer azaldıkça animasyon hızlanır.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Ağırlık katsayısı</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Değer yükseldikçe silahın ağırlığı animasyon hızını daha fazla etkiler.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Susturucuyu yarıçap hesabına kat</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Susturucu takılı silahlarda tetikleme yarıçapı yaklaşık 0,1 m artar.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Elle eğmeyi etkinleştir</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Etkinleştir</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Elle eğme tuşu</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>X ekseninde silah ofseti</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — sola. &gt; 0 — sağa</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Y ekseninde silah ofseti</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — aşağı. &gt; 0 — yukarı</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Z ekseninde silah ofseti</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — geriye. &gt; 0 — ileri</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Silah yatış değişimi</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Silah kaldırıldığında animasyonu çeşitlendirmek için belirtilen derece aralığında rastgele yana yatar.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Eğilirken tıkırtı sesi</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Siper kenarında silah eğimi</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Tetikleme yarıçapı (m)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Silah uzunluğu katsayısı</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Tetikleme yarıçapının silah uzunluğuna bağlılığını değiştirir. Değer arttıkça kısa ve uzun silahlar arasındaki fark büyür.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>HUD modeli boyutlarını kullan</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>HUD modeli boyutlarını hata ayıkla</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Etkinleştirildiğinde silahın eğilme zamanı gerçek HUD modeli boyutlarına göre belirlenir. WCT, ateş yönünde fire_bone kemiğinden ve fire_point ofsetinden ışın taraması yapar. MODLANMIŞ EXE &gt;= 2025.04.22 GEREKLİDİR. Yeni yöntem yoksa standart yöntem kullanılır.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Silah sapma değişimi</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Silah kaldırıldığında animasyonu çeşitlendirmek için belirtilen derece aralığında rastgele yatay döner.</text>
+  </string>
+</string_table>

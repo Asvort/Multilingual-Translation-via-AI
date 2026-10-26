@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_axe">
+    <text>Topór</text>
+  </string>
+  <string id="st_axe2">
+    <text>Topór strażacki</text>
+  </string>
+  <string id="st_axe2_descr">
+    <text>Zwykły topór strażacki, zazwyczaj wykonany z metalu i wysokiej jakości kutej stali, z klinowatym obuchem łączącym ostrze i szpic. Ostry koniec służy do rozbierania drewnianych elementów budynków, dachów, okien i drzwi podczas pożaru. W rękach stalkera może stać się narzędziem zemsty.\n \n%c[ui_gray_1]CECHY:\n%c[d_cyan] • %c[ui_gray_2] broń biała\n%c[d_cyan] • %c[ui_gray_2] większy zasięg niż noże\n%c[d_cyan] • %c[ui_gray_2] narzędzie codziennego użytku\n%c[d_red] • %c[ui_gray_2] można używać do oprawiania zwierzyny</text>
+  </string>
+  <string id="st_axe3">
+    <text>Topór myśliwski</text>
+  </string>
+  <string id="st_axe3_descr">
+    <text>Topór myśliwski od tysiącleci służy do rąbania drewna, jako broń, a nawet przedmiot obrzędowy. Ma wiele form, lecz zwykle składa się z głowicy i trzonka. W Zonie topór może oznaczać życie albo śmierć.\n \n%c[ui_gray_1]CECHY:\n%c[d_cyan] • %c[ui_gray_2] broń biała\n%c[d_cyan] • %c[ui_gray_2] większy zasięg niż noże\n%c[d_cyan] • %c[ui_gray_2] narzędzie codziennego użytku\n%c[d_red] • %c[ui_gray_2] można używać do oprawiania zwierzyny</text>
+  </string>
+  <string id="st_axe_descr">
+    <text>Stary topór używany niegdyś przez miejscowego mieszkańca. Jest nieporęczny, więc stalkerzy rzadko zabierają go na dalekie wyprawy.\n \n%c[ui_gray_1]CECHY:\n%c[d_cyan] • %c[ui_gray_2] broń biała\n%c[d_cyan] • %c[ui_gray_2] większy zasięg niż noże\n%c[d_cyan] • %c[ui_gray_2] narzędzie codziennego użytku\n%c[d_red] • %c[ui_gray_2] można używać do oprawiania zwierzyny</text>
+  </string>
+  <string id="st_dynamo_hand_descr">
+    <text>\n%c[ui_gray_1]Ręczny, przenośny generator domowej roboty zbudowany na jednofazowym silniku asynchronicznym odzyskanym ze starego urządzenia. Napięcie wyjściowe przechodzi przez transformator obniżający i prostownik z radzieckimi diodami D242, który ładuje przenośny blok energetyczny. Kondensator podłączony do uzwojenia pomocniczego silnika zapewnia samowzbudzenie. Wirnik obraca się przez przekładnię ślimakową z prędkością znamionową 1300–1500 obr./min. Urządzenie ma wskazówkowy amperomierz amerykańskiej firmy WESTON ELECTRICAL INSTRUMENT. Jest ciężkie, ale cenione w Zonie; wprawni rzemieślnicy mogą je ulepszyć.\n \n%c[ui_gray_2]CECHY:\n%c[d_cyan] • %c[ui_gray_2] urządzenie technologiczne\n%c[d_cyan] • %c[ui_gray_2] moc znamionowa silnika: 40 W%c[d_red] • %c[ui_gray_2] ograniczona trwałość łożysk silnika i przekładni%c[d_cyan]</text>
+  </string>
+  <string id="st_dynamo_hand_name">
+    <text>Przenośny generator ręczny</text>
+  </string>
+  <string id="st_grenade_f1">
+    <text>Granat F-1</text>
+  </string>
+  <string id="st_grenade_f1_descr">
+    <text>Ręczny obronny granat przeciwpiechotny odłamkowy. Przeznaczony do rażenia siły żywej przeciwnika w walce obronnej. Ze względu na duży promień rażenia odłamkami należy nim rzucać wyłącznie zza osłony.\n \n%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]wysoka\n%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]4.2 m\n%c[d_purple] • %c[ui_gray_2] promień rażenia odłamkami: %c[ui_gray_1]48 m\n%c[d_purple] • %c[ui_gray_2] liczba odłamków: %c[ui_gray_1]380 (drobne odłamki)\n%c[d_purple] • %c[ui_gray_2] opóźnienie zapłonu: %c[ui_gray_1]~4 sekundy</text>
+  </string>
+  <string id="st_grenade_launcher">
+    <text>Podwieszany granatnik GP-25 „Kostior”</text>
+  </string>
+  <string id="st_grenade_launcher_descr">
+    <text>Jednostrzałowy, ładowany od przodu granatnik podwieszany z gwintowaną lufą, przeznaczony do karabinków państw Układu Warszawskiego. Zaprojektowano go, by znacznie zwiększyć siłę ognia drużyny piechoty. Mechanizm jest samonapinający, ma ręczny bezpiecznik i automatycznie blokuje strzał, jeśli granatnik zamontowano nieprawidłowo.\n \n %c[d_purple] • %c[ui_gray_2] Prędkość wylotowa: %c[ui_gray_1]~76 m/s\n %c[d_purple] • %c[ui_gray_2] Zasięg: %c[ui_gray_1]~300 m\n %c[d_purple] • %c[ui_gray_2] Przeładowanie: %c[ui_gray_1]powolne\n %c[d_purple] • %c[ui_gray_2] Amunicja: %c[ui_gray_1]granat VOG-25 kal. 40 mm\n \n</text>
+  </string>
+  <string id="st_grenade_launcher_m203">
+    <text>Podwieszany granatnik M203</text>
+  </string>
+  <string id="st_grenade_launcher_m203_descr">
+    <text>Modyfikacja jednostrzałowego granatnika M203 ze skróconą o trzy cale lufą i mocowaniem Picatinny. Dzięki zmienionemu mocowaniu jest szeroko używany na świecie i można go montować na większości obecnie produkowanych karabinków. Mimo nowocześniejszej konstrukcji ma niemal takie same właściwości jak radziecki odpowiednik GP-25.\n \n %c[d_purple] • %c[ui_gray_2] Prędkość wylotowa: %c[ui_gray_1]~76 m/s\n %c[d_purple] • %c[ui_gray_2] Zasięg: %c[ui_gray_1]~300 m\n %c[d_purple] • %c[ui_gray_2] Przeładowanie: %c[ui_gray_1]powolne\n %c[d_purple] • %c[ui_gray_2] Amunicja: %c[ui_gray_1]granat M203 kal. 40 mm\n \n</text>
+  </string>
+  <string id="st_grenade_light">
+    <text>Granat M67</text>
+  </string>
+  <string id="st_grenade_light_descr">
+    <text>Amerykański ręczny granat odłamkowy. M67 wykorzystuje zapalnik M213 z dwoma zabezpieczeniami: standardową zawleczką z kółkiem oraz drucianą pętlą owiniętą wokół zapalnika, która przytrzymuje dźwignię. Niezawodne zabezpieczenie pozwala przenosić granat, zaczepiając dźwignię o pas oporządzenia. Kompaktowe rozmiary i gęste pole odłamków sprawiły, że M67 jest popularny wśród spadochroniarzy, piechoty morskiej i sił specjalnych.</text>
+  </string>
+  <string id="st_grenade_rgd5">
+    <text>Granat RGD-5</text>
+  </string>
+  <string id="st_grenade_rgd5_descr">
+    <text>Radziecki ręczny granat zaczepny odłamkowy o działaniu czasowym. Ma razić personel przeciwnika odłamkami korpusu podczas wybuchu.\n \n%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]średnia\n%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]3.2 m\n%c[d_purple] • %c[ui_gray_2] promień rażenia odłamkami: %c[ui_gray_1]43 m\n%c[d_purple] • %c[ui_gray_2] liczba odłamków: %c[ui_gray_1]240 (drobne odłamki)\n%c[d_purple] • %c[ui_gray_2] opóźnienie zapłonu: %c[ui_gray_1]~4 sekundy</text>
+  </string>
+  <string id="st_grenade_smoke">
+    <text>Granat dymny</text>
+  </string>
+  <string id="st_grenade_smoke_descr">
+    <text>Ręczny granat dymny przeznaczony do tworzenia zasłony dymnej. Zasłona powstaje w 10 sekund.</text>
+  </string>
+  <string id="st_grenade_thermite">
+    <text>Granat termitowy</text>
+  </string>
+  <string id="st_grenade_thermite_descr">
+    <text>Ręczny granat zapalający, zwany też termitowym. Podczas wybuchu intensywna reakcja termitowa wytwarza temperaturę do 2200°C: sproszkowane aluminium reaguje z tlenkiem żelaza, tworząc strumień stopionego żelaza i tlenek glinu. Granat zawiera 600 albo 800 gramów mieszanki termitowej.\n \n%c[d_purple] • %c[ui_gray_2] SIŁA WYBUCHU: %c[ui_gray_1]średnia (obrażenia termiczne)\n%c[d_purple] • %c[ui_gray_2] promień wybuchu: %c[ui_gray_1]4.6 m\n%c[d_purple] • %c[ui_gray_2] promień rażenia odłamkami: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] liczba odłamków: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] opóźnienie zapłonu: %c[ui_gray_1]~4 sekundy</text>
+  </string>
+  <string id="st_knife_6x4">
+    <text>Bagnet 6x4</text>
+  </string>
+  <string id="st_knife_6x4_descr">
+    <text>\n \n%c[ui_gray_1]Bagnet etatowy przyjęty przez siły zbrojne ZSRR do karabinów AKM i AK-74. Powstał na bazie bagnetu 6x3; główne zmiany dotyczyły pochwy i kształtu rękojeści. W Zonie ma niewielkie zastosowanie.\n \n%c[d_red] • %c[d_red] nie nadaje się do oprawiania dużej zwierzyny</text>
+  </string>
+  <string id="st_knife_combat">
+    <text>Bagnet M9</text>
+  </string>
+  <string id="st_knife_combat_descr">
+    <text>\n \n%c[ui_gray_1]Duży, uniwersalny nóż z pewnym gumowanym uchwytem, często używany przez żołnierzy USA od 1986 roku. Jest ostry i w dobrym stanie. Słabo radzi sobie z kamizelkami kuloodpornymi, lecz ząbkowane ostrze dobrze tnie tkanki i nie pozwala ranie się zamknąć. Nadaje się do dobijania rannych zwierząt lub cichego ataku na wartownika.</text>
+  </string>
+  <string id="st_knife_hunting">
+    <text>Nóż myśliwski</text>
+  </string>
+  <string id="st_knife_hunting_descr">
+    <text>\n \n%c[ui_gray_1]Nowoczesny, bardzo wytrzymały nóż myśliwski ze stali nierdzewnej. Starannie wykończone ostrze z łatwością przecina skóry i miękkie tkanki nawet dużych mutantów. Nadaje się też do polowania, bo zadaje rozległe, krwawiące rany. Nie jest jednak przeznaczony do przebijania kamizelek kuloodpornych, co mocno ogranicza jego zastosowanie.</text>
+  </string>
+  <string id="st_knife_m">
+    <text>Nóż wojskowy</text>
+  </string>
+  <string id="st_knife_m_descr">
+    <text>\n \n%c[ui_gray_1]NIEUŻYWANY! Standardowy nóż wojskowy.</text>
+  </string>
+  <string id="st_knife_needle">
+    <text>Nóż NR-40</text>
+  </string>
+  <string id="st_knife_needle_descr">
+    <text>\n \n%c[ui_gray_1]Ten radziecki stalowy nóż ma ostrze długości 152 mm z dużym podparciem palca, czarną drewnianą rękojeść i osłonę w kształcie litery S. Odwrócona osłona odpowiada standardowemu chwytowi radzieckiemu, z ostrzem skierowanym do siebie. Chwyt wzmocniono szorstką tkaniną, aby poprawić pewność trzymania. Nóż jest niewielki i nie zadaje głębokich ran, ale przebija kamizelki kuloodporne.\n \n%c[d_red] • %c[d_red] nie nadaje się do oprawiania dużej zwierzyny</text>
+  </string>
+  <string id="st_knife_nr40">
+    <text>Unikatowy nóż NR-40</text>
+  </string>
+  <string id="st_knife_nr40_descr">
+    <text>\n \n%c[ui_gray_1]NIEUŻYWANY! Bardzo rzadki radziecki nóż wojskowy o znaczeniu historycznym i symbolicznym. Na drewnianej rękojeści znajduje się metalowy emblemat wojsk powietrznodesantowych z czasów Wielkiej Wojny Ojczyźnianej. Takie noże otrzymują stalkerzy za wyjątkowe zasługi, na przykład uratowanie przywódcy frakcji podczas misji. Każdy stalker, który go nosi, zyska szacunek w Zonie.</text>
+  </string>
+  <string id="st_knife_swat">
+    <text>Składany nóż sił specjalnych</text>
+  </string>
+  <string id="st_knife_swat_descr">
+    <text>Składany nóż wyjątkowej jakości, idealny dla zwiadowcy. To śmiercionośna broń i jedyny nóż w Zonie, który równie dobrze przebija kamizelki kuloodporne, jak zadaje poważne rany nieosłoniętemu ciału. Doskonała broń do walki wręcz.</text>
+  </string>
+  <string id="st_trg_sako">
+    <text>Sako TRG-42</text>
+  </string>
+  <string id="st_wpn_9a91">
+    <text>9A-91</text>
+  </string>
+  <string id="st_wpn_9a91_descr">
+    <text>Kompaktowy karabinek 9A-91 opracowano w 1992 roku w Tulskim Biurze Konstrukcyjnym Przyrządów jako nowocześniejszego konkurenta SR-3 Wichr. Działa na zasadzie odprowadzania gazów, a zamek rygluje się przez obrót z czterema ryglami. Mechanizm spustowy kurkowy umożliwia ogień pojedynczy i ciągły. Bezpiecznik-przełącznik znajduje się po lewej stronie nad kabłąkiem; w wersji zmodernizowanej przeniesiono go na prawą stronę, by zrobić miejsce na szynę optyczną. Wczesne modele miały hamulec wylotowy, później usunięty. Kolba składa się do góry i do przodu. Poza plastikowym chwytem i łożem broń wykonano ze stali. Łatwo ją ukryć, a rączka zamkowa jest składana. W odróżnieniu od AK szczelina rączki pozostaje stale otwarta.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, PSO-1M2-01 i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik do 9A-91/VSK-94\n \n</text>
+  </string>
+  <string id="st_wpn_abakan">
+    <text>AN-94</text>
+  </string>
+  <string id="st_wpn_abakan_camo">
+    <text>AN-94 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_abakan_descr">
+    <text>Nikonow AN-94 „Abakan” z 1994 roku bazuje na systemie Kałasznikowa. Jego najważniejszą cechą bojową jest dodatkowy tryb dwustrzałowej serii o wysokiej szybkostrzelności. Odrzut zaczyna oddziaływać na strzelca dopiero po opuszczeniu lufy przez oba pociski, co zwiększa celność i skupienie. Używają go operatorzy sił specjalnych i żołnierze Powinności przeciw wrogom w kamizelkach kuloodpornych na stosunkowo dużym dystansie.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n \n</text>
+  </string>
+  <string id="st_wpn_abakan_worn">
+    <text>Zużyty AN-94</text>
+  </string>
+  <string id="st_wpn_ace21">
+    <text>Galil ACE-21</text>
+  </string>
+  <string id="st_wpn_ace21_descr">
+    <text>Rodzinę karabinków szturmowych Galil ACE opracowuje i produkuje izraelska firma Israel Weapon Industries (IWI). Konstrukcja wywodzi się z Galila, który z kolei bazował na kałasznikowie AK. Seria ACE kładzie nacisk na ergonomię, łatwość obsługi, współpracę z akcesoriami i wszechstronność. Obejmuje trzy najpopularniejsze na świecie naboje —5,56×45 NATO, 7,62×39 M43 i 7,62×51 NATO— oraz kilka długości luf. W porównaniu z wcześniejszymi modelami rączkę zamkową przeniesiono na lewą stronę, by można było przeładować broń bez odrywania prawej dłoni od chwytu. Dodano też zatrzask zamka, zintegrowane szyny Picatinny do optyki i akcesoriów oraz regulowaną kolbę teleskopową.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_aek971">
+    <text>AEK-971</text>
+  </string>
+  <string id="st_wpn_aek971_camo">
+    <text>AEK-971 (kamuflaż Powinności)</text>
+  </string>
+  <string id="st_wpn_aek971_camo_descr">
+    <text>Karabinek szturmowy kalibru 5,45×39 mm opracowany w Zakładach Mechanicznych w Kowrowie pod kierunkiem Stanisława Kokszarowa na bazie konstrukcji SA-006 Konstantinowa. Zrównoważony układ gazowy ułatwia kontrolowanie ognia ciągłego. Produkowano go w małych seriach dla rosyjskiego MSW. Ten model pomalowano na jasnobeżowo z czerwonymi smugami i należy do Powinności. Niektóre mechanizmy dopasowano ręcznie lub wymieniono na bardziej niezawodne. Ciasniejsze spasowanie zwiększyło ciśnienie w lufie, a tym samym prędkość wylotową pocisku.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25\n \n</text>
+  </string>
+  <string id="st_wpn_aek971_descr">
+    <text>Karabinek szturmowy kalibru 5,45×39 mm opracowany w Zakładach Mechanicznych w Kowrowie pod kierunkiem Stanisława Kokszarowa na bazie konstrukcji SA-006 Konstantinowa. Zrównoważony układ gazowy ułatwia kontrolowanie ognia ciągłego. Produkowano go w małych seriach dla rosyjskiego MSW.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25\n \n</text>
+  </string>
+  <string id="st_wpn_aek971_worn">
+    <text>Zużyty AEK-971</text>
+  </string>
+  <string id="st_wpn_aek973">
+    <text>AEK-973</text>
+  </string>
+  <string id="st_wpn_aek973_descr">
+    <text>Karabinek szturmowy kalibru 7,62×39 mm opracowany w Zakładach Mechanicznych w Kowrowie pod kierunkiem Stanisława Kokszarowa na bazie konstrukcji SA-006 Konstantinowa. Zrównoważony układ gazowy ułatwia kontrolowanie ognia ciągłego. Produkowano go w małych seriach dla rosyjskiego MSW.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25\n \n</text>
+  </string>
+  <string id="st_wpn_ak">
+    <text>Karabin szturmowy Kałasznikowa</text>
+  </string>
+  <string id="st_wpn_ak101">
+    <text>AK-101</text>
+  </string>
+  <string id="st_wpn_ak101_camo">
+    <text>AK-101 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_ak101_descr">
+    <text>AK-101 to eksportowa odmiana podstawowego karabinu AK-74M rosyjskiej armii z „setnej” serii Kałasznikowa. Jego główną i w praktyce jedyną różnicą względem AK-74M jest kaliber: używa amunicji NATO 5,56×45 mm i pasujących magazynków; poza tym karabiny są identyczne.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, EOTech, Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik ATG\n \n</text>
+  </string>
+  <string id="st_wpn_ak102">
+    <text>AK-102</text>
+  </string>
+  <string id="st_wpn_ak102_descr">
+    <text>Kompaktowy karabinek Kałasznikowa z „setnej” serii, oparty na pełnowymiarowym AK-101, wywodzącym się ze standardowego AK-74M rosyjskiej armii. Ma skróconą lufę ze specjalnym tłumikiem płomienia, a podziałka celownika sięga 500 metrów zamiast 1000. Wyposażono go w składaną na bok polimerową kolbę i standardową szynę optyczną po lewej stronie komory zamkowej.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, EOTech, Cobra EKP-1S-03 i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik ATG\n \n</text>
+  </string>
+  <string id="st_wpn_ak103">
+    <text>AK-103</text>
+  </string>
+  <string id="st_wpn_ak103_camo">
+    <text>AK-103 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_ak103_descr">
+    <text>AK-103 to eksportowa odmiana podstawowego AK-74M rosyjskiej armii z „setnej” serii Kałasznikowa. Główną różnicą jest kaliber: używa amunicji M43 7,62×39 mm i pasujących magazynków, także ze starszych karabinów AK/AKM; poza tym karabiny są identyczne.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik ATG\n \n</text>
+  </string>
+  <string id="st_wpn_ak104">
+    <text>AK-104</text>
+  </string>
+  <string id="st_wpn_ak104_descr">
+    <text>Kompaktowy karabinek Kałasznikowa z „setnej” serii, oparty na pełnowymiarowym AK-103, wywodzącym się ze standardowego AK-74M rosyjskiej armii. Ma skróconą lufę ze specjalnym tłumikiem płomienia, a podziałka celownika sięga 500 metrów zamiast 1000. Wyposażono go w składaną na bok polimerową kolbę i standardową szynę optyczną po lewej stronie komory zamkowej.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik ATG\n \n</text>
+  </string>
+  <string id="st_wpn_ak105">
+    <text>AK-105</text>
+  </string>
+  <string id="st_wpn_ak105_descr">
+    <text>Kompaktowy karabinek Kałasznikowa z „setnej” serii, oparty na pełnowymiarowym AK-74M, wywodzącym się ze standardowego AK-74M rosyjskiej armii. Ma skróconą lufę ze specjalnym tłumikiem płomienia, a podziałka celownika sięga 500 metrów zamiast 1000. Wyposażono go w składaną na bok polimerową kolbę i standardową szynę optyczną po lewej stronie komory zamkowej.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik ATG\n \n</text>
+  </string>
+  <string id="st_wpn_ak12">
+    <text>AK-12</text>
+  </string>
+  <string id="st_wpn_ak12_descr">
+    <text>AK-12 to karabin szturmowy Kałasznikowa z 2012 roku. Jego elementy sterujące gruntownie przeprojektowano z myślą o wygodzie: zmieniono przełącznik bezpiecznika i trybu ognia oraz dodano jego kopię po lewej stronie; wprowadzono też zatrzask zamka z przyciskami po obu stronach. Kolejną nowością są szyny Picatinny. W porównaniu z AK-74M kal. 5,45×39 mm i AKM kal. 7,62×39 mm AK-12 ma lepszą ergonomię. Prace poprawiły celność i niezawodność mechanizmów oraz wydłużyły trwałość broni. Zastosowano długoskokowy tłok gazowy i zamek obrotowy; zespół zamka i mechanizm spustowy znacznie ulepszono względem AK-74. Karabin ma nową polimerową kolbę teleskopową, składaną na obie strony i regulowaną na długość oraz wysokość poduszki policzkowej. Oś lufy znajduje się w jednej linii z kolbą, jak w karabinach AR-15, co zmniejsza ramię odrzutu i poprawia celność.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25
+%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_ak74">
+    <text>AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_alt">
+    <text>AK-74 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_ak74_custom">
+    <text>Niestandardowy AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_descr">
+    <text>Karabinek szturmowy Kałasznikowa kalibru 5,45×39 mm, zaprojektowany przez Michaiła Kałasznikowa w 1970 roku i przyjęty do uzbrojenia sił zbrojnych ZSRR w 1974 roku. Jest rozwinięciem AKM, powstałym w związku z wprowadzeniem nowego naboju 5,45×39 mm o małym impulsie.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_eot">
+    <text>AK-74 „EOTech”</text>
+  </string>
+  <string id="st_wpn_ak74_eot_descr">
+    <text>Karabinek szturmowy Kałasznikowa kalibru 5,45×39 mm, zaprojektowany przez Michaiła Kałasznikowa w 1970 roku i przyjęty do uzbrojenia sił zbrojnych ZSRR w 1974 roku. Jest rozwinięciem AKM, powstałym w związku z wprowadzeniem nowego naboju 5,45×39 mm o małym impulsie. zintegrowany celownik kolimatorowy EOTech i powiększony magazynek na 45 nabojów.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik kolimatorowy EOTech i powiększony magazynek na 45 nabojów\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_modern">
+    <text>Zmodernizowany AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_old">
+    <text>AK-74 (stary)</text>
+  </string>
+  <string id="st_wpn_ak74_old_descr">
+    <text>Karabinek szturmowy Kałasznikowa kalibru 5,45×39 mm, zaprojektowany przez Michaiła Kałasznikowa w 1970 roku i przyjęty do uzbrojenia sił zbrojnych ZSRR w 1974 roku. Jest rozwinięciem AKM, powstałym w związku z wprowadzeniem nowego naboju 5,45×39 mm o małym impulsie.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_red] • %c[d_red] Nie można zamontować celownika z powodu braku mocowania typu jaskółczy ogon.\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_rusty">
+    <text>Zardzewiały AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_rusty_descr">
+    <text>Karabinek szturmowy Kałasznikowa kalibru 5,45×39 mm, zaprojektowany przez Michaiła Kałasznikowa w 1970 roku i przyjęty do uzbrojenia sił zbrojnych ZSRR w 1974 roku. Jest rozwinięciem AKM, powstałym w związku z wprowadzeniem nowego naboju 5,45×39 mm o małym impulsie.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[d_red] nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_ak74_worn">
+    <text>Zużyty AK-74</text>
+  </string>
+  <string id="st_wpn_ak74m">
+    <text>AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_alt">
+    <text>AK-74M (alternatywny)</text>
+  </string>
+  <string id="st_wpn_ak74m_camo">
+    <text>AK-74M w kamuflażu</text>
+  </string>
+  <string id="st_wpn_ak74m_custom">
+    <text>Niestandardowy AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_descr">
+    <text>W połowie lat 80. konstruktorzy Iżewskiej Fabryki Maszyn opracowali kilka modeli uniwersalnego, zmodernizowanego karabinu Kałasznikowa: A-60 i A-61. Na ich bazie powstał udany AK-74M kalibru 5,45×39 mm. Jego konstrukcja niemal powtarza AK-74 i nie różni się zasadniczo wewnętrzną budową. Zachowuje najlepsze cechy karabinów Kałasznikowa, dodając ulepszenia parametrów bojowych i użytkowych. AK-74M realizuje ideę uniwersalnego karabinu, który zastąpił cztery modele: AK-74, AK-74N, AKS-74 i AKS-74N.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_ak74m_duty">
+    <text>AK-74M w kamuflażu Powinności</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a">
+    <text>AK-74M PK-A</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a_descr">
+    <text>W połowie lat 80. konstruktorzy Iżewskiej Fabryki Maszyn opracowali kilka modeli uniwersalnego, zmodernizowanego karabinu Kałasznikowa: A-60 i A-61. Na ich bazie powstał udany AK-74M kalibru 5,45×39 mm. Jego konstrukcja niemal powtarza AK-74 i nie różni się zasadniczo wewnętrzną budową. Zachowuje najlepsze cechy karabinów Kałasznikowa, dodając ulepszenia parametrów bojowych i użytkowych. AK-74M realizuje ideę uniwersalnego karabinu, który zastąpił cztery modele: AK-74, AK-74N, AKS-74 i AKS-74N. Zintegrowany celownik kolimatorowy PK-A zamontowano na uchwycie MTK-83.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik kolimatorowy PK-A zamontowano na uchwycie MTK-83\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_ak74m_worn">
+    <text>Zużyty AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74u">
+    <text>AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_camo">
+    <text>AKS-74U w kamuflażu</text>
+  </string>
+  <string id="st_wpn_ak74u_custom">
+    <text>Niestandardowy AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_descr">
+    <text>Skrócony AKS-74U opracowano jako podstawową broń wojsk specjalnych, wojsk powietrznodesantowych i innych jednostek specjalnych, a także załóg pojazdów opancerzonych potrzebujących kompaktowej, lecz mocnej broni automatycznej. Jest znacznie poręczniejszy w ciasnych pomieszczeniach i pojazdach niż pełnowymiarowy AKS-74, ale krótka lufa i znacznie mniejsza prędkość początkowa pocisku ograniczają zasięg skuteczny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik PBS-4\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_old">
+    <text>Stary AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_old_descr">
+    <text>Skrócony AKS-74U opracowano jako podstawową broń wojsk specjalnych, wojsk powietrznodesantowych i innych jednostek specjalnych, a także załóg pojazdów opancerzonych potrzebujących kompaktowej, lecz mocnej broni automatycznej. Jest znacznie poręczniejszy w ciasnych pomieszczeniach i pojazdach niż pełnowymiarowy AKS-74, ale krótka lufa i znacznie mniejsza prędkość początkowa pocisku ograniczają zasięg skuteczny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_red] • %c[d_red] Nie można zamontować celownika z powodu braku mocowania typu jaskółczy ogon.\n%c[d_purple] • %c[ui_gray_2] tłumik PBS-4\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty">
+    <text>Zardzewiały AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty_descr">
+    <text>Skrócony AKS-74U opracowano jako podstawową broń wojsk specjalnych, wojsk powietrznodesantowych i innych jednostek specjalnych, a także załóg pojazdów opancerzonych potrzebujących kompaktowej, lecz mocnej broni automatycznej. Jest znacznie poręczniejszy w ciasnych pomieszczeniach i pojazdach niż pełnowymiarowy AKS-74, ale krótka lufa i znacznie mniejsza prędkość początkowa pocisku ograniczają zasięg skuteczny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_red] • %c[d_red] Nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_snag">
+    <text>AKS-74U Koryagi</text>
+  </string>
+  <string id="st_wpn_ak74u_snag_descr">
+    <text>Skrócony AKS-74U opracowano jako podstawową broń wojsk specjalnych, wojsk powietrznodesantowych i innych jednostek specjalnych, a także załóg pojazdów opancerzonych potrzebujących kompaktowej, lecz mocnej broni automatycznej. Jest znacznie poręczniejszy w ciasnych pomieszczeniach i pojazdach niż pełnowymiarowy AKS-74, ale krótka lufa i znacznie mniejsza prędkość początkowa pocisku ograniczają zasięg skuteczny. Ten egzemplarz należał wcześniej do stalkera Snaga.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik kolimatorowy Cobra EKP-1S-03\n%c[d_purple] • %c[ui_gray_2] zintegrowany tłumik PBS-4\n \n</text>
+  </string>
+  <string id="st_wpn_ak74u_worn">
+    <text>Zużyty AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak_descr">
+    <text>Karabin szturmowy Kałasznikowa AK kalibru 7,62 mm przyjęto do uzbrojenia ZSRR w 1949 roku. AK i jego odmiany należą do najpowszechniejszej broni palnej na świecie. Szacuje się, że ta rodzina — wraz z kopiami licencjonowanymi i nielegalnymi oraz konstrukcjami pochodnymi — stanowi nawet jedną piątą całej broni strzeleckiej na Ziemi.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n%c[d_red] • %c[d_red] Nie można zamontować celownika z powodu braku mocowania typu jaskółczy ogon.\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_akm">
+    <text>AKM</text>
+  </string>
+  <string id="st_wpn_akm_descr">
+    <text>AKM (zmodernizowany karabin szturmowy Kałasznikowa) to ulepszona wersja AK. Choć w 1970 roku w wojskach radzieckich zastąpił go AK-74, AKM pozostaje najczęściej używanym na świecie wariantem tej rodziny broni.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_akm_worn">
+    <text>Zużyty AKM</text>
+  </string>
+  <string id="st_wpn_akms">
+    <text>AKMS</text>
+  </string>
+  <string id="st_wpn_akms_alt">
+    <text>AKMS (alternatywny)</text>
+  </string>
+  <string id="st_wpn_akms_descr">
+    <text>AKMS to wariant AKM ze składaną kolbą. Mocowanie kolby różni się od rozwiązania AKS: składa się ona w dół i do przodu pod komorę zamkową. Wersję opracowano specjalnie dla spadochroniarzy.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_akms_worn">
+    <text>Zużyty AKMS</text>
+  </string>
+  <string id="st_wpn_aks">
+    <text>AKS</text>
+  </string>
+  <string id="st_wpn_aks74">
+    <text>AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_descr">
+    <text>AK-74 jest celniejszy i niezawodniejszy od AKM i nadal służy w większości państw byłego ZSRR. AKS-74 ma składaną metalową kolbę i jest przeznaczony głównie dla piechoty desantowo-szturmowej. W Strefie to podstawowa broń stalkerów wojskowych i wielu samotników.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_aks74_new">
+    <text>Nowy AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_rusty">
+    <text>Zardzewiały AKS-74</text>
+  </string>
+  <string id="st_wpn_aks74_rusty_descr">
+    <text>AK-74 jest celniejszy i niezawodniejszy od AKM i nadal służy w większości państw byłego ZSRR. AKS-74 ma składaną metalową kolbę i jest przeznaczony głównie dla piechoty desantowo-szturmowej. W Strefie to podstawowa broń stalkerów wojskowych i wielu samotników.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_red] • %c[d_red] Nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_aks74_worn">
+    <text>Zużyty AKS-74</text>
+  </string>
+  <string id="st_wpn_aks_descr">
+    <text>AKS to odmiana AK ze składaną metalową kolbą, przeznaczona dla wojsk powietrznodesantowych. Przyjęto go do uzbrojenia równocześnie z AK. Początkowo miał tłoczoną komorę; od 1951 roku stosowano frezowaną z powodu dużego odsetka wad tłoczenia.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n%c[d_red] • %c[d_red] Nie można zamontować celownika z powodu braku mocowania typu jaskółczy ogon.\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany GP-25 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_apb">
+    <text>APB</text>
+  </string>
+  <string id="st_wpn_apb_descr">
+    <text>APB (cichy pistolet automatyczny) to wyciszona odmiana pistoletu APS. Przeszedł próby i został przyjęty do uzbrojenia w 1972 roku; początkowo używały go radzieckie siły specjalne, a później jednostki specjalne byłych państw ZSRR. Szeroko i skutecznie stosowano go podczas konfliktu w Afganistanie oraz lokalnych konfliktów na terenach byłego ZSRR. Z zamontowaną kolbą i tłumikiem często noszono go na pasie naramiennym jako broń główną. Niewiele różni się od standardowego APS.\n \n</text>
+  </string>
+  <string id="st_wpn_aps">
+    <text>APS</text>
+  </string>
+  <string id="st_wpn_aps_descr">
+    <text>Pistolet zaprojektowany przez Igora Stieczkina pod koniec lat 40. i na początku lat 50., przyjęty do uzbrojenia sił zbrojnych ZSRR w 1951 roku, równocześnie z pistoletem Makarowa. APS przeznaczono dla oficerów bezpośrednio uczestniczących w walkach oraz żołnierzy i sierżantów niektórych jednostek specjalnych.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] tłumik APS\n \n</text>
+  </string>
+  <string id="st_wpn_aps_worn">
+    <text>Zużyty APS</text>
+  </string>
+  <string id="st_wpn_ash12">
+    <text>ASz-12</text>
+  </string>
+  <string id="st_wpn_ash12_descr">
+    <text>Wielkokalibrowy karabin szturmowy ASH-12 kalibru 12,7 mm opracowano w TsKIB SOO dla jednostek specjalnych rosyjskiej FSB, równolegle z karabinem wyborowym VSSK. To system broń-amunicja: TsKIB SOO zaprojektowało dla niego nowy nabój SC-130 kalibru 12,7×55 mm. Zapewnia on dużą siłę obalającą w starciach na krótkim dystansie, np. w mieście i podczas szturmu pomieszczeń, a szybki spadek energii pocisku wraz z odległością zmniejsza ryzyko dla osób postronnych. Pierwsze dostawy dla odbiorcy zrealizowano pod koniec 2011 roku.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-More Railway Tactical i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_aug">
+    <text>Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_a3">
+    <text>Steyr AUG A3</text>
+  </string>
+  <string id="st_wpn_aug_a3_descr">
+    <text>Steyr AUG (Armee Universal Gewehr, „uniwersalny karabin wojskowy”) to system broni strzeleckiej wprowadzony w 1977 roku przez austriacką firmę Steyr-Daimler-Puch. Ma układ bullpup, w którym magazynek i zamek znajdują się za chwytem sterowania ogniem i spustem. Producent: Steyr Mannlicher GmbH &amp; Co KG. W AUG A3 zintegrowane mocowanie optyki ze starszych modeli zastąpiono szyną Picatinny, umożliwiającą montaż niemal dowolnego celownika optycznego, noktowizyjnego lub kolimatorowego, modułów celowniczych i zwykłych przyrządów mechanicznych. Szyny Picatinny zastąpiły też składaną przednią rękojeść, pozwalając montować różne chwyty, latarki taktyczne, wskaźniki laserowe, a nawet podwieszane granatniki 40 mm.
+ 
+%c[ui_gray_2]AKCESORIA: 
+%c[d_purple] • %c[ui_gray_2] tłumik NATO
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-More Railway Tactical i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_aug_custom">
+    <text>Niestandardowa Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_descr">
+    <text>Steyr AUG A1 w standardowej konfiguracji ze stałym celownikiem optycznym 1,5×. AUG (Armee Universal Gewehr, „uniwersalny karabin wojskowy”) to austriacki karabin szturmowy 5,56 mm w układzie bullpup, opracowany w latach 60. przez Steyr Mannlicher GmbH &amp; Co KG. W 1978 roku przyjęto go jako standardową broń armii austriackiej pod oznaczeniem StG 77, zastępując 7,62-mm StG 58 (licencyjny FN FAL). Karabin i jego odmiany przyjęły też armie Argentyny, Australii, Malezji, Nowej Zelandii, Boliwii, Ekwadoru, Irlandii, Luksemburga, Arabii Saudyjskiej, Tunezji i Pakistanu oraz amerykańska straż graniczna.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik 1,5×\n \n</text>
+  </string>
+  <string id="st_wpn_aug_freedom">
+    <text>Steyr AUG A1 w kamuflażu Wolności</text>
+  </string>
+  <string id="st_wpn_aug_merc">
+    <text>Zmodyfikowana Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_modern">
+    <text>Zmodernizowana Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_aug_modern_descr">
+    <text>Steyr AUG A1 w standardowej konfiguracji ze stałym celownikiem optycznym o powiększeniu 1,5×. AUG (Armee Universal Gewehr — „uniwersalny karabin wojskowy”) to austriacki karabin szturmowy kalibru 5,56 mm w układzie bullpup, opracowany w latach 60. XX wieku przez Steyr Mannlicher GmbH &amp; Co KG. W 1978 roku przyjęto go do uzbrojenia armii austriackiej jako standardową broń strzelecką pod oznaczeniem StG 77, zastępując karabin automatyczny StG 58 kalibru 7,62 mm (FN FAL produkowany na licencji). Karabin i jego warianty przyjęły do uzbrojenia także siły zbrojne Argentyny, Australii, Malezji, Nowej Zelandii, Boliwii, Ekwadoru, Irlandii, Luksemburga, Arabii Saudyjskiej, Tunezji i Pakistanu oraz amerykańska straż graniczna. Ten model zmodernizowano do używania standardowego naboju NATO 7,62×51.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik 1,5×\n \n</text>
+  </string>
+  <string id="st_wpn_aug_worn">
+    <text>Zużyta Steyr AUG A1</text>
+  </string>
+  <string id="st_wpn_beretta">
+    <text>Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_alt">
+    <text>Beretta 92F (alternatywna)</text>
+  </string>
+  <string id="st_wpn_beretta_camo">
+    <text>Beretta 92F w kamuflażu</text>
+  </string>
+  <string id="st_wpn_beretta_descr">
+    <text>Beretta 92F to prawdopodobnie najbardziej znany pistolet amerykańskich wojskowych, który zastąpił legendarny M1911. Działa na zasadzie krótkiego odrzutu lufy z jej przekoszeniem, ma szkielet ze stopu aluminium i chromowany przewód lufy. Jest bardzo popularny i został przyjęty przez wiele państw.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_beretta_modern">
+    <text>Zmodernizowana Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_rusty">
+    <text>Zardzewiała Beretta 92F</text>
+  </string>
+  <string id="st_wpn_beretta_rusty_descr">
+    <text>Beretta 92F to prawdopodobnie najbardziej znany pistolet amerykańskich wojskowych, który zastąpił legendarny M1911. Działa na zasadzie krótkiego odrzutu lufy z jej przekoszeniem, ma szkielet ze stopu aluminium i chromowany przewód lufy. Jest bardzo popularny i został przyjęty przez wiele państw.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_red] • %c[d_red] Nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_beretta_worn">
+    <text>Zużyta Beretta 92F</text>
+  </string>
+  <string id="st_wpn_bizon">
+    <text>Pistolet maszynowy PP-19 „Bizon”</text>
+  </string>
+  <string id="st_wpn_bizon_descr">
+    <text>W 1993 roku Kałasznikow i młodszy Dragunow zbudowali pierwszy wariant nowego pistoletu maszynowego PP-19 Bizon. Zaprojektowano go do nabojów Makarowa 9×18 mm, standardowych i zmodernizowanych o zwiększonym impulsie. Wyróżnia go ślimakowy magazynek pod lufą na 64 naboje. PP-19 działa na zasadzie odrzutu swobodnego zamka; mechanizm spustowy z kurkiem i bezpiecznik zapożyczono z AK-74. Strzelanie z zamka zamkniętego poprawia celność pojedynczych strzałów. Pierwotny model ma przyrządy celownicze takie jak AKS-74U.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 „Tulipan” i PSO-1M\n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n \n</text>
+  </string>
+  <string id="st_wpn_bm16">
+    <text>Obrzyn TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_alt">
+    <text>Ulepszony obrzyn TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_descr">
+    <text>Gdy potrzebna jest tania, skuteczna i zabójcza broń na bliski dystans, wielu początkujących stalkerów obcina kolbę i lufy łatwo dostępnej dwulufowej strzelby TOZ-66. Dzięki temu broń jest lekka i poręczna, ale traci celność i zasięg.\n \n</text>
+  </string>
+  <string id="st_wpn_bm16_full">
+    <text>TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_alt">
+    <text>TOZ-66 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_bm16_full_descr">
+    <text>TOZ-66 to mocna, niezawodna i skuteczna strzelba dostępna dla każdego stalkera. Jest jednak duża i nieporęczna, dlatego wielu woli wydać ciężko zarobione pieniądze na nowoczesny pistolet.\n \n</text>
+  </string>
+  <string id="st_wpn_bm16_full_rusty">
+    <text>Zardzewiały TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_worn">
+    <text>Zużyty TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_rusty">
+    <text>Zardzewiały obrzyn TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_worn">
+    <text>Zużyty obrzyn TOZ-66</text>
+  </string>
+  <string id="st_wpn_colt1911">
+    <text>Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_alt">
+    <text>Colt M1911 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_colt1911_camo">
+    <text>Colt M1911 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_colt1911_camo_descr">
+    <text>M1911 służył w amerykańskich siłach zbrojnych w latach 1911–1985. Niezwykle niezawodny i wytrzymały pistolet był używany na całym świecie przez wojsko i policję, a także do cywilnej samoobrony. Do dziś pozostaje popularny. Ten egzemplarz pomalowano na ciemny beż z czerwonymi smugami.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_custom">
+    <text>Niestandardowy Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_descr">
+    <text>M1911 służył w amerykańskich siłach zbrojnych w latach 1911–1985. Niezwykle niezawodny i wytrzymały pistolet był używany na całym świecie przez wojsko i policję, a także do cywilnej samoobrony. Do dziś pozostaje popularny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_duty">
+    <text>Colt M1911 w kamuflażu Powinności</text>
+  </string>
+  <string id="st_wpn_colt1911_duty_descr">
+    <text>M1911 służył w amerykańskich siłach zbrojnych w latach 1911–1985. Niezwykle niezawodny i wytrzymały pistolet był używany na całym świecie przez wojsko i policję, a także do cywilnej samoobrony. Do dziś pozostaje popularny. Ten egzemplarz ma większą siłę obalającą i kamuflaż w barwach Powinności.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_merc">
+    <text>Colt M1911 w kamuflażu najemników</text>
+  </string>
+  <string id="st_wpn_colt1911_merc_descr">
+    <text>M1911 służył w amerykańskich siłach zbrojnych w latach 1911–1985. Niezwykle niezawodny i wytrzymały pistolet był używany na całym świecie przez wojsko i policję, a także do cywilnej samoobrony. Do dziś pozostaje popularny. W porównaniu ze zwykłym M1911 ten pistolet jest celniejszy, a jego lufa ma większą trwałość.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_modern">
+    <text>Zmodernizowany Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_new">
+    <text>Nowy Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty">
+    <text>Zardzewiały Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty_descr">
+    <text>M1911 służył w amerykańskich siłach zbrojnych w latach 1911–1985. Niezwykle niezawodny i wytrzymały pistolet był używany na całym świecie przez wojsko i policję, a także do cywilnej samoobrony. Do dziś pozostaje popularny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_red] • %c[d_red] Nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_colt1911_worn">
+    <text>Zużyty Colt M1911</text>
+  </string>
+  <string id="st_wpn_colt_kimber">
+    <text>Colt „Kimber Desert Warrior”</text>
+  </string>
+  <string id="st_wpn_colt_kimber_descr">
+    <text>Ulepszony Colt M1911A1 firmy Kimber. Działa na zasadzie krótkiego odrzutu lufy, a ryglowanie odbywa się przez jej obniżenie. „Desert Warrior” opracowano do operacji specjalnych Korpusu Piechoty Morskiej USA.\n \n</text>
+  </string>
+  <string id="st_wpn_cz52">
+    <text>CZ 52</text>
+  </string>
+  <string id="st_wpn_cz52_descr">
+    <text>Na wniosek Sztabu Generalnego Czechosłowacji Ceskoslovenska Zbrojovka rozpoczęła w 1946 roku prace nad CZ 52. Prototypy testowały amunicję 9×19 mm i mechanizmy Browninga oraz ryglowanie zamka; najlepszy okazał się CZ 482, na którym oparto próby CZ 491 w latach 1949–1950. \nPo standaryzacji amunicji w 1951 roku pistolet dostosowano do radzieckiego naboju TT 7,62×25 mm, oznaczono CZ 513 i przyjęto jako CZ 52. \nDziała na zasadzie krótkiego odrzutu lufy. Mimo dużej siły ognia jego konstrukcja i ergonomia chwytu są mniej udane niż w innych krajowych pistoletach.\n \n</text>
+  </string>
+  <string id="st_wpn_cz75">
+    <text>CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_auto">
+    <text>CZ-75 Automatic</text>
+  </string>
+  <string id="st_wpn_cz75_auto_descr">
+    <text>CZ-75 Auto to w pełni automatyczny model z 1992 roku, z lufą wydłużoną do 150 mm i możliwością prowadzenia ognia seriami.</text>
+  </string>
+  <string id="st_wpn_cz75_custom">
+    <text>Niestandardowy CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_descr">
+    <text>CZ 75 to pistolet opracowany w Czechosłowacji w 1975 roku, który zdobył światową popularność. Zaprojektowali go Josef i František Kouccy w Uherskim Brodzie. Produkcja seryjna ruszyła w 1977 roku. Mechanizm działa na zasadzie krótkiego odrzutu: lufa przechyla się w dół, aby odryglować zamek. Konstrukcja Charlesa Pettera wykorzystuje wewnętrzne prowadnice szkieletu zamiast zewnętrznych. Rowki biegną przez całą jego długość, stabilizują ruch zamka niemal bez luzu i zapewniają wysoką celność. Pistolet zdobył popularność w służbach specjalnych Czechosłowacji i innych państw Układu Warszawskiego, w tym KGB ZSRR, ponieważ jego właściwości bojowe i użytkowe znacznie przewyższały TT i standardowy PM.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n \n</text>
+  </string>
+  <string id="st_wpn_cz75_worn">
+    <text>Zużyty CZ-75</text>
+  </string>
+  <string id="st_wpn_desert_eagle">
+    <text>Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_custom">
+    <text>Niestandardowy Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_descr">
+    <text>Desert Eagle firmy Magnum Research wykorzystuje mechanizm gazowy typowy dla karabinów, dzięki czemu strzela pociskami większego kalibru niż tradycyjne pistolety samopowtarzalne. Jest jednak duży i ciężki.\n \n</text>
+  </string>
+  <string id="st_wpn_desert_eagle_modern">
+    <text>Zmodernizowany Desert Eagle</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble">
+    <text>Desert Eagle „Orzeł stepowy”</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble_descr">
+    <text>Desert Eagle, opracowany przez amerykańską firmę Magnum Research, wykorzystuje układ gazowy typowy dla karabinów. Dzięki temu może strzelać pociskami o znacznie większym kalibrze niż tradycyjne pistolety samopowtarzalne. Jego wadami są znaczne rozmiary i masa. W tym egzemplarzu wszystkie podzespoły dostrojono, aby zapewnić wyjątkową celność jak na pistolet tego typu, a zintegrowany kompensator wylotowy znacznie ogranicza odrzut. Broń przyniósł do Strefy stalker Logan Williams. Przebrany za dziennikarza-fotografa zdołał samotnie dotrzeć do centrum Prypeci. Jego los jest nieznany, choć krążą pogłoski, że pracuje jako informator dla wielu tajnych służb w sprawach Strefy Wykluczenia.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik kolimatorowy Docter Sight\n \n</text>
+  </string>
+  <string id="st_wpn_desert_eagle_worn">
+    <text>Zużyty Desert Eagle</text>
+  </string>
+  <string id="st_wpn_fal">
+    <text>FN FAL</text>
+  </string>
+  <string id="st_wpn_fal_descr">
+    <text>FN FAL, produkowany w Belgii przez Fabrique Nationale de Herstal, należy do najbardziej znanych i rozpowszechnionych karabinów automatycznych świata. Początkowo opracowano go na niemiecki nabój pośredni 7,92x33 mm z II wojny światowej, a później powstały prototypy na brytyjski .280. Następnie dostosowano go do 7,62x51 mm NATO, wspólnego naboju państw Sojuszu. W czasie zimnej wojny zyskał przydomek prawego ramienia wolnego świata.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-More Railway Tactical i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_famas3">
+    <text>FAMAS G2</text>
+  </string>
+  <string id="st_wpn_famas3_descr">
+    <text>FAMAS G2 z 1994 roku różni się od FAMAS F1 głównie komorą dostosowaną do magazynków M16 zgodnych z NATO STANAG i skokiem gwintu lufy. Ma najwyższą szybkostrzelność wśród karabinów w Strefie.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_flamewerfer">
+    <text>Miotacz ognia</text>
+  </string>
+  <string id="st_wpn_flamewerfer_descr">
+    <text>Domowej roboty miotacz ognia, podatny na częste awarie i o niewielkim zasięgu. Jego niezwykle osobliwa konstrukcja każe zastanowić się nad równowagą psychiczną stalkera, który złożył to ustrojstwo.</text>
+  </string>
+  <string id="st_wpn_fn2000">
+    <text>FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_camo">
+    <text>FN F2000 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_fn2000_custom">
+    <text>Zmodyfikowany FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_descr">
+    <text>Ten futurystycznie wyglądający belgijski karabin FN Herstal jest produkowany seryjnie. Mimo masywnego wyglądu jest ergonomiczny, wygodny w każdym trybie ognia i niezawodny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celownik zintegrowany\n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n \n</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble">
+    <text>FN F2000 „EOTech”</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble_descr">
+    <text>Ten futurystyczny belgijski karabin jest ergonomiczny i niezawodny mimo masywnej sylwetki. W tym modelu standardowy celownik optyczny zastąpiono kolimatorem EOTech, co wyraźnie wpłynęło na celność. Większa szybkostrzelność wskazuje na konfigurację do walki z bliska.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik kolimatorowy EOTech\n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n \n</text>
+  </string>
+  <string id="st_wpn_fn2000_worn">
+    <text>Zużyty FN F2000</text>
+  </string>
+  <string id="st_wpn_fn57">
+    <text>FN Five-seveN</text>
+  </string>
+  <string id="st_wpn_fn57_descr">
+    <text>FN Five-seveN to pistolet samopowtarzalny zaprojektowany i produkowany przez belgijską Fabrique Nationale de Herstal. Nazwa łączy „Five-seveN” (kaliber 5,7 mm, równy .224) z inicjałami firmy FN. To pełnowymiarowy pistolet z półswobodnym zamkiem, na amunicję 5,7×28 mm, szeroko wykorzystujący polimery. Zyskuje popularność na rynku cywilnym i jest ceniony przez siły specjalne.\n \n</text>
+  </string>
+  <string id="st_wpn_fnc">
+    <text>FN FNC</text>
+  </string>
+  <string id="st_wpn_fnc_descr">
+    <text>Belgijski karabin opracowany i wprowadzony przez Fabrique Nationale de Herstal w 1976 roku jako następca przestarzałego FN FAL, po niepowodzeniu pierwszego FN CAL na nabój NATO 5,56 mm. Trzy lata później przyjęła go armia belgijska. Późniejsze drobne zmiany powiększyły kabłąk spustowy i dodały nacięcia na chwycie. Ponieważ rynek karabinów szturmowych był już nasycony, FNC nie zdobył szerokiej popularności.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n \n\n \n
+		</text>
+  </string>
+  <string id="st_wpn_fnp45">
+    <text>FNP-45</text>
+  </string>
+  <string id="st_wpn_fnp45_custom">
+    <text>FNP-45 na zamówienie</text>
+  </string>
+  <string id="st_wpn_fnp45_descr">
+    <text>FN FNP-45 to pistolet samopowtarzalny opracowany przez FNH-USA, amerykański oddział belgijskiej firmy FN Herstal. Działa na zasadzie krótkiego odrzutu lufy. Pojedynczy występ ryglujący z tyłu lufy wchodzi w okno wyrzutowe zamka; odryglowanie obniża lufę przez krzywkę typu Browning współpracującą ze stalową wkładką w szkielecie. Szkielet wykonano z odpornego na uderzenia polimeru, a zamek ze stali nierdzewnej. Łączy sprawdzone rozwiązania z nowoczesną konstrukcją i materiałami.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik GemTech\n \n</text>
+  </string>
+  <string id="st_wpn_fnp45_worn">
+    <text>Zużyty FNP-45</text>
+  </string>
+  <string id="st_wpn_fnx45">
+    <text>FNX-45 Tactical</text>
+  </string>
+  <string id="st_wpn_fnx45_alt">
+    <text>FNX-45 Tactical (alternatywny)</text>
+  </string>
+  <string id="st_wpn_fnx45_custom">
+    <text>FNX-45 Tactical na zamówienie</text>
+  </string>
+  <string id="st_wpn_fnx45_descr">
+    <text>Pistolety FNX produkuje w USA firma FNH USA, amerykański oddział belgijskiej FN Herstal. Opracowano je w latach 2007–2009 na potrzeby programu US Joint Combat Pistol Program, który miał stworzyć nowy pistolet dla sił zbrojnych USA. Program nie zakończył się sukcesem, lecz pistolety trafiły do produkcji na rynki policyjne i cywilne w USA oraz za granicą. FNX działa na zasadzie krótkiego odrzutu lufy z jej przekoszeniem. Krzywkowe wycięcie pod lufą współpracuje z wkładką szkieletu, ryglując i odryglowując zamek; górny występ lufy zahacza o okno wyrzutowe zamka.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik kolimatorowy FNX Tactical\n%c[d_purple] • %c[ui_gray_2] zintegrowany tłumik GemTech\n \n</text>
+  </string>
+  <string id="st_wpn_fort">
+    <text>Fort-17</text>
+  </string>
+  <string id="st_wpn_fort500">
+    <text>Fort-500</text>
+  </string>
+  <string id="st_wpn_fort500_descr">
+    <text>Strzelbę powtarzalną Fort-500 opracowało pod koniec lat 90. ukraińskie stowarzyszenie Fort przy Ministerstwie Spraw Wewnętrznych, z myślą o policji i służbach bezpieczeństwa. Obecnie jest używana w ograniczonej liczbie przez specjalne jednostki MSW i sprzedawana cywilom w wersji myśliwskiej.\n \n</text>
+  </string>
+  <string id="st_wpn_fort_descr">
+    <text>Fort-17 to ukraiński pistolet samopowtarzalny na nabój 9×18 mm PM. Opracowano go wiosną 2004 roku; produkuje go stowarzyszenie badawczo-produkcyjne Fort. To odmiana Fort-12 z odpornym na uderzenia poliamidowym szkieletem wzmacnianym włóknem szklanym, zdejmowaną okładziną chwytu dopasowywaną do dłoni strzelca i szyną Picatinny pod lufą. Polimery zmniejszają masę, upraszczają produkcję i obniżają jej koszt.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n \n</text>
+  </string>
+  <string id="st_wpn_fort_rusty">
+    <text>Zardzewiały Fort-17</text>
+  </string>
+  <string id="st_wpn_fort_rusty_descr">
+    <text>Fort-17 to ukraiński pistolet samopowtarzalny na nabój 9×18 mm PM. Opracowano go wiosną 2004 roku; produkuje go stowarzyszenie badawczo-produkcyjne Fort. To odmiana Fort-12 z odpornym na uderzenia poliamidowym szkieletem wzmacnianym włóknem szklanym, zdejmowaną okładziną chwytu dopasowywaną do dłoni strzelca i szyną Picatinny pod lufą. Polimery zmniejszają masę, upraszczają produkcję i obniżają jej koszt.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_red] • %c[d_red] Nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_fort_snag">
+    <text>Fort-17 na zamówienie</text>
+  </string>
+  <string id="st_wpn_fort_snag_descr">
+    <text>Fort-17 to ukraiński pistolet samopowtarzalny na nabój 9×18 mm PM. Opracowano go wiosną 2004 roku; produkuje go stowarzyszenie badawczo-produkcyjne Fort. To odmiana Fort-12 z odpornym na uderzenia poliamidowym szkieletem wzmacnianym włóknem szklanym, zdejmowaną okładziną chwytu dopasowywaną do dłoni strzelca i szyną Picatinny pod lufą. Polimery zmniejszają masę, upraszczają produkcję i obniżają jej koszt.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n \n</text>
+  </string>
+  <string id="st_wpn_fort_worn">
+    <text>Zużyty Fort-17</text>
+  </string>
+  <string id="st_wpn_g3">
+    <text>G3A3</text>
+  </string>
+  <string id="st_wpn_g36">
+    <text>G36</text>
+  </string>
+  <string id="st_wpn_g36_camo">
+    <text>G36 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_g36_descr">
+    <text>Nowoczesny zachodni karabin szturmowy wykorzystujący krótki skok tłoka gazowego zamiast zamka półswobodnego. Zmiana okazała się korzystna: to pierwszorzędna, lekka, niezawodna i ergonomiczna broń.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany M203\n \n</text>
+  </string>
+  <string id="st_wpn_g36_worn">
+    <text>Zużyty G36</text>
+  </string>
+  <string id="st_wpn_g36k">
+    <text>G36K</text>
+  </string>
+  <string id="st_wpn_g36k_descr">
+    <text>HK G36K to skrócony karabinek oparty na G36, opracowany jako następca przestarzałego G3 Bundeswehry. Niezawodna i łatwa w produkcji rodzina G36 służy wojsku, policji i jednostkom specjalnym w ponad 30 krajach. Konstrukcja lufy uniemożliwia montaż granatnika wylotowego i bagnetu. Istnieją dwie wersje: popularniejsza ma celownik 3× i uchwyt transportowy; druga mechaniczne przyrządy i szynę Picatinny bez zintegrowanej optyki.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik optyczny G36\n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n \n</text>
+  </string>
+  <string id="st_wpn_g36k_worn">
+    <text>Zużyty G36K</text>
+  </string>
+  <string id="st_wpn_g3_descr">
+    <text>HK G3 (Gewehr 3) to niemiecki karabin automatyczny przyjęty do uzbrojenia armii RFN w 1959 roku. Wykorzystuje opóźniony zamek półswobodny w kształcie litery L. Rączka przeładowania i wysunięta przednia część zamka mieszczą się w cylindrycznej osłonie nad lufą, przypominającej rurę gazową. Karabin jest niezawodny i wygodny, ale podczas częściowego rozkładania można zgubić drobne elementy. Niższa cena niż belgijskiego FN FAL i amerykańskiego M14 wynika z prostej konstrukcji oraz użycia wielu tłoczonych, a później polimerowych części. W 1997 roku zastąpił go HK G36 kalibru 5,56 mm NATO.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_g3_worn">
+    <text>Zużyty G3A3</text>
+  </string>
+  <string id="st_wpn_g3sg1">
+    <text>G3 SG1</text>
+  </string>
+  <string id="st_wpn_g3sg1_descr">
+    <text>Karabin wyborowy G3 SG1 opracowała firma Heckler &amp; Koch w 1973 roku dla armii RFN jako odmianę karabinu szturmowego G3A3. Powstawał przez modyfikację seryjnych G3A3, które wykazały wysoką celność w testach fabrycznych. Opóźniony zamek półswobodny wykorzystuje rolki spowalniające jego ruch, zapewniając celność bez regulatora gazowego i tłoka poruszającego się w przód i w tył. Służył w siłach zbrojnych Niemiec i Włoch oraz w jednostkach specjalnych kilku państw, w tym USA.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik G3\n \n</text>
+  </string>
+  <string id="st_wpn_g3sg1_modern_descr">
+    <text>Karabin wyborowy G3 SG1 opracowała firma Heckler &amp; Koch w 1973 roku dla armii RFN jako odmianę karabinu szturmowego G3A3. Powstawał przez modyfikację seryjnych G3A3, które wykazały wysoką celność w testach fabrycznych. Opóźniony zamek półswobodny wykorzystuje rolki spowalniające jego ruch, zapewniając celność bez regulatora gazowego i tłoka poruszającego się w przód i w tył. Służył w siłach zbrojnych Niemiec i Włoch oraz w jednostkach specjalnych kilku państw, w tym USA.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik G3\n \n</text>
+  </string>
+  <string id="st_wpn_g3sg1_worn">
+    <text>Zużyty G3 SG1</text>
+  </string>
+  <string id="st_wpn_g43">
+    <text>Karabiner 43</text>
+  </string>
+  <string id="st_wpn_g43_descr">
+    <text>Adaptując układ gazowy radzieckiego SVT-40, nazistowskie Niemcy opracowały samopowtarzalny karabin Gewehr 43 na bazie wcześniejszego Gewehr 41. W 1944 roku przemianowano go na Karabiner 43. Z celownikiem optycznym ZF-4 był skutecznym karabinem wyborowym jak na swoje czasy.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO (po zmianie kalibru)\n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik ZF-41\n \n</text>
+  </string>
+  <string id="st_wpn_galil">
+    <text>Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_custom">
+    <text>Galil AR na zamówienie</text>
+  </string>
+  <string id="st_wpn_galil_descr">
+    <text>Izraelski karabin zaprojektowany przez Israela Galiliego na bazie fińskiego Valmeta RK-62, będącego licencyjną odmianą Kałasznikowa. Galil przeznaczono do użycia na suchych terenach. Dostępne są dwie wersje lufy: do amunicji 5,56×45 mm oraz 7,62×51 mm.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n%c[d_purple] • %c[ui_gray_2] celownik Galil 4× (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_galil_modern">
+    <text>Zmodernizowany Galil AR</text>
+  </string>
+  <string id="st_wpn_galil_worn">
+    <text>Zużyty Galil AR</text>
+  </string>
+  <string id="st_wpn_gauss">
+    <text>Karabin Gaussa</text>
+  </string>
+  <string id="st_wpn_gauss_descr">
+    <text>Niezwykle precyzyjna, zaawansowana technologicznie broń znana jako „Wyrób nr 62”, opracowana przez badaczy w tajnych laboratoriach Strefy. Elektromagnesy rozpędzają pocisk do ekstremalnych prędkości, zapewniając ogromną przebijalność przy niemal zerowym odrzucie. Do zasilania akumulatorów wykorzystuje się cząstki niektórych artefaktów.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] ulepszony zintegrowany celownik 4×\n \n</text>
+  </string>
+  <string id="st_wpn_glock">
+    <text>Glock 19</text>
+  </string>
+  <string id="st_wpn_glock_custom">
+    <text>Glock 19 na zamówienie</text>
+  </string>
+  <string id="st_wpn_glock_descr">
+    <text>Glock 19 to pistolet samopowtarzalny firmy Glock, z krótszym zamkiem i chwytem niż Glock 17. Ma konstrukcję wspólną z innymi pistoletami Glock, poza modelami 25 i 28 z zamkiem swobodnym. Działa na zasadzie krótkiego odrzutu; lufa przechyla się pionowo, odryglowując zamek przez współpracę krzywki z ramą. Jak inne Glocki ma wysokie walory bojowe i użytkowe. Powstał na rynek cywilny, a także dla służb specjalnych i oficerów; oferuje siłę ognia pełnowymiarowego pistoletu wojskowego i służy policjom oraz armiom wielu państw.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik GemTech (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_glock_modern">
+    <text>Glock 19 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_glock_modern_descr">
+    <text>Glock 19 to pistolet samopowtarzalny firmy Glock, z krótszym zamkiem i chwytem niż Glock 17. Ma konstrukcję wspólną z innymi pistoletami Glock, poza modelami 25 i 28 z zamkiem swobodnym. Działa na zasadzie krótkiego odrzutu; lufa przechyla się pionowo, odryglowując zamek przez współpracę krzywki z ramą. Jak inne Glocki ma wysokie walory bojowe i użytkowe. Powstał na rynek cywilny, a także dla służb specjalnych i oficerów; oferuje siłę ognia pełnowymiarowego pistoletu wojskowego i służy policjom oraz armiom wielu państw. Ta zmodyfikowana wersja umożliwia również ogień automatyczny.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik GemTech (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_glock_worn">
+    <text>Zużyty Glock 19</text>
+  </string>
+  <string id="st_wpn_grach">
+    <text>MP-443 Grach</text>
+  </string>
+  <string id="st_wpn_grach_descr">
+    <text>Pistolet Jarygina to rosyjska broń samopowtarzalna opracowana przez zespół pod kierunkiem W. A. Jarygina i produkowana w Iżewskiej Fabryce Mechanicznej. W 1990 roku radzieckie Ministerstwo Obrony ogłosiło konkurs „Grach” na następcę PM, który nie spełniał już w pełni współczesnych wymagań. Projekt Jarygina zgłoszono w 1993 roku; w 2000 zwyciężył jako MP-443 Grach. W 2003 przyjęto go do uzbrojenia sił zbrojnych Rosji jako 9-mm pistolet Jarygina (PJa). Działa na zasadzie krótkiego odrzutu lufy z jej sztywnym ryglowaniem. Zamek i szkielet wykonano ze stali węglowej, a lufę ze stali nierdzewnej. Jest wygodny, dobrze wyważony i ma przyjemny spust.\n \n</text>
+  </string>
+  <string id="st_wpn_grach_worn">
+    <text>Zużyty MP-443 Grach</text>
+  </string>
+  <string id="st_wpn_groza">
+    <text>OTs-14-4A</text>
+  </string>
+  <string id="st_wpn_groza_descr">
+    <text>Zestaw karabinu i granatnika w około 70% zunifikowany z karabinkami AKS-74U. Główne różnice to kaliber 9×39 mm, układ bullpup i większe możliwości modernizacji. Opracowano go dla jednostek szybkiego reagowania; wojsko i stalkerzy cenią go za skuteczne rażenie przeciwników w kamizelkach lub za osłoną. Można go złożyć w czterech konfiguracjach zależnie od zadania. Popularna w Strefie wersja ma zintegrowany granatnik podwieszany GP-25.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celownik PO 4×34\n%c[d_purple] • %c[ui_gray_2] zintegrowany granatnik podwieszany GP-25\n \n</text>
+  </string>
+  <string id="st_wpn_groza_nimble">
+    <text>OTs-14-1A „Groza-1”</text>
+  </string>
+  <string id="st_wpn_groza_nimble_descr">
+    <text>Ulepszony wariant OTs-14-4A. „Groza-1” używa lżejszej amunicji 7,62×39 mm, co poprawia szybkostrzelność, płaskość toru i pojemność magazynka. Produkowano ją tylko w małych partiach próbnych.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celownik PO 4×34\n%c[d_purple] • %c[ui_gray_2] zintegrowany granatnik podwieszany GP-25\n \n</text>
+  </string>
+  <string id="st_wpn_gsh18">
+    <text>GSh-18</text>
+  </string>
+  <string id="st_wpn_gsh18_custom">
+    <text>GSh-18 na zamówienie</text>
+  </string>
+  <string id="st_wpn_gsh18_descr">
+    <text>Rosyjski pistolet opracowany pod koniec lat 90. w Tulskim Biurze Konstrukcyjnym Przyrządów. Nazwa łączy inicjały nazwisk konstruktorów Wasilija Griaziewa i Arkadija Szipunowa z liczbą „18”, czyli pojemnością magazynka. Produkcja seryjna ruszyła w 2001 roku; broń jest oferowana na eksport. W 2000 przyjęły ją jednostki specjalne rosyjskiego Ministerstwa Sprawiedliwości, a w 2001 jednostki specjalne i wybrane kategorie pracowników MSW. Po wygraniu w 2003 konkursu na następcę pistoletu Makarowa trafiła do armii rosyjskiej. Amunicja przeciwpancerna 7N21 i 7N31 przebija 8 mm stali z odległości 20 metrów.\n \n</text>
+  </string>
+  <string id="st_wpn_gsh18_worn">
+    <text>Zużyty GSh-18</text>
+  </string>
+  <string id="st_wpn_hk416">
+    <text>HK416</text>
+  </string>
+  <string id="st_wpn_hk416_descr">
+    <text>HK416 to niemiecki karabin opracowany przez Heckler &amp; Koch na bazie karabinka M4. Początkowo miał być wymiennym zespołem górnym do dolnych komór M4 lub M16, później powstały kompletne karabiny. Nazwa podkreśla rodowód M4/M16. Komora jest ze stopu aluminium, magazynki ze stali; pasują też standardowe magazynki M16. Lufa jest swobodnie zawieszona w łożu. Szyny Picatinny lub Daniel Defense na komorze i z czterech stron łoża umożliwiają montaż wielu akcesoriów. Wielopozycyjna kolba teleskopowa przypomina kolbę M4. Karabin jest celny i modułowy, można go dostosować do różnych zadań bojowych.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech\n%c[d_purple] • %c[ui_gray_2] granatnik podwieszany M203\n \n</text>
+  </string>
+  <string id="st_wpn_hk417">
+    <text>HK417</text>
+  </string>
+  <string id="st_wpn_hk417_descr">
+    <text>Karabin automatyczny Heckler &amp; Koch HK417 na nabój 7,62 mm NATO opracowano na bazie karabinu automatycznego Heckler &amp; Koch HK416 kalibru 5,56 mm. Prace nad HK417 rozpoczęto w 2005 roku, korzystając z doświadczeń wojsk koalicji międzynarodowej w Afganistanie i Iraku, gdzie w określonych warunkach broń kalibru 5,56 mm miała niewystarczający skuteczny zasięg, a pociski małego kalibru — zbyt małą zdolność przebijania i obalania celu. \nModułowa konstrukcja HK417 w dużej mierze powtarza konstrukcję amerykańskiego karabinu M16, ale różni się od niego istotnym szczegółem: niemiecki HK417 ma zmodyfikowany układ gazowy z konwencjonalnym tłokiem gazowym o krótkim skoku. Występują też inne różnice, jednak wszystkie główne elementy sterujące oraz sposób rozkładania i składania broni przejęto z M16. Wynika to przede wszystkim z faktu, że Stany Zjednoczone są jednym z głównych rynków zbytu HK417. Karabiny HK417 służą obecnie w Bundeswehrze pod oznaczeniem G28 i są eksportowane do innych krajów.\n\n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa">
+    <text>Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_hpsa_alt">
+    <text>Browning Hi-Power (alternatywny)</text>
+  </string>
+  <string id="st_wpn_hpsa_descr">
+    <text>Zmodyfikowany model pistoletu z pierwszej połowy XX wieku, równie niezawodny, celny i mocny jak oryginał. Zyskał opinię jednego z najlepszych pistoletów XX wieku i jest popularny wśród stalkerów.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty">
+    <text>Zardzewiały Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty_descr">
+    <text>Zmodyfikowany model pistoletu z pierwszej połowy XX wieku, równie niezawodny, celny i mocny jak oryginał. Zyskał opinię jednego z najlepszych pistoletów XX wieku i jest popularny wśród stalkerów.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_red] • %c[d_red] Nie można zamontować tłumika.\n \n</text>
+  </string>
+  <string id="st_wpn_hpsa_worn">
+    <text>Zużyty Browning Hi-Power</text>
+  </string>
+  <string id="st_wpn_k98">
+    <text>Karabiner 98 Kurz</text>
+  </string>
+  <string id="st_wpn_k98_descr">
+    <text>Podczas II wojny światowej wybrano celne karabiny Karabiner 98k i wyposażono je w lunety ZF-39. Nazistowskie Niemcy używały ich jako karabinów wyborowych. W wprawnych rękach ich skuteczny zasięg sięgał 1000 metrów.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] celowniki serii ZF\n%c[d_purple] • %c[ui_gray_2] tłumik NATO (alternatywny)\n \n</text>
+  </string>
+  <string id="st_wpn_kiparis">
+    <text>OTs-02 Kiparis</text>
+  </string>
+  <string id="st_wpn_kiparis_descr">
+    <text>OTs-02 (TKB-0217) „Kiparis” to pistolet maszynowy opracowany w 1972 roku na zamówienie Ministerstwa Obrony ZSRR (praca badawczo-rozwojowa „Kustarnik”) przez konstruktorów TsKIB SOO w Tule: N. M. Afanasjewa, D. P. Pleszkowa i N. V. Truchaczewa. Za podstawę przyjęto układ czechosłowackiego pistoletu maszynowego Scorpion Vz.61, modelu z 1961 roku. Mechanizm automatyczny OTs-02 „Kiparis” działa na zasadzie odrzutu zamka swobodnego. Mechanizm spustowo-uderzeniowy z kurkiem umożliwia prowadzenie ognia pojedynczego i automatycznego. Strzał oddawany jest z zamka zamkniętego, co zwiększa celność. Przyrządy celownicze typu otwartego składają się z muszki z osłoną i regulowanej szczerbinki. Broń korzysta z pudełkowego magazynka, w którym naboje są ułożone w dwóch rzędach. Dla zwiększenia stabilności broni zastosowano składaną kolbę, która w położeniu transportowym składa się nad komorą zamkową. Wystrzelone łuski są wyrzucane do góry i do tyłu.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n \n</text>
+  </string>
+  <string id="st_wpn_kiparis_worn">
+    <text>Zużyty OTs-02 Kiparis</text>
+  </string>
+  <string id="st_wpn_l85">
+    <text>L85A1</text>
+  </string>
+  <string id="st_wpn_l85_alt">
+    <text>L85A1 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_l85_custom">
+    <text>L85A1 na zamówienie</text>
+  </string>
+  <string id="st_wpn_l85_descr">
+    <text>Standardowa broń indywidualna brytyjskich sił zbrojnych. Pierwotny L85A1 miał liczne wady konstrukcyjne. Niemiecka firma Heckler &amp; Koch zmodernizowała go, zwiększając niezawodność w różnych klimatach i warunkach eksploatacji.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik typu SUSAT\n%c[d_purple] • %c[ui_gray_2] tłumik NATO (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_l85_modern">
+    <text>Zmodernizowany L85A1</text>
+  </string>
+  <string id="st_wpn_l85_worn">
+    <text>Zużyty L85A1</text>
+  </string>
+  <string id="st_wpn_l85a2">
+    <text>L85A2</text>
+  </string>
+  <string id="st_wpn_l85a2_alt">
+    <text>L85A2 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_l85a2_custom">
+    <text>L85A2 na zamówienie</text>
+  </string>
+  <string id="st_wpn_l85a2_descr">
+    <text>Standardowa broń indywidualna brytyjskich sił zbrojnych. Pierwotny L85A1 miał liczne wady konstrukcyjne. Niemiecka firma Heckler &amp; Koch zmodernizowała go, zwiększając niezawodność w różnych klimatach i warunkach eksploatacji.\n \n%c[ui_gray_2]AKCESORIA: \n%c[d_purple] • %c[ui_gray_2] zintegrowany celownik SUSAT 4×\n%c[d_purple] • %c[ui_gray_2] tłumik NATO (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_l85a2_modern">
+    <text>Zmodernizowany L85A2</text>
+  </string>
+  <string id="st_wpn_l96a1">
+    <text>L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1_descr">
+    <text>Accuracy International L96A1 Tross / Arctic Warfare to brytyjski karabin snajperski przyjęty przez armię w połowie lat 80. jako L96. Ma zintegrowaną lunetę Leupold Mark 4 o powiększeniu 10x oraz pięcionabojowy zamek ślizgowo-obrotowy w kalibrze .308; magazynki mieszczą pięć lub dziesięć nabojów. To precyzyjny karabin najwyższej klasy, ceniony za niezawodność w trudnych warunkach. Zależnie od amunicji i lufy skupienie wynosi 0,4–0,7 MOA; niektóre naboje pozwalają uzyskać grupę pięciu strzałów 11,6–20,3 mm na 100 m.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] luneta Leupold Mark 4 (zintegrowana)\n \n</text>
+  </string>
+  <string id="st_wpn_l96a1_worn">
+    <text>Zużyty L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1m">
+    <text>L96 AWSM</text>
+  </string>
+  <string id="st_wpn_l96a1m_descr">
+    <text>Accuracy International L96A1 Tross / Arctic Warfare to brytyjski karabin snajperski przyjęty przez armię w połowie lat 80. jako L96. Ma zintegrowaną lunetę Leupold Mark 4 o powiększeniu 10x oraz pięcionabojowy zamek ślizgowo-obrotowy w kalibrze .308; magazynki mieszczą pięć lub dziesięć nabojów. To precyzyjny karabin najwyższej klasy, ceniony za niezawodność w trudnych warunkach. Zależnie od amunicji i lufy skupienie wynosi 0,4–0,7 MOA; niektóre naboje pozwalają uzyskać grupę pięciu strzałów 11,6–20,3 mm na 100 m.L96 AWSM to odmiana AWS na nabój .338 Lapua Magnum.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] luneta Leupold Mark 4 (zintegrowana)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300">
+    <text>LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_camo">
+    <text>LR-300ML w kamuflażu</text>
+  </string>
+  <string id="st_wpn_lr300_custom">
+    <text>Zmodyfikowany LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_descr">
+    <text>Skrócony LR-300ML to rozwinięcie rodziny AR-15. Zmiany górnej części komory, lufy, układu gazowego i zamka poprawiły ergonomię oraz niezawodność i zmniejszyły masę. Karabin jest celny, ale wrażliwy na brud i słabo nadaje się do Zony.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2]tłumik NATO\n%c[d_purple] • %c[ui_gray_2]celowniki ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2]podwieszany granatnik M203 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300_rusty">
+    <text>Zardzewiały LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_rusty_descr">
+    <text>Skrócony LR-300ML to rozwinięcie rodziny AR-15. Zmiany górnej części komory, lufy, układu gazowego i zamka poprawiły ergonomię oraz niezawodność i zmniejszyły masę. Karabin jest celny, ale wrażliwy na brud i słabo nadaje się do Zony.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_red] • %c[d_red]NIE MOŻNA ZAMONTOWAĆ TŁUMIKA\n%c[d_purple] • %c[ui_gray_2]celowniki ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2]podwieszany granatnik M203 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_lr300_worn">
+    <text>Zużyty LR-300ML</text>
+  </string>
+  <string id="st_wpn_m16">
+    <text>M16A4</text>
+  </string>
+  <string id="st_wpn_m16_descr">
+    <text>M16, oficjalnie Rifle, Caliber 5.56 mm, M16, to amerykański karabin szturmowy wywodzący się z AR-15. Przyjęty w latach 60., zastąpił M14 i do 1966 roku trafił do wojsk USA w Wietnamie. Wczesne modele były zawodne, lecz na początku lat 70. stał się pełnowartościową bronią bojową. W porównaniu z AKM jest celniejszy w ogniu pojedynczym i wygodniejszy, wymaga jednak staranniejszej konserwacji i lepszej amunicji; AKM lepiej znosi silne zabrudzenie i kurz. Odmiany M16 nadal stanowią podstawowe uzbrojenie amerykańskiej piechoty; wyprodukowano ponad osiem milionów sztuk.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple] • %c[ui_gray_2] NATO suppressor\n%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech sights\n%c[d_purple] • %c[ui_gray_2] M203 underbarrel grenade launcher\n \n</text>
+  </string>
+  <string id="st_wpn_m16_worn">
+    <text>Zużyty M16A4</text>
+  </string>
+  <string id="st_wpn_m16a2">
+    <text>M16A2</text>
+  </string>
+  <string id="st_wpn_m16a2_descr">
+    <text>M16A2 to odmiana M16A1 dostosowana do amunicji SS109/M855. Ma wzmocnioną lufę o skoku gwintu 1:7, ulepszone przyrządy celownicze z podziałką do 800 m, nowe odporne na uderzenia polimerowe łoże i kolbę oraz trzystrzałową serię zamiast ognia ciągłego (piechota morska używała też wersji samoczynnej). Tłumik płomienia ma szczeliny tylko u góry, co ogranicza podrzut. Używa lekkich plastikowych magazynków na 30 nabojów.\n \n%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple] • %c[ui_gray_2] M203 underbarrel grenade launcher\n%c[d_purple] • %c[ui_gray_2] NATO suppressor\n \n</text>
+  </string>
+  <string id="st_wpn_m24">
+    <text>M24 SWS „Green Dragon”</text>
+  </string>
+  <string id="st_wpn_m249">
+    <text>M249 SAW</text>
+  </string>
+  <string id="st_wpn_m249_descr">
+    <text>M249 SAW to amerykańska odmiana lekkiego karabinu maszynowego FN Minimi firmy FN Herstal na nabój 5,56×45 mm; produkcję seryjną rozpoczęto w latach 80. Służy w siłach zbrojnych wielu państw, m.in. Australii, Belgii, Kanady, Francji, Grecji, Hiszpanii, Włoch, Indonezji, Malezji, Nowej Zelandii, Tajlandii, Szwecji, Wielkiej Brytanii i USA. FN Herstal nadal ją produkuje.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2]celowniki ACOG, Barska ES AC10632, EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_m24_descr">
+    <text>M24 SWS (Sniper Weapon System) armii USA oparto na Remingtonie 700; to karabin powtarzalny z magazynkiem. Ma lunetę Leupold Ultra M3A 10×40, specjalnie obrobioną lufę ze stali nierdzewnej i kompozytową kolbę regulowaną do strzelca.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2]luneta snajperska M24 (zintegrowana)\n \n</text>
+  </string>
+  <string id="st_wpn_m4">
+    <text>M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4_descr">
+    <text>M4 opracowano w USA na bazie M16A2 dla załóg pojazdów i obsług uzbrojenia. Dowództwo Operacji Specjalnych USA przyjęło ją jako wspólny karabin wszystkich amerykańskich sił specjalnych. Na tę broń przechodzi też armia, bo krótszy karabinek lepiej odpowiada wojsku, w którym rośnie udział piechoty zmotoryzowanej, załóg pojazdów i jednostek wsparcia. Główne różnice względem M16A2 to krótsza lufa i wysuwana kolba.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2]tłumik NATO\n%c[d_purple] • %c[ui_gray_2]celowniki ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2]podwieszany granatnik M203\n \n</text>
+  </string>
+  <string id="st_wpn_m4_worn">
+    <text>Zużyty M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4a1">
+    <text>M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_camo">
+    <text>M4A1 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_m4a1_custom">
+    <text>Zmodyfikowany M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_descr">
+    <text>Karabinek M4A1 opracowano w 1996 roku dla sił specjalnych na bazie M16A3; przywrócono w nim ogień ciągły zamiast serii trzystrzałowej. Oprócz krótkiej lufy i kolby teleskopowej ma zdejmowany uchwyt transportowy oraz wymienne przyrządy celownicze: optyczne, kolimatorowe lub noktowizyjne. Technicznie M4 i M4A1 niewiele różnią się od odpowiadających im odmian M16A2 i M16A3.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2]tłumik NATO\n%c[d_purple] • %c[ui_gray_2]celowniki ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2]podwieszany granatnik M203 (after modification)\n \n</text>
+  </string>
+  <string id="st_wpn_m4a1_freedom">
+    <text>M4A1 w kamuflażu Wolności</text>
+  </string>
+  <string id="st_wpn_m4a1_worn">
+    <text>Zuzyty M4A1</text>
+  </string>
+  <string id="st_wpn_m60">
+    <text>M60</text>
+  </string>
+  <string id="st_wpn_m60_descr">
+    <text>M60 to amerykański uniwersalny karabin maszynowy opracowany po wojnie i przyjęty przez armię oraz piechotę morską w 1957 roku. Wady i wygląd przyniosły mu przydomek „Świnia”. Od lat 80. zastępowały go nowocześniejsze konstrukcje, takie jak belgijski M240, lecz M60 nadal jest produkowany i szeroko używany w rolach drugoplanowych. Łączy gazową automatykę niemieckiego FG 42 z mechanizmem taśmowym MG 42. Lżejsze warianty M60E3 i E4 dla sił specjalnych USA poprawiły niezawodność i usunęły część wad pierwowzoru.\n \n</text>
+  </string>
+  <string id="st_wpn_m79">
+    <text>M79</text>
+  </string>
+  <string id="st_wpn_m79_descr">
+    <text>M79 to jednostrzałowy granatnik 40 mm przyjęty przez armię USA w 1961 roku. Opracowała go Springfield Armory w latach 1951–1961; jego nieoficjalny przydomek to „słoniowa strzelba”.\n \n</text>
+  </string>
+  <string id="st_wpn_m82">
+    <text>Barrett M82</text>
+  </string>
+  <string id="st_wpn_m82_descr">
+    <text>Barrett M82, oznaczony w dokumentach sił zbrojnych USA jako M107, to wielkokalibrowy samopowtarzalny karabin snajperski produkowany przez Barrett Firearms Manufacturing i używany przez wiele państw. Ma zamek obrotowy; choć zalicza się go do broni przeciwmateriałowej, częściej służy przeciw wrogiej piechocie.\n \n</text>
+  </string>
+  <string id="st_wpn_m98b">
+    <text>Barrett M98B „Bravo”</text>
+  </string>
+  <string id="st_wpn_m98b_descr">
+    <text>Precyzyjny karabin snajperski M98B z zamkiem ślizgowo-obrotowym został zaprojektowany od podstaw przez Barrett Firearms. Korzysta z nabojów .338 Lapua Magnum podawanych z wymiennego magazynka pudełkowego i zapewnia imponującą celność oraz siłę obalającą nawet na skrajnym dystansie.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2]luneta Leupold Mark 4 (zintegrowana)\n%c[d_purple] • %c[ui_gray_2]tłumik SR-25 (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_mk14">
+    <text>Mk 14 EBR</text>
+  </string>
+  <string id="st_wpn_mk14_descr">
+    <text>Mark 14 Enhanced Battle Rifle US Navy to amerykański karabin wyborowy opracowany przez siły operacji specjalnych marynarki na bazie M14. Używa go kilka jednostek specjalnych, w tym SEAL.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-More Railway Tactical, EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_mosin">
+    <text>Karabin Mosina</text>
+  </string>
+  <string id="st_wpn_mosin_descr">
+    <text>Lekko zużyty karabin Mosina. Model 1891/30 kalibru 7,62 mm produkowano w latach 1930–1945 jako standardową broń radzieckiej piechoty. Podczas Wielkiej Wojny Ojczyźnianej z powodzeniem służył także jako karabin snajperski z lunetą PE 4x lub PU 3,5x.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple]• %c[ui_gray_2]luneta PU\n \n</text>
+  </string>
+  <string id="st_wpn_mosin_worn">
+    <text>Zużyty karabin Mosina</text>
+  </string>
+  <string id="st_wpn_mossberg590">
+    <text>Mossberg 590A1</text>
+  </string>
+  <string id="st_wpn_mossberg590_descr">
+    <text>Mossberg 590 powstał w połowie lat 70. w firmie O.F. Mossberg &amp; Sons jako zmilitaryzowana wersja popularnego Mossberga 500. Wzmocniono części, dodano osłonę termiczną lufy, trwalsze matowe wykończenie i metalowy kabłąk spustowy. To gładkolufowa strzelba powtarzalna z nieruchomym magazynkiem rurowym pod lufą. Wahliwy rygiel zamyka zamek w komorze lufy, a komora zamkowa jest ze stopu aluminium. Bezpiecznik umieszczony na górze z tyłu jest wygodny dla prawo- i leworęcznych.\n \n</text>
+  </string>
+  <string id="st_wpn_mossberg590_worn">
+    <text>Zuzyty Mossberg 590A1</text>
+  </string>
+  <string id="st_wpn_mp133">
+    <text>MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_descr">
+    <text>Rosyjska strzelba powtarzalna do polowan, sportu, ochrony i samoobrony. Opracowana na bazie IZH-81; produkowana seryjnie w Izewsku od 2000 roku.\n \n</text>
+  </string>
+  <string id="st_wpn_mp133_rusty">
+    <text>Zardzewialy MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_worn">
+    <text>Zuzyty MP-133</text>
+  </string>
+  <string id="st_wpn_mp153">
+    <text>MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_descr">
+    <text>Rosyjska strzelba samopowtarzalna Murka do polowan, sportu, sluzb porzadkowych i samoobrony. Po ostatnim strzale zamek zostaje otwarty, co ulatwia ladowanie i sygnalizuje brak amunicji. Ceniona za cene, niezawodnosc i trwalosc; ciezsza od czesci rywali.\n \n</text>
+  </string>
+  <string id="st_wpn_mp153_rusty">
+    <text>Zardzewialy MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_worn">
+    <text>Zużyty MP-153</text>
+  </string>
+  <string id="st_wpn_mp412">
+    <text>MP-412 Rex</text>
+  </string>
+  <string id="st_wpn_mp412_descr">
+    <text>MP-412 Rex to rosyjski rewolwer na naboje .357 Smith &amp; Wesson Magnum (9×33 mm) i .38 Smith &amp; Wesson Special (9,1×29 mm), opracowany w Iżewskiej Fabryce Mechanicznej pod koniec lat 90. Miał być przeznaczony na eksport (REX oznacza «Revolver for Export»), lecz nigdy nie wszedł do produkcji seryjnej. Ten nowy rewolwer Iżmiecha wyróżniają dwie cechy: łamana rama w stylu Smith &amp; Wessonów z końca XIX i początku XX wieku oraz polimerowa rama, a dokładniej jej dolna część z chwytem. Górna część utrzymująca lufę jest stalowa. Rewolwer ma odłączany wyrzutnik: po włączeniu wyrzuca łuski z bębna przy otwarciu ramy, a po wyłączeniu tylko częściowo je wysuwa.\n \n</text>
+  </string>
+  <string id="st_wpn_mp5">
+    <text>MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_alt">
+    <text>MP5A3 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_mp5_custom">
+    <text>Zmodyfikowany MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_descr">
+    <text>MP5A3 to odmiana MP5 wyposażona w wysuwaną metalową kolbę. Ten pistolet maszynowy zdobył dużą popularność dzięki niezawodności, łatwości obsługi i wysokiej celności. Przyjęty przez jednostki wojskowe i policyjne w wielu krajach, trafił też na czarny rynek, a z czasem do Strefy.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632
+%c[d_purple] • %c[ui_gray_2] tłumik 9 mm (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_mp5_nimble">
+    <text>MP5A3 «Zwinny»</text>
+  </string>
+  <string id="st_wpn_mp5_nimble_descr">
+    <text>Prototypowy pistolet maszynowy oparty na HK MP5A3. Zaprojektowany jako następna generacja, przewyższa poprzednika większym kalibrem, szybszym ogniem i lepszą celnością.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632
+%c[d_purple] • %c[ui_gray_2] tłumik GemTech (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_mp5_worn">
+    <text>Zużyty MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5sd">
+    <text>MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_custom">
+    <text>Zmodyfikowany MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_descr">
+    <text>Pistolet maszynowy MP5SD opracowano na bazie MP5A2 dla wojskowych i policyjnych sił specjalnych. Występuje z kolbą stałą jako MP5SD2, składaną jako MP5SD3 lub bez kolby jako MP5SD4. Od zwykłego MP5 różni się zintegrowanym tłumikiem. Strzela standardową amunicją 9 mm Parabellum o naddźwiękowej prędkości początkowej. Trzydzieści otworów w lufie odprowadza część gazów do komory rozprężnej tłumika, obniżając prędkość pocisku do poddźwiękowej.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] zintegrowany tłumik\n \n</text>
+  </string>
+  <string id="st_wpn_mp5sd_new">
+    <text>Nowy MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_worn">
+    <text>Zużyty MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp7">
+    <text>HK MP7</text>
+  </string>
+  <string id="st_wpn_mp7_descr">
+    <text>Heckler &amp; Koch MP7 to broń do samoobrony opracowana pod koniec lat 90. dla żołnierzy bez etatowego karabinu pełnowymiarowego, takich jak załogi pojazdów i obsługi dział. Upowszechnienie kamizelek ochronnych ograniczyło skuteczność zwykłej broni na amunicję pistoletową. Produkcję rozpoczęto w 2001 roku; najpierw przyjęły ją niemieckie oddziały specjalne, a w 2006 roku całe siły zbrojne Niemiec. Brytyjska policja wojskowa używa jej od 2005 roku. MP7 konkuruje z FN P90 o miejsce w standardowym arsenale NATO.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_oc33">
+    <text>OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_oc33_descr">
+    <text>Pistolet OTs-33 opracował w połowie lat 90. I. J. Stieczkin w TsKIB SOO jako następcę przestarzałego pistoletu APS własnej konstrukcji, od dawna wycofanego z produkcji. Po włączeniu TsKIB SOO do Tulskiego Biura Konstrukcyjnego Przyrządów produkcją i promocją OTs-33 zajęło się KBP. Niewielkie partie służą w różnych jednostkach rosyjskiego MSW. W porównaniu z APS Stieczkina OTs-33 ma lepsze osiągi, prostszą konstrukcję i wygodniejszą obsługę. Można zamontować tłumik i inne akcesoria.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik APS (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_oc33_rusty">
+    <text>Zardzewiały OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_oc33_rusty_descr">
+    <text>Pistolet OTs-33 opracował w połowie lat 90. I. J. Stieczkin w TsKIB SOO jako następcę przestarzałego pistoletu APS własnej konstrukcji, od dawna wycofanego z produkcji. Po włączeniu TsKIB SOO do Tulskiego Biura Konstrukcyjnego Przyrządów produkcją i promocją OTs-33 zajęło się KBP. Niewielkie partie służą w różnych jednostkach rosyjskiego MSW. W porównaniu z APS Stieczkina OTs-33 ma lepsze osiągi, prostszą konstrukcję i wygodniejszą obsługę. Można zamontować tłumik i inne akcesoria.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_red] • %c[d_red] nie można zamontować tłumika\n \n</text>
+  </string>
+  <string id="st_wpn_oc33_worn">
+    <text>Zużyty OTs-33 «Pernach»</text>
+  </string>
+  <string id="st_wpn_p90">
+    <text>FN P90</text>
+  </string>
+  <string id="st_wpn_p90_descr">
+    <text>FN P90 to belgijska broń do samoobrony (PDW), opracowana przez FN Herstal w latach 1986–1987 przede wszystkim dla załóg czołgów i kierowców pojazdów bojowych. Ma nowoczesną, ergonomiczną konstrukcję. Specjalnie dla niej opracowano nabój SS190 kalibru 5,7×28 mm o dużej przebijalności i małej skłonności do rykoszetowania. Pocisk osiąga prędkość wylotową 715 m/s i z odległości do 20 m przebija kamizelkę z tytanu i kevlaru spełniającą wymagania NATO CRISAT.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] tłumik .57\n \n</text>
+  </string>
+  <string id="st_wpn_pb">
+    <text>PB</text>
+  </string>
+  <string id="st_wpn_pb_custom">
+    <text>Zmodyfikowany PB</text>
+  </string>
+  <string id="st_wpn_pb_descr">
+    <text>Przyjęty do służby w 1967 roku cichy pistolet PB (indeks GRAU 6P9) opracowano na bazie Makarowa dla wojskowych grup rozpoznawczych i personelu radzieckiego KGB. Zintegrowany tłumik obniża prędkość pocisku do poddźwiękowej.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik 6P9 (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_pb_worn">
+    <text>Zużyty PB</text>
+  </string>
+  <string id="st_wpn_pkm_zulus">
+    <text>PKM Zulusa</text>
+  </string>
+  <string id="st_wpn_pkm_zulus_descr">
+    <text>Ten karabin maszynowy należał do Zulusa. Jego mechanizm powrotny wyróżnia się wyjątkową niezawodnością. Modyfikacje zwiększyły masę broni, ale poprzedniemu właścicielowi to nie przeszkadzało. Zamontowano też celownik kolimatorowy, który pozwala szybko namierzyć cel.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik kolimatorowy Cobra EKP-1S-03 (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_pkp">
+    <text>PKP «Pieczienieg»</text>
+  </string>
+  <string id="st_wpn_pkp_descr">
+    <text>PKP «Pieczienieg» kal. 7,62 mm to rosyjski uniwersalny karabin maszynowy opracowany na bazie PKM. Służy do zwalczania siły żywej, stanowisk ogniowych, pojazdów i celów powietrznych. Konstrukcja TsNIITochMash wykorzystuje wymuszone chłodzenie lufy powietrzem napędzane gazami prochowymi. Regulowany układ gazowy pozwala działać w każdych warunkach klimatycznych. Lufa ma zewnętrzne żebra i jest osłonięta metalowym płaszczem. Gazy tworzą podciśnienie z przodu osłony, a tylne otwory wentylacyjne wymuszają przepływ chłodnego powietrza wzdłuż lufy podczas strzelania. Ciągłe chłodzenie zmniejsza rozrzut i wydłuża żywotność lufy. Pieczienieg zachował do 80% części PKM, w tym komorę zamkową i podstawę. Według konstruktorów skuteczność ognia wzrosła o 150% z podstawy i o 250% z dwójnogu.\n \n</text>
+  </string>
+  <string id="st_wpn_pm">
+    <text>Makarow PM</text>
+  </string>
+  <string id="st_wpn_pm_actor">
+    <text>Nagrodowy Makarow PM</text>
+  </string>
+  <string id="st_wpn_pm_actor_descr">
+    <text>Imienny pistolet Makarowa przyznany Degtiariewowi w nagrodę. Grawer głosi: «Za pomyślne wykonanie szczególnie niebezpiecznych zadań oraz wykazaną przy tym dzielność i odwagę».\n \n</text>
+  </string>
+  <string id="st_wpn_pm_custom">
+    <text>Zmodyfikowany Makarow PM</text>
+  </string>
+  <string id="st_wpn_pm_descr">
+    <text>Najpopularniejszy pistolet w Strefie, spuścizna epoki radzieckiej. Makarow PM należy do najlepszych kompaktowych pistoletów do samoobrony: jest mały, wyjątkowo niezawodny oraz prosty w obsłudze i konserwacji. Jego wady to ograniczony zasięg i celność, niewielka skuteczność pocisku oraz dość duża masa połączona z małym magazynkiem w porównaniu z nowoczesnymi pistoletami tej klasy.\n \n</text>
+  </string>
+  <string id="st_wpn_pm_rusty">
+    <text>Zardzewiały Makarow PM</text>
+  </string>
+  <string id="st_wpn_pm_rusty_descr">
+    <text>Najpopularniejszy pistolet w Strefie, spuścizna epoki radzieckiej. Makarow PM należy do najlepszych kompaktowych pistoletów do samoobrony: jest mały, wyjątkowo niezawodny oraz prosty w obsłudze i konserwacji. Jego wady to ograniczony zasięg i celność, niewielka skuteczność pocisku oraz dość duża masa połączona z małym magazynkiem w porównaniu z nowoczesnymi pistoletami tej klasy.\n \n</text>
+  </string>
+  <string id="st_wpn_pm_worn">
+    <text>Zużyty Makarow PM</text>
+  </string>
+  <string id="st_wpn_pmm">
+    <text>PMM</text>
+  </string>
+  <string id="st_wpn_pmm_descr">
+    <text>9-mm PMM to zmodernizowany rosyjski pistolet Makarowa opracowany na początku lat 90. w ramach programu badawczego «Grach». Wzmocniono szkielet i zwiększono masę zamka. Spiralne rowki w komorze nabojowej umożliwiają używanie amunicji 9×18 mm PMM o wysokim impulsie. Podczas strzału ciśnienie gazów wciska ścianki łuski w trzy rowki komory, utrzymując ją do chwili opuszczenia lufy przez pocisk i spadku ciśnienia; potem łuska zostaje wyciągnięta i wyrzucona. Nowy nabój zwiększył maksymalne ciśnienie w przewodzie lufy o 15%, nieco podnosząc odrzut. 70% części PMM można wymieniać z częściami Makarowa PM.\n \n</text>
+  </string>
+  <string id="st_wpn_pp2000">
+    <text>PP-2000</text>
+  </string>
+  <string id="st_wpn_pp2000_descr">
+    <text>PP-2000 to rosyjski pistolet maszynowy kal. 9 mm zaprojektowany przez zespół Tulskiego Biura Konstrukcyjnego Przyrządów pod kierownictwem W. P. Griaziewa i A. G. Szipunowa. Przeznaczono go dla służb porządkowych działających w miastach oraz jako broń do samoobrony dla niektórych żołnierzy. Produkcja seryjna dla rosyjskiego MSW ruszyła w 2006 roku. Korpus wykonano z wytrzymałego polimeru, a przewód lufy pokryto chromem. Można zamontować tłumik i celownik kolimatorowy lub optyczny; modele seryjne mają uniwersalną szynę na pokrywie komory zamkowej.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n \n</text>
+  </string>
+  <string id="st_wpn_ppsh41">
+    <text>PPSz-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_camo">
+    <text>Kamuflowany PPSz-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_descr">
+    <text>Ten pistolet maszynowy zaprojektował radziecki konstruktor Gieorgij Szpagin; przyjęto go do służby w 1941 roku. Był szeroko używany podczas Wielkiej Wojny Ojczyźnianej i wielu powojennych konfliktów. ZSRR wycofał go w 1951 roku i zastąpił karabinem Kałasznikowa, lecz armie i grupy zbrojne na całym świecie używały go jeszcze przez długi czas, między innymi podczas wojen w Korei i Wietnamie, obu wojen afgańskich oraz wojny w Iraku.\n \n</text>
+  </string>
+  <string id="st_wpn_ppsh41_new">
+    <text>Zmodyfikowany PPSz-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_old">
+    <text>Stary PPSz-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_rusty">
+    <text>Zardzewiały PPSz-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_worn">
+    <text>Zużyty PPSz-41</text>
+  </string>
+  <string id="st_wpn_protecta">
+    <text>Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_aim">
+    <text>Zmodyfikowana Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_aim_descr">
+    <text>Gładkolufowa strzelba bojowa z mechanizmem rewolwerowym, zaprojektowana z myślą o dużej sile ognia jednostek paramilitarnych. Dziś ustępuje rosyjskiej Saidze-12 i amerykańskiej AA-12, lecz w latach 80. Protecta była rewolucyjną bronią. Jej zalety to duża pojemność i praktyczna szybkostrzelność; wadami są rozmiar, masa i powolne przeładowanie. W Strefie spotykana rzadko, służy głównie do oczyszczania zamkniętych pomieszczeń z mutantów.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik kolimatorowy Aimpoint (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_camo">
+    <text>Kamuflowana Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_custom">
+    <text>Zmodyfikowana Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_descr">
+    <text>Gładkolufowa strzelba bojowa z mechanizmem rewolwerowym, zaprojektowana z myślą o dużej sile ognia jednostek paramilitarnych. Dziś ustępuje rosyjskiej Saidze-12 i amerykańskiej AA-12, lecz w latach 80. Protecta była rewolucyjną bronią. Jej zalety to duża pojemność i praktyczna szybkostrzelność; wadami są rozmiar, masa i powolne przeładowanie. W Strefie spotykana rzadko, służy głównie do oczyszczania zamkniętych pomieszczeń z mutantów.\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_nimble">
+    <text>Zmodyfikowana Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_nimble_descr">
+    <text>Gładkolufowa strzelba bojowa z mechanizmem rewolwerowym, zaprojektowana z myślą o dużej sile ognia jednostek paramilitarnych. Dziś ustępuje rosyjskiej Saiga-12 i amerykańskiej AA-12, lecz w latach 80. Protecta była rewolucyjną bronią. Jej zalety to duża pojemność i praktyczna szybkostrzelność; wadami są rozmiar, masa i powolne przeładowanie. W Strefie spotykana rzadko, służy głównie do oczyszczania zamkniętych pomieszczeń z mutantów. Według niektórych informacji ten zmodyfikowany egzemplarz należał do członka Powinności o pseudonimie «Tank», o którym niewiele wiadomo.\n \n</text>
+  </string>
+  <string id="st_wpn_protecta_rusty">
+    <text>Zardzewiała Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_protecta_worn">
+    <text>Zużyta Armsel Protecta</text>
+  </string>
+  <string id="st_wpn_remington700">
+    <text>Remington 700</text>
+  </string>
+  <string id="st_wpn_remington700_descr">
+    <text>Karabiny Model 700 są produkowane w Stanach Zjednoczonych przez firmę Remington od 1962 roku. Być może jest to najpopularniejszy w USA myśliwski i snajperski karabin z zamkiem czterotaktowym. To flagowy produkt Remington Arms. Istnieje wiele wariantów na różne naboje, ale standardowy nabój to 7,62×51 mm NATO. Pojemność magazynka zależy od kalibru i wynosi od 3 do 5 nabojów. \nKonstrukcja Modelu 700 była i nadal jest podstawą wielu specjalistycznych karabinów snajperskich. Korpus Piechoty Morskiej USA należał do pierwszych formacji, które wybrały Model 700 jako podstawę precyzyjnej broni snajperskiej. \nKarabiny M40 używane w Wietnamie i do końca lat 70. XX wieku oparto na konstrukcji Modelu 700BDL. Współczesne karabiny M40A1 Korpusu Piechoty Morskiej USA nadal powstają na bazie tego samego modelu. Gdy armia USA zdecydowała się zastąpić samopowtarzalne karabiny snajperskie karabinami z ręcznym przeładowaniem zamkiem czterotaktowym, ponownie wybrała Model 700 jako podstawę karabinu M24.\n\n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik KZRP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_remington870">
+    <text>Remington 870</text>
+  </string>
+  <string id="st_wpn_remington870_descr">
+    <text>Remington 870 to gładkolufowa strzelba powtarzalna z rurowym magazynkiem pod lufą. Najpopularniejsza wersja jest w kalibrze 12, choć dostępne są też inne. Używają jej służby mundurowe i myśliwi. W latach 70. powstała odmiana wojskowa z magazynkiem na siedem nabojów, bagnetem i osłonami chroniącymi przed oparzeniem; zewnętrzne metalowe części mają matowe wykończenie ograniczające odblaski i korozję.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celowniki Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_rg6">
+    <text>RG-6</text>
+  </string>
+  <string id="st_wpn_rg6_descr">
+    <text>Granatnik rewolwerowy zwiększa siłę ognia piechoty w walce miejskiej. Używano go w niektórych konfliktach lokalnych, między innymi podczas wojny w Czeczenii. Ładowany od przodu bęben ma sześć komór utworzonych przez gwintowane lufy podobne do tych w granatnikach podwieszanych. Służy do zwalczania przeciwników za osłoną i ostrzału obszarowego; przydaje się też podczas ataku na dobrze chronione obiekty i walki z wyjątkowo odpornymi stworzeniami.\n \n</text>
+  </string>
+  <string id="st_wpn_rp">
+    <text>PKM</text>
+  </string>
+  <string id="st_wpn_rp_descr">
+    <text>Lekki karabin maszynowy opracowany w połowie lat 70., aby zastąpić w wojsku RPK kal. 7,62×39 mm podczas przechodzenia na nabój małego impulsu 5,45×39 mm. Zbudowano go na bazie AK-74, ale wyposażono w większy magazynek.\n \n</text>
+  </string>
+  <string id="st_wpn_rpd">
+    <text>RPD</text>
+  </string>
+  <string id="st_wpn_rpd_descr">
+    <text>Lekki karabin maszynowy Diegtiariowa kal. 7,62 mm (RPD) to radziecka broń opracowana w 1944 roku na nabój 7,62×39 mm. Była jedną z pierwszych konstrukcji przyjętych do amunicji wz. 1943. Od początku lat 50. do połowy lat 60. stanowiła podstawową broń wsparcia drużyny, po czym stopniowo zastępował ją łatwiejszy do ujednolicenia RPK. RPD nadal znajdują się w rezerwach armii. Podobnie jak wiele radzieckich konstrukcji, były szeroko eksportowane do państw sojuszniczych i produkowane za granicą, m.in. w Chinach jako Typ 56. Amerykańskie firmy, takie jak DC Arms, wytwarzają też zmodernizowane wersje z kolbą teleskopową, łożem Picatinny, ergonomicznym dwójnogiem i polimerowym chwytem.\n \n</text>
+  </string>
+  <string id="st_wpn_rpg7">
+    <text>RPG-7</text>
+  </string>
+  <string id="st_wpn_rpg7_descr">
+    <text>Prostota, trwałość, niska cena i skuteczność RPG-7 uczyniły z niego najpopularniejszą bezodrzutową broń przeciwpancerną na świecie. Obecnie dziewięć państw produkuje różne wersje, a broń służy w ponad 40 krajach.\n \n</text>
+  </string>
+  <string id="st_wpn_rpk">
+    <text>RPK</text>
+  </string>
+  <string id="st_wpn_rpk74">
+    <text>RPK-74</text>
+  </string>
+  <string id="st_wpn_rpk74_descr">
+    <text>Lekki karabin maszynowy opracowany w połowie lat 70., aby zastąpić RPK kal. 7,62×39 mm podczas przechodzenia na nabój małego impulsu 5,45×39 mm. Bazuje na AK-74, ale ma większy magazynek.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik TGP-A\n \n</text>
+  </string>
+  <string id="st_wpn_rpk74_worn">
+    <text>Zużyty RPK-74</text>
+  </string>
+  <string id="st_wpn_rpk_descr">
+    <text>Lekki karabin maszynowy Kałasznikowa kal. 7,62 mm (RPK), oparty na AKM, został przyjęty przez Armię Radziecką w 1961 roku. Zastąpił karabin Diegtiariowa, ponieważ łatwiej było ujednolicić go z inną bronią służbową. RPK przyjęto w ponad 20 państwach, a w kilku produkuje się jego odmiany lub kopie. Jugosławia wytwarzała na przykład 72B1 «systemu Kałasznikowa» na nabój 7,62×39 mm z żebrowaną częścią lufy oraz 72AB1 z metalową kolbą.\n \n</text>
+  </string>
+  <string id="st_wpn_rpk_worn">
+    <text>Zużyty RPK</text>
+  </string>
+  <string id="st_wpn_saiga12s">
+    <text>Saiga-12S</text>
+  </string>
+  <string id="st_wpn_saiga12s_descr">
+    <text>Saiga-12S to odmiana strzelby z polimerową składaną kolbą, chwytem sterowania ogniem w stylu AK i łożem myśliwskim. Lufa ma 580 lub 680 mm. Muszka i szczerbinka — albo na specjalne zamówienie regulowana szyna celownicza — znajdują się nad rurą gazową.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n \n</text>
+  </string>
+  <string id="st_wpn_saiga12s_worn">
+    <text>Zużyta Saiga-12S</text>
+  </string>
+  <string id="st_wpn_scar">
+    <text>FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_custom">
+    <text>Kamuflowany FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_descr">
+    <text>FN SCAR (karabin bojowy sił operacji specjalnych) to system broni opracowany przez amerykański oddział belgijskiej firmy FN Herstal na konkurs z 2004 roku, którego celem było stworzenie nowego karabinu dla US SOCOM. System wygrał w grudniu 2004 roku, a karabiny trafiają obecnie do amerykańskich Rangerów. Rodzina obejmuje dwa typy: SCAR-H i SCAR-L. SCAR-H (Heavy) jest przystosowany do amunicji NATO 7,62×51 mm.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik NATO
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] podwieszany granatnik M203\n \n</text>
+  </string>
+  <string id="st_wpn_scar_new">
+    <text>Nowy FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_scar_worn">
+    <text>Zużyty FN SCAR-H</text>
+  </string>
+  <string id="st_wpn_sig220">
+    <text>SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_custom">
+    <text>Zmodyfikowany SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_descr">
+    <text>SIG P220, opracowany dla armii szwajcarskiej, stał się podstawą całej rodziny pistoletów. Broń wyróżnia się najwyższą jakością wykonania bez kompromisów w zakresie wytrzymałości i funkcjonalności. SIG P220 przyjęły armie i służby policyjne Japonii, Austrii, Francji, Szwajcarii oraz kilku innych państw.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_nimble">
+    <text>SIG P220 «Alpinista»</text>
+  </string>
+  <string id="st_wpn_sig220_nimble_descr">
+    <text>Unikatowy model SIG P220 wyprodukowany w małej serii na zamówienie nieznanej jednostki specjalnej. Ta odmiana ma lufę ze szczególnie wytrzymałej stali i polimerową osłonę lufy.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_rusty">
+    <text>Zardzewiały SIG P220</text>
+  </string>
+  <string id="st_wpn_sig220_rusty_descr">
+    <text>SIG P220, opracowany dla armii szwajcarskiej, stał się podstawą całej rodziny pistoletów. Broń wyróżnia się najwyższą jakością wykonania bez kompromisów w zakresie wytrzymałości i funkcjonalności. SIG P220 przyjęły armie i służby policyjne Japonii, Austrii, Francji, Szwajcarii oraz kilku innych państw.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_red] • %c[d_red] nie można zamontować tłumika\n \n</text>
+  </string>
+  <string id="st_wpn_sig220_worn">
+    <text>Zużyty SIG P220</text>
+  </string>
+  <string id="st_wpn_sig550">
+    <text>SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_camo">
+    <text>Kamuflowany SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_custom">
+    <text>Zmodyfikowany SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_descr">
+    <text>Przedstawiciel stosunkowo nowej rodziny karabinów szturmowych. Wysoka niezawodność, celność i łatwość obsługi czynią go jedną z najlepszych broni tej klasy. Ma składaną na bok kolbę szkieletową i lekki aluminiowy dwójnóg pod polimerowym łożem. W Strefie jest rzadki i drogi; doświadczeni stalkerzy zwykle zamawiają go na specjalne życzenie.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik NATO
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] podwieszany granatnik M203\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_rusty">
+    <text>Zardzewiały SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig550_rusty_descr">
+    <text>Przedstawiciel stosunkowo nowej rodziny karabinów szturmowych. Wysoka niezawodność, celność i łatwość obsługi czynią go jedną z najlepszych broni tej klasy. Ma składaną na bok kolbę szkieletową i lekki aluminiowy dwójnóg pod polimerowym łożem. W Strefie jest rzadki i drogi; doświadczeni stalkerzy zwykle zamawiają go na specjalne życzenie.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_red] • %c[d_red] nie można zamontować tłumika
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] podwieszany granatnik M203\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_sniper">
+    <text>SIG SG550-1 Sniper</text>
+  </string>
+  <string id="st_wpn_sig550_sniper_descr">
+    <text>Wariant snajperski popularnego szwajcarskiego karabinu automatycznego. SG 550-S stanowi kompromis między karabinem snajperskim a szturmowym, łącząc zalety obu typów. Ma też wady: zbyt małą siłę obalającą i celność jak na karabin snajperski oraz brak trybu ognia automatycznego. Mimo to pozostaje ulubioną bronią najemników i doświadczonych stalkerów w Czarnobylskiej Strefie Wykluczenia.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik NATO
+%c[d_purple] • %c[ui_gray_2] celownik Kahles ZF95 (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_strelok">
+    <text>SIG SG550 «Strzała»</text>
+  </string>
+  <string id="st_wpn_sig550_strelok_descr">
+    <text>Choć ten karabin szturmowy nie jest nowy, widać, że poprzedni właściciel dobrze o niego dbał. Broń została całkowicie odnowiona, a części starannie dopasowano, co nieco zwiększyło jej siłę obalającą. Na kolbie starannie wyryto literę «C» i 16 małych krzyżyków.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik NATO
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] podwieszany granatnik M203\n \n</text>
+  </string>
+  <string id="st_wpn_sig550_worn">
+    <text>Zużyty SIG SG550</text>
+  </string>
+  <string id="st_wpn_sig552">
+    <text>SIG SG552 Commando</text>
+  </string>
+  <string id="st_wpn_sig552_descr">
+    <text>Kompaktowa odmiana karabinu szturmowego SIG SG 550 z lufą o długości 226 mm, przeznaczona dla specjalnych jednostek policji. W odróżnieniu od SG 550 sprężyna powrotna znajduje się za suwadłem i działa bezpośrednio na nie, a nie na tłoczysko gazowe. Karabin ma zmodyfikowany tłumik płomienia i można wyposażyć go w szyny Picatinny.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik NATO
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech\n \n</text>
+  </string>
+  <string id="st_wpn_sig552_worn">
+    <text>Zużyty SIG SG552 Commando</text>
+  </string>
+  <string id="st_wpn_sks">
+    <text>SKS-45</text>
+  </string>
+  <string id="st_wpn_sks_descr">
+    <text>Radziecki karabinek samopowtarzalny zaprojektowany przez Siergieja Simonowa i przyjęty do służby w 1949 roku. Na pierwszej linii zastąpił go AK na początku lat 50., ale przez dekady pozostawał w rezerwie i nadal służy jako broń paradna.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple]• %c[ui_gray_2] celownik PU\n \n</text>
+  </string>
+  <string id="st_wpn_sks_modern">
+    <text>Zmodyfikowany SKS-45</text>
+  </string>
+  <string id="st_wpn_sks_worn">
+    <text>Zużyty SKS-45</text>
+  </string>
+  <string id="st_wpn_spas12">
+    <text>SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_custom">
+    <text>Zmodyfikowany SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_descr">
+    <text>Gładkolufowa strzelba samopowtarzalna do zadań specjalnych z wybieranymi trybami ognia. Opracowana w drugiej połowie XX wieku, nadal stanowi uniwersalną broń bojową policji i wojskowych oddziałów szturmowych. Jest niezawodna i elastyczna taktycznie. Mimo dużej masy, skomplikowanej konstrukcji i wysokiej ceny cieszy się w Strefie popularnością jako skuteczna broń przeciw mutantom.\n \n</text>
+  </string>
+  <string id="st_wpn_spas12_nimble">
+    <text>Zmodyfikowany SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_nimble_descr">
+    <text>Gładkolufowa strzelba samopowtarzalna do zadań specjalnych z wybieranymi trybami ognia. Opracowana w drugiej połowie XX wieku, nadal jest wszechstronną bronią policji i wojskowych oddziałów szturmowych. Niezawodna i elastyczna taktycznie, jest popularna w Strefie mimo dużej masy, złożonej konstrukcji i ceny. W tym egzemplarzu nieznacznie zmodernizowano mechanizmy i starannie dopasowano części, znacznie zwiększając siłę obalającą. Mniejsze luzy skracają jednak żywotność lufy. Wcześniej należała do Mrówki.\n \n</text>
+  </string>
+  <string id="st_wpn_spas12_rusty">
+    <text>Zardzewiały SPAS-12</text>
+  </string>
+  <string id="st_wpn_spas12_worn">
+    <text>Zużyty SPAS-12</text>
+  </string>
+  <string id="st_wpn_sr25">
+    <text>SR-25</text>
+  </string>
+  <string id="st_wpn_sr25_descr">
+    <text>SR-25 to samopowtarzalny karabin snajperski zaprojektowany przez Eugene’a Stonera w latach 90. na bazie AR-15. Ponad 60% części jest wymiennych z AR-15. Działa na zasadzie odprowadzania gazów, a aluminiowa komora zamkowa składa się z dwóch części połączonych poprzecznymi sworzniami. Mechanizm spustowy umożliwia wyłącznie ogień pojedynczy. Wysoka celność zapewniła mu popularność wśród cywilnych strzelców w USA i policyjnych snajperów. W latach 90. wersję z celownikiem optycznym i szybko zdejmowanym tłumikiem przyjęły amerykańskie siły specjalne marynarki jako Mark 11 Model 0.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] specjalny tłumik SR-25
+%c[d_purple] • %c[ui_gray_2] celownik Leupold Mark 4 (zintegrowany)
+%c[d_purple] • %c[ui_gray_2] podwieszany granatnik M203\n \n</text>
+  </string>
+  <string id="st_wpn_sv98">
+    <text>SW-98</text>
+  </string>
+  <string id="st_wpn_sv98_custom">
+    <text>Zmodyfikowany SW-98</text>
+  </string>
+  <string id="st_wpn_sv98_descr">
+    <text>SW-98 to rosyjski powtarzalny karabin snajperski opracowany w latach 1998–2000 przez zespół pod kierownictwem Władimira Stronskiego i produkowany seryjnie przez Iżmasz. Służy do zwalczania odsłoniętych, poruszających się lub ukrytych żołnierzy wroga, z ochroną osobistą lub bez niej, na dystansie do 1000 m. Używają go jednostki rosyjskiego MSW.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik PKS-07 (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_sv98_worn">
+    <text>Zużyty SW-98</text>
+  </string>
+  <string id="st_wpn_svd">
+    <text>SWD</text>
+  </string>
+  <string id="st_wpn_svd_custom">
+    <text>Zmodyfikowany SWD</text>
+  </string>
+  <string id="st_wpn_svd_descr">
+    <text>SVD miała pierwotnie zapewnić strzelca wyborowego w każdym radzieckim plutonie piechoty; nie była bronią osobnej, wyspecjalizowanej brygady snajperów. Jak na karabin snajperski jest stosunkowo lekka, dobrze wyważona i samopowtarzalna. Zapewnia dobrą, choć nie wybitną celność. Jej skuteczny zasięg wynosi do 800 metrów.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik KZRZP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_svd_nimble">
+    <text>SWD «Ryś»</text>
+  </string>
+  <string id="st_wpn_svd_nimble_descr">
+    <text>Jednostkowo składana odmiana karabinu snajperskiego SVD. Z zewnątrz niewiele różni się od standardowego modelu, lecz w praktyce zapewnia znacznie lepszą równowagę między celnością a siłą obalającą.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik 1P59 «Giperon» (zintegrowany)
+%c[d_purple] • %c[ui_gray_2] tłumik KZRZP\n \n</text>
+  </string>
+  <string id="st_wpn_svd_rusty">
+    <text>Zardzewiały SWD</text>
+  </string>
+  <string id="st_wpn_svd_rusty_descr">
+    <text>SVD miała zapewnić strzelca wyborowego w każdym radzieckim plutonie, a nie być bronią osobnej brygady specjalistów. Jest stosunkowo lekka, dobrze wyważona i samopowtarzalna. Jej celność jest dobra, choć nie wybitna; skuteczny zasięg wynosi do 800 m.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M
+%c[d_red] • %c[d_red] nie można zamontować tłumika\n \n</text>
+  </string>
+  <string id="st_wpn_svd_worn">
+    <text>Zużyty SWD</text>
+  </string>
+  <string id="st_wpn_svt40">
+    <text>SWT-40</text>
+  </string>
+  <string id="st_wpn_svt40_descr">
+    <text>Samopowtarzalny karabin Tokariewa kal. 7,62 mm wz. 1940 wszedł do służby w Armii Czerwonej w 1940 roku, zastępując karabin snajperski kal. 7,62 mm wz. 1891/30. Działa na zasadzie odprowadzania gazów z krótkim skokiem tłoka, a zamek rygluje się przez pionowe przekoszenie. Łoże jest składane, mechanizm spustowy kurkowy, a bezpiecznik blokuje spust. Snajperskie SWT-40 wykorzystywano głównie przeciw odległym celom pojawiającym się na krótko w polu widzenia strzelca.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple]• %c[ui_gray_2] specjalny celownik PU\n \n</text>
+  </string>
+  <string id="st_wpn_svt40_modern">
+    <text>Zmodyfikowany SWT-40</text>
+  </string>
+  <string id="st_wpn_svt40_rusty">
+    <text>Zardzewiały SWT-40</text>
+  </string>
+  <string id="st_wpn_svt40_worn">
+    <text>Zużyty SWT-40</text>
+  </string>
+  <string id="st_wpn_svu">
+    <text>OTs-03 SWU</text>
+  </string>
+  <string id="st_wpn_svu_alt">
+    <text>OTs-03 SWU (alternatywna)</text>
+  </string>
+  <string id="st_wpn_svu_descr">
+    <text>OTs-03 SWU to zmodernizowany karabin snajperski SVD, pierwotnie opracowany dla radzieckich wojsk powietrznodesantowych, lecz niewprowadzony do produkcji. Na początku lat 90. przyjęło go rosyjskie Ministerstwo Spraw Wewnętrznych. Kompaktowy układ bullpup i mocny hamulec wylotowy ograniczają odrzut oraz hałas strzału.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M\n \n</text>
+  </string>
+  <string id="st_wpn_svu_nimble">
+    <text>OTs-03 SWU-A</text>
+  </string>
+  <string id="st_wpn_svu_nimble_descr">
+    <text>Skrócony karabin snajperski o większej szybkostrzelności, najbardziej kompaktowy wariant rodziny SWU/SWD. Jego cechą szczególną jest ogień automatyczny, dodany na życzenie rosyjskiego MSW. Choć nie jest przeznaczony do walki na bliskim dystansie, tryb automatyczny pomaga, gdy snajper zostanie wykryty. Mniejsze wymiary obniżają celność i prędkość pocisku. Aby ograniczyć silny odrzut przy ogniu automatycznym, SWU-A ma zintegrowany tłumik z osłoną płomienia, który działa też jako skuteczny hamulec wylotowy. Karabin należał wcześniej do Maksa, legendarnego opiekuna frakcji Wolność.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M\n \n</text>
+  </string>
+  <string id="st_wpn_svu_worn">
+    <text>Zużyty OTs-03 SWU</text>
+  </string>
+  <string id="st_wpn_toz194">
+    <text>TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_descr">
+    <text>TOZ-194 to rosyjska strzelba pump-action opracowana w połowie lat 90. na podstawie konstrukcji TOZ-94 i produkowana w Tulskiej Fabryce Broni. Przeładowuje się ją ruchomym łożem, a rurowy magazynek znajduje się pod lufą. Łoże i chwyt pistoletowy są z tworzywa; strzelba nie ma kolby. Przyrządy celownicze są otwarte i nieregulowane. W porównaniu z TOZ-94 jest bardziej uniwersalna, ma większą pojemność oraz mniejsze wymiary i masę.\n \n</text>
+  </string>
+  <string id="st_wpn_toz194_rusty">
+    <text>Zardzewiały TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_worn">
+    <text>Zużyty TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz34">
+    <text>TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_bull">
+    <text>TOZ-34 «Bull»</text>
+  </string>
+  <string id="st_wpn_toz34_bull_descr">
+    <text>Ręczna modyfikacja strzelby TOZ-34 przystosowana do amunicji «Bull». Teraz może zatrzymać czołg. Wygląda jak ozdobiony TOZ-34, ale z bliska widać lufę z unikatowego metalu i kolbę z włókna węglowego. Tożsamość majsterkowicza, który stworzył ten cud, pozostaje zagadką…\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_custom">
+    <text>Zmodyfikowany TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_decor">
+    <text>Zdobiony TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_descr">
+    <text>Nad lufowa strzelba myśliwska TOZ-34 została opracowana w 1965 roku przez utalentowanych konstruktorów N. I. Korowiakowa i W. P. Oczniewa z Tulskiej Fabryki Broni. Przystępna cena, duża siła obalająca i możliwość jednoczesnego strzału z obu luf szybko zapewniły jej popularność wśród nowicjuszy na obrzeżach Strefy. Jest szczególnie skuteczna przeciw mutantom.\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_mark4">
+    <text>TOZ-34 «Żubr»</text>
+  </string>
+  <string id="st_wpn_toz34_mark4_descr">
+    <text>Nad lufowa strzelba myśliwska «Żubr» została opracowana w 1965 roku przez konstruktorów Tulskiej Fabryki Broni N. I. Korowiakowa i W. P. Oczniewa. Niska cena, duża siła obalająca i możliwość jednoczesnego strzału z obu luf szybko zapewniły jej popularność wśród nowicjuszy na obrzeżach Strefy. Celność i moc czynią ją szczególnie skuteczną przeciw mutantom. Ten model ma zintegrowany celownik optyczny Leupold Mark 4 o zmiennym powiększeniu oraz zwiększoną celność i skuteczność.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik Leupold Mark 4 (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_obrez">
+    <text>Skrócony TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_custom">
+    <text>Zmodyfikowany skrócony TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_decor">
+    <text>Zdobiony skrócony TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_descr">
+    <text>TOZ-34 ze skróconymi lufami dla lepszej manewrowości. Nad lufowa strzelba myśliwska została opracowana w 1965 roku przez konstruktorów Tulskiej Fabryki Broni N. I. Korowiakowa i W. P. Oczniewa. Niska cena, duża siła obalająca i możliwość jednoczesnego strzału z obu luf szybko zapewniły jej popularność wśród nowicjuszy na obrzeżach Strefy. Jest szczególnie skuteczna przeciw mutantom.\n \n</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_rusty">
+    <text>Zardzewiały skrócony TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_worn">
+    <text>Zużyty skrócony TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_rusty">
+    <text>Zardzewiała TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_worn">
+    <text>Zużyta TOZ-34</text>
+  </string>
+  <string id="st_wpn_trg_descr">
+    <text>Karabin snajperski fińskiej firmy SAKO. TRG-42 nie jest ulepszoną wersją istniejącej konstrukcji, lecz całkowicie nowym projektem. Stabilna celność i niezawodność zapewniły mu popularność w zawodach strzeleckich oraz operacjach wojskowych wymagających wsparcia snajperskiego.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik FINDOT (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_tt33">
+    <text>TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_modern">
+    <text>Zmodyfikowany TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_rusty">
+    <text>Zardzewiały TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_worn">
+    <text>Zużyty TT-33</text>
+  </string>
+  <string id="st_wpn_type63">
+    <text>Typ 63</text>
+  </string>
+  <string id="st_wpn_type63_descr">
+    <text>Typ 63 to chiński karabin automatyczny oparty na SKS, opracowany jako następca samopowtarzalnego karabinka Typ 56. Mechanizm ryglowania zapożyczono z Typu 56, licencyjnej odmiany AK. Wczesne modele miały komorę frezowaną, późniejsze tłoczoną. Zamiast stałego magazynka SKS używa odłączanych magazynków na 20 lub 30 nabojów, zachowując możliwość ładowania ich ładownikami bez odłączania od broni. Dodano też ogień automatyczny. ChALW wycofała go w 1978 roku z powodu niskiej skuteczności.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celownik PU\n \n</text>
+  </string>
+  <string id="st_wpn_umirotvoritel">
+    <text>Nieznana broń</text>
+  </string>
+  <string id="st_wpn_umirotvoritel_descr">
+    <text>Niezidentyfikowany prototyp broni. Jest wyraźnie niesprawny — naciśnięcie spustu nic nie daje. Egzemplarz jest ciężki i niewątpliwie zaawansowany technologicznie. Wygląda na to, że nie jest bronią palną i prawdopodobnie działa w oparciu o pola elektromagnetyczne. Można tylko zgadywać, jaki ma potencjał niszczycielski.\n \n</text>
+  </string>
+  <string id="st_wpn_ump45">
+    <text>UMP-45</text>
+  </string>
+  <string id="st_wpn_ump45_custom">
+    <text>Zmodyfikowany UMP-45</text>
+  </string>
+  <string id="st_wpn_ump45_descr">
+    <text>Pistolet maszynowy UMP (Universal Machinen Pistole) opracowano jako tańszą i nieco nowocześniejszą alternatywę dla drogiego MP5. Zaprezentowano go w 1996 roku. Amunicja .45 ACP zapewnia większą siłę obalającą, ale także mocniejszy odrzut, dlatego szybkostrzelność znacznie ograniczono względem MP5, by łatwiej kontrolować ogień automatyczny.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech
+%c[d_purple] • %c[ui_gray_2] tłumik GemTech\n \n</text>
+  </string>
+  <string id="st_wpn_ump45_worn">
+    <text>Zużyty UMP-45</text>
+  </string>
+  <string id="st_wpn_usas12">
+    <text>USAS-12</text>
+  </string>
+  <string id="st_wpn_usas12_descr">
+    <text>USAS-12 to automatyczna strzelba opracowana pod koniec lat 80. przez Johna Trevora na podstawie pomysłów Maxwella Atchissona, twórcy Atchisson Assault Shotgun. Działa na zasadzie odprowadzania gazów i ryglowania obrotowego. Podobnie jak w AAS/AA-12, pusty w środku polimerowy chwyt pozwala zespołowi zamka cofać się do jego wnętrza, zmniejszając szybkostrzelność i odrzut. Dla obsługi oburęcznej okno wyrzutowe i wycięcia na rączkę zamka znajdują się po obu stronach komory. Trójpozycyjny przełącznik ognia przypomina ten z M16. Uchwyt do przenoszenia jest wbudowany w komorę.\n \n</text>
+  </string>
+  <string id="st_wpn_usp">
+    <text>USP45</text>
+  </string>
+  <string id="st_wpn_usp_alt">
+    <text>USP45 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_usp_custom">
+    <text>Zmodyfikowany USP45</text>
+  </string>
+  <string id="st_wpn_usp_descr">
+    <text>USP firmy Heckler &amp; Koch to pistolet samopowtarzalny opracowany przez niemiecką firmę i zaprezentowany w 1993 roku. Przeznaczono go dla policji i wojska. Wyróżnia się dużą trwałością i niezawodnością oraz dobrą celnością. Wady to spore wymiary nawet w wersji kompaktowej, dość wysoko położony środek ciężkości i masywny zamek utrudniający skryte noszenie.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_match">
+    <text>USP Match</text>
+  </string>
+  <string id="st_wpn_usp_match_descr">
+    <text>USP Match to wyłącznie sportowa odmiana pistoletu. Oprócz dłuższej lufy ma specjalne obciążenie przy wylocie, ograniczające podrzut. Lufa ma gwint poligonalny, a siłę nacisku na spust można regulować. Produkcję zakończono w 1999 roku, zastępując model USP Elite. Według dostępnych informacji należał niegdyś do najemnika o pseudonimie Wilczarz.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik GemTech (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_nimble">
+    <text>USP «Bagno»</text>
+  </string>
+  <string id="st_wpn_usp_nimble_descr">
+    <text>Kompaktowy pistolet dużego kalibru z krótkim odrzutem lufy i lekkim zamkiem. Według dostępnych informacji należał niegdyś do najemnika o pseudonimie Wilczarz. Uważa się, że jest zmodyfikowaną wersją USP Compact.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] tłumik GemTech (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_usp_worn">
+    <text>Zużyty USP45</text>
+  </string>
+  <string id="st_wpn_val">
+    <text>AS Wał</text>
+  </string>
+  <string id="st_wpn_val_descr">
+    <text>Karabin specjalny AS Wał opracowano na bazie cichego karabinu snajperskiego WSS Wintoriez dla sił specjalnych Armii Radzieckiej i MSW. Ma skutecznie razić przeciwników we współczesnym oporządzeniu ochronnym, nie zdradzając pozycji strzelca. Zintegrowany tłumik i ciężki poddźwiękowy pocisk 9×39 mm minimalizują odgłos strzału oraz płomień wylotowy.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M2-1
+%c[d_purple] • %c[ui_gray_2] tłumik WSS (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_val_modern">
+    <text>Zmodyfikowany AS Wał</text>
+  </string>
+  <string id="st_wpn_val_modern_descr">
+    <text>Karabin AS Wał opracowano na bazie WSS Wintoriez dla radzieckich sił specjalnych. Ma zwalczać przeciwników w nowoczesnym oporządzeniu ochronnym bez zdradzania pozycji strzelca. Zintegrowany tłumik i ciężki poddźwiękowy pocisk 9×39 mm minimalizują odgłos strzału oraz płomień.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik WSS (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_val_worn">
+    <text>Zużyty AS Wał</text>
+  </string>
+  <string id="st_wpn_vepr12">
+    <text>Wiepr-12 «Mołot»</text>
+  </string>
+  <string id="st_wpn_vepr12_descr">
+    <text>Vepr-12 Mołot to rosyjski samopowtarzalny karabinek gładkolufowy opracowany na bazie ręcznego karabinu maszynowego Kałasznikowa. Służy do polowań, strzelectwa sportowego — zwykle praktycznego w klasie otwartej —, samoobrony i użytku służbowego. Bezpośrednio konkuruje z serią Saiga-12. Zachowuje układ i gazowy mechanizm z obrotowym zamkiem RPK, lecz zespół zamka i komorę przeprojektowano pod amunicję strzelbową, a mechanizm spustowy pozbawiono samoczynnego rozłącznika.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan i PSO-1M
+%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n \n</text>
+  </string>
+  <string id="st_wpn_vihr">
+    <text>SR-3M «Wichr»</text>
+  </string>
+  <string id="st_wpn_vihr_descr">
+    <text>SR-3 «Wichr» to kompaktowy rosyjski karabin szturmowy opracowany w 1994 roku w TsNIITochMash w Klimowsku przez A. D. Borisowa i W. N. Lewczenkę. A. I. Taszłykow dopracował konstrukcję, a produkcja seryjna ruszyła w 1996 roku. Broń powstała na bazie cichego AS Wał i dzieli z nim główne podzespoły, co ułatwia produkcję i obsługę. Podobnie jak Wał działa na zasadzie odprowadzania gazów i rygluje się sześcioma ryglami. Późniejszy SR-3M obsługuje tłumik, metalowe magazynki 30-nabojowe oraz celowniki optyczne i noktowizyjne; ma też składany w lewo szkieletowy chwyt z AS Wał, bezpiecznik typu SWD i nowe łoże.
+ 
+%c[ui_gray_2]WYPOSAŻENIE:
+%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan, PSO-1M i PSO-1M2-1
+%c[d_purple] • %c[ui_gray_2] tłumik SR-3M\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez">
+    <text>WSS Wintorez</text>
+  </string>
+  <string id="st_wpn_vintorez_1pn93_descr">
+    <text>Opracowany równolegle ze specjalnym karabinkiem automatycznym Wał, specjalny karabin snajperski Wintoriez służy do cichego strzelania. Używają go głównie siły specjalne podczas tajnych operacji. Strzela specjalną amunicją poddźwiękową 9x39 SP-5 i SP-6.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celownik 1PN93 Malysh (zintegrowany)\n%c[d_purple] • %c[ui_gray_2] tłumik VSS (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_alt">
+    <text>WSS Wintoriez (alternatywny)</text>
+  </string>
+  <string id="st_wpn_vintorez_descr">
+    <text>Opracowany równolegle ze specjalnym karabinkiem automatycznym Wał, specjalny karabin snajperski Wintoriez służy do cichego strzelania. Używają go głównie siły specjalne podczas tajnych operacji. Strzela specjalną amunicją poddźwiękową 9x39 SP-5 i SP-.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan, PSO-1M2-1\n%c[d_purple] • %c[ui_gray_2] tłumik VSS (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble">
+    <text>WSS Priboy</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble_descr">
+    <text>Specjalna, gruntownie zmodernizowana wersja słynnego karabinu snajperskiego WSS. Ulepszony mechanizm wewnętrzny zwiększył prędkość pocisku przy wylocie lufy i celność. Poprawiło to zasięg skuteczny oraz tor ciężkiej amunicji poddźwiękowej.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celownik PSO-1 (zintegrowany)\n%c[d_purple] • %c[ui_gray_2] tłumik VSS (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_vintorez_worn">
+    <text>Zużyty WSS Wintoriez</text>
+  </string>
+  <string id="st_wpn_vityaz">
+    <text>PP-19-01 Witiaź</text>
+  </string>
+  <string id="st_wpn_vityaz_descr">
+    <text>Wariant PP-19 z 30-nabojowym, łukowym magazynkiem na amunicję 9x19 mm, opracowany w 2004 roku. Używany przez służby patrolowe, policję drogową, ochronę wewnętrzną oraz jednostki rosyjskiego MSW.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632 i EOTech\n%c[d_purple] • %c[ui_gray_2] tłumik PBS-1\n \n</text>
+  </string>
+  <string id="st_wpn_vsk94">
+    <text>WKS-94</text>
+  </string>
+  <string id="st_wpn_vsk94_descr">
+    <text>Wyciszony karabin snajperski WSK-94 powstał w tulskim biurze konstrukcyjnym na bazie kompaktowego 9A-91 jako tańsza alternatywa dla specjalnego karabinu WSS Wintoriez kal. 9 mm.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celowniki Cobra EKP-1S-03, USP-1 Tulipan, PSO-1M2-1\n%c[d_purple] • %c[ui_gray_2] tłumik 9A-91/WSK-94 (zintegrowany)\n \n</text>
+  </string>
+  <string id="st_wpn_vsk94_worn">
+    <text>Zużyty WSK-94</text>
+  </string>
+  <string id="st_wpn_vssk">
+    <text>WSSK Wychłop</text>
+  </string>
+  <string id="st_wpn_vssk_descr">
+    <text>Wychłop (wielkokalibrowy specjalny karabin snajperski) to wyciszony karabin wielkokalibrowy w układzie bullpup. Służy do cichego, bezpłomieniowego rażenia lekko opancerzonych i nieopancerzonych pojazdów oraz osób w ochronie osobistej, także ciężkich kamizelkach, na dystansie do 600 metrów.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] celownik PKS-07 (zintegrowany)</text>
+  </string>
+  <string id="st_wpn_vz61">
+    <text>Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_alt">
+    <text>Skorpion vz.61 (alternatywny)</text>
+  </string>
+  <string id="st_wpn_vz61_camo">
+    <text>Skorpion vz.61 w kamuflażu</text>
+  </string>
+  <string id="st_wpn_vz61_descr">
+    <text>Ten pistolet maszynowy, pierwotnie na nabój .32 ACP, został przyjęty do uzbrojenia armii czechosłowackiej w 1961 roku jako vz.61 (Samopal Vzor 1961, pistolet maszynowy wz. 1961). Wersję tę przerobiono na kaliber 9 mm z powodu niedoboru amunicji 7,65x17 mm w Zonie.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_vz61_freedom">
+    <text>Skorpion vz.61 w kamuflażu Wolności</text>
+  </string>
+  <string id="st_wpn_vz61_rusty">
+    <text>Zardzewiały Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_vz61_rusty_descr">
+    <text>Ten pistolet maszynowy, pierwotnie na nabój .32 ACP, został przyjęty do uzbrojenia armii czechosłowackiej w 1961 roku jako vz.61 (Samopal Vzor 1961, pistolet maszynowy wz. 1961). Wersję tę przerobiono na 9 mm z powodu niedoboru amunicji 7,65x17 mm w Zonie.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_red] • %c[d_red] nie można zamontować tłumika\n \n</text>
+  </string>
+  <string id="st_wpn_vz61_worn">
+    <text>Zużyty Skorpion vz.61</text>
+  </string>
+  <string id="st_wpn_wa2000">
+    <text>Walther WA 2000</text>
+  </string>
+  <string id="st_wpn_wa2000_descr">
+    <text>W latach 80. Walther próbował stworzyć zupełnie nowy karabin snajperski i opracował bullpup WA 2000. Mimo obiecujących parametrów cena około 5000 dolarów sprawiła, że nie przyjęto go do służby. Produkowano go od 1982 do listopada 1988 roku; powstało zaledwie 176 sztuk, więc dziś jest rzadkim obiektem kolekcjonerskim. Później kolejni rusznikarze wytwarzali egzemplarze ze względu na popularność modelu.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik KZRP (po modyfikacji)\n \n</text>
+  </string>
+  <string id="st_wpn_walther">
+    <text>Walther P99</text>
+  </string>
+  <string id="st_wpn_walther_custom">
+    <text>Niestandardowy Walther P99</text>
+  </string>
+  <string id="st_wpn_walther_descr">
+    <text>Walther P99 wyróżnia się ergonomią w swojej klasie i działa na zasadzie krótkiego odrzutu lufy. Szkielet pistoletu wykonano z lekkiego polimeru. Zaprojektowany dla służb porządkowych i rynku cywilnego, został przyjęty przez policję w kilku krajach.\n \n%c[ui_gray_2] WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik 9 mm\n \n</text>
+  </string>
+  <string id="st_wpn_walther_worn">
+    <text>Zużyty Walther P99</text>
+  </string>
+  <string id="st_wpn_xm8">
+    <text>HK XM8</text>
+  </string>
+  <string id="st_wpn_xm8_descr">
+    <text>Rodzinę XM8 opracowały wspólnie amerykańska firma ATK i niemiecka Heckler &amp; Koch na bazie HK G36. Miała zastąpić M16 i M4A1 lżejszym, niezawodniejszym karabinem. Nowe naboje z lekką kompozytową łuską miały zmniejszyć masę o 20% względem M16. Produkcję planowano około 2006 roku; próby wojskowe USA z 2004 roku oceniono pozytywnie, lecz projekt oficjalnie zamknięto w październiku 2005 roku, a prace przerwano w 2006. Podczas testów jedną XM8 wyceniano na 700 dolarów.\n \n%c[ui_gray_2]WYPOSAŻENIE: \n%c[d_purple] • %c[ui_gray_2] tłumik NATO\n%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
+  </string>
+  <string id="wpn_tt33_descr">
+    <text>Kultowy radziecki TT-33 to ulepszona wersja samopowtarzalnego pistoletu TT-30, opracowanego w 1930 roku w miejsce przestarzałego rewolweru Nagant wz. 1895. Choć w Rosji produkowano go w latach 1933–1954, niektóre egzemplarze nadal służą i są wytwarzane w krajach Trzeciego Świata. Prosta konstrukcja obniża koszt produkcji i ułatwia konserwację. Nietypowo mocny jak na pistolet nabój zapewnia dużą przebijalność i energię wylotową około 500 J.\n \n</text>
+  </string>
+</string_table>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_ssfx_module_water">
+    <text>Wasser</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm">
+    <text>Unschärfe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_mcm_desc">
+    <text>Stärke der Reflexionsunschärfe.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm">
+    <text>Unschärfemuster</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_blur_pattern_mcm_desc">
+    <text>Wie stark die Reflexionsunschärfe variiert. ( 0 = deaktiviert )</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm">
+    <text>Kaustikintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_caustics_int_mcm_desc">
+    <text>Stärke des Kaustikeffekts.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm">
+    <text>Wellenverzerrung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_distortion_mcm_desc">
+    <text>Stärke der Verzerrung von Reflexion und Brechung.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm">
+    <text>Parallax-Höhe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_height_mcm_desc">
+    <text>Maximale Höhe des Wellen-Parallaxeneffekts.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm">
+    <text>Parallax-Qualität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_parallax_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Anzahl der Abtastungen für den Wellen-Parallaxeneffekt. Niedrigere Werte können die Leistung verbessern. [ 8, 16, 32 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm">
+    <text>Reflexionsintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_reflection_int_mcm_desc">
+    <text>Stärke der Wasserreflexionen.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm">
+    <text>Intensität der Wellenringe</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ripples_int_mcm_desc">
+    <text>Stärke des Regentröpfchen-Welleneffekts.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm">
+    <text>Weicher Rand</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_softborder_mcm_desc">
+    <text>Legt die Weichheit der Wasserränder fest.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm">
+    <text>Glanzintensität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_specular_int_mcm_desc">
+    <text>Stärke der spiegelnden Glanzlichter auf dem Wasser.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm">
+    <text>SSR-Qualität</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_quality_mcm_desc">
+    <text>[ RESTART REQUIERED ] Anzahl der Abtastungen für die Reflexionsdarstellung. Hohe Werte können die Leistung stark beeinträchtigen und den ersten Ladevorgang nach dem Löschen des Shader-Caches verlängern. [ 8, 16, 24, 32, 64 ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm">
+    <text>SSR-Auflösung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_ssr_res_mcm_desc">
+    <text>Renderauflösung von SSR. Eine niedrigere Auflösung kann die Leistung verbessern. [ 1.0 = 100% ~ 0.5 = 50% ]</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_title">
+    <text>Wassereinstellungen</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm">
+    <text>Wassertrübung</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_water_turbidity_mcm_desc">
+    <text>Legt die Wassertrübung fest. [ 0.0 = klares Wasser ]</text>
+  </string>
+</string_table>

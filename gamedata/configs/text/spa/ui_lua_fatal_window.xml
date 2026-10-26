@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_continue">
+    <text>Continuar</text>
+  </string>
+  <string id="st_disconnect">
+    <text>Volver al menú principal</text>
+  </string>
+  <string id="st_lua_fatal_error">
+    <text>ADVERTENCIA: ESTADO INESTABLE DEL JUEGO\n \nSe ha producido un error crítico de Lua que ha corrompido el motor de scripts (estado «Busy Hands»).\nLa partida se ha guardado en «tempsave». Se recomienda volver al menú principal o cargar de nuevo la partida inmediatamente.\nContinuar desde este punto provocará más corrupción y podría hacer que el juego se cierre.\n \nScript: %s\n \nEl error se ha registrado con la etiqueta [BusyHandsDebug].\nEnvía el registro e informa del problema al autor del script o al equipo del modpack.</text>
+  </string>
+  <string id="st_reload_save">
+    <text>Cargar partida de nuevo</text>
+  </string>
+</string_table>

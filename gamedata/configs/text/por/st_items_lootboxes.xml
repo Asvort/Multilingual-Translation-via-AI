@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_box_difficulty">
+    <text>Dificuldade de arrombamento:</text>
+  </string>
+  <string id="st_cant_unlock">
+    <text>Não há gazuas suficientes para abrir a fechadura.</text>
+  </string>
+  <string id="st_cant_unlock_coinbox">
+    <text>Esta ferramenta não é adequada.</text>
+  </string>
+  <string id="st_cant_unlock_snapgun">
+    <text>A fechadura é complexa demais para abrir com esta ferramenta.</text>
+  </string>
+  <string id="st_check_peek">
+    <text>[DEBUG]</text>
+  </string>
+  <string id="st_dot">
+    <text>•</text>
+  </string>
+  <string id="st_incompatible">
+    <text>Esta ferramenta não pode abrir este contêiner.</text>
+  </string>
+  <string id="st_lockpick">
+    <text>Gazua</text>
+  </string>
+  <string id="st_lockpick_bundle">
+    <text>Conjunto de gazuas</text>
+  </string>
+  <string id="st_lockpick_bundle_descr">
+    <text>Conjunto com três gazuas. Um bom achado!\n \nÉ preciso separá-las antes de usar.\n \n</text>
+  </string>
+  <string id="st_lockpick_descr">
+    <text>A gazua é uma ferramenta rara e frágil para abrir fechaduras de contêineres. A maioria exige mais de uma.\n \nPara usar, arraste a gazua até um contêiner trancado ou clique nele com o botão direito. É possível usar até 10 gazuas por fechadura (100% de eficácia total).\n \n%c[d_cyan] • %c[ui_gray_2] eficácia de arrombamento: 10%\n%c[d_cyan] • %c[ui_gray_2] podem ser usadas até 10 de cada vez\n%c[d_cyan] • %c[ui_gray_2] quebra durante o uso\n \n</text>
+  </string>
+  <string id="st_lockpick_set">
+    <text>Ferramentas de chaveiro</text>
+  </string>
+  <string id="st_lockpick_set_descr">
+    <text>Um kit profissional de chaveiro. Infelizmente, alguém levou todas as gazuas. Ainda assim, as ferramentas especiais para girar fechaduras são mais práticas que chaves de fenda comuns.\n \n%c[d_cyan] • %c[ui_gray_2] no inventário, reduz a dificuldade das fechaduras em 10%\n \n</text>
+  </string>
+  <string id="st_loot_ammo">
+    <text>unidade</text>
+  </string>
+  <string id="st_loot_ammos">
+    <text>unidades</text>
+  </string>
+  <string id="st_lootbox_docs_case">
+    <text>Pasta metálica para documentos</text>
+  </string>
+  <string id="st_lootbox_docs_case_descr">
+    <text>Pasta metálica fina e protegida para guardar documentos. Enquanto os laboratórios X ainda funcionavam, informações críticas e outros dados eram colocados nessas pastas e enviados para fora da Zona de Exclusão. Hoje é quase impossível encontrar uma na Zona. Qualquer um daria tudo para saber o que há dentro. A fechadura é biométrica e não pode ser arrombada mecanicamente.\n \n</text>
+  </string>
+  <string id="st_lootbox_get">
+    <text>Dentro do contêiner</text>
+  </string>
+  <string id="st_lootbox_large_monolith">
+    <text>Caixa do Monólito</text>
+  </string>
+  <string id="st_lootbox_large_monolith_descr">
+    <text>Uma caixa pesada e ricamente decorada, com o símbolo do Monólito gravado na tampa. Supostamente criada pelo próprio Concessor de Desejos, ela atende aos desejos do Monólito por equipamentos e suprimentos. Gazuas comuns não abrem o cadeado: alguma anomalia gravitacional mantém os pinos no lugar. Mesmo assim, um achado tão raro certamente atrairá comerciantes ou colecionadores.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_rifle">
+    <text>Maleta de armas Pelican</text>
+  </string>
+  <string id="st_lootbox_large_rifle_descr">
+    <text>Um estojo rígido e à prova d'água, frequentemente usado para transportar rifles longos. Na Zona, só mercenários ou gente igualmente perigosa pode oferecer esse luxo às armas. Encontrar um desses causa preocupação genuína.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_shotgun">
+    <text>Caixa de armas antiga</text>
+  </string>
+  <string id="st_lootbox_large_shotgun_descr">
+    <text>Uma grande caixa de madeira usada pelos moradores locais para guardar espingardas de caça e armas excedentes da Segunda Guerra Mundial. Algumas ainda estão nas aldeias ao redor da Zona de Exclusão; stalkers reutilizam outras para guardar armas. A madeira está velha e podre, então não será difícil arrebentar o cadeado com um machado.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_surplus">
+    <text>Caixa militar de armas</text>
+  </string>
+  <string id="st_lootbox_large_surplus_descr">
+    <text>Caixa militar com cadeado, geralmente usada para transportar armas e munição. Após as primeiras tentativas fracassadas de explorar a Zona de Exclusão, enormes quantidades de equipamento, inclusive caixas como esta, foram abandonadas. É difícil dizer há quanto tempo está aqui; talvez desde o surgimento da Zona. É muito pesada, então não a carregue por aí.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_artifact">
+    <text>Contêiner de chumbo</text>
+  </string>
+  <string id="st_lootbox_small_artifact_descr">
+    <text>Um contêiner de chumbo feito profissionalmente, com fechadura interna e o emblema do Ministério da Ciência da Ucrânia. Ecologistas costumam usá-lo para transportar artefatos por áreas perigosas da Zona. Ele bloqueia muito bem a radiação e protege o conteúdo do ambiente e de stalkers ladrões. Até grupos de ecologistas escoltados são frequentemente roubados, por isso guardar informações e artefatos valiosos em contêineres seguros virou prática comum. A fechadura interna é complexa e difícil de arrombar.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_bad">
+    <text>Caixa de ferramentas com cadeado</text>
+  </string>
+  <string id="st_lootbox_small_bad_descr">
+    <text>Uma caixa de ferramentas média com cadeado. É a maneira mais barata de um stalker guardar seus pertences; oferece pouca proteção contra arrombamentos e é fácil de abrir. Normalmente, só novatos deixam algo valioso lá dentro. O cadeado é bem simples e pode ser aberto sem esforço.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_briefcase">
+    <text>Maleta</text>
+  </string>
+  <string id="st_lootbox_small_briefcase_descr">
+    <text>Uma maleta trancada e à prova de fogo, relativamente leve e portátil. Cientistas e militares costumam usá-la para transportar documentos secretos, enquanto organizações criminosas a usam para levar grandes quantias em dinheiro. Como convém a uma mala para itens tão delicados, sua fechadura é bastante segura.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good">
+    <text>Contêiner de segurança</text>
+  </string>
+  <string id="st_lootbox_small_good2_descr">
+    <text>Um contêiner rígido com fechadura interna. O corpo é feito de algum material composto e resiste bem a impactos. Esses contêineres são encomendados do continente e fazem sucesso entre estrangeiros e stalkers ricos como a melhor forma de guardar pertences pessoais. A fechadura interna é complicada, mas ainda pode ser arrombada.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good_descr">
+    <text>Um contêiner rígido com fechadura interna. O corpo é feito de algum material composto e resiste bem a impactos. Esses contêineres são encomendados do continente e fazem sucesso entre estrangeiros e stalkers ricos como a melhor forma de guardar pertences pessoais. A fechadura interna é complicada, mas ainda pode ser arrombada.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_ok">
+    <text>Caixa de aço com cadeado</text>
+  </string>
+  <string id="st_lootbox_small_ok_descr">
+    <text>Uma caixa de aço simples com cadeado. Ao contrário de uma caixa de ferramentas, foi feita para manter o conteúdo seguro e oferece uma boa proteção contra arrombamentos. O cadeado é de boa qualidade, embora não seja difícil de abrir.\n \n</text>
+  </string>
+  <string id="st_lootbox_survival">
+    <text>Esconderijo de sobrevivência</text>
+  </string>
+  <string id="st_lootbox_survival_descr">
+    <text>Uma caixa trancada e resistente ao clima, com suprimentos úteis para o campo. Esconderijos discretos assim são usados principalmente por grupos paramilitares e equipes secretas para reabastecer agentes em serviço. Não há marcas externas, então é difícil saber quem era o dono. Em geral, tem um cadeado resistente que afasta até os ladrões mais engenhosos. Não contém nada muito valioso, mas comida, remédios e munição sempre são úteis.\n \n</text>
+  </string>
+  <string id="st_money">
+    <text>rublos</text>
+  </string>
+  <string id="st_no_picks">
+    <text>Sem gazuas.</text>
+  </string>
+  <string id="st_pick_condition">
+    <text>Gazuas no conjunto:</text>
+  </string>
+  <string id="st_pick_split">
+    <text>separar gazuas</text>
+  </string>
+  <string id="st_rip_axe">
+    <text>O machado quebrou ao abrir a caixa.</text>
+  </string>
+  <string id="st_skelekey">
+    <text>Chave mestra</text>
+  </string>
+  <string id="st_skelekey_descr">
+    <text>Uma chave estranha. Parece ter passado por algum tipo de campo anômalo. A haste está curvada de forma antinatural, e os dentes brilham de modo sinistro, mudando constantemente de forma e tamanho.\n \n</text>
+  </string>
+  <string id="st_snapgun">
+    <text>Pistola de arrombamento</text>
+  </string>
+  <string id="st_snapgun_descr">
+    <text>Um dispositivo especial para arrombar fechaduras rapidamente. Seu mecanismo de impacto atinge todos os pinos de uma vez e os alinha para que o cilindro possa girar. É confiável e abre a maioria das fechaduras simples sem esforço, mas não ajuda com as mais complexas.\n \n%c[d_cyan] • %c[ui_gray_2] eficácia de arrombamento: 30%\n \n</text>
+  </string>
+  <string id="st_spooky_1">
+    <text>ABRA A CAIXA, DROGA</text>
+  </string>
+  <string id="st_spooky_2">
+    <text>EI, ABRA A CAIXA</text>
+  </string>
+  <string id="st_spooky_3">
+    <text>EI, ME TIRE DAQUI</text>
+  </string>
+  <string id="st_spooky_4">
+    <text>ABRA, EU TENHO VODCA</text>
+  </string>
+  <string id="st_spooky_free">
+    <text>HAHAHAHA! ESTOU LIVRE!</text>
+  </string>
+  <string id="st_tech_open">
+    <text>Custo</text>
+  </string>
+  <string id="st_tech_open_fail">
+    <text>Que diabos é essa caixa?\nNão consigo abri-la.</text>
+  </string>
+  <string id="st_tech_open_q">
+    <text>Abrir o contêiner?</text>
+  </string>
+  <string id="st_unlock_coin">
+    <text>inserir moeda?</text>
+  </string>
+  <string id="st_unlock_pick">
+    <text>abrir com gazuas</text>
+  </string>
+  <string id="st_unlock_snap">
+    <text>abrir com pistola de arrombamento</text>
+  </string>
+  <string id="st_weapon_0">
+    <text>Quebrado</text>
+  </string>
+  <string id="st_weapon_1">
+    <text>Danificado</text>
+  </string>
+  <string id="st_weapon_2">
+    <text>Desgastado</text>
+  </string>
+  <string id="st_weapon_3">
+    <text>Em bom estado</text>
+  </string>
+  <string id="ui_mcm_lootboxes_animation">
+    <text>Animação de abertura de contêiner</text>
+  </string>
+  <string id="ui_mcm_lootboxes_deathchance">
+    <text>Chance de encontrar contêineres ou gazuas em stalkers mortos</text>
+  </string>
+  <string id="ui_mcm_lootboxes_debug">
+    <text>Depuração (para desenvolvedores)</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality">
+    <text>Valor do saque</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality_desc">
+    <text>Afeta o valor dos contêineres encontrados e, consequentemente, o valor do que há dentro.</text>
+  </string>
+  <string id="ui_mcm_lootboxes_stashchance">
+    <text>Chance de encontrar contêineres em esconderijos</text>
+  </string>
+  <string id="ui_mcm_lootboxes_title">
+    <text>Configurações de Lootboxes</text>
+  </string>
+  <string id="ui_mcm_menu_lootboxes">
+    <text>Lootboxes</text>
+  </string>
+</string_table>

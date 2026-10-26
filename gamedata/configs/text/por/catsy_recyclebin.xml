@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_itm_placeable_trashcan_name">
+    <text>Lixeira da Zona</text>
+  </string>
+  <string id="st_open_trashcan">
+    <text>abrir lixeira</text>
+  </string>
+  <string id="st_place_trashcan">
+    <text>colocar lixeira</text>
+  </string>
+  <string id="st_placeable_trashcan_descr">
+    <text>Recipiente metálico para itens indesejados. Pode ser colocado como esconderijo, mas todo o conteúdo é destruído para sempre após um tempo.\n \n%c[ui_gray_3]PROPRIEDADES:\n%c[d_blue] • %c[ui_gray_2] recipiente colocável\n%c[d_blue] • %c[ui_gray_2] destrói tudo o que for colocado dentro</text>
+  </string>
+  <string id="st_trashcan_mollyguard">
+    <text>AVISO: Todos os itens neste recipiente serão DESTRUÍDOS após</text>
+  </string>
+  <string id="st_trashcan_searchtip">
+    <text>Coloque itens na lixeira ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_trashcan_seconds">
+    <text>segundos</text>
+  </string>
+  <string id="st_trashcan_shutupwesley">
+    <text>Lixeira colocada</text>
+  </string>
+  <string id="ui_mcm_menu_zrb">
+    <text>Lixeira da Zona</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs">
+    <text>Ativar registro de depuração</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs_desc">
+    <text>O script exibirá mensagens detalhadas no console. Deixe desativado normalmente e ative para reproduzir um problema.</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout">
+    <text>Atraso antes da exclusão de itens</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout_desc">
+    <text>Número de segundos que devem passar antes que todos os itens sejam removidos da lixeira.\n \nDepois que ela for esvaziada, todos os itens serão perdidos PARA SEMPRE.</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled">
+    <text>Ativar exclusão de itens</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled_desc">
+    <text>Ativa ou desativa a exclusão de itens.</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin">
+    <text>Gerar uma lixeira grátis para o jogador</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin_desc">
+    <text>Concede uma lixeira grátis e desativa esta opção. Ative novamente para obter outra.</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall">
+    <text>Desinstalar ZRB</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall_desc">
+    <text>Remove todas as lixeiras do inventário do jogador.</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots">
+    <text>Adicionar marcadores da lixeira ao mapa</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots_desc">
+    <text>Adiciona um ícone único ao colocar a lixeira.</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled">
+    <text>Avisar sobre a exclusão permanente de itens</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled_desc">
+    <text>Exibe um aviso sempre que a lixeira é colocada. Desative para usar uma confirmação normal.</text>
+  </string>
+</string_table>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_stealth">
+    <text>Furtivité + IA de combat</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch">
+    <text>S’accroupir</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch_desc">
+    <text>Multiplicateur en position accroupie. \n \nPar défaut : 0.4</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx">
+    <text>Débogage</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx_desc">
+    <text>Affiche les variables de l’équation (pour voir le seuil correctement, gardez le curseur sur l’objet) : \n \nConsole : toutes les variables \n \nActualités dynamiques : indique si l’objet voit le personnage \n \nMessage en bas de l’écran : seuil de visibilité de l’objet et variables modifiables dans le MCM</text>
+  </string>
+  <string id="ui_mcm_stealth_distance">
+    <text>Distance</text>
+  </string>
+  <string id="ui_mcm_stealth_distance_desc">
+    <text>Multiplicateur de distance (distance entre objets, portée et champ de vision). \n \nPar défaut : 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_header_debug">
+    <text>Débogage</text>
+  </string>
+  <string id="ui_mcm_stealth_header_hud">
+    <text>HUD</text>
+  </string>
+  <string id="ui_mcm_stealth_header_main">
+    <text>Principal</text>
+  </string>
+  <string id="ui_mcm_stealth_header_patches">
+    <text>Correctifs</text>
+  </string>
+  <string id="ui_mcm_stealth_icon">
+    <text>Icône</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_desc">
+    <text>Icône de luminosité (affiche la lumière sur le personnage).</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type">
+    <text>Type d’icône</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type_desc">
+    <text>1) L’indicateur de lumière affiche la quantité de lumière sur le joueur. \n \n2) La vision des PNJ montre comment le PNJ ayant la meilleure vision perçoit le joueur : \n- Icône blanche : le PNJ est dans un état normal et ne voit pas le joueur ; \n- Icône jaune : le PNJ est en combat ou en alerte, sa vision est renforcée mais il ne voit pas le joueur ; \n- Icône rouge : le PNJ voit le joueur.</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_x">
+    <text>Position X de l’icône</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_y">
+    <text>Position Y de l’icône</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch">
+    <text>S’accroupir bas</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Multiplicateur en position accroupie basse. \n \nPar défaut : 0.25</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity">
+    <text>Luminosité</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity_desc">
+    <text>Multiplicateur de luminosité (lumière sur l’objet). \n \nPar défaut : 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_memory">
+    <text>Mémoire</text>
+  </string>
+  <string id="ui_mcm_stealth_memory_desc">
+    <text>Multiplicateur de mémoire. Si un PNJ a déjà vu une cible, sa vision contre elle est renforcée. Ce bonus diminue avec le temps ; avec la valeur par défaut 1.0, il faut environ 100 secondes réelles pour revenir à zéro. \n \nPar défaut : 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch">
+    <text>Patch météo de Michiko</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Il est recommandé de l’activer si vous utilisez la météo de Michiko.</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val">
+    <text>Vision nocturne des PNJ</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val_desc">
+    <text>Permet à certains PNJ d’utiliser une vision nocturne plutôt qu’une lampe. La valeur NVG s’ajoute quelle que soit la distance, contrairement à la lampe (0 désactive la fonction). \n \nPar défaut : 1</text>
+  </string>
+  <string id="ui_mcm_stealth_title">
+    <text>Furtivité + IA de combat</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity">
+    <text>Vitesse</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity_desc">
+    <text>Multiplicateur de vitesse (vitesse de l’objet). \n \nPar défaut : 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_weight">
+    <text>Poids</text>
+  </string>
+  <string id="ui_mcm_stealth_weight_desc">
+    <text>Multiplicateur de poids (charge portée par l’acteur). \n \nPar défaut : 1.0</text>
+  </string>
+</string_table>

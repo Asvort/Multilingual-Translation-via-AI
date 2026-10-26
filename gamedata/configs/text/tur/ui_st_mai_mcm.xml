@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_mai_base_detection_radius">
+    <text>Algılama yarıçapı (m)</text>
+  </string>
+  <string id="ui_mcm_mai_base_detection_radius_desc">
+    <text>NPC'lerin anomali algılama mesafesi. Yüksek değer daha erken algılama, ancak daha çok kısıtlama getirir. Varsayılan: 30 m</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses">
+    <text>Cesetlerde engelle</text>
+  </string>
+  <string id="ui_mcm_mai_block_anomalies_on_corpses_desc">
+    <text>Anomalilerin cesetlerde etkinleşmesini önler. Ragdoll hatalarını azaltır ve performansı artırır.</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay">
+    <text>Önbellek yenileme gecikmesi (sn)</text>
+  </string>
+  <string id="ui_mcm_mai_cache_rebuild_delay_desc">
+    <text>Emisyon veya psi fırtınası sonrası önbellek yenileme gecikmesi. Arrival için gerekir. Varsayılan: 2,5 sn</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers">
+    <text>Eski işaretleri temizle</text>
+  </string>
+  <string id="ui_mcm_mai_cleanup_map_markers_desc">
+    <text>Önceki oturumlardan kalan işaretleri siler. Açıp uygulayın, sonra kapatın.</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier">
+    <text>Çatışmada</text>
+  </string>
+  <string id="ui_mcm_mai_combat_miss_multiplier_desc">
+    <text>Çatışmada ıskalama çarpanı. Dikkati dağılmış NPC'ler anomalilere daha sık girer. Varsayılan: 3,0x</text>
+  </string>
+  <string id="ui_mcm_mai_damage_title">
+    <text>Hasar ayarları</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode">
+    <text>Hata ayıklama modu</text>
+  </string>
+  <string id="ui_mcm_mai_debug_mode_desc">
+    <text>Algılama, hasar ve ölüm nedenlerini konsola kaydeder.</text>
+  </string>
+  <string id="ui_mcm_mai_detection_title">
+    <text>Algılama ayarları</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius">
+    <text>Etki yarıçapı (m)</text>
+  </string>
+  <string id="ui_mcm_mai_effect_radius_desc">
+    <text>Bu mesafeden uzaktaki NPC'ler anomali hasarından korunur. Varsayılan: 300 m</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult">
+    <text>Kıyafet koruması</text>
+  </string>
+  <string id="ui_mcm_mai_enable_armor_damage_mult_desc">
+    <text>NPC kıyafetindeki yanma, elektrik, kimyasal vb. koruma değerlerine göre hasarı azaltır.</text>
+  </string>
+  <string id="ui_mcm_mai_general_title">
+    <text>Genel ayarlar</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance">
+    <text>0% ıskalama olasılığında bağışık</text>
+  </string>
+  <string id="ui_mcm_mai_immune_zero_miss_chance_desc">
+    <text>Temel ıskalama olasılığı 0% olan NPC'ler anomali hasarına bağışıktır.</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled">
+    <text>MAI'yi etkinleştir</text>
+  </string>
+  <string id="ui_mcm_mai_mod_enabled_desc">
+    <text>MAI'yi açar veya kapatır. Kapalıyken NPC'ler anomalileri yok sayar.</text>
+  </string>
+  <string id="ui_mcm_mai_movement_title">
+    <text>Hareket durumuna göre çarpanlar</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance">
+    <text>Deneyimli</text>
+  </string>
+  <string id="ui_mcm_mai_rank_experienced_miss_chance_desc">
+    <text>Deneyimli stalkerların temel ıskalama olasılığı. Varsayılan: 50%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance">
+    <text>Uzman</text>
+  </string>
+  <string id="ui_mcm_mai_rank_expert_miss_chance_desc">
+    <text>Uzmanların temel ıskalama olasılığı. Varsayılan: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance">
+    <text>Efsane</text>
+  </string>
+  <string id="ui_mcm_mai_rank_legend_miss_chance_desc">
+    <text>Efsanelerin temel ıskalama olasılığı. Varsayılan: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance">
+    <text>Usta</text>
+  </string>
+  <string id="ui_mcm_mai_rank_master_miss_chance_desc">
+    <text>Ustaların temel ıskalama olasılığı. Varsayılan: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance">
+    <text>Acemi</text>
+  </string>
+  <string id="ui_mcm_mai_rank_novice_miss_chance_desc">
+    <text>Acemilerin temel ıskalama olasılığı. 100%, sürekli anomalilere girebilecekleri anlamına gelir. Varsayılan: 100%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance">
+    <text>Profesyonel</text>
+  </string>
+  <string id="ui_mcm_mai_rank_professional_miss_chance_desc">
+    <text>Profesyonellerin temel ıskalama olasılığı. Varsayılan: 25%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_title">
+    <text>Rütbeye göre temel ıskalama olasılığı (%)</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance">
+    <text>Stajyer</text>
+  </string>
+  <string id="ui_mcm_mai_rank_trainee_miss_chance_desc">
+    <text>Stajyerlerin temel ıskalama olasılığı. Varsayılan: 75%</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance">
+    <text>Kıdemli</text>
+  </string>
+  <string id="ui_mcm_mai_rank_veteran_miss_chance_desc">
+    <text>Gazilerin temel ıskalama olasılığı. 0%, anomalilere hiç girmeyecekleri anlamına gelir. Varsayılan: 0%</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius">
+    <text>Küresel yol bulma</text>
+  </string>
+  <string id="ui_mcm_mai_restrictions_ignore_radius_desc">
+    <text>Açık: tüm NPC'ler mesafeden bağımsız kaçar. Kapalı: kısıtlamalar etki alanında uygulanır.</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier">
+    <text>Koşarken</text>
+  </string>
+  <string id="ui_mcm_mai_running_miss_multiplier_desc">
+    <text>Koşarken ıskalama çarpanı. Yüksek değer anomalileri kaçırma olasılığını artırır. Varsayılan: 1,2x</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies">
+    <text>Anomalileri haritada göster</text>
+  </string>
+  <string id="ui_mcm_mai_show_debug_anomalies_desc">
+    <text>Yol bulmayı incelemek için önbellekteki anomalileri PDA'da işaretler. Kapatınca işaretler silinir.</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier">
+    <text>Ayakta</text>
+  </string>
+  <string id="ui_mcm_mai_standing_miss_multiplier_desc">
+    <text>NPC hareketsizken ıskalama çarpanı. Düşük değer daha dikkatli gözlem demektir. Varsayılan: 0,3x</text>
+  </string>
+  <string id="ui_mcm_mai_title">
+    <text>MAI v2.6 — Mutant/anomali etkileşimi</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug">
+    <text>Ayrıntılı hata ayıklama</text>
+  </string>
+  <string id="ui_mcm_mai_verbose_debug_desc">
+    <text>Güncellemeleri, önbelleği ve kısıtlamaları ayrıntılı kaydeder. Çok fazla mesaj!</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier">
+    <text>Yürürken</text>
+  </string>
+  <string id="ui_mcm_mai_walking_miss_multiplier_desc">
+    <text>Yürürken ıskalama çarpanı. Varsayılan: 0,6x</text>
+  </string>
+  <string id="ui_mcm_menu_mai">
+    <text>Anomali etkileşimi</text>
+  </string>
+</string_table>

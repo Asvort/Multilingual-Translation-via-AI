@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_menu_stealth">
+    <text>Skradanie + SI walki</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch">
+    <text>Kucanie</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch_desc">
+    <text>Mnożnik kucania. \n \nDomyślnie: 0.4</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx">
+    <text>Debugowanie</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx_desc">
+    <text>Wyświetla zmienne równania (aby poprawnie widzieć próg, cały czas trzymaj kursor na obiekcie): \n \nKonsola: wszystkie zmienne \n \nDynamiczne wiadomości: czy obiekt widzi postać \n \nWiadomość u dołu ekranu: próg widoczności obiektu i zmienne do zmiany w MCM</text>
+  </string>
+  <string id="ui_mcm_stealth_distance">
+    <text>Odległość</text>
+  </string>
+  <string id="ui_mcm_stealth_distance_desc">
+    <text>Mnożnik odległości (odległość między obiektami, zasięg i pole widzenia). \n \nDomyślnie: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_header_debug">
+    <text>Debugowanie</text>
+  </string>
+  <string id="ui_mcm_stealth_header_hud">
+    <text>HUD</text>
+  </string>
+  <string id="ui_mcm_stealth_header_main">
+    <text>Główne</text>
+  </string>
+  <string id="ui_mcm_stealth_header_patches">
+    <text>Łatki</text>
+  </string>
+  <string id="ui_mcm_stealth_icon">
+    <text>Ikona</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_desc">
+    <text>Ikona jasności (pokazuje światło na postaci).</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type">
+    <text>Typ ikony</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type_desc">
+    <text>1) Wskaźnik światła pokazuje ilość światła padającego na gracza. \n \n2) Wzrok NPC pokazuje, jak widzi gracza NPC o najwyższej wartości widzenia: \n- Biała ikona: NPC jest w normalnym stanie i nie widzi gracza; \n- Żółta ikona: NPC walczy lub jest w stanie zagrożenia, ma wzmocniony wzrok, ale nie widzi gracza; \n- Czerwona ikona: NPC widzi gracza.</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_x">
+    <text>Pozycja ikony X</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_y">
+    <text>Pozycja ikony Y</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch">
+    <text>Niskie kucanie</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Mnożnik niskiego kucania. \n \nDomyślnie: 0.25</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity">
+    <text>Jasność</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity_desc">
+    <text>Mnożnik jasności (światło na obiekcie). \n \nDomyślnie: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_memory">
+    <text>Pamięć</text>
+  </string>
+  <string id="ui_mcm_stealth_memory_desc">
+    <text>Mnożnik pamięci. Jeśli NPC wcześniej zobaczył cel, jego wzrok przeciwko temu celowi zostaje wzmocniony. Bonus z czasem maleje; przy domyślnej wartości 1.0 powrót do zera trwa około 100 sekund rzeczywistych. \n \nDomyślnie: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch">
+    <text>Łatka pogody Michiko</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Zaleca się włączenie tej opcji przy pogodzie Michiko.</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val">
+    <text>Noktowizja NPC</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val_desc">
+    <text>Niektórzy NPC będą używać noktowizji zamiast latarki. Wartość noktowizji jest dodawana niezależnie od odległości, w przeciwieństwie do latarki (0 wyłącza funkcję). \n \nDomyślnie: 1</text>
+  </string>
+  <string id="ui_mcm_stealth_title">
+    <text>Skradanie + SI walki</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity">
+    <text>Prędkość</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity_desc">
+    <text>Mnożnik prędkości (szybkość obiektu). \n \nDomyślnie: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_weight">
+    <text>Waga</text>
+  </string>
+  <string id="ui_mcm_stealth_weight_desc">
+    <text>Mnożnik obciążenia (waga niesiona przez postać). \n \nDomyślnie: 1.0</text>
+  </string>
+</string_table>

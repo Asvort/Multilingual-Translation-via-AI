@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_persistent_weather">
+    <text>Météo persistante</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled">
+    <text>Activer le mod</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_enabled_desc">
+    <text>Active le système météo persistant. La météo est sauvegardée puis restaurée au chargement d’une sauvegarde.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay">
+    <text>Délai minimal avant un changement de niveau (minutes)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_min_delay_desc">
+    <text>Temps de jeu minimal avant que la météo puisse changer lors d’un changement de niveau. Si vous voyagez plus tôt, elle persiste. 0 désactive ce délai.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance">
+    <text>Chance de conserver la météo lors d’un changement de niveau (%)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_level_change_persist_chance_desc">
+    <text>Probabilité (0–100 %) de conserver la même météo en changeant de lieu. À 0 %, elle change toujours lors du passage de niveau (comportement d’origine) ; à 100 %, elle persiste toujours.</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_title">
+    <text>Météo persistante</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout">
+    <text>Durée maximale sous terre (minutes)</text>
+  </string>
+  <string id="ui_mcm_persistent_weather_underground_timeout_desc">
+    <text>Durée réelle pendant laquelle vous pouvez rester sous terre avant que la météo puisse changer. Valeur par défaut : 10 minutes.</text>
+  </string>
+</string_table>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_weapon_cover_tilt">
+    <text>Inclinação da arma perto de coberturas</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed">
+    <text>Inércia da animação</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+    <text>Um valor menor deixa a animação mais rápida.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+    <text>Fator de peso</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+    <text>Quanto maior o valor, maior a influência do peso da arma na velocidade da animação.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+    <text>Considerar o supressor no raio</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+    <text>Armas com supressor instalado terão o raio de acionamento aumentado em cerca de 0,1 m.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+    <text>Ativar inclinação manual</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_enabled">
+    <text>Ativar</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+    <text>Tecla de inclinação manual</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x">
+    <text>Deslocamento da arma no eixo X</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+    <text>&lt; 0 — para a esquerda. &gt; 0 — para a direita</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y">
+    <text>Deslocamento da arma no eixo Y</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+    <text>&lt; 0 — para baixo. &gt; 0 — para cima</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z">
+    <text>Deslocamento da arma no eixo Z</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+    <text>&lt; 0 — para trás. &gt; 0 — para frente</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation">
+    <text>Variação de rotação lateral da arma</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+    <text>Ao erguer a arma, ela inclinará aleatoriamente alguns graus, variando a animação.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+    <text>Ruído ao inclinar</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_title">
+    <text>Inclinação da arma perto de coberturas</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+    <text>Raio de acionamento (m)</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+    <text>Modificador do comprimento da arma</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+    <text>Altera a dependência do raio de acionamento em relação ao comprimento da arma. Valores maiores aumentam a diferença entre armas curtas e longas.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone">
+    <text>Usar dimensões do modelo do HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_debug">
+    <text>Depurar dimensões do modelo do HUD</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_use_fire_bone_desc">
+    <text>Quando ativado, a inclinação depende das dimensões reais do modelo HUD. O WCT faz um raycast a partir do osso fire_bone e do deslocamento fire_point na direção do disparo. REQUER EXE MODIFICADO &gt;= 2025.04.22. Se o método novo não estiver disponível, será usado o padrão.</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+    <text>Variação de guinada da arma</text>
+  </string>
+  <string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+    <text>Ao erguer a arma, ela girará aleatoriamente na horizontal alguns graus, variando a animação.</text>
+  </string>
+</string_table>

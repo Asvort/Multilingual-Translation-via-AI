@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+    <text>DGG en yüksek kazancı</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+    <text>Yüksek değerler parlaklığı sınıra kadar artırır. Gece cloudy_dark_2 havasında ayarlayın.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+    <text>DGG en düşük kazancı</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+    <text>Düşük değerler DGG’yi daha da karartır; çok düşük değerlerde gündüz kullanılabilir.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+    <text>Dünya parlaklığı ofseti</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+    <text>1.0 dünya parlaklığını değiştirmez. Daha yüksek değerler ışık kaynakları hariç parlaklığı çarpar.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+    <text>1. nesil kaplama arka planı (varsayılan: yok)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+    <text>Kaplama arka planını seçin.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+    <text>1. Nesil tüp ayarı (varsayılan: ortada tek)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+    <text>1. nesil tüplerin sayısını ve düzenini seçin.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+    <text>2. nesil kaplama arka planı (varsayılan: bulanık)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+    <text>Kaplama arka planını seçin.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+    <text>2. Nesil tüp ayarı (varsayılan: ortada çift)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+    <text>2. nesil tüplerin sayısını ve düzenini seçin.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+    <text>3. nesil kaplama arka planı (varsayılan: bulanık)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+    <text>Kaplama arka planını seçin.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+    <text>3. Nesil tüp ayarı (varsayılan: ortada dörtlü)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+    <text>3. nesil tüplerin sayısını ve düzenini seçin.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+    <text>PDA görüntülerken DGG açık kalsın:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+    <text>Kapalıysa PDA görüntülenirken DGG otomatik kapanır.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+    <text>Nişan alırken DGG kullan:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+    <text>Açıksa nişan alırken DGG açık kalır. Kapalıysa silahı kaldırınca kapanır.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+    <text>Işık kaynağı patlama eşiği</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+    <text>Genellikle 0.1 kullanın. Daha yüksek değerler patlamayı biraz azaltır; eşik DGG kazancıyla ölçeklenir.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat">
+    <text>Shader tabanlı 2B dürbün kullanıyorsanız bu seçeneği açın.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+    <text>Shader tabanlı 2B dürbünler bu ayarı gerektirir. Diğer durumlarda kapalı bırakın.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title">
+    <text>Beef’in DGG ayarları</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title_2">
+    <text>Shader tabanlı 2B dürbünlerle uyumluluk</text>
+  </string>
+  <string id="ui_mcm_lst_black_background">
+    <text>Siyah kaplama</text>
+  </string>
+  <string id="ui_mcm_lst_blurred_background">
+    <text>Bulanık kaplama</text>
+  </string>
+  <string id="ui_mcm_lst_clear_vision">
+    <text>Kaplama yok (net görüş)</text>
+  </string>
+  <string id="ui_mcm_lst_dual_centered">
+    <text>İki tüp, ortada</text>
+  </string>
+  <string id="ui_mcm_lst_image_overlay">
+    <text>(Uygulanmadı) Görüntü kaplaması</text>
+  </string>
+  <string id="ui_mcm_lst_quad_centered">
+    <text>Dört tüp, ortada</text>
+  </string>
+  <string id="ui_mcm_lst_single_centered">
+    <text>Tek tüp, ortada</text>
+  </string>
+  <string id="ui_mcm_lst_single_left">
+    <text>Tek tüp, sol tarafta</text>
+  </string>
+  <string id="ui_mcm_lst_single_right">
+    <text>Tek tüp, sağ tarafta</text>
+  </string>
+  <string id="ui_mcm_menu_beef_nvg">
+    <text>Beef’in DGG’si</text>
+  </string>
+</string_table>

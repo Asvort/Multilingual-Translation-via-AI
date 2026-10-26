@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_af-ameba-mica_iam_descr">
+    <text>Anormal kökenli sıvı metalden oluşur. Salım’dan sonra ortaya çıkar, kısa süre kalır ve sonra buharlaşır.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af-ameba-mica_iam_name">
+    <text>IAM / "Cıva Küresi"</text>
+  </string>
+  <string id="st_af-ameba-slime_iam_descr">
+    <text>Metal hurdası ve inşaat atıklarından oluşan ucuz artefaktlar. Yararlı özellikleri yoktur; yalnızca radyasyon ölçümü için ilgi çeker.</text>
+  </string>
+  <string id="st_af-ameba-slime_iam_name">
+    <text>IAM ile "Radyoaktif cıvata"</text>
+  </string>
+  <string id="st_af-ameba-slug_iam_descr">
+    <text>Metal hurdası ve inşaat atıklarından oluşan ucuz artefaktlar. Yararlı özellikleri yoktur; yalnızca radyasyon ölçümü için ilgi çeker.</text>
+  </string>
+  <string id="st_af-ameba-slug_iam_name">
+    <text>IAM ile "Radyoaktif döküntü"</text>
+  </string>
+  <string id="st_af-blood_iam_descr">
+    <text>Eşsiz bir artefakt. Kristal Diken ile Et Öğütücü’nün etkileşimi sonucu oluşur. Anomali kümelerinde nadiren görülür.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af-blood_iam_name">
+    <text>IAM / "Kurbağa Gözü"</text>
+  </string>
+  <string id="st_af-cristall-flower_iam_descr">
+    <text>Trambolin anomalisi içinde oluşur ve Bölge’nin yalnızca birkaç yerinde bulunur. Metal bileşenleri güzel ışık oyunları yaratır. Gece kamp ateşinde izlemek insanı sakinleştirir.
+
+</text>
+  </string>
+  <string id="st_af-cristall-flower_iam_name">
+    <text>IAM / Cam Simit</text>
+  </string>
+  <string id="st_af-cristall_iam_descr">
+    <text>Anomali kümelerinde oluşur. Bayılmayı önler, gücü yeniler ve psi etkilerine karşı koruma sağlar.
+
+</text>
+  </string>
+  <string id="st_af-drops_iam_descr">
+    <text>Yüksek sıcaklıklarda Kızartma anomalisi içinde oluşur. Kararmış, parlak ve çatlak damla biçimli bir oluşuma benzer.
+
+</text>
+  </string>
+  <string id="st_af-dummy-battery_iam_descr">
+    <text>Yönlendirilmiş parçalanma alanına sahip elektromanyetik bir süper artefakttır. Kökeni bilimsel bir gizemdir. Dielektrik bileşenler içerir, ancak oluşum koşulları bilinmez. Ek 4 kg taşıma sağlar.
+
+</text>
+  </string>
+  <string id="st_af-dummy-dummy_iam_descr">
+    <text>Taşındığında protein denatürasyonunu yavaşlatır. Beden yüksek sıcaklıklara daha iyi dayanır ve daha az yanar. Pahalı ve nadirdir.
+
+</text>
+  </string>
+  <string id="st_af-dummy-glassbeads_iam_descr">
+    <text>İkinci seviye süper artefakt. Anomali kümelerinde görülür. Anormal enerjisi, değeri ve nadirliği çok yüksektir.
+
+</text>
+  </string>
+  <string id="st_af-dummy-glassbeads_iam_name">
+    <text>IAM / Ölü Kafa</text>
+  </string>
+  <string id="st_af-dummy-pellicle_iam_descr">
+    <text>O kadar nadirdir ki birçok araştırmacı böyle bir maddenin doğada bulunabileceğini düşünmez. Aşındırıcı kimyasal bileşenleri iter.
+
+</text>
+  </string>
+  <string id="st_af-dummy-spring_iam_descr">
+    <text>Kararsız kütleçekimine sahip süper artefakt. Fırlatılan nesne yere ya da engele çarpınca canlı bir bedene doğru fırlar, ardından düşene veya cansız bir nesneye çarpana dek diğer canlılara seker; sonra alınabilir.
+
+</text>
+  </string>
+  <string id="st_af-dummy-spring_iam_name">
+    <text>IAM / Sünger</text>
+  </string>
+  <string id="st_af-electra-flash_iam_descr">
+    <text>Cilde değdiğinde ağır yanıklara neden olan büyük, uçuşan bir tüydür. Çukurlarda ve alçak yerlerde birikir; rüzgârda veya patlamayla havalanır. Yakıcı Tüy birikintilerinden dökülür.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af-electra-flash_iam_name">
+    <text>IAM / Yakıcı Pamuk</text>
+  </string>
+  <string id="st_af-electra-moonlight_iam_descr">
+    <text>Electra anomalisinin etkinliğinin bozulmuş bir biçimidir. Güzel yuvarlak şeklinin anomaliye ısı uygulanmasıyla oluştuğu düşünülür. Pahalı bir artefakttır.
+
+</text>
+  </string>
+  <string id="st_af-electra-moonlight_iam_name">
+    <text>IAM / Elektrik Küresi</text>
+  </string>
+  <string id="st_af-electra-sparkler_iam_descr">
+    <text>Electra türü anomalilerin yakınında bulunur. Oldukça yaygın ve ucuzdur, ancak özellikleri Bölge araştırmacıları tarafından değer görür.
+
+</text>
+  </string>
+  <string id="st_af-electra-sparkler_iam_name">
+    <text>“Merkür”lü IAM</text>
+  </string>
+  <string id="st_af-fireball_iam_descr">
+    <text>Elektrik kökenli bir artefakt. Yarı saydam, ışıldayan bir küre.\n \n \n %c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af-fireball_iam_name">
+    <text>“Şeffaf Küre”li IAM</text>
+  </string>
+  <string id="st_af-fuzz-kolobok_iam_descr">
+    <text>Bu Bölge gizemini elinde tutarken derinin sertleşip daha az hassas hâle geldiğini hissedersin. Mermiler hâlâ kolayca deler, ama kesmek çok daha zordur.</text>
+  </string>
+  <string id="st_af-gold-fish_iam_descr">
+    <text>“Huni” anomalisinde oluşur. Yönlendirilmiş manyeto-kütleçekim anomalisi taşıyan elementel bir artefakttır. 12 kg ek yük taşımayı sağlar.</text>
+  </string>
+  <string id="st_af-gravi_iam_descr">
+    <text>Yönlendirilmiş manyeto-kütleçekim anomalisi taşıyan elementel bir artefakt. “Güçlü Kütleçekim Artefaktı” adı verilen, anomalik özellikleri daha belirgin bir türü de vardır. 8 kg ek yük taşımayı sağlar.</text>
+  </string>
+  <string id="st_af-medusa_iam_descr">
+    <text>Kütleçekim kökenli temel artefakt. Adını aldığı torus biçimindedir. En az iki türü bilinir: sıradan olan ve "Cam Simit".</text>
+  </string>
+  <string id="st_af-medusa_iam_name">
+    <text>Simit</text>
+  </string>
+  <string id="st_af-mincer-meat_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af-mincer-meat_iam_name">
+    <text>“Paslı Kıllar”lı IAM</text>
+  </string>
+  <string id="st_af-night-star_iam_descr">
+    <text>Yerçekimi anomalilerinde uzun süre kalmış çeşitli metal parçaları, yüksek yoğunluklu ve yönlendirilmiş bir manyetik alan oluşturma yeteneği kazanmıştır. Bu örnek, bir redüktörün dişli milinden kopmuş bir parçadır.</text>
+  </string>
+  <string id="st_af-night-star_iam_name">
+    <text>“Mıknatıs”lı IAM</text>
+  </string>
+  <string id="st_af-rusty-kristall_iam_descr">
+    <text>“Yakıcı Tüy” anomalisinde kristalleşir. Radyasyonu vücuttan doğal yolla atar: kulaklardan, bir miktar kanla birlikte. Başka açıklıklardan kan kaybı da yaşanabilir. Nadir bulunur ve oldukça etkilidir; bu yüzden artefakt pazarında fiyatı istikrarlıdır.</text>
+  </string>
+  <string id="st_af-rusty-sea-urchin_iam_descr">
+    <text>“Yakıcı Tüy” anomalisi bu artefaktı çok nadiren üretir. Kan basıncını yükseltir ve vücudun çok sayıda alyuvarı atmasına yol açar. Psi etkilerine karşı geçici koruma sağlar.</text>
+  </string>
+  <string id="st_af-rusty-thorn_iam_descr">
+    <text>“Yakıcı Tüy” anomalisiyle dikkatsiz bir stalkerın bedeninin etkileşiminden doğar. Dikenli artefakt nasıl takılırsa takılsın sahibini deler, ama vücudun radyonüklitlerden arınmasına da yardımcı olur. Oldukça yaygın ve ucuzdur.</text>
+  </string>
+  <string id="st_af-soul_iam_descr">
+    <text>“Atlıkarınca” anomalilerinin yakınında çok nadir bulunur. Çok az kişi bulabilir; hatta görenlerin sayısı bile azdır. Şekli hoştur, fiyatı da bir o kadar tatmin edicidir.</text>
+  </string>
+  <string id="st_af-vyvert_iam_descr">
+    <text>“Huni” tipi anomalilerin yakınında bulunur. Vücuda temas ettiğinde kimyasal direnci artıran yönlendirilmiş ışınım yayar. Bulması kolaydır, bu yüzden fazla para etmez. Ek yük taşımayı sağlar.\n \n \n %c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af-vyvert_iam_name">
+    <text>“Gravi Parçası” içeren IAM</text>
+  </string>
+  <string id="st_af_absorbent_af_iam_descr">
+    <text>
+		Yaygın bir artefakttır. Özellikleri hakkında az şey bilinmektedir. Her tür anomalide oluşabilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_absorbent_af_iam_name">
+    <text>“Emici” içeren IAM</text>
+  </string>
+  <string id="st_af_ameba_mica_af_iam_descr">
+    <text>“Jöle” anomalisi, son derece nadir ve uç fiziksel koşulların bir araya gelmesiyle bu artefaktı oluşturabilir. Sonuç, yarı saydam ve sert bir nesnedir. Nadir ve pahalıdır.\n \n \n %c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_ameba_mica_af_iam_name">
+    <text>“Mika” içeren IAM</text>
+  </string>
+  <string id="st_af_ameba_slime_af_iam_descr">
+    <text>Bu artefaktı Meyve Kokteyli anomalisi oluşturur. Kemerde kanamayı azaltır, ancak yanıklara karşı savunmasızlığı artırır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt saklama aygıtı\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		</text>
+  </string>
+  <string id="st_af_ameba_slime_af_iam_name">
+    <text>Sümük</text>
+  </string>
+  <string id="st_af_ameba_slug_af_iam_descr">
+    <text>Meyve Kokteyli anomalisi tarafından oluşturulur. Olumsuz etkileri kanın pıhtılaşmasını artırmasıyla dengelenir. Nadir ve pahalıdır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt saklama aygıtı\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		</text>
+  </string>
+  <string id="st_af_ameba_slug_af_iam_name">
+    <text>Sümüklüböcek</text>
+  </string>
+  <string id="st_af_angel_af_af_iam_descr">
+    <text>Oluşum, krulla biçimine benzeyen bir madde yığınıdır. Vücut direncini artırır. Radyoaktiftir.%c[255,128,255,128]The formation is a lump of matter that resembles the shape of a krulla. It helps to increase the body's tone. Radioactive.
+	</text>
+  </string>
+  <string id="st_af_angel_af_af_iam_name">
+    <text>Melek</text>
+  </string>
+  <string id="st_af_angel_af_iam_descr">
+    <text>%c[255,128,255,128]Kanat biçimini andıran bir madde kütlesidir. Organizmanın tonusunu artırır. Radyoaktiftir.
+	</text>
+  </string>
+  <string id="st_af_angel_af_iam_name">
+    <text>Melek</text>
+  </string>
+  <string id="st_af_arhara_globus_af_iam_descr">
+    <text>Dikenli bir bebek çıngırağına benzer. Gücü daha hızlı yeniler, kimyasal ve elektrik anomalilerine karşı korur, ancak biraz radyoaktiftir.%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	\n\n</text>
+  </string>
+  <string id="st_af_arhara_globus_af_iam_name">
+    <text>Çıngırak</text>
+  </string>
+  <string id="st_af_armor_1_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+				
+	</text>
+  </string>
+  <string id="st_af_armor_1_af_iam_name">
+    <text>Post</text>
+  </string>
+  <string id="st_af_armor_2_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_armor_2_af_iam_name">
+    <text>Pul</text>
+  </string>
+  <string id="st_af_armor_3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_armor_3_af_iam_name">
+    <text>Zırh</text>
+  </string>
+  <string id="st_af_armor_4_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_armor_4_af_iam_name">
+    <text>Kontrolcü Saç Derisi</text>
+  </string>
+  <string id="st_af_atom_af_af_iam_descr">
+    <text>Ateşe karşı direnci artırır. Radyoaktiftir.%c[255,128,255,128]Increases immunity to fire. Radioactive.
+	</text>
+  </string>
+  <string id="st_af_atom_af_iam_descr">
+    <text>%c[255,128,255,128]Yeni bir artefakttır. Ateşe karşı bağışıklığı artırır. Radyoaktiftir.
+	</text>
+  </string>
+  <string id="st_af_babka_1_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_babka_1_af_iam_name">
+    <text>Büyükanne Boncukları</text>
+  </string>
+  <string id="st_af_babka_2_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_babka_2_af_iam_name">
+    <text>Büyük Büyükannenin Boncukları</text>
+  </string>
+  <string id="st_af_babka_3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_babka_3_af_iam_name">
+    <text>Burer’ın Büyük Büyükannesinin Boncukları</text>
+  </string>
+  <string id="st_af_baloon3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_baloon3_af_iam_name">
+    <text>Buz Kalp</text>
+  </string>
+  <string id="st_af_baloon_af_iam_descr">
+    <text>
+		Artefakt, birbirine bağlı birkaç içi boş organik oluşumdan meydana gelir. Kullanıldığında vücuttaki kimyasal veya zehirli parçacıkları etkisizleştirebilen gaz hâlinde bir madde salar. “Balon”un sıcaklığı saklama koşullarından bağımsız olarak sabit kaldığından, ısıyı da emebilir ve hem kendisinin hem taşıyan kişinin çevresinde kimyasal etkilere karşı koruyan bir ısı bariyeri oluşturur. Bununla birlikte taşıyan kişinin sinir sistemini ağır biçimde zorlar; elektrik çarpması durumunda bu büyük tehlike yaratır. Birçok stalker, yoğun elektrik alanlı bölgelerde “Balon”u kullandıklarında kısa sürede yönlerini kaybedip paniğe kapıldıklarını, ardından olabildiğince yüksek sesle bağırmaya çalışmaktan başka bir şey yapamadıklarını anlatır; kendi çığlıklarını bile duyamamışlardır. “Bilezik” gibi bu artefakt da aşındırıcı buharlar salar.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_baloon_af_iam_name">
+    <text>Baloncuk</text>
+  </string>
+  <string id="st_af_best_compass_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_best_compass_af_iam_name">
+    <text>En İyi Pusula</text>
+  </string>
+  <string id="st_af_black_spray_af_iam_descr">
+    <text>
+		Özellikleri ve kökeni hakkında çok az şey bilinen nadir bir artefakttır. Safir benzeri diğer artefaktlara benzer bir şekli vardır; ancak organik yapısı, psi alanları ve elektromanyetik dalgaların etkisiyle damarlı bitkilerden oluştuğunu düşündürür. Benzersiz özelliği, içinden geçen ışığı tutabilmesidir; birçok kişiyi şaşırtacak biçimde, temas ettiğinde psi dalgalarını da tutabilir.\n \nAyrıca fotonları emerken psi saldırılarının darbesini sönümleyen koruyucu bir alan oluşturabilir.\n \nBununla birlikte, toksik ortamda açıkta bırakılması son derece tehlikelidir; etkisi oradaki tepkimeleri hızlandırır. Toksik bölgeleri araştırırken LLMC kabında saklanması şiddetle tavsiye edilir.\n \nDünyanın dört bir yanındaki kuyumcular güzel mavimsi aurası nedeniyle ona büyük değer verir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_black_spray_af_iam_name">
+    <text>Kara Püskürtü</text>
+  </string>
+  <string id="st_af_blood2_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_blood2_af_iam_name">
+    <text>Tuğla Kan</text>
+  </string>
+  <string id="st_af_blood3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+				
+	</text>
+  </string>
+  <string id="st_af_blood3_af_iam_name">
+    <text>Bileklik</text>
+  </string>
+  <string id="st_af_blood_af_iam_descr">
+    <text>
+		Oldukça yaygın olan bu artefakt, sıkışıp fosilleşmiş bitki, toprak ve hayvan kalıntılarından oluşan sarımsı kırmızı bir yapıdır. Zararlı kimyasal maddeleri emerek taşıyan kişinin kanındaki genel toksisite düzeyini düşürür ve bunları kısmen etkisizleştirebilir. Açık aleve maruz kaldığında yanabilir, hatta kendiliğinden tutuşabilir. Elektrik kaynaklarının yakınında da çok dikkatli olunmalıdır: elektriği emmeye başlasa da bunu yapabilecek özelliklere yeterince sahip değildir. Oluşan kan pıhtıları sağlığa zarar verebileceğinden artefaktın uzun süre vücutta taşınması önerilmez.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_blood_af_iam_name">
+    <text>Taş Kan</text>
+  </string>
+  <string id="st_af_blood_green_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_blood_green_af_iam_name">
+    <text>Zümrüt Taş Kan</text>
+  </string>
+  <string id="st_af_bracelet_af_iam_descr">
+    <text>
+		Artefakt, yaygın briyofit türlerinin radyasyon ve kimyasal anomalilere yoğun biçimde maruz kalmasıyla oluşur; organik yapısı da bunu açıklar. Kullanıldığında her tür aside karşı önemli bir dış koruma sağlar ve asitlerin pH değerini kademeli olarak su seviyesine (pH 7) yükseltir. “Bilezik” ayrıca anomalilerin ve bazı mutantların psi dalgalarının zararlı etkisini bir miktar azaltır. Üstelik oldukça hafiftir.\n \nBaşlıca kusuru, yırtılmalara karşı korumayı azaltmasıdır; bunun nedeni muhtemelen artefaktın mikro buharlarının koruyucu yüzeye çökebilmesidir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_bracelet_af_iam_name">
+    <text>Bileklik</text>
+  </string>
+  <string id="st_af_brain_af_af_iam_descr">
+    <text>Bu çok nadir artefakt beynin kopyasına benzer. Yaralanmalarda metabolizmayı hızlandırır ve radyasyonun etkisini azaltır.%c[255,128,255,128]This very rare artifact looks like an exact copy of the brain, for which it was named. In case of injuries, it speeds up metabolic processes, which helps wounds to heal faster. It also weakens the effects of radiation.
+	</text>
+  </string>
+  <string id="st_af_brain_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_brain_af_iam_name">
+    <text>Beyin</text>
+  </string>
+  <string id="st_af_bumerang_af_iam_descr">
+    <text>
+		Nadir ve eşsiz bir artefakttır. Patlamalara ve darbelere karşı direnci artırır. Olağandışı özelliklerinden biri de taşıyan kişinin zıplama yüksekliğini artırabilmesidir. Birkaç anomali oluşum türünü bir araya getiren anormal bölgelerde oluşur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_bumerang_af_iam_name">
+    <text>Bumerang</text>
+  </string>
+  <string id="st_af_busic_af_af_iam_name">
+    <text>Kızının Boncukları</text>
+  </string>
+  <string id="st_af_busic_af_iam_name">
+    <text>Kızının Boncukları</text>
+  </string>
+  <string id="st_af_caterpillar_af_iam_descr">
+    <text>Tırtıla benzeyen nadir bir artefakt. İlk kez hiçbir anomalinin yakınında olmayan Vahşi Bölge’de bulundu ve başlangıçta Zone’un yeni bir yaratığı sanıldı; daha sonra anomalilerin içinde de görülmeye başladı. Yoğun radyasyon noktalarına dayanmayı kolaylaştırır, susuzluğu geri getirir ve psi yayınım kaynaklarına yaklaşmaya izin verir.\n \n						
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_caterpillar_af_iam_name">
+    <text>Plazmik Tırtıl</text>
+  </string>
+  <string id="st_af_chertyaico_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_chertyaico_af_iam_name">
+    <text>Şeytan Yumurtası</text>
+  </string>
+  <string id="st_af_clear_sky_af_af_iam_descr">
+    <text>Muhtemelen tek bir örneği vardır; diğer adı Monolit’in Kalbi’dir. Bölge’nin neredeyse tüm olumsuz etkilerine bağışıklık sağlar.%c[255,128,255,255,128]Possibly exists in a single copy, second name Heart of the Monolith. Gives immunity to almost all negative effects of the zone.
+	</text>
+  </string>
+  <string id="st_af_clear_sky_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+				
+	</text>
+  </string>
+  <string id="st_af_clear_sky_af_iam_name">
+    <text>Açık Gökyüzü</text>
+  </string>
+  <string id="st_af_compass_af_iam_descr">
+    <text>
+		Son örneği birkaç yıl önce bulunan son derece nadir bir artefakt. Anomali alanlarındaki yarıkları gösterebilir. Onunla en karmaşık anomalilerin bile en ufak risk olmadan geçilebildiği söylenir, ancak onu kullanmayı çok az kişi bilir. Son laboratuvar deneyleri başka bir özelliğini ortaya çıkardı: hareketli nesnelerle etkileşerek onların kaybolmasına... ya da ışınlanmasına mı? yol açar. Tokluğu ve susuzluğu olumsuz etkiler.\n \n						
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_compass_af_iam_name">
+    <text>Pusula</text>
+  </string>
+  <string id="st_af_cristal_drops_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 12 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_cristal_drops_af_iam_name">
+    <text>Gökyüzü Gözyaşları</text>
+  </string>
+  <string id="st_af_cristall2_af_iam_descr">
+    <text>Artefakt, yüksek sıcaklıkların etkisi altındaki anormal bölgelerde oluşur. Sıcağa karşı bağışıklık sağlar.\n \n		%c[ui_gray_2]ÖZELLİKLER:\n		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n		%c[ui_white] • %c[ui_gray_2] artefaktların takılmasını sağlar\n		%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n		%c[ui_white] • %c[ui_gray_2] kalkanlama:%c[ui_gray_1] 7 mSv\n		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu</text>
+  </string>
+  <string id="st_af_cristall2_af_iam_name">
+    <text>Ateş Kristali</text>
+  </string>
+  <string id="st_af_cristall3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_cristall3_af_iam_name">
+    <text>Koparma Taşı</text>
+  </string>
+  <string id="st_af_cristall_af_iam_descr">
+    <text>
+		Artefakt, yüksek sıcaklıkların etkisiyle anormal bölgelerde oluşur. Çevresindeki fazla ısıyı etkin biçimde emer ve dokunulduğunda serin kalır. Dielektrik özellikleri de vardır; ancak kullanımı dış etkenlere maruz kalmayı artırır: kendi manyetik alanı hızla hareket eden nesneleri kendine çeker. Bu nedenle artefaktın hem yararları hem de sakıncaları göz önünde bulundurulmalıdır.\n \n“Kristal”, iç çekirdeği radyoaktif olmadığı ve ustalıkla işlendiğinde çok güzel göründüğü için Bölge dışındaki kuyumcular tarafından da rağbet görür. Dışını, radyasyonun çoğunu yayan 10 mm kalınlığında çok sert bir katman kaplar.\n \nBununla birlikte, artefaktı başkalarına satarken son derece dikkatli olunmalıdır; çok az miktarda radyoaktif madde bile taşıyan kişinin ölümüne yol açabilir. Çok sert bir dış katmana sahiptir ve yoğunluğu yüksek olduğundan görece ağırdır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_cristall_af_iam_name">
+    <text>Kristal</text>
+  </string>
+  <string id="st_af_cristall_flower2_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_cristall_flower2_af_iam_name">
+    <text>Fosil Çiçek</text>
+  </string>
+  <string id="st_af_cristall_flower3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_cristall_flower3_af_iam_name">
+    <text>Hayalet</text>
+  </string>
+  <string id="st_af_cristall_flower_af_iam_descr">
+    <text>
+		Bu artefakt, safir taşlarıyla karışmış peynire benzer; radyasyon yayan yalnızca dış kabuğudur. Ustalıklı bir işlemle kuyumcuların değerli ürünler yapmakta kullandığı radyoaktif olmayan mavi parçacıklar çıkarılabilir. Yararları sanayiyle sınırlı değildir: safir taşlarının radyasyona karşı iyi koruma sağladığı bilimsel olarak kanıtlanmıştır; dış kabuk ise daha az etkili olsa da toksik ortama direnci artırır. Artefakt radyasyonu güçlü biçimde katalizlediğinden taşıyan kişi için tehlike oluşturduğu unutulmamalıdır. Yakınında ateş kaynaklarından kaçınılmalıdır. Yüksek yoğunluğu nedeniyle “Taş Çiçek”, Bölge’deki diğer anormal oluşumlara kıyasla bile oldukça ağırdır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_cristall_flower_af_iam_name">
+    <text>Taş Çiçek</text>
+  </string>
+  <string id="st_af_crystal_blood_af_iam_descr">
+    <text>
+		Bitki, toprak ve hayvan kalıntılarının sıkışıp fosilleşmesiyle oluşmuş kırmızımsı bir yapıdır. İnsanlara zararlı kimyasal maddeleri kısmen etkisizleştirebilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_crystal_blood_af_iam_name">
+    <text>Taş Kan</text>
+  </string>
+  <string id="st_af_crystal_generator_af_iam_descr">
+    <text>
+		Elektriksel yapıya sahip bir artefakttır. Çevresinde elektriği dağıtabilen bir alan oluşturur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_crystal_generator_af_iam_name">
+    <text>Jeneratör</text>
+  </string>
+  <string id="st_af_crystal_glassbeads_af_iam_descr">
+    <text>
+		Bu artefaktın pek çok yönü hâlâ gizemini koruyor. Ancak “Kristal Boncuklar”ın şişkin kısımlarındaki titreşimlerin ürettiği radyasyonun açık yaralardaki kanı çok hızlı pıhtılaştırdığı kesin olarak belirlenmiştir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_crystal_glassbeads_af_iam_name">
+    <text>Kristal Boncuklar</text>
+  </string>
+  <string id="st_af_crystal_gravi_af_iam_descr">
+    <text>
+		Metal içeren maddelerin uzun süre kütleçekime maruz kalmasıyla oluşur. Çevresinde küçük bir yerçekimsiz alanı sürdürebilir. Birçok stalker sırt çantalarının ağırlığını ciddi ölçüde azaltmak için bunu kullanır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_crystal_gravi_af_iam_name">
+    <text>Kristal Yerçekimi</text>
+  </string>
+  <string id="st_af_crystal_ice_af_af_iam_name">
+    <text>Kristal Flaş</text>
+  </string>
+  <string id="st_af_crystal_ice_af_iam_descr">
+    <text>
+		Görünüş olarak artefakt bir “Kolobok”a benzer. Bunun “Kolobok” ile “Şimşek”in melezi olduğu düşünülür. Taşıyan kişinin kas tonusunu aniden artırabilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_crystal_ice_af_iam_name">
+    <text>Kristal Flaş</text>
+  </string>
+  <string id="st_af_crystal_oko_af_iam_descr">
+    <text>Bu çok nadir artefakt bir göze benzer, adını da buradan alır. Yaralanmalarda metabolizmayı hızlandırıp yaraların hızla iyileşmesini sağlar. Radyoaktiftir.%c[255,128,255,255,128]This very rare artifact looks like an eye, for which it is named. When injured, it speeds up metabolic processes, which promotes rapid healing of wounds. Radioactive.
+	</text>
+  </string>
+  <string id="st_af_crystal_oko_af_iam_name">
+    <text>Her Şeyi Gören Göz içeren IAM</text>
+  </string>
+  <string id="st_af_crystal_vyvert_af_iam_descr">
+    <text>
+		Yoğun kütleçekim etkinliğinin görüldüğü yerlerde ortaya çıkan tuhaf biçimli bir artefakttır. Kimyasal elementleri emen bir tür sünger gibidir. Uyku ihtiyacını artırır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_crystal_vyvert_af_iam_name">
+    <text>Kristal Vyvert içeren IAM</text>
+  </string>
+  <string id="st_af_dark_soul_af_iam_descr">
+    <text>Az incelenmiş bir artefakt. Vücudun iç kaynaklarını kullanarak dayanıklılığı büyük ölçüde artırır, ancak yüksek radyoaktivitesi nedeniyle rağbet görmez.\n \n \n %c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dark_soul_af_iam_name">
+    <text>Karanlık Ruh içeren IAM</text>
+  </string>
+  <string id="st_af_death_lamp_af_iam_descr">
+    <text>
+		Stalkerların bu artefaktı tarif ederken kullandığı sözler “Büyük, kırmızı ve lanetli”dir; bazıları ona “Şeytanın Tohumu” der. Pek çok tüccar onu satın almayı bile reddeder. Kökeni hakkında çok az şey bilinir ve şimdiye dek yararlı bir özelliği keşfedilmemiştir.\nÖlüm Lambası birkaç yıl önce üç deneyimli stalker tarafından bulundu. Artefaktı Yantar’daki bilim insanlarına teslim ettikten kısa süre sonra ikisi, yüzlerinde gerçek bir dehşet ifadesiyle ölü bulundu. Üçüncü stalkerın akıbeti bilinmiyor.\nKazadan sonra artefaktı inceleyen bilim ekibinin üyeleri, takip eden günlerde ciddi uyku bozuklukları yaşadıklarını bildirdi.\nBu gizemli etkilerin yanı sıra artefakt, taşıyan kişinin bedenini ve iradesini tüketir; sık sık baş dönmesine veya bilinç kaybına yol açar.\n \n						
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_death_lamp_af_iam_name">
+    <text>Ölüm Lambası içeren IAM</text>
+  </string>
+  <string id="st_af_deformer_af_iam_descr">
+    <text>
+		Zaton’daki yarıklarda yalnızca bir örneği bulunmuş eşsiz bir artefakttır. Bilim insanları bugüne kadar hangisinin önce geldiği konusunda kesin bir sonuca varamamıştır: artefakt yer kabuğundaki yarıkta mı oluşur, yoksa bu yarıkları kendisi mi meydana getirir? Anomalilerin psi etkilerine karşı direnci artırır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_deformer_af_iam_name">
+    <text>Deformatör içeren IAM</text>
+  </string>
+  <string id="st_af_diablo_af_iam_descr">
+    <text>%c[255,128,255,128]Adını aldığı siyah kalp biçiminde yeni bir artefakttır. Bedenin psi etkilerine direncini artırır. Radyoaktiftir.</text>
+  </string>
+  <string id="st_af_diablo_af_iam_name">
+    <text>Şeytanın Kalbi içeren IAM</text>
+  </string>
+  <string id="st_af_dik_1_af_iam_descr">
+    <text>Dikenli artefakt ailesinden anormal bir oluşumdur. Pil gibi beden gücünün toparlanmasını oldukça hızlandırır.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dik_1_af_iam_name">
+    <text>Oklu Kirpi içeren IAM</text>
+  </string>
+  <string id="st_af_dik_2_af_iam_descr">
+    <text>Dikenli artefakt ailesinden anormal bir oluşumdur. Kar Tanesi gibi gücün toparlanmasını hızlandırır, ancak radyasyon dozu daha düşüktür.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dik_2_af_iam_name">
+    <text>Elektrikli Oklu Kirpi içeren IAM</text>
+  </string>
+  <string id="st_af_dik_3_af_iam_descr">
+    <text>Dikenli artefakt ailesinden anormal bir oluşumdur. Biraz daha fazla mermi taşımayı sağlar, sağlığı ve gücü yeniler. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dik_3_af_iam_name">
+    <text>Sümüklü Oklu Kirpi içeren IAM</text>
+  </string>
+  <string id="st_af_dik_4_af_iam_descr">
+    <text>Dikenli artefakt ailesinden anormal bir oluşumdur. Sağlığı ve gücü yeniler, yaraları iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dik_4_af_iam_name">
+    <text>Taş Oklu Kirpi içeren IAM</text>
+  </string>
+  <string id="st_af_drops_af_iam_descr">
+    <text>Yüksek sıcaklıklarda Yakıcı anomalisinde oluşur. Dışarıdan, parlak ve çatlaklarla kaplı yüzeyi olan gözyaşı biçimli gölgeli bir bileşiğe benzer.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_drops_af_iam_name">
+    <text>Damlacıklar içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_battery3_af_iam_descr">
+    <text>Mavi parıltılı, hafif cam benzeri malzemeden beyaz bir halka. İnce yatay bir çubuk üzerinde döndürüldüğünde karşı konulmaz bir güç durdurana kadar hareket eder. Bölgede bulunan ilk «Ebedi Motor»dur. Kimyasallara karşı orta düzeyde korur, enerjiyi biraz yeniler. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_dummy_battery3_af_iam_name">
+    <text>Kolye içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_battery_af_iam_descr">
+    <text>Canlandırıcı etkisi nedeniyle Bölgede popülerdir, ancak uzun süre kullanıldığında bedene zarar verir. Kanın pıhtılaşmasını zorlaştırır ve açık yaralardaki kanamayı artırır. Ölümcül elektrik dozlarına karşı korur. Isıyı emer ve başka nesnelere aktarabilir. Çok hafif ve taşınabilirdir. Radyasyonu düşüktür.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_battery_af_iam_name">
+    <text>Pil içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_battery_red_af_iam_descr">
+    <text>Sıradan Pil gibidir, ancak kırmızıdır. Radyoaktif değildir. Çizikleri iyileştirir ve radyasyonu iyi giderir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_battery_red_af_iam_name">
+    <text>Yakut Pil içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_dummy2_af_iam_descr">
+    <text>Önceleri hiçbir yararı olmayan çöp sanılıyordu. Ancak bedenle sürekli temas ettiğinde kas tonusunu biraz artırdığı anlaşıldı.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_dummy2_af_iam_name">
+    <text>Boş içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_dummy3_af_iam_descr">
+    <text>Artefakt mavi bir örümceğe benzer, adı da buradan gelir. Birikmiş radyasyonu hızla giderir ve Çernobil Yasak Bölgesi’nde çok değerlidir. Olumsuz özelliği yoktur.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_dummy3_af_iam_name">
+    <text>Elektrik Örümceği içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_dummy_af_iam_descr">
+    <text>Kabuk, doğası bilinmeyen yarı saydam bir maddeyle birleşmiş iki mavimsi diskten oluşur.
+Uzun süre yararsız sanılmıştır; ancak bedenle temas ettiğinde gençleşme hissi verdiği ve dayanıklılık yenilenmesini hızlandırdığı anlaşılmıştır. Bazı stalkerlarda hiperaktiviteye yol açar. Trombosit sayısını azaltıp kanamayı artırması olumsuz yanıdır.
+Psi etkilerine karşı önemli koruma sağlar ve elektromanyetik paraziti emerek topraklama görevi görür.
+Açık alevde tutuşur, hatta kendiliğinden yanabilir. Isı kaynaklarından uzak tutun. Çok hafif ve taşınabilirdir. Radyasyonu orta düzeydedir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+				
+	</text>
+  </string>
+  <string id="st_af_dummy_dummy_af_iam_name">
+    <text>Kabuk içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_glassbeads2_af_iam_descr">
+    <text>Bu artefaktın birçok özelliği hâlâ gizemini koruyor. Ancak Boncukların şişkinliklerindeki titreşimlerden doğan radyasyonun kanamayı durdurduğu biliniyor. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_glassbeads2_af_iam_name">
+    <text>Boncuklar içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_glassbeads3_af_iam_descr">
+    <text>
+		Artefaktın titreşimi sırasında yayılan radyasyonun açık yaralardaki kanı pıhtılaştırdığı kesin olarak belirlenmiştir. Ayrıca ısıya karşı orta düzeyde koruma sağlar. Radyoaktiftir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_dummy_glassbeads3_af_iam_name">
+    <text>Cips içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_glassbeads_af_iam_descr">
+    <text>DNA sarmalı biçimindedir ve Yakıcı anomalisinde oluşur. Sürekli titreşimleri, metabolizmayı, kanın pıhtılaşmasını ve yara iyileşmesini hızlandıran yararlı ışınım üretir; mekanizması bilinmez.
+Bedeni ve nesneleri aşırı sıcaktan da korur. Ancak elektrik iletkenliğini ve özellikle fırtınalarda ya da elektrik anomalilerinin yakınında çarpılma riskini artırır. Küçük boyutuna göre ağırdır, bu da yoğunluğunun yüksek olduğunu gösterir. Radyasyonu düşüktür.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_glassbeads_af_iam_name">
+    <text>Anne Boncukları içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_pellicle_af_iam_descr">
+    <text>Bu artefakt o kadar nadirdir ki birçok araştırmacı doğal ortamda bulunabileceğine inanmaz. Aşındırıcı kimyasal bileşenler yayar.
+
+%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_pellicle_af_iam_name">
+    <text>Zar içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_pellicle_red_af_iam_descr">
+    <text>Sıradan Zarla aynıdır, ancak kırmızıdır. Radyoaktiftir, ışık yayar ve ısı etkilerine karşı korur.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_pellicle_red_af_iam_name">
+    <text>Yakut Zar içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_spring_af_iam_descr">
+    <text>Bazı araştırmacı kuramcılara göre bu artefakt, Pil ile Kabuk arasında bir melektir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_spring_af_iam_name">
+    <text>Yay içeren IAM</text>
+  </string>
+  <string id="st_af_dummy_spring_red_af_iam_descr">
+    <text>Sıradan Yay’a benzer, ancak kırmızıdır. Radyoaktiftir. Yaraları iyileştirir ve yüksek sıcaklıklara karşı orta düzeyde korur.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_dummy_spring_red_af_iam_name">
+    <text>Yakut Yay içeren IAM</text>
+  </string>
+  <string id="st_af_electra_flash2_af_iam_descr">
+    <text>Elektrostatik yapılı bu artefakt bedendeki radyasyonu giderir ve kas tonusunu biraz artırır. Olumsuz özelliği yoktur.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_electra_flash2_af_iam_name">
+    <text>Sıçrama içeren IAM</text>
+  </string>
+  <string id="st_af_electra_flash3_af_iam_descr">
+    <text>Boyutu ve şekli mantarı andıran mor bir taştır. Isıya karşı orta düzeyde korur ve enerjiyi biraz yeniler. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_electra_flash3_af_iam_name">
+    <text>Mavi Karbunkül içeren IAM</text>
+  </string>
+  <string id="st_af_electra_flash_af_iam_descr">
+    <text>
+		Bu artefakt, “Ay Işığı”na çok benzeyen plazma dolu bir küre görünümündedir. Çok hafif ve değerlidir. “Parıltı”nın başlıca üstünlüğü, taşıyan kişiyi tehlikeye atmadan büyük miktarda enerji depolayabilen güçlü bir kapasitör gibi çalışmasıdır.\n \nBununla birlikte, varlığı taşıyan kişinin fiziksel durumunu olumsuz etkiler ve onu özellikle patlamalar gibi güçlü fiziksel etkilere karşı son derece savunmasız hâle getirir.\n \n“Parıltı” mükemmel bir enerji kaynağıdır; bilim insanları ve stalkerlar bundan çoktan yararlanmaya başlamıştır. Söylentilere göre, Bölge dışındaki daha kapsamlı araştırmalar askerî sektörün de ilgisini çekmiş ve artefaktın enerjisinin silah hâline getirilmesi değerlendirilmeye başlanmıştır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_electra_flash_af_iam_name">
+    <text>Parıltı içeren IAM</text>
+  </string>
+  <string id="st_af_electra_moonlight2_af_iam_descr">
+    <text>Parlaklığı nedeniyle adlandırılan elektrostatik artefakt ailesindendir. Elektrik alanındaki gerilim dalgalanmalarını etkili biçimde dengeler. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_electra_moonlight2_af_iam_name">
+    <text>Elektronova içeren IAM</text>
+  </string>
+  <string id="st_af_electra_moonlight_af_iam_descr">
+    <text>
+		Elektrostatik yapılı bu artefakt, psi dalgalarının etkisi altında olağanüstü rezonans yeteneği gösterir. Stalkerlar yıllar içinde “Ay Işığı”nı ana radyasyon kaynağıyla aynı fazda rezonansa girecek biçimde ayarlamayı öğrendi; böylece elektrik boşalmalarını tamamen ya da büyük ölçüde etkisizleştirebiliyor. Yine de artefaktı taşıyan kişi ateş kaynaklarının yakınında veya yoğun patlama riski olan bölgelerde son derece dikkatli olmalıdır. Laboratuvar araştırmaları “Ay Işığı”nın çok iyi bir katalizör olduğunu da gösteriyor: yüksek sıcaklık veya alev etkisi altında enerjisini salmaya başlayarak bu kaynakları besleyebilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_electra_moonlight_af_iam_name">
+    <text>Ay Işığı içeren IAM</text>
+  </string>
+  <string id="st_af_electra_sparkler2_af_iam_descr">
+    <text>Elektrostatik artefakt ailesinin sıradan bir örneğidir. Radyasyonu yavaşça giderir. Olumsuz özelliği yoktur.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_electra_sparkler2_af_iam_name">
+    <text>Bengal Işığı içeren IAM</text>
+  </string>
+  <string id="st_af_electra_sparkler3_af_iam_descr">
+    <text>Deniz dalgası renginde, halka biçimli kristal bir maddedir. Değerli bir artefakttır; beden gücünü iyi yeniler ve radyasyonu giderir. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_electra_sparkler3_af_iam_name">
+    <text>Gökyüzü Parçası içeren IAM</text>
+  </string>
+  <string id="st_af_electra_sparkler_af_iam_descr">
+    <text>
+		Artefakt yarı saydam bir örümcek ağına benzer ve protein yapılı örümcek ipeği kadar yapışkandır. Genellikle elektrik anomalilerinin yakınında bulunur; bu da özelliklerini etkiler: “Maytap”, elektrik alanındaki gerilim dalgalanmalarını yumuşatarak taşıyan kişiyi koruyabilir. Taşındığında iplikleri ekipmandaki zırh parçalarını sarar ve koruma özelliklerini güçlendirir. Sanki artefakt canlıymış gibi bir tür simbiyozu andırır.\n \nBununla birlikte, bir patlama sırasında açıkta bırakılması son derece tehlikelidir; patlamanın etkisini artırabilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_electra_sparkler_af_iam_name">
+    <text>Bengal Işığı içeren IAM</text>
+  </string>
+  <string id="st_af_electro_crystal_thorn_af_iam_descr">
+    <text>Oldukça yaygın, elektrik doğalı bir artefakttır. Bedenin enerjiyi daha hızlı yenilemesine yardımcı olur. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_electro_crystal_thorn_af_iam_name">
+    <text>Elektrik Mikrobu içeren IAM</text>
+  </string>
+  <string id="st_af_empty_af_iam_descr">
+    <text>Genellikle lipit, selüloz ve ligninden oluşan iki organik diskten meydana gelir; aralarında boşluk vardır. Merkezdeki eşsiz kütleçekim alanı diskler arasındaki mesafeyi sabitler.
+Diskleri birbirine bastırmak veya ayırmak mümkün değildir; her girişim alanın hızla değişmesine yol açar, sanki artefakt dengesini korur. Alan havanın yoğunluğunu artırıp bedeni yavaşlattığından onunla hareket etmek zordur.
+Buna karşılık sürtünmeyi azaltır ve fiziksel darbelere karşı güçlü koruma sağlar. Radyasyonu orta düzeydedir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_empty_af_iam_name">
+    <text>Boş içeren IAM</text>
+  </string>
+  <string id="st_af_eye3_af_iam_descr">
+    <text>Küçük, kurumuş et parçasına benzeyen grimsi kahverengi bir oluşumdur. Kan yapımını destekler, yaraları iyileştirir ve kan üretimini hızlandırır. Kimyasallara karşı orta düzeyde korur. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_eye3_af_iam_name">
+    <text>Donör içeren IAM</text>
+  </string>
+  <string id="st_af_eye_af_iam_descr">
+    <text>
+		Görme organını gerçekten andıran bu artefakt, yaralanma durumunda metabolizma süreçlerini hızlandırarak yaraların daha çabuk iyileşmesini sağlar. Ayrıca deneyimli stalkerlar arasında “Göz”ün şans getirdiğine dair bir inanış vardır. Doğru olsun ya da olmasın, olumlu etkileri gerçekten güçlüdür. Artefakt kimyasal tepkimeleri katalizler ve hızlarını büyük ölçüde artırır. Bu nedenle zehirli bölgeleri araştırırken LLMC kabında veya iyi korunan bir sırt çantasında saklanması şiddetle tavsiye edilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_eye_af_iam_name">
+    <text>Göz içeren IAM</text>
+  </string>
+  <string id="st_af_fire3_af_iam_descr">
+    <text>Düzensiz şekilli, çok sayıda dokunaç ve sık sık beliren zayıf, çok renkli ışıklarla kaplı büyük bir gökkuşağı maddesidir. Değerli artefakt yaraları hızla iyileştirir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_fire3_af_iam_name">
+    <text>Yanılsama içeren IAM</text>
+  </string>
+  <string id="st_af_fire_af_iam_descr">
+    <text>Yüksek ısı etkinliği olan bölgelerde oluşur. Güçlü kızılötesi ışınım metabolizmayı hızlandırır ve yaraları gözünüzün önünde iyileştirir. İyileştirme gücü Göz’den fazladır; bazı stalkerlar Chimera yaralarından kurtulmuştur. Mucizevi sayılır ve yeniden kullanılabilir ilk yardım kiti gibi iş görür. Ancak psi alanında psi enerjisini emer ve sonra güçlü biçimde yayar; bu ölümcüldür. Uzun süre radyasyona maruz kalmak da öldürebilir. Radyasyonu yüksektir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_fire_af_iam_name">
+    <text>Alev içeren IAM</text>
+  </string>
+  <string id="st_af_fireball2_af_iam_descr">
+    <text>Adı doğasını yansıtsa da küre yanma korkusu olmadan elde tutulabilir. Kanın pıhtılaşmasını biraz hızlandırır ve ateşe daha yakın oturmayı sağlar. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_fireball2_af_iam_name">
+    <text>Magmatik Küre içeren IAM</text>
+  </string>
+  <string id="st_af_fireball3_af_iam_descr">
+    <text>Küçük, ince, altın renkli ve neredeyse ağırlıksız bir oluşumdur. Sahibine büyük güç veren çok değerli bir artefakttır. Stalkerlar, Bölgeye gelip tüylerini döken bir anka kuşu olduğunu söyleyerek şakalaşır. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_fireball3_af_iam_name">
+    <text>Tüycük içeren IAM</text>
+  </string>
+  <string id="st_af_fireball_af_iam_descr">
+    <text>
+		Termal anomalilerde kırmızımsı kristallerden oluşan küresel bir artefakttır. Çevre koşullarından bağımsız olarak 75 Fahrenheit/24 Celsius derecede sabit kalır. Bu sayede yakınındaki ısıyı emer ve taşıyan kişinin çevresinde onu alevlerle temastan ve yüksek sıcaklıklardan koruyan küçük bir ısı bariyeri oluşturur.\n \nAncak kusurları da vardır: taşıyan kişiyi elektrik kaynaklı tehlikelere karşı son derece savunmasız hâle getirir. Elektrik iletkenliğini artırdığı için, özellikle fırtınalarda ve elektrik anomalilerinin yakınında elektrik çarpması riski çok daha yüksektir. Ayrıca hızla hareket eden nesneleri çeken bir manyetik alanı vardır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_fireball_af_iam_name">
+    <text>Ateş Topu içeren IAM</text>
+  </string>
+  <string id="st_af_full_empty_af_iam_descr">
+    <text>Sıradan Boşluk gibi bu artefakt da aralarında benzersiz bir kütleçekim alanı bulunan iki organik diskten oluşur. Ancak buradaki alan olağan dışıdır: merkeze giren atomlar, doğaları ne olursa olsun, alanın bilinmeyen etkileriyle karşılıklı olarak etkinleşir ve foton açığa çıkarır. Bilim insanları buna genellikle “galaksi etkisi” der; bu etki artefakta olağanüstü bir ışık yörüngesi kazandırır. Artefaktın psi dalgalarını bastırma yeteneği de bu etkiyle ilişkili olabilir.\nKütleçekim alanı çevredeki havanın yoğunluğunu artırdığı için hareket hızı belirgin biçimde düşer. Artefakt “Boşluk”tan çok daha eski olduğundan fiziksel etkilere karşı koruması da etkileyicidir. Bazı stalkerlar, yakından ateşlenen 9 mm’lik bir mermiyi durdurabildiğini iddia eder.\n \n		%c[ui_gray_2]ÖZELLİKLER:\n		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n		%c[ui_white] • %c[ui_gray_2] artefaktların takılmasını sağlar\n		%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n		%c[ui_white] • %c[ui_gray_2] kalkanlama:%c[ui_gray_1] 7 mSv\n		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu</text>
+  </string>
+  <string id="st_af_full_empty_af_iam_name">
+    <text>Tam Boşluk</text>
+  </string>
+  <string id="st_af_fuzz_kolobok2_af_iam_descr">
+    <text>Bölgenin bu gizemini elde tutunca bedenin hafiflediği hissedilir. Çok daha fazla eşya taşımayı sağlar, ancak delik yaralarından kanamaya yol açar.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_fuzz_kolobok2_af_iam_name">
+    <text>Şişko içeren IAM</text>
+  </string>
+  <string id="st_af_fuzz_kolobok3_af_iam_descr">
+    <text>Havayla temas edince koyu bir kabukla kaplanan yeşil, kırılgan topaklardır. Psi alanlarına karşı orta düzeyde korur, taşınabilir ağırlığı biraz artırır ve sahibinin sağlığını yavaşça yeniler. Radyoaktiftir.\n\n%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_fuzz_kolobok3_af_iam_name">
+    <text>IAM / Yeşil Exclay</text>
+  </string>
+  <string id="st_af_fuzz_kolobok_af_iam_descr">
+    <text>Kolobok kimyasal bölgelerde oluşan nispeten nadir bir artefakttır. Çoğu yarayı hızla iyileştirir ve kanamayı durdurur. Genetik kodu değiştirdiği söylentisi kanıtlanmamıştır. Radyoaktif parçacıklarla etkileşir; radyasyondan kaçınmak gerekir. İğne benzeri çıkıntıları küçük, acılı yaralar ve kaşıntı oluşturur, enerji toparlanmasını azaltır. Kolay tutuştuğundan ısı ve aside karşı korumayı zayıflatır. Hafiftir.
+
+Orta düzeyde radyasyon yayımı.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_fuzz_kolobok_af_iam_name">
+    <text>IAM ile Kolobok</text>
+  </string>
+  <string id="st_af_gimlet_af_iam_descr">
+    <text>Bitki kökenlidir. Kâse biçimli yaprakları orta düzeyde yalıtım sağlar. Radyoaktiftir.\n \n \n %c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_gimlet_af_iam_name">
+    <text>“Burgu” içeren IAM</text>
+  </string>
+  <string id="st_af_glas_diablo_af_iam_descr">
+    <text>%c[255,128,255,128]Nadir bir artefakt. Özellikleri henüz incelenmemiştir. Radyoaktiftir.
+	</text>
+  </string>
+  <string id="st_af_glas_diablo_af_iam_name">
+    <text>IAM / Şeytan Gözü</text>
+  </string>
+  <string id="st_af_glass3_af_iam_descr">
+    <text>Şekli ve fiziksel özellikleri beze benzeyen bu artefakt taşıma kapasitesini biraz artırır, gücü yeniler ve kesikleri iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_glass3_af_iam_name">
+    <text>IAM / Beze</text>
+  </string>
+  <string id="st_af_glass_af_iam_descr">
+    <text>Ateşböceği, bilimin tanımadığı alanlarla etkileşir; doku ve organ yenilenmesini hızlandırır, metabolizmayı düzenler. Ağır yaralı bir stalkerı dakikalar içinde ayağa kaldırabilir, ancak güçlü radyoaktif kaynaklarda kendiliğinden tutuşabilir. İyileşme sırasında bedeni zayıflatır, trombositleri azaltıp kanamayı artırır. Dayanıklılığı ciddi biçimde tüketir; bazı kullanıcılar saatlerce yürüyememiştir. Son derece nadirdir.
+
+Yüksek radyasyon yayımı.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_glass_af_iam_name">
+    <text>Ateşböceği içeren IAM</text>
+  </string>
+  <string id="st_af_gold_fish2_af_iam_descr">
+    <text>Baskınlarda çok sayıda yararlı ekipman taşımayı sağlayan çok nadir bir artefakt. Bununla anomalilere girmemek gerekir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_gold_fish2_af_iam_name">
+    <text>IAM ile Ekmek Parçası</text>
+  </string>
+  <string id="st_af_gold_fish_af_iam_descr">
+    <text>Gravi’nin doğrudan ve daha güçlü halefidir; özelliklerini büyük bir emisyon sonrası Saharov keşfetmiştir. Üç Gravi’nin etkileşip tekillik alanlarına çekilmesiyle oluşur ve çok nadirdir. Rus ajanlarının onu Bölge dışındaki laboratuvarlara taşıdığı söylenir. Anti-kütleçekim alanı yalnızca yakın çevreyi etkiler; bazı stalkerlar artefaktı bırakıp kaybolmuştur. Hareketli nesneleri hızlandırarak taşıyana da zarar verebilecek tehlikeli çarpışmalara yol açar.
+
+Radyasyon ölçeğinde en yüksek yayım.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_gold_fish_af_iam_name">
+    <text>IAM ile Japon balığı</text>
+  </string>
+  <string id="st_af_gravi2_af_iam_descr">
+    <text>Orta fiyatlı bir artefakt. Zıplamayı kolaylaştırır, ancak psi korumasını azaltır.\n \n		%c[ui_gray_2]ÖZELLİKLER:\n		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n		%c[ui_white] • %c[ui_gray_2] artefaktların takılmasını sağlar\n		%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n		%c[ui_white] • %c[ui_gray_2] kalkanlama:%c[ui_gray_1] 7 mSv\n		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu</text>
+  </string>
+  <string id="st_af_gravi2_af_iam_name">
+    <text>Gravitator</text>
+  </string>
+  <string id="st_af_gravi_af_iam_descr">
+    <text>Gravi, metallerin uzun süre kütleçekime maruz kalmasıyla oluşur. Anti-kütleçekim alanı yakındaki eşyaları hafifletir. Yantar’daki Saharov her 30 dakikada bir küçük tekillik alanı oluşturduğunu keşfetti. İletkenliği, çarpılma riskini ve psi dalgalarının etkisini artırır.
+
+Radyasyon ölçeğinde orta düzeyde yayım.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_gravi_af_iam_name">
+    <text>IAM ile Gravi</text>
+  </string>
+  <string id="st_af_gubka3_af_iam_descr">
+    <text>Jöle anomalisi tarafından oluşturulan, oldukça yaygın zümrüt renkli viskoz bir maddedir. Taşındığında yaraları hafifçe iyileştirir. Az radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_gubka3_af_iam_name">
+    <text>IAM / Sünger</text>
+  </string>
+  <string id="st_af_ice3_af_iam_descr">
+    <text>Süt beyazı renkte, spiral biçimli bir maddedir. Psi etkilerine karşı orta düzeyde koruma sağlar ve gücü yeniler.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_ice3_af_iam_name">
+    <text>IAM / Serpantin</text>
+  </string>
+  <string id="st_af_ice_af_iam_descr">
+    <text>Halk arasında «Radyoaktif Kar Tanesi» denir; beyaz bir Kolobok’a benzer. Kas tonusunu ve dayanıklılık toparlanmasını büyük ölçüde artırır, ancak çok radyoaktiftir. Elektriğe karşı güçlü koruma sağlar fakat uzun gezilerde tehlikelidir. Yakındaki enerji kaynaklarını emip güçlendirir; ısı, toksin ve psi alanlarına yaklaşmak ölümcül olabilir. Çok hafiftir.
+
+Radyasyon ölçeğinde yüksek yayım.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_ice_af_iam_name">
+    <text>IAM ile Kar Tanesi</text>
+  </string>
+  <string id="st_af_indeikam3_af_iam_descr">
+    <text>Açık gri, yuvarlak biçimli ve kaz yumurtası büyüklüğünde bir taştır. Boyanmış gibi duran koyu yüzeyinde girift dalgalı çizgiler ve noktalar vardır. Taşıma ağırlığını biraz artırır ve organizmayı iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_indeikam3_af_iam_name">
+    <text>IAM / Hint Taşı</text>
+  </string>
+  <string id="st_af_itcher_af_iam_descr">
+    <text>
+		Yüksek sıcaklıkta oluşan “Kaşıntı” artefaktı, birbirinden ayrılmış iki katmandan oluşur. Yüzeyi, tüm gövdesini kaplayan derin izlere sahip sert ve yoğun bir metamorfik kayadır. Buna karşılık yumuşak, sarı ve ışıldayan çekirdeğinin organik yapısı bilinmemektedir. Fazla ısıyı emer ve sürekli serin kalır.\n \nTermal radyasyonun bir kısmını emebilen zayıf bir koruyucu alan üretir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_itcher_af_iam_name">
+    <text>IAM w/ Kaşındırıcı</text>
+  </string>
+  <string id="st_af_itching1_af_iam_descr">
+    <text>%c[255,128,255,128]Vücut tonusunu artırır, ancak radyoaktiftir.</text>
+  </string>
+  <string id="st_af_itching1_af_iam_name">
+    <text>IAM / Kristal Kaşıntısı</text>
+  </string>
+  <string id="st_af_itching_low_af_iam_descr">
+    <text>%c[255,128,255,128]Nadir bir artefakt. Özellikleri neredeyse hiç incelenmemiştir. Radyoaktiftir.
+	</text>
+  </string>
+  <string id="st_af_itching_low_af_iam_name">
+    <text>IAM / Kristal Temizliği</text>
+  </string>
+  <string id="st_af_joker_af_iam_descr">
+    <text>%c[255,128,255,128]Çok nadir bir artefakttır. Birkaç artefaktın çaprazlanmasıyla bir laboratuvarda üretildiği söylense de bu söylenti doğrulanmamıştır.
+	</text>
+  </string>
+  <string id="st_af_joker_af_iam_name">
+    <text>IAM / Joker</text>
+  </string>
+  <string id="st_af_karusel_af_iam_descr">
+    <text>
+		Özellikleri henüz tam olarak araştırılmamıştır. Tokluk hissinin geri kazanılmasına yardımcı olduğu, patlamalara karşı koruduğu ve taşınabilen yükü artırdığı bilinmektedir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_karusel_af_iam_name">
+    <text>IAM / Atlıkarınca</text>
+  </string>
+  <string id="st_af_kashtan_af_iam_descr">
+    <text>Keskin dikenli, çatlamış ve büyümüş bir kestaneye benzer. Her konuda az da olsa yardımcı olur. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_kashtan_af_iam_name">
+    <text>IAM / Kestane</text>
+  </string>
+  <string id="st_af_klaksa_af_iam_descr">
+    <text>
+		Yalnızca adını aldığı Klaksa anomalisi içinde oluşur. Özellikleri araştırılmamıştır.\n \n\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_klaksa_af_iam_name">
+    <text>IAM / Leke</text>
+  </string>
+  <string id="st_af_kol_4_af_iam_descr">
+    <text>Artefakt insana büyük güç verir, adını da buradan alır. Ancak yüksek gerilim cildin yırtılmasına ve kanamaya yol açar. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_kol_4_af_iam_name">
+    <text>IAM ile Devin Küçük Kardeşi</text>
+  </string>
+  <string id="st_af_ledenec_af_iam_descr">
+    <text>%c[255,128,255,128]Artefakt granite benzeyen bir taştır. Çok güçlü kütleçekim alanlarında oluşur. Sahibinin zihnini psi etkilerinden tamamen veya kısmen koruyabilir. Radyoaktiftir.
+	</text>
+  </string>
+  <string id="st_af_ledenec_af_iam_name">
+    <text>IAM / Lolipop</text>
+  </string>
+  <string id="st_af_life_heart_af_iam_descr">
+    <text>Gerçek bir kalbe benzeyen nadir bir artefakt. İlk bulan stalker onu neredeyse bir yol arkadaşının kalıntıları sanıyordu. Sağlığı ve gücü hızla yeniler, ancak elektriği çeker. Hafif radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_life_heart_af_iam_name">
+    <text>IAM ile Canlı Kalp</text>
+  </string>
+  <string id="st_af_lifekam3_af_iam_descr">
+    <text>Görünüşü ve kökeni Kara Melek’i andıran bir artefakttır. Psi etkilerine karşı hafif koruma sağlar ve yaraları iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_lifekam3_af_iam_name">
+    <text>IAM / Düşmüş Melek</text>
+  </string>
+  <string id="st_af_lifekam_af_iam_descr">
+    <text>Islak bir zarla kaplı, dokununca sıcak, yarı saydam jelimsi bir küredir. Taşıma kapasitesini artırır, gücü biraz yeniler ve kanı canlandırır. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_lifekam_af_iam_name">
+    <text>IAM / Yaşam Taşı</text>
+  </string>
+  <string id="st_af_lobster_eyes_af_iam_descr">
+    <text>
+		Artefakt, birbirine kaynamış iki yumurta biçimindedir. Dış yüzeyi çok kalındır; bilim insanlarına göre oluşumun yüksek yoğunluğu koyu renginin nedeni olabilir.\n \n“Istakoz Gözleri”nin belirgin bir olumlu etkisi radyasyona karşı direnci artırmasıdır: radyasyonun etkisi altında bir ölçüde rezonansa girerek bu tehlikeli etkiyi emer. Artefakt ayrıca çevresindeki ısıyı dağıtabilir ve taşıyan kişinin tokluk hissini destekler.\n \nNe yazık ki yüksek yoğunluğu artefaktın kullanımını oldukça zorlaştırabilir. Ayrıca birçok stalker, artefaktı taşırken elektrik boşalması altında ekipmanlarının şok korumasının bir miktar zayıfladığını bildirmiştir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_lobster_eyes_af_iam_name">
+    <text>IAM ile Istakoz Gözleri</text>
+  </string>
+  <string id="st_af_magnito_af_iam_descr">
+    <text>
+		Yeni bir artefakt. Termal yapı anomalilerinde bulunur. Hareket hızını artırdığı gözlemlenmiştir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_magnito_af_iam_name">
+    <text>IAM / Magneto</text>
+  </string>
+  <string id="st_af_mahovik_af_iam_descr">
+    <text>
+		Yeni bir artefakt. En sık kütleçekim anomalilerinde oluşur. Darbelerin sonuçlarını hafiflettiği gözlemlenmiştir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_mahovik_af_iam_name">
+    <text>IAM / Volan</text>
+  </string>
+  <string id="st_af_mayatnik3_af_iam_descr">
+    <text>
+		Oldukça nadirdir. Yalnızca Bölge’nin kuzey kesimlerinde bulunur. Yanınızdayken radyasyon bulaşmasının ne olduğunu neredeyse unutursunuz. Susuzluk hissini artırır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_mayatnik3_af_iam_name">
+    <text>IAM / Nane Sazanı</text>
+  </string>
+  <string id="st_af_mayatnik_af_iam_descr">
+    <text>Yalnızca Bölge’nin kuzeyinde bulunan nadir bir artefakt. Bedene olumlu etkisi vardır. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_mayatnik_af_iam_name">
+    <text>IAM ile Sarkaç</text>
+  </string>
+  <string id="st_af_medusa_af_iam_descr">
+    <text>
+		Bölge’de oldukça yaygın, kütleçekim yapılı bir artefakttır. Taşıyan kişiyi her tür fiziksel darbeye karşı iyi korur. Ayrıca Bölge’de çoğunlukla termal anomalilerden kaynaklanan yüksek sıcaklıklara karşı da bir miktar koruma sağlar. Kütleçekim doğasından kaynaklanan ağırlığı kullanımını zorlaştırabilir.\n \nDaha ciddi kusuru, psi maruziyetinin olumsuz etkilerini artırmasıdır. Etki oldukça hafif olsa da artefaktın, kabının ve ekipmanın toplam ağırlığı taşıyan kişiyi fiziksel ve duygusal açıdan çok çabuk tüketebilir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_medusa_af_iam_name">
+    <text>IAM ile Denizanası</text>
+  </string>
+  <string id="st_af_medusa_green_af_iam_descr">
+    <text>Sıradan Denizanası’na benzer, ancak yeşildir ve hafif ışık yayar. İki anomalinin birleşmesiyle oluştuğu düşünülür. Sahibinin yorgunluğunu zamanla giderir ve zıplama yüksekliğini belirgin biçimde artırır; ancak mutant pençeleri daha fazla fiziksel hasar verir.\n \n		%c[ui_gray_2]ÖZELLİKLER:\n		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n		%c[ui_white] • %c[ui_gray_2] artefaktların takılmasını sağlar\n		%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n		%c[ui_white] • %c[ui_gray_2] kalkanlama:%c[ui_gray_1] 7 mSv\n		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu</text>
+  </string>
+  <string id="st_af_medusa_green_af_iam_name">
+    <text>IAM ile «Zümrüt Denizanası»</text>
+  </string>
+  <string id="st_af_microb_af_af_iam_descr">
+    <text>%c[255,128,255,255,128]A fairly rare artifact. Its ÖZELLİKLER are not doluy understood, but it has been noted that it promotes wound healing and partially removes radiation.
+	</text>
+  </string>
+  <string id="st_af_microb_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_microb_af_iam_name">
+    <text>IAM / Mikrop</text>
+  </string>
+  <string id="st_af_midi_af_af_iam_descr">
+    <text>%c[255,128,255,128]Nadir bir artefakt. Ateşe direnci artırır ve vücudu toksinlerden arındırır. Radyoaktiftir.</text>
+  </string>
+  <string id="st_af_midi_af_af_iam_name">
+    <text>IAM / Salyangoz</text>
+  </string>
+  <string id="st_af_midi_af_iam_descr">
+    <text>%c[255,128,255,128]Nadir bir artefakt. Ateşe direnci artırır ve vücudu toksinlerden arındırır. Radyoaktiftir.</text>
+  </string>
+  <string id="st_af_midi_af_iam_name">
+    <text>IAM / Salyangoz</text>
+  </string>
+  <string id="st_af_mincer_meat2_af_iam_descr">
+    <text>Uzun baskınlarda yararlıdır: yemek ve dinlenme ihtiyacını azaltır. Kontrolörlerden kaçınmak gerekir. Hafif radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_mincer_meat2_af_iam_name">
+    <text>IAM ile Ekmek Parçası</text>
+  </string>
+  <string id="st_af_mincer_meat_af_iam_descr">
+    <text>
+		Bu artefakt yumuşak, gözenekli, deriyi andıran bir dokuya sahiptir ve sıkıştırılabilir. Bu açıdan süngere benzer ve sünger gibi davranır; ancak özel özelliklerini yalnızca belirli dış koşullar altında gösterir.\n \nİlk olarak, sünger benzetmesini sürdürürsek, yüzeyindeki gözeneklerin çevredeki az miktarda zehirli maddeyi emdiği bilinmektedir.\n \nİkinci olarak, “Et Parçası” da canlı derisine çok benzeyen biçimde elektriği iletir; bu da elektrik çarpmasının etkisini bir ölçüde azaltır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_mincer_meat_af_iam_name">
+    <text>IAM w/ Et Parçası</text>
+  </string>
+  <string id="st_af_misery_bread_af_iam_descr">
+    <text>Kurşun astarlı kapta anormal ekmek. Onu bırakan kişinin ruhu kadar karanlık.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_misery_bread_af_iam_name">
+    <text>IAM ile anormal ekmek</text>
+  </string>
+  <string id="st_af_morf_af_af_iam_descr">
+    <text>
+		Kimyasal yapı anomalilerinde ortaya çıkan, araştırılmamış radyoaktif bir oluşumdur.\n \n
+		%c[255,128,255,255,128] Unstudied, radioactive formation, born in chemical structure anomalies. 
+	</text>
+  </string>
+  <string id="st_af_morf_af_iam_descr">
+    <text>
+		Kimyasal yapı anomalilerinde ortaya çıkan, araştırılmamış radyoaktif bir oluşumdur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_morf_af_iam_name">
+    <text>IAM / Morf</text>
+  </string>
+  <string id="st_af_necklace_af_iam_descr">
+    <text>%c[255,128,255,128]Belki de yalnızca tek bir örneği vardır. Söylentiye göre bilim insanları laboratuvarda Açık Gökyüzü ve Plazma artefaktlarını çaprazlayarak üretmiştir.</text>
+  </string>
+  <string id="st_af_necklace_af_iam_name">
+    <text>IAM / Kızın Kolyesi</text>
+  </string>
+  <string id="st_af_night_star2_af_iam_descr">
+    <text>Eşsiz özelliklere sahip organik artefakt. Bilinmeyen bir yolla taşıma kapasitesini artırır ve açlığı unutturur. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_night_star2_af_iam_name">
+    <text>IAM ile Gerçek Gece Yıldızı</text>
+  </string>
+  <string id="st_af_night_star_af_iam_descr">
+    <text>
+		Çevresinde kütleçekim alanı oluşturabilen ışıklı bir artefakt. Stalkerlar taşıma kapasitesini artırmak için onu Gravi artefaktıyla birlikte sıkça kullanır. Ucuz olduğu için kısıtlı bütçeli stalkerlar da satın alabilir.\nGüzel iç çekirdeği dünyanın dört bir yanındaki kuyumcular tarafından çok değerli bulunur. İşlerken dikkatli olunmalıdır: yanlış parlatma küçük bir binayı yıkabilecek güçte patlamaya neden olabilir. Riski azaltmak için özel otomatik ekipmanla parlatılması önerilir. Radyasyonu yalnızca dış çekirdek yayar.\n\nPratik bir yararı da toksinleri emerek taşıyan kişiyi korumasıdır; bu özelliği Gece Yıldızı’nı kimyasal artefakt avcıları için değerli kılar.\nAncak yüksek sıcaklıklar artefaktı kolayca ısıtıp kendiliğinden tutuşmasına yol açabilir.\n \n						
+		%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_night_star_af_iam_name">
+    <text>IAM ile Gece Yıldızı</text>
+  </string>
+  <string id="st_af_oasis_heart2_af_iam_descr">
+    <text>Bedene yararlı etkileri olan kristalleşmiş bir bitkiye benzer. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_oasis_heart2_af_iam_name">
+    <text>IAM ile Dev’in Kalbi</text>
+  </string>
+  <string id="st_af_oasis_heart_af_iam_descr">
+    <text>Efsanevi Vaha’nın merkezinde bulunmuştur. Şifalı özellikler kazanmış kristalleşmiş bir bitkiye benzer. İyileşmeyi hızlandırır ve bedene güçlü enerji sağlar. Dış enerjiye ve çevreye duyarlıdır; anomali alanlarıyla etkileşim ölümcüldür.
+
+En yüksek radyasyon yayımı.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_oasis_heart_af_iam_name">
+    <text>IAM ile Vaha’nın Kalbi</text>
+  </string>
+  <string id="st_af_oblivion3_af_iam_descr">
+    <text>Yanlarında dokunaçları olan bir ahtapota benzer. Taşıma kapasitesini biraz artırır, gücü yeniler ve kesikleri iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_oblivion3_af_iam_name">
+    <text>IAM / Ahtapot</text>
+  </string>
+  <string id="st_af_oblivion_af_iam_descr">
+    <text>Yumruk büyüklüğünde, buzdan yapılmış ve koyu mavi beneklerle kaplı gibi duran küçük mavi-beyaz bir küredir. Tüm bedeni olumlu etkiler. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_oblivion_af_iam_name">
+    <text>IAM / Unutuluş</text>
+  </string>
+  <string id="st_af_oko_af_iam_descr">
+    <text>Yumruk büyüklüğünde, kenarları mavi-yeşil, ortası mat renkli yarı saydam soluk bir küredir. Sağlığı yeniler ve toksinlere karşı korur. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_oko_af_iam_name">
+    <text>IAM / Göz</text>
+  </string>
+  <string id="st_af_oreh_af_iam_descr">
+    <text>Bölge’nin en nadir artefaktlarından biridir. Adını aldığı ceviz büyüklüğünde koyu kahverengi bir küredir. Sahibine zindelik ve tokluk hissi verir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_oreh_af_iam_name">
+    <text>IAM / Ceviz</text>
+  </string>
+  <string id="st_af_padshi_angel_af_iam_descr">
+    <text>
+		Tokluk hissinin geri kazanılmasını hızlandıran oldukça nadir bir artefakttır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_padshi_angel_af_iam_name">
+    <text>IAM / Yumuşakça</text>
+  </string>
+  <string id="st_af_part_monolit_af_iam_descr">
+    <text>Atan bir kalbe benzeyen son derece nadir artefakt. Bedene yarar sağlar, ancak sahibini etkileyen psi dalgalarını çok güçlü biçimde artırır. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_part_monolit_af_iam_name">
+    <text>IAM ile Monolit Parçası</text>
+  </string>
+  <string id="st_af_pendulum_af_iam_descr">
+    <text>
+		Sıradan bir artefakttır. Özellikleri henüz tam olarak araştırılmamıştır. Kimyasal anomalilerde oluşur. Bastıran susuzluğa karşı koymaya yardımcı olduğu bilinmektedir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_pendulum_af_iam_name">
+    <text>IAM / Sarkaç</text>
+  </string>
+  <string id="st_af_pero_af_iam_descr">
+    <text>
+		Varlığını birçok gezginin efsane saydığı çok nadir bir artefakttır. Elektriksel yapı anomalilerine karşı direnci artırır. Ayrıca sırt çantasına konduğunda uyku ihtiyacını önemli ölçüde azaltır ve sağlığı iyileştirir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_pero_af_iam_name">
+    <text>IAM / Kristal Tüy</text>
+  </string>
+  <string id="st_af_pin_af_iam_descr">
+    <text>
+		Bölge’deki termal anomalilerin aşırı sıcaklıklarda oluşturduğu küçük bir artefakttır. Görünüşü, bunun bir damarlı bitki organı olduğunu düşündürür. Sonraki araştırmalar, başka organik dokuların derinlerde sıkıca birleştiğini göstermiştir. Artefaktın küçük çıkıntıları taşıyan kişinin vücut sıcaklığını düşürür ve yakındaki tüm nesneleri soğutur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_pin_af_iam_name">
+    <text>IAM w/ Diken</text>
+  </string>
+  <string id="st_af_plasma_af_af_iam_descr">
+    <text>%c[255,128,255,255,128]A very rare artifact. Increases overall tone, and cleanses the body of radiation...
+	</text>
+  </string>
+  <string id="st_af_plasma_af_af_iam_name">
+    <text>IAM / Plazma</text>
+  </string>
+  <string id="st_af_plasma_af_iam_descr">
+    <text>%c[255,128,255,128]Çok nadir bir artefakttır. Genel tonusu artırır ve vücudu radyasyondan arındırır...</text>
+  </string>
+  <string id="st_af_plasma_af_iam_name">
+    <text>IAM / Plazma</text>
+  </string>
+  <string id="st_af_poipruz_af_iam_descr">
+    <text>Nispeten nadir ve pahalıdır. Radyasyonu çok iyi giderir. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_poipruz_af_iam_name">
+    <text>IAM ile Şarkı Söyleyen Pınar</text>
+  </string>
+  <string id="st_af_propeller_af_iam_descr">
+    <text>
+		Yeni bir artefakt. Özellikleri henüz tam olarak araştırılmamıştır, ancak taşıyan kişinin zıplama yüksekliğini önemli ölçüde artırdığı için stalkerlar arasında rağbet görür.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_propeller_af_iam_name">
+    <text>IAM / Pervane</text>
+  </string>
+  <string id="st_af_prujina_af_iam_descr">
+    <text>
+		Nadir ve eşsiz bir artefakttır; termal yapı anomalilerine karşı direnci artırır ve koşmayı kolaylaştırır. Özellikleri henüz tam olarak araştırılmamıştır. Termal anomalilerde oluşur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_prujina_af_iam_name">
+    <text>IAM / Yay</text>
+  </string>
+  <string id="st_af_pudd_1_af_iam_descr">
+    <text>Çift diskli anormal oluşum. Yükü biraz artırır, enerjiyi yeniler ve çizikleri iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_pudd_1_af_iam_name">
+    <text>IAM ile Ateşli Kabuk</text>
+  </string>
+  <string id="st_af_pudd_2_af_iam_descr">
+    <text>Çift disk ailesinden anormal oluşum. Yükü biraz artırır ve bedeni iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_pudd_2_af_iam_name">
+    <text>IAM ile Parlak Kabuk</text>
+  </string>
+  <string id="st_af_pudd_3_af_iam_descr">
+    <text>Çift diskli anormal oluşum. Sağlığı yeniler, yaraları ve çizikleri iyileştirir. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_pudd_3_af_iam_name">
+    <text>IAM ile Ay Kabuğu</text>
+  </string>
+  <string id="st_af_pudd_4_af_iam_descr">
+    <text>Çift disk ailesinden anormal oluşum. Sırt kaslarını güçlendirir ve daha fazla yük taşımayı sağlar. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_pudd_4_af_iam_name">
+    <text>IAM ile Puding</text>
+  </string>
+  <string id="st_af_pulsar_af_iam_descr">
+    <text>
+		Özellikleri pek bilinmeyen nadir ve eşsiz bir artefakttır. Genellikle elektrik anomalilerinde oluşur. Radyo sinyallerini bozma yeteneği sayesinde Büyük Toprak’ta rağbet gördüğü söylenir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_pulsar_af_iam_name">
+    <text>IAM / Atarca</text>
+  </string>
+  <string id="st_af_quest_b14_twisted2_af_iam_descr">
+    <text>Adını yılanı andıran görünüşünden alan çok nadir, ateş türü bir artefakt. Yaraların iyileşmesine yardım eder. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_quest_b14_twisted2_af_iam_name">
+    <text>IAM ile Beyaz Yılan</text>
+  </string>
+  <string id="st_af_raibloko3_af_iam_descr">
+    <text>Çeşme artefaktına benzer ancak farklı özelliklere sahiptir. Gücü ve sağlığı biraz yeniler. Radyoaktiftir.%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	\n\n</text>
+  </string>
+  <string id="st_af_raibloko3_af_iam_name">
+    <text>IAM / Peluş</text>
+  </string>
+  <string id="st_af_raibloko_af_iam_descr">
+    <text>Elma büyüklüğündeki yanardöner küre yerden yarım metre yüksekte yavaşça döner ve hafifçe gıcırdar. Isıya duyarlılığı artırır, fakat sağlığı ve gücü yeniler, yaraları iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_raibloko_af_iam_name">
+    <text>IAM ile Cennet Elması</text>
+  </string>
+  <string id="st_af_ring_af_iam_descr">
+    <text>
+		Elektriksel yapıda, fark edilmesi oldukça zor, çok küçük bir artefakttır. Bej-beyaz renkli iki halka biçimli bağlantıdan oluşur; bunlar aynı zamanda organik oluşumlardır. Dönmesi için bir itki verildiğinde, biri durdurana kadar dönmeye devam eder; bu durum termodinamiğin birinci yasasına meydan okur. Bilim insanları, “Huni” türü anomalilerin kütleçekim özelliklerini miras aldığını düşünmektedir.\n \nDış halka son derece yüksek elektrik iletkenliğine sahip olsa da akımı önce emer, ardından iç halkada toprağa aktarır; bu da mermilere karşı şaşırtıcı bir koruma sağlar. Elektrik enerjisinin ikinci halkanın içinde nasıl yok olduğu henüz bilinmemektedir. Bu, artefaktın taşıyan kişinin yaşam gücünü neden oldukça artırdığını da açıklayabilir.\n \nYapısı yüksek sıcaklıklarda son derece kararsız hâle geldiğinden açık alev kaynaklarının yakınında bulunmaktan kesinlikle kaçınılmalıdır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_ring_af_iam_name">
+    <text>IAM ile Halka</text>
+  </string>
+  <string id="st_af_rusty_kristall_af_iam_descr">
+    <text>Yanmış Tüy anomalisi içinde kristalleşir ve radyasyonu vücuttan kanla birlikte, kulaklardan da atar. Başka açıklıklardan kan kaybı da olabilir. Yaygın ve etkilidir; fiyatı bu yüzden istikrarlıdır.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_rusty_kristall_af_iam_name">
+    <text>IAM ile Kristal Diken</text>
+  </string>
+  <string id="st_af_rusty_sea_urchin_af_iam_descr">
+    <text>Yanmış Tüy anomalisi bu artefaktı çok nadir üretir. Tansiyonu yükselterek çok sayıda alyuvarın ve birikmiş radyasyonun vücuttan atılmasını sağlar. Saharov, yapısının kritik derecede kararsız olduğunu ve önümüzdeki on yılda laboratuvarda üretilemeyeceğini belirtmiştir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_rusty_sea_urchin_af_iam_name">
+    <text>IAM ile Deniz Kestanesi</text>
+  </string>
+  <string id="st_af_rusty_thorn_af_iam_descr">
+    <text>Yanmış Tüy anomalisi ile dikkatsiz bir stalkerın etkileşiminden doğmuştur. Diken sahibini mutlaka dürter, ancak vücudun radyonüklitleri atmasına yardım eder. Yaygın ve ucuzdur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_rusty_thorn_af_iam_name">
+    <text>IAM ile Diken</text>
+  </string>
+  <string id="st_af_sea_urchin_af_iam_descr">
+    <text>%c[255,128,255,128]Nadir bir artefakt. Gücü yeniler ve psi etkilerine karşı güçlü koruma sağlar, ancak radyoaktiftir.</text>
+  </string>
+  <string id="st_af_sea_urchin_af_iam_name">
+    <text>IAM / Deniz kestanesi</text>
+  </string>
+  <string id="st_af_seaej_af_iam_descr">
+    <text>Künt iğnelerle kaplı bir kirpiyi andırır. Gücü ve sağlığı yeniler, yaraları iyileştirir. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_seaej_af_iam_name">
+    <text>IAM ile Patlayıcı Deniz Kestanesi</text>
+  </string>
+  <string id="st_af_simbion_af_iam_descr">
+    <text>Kimyasal anomaliye artefakt atılarak elde edildiği söylenir, ancak stalkerlar onu anomalilerde de bulur. Güzeldir, yükü ve sağlığı artırır, fakat enerji tüketimini yükseltir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_simbion_af_iam_name">
+    <text>IAM ile Simbiyont</text>
+  </string>
+  <string id="st_af_skripka_af_iam_descr">
+    <text>Sıfır kütleçekimine sahip, yuvarlak ve parıltılı bir oluşum. Keman’ın değeri tamamen estetiktir: her yüzeyin yarım metre üzerinde süzülür ve gökkuşağının tüm renkleriyle parlar. En hafif esinti bile farklı tonlarda melodik bir ses çıkarmasını sağlar. Su tüketimini artırır, karşılığında zindelik ve tokluk verir.\n \n						
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_skripka_af_iam_name">
+    <text>IAM / Keman</text>
+  </string>
+  <string id="st_af_slizen_af_iam_descr">
+    <text>
+		Nadir, eşsiz ve çok değerli bir artefakttır. Kimyasal anomalilere karşı direnci artırır ve vücudun sıvı ihtiyacını karşılar. Kimyasal yapı anomalilerinde oluşur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_slizen_af_iam_name">
+    <text>IAM / Sümüklüböcek</text>
+  </string>
+  <string id="st_af_soul2_af_iam_descr">
+    <text>Eşsiz özelliklere sahip organik artefakt. Bilinmeyen bir yolla taşıma kapasitesini artırır ve açlığı unutturur. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_soul2_af_iam_name">
+    <text>IAM ile Kimera’nın Kalbi</text>
+  </string>
+  <string id="st_af_soul_af_iam_descr">
+    <text>Ruh eşsiz bir organik artefakttır. Salgısı yaraların iyileşmesini hızlandırır, acıyı azaltır ve psi dalgalarının beyne verdiği zararı hafifletir. Uygun fiyatı ve görünüşüyle koleksiyoncularca beğenilir, ancak kullanıcının gücünü tüketir. Düşük yoğunluğu nedeniyle hafiftir.
+
+Düşük radyasyon yayımı.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_soul_af_iam_name">
+    <text>IAM ile Ruh</text>
+  </string>
+  <string id="st_af_spirit_1_af_iam_descr">
+    <text>Bölgenin en değerli artefaktlarından. Radyasyonu hızla giderir ve en yüksek psi korumasını sağlar. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_spirit_1_af_iam_name">
+    <text>IAM ile Ruh Damlası</text>
+  </string>
+  <string id="st_af_spirit_2_af_iam_descr">
+    <text>Bölgenin en değerli artefaktlarından. Yaraları hızla iyileştirir ve ısıya karşı en yüksek korumayı sağlar. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_spirit_2_af_iam_name">
+    <text>IAM ile Ateşli Ruh</text>
+  </string>
+  <string id="st_af_spirit_3_af_iam_descr">
+    <text>Bölgenin en değerli artefaktlarından. Gücü hızla yeniler ve elektriğe karşı en yüksek korumayı sağlar. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_spirit_3_af_iam_name">
+    <text>IAM ile Kristal Ruh</text>
+  </string>
+  <string id="st_af_spirit_4_af_iam_descr">
+    <text>Bölgenin en değerli artefaktlarından. Sağlığı hızla yeniler ve kimyasallara karşı en yüksek korumayı sağlar. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_spirit_4_af_iam_name">
+    <text>IAM ile Bengal Kristal Ruhu</text>
+  </string>
+  <string id="st_af_sponge_af_af_iam_descr">
+    <text>%c[255,128,255,128]Özellikleri az incelenmiş nadir bir artefakttır. Vücuttaki radyonüklitleri kısmen giderdiği gözlenmiştir.</text>
+  </string>
+  <string id="st_af_sponge_af_af_iam_name">
+    <text>IAM / Sünger</text>
+  </string>
+  <string id="st_af_sponge_af_iam_descr">
+    <text>
+		Nadir bir artefakttır. Özellikleri hakkında az şey bilinmektedir. Vücuttaki radyonüklitleri kısmen attığı gözlemlenmiştir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_sponge_af_iam_name">
+    <text>IAM ile Sünger</text>
+  </string>
+  <string id="st_af_sverlo_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_sverlo_af_iam_name">
+    <text>IAM / Matkap</text>
+  </string>
+  <string id="st_af_swivel_af_iam_descr">
+    <text>
+		Oldukça nadir bir artefakttır. Özellikleri araştırılmamıştır. Kütleçekim anomalilerinde oluşur.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_swivel_af_iam_name">
+    <text>IAM / Fırdöndü</text>
+  </string>
+  <string id="st_af_vedsleza3_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+		
+	</text>
+  </string>
+  <string id="st_af_vedsleza3_af_iam_name">
+    <text>IAM / Yüzük</text>
+  </string>
+  <string id="st_af_vedsleza_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_vedsleza_af_iam_name">
+    <text>IAM / Cadı Gözyaşı</text>
+  </string>
+  <string id="st_af_vereteno_af_iam_descr">
+    <text>
+		Nadir ve eşsiz bir artefakttır. Düşük düzeyde radyasyon yayar ve kimyasal yapı anomalilerine karşı direnci artırır. Özellikleri henüz tam olarak araştırılmamıştır, ancak susuzluğu azaltabildiği söylenir.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_vereteno_af_iam_name">
+    <text>IAM / İğ</text>
+  </string>
+  <string id="st_af_volchok_af_iam_descr">
+    <text>Kütleçekim yapısına sahip oldukça nadir bir artefakt. Kemerde taşındığında zindeliği artırır.\n \n		%c[ui_gray_2]ÖZELLİKLER:\n		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n		%c[ui_white] • %c[ui_gray_2] artefaktların takılmasını sağlar\n		%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n		%c[ui_white] • %c[ui_gray_2] kalkanlama:%c[ui_gray_1] 7 mSv\n		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu</text>
+  </string>
+  <string id="st_af_volchok_af_iam_name">
+    <text>Volchok</text>
+  </string>
+  <string id="st_af_vyvert2_af_iam_descr">
+    <text>Taşınan yükü hafifleten ve psi alanlarına karşı koruyan yaygın bir artefakt. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_vyvert2_af_iam_name">
+    <text>IAM ile Burulma</text>
+  </string>
+  <string id="st_af_vyvert3_af_iam_descr">
+    <text>Tuhaf biçimli, yuvarlak mor bir kristaldir. Artefakta temas etmek kişinin genel sağlığını iyileştirir. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_vyvert3_af_iam_name">
+    <text>IAM / Kadife</text>
+  </string>
+  <string id="st_af_vyvert_af_iam_descr">
+    <text>
+		Vortex, Zone’un canlılar üzerindeki etkisini ürkütücü biçimde hatırlatır. Kütleçekim anomalileri bitki köklerini ve dallarını kaydırıp sıkıştırarak bükmüş, yoğun, ağır ve korkunç bir yuva oluşturmuştur. Ancak Zone’da görünüşe aldanmamak gerekir; artefakt, özellikleriyle görünüşünü telafi eder. Kütleçekimi etkileyerek kullanıcısının çevresinde birçok fiziksel tehlikeye karşı koruyan küçük bir alan oluşturabilir. Bu alan toksik parçacıkları da iter; stalkerlar zehirli anomali alanlarına girerken bundan yararlanır. Elektrik akımlarıyla uğraşmadan önce kemerinizden çıkarmayı unutmayın: Vortex güçlü bir iletkendir. Kütleçekim bozulmalarının kullanıcının kan basıncını da yükselttiği ve psi alanlarına direnmesini zorlaştırdığı bildiriliyor.\n \n						
+		%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_vyvert_af_iam_name">
+    <text>IAM ile Burulma</text>
+  </string>
+  <string id="st_af_vyvert_green_af_iam_descr">
+    <text>Sıradan Burulma’ya benzer, ancak yeşildir. Radyoaktif değildir, hafifçe parlar, sahibini yavaşça iyileştirir ve radyasyonu iyi giderir. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_vyvert_green_af_iam_name">
+    <text>IAM ile Zümrüt Burulma</text>
+  </string>
+  <string id="st_af_water_flower1_af_iam_descr">
+    <text>Su Çiçeği’ne benzeyen artefakt. Kanamayı durdurur, çantayı hafifletir ve radyasyonu yavaşça giderir; sindirimi olumsuz etkiler.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_water_flower1_af_iam_name">
+    <text>IAM ile Garip Çiçek</text>
+  </string>
+  <string id="st_af_water_flower2_af_iam_descr">
+    <text>Çok nadir bitki kökenli artefakt. Radyasyonu gidermeye ve yaraları iyileştirmeye yardım eder, psi alanlarına karşı hafif koruma sağlar ve fazla ısıyı emer. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_water_flower2_af_iam_name">
+    <text>IAM ile Muhteşem Çiçek</text>
+  </string>
+  <string id="st_af_water_flower_af_iam_descr">
+    <text>Kökeni bilinmeyen olağanüstü bir artefakt. Yaraları iyileştirir, gücü yeniler ve radyasyonu biraz giderir; ancak açlığı hızlandırır.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_af_water_flower_af_iam_name">
+    <text>IAM ile Su Çiçeği</text>
+  </string>
+  <string id="st_af_wish_af_iam_descr">
+    <text>
+		Artefakt, onu ilk bulan stalker Sanya Filozof’un adını taşır. Adına rağmen olağanüstü hiçbir yanı yoktur. Mermilere ve radyasyona karşı korumayı biraz artırır.\n \n
+		%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik aygıt\n
+		%c[d_cyan] • %c[ui_gray_2] yüksek değer\n
+		%c[ui_white] • %c[ui_gray_2] artefaktların sabitlenmesini sağlar\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] koruma:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu
+	</text>
+  </string>
+  <string id="st_af_wish_af_iam_name">
+    <text>IAM / Hayal</text>
+  </string>
+  <string id="st_af_zelonka_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_af_zelonka_af_iam_name">
+    <text>IAM / Parlak Yeşil</text>
+  </string>
+  <string id="st_amk_ice_s_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_amk_ice_s_af_iam_name">
+    <text>IAM / Dondurma</text>
+  </string>
+  <string id="st_amk_snezhok_af_iam_descr">
+    <text>Taşıma kapasitesini biraz artıran ve psi alanlarına karşı koruyan küçük, radyoaktif bir artefakttır.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_amk_snezhok_af_iam_name">
+    <text>IAM / Kartopu</text>
+  </string>
+  <string id="st_amk_yoyo_af_iam_descr">
+    <text>Birbirinin aynısı iki mantar şapkasına benzer; adı belki buradan gelir. Isı korumasını artırır ve biraz daha fazla eşya taşımayı sağlar. Radyoaktiftir.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_amk_yoyo_af_iam_name">
+    <text>IAM / İkizler</text>
+  </string>
+  <string id="st_crystal_oko_af_iam_descr">
+    <text>%c[ui_gray_2]ÖZELLİKLER:\n
+		%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n
+		%c[d_cyan] • %c[ui_gray_2] değerli\n
+		%c[ui_white] • %c[ui_gray_2] artefakt takılmasına izin verir\n
+		%c[ui_white] • %c[ui_gray_2] azami kapasite:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n
+			
+	</text>
+  </string>
+  <string id="st_crystal_oko_af_iam_name">
+    <text>Her Şeyi Gören Göz içeren IAM</text>
+  </string>
+  <string id="st_jup_b1_half_artifact2_af_iam_descr">
+    <text>Nadir artefakt. Psi alanlarından ve bir ölçüde elektrikten korur. Alanı yakındaki eşyaları biraz hafifletir. Olumsuz özelliği yoktur.
+
+%c[ui_gray_2]ÖZELLİKLER:\n%c[d_cyan] • %c[ui_gray_2] teknolojik eşya\n%c[d_cyan] • %c[ui_gray_2] değerli\n%c[ui_white] • %c[ui_gray_2] artefakt saklama kabı\n%c[ui_white] • %c[ui_gray_2] kapasite:%c[ui_gray_1] 1\n%c[ui_white] • %c[ui_gray_2] izin verilen radyasyon seviyesi:%c[ui_gray_1] 7 mSv\n%c[ui_white] • %c[ui_gray_2] durum:%c[ui_gray_1] dolu\n</text>
+  </string>
+  <string id="st_jup_b1_half_artifact2_af_iam_name">
+    <text>IAM ile Sarmal</text>
+  </string>
+</string_table>

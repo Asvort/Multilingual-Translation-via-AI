@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>Le drone est déjà ravitaillé pour cette sortie.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>Le drone a déjà été acheté. L’argent a été remboursé.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>Drone ravitaillé (1 jerrican de carburant consommé). Pour cette sortie : marqueurs de caches, mise en évidence des champs d’artefacts et alertes de vol.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>Drone ravitaillé (45 000 RU dépensés). Pour cette sortie : marqueurs de caches, mise en évidence des champs d’artefacts et alertes de vol.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>Déjà ravitaillé pour la prochaine sortie.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>Ravitaillement du drone : %s RU ou 1 jerrican de carburant</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>Aucun jerrican de carburant et pas assez d’argent (45 000 RU). Ravitaillement impossible.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Achetez d’abord le drone dans les améliorations du carnet du refuge.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>Drone de reconnaissance UAV acheté. Une station de contrôle est apparue dans le refuge, près du médecin et du marchand : approchez-vous de l’ordinateur portable avec un jerrican (ou 45 000 RU) pour ravitailler le drone avant une sortie.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>Station de contrôle du drone</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Commandez auprès de Shustryi un drone autonome de reconnaissance UAV avec sa station de contrôle. Après l’achat, une station apparaîtra dans le refuge près du médecin et du marchand ; approchez-vous de l’ordinateur portable et ravitaillez le drone d’une simple pression. \n \n
+		Fonctions disponibles tant que le drone est ravitaillé : \n
+		- Toutes les caches connues et leur contenu sont mis en évidence sur la carte du PDA. \n
+		- Les cercles des champs d’anomalies deviennent cyan lorsqu’ils contiennent un artefact (détecteur d’artefacts). \n
+		- Si un PNJ ramasse un artefact, le drone envoie une alerte au PDA (faction, armure et direction). \n \n
+		Ravitaillement : 1 jerrican de carburant (s’il est dans l’inventaire) ou 45 000 RU. Le carburant est utilisé en priorité. La charge est consommée au retour au refuge.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>Drone de reconnaissance UAV</text>
+  </string>
+</string_table>

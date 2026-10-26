@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_itm_placeable_trashcan_name">
+    <text>Contenedor de reciclaje de la Zona</text>
+  </string>
+  <string id="st_open_trashcan">
+    <text>abrir contenedor</text>
+  </string>
+  <string id="st_place_trashcan">
+    <text>colocar contenedor</text>
+  </string>
+  <string id="st_placeable_trashcan_descr">
+    <text>Contenedor metálico para objetos no deseados. Se coloca como un alijo, pero tras un tiempo todo su contenido se destruye para siempre.\n \n%c[ui_gray_3]PROPIEDADES:\n%c[d_blue] • %c[ui_gray_2] contenedor colocable\n%c[d_blue] • %c[ui_gray_2] destruye todo lo que se deposite</text>
+  </string>
+  <string id="st_trashcan_mollyguard">
+    <text>AVISO: Todos los objetos de este contenedor serán DESTRUIDOS después de</text>
+  </string>
+  <string id="st_trashcan_searchtip">
+    <text>Coloca objetos en el contenedor ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_trashcan_seconds">
+    <text>segundos</text>
+  </string>
+  <string id="st_trashcan_shutupwesley">
+    <text>Contenedor colocado</text>
+  </string>
+  <string id="ui_mcm_menu_zrb">
+    <text>Contenedor de reciclaje de la Zona</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs">
+    <text>Activar registro de depuración</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs_desc">
+    <text>El script mostrará mensajes detallados en la consola. Normalmente déjalo desactivado y actívalo para reproducir un error.</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout">
+    <text>Espera antes de eliminar objetos</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout_desc">
+    <text>Número de segundos que deben pasar antes de que se eliminen todos los objetos del contenedor.\n \nUna vez vaciado, todos los objetos se perderán PARA SIEMPRE.</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled">
+    <text>Activar eliminación de objetos</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled_desc">
+    <text>Activa o desactiva la eliminación de objetos.</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin">
+    <text>Dar un contenedor gratis al jugador</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin_desc">
+    <text>Entrega un contenedor gratis y desactiva esta opción. Actívala otra vez para obtener otro.</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall">
+    <text>Desinstalar ZRB</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall_desc">
+    <text>Elimina todos los contenedores del inventario del jugador.</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots">
+    <text>Añadir marcadores del contenedor al mapa</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots_desc">
+    <text>Añade un icono único al colocar el contenedor.</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled">
+    <text>Avisar sobre la eliminación permanente de objetos</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled_desc">
+    <text>Muestra un aviso cada vez que se coloca el contenedor. Desactívalo para usar una confirmación normal.</text>
+  </string>
+</string_table>

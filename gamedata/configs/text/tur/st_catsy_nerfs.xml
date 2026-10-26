@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_nerfs_freq_preset">
+    <text>Ön ayar frekansı %s: %s MHz</text>
+  </string>
+  <string id="ui_mcm_menu_nerfmain">
+    <text>Ana ayarlar</text>
+  </string>
+  <string id="ui_mcm_menu_nerfpresets">
+    <text>Ön ayarlar</text>
+  </string>
+  <string id="ui_mcm_menu_nerfs">
+    <text>NERF kaynakları</text>
+  </string>
+  <string id="ui_mcm_menu_nerfwidget">
+    <text>Erişilebilirlik</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header1">
+    <text>En fazla dokuz frekans tanımlayıp her birine farklı bir kısayol tuşu atayabilirsiniz.</text>
+  </string>
+  <string id="ui_mcm_nerfpresets_header2">
+    <text>Fare tekerleği desteği açıksa aşağıdaki ön ayarlar arasında geçiş yapmak için kaydırırken Ctrl tuşunu basılı tutun.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_binaries">
+    <text>demonized tarafından modlanmış yürütülebilir dosyalar: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs">
+    <text>Hata ayıklama günlüğünü etkinleştir</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_debuglogs_desc">
+    <text>Günlük ayrıntılıdır ancak hata ayıklama için yararlı bilgiler içerir. Bir sorun bildirecekseniz ÖNCE:\n\n1. Bu ayarı etkinleştirin.\n2. Oyundan tamamen çıkın.\n3. Kaydı yükleyip sorunu, mümkünse başka eklentiler olmadan, yeniden oluşturun.\n4. Oyundan çıkın.\n\nArdından [anomaly_folder]/appdata/logs içindeki oyun günlüğünü sıkıştırıp çevrimiçi bir yere yükleyin.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr">
+    <text>Reworked RF Receiver uyumluluğunu etkinleştir</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_enable_rrfr_desc">
+    <text>Coverdrave’in Reworked RF Receiver eklentisi kuruluysa NERFS, ekipman durumu, bipler ve frekans değişiklikleri için onun MCM ayarlarını kullanır. Diğer RRFR iyileştirmeleri dahildir.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header1">
+    <text>New Extensible RF Sources, RF dedektörünü çeşitli yönlerden geliştirir:\n• Frekans aralığını 300’den 999’a çıkarır (aşağıdan ayarlanabilir).\n• Yeni ve ilgi çekici RF parazit kaynakları ekler.\n• Tüm RF kaynaklarını modlanabilir ve çakışmasız, genişletilebilir LTX tabanlı bir yapıya taşır.\n• Stalker cesetlerinde rastgele bulunabilen, yararlı frekansları oyun içinde öğreten notlar ve ansiklopedi yazıları ekler (yalnızca tam sürüm; bağlantı aşağıda).\n• Erişilebilirlik veya tercihe bağlı olarak HUD’da isteğe bağlı sinyal gücü göstergesi sunar.\n• Reworked RF Receiver ve TB’s RF Tasks desteği içerir.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header2">
+    <text>Daha fazla bilgi ve NERFS'in tam sürümünü indirmek için Moddb sayfasına bakın:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_header_dar">
+    <text>Devices of Anomaly Redone'a eklenmesi için gereken en düşük framework sürümü</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq">
+    <text>Maksimum RF frekansı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_max_freq_desc">
+    <text>RF alıcısı üç basamaklı sayıları gösterebilir, ancak oyun çalışma aralığını VHF ile (30–300 MHz) sınırlar. Buna rağmen temel oyundaki bazı sinyal kaynakları bu aralığın dışındadır. Bu ayar iki aralığı birden genişletir: alıcının çalışma frekansı aralığını ve oyunun sinyal bulma görevlerini verirken kullandığı frekans aralığını.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel">
+    <text>Frekansı fare tekerleğiyle değiştir</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfmain_use_mwheel_desc">
+    <text>Etkinleştirildiğinde frekansı değiştirmek için fare tekerleğini yukarı veya aşağı kaydırabilirsiniz. Orijinal oyundaki gibi artış miktarını sırasıyla 10 veya 50 yapmak için Shift ya da Alt tuşunu basılı tutun. Tekerlekle çok daha hızlı değiştirilebilir!\nBu özellik için 20230701 veya daha yeni sürüm modlanmış çalıştırılabilir dosyaları gerekir. Şu anda GAMMA tarafından desteklenmemektedir.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset1">
+    <text>1. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset2">
+    <text>2. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset3">
+    <text>3. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset4">
+    <text>4. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset5">
+    <text>5. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset6">
+    <text>6. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset7">
+    <text>7. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset8">
+    <text>8. ön ayar kısayol tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_kb_preset9">
+    <text>9. ön ayar tuşu</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset1_freq">
+    <text>1. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset2_freq">
+    <text>2. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset3_freq">
+    <text>3. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset4_freq">
+    <text>4. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset5_freq">
+    <text>5. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset6_freq">
+    <text>6. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset7_freq">
+    <text>7. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset8_freq">
+    <text>8. ön ayar sıklığı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfpresets_preset9_freq">
+    <text>9. ön ayar frekansı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_a">
+    <text>Alfa</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_b">
+    <text>Mavi</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_g">
+    <text>Yeşil</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_clr_r">
+    <text>Kırmızı</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_em_header">
+    <text>\n\nEmisyon sırasında gösterge bu renkte yanıp söner.\nVarsayılan (kırmızı): 128,200,0,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_header1">
+    <text>Erişilebilirlik aracı, RF sinyal gücünü gösteren basit bir HUD göstergesidir. Sağır ve işitme güçlüğü çeken kişiler için tasarlanmıştır; ancak sesli uyarıları arka plan gürültüsünden ayırmakta zorlanan herkes kullanabilir. Göstergenin konumu ve renkleri tercihe veya renk körlüğüne göre özelleştirilebilir. Araç YALNIZCA oyuncu RF dedektörünü elinde tutarken görünür.\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy">
+    <text>Aracın sol üst köşesinin XY konumu:</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_headerxy_desc">
+    <text>0,0 sol üst, 1024,768 sağ alt köşedir. Değerler çözünürlüğe göre ölçeklenir. Varsayılan (alt orta): 491,670.</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_hi_header">
+    <text>\n\nSinyal güçlüyken gösterge bu renkte yanıp söner.\nVarsayılan (yeşil): 255,0,250,0\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_lo_header">
+    <text>\n\nSinyal zayıfken gösterge bu renkte yanıp söner.\nVarsayılan (gri): 255,50,50,50\n\n</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_x">
+    <text>X koordinatı (yatay, soldan sağa)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_pos_y">
+    <text>Y koordinatı (dikey, yukarıdan aşağı)</text>
+  </string>
+  <string id="ui_mcm_nerfs_nerfwidget_show">
+    <text>Erişilebilirlik aracını göster</text>
+  </string>
+  <string id="ui_mcm_nerfs_scrolldown">
+    <text>** Daha fazla ayar için aşağı kaydırın **</text>
+  </string>
+</string_table>

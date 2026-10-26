@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_raid_auth_ai_resolved">
+    <text>The sit-down resolved without you. Quest items destroyed.</text>
+  </string>
+  <string id="st_raid_auth_bandit_neutral_end">
+    <text>Auto-neutrality with bandits has ended.</text>
+  </string>
+  <string id="st_raid_auth_crime_dossier_descr">
+    <text>A sealed package of operation papers. Bandits want it badly — mostly to dodge army routes. There are likely coordinates to a military field cache used to support such ops.</text>
+  </string>
+  <string id="st_raid_auth_crime_dossier_name">
+    <text>Classified package: countermeasures against criminal elements</text>
+  </string>
+  <string id="st_raid_auth_ignore_blocked">
+    <text>Cannot buy neutrality</text>
+  </string>
+  <string id="st_raid_auth_ignore_blocked_tip">
+    <text>The informant refuses to sell neutrality after your actions at the meet.</text>
+  </string>
+  <string id="st_raid_auth_merc_half">
+    <text>Merc neutrality (1/2 price): %s</text>
+  </string>
+  <string id="st_raid_auth_obshak_flash_descr">
+    <text>A flash drive from one of the bandit bosses. The military wants it — likely for the intel inside. A clever stalker might dig out something more valuable than talks or dirt.</text>
+  </string>
+  <string id="st_raid_auth_obshak_flash_name">
+    <text>Pakhan's flash drive</text>
+  </string>
+  <string id="st_raid_auth_punish">
+    <text>Stalker, you completely nuts? Burn the army and the brothers in one go? I respect the steel on you, but coming to me for neutrality anytime soon makes zero sense.</text>
+  </string>
+  <string id="st_raid_auth_punish_end">
+    <text>Looks like things cooled off. Should be able to deal with the brothers and the army again if you need.</text>
+  </string>
+  <string id="st_raid_auth_quest_army">
+    <text>You've got the flash. Take it to your shelter for the reward.</text>
+  </string>
+  <string id="st_raid_auth_quest_bandit">
+    <text>You've got the papers. Bring them to your shelter — reward waits there.</text>
+  </string>
+  <string id="st_raid_auth_reward_summary">
+    <text>In the shelter crate:</text>
+  </string>
+  <string id="st_raid_auth_shelter_hint">
+    <text>Bring the item to your shelter to claim the reward.</text>
+  </string>
+  <string id="st_raid_auth_side_army">
+    <text>Stalker! Since you joined the sweep — here's a job. One of the brothers should have a flash drive! They don't usually carry that junk; there should be only one. Bring it to your shelter; you'll pass it via Sakharov. We'll share supplies and intel. For God's sake, don't plug it into your PDA!</text>
+  </string>
+  <string id="st_raid_auth_side_bandit">
+    <text>Damn, stalker, ballsy of you to hit the army. Respect! Listen — if you live, one of those goats should be packing a sealed stack of paper. No use to you, so haul it to the shelter; our courier will pick it up. We'll grease you proper. Just don't crack it open, got it?!</text>
+  </string>
+  <string id="st_raid_auth_stash_fail">
+    <text>No free stashes — try later.</text>
+  </string>
+  <string id="st_raid_auth_stash_field_fail">
+    <text>Could not create the field cache.</text>
+  </string>
+  <string id="st_raid_auth_stash_field_name">
+    <text>Military field cache</text>
+  </string>
+  <string id="st_raid_auth_stash_field_ok">
+    <text>The package held field-cache coordinates. Stash on: %s (marked on map).</text>
+  </string>
+  <string id="st_raid_auth_stash_obshak_fail">
+    <text>Could not create the Obshak stash.</text>
+  </string>
+  <string id="st_raid_auth_stash_obshak_name">
+    <text>Share of the obshak</text>
+  </string>
+  <string id="st_raid_auth_stash_obshak_ok">
+    <text>On the flash you found coordinates to part of the brothers' current obshak. Stash on: %s (marked on map).</text>
+  </string>
+  <string id="st_raid_auth_success_army">
+    <text>Stalker, thanks for the assist. A contact will leave you a gift — thanks to you we didn't have to spin a chopper for the brothers' souls, so you get fuel and a few extras. We also told the Informant that for the next couple of times his services can lean on our data when it concerns you. Mind you: in the Zone, stalkers get shot on sight. That's the job.</text>
+  </string>
+  <string id="st_raid_auth_success_bandit">
+    <text>Oof, look at you, brother! Courier left you a little stash of goodies — but that's just flowers. The berries: for the next 4 days we're proper pals. Don't pay the informant where we work for real — walk easy, we'll cover you if needed. Can't stretch it longer — people will ask. And if you need a merc buyout once — I'll chip in half. Stay in touch.</text>
+  </string>
+  <string id="st_raid_auth_taunt_1">
+    <text>Stalkers! A sweep of criminal elements is underway in the area! Anyone not sympathetic to the brothers — stay out of it. Those who try to help the bandits will be fired upon!</text>
+  </string>
+  <string id="st_raid_auth_taunt_2">
+    <text>The hell you singing, sky in the clouds?! Stalkers — don't stick your noses in, or a stray bullet finds you. But shooting at us is a shit idea — you'll buy trouble up to your boots.</text>
+  </string>
+  <string id="st_raid_auth_title">
+    <text>Meeting of Authorities</text>
+  </string>
+  <string id="st_raid_auth_title_army">
+    <text>Military</text>
+  </string>
+  <string id="st_raid_auth_title_bandits">
+    <text>Bandits</text>
+  </string>
+  <string id="st_raid_auth_title_common">
+    <text>PDA</text>
+  </string>
+  <string id="st_raid_auth_title_inf">
+    <text>Informant</text>
+  </string>
+  <string id="st_raid_event_authorities">
+    <text>Meeting of Authorities</text>
+  </string>
+  <string id="st_raid_event_authorities_descr">
+    <text>A bandit sit-down on a pinned smart and one army assault squad. You start neutral to both; your first hit picks a side. Commanders carry quest items (obshak flash / crime dossier). Turn them in to an ally or bring them home — or crack them open for a personal stash and open war. [Side choice, quest]</text>
+  </string>
+</string_table>

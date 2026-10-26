@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+    <text>Gain maximal du NVG</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+    <text>Les valeurs élevées augmentent la luminosité jusqu’à une limite. Réglez-la de nuit par météo cloudy_dark_2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+    <text>Gain minimal du NVG</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+    <text>Les valeurs faibles assombrissent davantage le NVG ; les plus basses permettent un usage de jour.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+    <text>Décalage de luminosité du monde</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+    <text>1.0 conserve la luminosité du monde. Les valeurs supérieures la multiplient, sans affecter les sources lumineuses.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+    <text>Fond de superposition Gen 1 (défaut : aucun)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+    <text>Choisissez le fond de superposition.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+    <text>Configuration des tubes Gen 1 (défaut : un centré)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+    <text>Choisissez le nombre et la disposition des tubes Gen 1.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+    <text>Fond de superposition Gen 2 (défaut : flou)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+    <text>Choisissez le fond de superposition.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+    <text>Configuration des tubes Gen 2 (défaut : deux centrés)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+    <text>Choisissez le nombre et la disposition des tubes Gen 2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+    <text>Fond de superposition Gen 3 (défaut : flou)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+    <text>Choisissez le fond de superposition.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+    <text>Configuration des tubes Gen 3 (défaut : quatre centrés)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+    <text>Choisissez le nombre et la disposition des tubes Gen 3.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+    <text>Garder le NVG en consultant le PDA :</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+    <text>Désactivé, le NVG s’éteint automatiquement lors de la consultation du PDA.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+    <text>Utiliser le NVG en visant :</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+    <text>Activé, le NVG reste allumé en visant. Désactivé, il s’éteint lorsque vous levez votre arme.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+    <text>Seuil de surexposition des sources lumineuses</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+    <text>La valeur recommandée est 0.1. Des valeurs plus élevées réduisent légèrement la surexposition. Le seuil évolue avec le gain du NVG.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat">
+    <text>Activez cette option si vous utilisez des lunettes 2D à shaders.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+    <text>Les lunettes 2D à shaders nécessitent cette option. Sinon, laissez-la désactivée.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title">
+    <text>Réglages NVG de Beef</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title_2">
+    <text>Compatibilité avec les lunettes 2D à shaders</text>
+  </string>
+  <string id="ui_mcm_lst_black_background">
+    <text>Superposition noire</text>
+  </string>
+  <string id="ui_mcm_lst_blurred_background">
+    <text>Superposition floue</text>
+  </string>
+  <string id="ui_mcm_lst_clear_vision">
+    <text>Sans superposition (vision claire)</text>
+  </string>
+  <string id="ui_mcm_lst_dual_centered">
+    <text>Deux tubes, centrés</text>
+  </string>
+  <string id="ui_mcm_lst_image_overlay">
+    <text>(Non implémenté) Superposition d’image</text>
+  </string>
+  <string id="ui_mcm_lst_quad_centered">
+    <text>Quatre tubes, centrés</text>
+  </string>
+  <string id="ui_mcm_lst_single_centered">
+    <text>Un tube, centré</text>
+  </string>
+  <string id="ui_mcm_lst_single_left">
+    <text>Un tube, côté gauche</text>
+  </string>
+  <string id="ui_mcm_lst_single_right">
+    <text>Un tube, côté droit</text>
+  </string>
+  <string id="ui_mcm_menu_beef_nvg">
+    <text>NVG de Beef</text>
+  </string>
+</string_table>

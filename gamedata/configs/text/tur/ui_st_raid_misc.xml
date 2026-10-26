@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_art_cache_fallback">
+    <text>Birakacak yer yok; dogrudan eline verecegim. Goze batma.</text>
+  </string>
+  <string id="st_art_cache_found">
+    <text>Cip etkinlestirildi. Depolar isaretlendi: %s. Artefakt birinde. Bul bakalim.</text>
+  </string>
+  <string id="st_art_cache_no_stash">
+    <text>Depo yok. Hepsi dolu. Daha sonra gel.</text>
+  </string>
+  <string id="st_art_cache_spot">
+    <text>Depo T%d | %s</text>
+  </string>
+  <string id="st_art_lvl_agroprom">
+    <text>Agroprom</text>
+  </string>
+  <string id="st_art_lvl_darkvalley">
+    <text>Karanlik Vadi</text>
+  </string>
+  <string id="st_art_lvl_escape">
+    <text>Kordon</text>
+  </string>
+  <string id="st_art_lvl_garbage">
+    <text>Copluk</text>
+  </string>
+  <string id="st_art_lvl_grimwood">
+    <text>Kasvet Ormani</text>
+  </string>
+  <string id="st_art_lvl_jupiter">
+    <text>Jupiter cevresi</text>
+  </string>
+  <string id="st_art_lvl_marsh">
+    <text>Batakliklar</text>
+  </string>
+  <string id="st_art_lvl_military">
+    <text>Ordu Depolari</text>
+  </string>
+  <string id="st_art_lvl_poselok">
+    <text>Guney Koyu</text>
+  </string>
+  <string id="st_art_lvl_pripyat">
+    <text>Pripyat cevresi</text>
+  </string>
+  <string id="st_art_lvl_promzona">
+    <text>Sanayi Bolgesi</text>
+  </string>
+  <string id="st_art_lvl_redforest">
+    <text>Kizil Orman</text>
+  </string>
+  <string id="st_art_lvl_trucks">
+    <text>Arac Mezarligi</text>
+  </string>
+  <string id="st_art_lvl_zaton">
+    <text>Zaton</text>
+  </string>
+  <string id="st_ecolog_raid_event_item">
+    <text>Ekolojist baskini ganimeti</text>
+  </string>
+  <string id="st_ecolog_raid_event_item_descr">
+    <text>Ekolojist baskininda bulunan esya. Saglik gorevlisi bunu teçhizat odemesi olarak kabul eder.</text>
+  </string>
+  <string id="st_raid_art_cache_t1">
+    <text>Artefakt deposu koordinatları [Kademe I]</text>
+  </string>
+  <string id="st_raid_art_cache_t1_descr">
+    <text>Bölgenin orta kesiminde bir anomali yakınındaki deponun şifreli koordinatları. Satıcı I. kademe artefaktı garanti eder, ancak deponun daha önce yağmalanmış olma ihtimali %10’dur. Kara piyasada iade yoktur. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Depoyu kontrol etmeye hazır olduğunuzda envanterden etkinleştirin.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t2">
+    <text>Artefakt deposu koordinatları [Kademe II]</text>
+  </string>
+  <string id="st_raid_art_cache_t2_descr">
+    <text>Tehlikeli bir bölgede, anomali yakınındaki deponun şifreli koordinatları. Biri önce ulaşmadığı sürece (%20 ihtimal) II. kademe artefakt garanti edilir. Bu kademedeki artefaktları bulmak kolay değildir. İade yoktur. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Depoyu kontrol etmeye hazır olduğunuzda envanterden etkinleştirin.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t3">
+    <text>Artefakt deposu koordinatları [Kademe III]</text>
+  </string>
+  <string id="st_raid_art_cache_t3_descr">
+    <text>En tehlikeli anomali bölgelerindeki (Zaton, Jupiter ve Çernobil) deponun şifreli koordinatları. III. kademe artefakt içerir. Deponun yağmalanmış veya başkalarınca ele geçirilmiş olma ihtimali %30’dur. Kolay olmayacak; iade yoktur. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Depoyu kontrol etmeye hazır olduğunuzda envanterden etkinleştirin.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_t4">
+    <text>Artefakt deposu koordinatları [Kademe IV]</text>
+  </string>
+  <string id="st_raid_art_cache_t4_descr">
+    <text>En ölümcül anomali bölgelerindeki (Nükleer Santral, Lahit ve Jeneratörler) deponun şifreli koordinatları. IV. kademe artefakt içerir. Çoktan alınmış olma ihtimali %40’tır. En üst seviye; iade yoktur. \n \n
+			%c[0, 252, 186, 23] ~ %c[0, 156, 122, 39] Depoyu kontrol etmeye hazır olduğunuzda envanterden etkinleştirin.\n \n
+		</text>
+  </string>
+  <string id="st_raid_art_cache_use">
+    <text>Koordinatları etkinleştir</text>
+  </string>
+  <string id="st_raid_barrier_device">
+    <text>“Bariyer” şifreleme birimi</text>
+  </string>
+  <string id="st_raid_barrier_device_descr">
+    <text>Antenli ve veri koruma sistemli askerî şifreleme cihazı. Güvenli iletişim için ordu ve paralı askerler tarafından kullanılır. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_bitcoin">
+    <text>Fiziksel bitcoin</text>
+  </string>
+  <string id="st_raid_bitcoin_descr">
+    <text>Ağır bir altın sikke, kuyumcunun eşsiz işi: kabartmalı bitcoin simgesi mikroskobik sahtecilik karşıtı işlemelerle süslenmiş. Arka yüzünde QR kodu ve lazerle kazınmış altmıştan fazla karakter var. Kenarındaki zincir deseninin altında, holografik mühürle kapatılmış özel anahtarlı bir çip bulunuyor. Sahibi borsalara, bankalara, hatta kendi bilgisayarına bile güvenmemiş; bütün servetini elde taşınan tek bir altın parçada saklamış. Sikke mücevher olarak zaten servet değerinde, ancak çipteki bilgiler çok daha kıymetli. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_bread_rosary">
+    <text>Ekmek tanelerinden tespih (el yapımı)</text>
+  </string>
+  <string id="st_raid_bread_rosary_descr">
+    <text>Haydutlar arasında popüler, kaba ve el yapımı bir tespih. Ekmek içi ve bulunan herhangi bir hurda parçasıyla alelacele yapılmış. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_camera_lens">
+    <text>Gece görüş kamerası</text>
+  </string>
+  <string id="st_raid_camera_lens_descr">
+    <text>Askerî teçhizata takılmak üzere tasarlanmış zırhlı optik modül. Işığı ve kızılötesi tayfı güçlendirerek zifiri karanlıkta görüş sağlar. Kısmen hasarlı olsa da sökülüp parçaları kullanılabilir veya onarılabilir. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_cassette">
+    <text>Müzik kaseti (eski, etiketli)</text>
+  </string>
+  <string id="st_raid_cassette_descr">
+    <text>Özgürlük stalkerlarında sık rastlanan eski bir rock kaseti. Kutusunda solmuş bir kalem yazısı var. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_chimera_statuette">
+    <text>Kimera biblosu (gümüş, ayrıntılı)</text>
+  </string>
+  <string id="st_raid_chimera_statuette_descr">
+    <text>İnce el işlemeleri bulunan gümüş bir kimera biblosu. Koleksiyoncular ve avcılar tarafından değer görür. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_gold_coin">
+    <text>Antik altın sikke</text>
+  </string>
+  <string id="st_raid_gold_coin_descr">
+    <text>Oldukça ağır, Çarlık döneminden kalma bir altın sikke. Zamanla kararmış olsa da altın paslanmaz ve değerini yitirmez. Belki bir eski toprak ilk Emisyon’dan önce sakladı, belki de kaçak kazıcı onu Çevre’den geçirmeye çalışırken başaramadı. Saf ve katkısız altın için tüccar iyi para öder. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_lab_disc">
+    <text>Laboratuvardan disk</text>
+  </string>
+  <string id="st_raid_lab_disc_descr">
+    <text>Yeraltı laboratuvarında bulunan bir veri diski. Etiketindeki yazı tanınmayacak kadar silinmiş. İçeriği bilinmiyor ama birinin bulunmasını istemediği açık. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_medal">
+    <text>Kırmızı gazi arması</text>
+  </string>
+  <string id="st_raid_medal_descr">
+    <text>Bölgenin mutantlarına ve anarşisine karşı onlarca baskına katılmış bir Görev gazisinin yıpranmış arması. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_nato_battery">
+    <text>Taşınabilir NATO güç kaynağı (askerî standart)</text>
+  </string>
+  <string id="st_raid_nato_battery_descr">
+    <text>Batılı teçhizat kullanan paralı askerlerin sıkça tercih ettiği güvenilir bir saha güç kaynağı. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_press_badge">
+    <text>Basın kartı</text>
+  </string>
+  <string id="st_raid_press_badge_descr">
+    <text>Gazeteci Veniamin Alekseenko’ya ait, yıpranmış ve kan lekeli bir basın kartı. “PRESS” damgası ve resmî mühürler yasal gücünü çoktan yitirmiş; yalnızca Çevre’nin ötesindeki dünyayı hatırlatıyor. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_religious_icon">
+    <text>Eski yaldızlı ikon (çatlak ve patinalı)</text>
+  </string>
+  <string id="st_raid_religious_icon_descr">
+    <text>Zamanla kararmış, çatlak ve is lekeleri taşıyan bir ikon. Bölgedeki birçok kişi onu uğur tılsımı sayar. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_raid_walkman">
+    <text>Taşınabilir kasetçalar (90’lar tarzı)</text>
+  </string>
+  <string id="st_raid_walkman_descr">
+    <text>İçinde kaset bulunan yıpranmış bir çalar; Özgürlük stalkerlarının molalarda en sevdiği eşyalardan biridir. \n \n
+			%c[0, 252, 186, 23] • %c[0, 156, 122, 39] Bir tüccar bu eşyayla ilgilenebilir.\n \n
+		</text>
+  </string>
+  <string id="st_stalker_raid_event_item">
+    <text>Ozgur Stalker baskini ganimeti</text>
+  </string>
+  <string id="st_stalker_raid_event_item_descr">
+    <text>Ozgur Stalker baskininda bulunan esya. Saglik gorevlisi bunu teçhizat odemesi olarak kabul eder.</text>
+  </string>
+</string_table>

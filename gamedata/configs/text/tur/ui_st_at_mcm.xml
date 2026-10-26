@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs">
+    <text>Kan kaybı süresi (sn)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_autorevive_secs_desc">
+    <text>Kan kaybı bitene kadar yerde ne kadar kalacağını belirler. Sonrasında ne olacağı aşağıdan ayarlanır.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death">
+    <text>Kan kaybından ölme</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_death_desc">
+    <text>Açık: kan kaybından ölürsün ve yerdeki oyuncu aşağıdaki koruma süresi bitince öldürülebilir. Kapalı: kanama bitince düştüğün yerde canlanırsın ve yerdeki oyuncu öldürülemez. Yalnızca sunucunun ayarı kullanılır.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled">
+    <text>Ölümcül darbede yere düşme durumu</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_enabled_desc">
+    <text>Açık: ölümcül darbe seni yere düşürür ve bir takım arkadaşın canlandırabilir. Kapalı: darbe seni doğrudan en yakın üsse veya yanan kamp ateşine gönderir. İki durumda da anında ölmezsin; kan kaybından ölüp ölmeyeceğini aşağıdaki ayar belirler. Herkes için sunucunun ayarları geçerlidir.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs">
+    <text>Yere düştükten sonraki koruma süresi (sn)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_invuln_secs_desc">
+    <text>Yere düştüğü andan itibaren oyuncunun ne kadar süre öldürülemeyeceğini belirler; böylece güçlü bir darbe doğrudan öldürmek yerine yere düşürür. Kan kaybı öldürmüyorsa kullanılmaz. Yalnızca sunucu ayarı geçerlidir.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs">
+    <text>Yükleme geri sayımı (sn)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_reload_secs_desc">
+    <text>Sunucu son kaydı yükleyip herkes yeniden bağlanmadan önce ölüm ekranının ne kadar açık kalacağını belirler. Geri sayım sırasında kimse hareket edemez veya kayıt alamaz. Yalnızca sunucunun ayarı geçerlidir.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_health">
+    <text>Canlandırma sonrası sağlık</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_downed_revive_secs">
+    <text>Canlandırma süresi (sn)</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord">
+    <text>Discord zengin varlığı</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_discord_desc">
+    <text>Discord’da ne oynadığını gösterir. Oturum sırasında grubunu yayınlayarak arkadaşlarının davet edilmesini veya katılma isteği göndermesini sağlar; oturum dışında Discord ve AP-PRO bağlantılarını gösterir. Discord kartında yalnızca iki alan olduğundan bağlantılar ve katılma düğmesi aynı anda görünmez.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players">
+    <text>Maks. oyuncu</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_max_players_desc">
+    <text>Oturumdaki oyuncu sayısı üst sınırıdır; seni de kapsar. Discord’un gösterdiği grup büyüklüğünü de belirler. Başlatacağın sonraki oturumda geçerli olur.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password">
+    <text>Şifre</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_password_desc">
+    <text>Katılan oyuncuların girmesi gereken şifre. Şifre kullanmamak için boş bırak. Boşluk veya eğik çizgi içeremez.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port">
+    <text>Bağlantı noktası</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_port_desc">
+    <text>Oturumunun bağlantı beklediği UDP bağlantı noktasıdır. Adresle katılan oyuncular bu noktadan sana ulaşır; yönlendiricide ve güvenlik duvarında açık olmalıdır. Steam üzerinden açılan oturumlarda kullanılmaz. Başlatacağın sonraki oturumda geçerli olur.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam">
+    <text>Steam üzerinden barındır</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_hosting_steam_desc">
+    <text>Açık: oyuncular NAT üzerinden ve açık bağlantı noktası gerektirmeden Steam kimliğinle katılır; arkadaşların arkadaş listesinden veya Discord davetiyle gelebilir. Kapalı: yalnızca yukarıdaki bağlantı noktasından doğrudan bağlantı kurulur. Başlatacağın sonraki oturumda geçerlidir.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name">
+    <text>Oyuncu adı</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_player_name_desc">
+    <text>Eşli oyundaki adın. Bağlandığında sunucuya gönderilir ve oradaki karakterinin adı olur. İlk bağlantıda otomatik oluşturulması için boş bırak.</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all">
+    <text>Tüm oyunculara ödül ver</text>
+  </string>
+  <string id="ui_mcm_anomaly_together_tasks_reward_all_desc">
+    <text>Açık: her oyuncu reward_money ve reward_item alır. Kapalı: yalnızca görevi teslim eden oyuncu alır. fetch_reward_and_remove her zaman eşyaları yalnızca teslim eden oyuncudan alır ve ödemeyi ona yapar. Sunucu ayarı her tamamlamada uygulanır.</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together">
+    <text>Anomaly Together</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_downed">
+    <text>Yere düşme ve canlandırma</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_hosting">
+    <text>Barındırma</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_player">
+    <text>Oyuncu</text>
+  </string>
+  <string id="ui_mcm_menu_anomaly_together_tasks">
+    <text>Görev ödülleri</text>
+  </string>
+  <string id="ui_mcm_menu_downed">
+    <text>Yere düşme ve canlandırma</text>
+  </string>
+  <string id="ui_mcm_menu_hosting">
+    <text>Barındırma</text>
+  </string>
+  <string id="ui_mcm_menu_player">
+    <text>Oyuncu</text>
+  </string>
+  <string id="ui_mcm_menu_tasks">
+    <text>Görevler</text>
+  </string>
+</string_table>

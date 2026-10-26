@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="article_wpo">
+    <text>Mantenimiento de armas</text>
+  </string>
+  <string id="article_wpo_text">
+    <text>
+			%c[pda_green]Preguntas y respuestas%c[ui_gray_1]\n \n
+			\n1. ¿Por qué se encasquilla mi arma si está al 100%?\nR. Probablemente haya piezas dañadas. Comprueba su estado.\n2. ¿Cómo se soluciona un encasquillamiento?\nR. Pulsa dos veces la tecla de uso (F por defecto). También puedes hacer clic derecho en el arma del inventario y elegir «Desencasquillar».\n3. ¿Por qué baja el estado del arma al cambiar piezas?\nR. Tienes que volver a lubricar el arma. El cambio de piezas no puede reducir su estado por debajo del 60%. Usa una multiherramienta Leatherman para reducir la pérdida o un banco de trabajo para evitarla por completo.\n4. ¿Por qué los técnicos no reparan las piezas de las armas?\nR. Debes reparar cada pieza por tu cuenta. Puedes comprarlas a los técnicos o usar kits de reparación de armas. Esa es la idea principal de Weapon Part Overhaul. \n \nWeapon Part Overhaul cambia radicalmente el mantenimiento en Anomaly. Lee esta guía con atención para entender bien el sistema.\n \n
+			
+			%c[pda_green]I. Piezas de armas y mantenimiento%c[ui_gray_1]\n
+			\n• Ahora es más fácil mantener el estado general del arma (la barra de estado habitual). Los técnicos lo restauran por un 60% menos. Todos los objetos de reparación de armas son mucho más eficaces.\n• Las piezas del arma requieren mantenimiento. Pasa el cursor sobre una pieza para ver su estado.\n   ? El color del texto indica el estado general.\n%c[d_red]   ?  Ausente\n%c[d_orange]   ?  Dañada y no se puede reparar\n%c[pda_yellow]   ? Sucia y se puede limpiar%c[ui_gray_1]			
+			\n• Puedes retirar piezas al desmontar el arma. Se extraen todas salvo el cañón.\n• Puedes cambiar piezas arrastrándolas. %c[d_red]ATENCIÓN: ESTO REDUCE EL ESTADO DEL ARMA SI SUPERA EL 60%. Lleva una multiherramienta Leatherman para reducir la pérdida al cambiar piezas. %c[ui_gray_1] 
+			\n• También puedes cambiar piezas gratis en un banco de trabajo si tienes el kit de reparación necesario. %c[pda_yellow]Esta es una de las dos formas de cambiar el cañón.\n \n
+			%c[pda_green]II. Daños en las piezas y encasquillamientos%c[ui_gray_1]\n
+			\n• Las piezas tienen 5 niveles de daño: %c[d_red]rota%c[ui_gray_1], %c[d_red]dañada%c[ui_gray_1], %c[d_orange]desgastada%c[ui_gray_1], %c[0,250,250,0]sucia%c[ui_gray_1], %c[d_green]funcional%c[ui_gray_1]
+			\n• Cuanto más dañada esté una pieza, mayor será la probabilidad de que se rompa.\n• Hay tres tipos de fallo: fallo de disparo, encasquillamiento y encasquillamiento grave.\n• Los fallos de disparo y los encasquillamientos se solucionan con la acción normal para desencasquillar.\n• Para solucionar un encasquillamiento grave, primero hay que retirar el cargador.\n• El cañón no aumenta la probabilidad de encasquillamiento. Sin embargo, la suciedad o un estado bajo pueden reducir hasta un 50% el daño del arma.\n• Disparar con el arma por debajo del 85% de estado (se puede cambiar en %c[pda_yellow]MCM: Umbral de estado para dañar las piezas%c[ui_gray_1]) puede dañar el estado del arma. \n• Disparar bajo una lluvia intensa deteriora el arma mucho más rápido.\n• Las ráfagas largas calientan el arma, lo que provoca encasquillamientos y acelera su desgaste.%c[pda_green]III. Cambios en la economía%c[ui_gray_1]\n
+			\n• Un kit de limpieza limpia las piezas «sucias» del arma (por encima del 60% de estado).\n• Un kit de reparación sustituye la pieza en peor estado.%c[pda_yellow]Esta es otra forma de cambiar el cañón.%c[ui_gray_1]
+			\n• A veces los técnicos venderán piezas de armas con un recargo considerable.\n• Las piezas con más del 60% de estado se pueden reparar con una lima, una baqueta o una multiherramienta.\n• Las piezas con más del 10% de estado se pueden reparar con kits muy caros que venden los comerciantes.\n \nSi tienes más preguntas, escribe a arti#3278 en Discord (en inglés, claro). Me da demasiada pereza leer comentarios en ModDB.</text>
+  </string>
+  <string id="kb_unjam">
+    <text>Desencasquillar</text>
+  </string>
+  <string id="st_clean_half">
+    <text>la eficacia se reduce a la mitad cuando el estado es inferior a </text>
+  </string>
+  <string id="st_damage_0">
+    <text>roto:</text>
+  </string>
+  <string id="st_damage_1">
+    <text>dañado:</text>
+  </string>
+  <string id="st_damage_2">
+    <text>desgastado:</text>
+  </string>
+  <string id="st_damage_3">
+    <text>sucio:</text>
+  </string>
+  <string id="st_damage_4">
+    <text>funcional:</text>
+  </string>
+  <string id="st_damage_5">
+    <text>en buen estado:</text>
+  </string>
+  <string id="st_damage_missing">
+    <text>ausente:</text>
+  </string>
+  <string id="st_field_strip_fail">
+    <text>Ya no queda nada que extraer de esta arma.</text>
+  </string>
+  <string id="st_name_all">
+    <text>todo</text>
+  </string>
+  <string id="st_name_barrel">
+    <text>cañón</text>
+  </string>
+  <string id="st_name_bolt">
+    <text>percutor</text>
+  </string>
+  <string id="st_name_bolt_carrier">
+    <text>portacerrojo</text>
+  </string>
+  <string id="st_name_chock">
+    <text>choque</text>
+  </string>
+  <string id="st_name_ejector">
+    <text>eyector</text>
+  </string>
+  <string id="st_name_extractor">
+    <text>extractor</text>
+  </string>
+  <string id="st_name_gas_tube">
+    <text>bloque de gases</text>
+  </string>
+  <string id="st_name_hammers">
+    <text>martillo</text>
+  </string>
+  <string id="st_name_issues">
+    <text>ESTADO:</text>
+  </string>
+  <string id="st_name_pump">
+    <text>mecanismo de corredera</text>
+  </string>
+  <string id="st_name_spring">
+    <text>mecanismo de retroceso</text>
+  </string>
+  <string id="st_name_trigger">
+    <text>mecanismo del gatillo</text>
+  </string>
+  <string id="st_news_cleaned">
+    <text>Piezas limpiadas:</text>
+  </string>
+  <string id="st_news_fieldstrip">
+    <text>Piezas retiradas:</text>
+  </string>
+  <string id="st_news_parts_alreadygood">
+    <text>Esta pieza no necesita cambiarse.</text>
+  </string>
+  <string id="st_news_parts_barrel">
+    <text>%c[d_red]El cañón no se puede cambiar en el campo.</text>
+  </string>
+  <string id="st_news_parts_fail">
+    <text>%c[d_red]El arma ya tiene instalada una pieza de mejor calidad.</text>
+  </string>
+  <string id="st_news_parts_incompatible">
+    <text>%c[d_red]Esta pieza no es compatible con esta arma.</text>
+  </string>
+  <string id="st_news_parts_repair_success">
+    <text>Reparado correctamente: </text>
+  </string>
+  <string id="st_news_parts_rusty">
+    <text>%c[d_red]El arma está demasiado oxidada para desmontarla en el campo.</text>
+  </string>
+  <string id="st_news_parts_success">
+    <text>%c[d_green]Pieza reemplazada correctamente.</text>
+  </string>
+  <string id="st_news_parts_trigger">
+    <text>%c[d_red]El mecanismo del gatillo no se puede cambiar en el campo.</text>
+  </string>
+  <string id="st_partskit">
+    <text>Kit de reparación de componentes de armas</text>
+  </string>
+  <string id="st_partskit_descr">
+    <text>Un kit de herramientas de alta tecnología que incluye micro-limas, epoxi metáxico para soldadura en frío, un equipo de baño electrolítico y abundantes lubricantes, destilados de gasolina y otros disolventes. Estas herramientas podrían convertir el motor de un Lada en el de un Ferrari, por no hablar de lo que hacen con otros componentes mecánicos. Solo los restos de metal más destrozados no pueden recuperarse con este kit. Es muy difícil de reunir en la Zona, así que los técnicos lo venden en cantidades muy limitadas.\n\n</text>
+  </string>
+  <string id="st_wpn_service_cost">
+    <text>Coste del servicio:</text>
+  </string>
+  <string id="st_wpn_service_dropdown">
+    <text>Menú de mantenimiento de piezas</text>
+  </string>
+  <string id="st_wpn_service_hint">
+    <text>Mantenimiento de piezas</text>
+  </string>
+  <string id="st_wpo_repair">
+    <text>restaurar el 25 % del estado: </text>
+  </string>
+  <string id="ui_mcm_lst_easy">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_eng">
+    <text>Inglés</text>
+  </string>
+  <string id="ui_mcm_lst_hard">
+    <text>Difícil</text>
+  </string>
+  <string id="ui_mcm_lst_no">
+    <text>Deber</text>
+  </string>
+  <string id="ui_mcm_lst_ofc">
+    <text>Libertad</text>
+  </string>
+  <string id="ui_mcm_lst_rus">
+    <text>Ruso</text>
+  </string>
+  <string id="ui_mcm_lst_vanilla">
+    <text>Clásico</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_full">
+    <text>Todo</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_none">
+    <text>Ninguno</text>
+  </string>
+  <string id="ui_mcm_lst_verbosity_normal">
+    <text>Normal</text>
+  </string>
+  <string id="ui_mcm_lst_yes">
+    <text>Loner</text>
+  </string>
+  <string id="ui_mcm_menu_wpo">
+    <text>WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpoecon">
+    <text>Economía WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpojam">
+    <text>Encasquillamiento WPO</text>
+  </string>
+  <string id="ui_mcm_menu_wpomisc">
+    <text>Otros ajustes WPO</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode">
+    <text>Modo infantil (sin encasquillamientos)</text>
+  </string>
+  <string id="ui_mcm_wpo_babymode_desc">
+    <text>¿Y para qué?</text>
+  </string>
+  <string id="ui_mcm_wpo_title">
+    <text>Ajustes de Weapon Parts Overhaul</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon">
+    <text>Ajustes de economía</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll">
+    <text>Distribución ponderada del estado de los componentes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+    <text>Usa una fórmula nueva para obtener piezas de armas. El estado del arma determina si las piezas aparecen en buen o mal estado. Los valores bajos mejoran el botín; los altos lo empeoran.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll">
+    <text>Distribución ponderada del estado de las armas</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_altroll_desc">
+    <text>Distribuye el estado de las armas del mundo mediante interpolación de Lagrange. Reduce la calidad general del botín y fomenta el saqueo. Combina bien con la opción siguiente.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation">
+    <text>Multiplicador de desgaste bajo la lluvia</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_degradation_desc">
+    <text>Multiplicador del desgaste del arma al usarla bajo la lluvia.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easybarrel">
+    <text>Cambiar cañones sin banco de trabajo.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_easytrigger">
+    <text>Cambiar mecanismos de gatillo sin banco de trabajo.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice">
+    <text>Nivel de servicio del técnico</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+    <text>Determina el nivel de servicio que ofrecen los técnicos.	
+        \n\n Solo limpieza del arma: restaura únicamente el estado básico del arma.
+        \n\n +Limpieza de piezas: restaura el estado básico y limpia las piezas si es necesario.
+        \n\n Servicio completo: restaura el estado básico, repara y sustituye piezas.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart">
+    <text>Estado mínimo de las piezas para venderlas</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_minpart_desc">
+    <text>Estado mínimo que deben tener TODAS las piezas para que los comerciantes las acepten. Si UNA sola pieza está por debajo, no comprarán el arma. Ponlo en 0 para desactivar esta comprobación.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit">
+    <text>Los kits de reparación restauran los componentes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+    <text>Los kits de reparación restauran los componentes del arma (hasta el 100 %). Si se desactiva, solo añaden un 25 % de estado. Desactivarlo aumenta la dificultad.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype">
+    <text>Reglas de venta de armas</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_saletype_desc">
+    <text>Elige cómo funciona la venta de armas:\n \n
+			- Clásica: El precio depende del estado del arma (desequilibrado).\n
+			- Normal: El precio depende del estado de cada pieza; se considera rota o intacta (60 % o más). Recomendado.\n
+			- Difícil: Todas las piezas deben estar intactas (más del 60 %) para vender el arma.\n
+			Nota: Si falta alguna pieza, el arma no se podrá vender, independientemente de estas reglas.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold">
+    <text>Umbral de estado para dañar las piezas</text>
+  </string>
+  <string id="ui_mcm_wpo_wpoecon_threshold_desc">
+    <text>Estado del arma a partir del cual las piezas pueden dañarse. Cuanto menor sea el valor, más deteriorada deberá estar el arma para que sus piezas empiecen a sufrir daños.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam">
+    <text>Ajustes de encasquillamiento del arma</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat">
+    <text>Activar el sobrecalentamiento del arma</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_heat_desc">
+    <text>Las armas se calientan al disparar, lo que afecta a su desgaste, a la probabilidad de encasquillamiento y al daño de los componentes internos.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance">
+    <text>Multiplicador de probabilidad de encasquillamiento</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_jamchance_desc">
+    <text>Multiplicador de la probabilidad de la nueva mecánica de encasquillamiento.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_keybind">
+    <text>Tecla para desencasquillar</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo">
+    <text>La munición vieja afecta al desgaste</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_oldammo_desc">
+    <text>La munición vieja aumenta el desgaste del cañón y la probabilidad de encasquillamiento.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam">
+    <text>Expulsar el cargador si hay un encasquillamiento grave</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_simplejam_desc">
+    <text>Si está activado, al pulsar recargar (R por defecto) con el arma muy encasquillada se expulsará el cargador. No tendrás que rebuscar en el inventario.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam">
+    <text>Permitir encasquillamientos graves</text>
+  </string>
+  <string id="ui_mcm_wpo_wpojam_superjam_desc">
+    <text>Activa o desactiva el llamado «encasquillamiento grave». Cuando ocurre, hay que descargar el arma por completo.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc">
+    <text>Otros ajustes</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug">
+    <text>Registro de depuración</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_debug_desc">
+    <text>Información de depuración adicional que se escribirá en el registro del juego.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_display">
+    <text>Mostrar el estado de las piezas</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_fun">
+    <text>Nivel de diversión</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity">
+    <text>Insultos al encasquillarse el arma</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_desc">
+    <text>Activa expresiones subidas de tono cuando se encasquilla el arma.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_language">
+    <text>Idioma de los insultos</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+    <text>Reducir la frecuencia de los insultos</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+    <text>Añade una pausa entre insultos cuando esta opción está activada. Úsalo si te estás divirtiendo demasiado.</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity">
+    <text>Detalle de los avisos de encasquillamiento</text>
+  </string>
+  <string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+    <text>Muestra avisos de encasquillamiento en la interfaz. Hay tres niveles:\nNinguno: solo avisa si el estado general del arma provoca un encasquillamiento, para evitar confusiones.\nNormal (recomendado): avisa cuando el arma se encasquilla y cuando se soluciona.\nTodo: también avisa de los encasquillamientos graves y de los daños en los componentes.</text>
+  </string>
+  <string id="ui_st_functional">
+    <text>El arma está lista para disparar</text>
+  </string>
+  <string id="ui_st_heat1">
+    <text>, pero está tibia.</text>
+  </string>
+  <string id="ui_st_heat2">
+    <text>, ¡pero está caliente!</text>
+  </string>
+  <string id="ui_st_heat3">
+    <text>, ¡pero está muy caliente!</text>
+  </string>
+  <string id="ui_st_jam">
+    <text>¡El arma se ha encasquillado!</text>
+  </string>
+  <string id="ui_st_misfire">
+    <text>¡El arma ha fallado!</text>
+  </string>
+  <string id="ui_st_missing">
+    <text>Faltan componentes del arma.</text>
+  </string>
+  <string id="ui_st_mockery_1">
+    <text>Tu arma se atascaría siempre, pero parece que eso te resulta excesivo.</text>
+  </string>
+  <string id="ui_st_mockery_2">
+    <text>¿Prefieres reparaciones sencillas?</text>
+  </string>
+  <string id="ui_st_mockery_3">
+    <text>¿Por qué no aumentas también el peso que puedes llevar a 600, ya que estamos?</text>
+  </string>
+  <string id="ui_st_mockery_4">
+    <text>Me estás decepcionando.</text>
+  </string>
+  <string id="ui_st_nothing">
+    <text>No tienes un arma de fuego en las manos.</text>
+  </string>
+  <string id="ui_st_oldjam">
+    <text>El arma se encasquilló por su mal estado. Recárgala.</text>
+  </string>
+  <string id="ui_st_parts_damage">
+    <text>Los componentes internos del arma están dañados.</text>
+  </string>
+  <string id="ui_st_superjam">
+    <text>¡El arma está muy encasquillada!</text>
+  </string>
+  <string id="ui_st_unjam">
+    <text>Arma desencasquillada.</text>
+  </string>
+  <string id="ui_st_unjam_fail">
+    <text>El arma está muy encasquillada: vacía el cargador y acciona el cerrojo.</text>
+  </string>
+</string_table>

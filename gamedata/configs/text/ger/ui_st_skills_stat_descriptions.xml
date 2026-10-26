@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_player_skill_stats">
+    <text>\nFÄHIGKEITEN:</text>
+  </string>
+  <string id="st_player_skills_hint_endurance">
+    <text>Erhöht Ausdauer und Tempo.\n \nReisen mit leichtem Gepäck bringt Erfahrung.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_scavenging">
+    <text>Erhöht die Beute beim Durchsuchen von Stalkern.\n \nHöhere Ränge bringen mehr Erfahrung.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_strength">
+    <text>Erhöht Traglast und Nahkampfschaden.\n \nSchwere Lasten und Nahkampf bringen Erfahrung.\n \n</text>
+  </string>
+  <string id="st_player_skills_hint_survival">
+    <text>Verringert Schaden und Blutungen und kann ein zusätzliches Mutantenteil liefern.\n \nPhysischer Schaden und Zerlegen geben Erfahrung; gefährliche mehr.\n \n</text>
+  </string>
+  <string id="st_skills_stats_base_weight">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Zusätzliche Traglast: %c[d_green]+$stat kg</text>
+  </string>
+  <string id="st_skills_stats_bleed_restore">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Blutungsreduktion um: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_hunting_skill_negative">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Chance, ein Mutantenteil zu verlieren: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_hunting_skill_positive">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Chance auf zusätzliches Mutantenteil: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_melee_damage_negative">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Nahkampfschaden-Multiplikator: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_melee_damage_positive">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Nahkampfschaden-Multiplikator: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_power_loss_negative">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Ausdauerkosten-Multiplikator: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_power_loss_positive">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Ausdauerkosten-Multiplikator: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_resistance_negative">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Schadenswiderstandsmultiplikator: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_resistance_positive">
+    <text>\n%c[255,135,255,86]•%c[ui_6] Schadenswiderstandsmultiplikator: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_scavenging_skill_negative">
+    <text>\n%c[255,86,102,255]•%c[ui_6] Chance, einen Gegenstand zu verlieren: %c[d_red]$stat%</text>
+  </string>
+  <string id="st_skills_stats_scavenging_skill_positive">
+    <text>\n%c[255,86,102,255]•%c[ui_6] Chance auf zusätzlichen Gegenstand: %c[d_green]$stat%</text>
+  </string>
+  <string id="st_skills_stats_speed_modifier_negative">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Geschwindigkeitsmultiplikator: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_speed_modifier_positive">
+    <text>\n%c[255,255,86,86]•%c[ui_6] Geschwindigkeitsmultiplikator: %c[d_green]x$stat</text>
+  </string>
+  <string id="st_skills_stats_weight_modifer_negative">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Traglastmultiplikator: %c[d_red]x$stat</text>
+  </string>
+  <string id="st_skills_stats_weight_modifer_positive">
+    <text>\n%c[255,255,201,86]•%c[ui_6] Traglastmultiplikator: %c[d_green]x$stat</text>
+  </string>
+</string_table>

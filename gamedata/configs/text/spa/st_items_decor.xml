@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_placeable_ashtray">
+    <text>Cenicero</text>
+  </string>
+  <string id="st_placeable_ashtray_descr">
+    <text>Cenicero de vidrio grueso y resistente, de diseño sencillo y práctico. Los bordes algo astillados muestran un uso prolongado. La base ancha y estable evita que vuelque. Ideal para un refugio de fumadores: ayuda a mantener la limpieza y aporta un ambiente acogedor.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_barrel_metal">
+    <text>Barril metálico</text>
+  </string>
+  <string id="st_placeable_barrel_metal_descr">
+    <text>Barril metálico resistente, oxidado en las uniones pero todavía sólido. Antes se usaba para almacenar materiales industriales. Aunque muestra el paso del tiempo y la intemperie, sigue siendo útil para combustible, agua u otros suministros. Por motivos desconocidos, es habitual encontrar barriles así en refugios improvisados y campamentos.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_bidon">
+    <text>Bidón</text>
+  </string>
+  <string id="st_placeable_bidon_descr">
+    <text>Un bidón metálico grande que suele usarse para guardar agua u otros líquidos. Su cuerpo translúcido permite comprobar fácilmente el contenido. Tiene un asa resistente y una tapa segura, por lo que resulta ideal para transportar y almacenar líquidos. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_biliard">
+    <text>Mesa de billar</text>
+  </string>
+  <string id="st_placeable_biliard_descr">
+    <text>Una mesa de billar vieja y muy desgastada, con el paño verde descolorido. La madera está rayada y abollada por años de uso, pero la mesa sigue firme y nivelada. Puede que falten tacos o bolas, o que no hagan juego, aunque sigue siendo un buen pasatiempo en la Zona. Un lujo poco común en escondites y campamentos de facción. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_box_paper">
+    <text>Caja de cartón</text>
+  </string>
+  <string id="st_placeable_box_paper_descr">
+    <text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_box_wood">
+    <text>Caja de madera</text>
+  </string>
+  <string id="st_placeable_box_wood_descr">
+    <text>Una caja de madera resistente con esquinas reforzadas, usada habitualmente para transportar objetos pesados, mercancía al por mayor destinada a la reventa o materiales industriales. La tapa está dañada por fuera y la madera muestra señales de envejecimiento. Puede servir como contenedor de gran capacidad en talleres o espacios personales. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_cabinet">
+    <text>Armarios de cocina</text>
+  </string>
+  <string id="st_placeable_cabinet_descr">
+    <text>Conjunto de robustos armarios de cocina de madera con un diseño característico de la época soviética. El acabado, que antes era blanco, se ha desvanecido y deja ver la veta de la madera; los tiradores están algo oxidados, pero aún funcionan. Sus estantes son amplios y permiten guardar alimentos, vajilla y otros artículos básicos. Pese a su edad, ofrecen un almacenamiento fiable y dan un aire nostálgico a cualquier cocina del refugio.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_clinic_equipments">
+    <text>Equipo clínico</text>
+  </string>
+  <string id="st_placeable_clinic_equipments_descr">
+    <text>Una colección de equipo médico utilizado en centros sanitarios. Incluye diversos instrumentos y artículos necesarios para procedimientos médicos básicos. Está fabricado con acero inoxidable y plástico resistente para garantizar durabilidad e higiene. Suele encontrarse en salas médicas y clínicas de la Zona, listo para emergencias. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_countertop">
+    <text>Encimera</text>
+  </string>
+  <string id="st_placeable_countertop_descr">
+    <text>Una encimera de madera resistente, pulida por años de uso. Su superficie manchada y rayada conserva las marcas de innumerables comidas preparadas. Ofrece espacio suficiente para cocinar y también puede servir como mesa de trabajo. Pese a su aspecto tosco, es una pieza esencial de cualquier cocina funcional en la Zona. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_cuttingboard">
+    <text>Tabla de cortar</text>
+  </string>
+  <string id="st_placeable_cuttingboard_descr">
+    <text>Una tabla de cortar gruesa de madera, marcada por los cuchillos. Sus bordes se han redondeado tras años de uso y la superficie ha absorbido aceites y jugos de innumerables comidas. Es una herramienta sencilla pero esencial en cualquier cocina. Disponible en varios tipos de madera. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_dev_guitar">
+    <text>Guitarra</text>
+  </string>
+  <string id="st_placeable_dev_guitar_descr">
+    <text>Una guitarra acústica con el cuerpo gastado y las cuerdas resecas. La madera se ha oscurecido con el tiempo y la tapa muestra señales de uso frecuente. Pese a su aspecto maltrecho, todavía produce un sonido cálido y profundo. Es un bien preciado para cualquier músico de la Zona y ayuda a pasar el tiempo y levantar el ánimo. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_documents_1">
+    <text>Paquete de papel</text>
+  </string>
+  <string id="st_placeable_documents_1_descr">
+    <text>Paquete de papeles algo amarillentos por el paso del tiempo y atados con una cuerda sencilla. Las hojas varían en tamaño y grosor, señal de que se trata de una colección de formularios, cartas y notas antiguas. Algunas tienen marcas de tinta desvaída que revelan su antigüedad y uso anterior. Ideal para encender fuego o tomar notas, este paquete aporta autenticidad a cualquier refugio improvisado.\n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_documents_2">
+    <text>Pila de documentos</text>
+  </string>
+  <string id="st_placeable_documents_2_descr">
+    <text>Un montón de documentos variados, como mapas, notas e informes. El papel ha amarilleado y algunas esquinas están dobladas, señal de uso prolongado. En manos adecuadas, estos documentos podrían aportar información útil y material de consulta. Suelen encontrarse en oficinas militares y en campamentos personales de stalkers experimentados. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_exoskelet">
+    <text>Lote de exoesqueleto</text>
+  </string>
+  <string id="st_placeable_exoskelet_descr">
+    <text>Un conjunto completo de exoesqueleto con armazón motorizado, placas de blindaje reforzadas y unidad de control. Los componentes muestran claros signos de uso y las piezas dañadas lo han dejado inoperativo. Los exoesqueletos ofrecen una protección excelente y aumentan la fuerza de quien los lleva. Es frecuente encontrar piezas dañadas como estas en los talleres. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_fchair">
+    <text>Silla moderna</text>
+  </string>
+  <string id="st_placeable_fchair_descr">
+    <text>Una elegante silla moderna con estructura metálica y asiento de plástico. Su diseño sencillo es práctico y cómodo. Presenta desgaste, con pequeños arañazos en el asiento y algo de óxido en las partes metálicas. Ofrece un asiento fiable y aporta un toque moderno a cualquier escondite. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_fuel">
+    <text>Bidón</text>
+  </string>
+  <string id="st_placeable_fuel_descr">
+    <text>Una lata metálica de gasolina concebida originalmente para uso militar. El exterior está abollado y rayado, pero sigue siendo hermética y resistente. Puede contener hasta 20 litros de combustible y suele usarse para abastecer generadores o vehículos. Su diseño robusto soporta las duras condiciones de la Zona. También puede servir como decoración industrial. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_game">
+    <text>Juego de mesa</text>
+  </string>
+  <string id="st_placeable_game_descr">
+    <text>Un juego clásico de backgammon: tablero plegable de madera con 24 puntos, fichas blancas y negras, y un par de dados tallados cuyos bordes han perdido brillo con el tiempo. Las esquinas de la caja están rozadas y el barniz del tablero se ha gastado en algunas zonas, señales de largas partidas competitivas. Pese a su edad, no falta ninguna pieza: las fichas están intactas y los dados conservan sus aristas. Ideal para partidas nocturnas en un búnker o junto a una fogata, donde la rivalidad, la estrategia y las risas unen a todos. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_gaz_balon">
+    <text>Bombona de gas</text>
+  </string>
+  <string id="st_placeable_gaz_balon_descr">
+    <text>Una gran bombona metálica, usada normalmente para almacenar propano u otros gases inflamables. El exterior está rayado y dañado, y conserva etiquetas de seguridad descoloridas en ruso. Pese a su aspecto gastado, todavía puede rellenarse y utilizarse. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_grave1">
+    <text>Tumba A</text>
+  </string>
+  <string id="st_placeable_grave1_descr">
+    <text>Una sencilla cruz funeraria de madera, desgastada por la intemperie. Tiene inscripciones talladas, algunas desdibujadas por el tiempo. Es un trágico recuerdo de quienes murieron. Suele encontrarse en cementerios improvisados o lugares conmemorativos, a menudo cerca de las principales bases de facción. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n</text>
+  </string>
+  <string id="st_placeable_grave2">
+    <text>Tumba B</text>
+  </string>
+  <string id="st_placeable_grave2_descr">
+    <text>Una sencilla lápida de madera con señales de antigüedad y desgaste. Las inscripciones están parcialmente erosionadas y cuesta leerlas. Podría reutilizarse para una nueva tumba de otra alma desafortunada. Es un emotivo recuerdo de quienes se perdieron en la Zona. Suele encontrarse en cementerios improvisados o memoriales cerca de las principales bases de facción. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n</text>
+  </string>
+  <string id="st_placeable_guidebook1">
+    <text>Guía de supervivencia</text>
+  </string>
+  <string id="st_placeable_guidebook1_descr">
+    <text>Una guía de supervivencia detallada, con consejos prácticos para soportar condiciones difíciles. Sus páginas están llenas de recomendaciones para construir refugios, buscar comida y orientarse. El libro está desgastado y cubierto de anotaciones en los márgenes. Los libros y manuales suelen encontrarse en dormitorios y escondites personales. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_guidebook2">
+    <text>Manual de mecánica</text>
+  </string>
+  <string id="st_placeable_guidebook2_descr">
+    <text>Un completo manual de mecánica que abarca la reparación y el mantenimiento de diversas máquinas y equipos. La cubierta tiene algunas salpicaduras de aceite y las páginas están muy gastadas. Ofrece conocimientos técnicos a quien sepa aprovecharlo. Los libros y manuales suelen encontrarse en dormitorios y escondites personales. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_gun_parts">
+    <text>Piezas de armas</text>
+  </string>
+  <string id="st_placeable_gun_parts_descr">
+    <text>Una colección de piezas de armas variadas: cañones, gatillos, mecanismos de disparo, empuñaduras de pistola e incluso cartuchos, casquillos y cargadores. Las piezas están en distintos estados; algunas tienen óxido y otras no se han limpiado desde que se recogieron. Es habitual verlas en talleres de armería y en los espacios personales de los mecánicos de la Zona. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_junk">
+    <text>Chatarra mecánica</text>
+  </string>
+  <string id="st_placeable_junk_descr">
+    <text>Un montón de chatarra mecánica, con engranajes oxidados, herramientas rotas y piezas metálicas desechadas. Los componentes están corroídos y parcialmente desmontados, por lo que quedan como material en bruto. Ideal para aportar un aire de decadencia industrial a un espacio de trabajo personal. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_kartina03">
+    <text>Marco de fotos</text>
+  </string>
+  <string id="st_placeable_kartina03_descr">
+    <text>Un sencillo marco de madera con el acabado algo desconchado y descolorido. El cristal está intacto y protege la fotografía o la obra que contiene. Aunque su diseño es simple, tiene valor sentimental y da personalidad a cualquier espacio. Aporta un toque humano a la dura Zona y es un adorno apreciado en muchos escondites. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_lead_box_open">
+    <text>Caja de plomo abierta</text>
+  </string>
+  <string id="st_placeable_lead_box_open_descr">
+    <text>Un recipiente metálico abierto que antes se usaba para almacenar materiales radiactivos de forma segura. El interior está revestido de plomo y el exterior muestra un desgaste considerable. Los daños prolongados en la carcasa impiden que la tapa cierre bien. No se recomienda para almacenar ni transportar formaciones anómalas. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_light1">
+    <text>Lámpara de pared</text>
+  </string>
+  <string id="st_placeable_light1_descr">
+    <text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]2700K\n</text>
+  </string>
+  <string id="st_placeable_light2">
+    <text>Foco</text>
+  </string>
+  <string id="st_placeable_light2_descr">
+    <text>Foco de alta potencia y batería para zonas de trabajo. Su luz de 6500 K, similar a la diurna, dura hasta dos semanas y sirve para tareas detalladas.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]6500K\n</text>
+  </string>
+  <string id="st_placeable_light3">
+    <text>Lámpara con pantalla</text>
+  </string>
+  <string id="st_placeable_light3_descr">
+    <text>Lámpara decorativa a pilas con pantalla de tela. Su cálida luz de 3000 K es ideal para leer o descansar y dura hasta dos semanas.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]3000K\n</text>
+  </string>
+  <string id="st_placeable_light4">
+    <text>Bombilla colgante</text>
+  </string>
+  <string id="st_placeable_light4_descr">
+    <text>Bombilla colgante sencilla a pilas con luz blanca neutra de 4000 K. Dura hasta dos semanas y sirve para espacios amplios.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]4000K\n</text>
+  </string>
+  <string id="st_placeable_light5">
+    <text>Lámpara de tres tubos</text>
+  </string>
+  <string id="st_placeable_light5_descr">
+    <text>Conjunto de tres tubos a pilas que proporciona una iluminación intensa y eficiente. La luz blanca neutra de 4000 K dura hasta dos semanas y sirve para espacios amplios y zonas de trabajo.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]4000K\n</text>
+  </string>
+  <string id="st_placeable_light6">
+    <text>Lámpara de pared (A)</text>
+  </string>
+  <string id="st_placeable_light6_descr">
+    <text>Lámpara de pared a pilas con luz blanca intensa de 5000 K. Sirve para iluminación general y dura hasta dos semanas.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]5000K\n</text>
+  </string>
+  <string id="st_placeable_light7">
+    <text>Lámpara de pared (B)</text>
+  </string>
+  <string id="st_placeable_light7_descr">
+    <text>Lámpara de pared a pilas con luz blanca suave. Su tono cálido de 2000 K crea un ambiente acogedor y dura hasta dos semanas.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]2000K\n</text>
+  </string>
+  <string id="st_placeable_light8">
+    <text>Lámpara de un tubo</text>
+  </string>
+  <string id="st_placeable_light8_descr">
+    <text>Lámpara de un tubo a pilas con luz blanca neutra de 4000 K. Dura hasta dos semanas y proporciona iluminación general en distintas estancias.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_3] Alimentación: %c[ui_gray_2]pilas\n	
+		%c[d_blue] • %c[ui_gray_3] duración: %c[ui_gray_2]2 semanas\n
+		%c[d_purple] • %c[ui_gray_3] TEMP.: %c[ui_gray_2]4000K\n</text>
+  </string>
+  <string id="st_placeable_map1">
+    <text>Mapa mural A</text>
+  </string>
+  <string id="st_placeable_map1_descr">
+    <text>Un gran mapa mural impreso en papel grueso y enmarcado en madera. Está algo amarillento, con bordes deshilachados y pequeñas roturas. Ofrece una vista detallada de la región dentro de la zona de exclusión y puede servir para planificar estrategias o como decoración. Suele encontrarse en centros de mando y salas de reuniones. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_map2">
+    <text>Mapa mural B</text>
+  </string>
+  <string id="st_placeable_map2_descr">
+    <text>Un mapa mural impreso en papel grueso y enmarcado en madera. Está gastado, algo descolorido y presenta daños leves por agua. Ofrece una vista detallada de una zona concreta dentro de la zona de exclusión, por lo que resulta útil como referencia o decoración. Suele encontrarse en puestos de mando y salas de planificación táctica. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_merc_outfit">
+    <text>Lote de equipo de mercenario</text>
+  </string>
+  <string id="st_placeable_merc_outfit_descr">
+    <text>Un conjunto de lo que fue ropa de mercenario, con chaleco táctico, pantalones de combate y botas de calidad. El equipo está bien conservado y apenas muestra desgaste. Es habitual encontrar ropa limpia y lavada en escondites personales y campamentos de facción. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_metal_plate">
+    <text>Chapa metálica</text>
+  </string>
+  <string id="st_placeable_metal_plate_descr">
+    <text>Chapa de acero galvanizado para reforzar ventanas y entradas. Protege contra allanamientos y las inclemencias, y puede fijarse para asegurar una estructura.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Se usa para bloquear ventanas y entradas\n</text>
+  </string>
+  <string id="st_placeable_metal_table1">
+    <text>Mesa metálica A</text>
+  </string>
+  <string id="st_placeable_metal_table1_descr">
+    <text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_metal_table2">
+    <text>Mesa metálica B</text>
+  </string>
+  <string id="st_placeable_metal_table2_descr">
+    <text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_microscope">
+    <text>Microscopio</text>
+  </string>
+  <string id="st_placeable_microscope_descr">
+    <text>Un microscopio antiguo con cuerpo metálico y lentes de vidrio. La carcasa muestra oxidación y el mecanismo de enfoque está duro, pero aún funciona. Antes se utilizaba para observaciones científicas; ahora sirve sobre todo como pieza decorativa nostálgica. Ideal para dar un aire académico a un espacio de trabajo. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_money_5000">
+    <text>Fajo de dinero</text>
+  </string>
+  <string id="st_placeable_money_5000_descr">
+    <text>Un fajo de unos 5.000 rublos en billetes, sujeto con una goma desgastada. Los billetes están descoloridos y muestran señales de haber pasado por muchas manos. Se pueden gastar o usar como decoración en un escondite personal. Puede atraer visitas indeseadas. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_notes_writing_book">
+    <text>Diario personal</text>
+  </string>
+  <string id="st_placeable_notes_writing_book_descr">
+    <text>Un diario personal gastado, con cubierta de cuero y páginas amarillentas. Está lleno de notas manuscritas, bocetos y observaciones de muchos días en la zona de exclusión. Diarios así ofrecen un espacio privado para registrar pensamientos y experiencias; son una forma poco común, pero importante, de conservar la historia de la Zona. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_plant2">
+    <text>Planta anómala</text>
+  </string>
+  <string id="st_placeable_plant2_descr">
+    <text>Una planta en maceta con las hojas secas. Se desconoce su origen y parece crecer sin luz solar. Aporta un toque sobrenatural a cualquier espacio personal. Probablemente fue desenterrada y trasplantada en algún lugar de las afueras de Prípiat. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_plant3">
+    <text>Planta improvisada</text>
+  </string>
+  <string id="st_placeable_plant3_descr">
+    <text>Una planta que crece en una maceta improvisada hecha con un recipiente reciclado. Ha demostrado ser resistente y adaptarse a las condiciones adversas; sus hojas reflejan esa fortaleza. Aporta un poco de verdor y vida a un entorno por lo demás estéril. Suele encontrarse en escondites personales donde la creatividad se une a la necesidad. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_plant4">
+    <text>Planta alta</text>
+  </string>
+  <string id="st_placeable_plant4_descr">
+    <text>Una planta alta en maceta, con hojas largas y finas. Está bien cuidada y aporta calma y un toque natural a cualquier espacio. Su altura permite llenar rincones vacíos o añadir interés vertical. Suele encontrarse en zonas de estar y pasillos para dar un poco de verdor. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster1">
+    <text>Póster 1</text>
+  </string>
+  <string id="st_placeable_poster1_descr">
+    <text>Cartel soviético de propaganda en color, con un diseño de Víktor Govórkov de 1956. Destaca el lema: «Paz y amistad. Nuestra experiencia es para nuestros amigos». La obra muestra imágenes vivas de la amistad soviética y usa colores intensos y una composición dinámica para transmitir unidad y ayuda mutua. Impreso en plena Guerra Fría, representa el compromiso declarado de la URSS con la solidaridad internacional. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster2">
+    <text>Póster 2</text>
+  </string>
+  <string id="st_placeable_poster2_descr">
+    <text>Cartel en tonos naranja y negro, con el llamativo título «HUMANIDAD: DECADENCIA» en la parte superior. Debajo, dos figuras con trajes protectores pesados contemplan un paisaje desolado. En el centro aparece una estructura en ruinas con un brillante letrero: «PRECAUCIÓN: ZONA RADIACTIVA». Se desconoce el origen del cartel, aunque podría ser la portada de un álbum. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster3">
+    <text>Póster 3</text>
+  </string>
+  <string id="st_placeable_poster3_descr">
+    <text>Cartel en color que muestra una mano sosteniendo una pistola de la Segunda Guerra Mundial sobre un fondo rojo brillante. En la parte inferior, el texto destacado dice «AMETRALLADORA». Arriba aparecen letras blancas ilegibles. El diseño, con rojos y blancos intensos, transmite urgencia y fuerza. Podría ser el cartel de una película antigua o de un álbum musical; se desconoce su origen exacto. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster4">
+    <text>Póster 4</text>
+  </string>
+  <string id="st_placeable_poster4_descr">
+    <text>Cartel propagandístico soviético de vivos tonos rojos y negros que muestra a tres figuras con martillos. El texto cirílico se traduce como «Golpead a los falsos trabajadores de choque» y alude a la acción colectiva contra los elementos improductivos de la fuerza laboral. Las siluetas estilizadas y dinámicas transmiten fuerza industrial y unidad. Una gran hoz y un martillo refuerzan el poder del trabajo soviético; los engranajes y esferas inferiores destacan la importancia del tiempo y la eficiencia para el progreso industrial. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster5">
+    <text>Póster 5</text>
+  </string>
+  <string id="st_placeable_poster5_descr">
+    <text>Cartel en blanco y negro con «INFECTADO» en letras grandes en la parte superior. La imagen central muestra una figura amenazante con máscara de gas. Debajo se lee «MANTENGA LA DISTANCIA». En la parte inferior aparecen un médico de la peste, figuras deformadas y otros símbolos. La letra pequeña advierte: «La enfermedad se propagará de persona en persona con una eficacia innegable hasta que caiga el último cadáver. No quedará hogar que sienta su calor». Se desconoce el origen del cartel. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster6">
+    <text>Póster 6</text>
+  </string>
+  <string id="st_placeable_poster6_descr">
+    <text>Cartel oscuro titulado «PENSAMIENTOS INFECTADOS», escrito en letras rojo sangre en la parte superior. La imagen central muestra un cerebro y un rostro que brillan de forma siniestra bajo una luz azul tenue, rodeados de patrones dentados. El pie dice «CONTROLA MI CEREBRO», bajo una hilera de hormigas rojas. El diseño evoca intrusión mental, paranoia y terror psicológico, quizá relacionado con el temor omnipresente a perder el control de la mente en la Zona. Se desconoce su origen. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_poster7">
+    <text>Póster 7</text>
+  </string>
+  <string id="st_placeable_poster7_descr">
+    <text>Cartel oscuro titulado «NO PUEDES ESCAPAR DEL CIELO», con un caballero medieval arrodillado y sosteniendo una espada. El fondo muestra una figura fantasmal a la izquierda y una ventana de catedral a la derecha. Un bloque de texto dice: «LUCHA CONTRA MI MAL Y CRUZA LAS PUERTAS DE MI DESESPERACIÓN». El número «45» aparece en varios lugares. El tono sombrío, el destino inevitable y la atmósfera gótica sugieren un origen desconocido. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_pot">
+    <text>Olla</text>
+  </string>
+  <string id="st_placeable_pot_descr">
+    <text>Una olla grande de hierro fundido con una tapa pesada. Su superficie está ennegrecida por incontables fogatas y el asa muestra señales de uso frecuente. Tiene capacidad suficiente para preparar sopas o guisos, por lo que resulta valiosa en cualquier escondite. Pese a su aspecto gastado, sigue siendo básica en toda cocina improvisada. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_psi_helmet">
+    <text>Casco psi</text>
+  </string>
+  <string id="st_placeable_psi_helmet_descr">
+    <text>Un casco psi inoperativo, diseñado originalmente para proteger de las emisiones psi de la Zona. Es voluminoso y lleva varios componentes electrónicos y sensores integrados. Presenta un desgaste moderado, aunque se desconoce por qué dejó de funcionar. Aun así, puede servir como una decoración interesante. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_radiola">
+    <text>Radio</text>
+  </string>
+  <string id="st_placeable_radiola_descr">
+    <text>Una radio antigua con caja de madera y detalles metálicos. Los mandos e interruptores están desgastados, pero el interior parece estar en buen estado y la radio aún funciona. Debido a las fuertes interferencias dentro de la zona de exclusión, normalmente no se pueden captar emisiones regulares. Aporta un aire nostálgico a cualquier espacio personal en la Zona. \n \n
+		Una radio funcional.\n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] artículo tecnológico\n</text>
+  </string>
+  <string id="st_placeable_rug">
+    <text>Alfombra</text>
+  </string>
+  <string id="st_placeable_rug_descr">
+    <text>Una gran alfombra tejida con motivos intrincados y un diseño europeo clásico. La tela está algo descolorida y tiene algunos agujeros en los bordes, prueba de años de uso. Las alfombras aportan calidez y comodidad a los espacios personales de vida y trabajo. Esta crea un ambiente acogedor y da un toque de estilo a un montón de hormigón reconvertido en refugio. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n
+		%c[d_red] • %c[d_red] ADVERTENCIA: %c[ui_gray_2]NO SUELTES LA ALFOMBRA DEL INVENTARIO. TE DARÁ UN ICTUS Y SALDRÁS DE LA ZONA ESPONTÁNEAMENTE.\n</text>
+  </string>
+  <string id="st_placeable_shelves">
+    <text>Estantes metálicos</text>
+  </string>
+  <string id="st_placeable_shelves_b">
+    <text>Estantes de baño</text>
+  </string>
+  <string id="st_placeable_shelves_b_descr">
+    <text>Juego de estantes metálicos para baño, recubiertos de esmalte blanco con algunas zonas desconchadas. Cada estante es lo bastante ancho para artículos de aseo, botiquines o pequeños objetos personales. Su diseño de pared ahorra espacio en el suelo y aprovecha bien la habitación. Pese a su aspecto desgastado, ofrece un almacenamiento práctico y fiable para el baño. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_shelves_descr">
+    <text>Un conjunto de estantes metálicos usados, algo oxidados pero estructuralmente sólidos. Cada estante ofrece espacio suficiente para provisiones, herramientas u objetos personales. Su diseño industrial los hace adecuados para cualquier taller o zona de almacenamiento. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_shield">
+    <text>Escudo</text>
+  </string>
+  <string id="st_placeable_shield_descr">
+    <text>Escudo personal de metal fabricado con acero de alta resistencia. Protege de proyectiles y ataques cuerpo a cuerpo; su empuñadura reforzada aporta estabilidad. Puede ser vital en combate cercano.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n</text>
+  </string>
+  <string id="st_placeable_shooting_target_1">
+    <text>Blanco de tiro</text>
+  </string>
+  <string id="st_placeable_shooting_target_1_descr">
+    <text>Una diana metálica de tiro. Su superficie está llena de abolladuras de bala y desgastada por la intemperie. Se apoya en una base con peso que le da estabilidad durante las prácticas. Sirve para mejorar la puntería y es popular en las bases de facciones militares para entrenamientos regulares. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_shower">
+    <text>Ducha</text>
+  </string>
+  <string id="st_placeable_shower_descr">
+    <text>Ducha estándar para la higiene personal. De acero inoxidable y plástico, incluye cabezal, mandos y desagüe. Es resistente, fácil de instalar y ofrece una comodidad esencial en los refugios.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_sidetable1">
+    <text>Mesa auxiliar A</text>
+  </string>
+  <string id="st_placeable_sidetable1_descr">
+    <text>Una mesita auxiliar de madera con un solo cajón. La madera se ha oscurecido con el tiempo y tiene varios arañazos y abolladuras. Pese al desgaste, es sólida y funcional, y sirve para guardar objetos pequeños y fuentes de luz. Suele colocarse en espacios personales por su utilidad y encanto. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_sidetable2">
+    <text>Mesa auxiliar B</text>
+  </string>
+  <string id="st_placeable_sidetable2_descr">
+    <text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_sink">
+    <text>Fregadero</text>
+  </string>
+  <string id="st_placeable_sink_descr">
+    <text>Un lavabo de porcelana con accesorios oxidados y el esmalte desconchado. La pila muestra un uso intensivo y tiene pequeñas grietas en la superficie. Si se conecta a un sistema de agua funcional, puede usarse para lavarse y aporta utilidad a cualquier base. Suele encontrarse en baños improvisados. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_stalker_outfit">
+    <text>Lote de equipo de stalker</text>
+  </string>
+  <string id="st_placeable_stalker_outfit_descr">
+    <text>Un conjunto de ropa de stalker corriente y muy usada: chaqueta, pantalones resistentes y botas. Las prendas muestran un uso intensivo, con remiendos y reparaciones visibles. Es habitual encontrar ropa limpia y lavada en escondites personales y campamentos de facción. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_stool">
+    <text>Taburete</text>
+  </string>
+  <string id="st_placeable_stool_descr">
+    <text>Un sencillo taburete de madera cuyas patas se tambalean ligeramente por el desgaste. El asiento es redondo y liso, y deja ver la veta natural de la madera. Es ligero y fácil de transportar, por lo que resulta muy práctico como asiento. Aunque su construcción es simple, es un mueble funcional e indispensable en cualquier escondite. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_storage01">
+    <text>Contenedor metálico de almacenamiento</text>
+  </string>
+  <string id="st_placeable_storage01_descr">
+    <text>Un contenedor de almacenamiento mediano de acero galvanizado, resistente al óxido y apto para guardar diversos objetos con seguridad. Tiene una tapa con cerradura para mayor protección. Ideal para almacenar provisiones o equipo en un escondite. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage02">
+    <text>Contenedor metálico grande de almacenamiento</text>
+  </string>
+  <string id="st_placeable_storage02_descr">
+    <text>Un gran contenedor metálico de acero reforzado que ofrece máxima protección frente a la intemperie y los robos. Es adecuado para almacenar a largo plazo mercancía a granel y objetos de valor. Suele encontrarse en bases bien equipadas y lugares seguros. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage03">
+    <text>Caja metálica verde</text>
+  </string>
+  <string id="st_placeable_storage03_descr">
+    <text>Una caja metálica verde de aluminio ligero que facilita su transporte. Tiene un cierre resistente y un asa para mayor comodidad. Ideal para guardar equipo pequeño u objetos personales. Suele encontrarse en campamentos de campaña y refugios temporales. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage04">
+    <text>Caja fuerte pequeña</text>
+  </string>
+  <string id="st_placeable_storage04_descr">
+    <text>Una caja fuerte pequeña diseñada para guardar objetos de valor. Está fabricada con acero templado y lleva una cerradura de combinación para mayor seguridad. Ideal para documentos importantes, dinero u otros objetos valiosos. Suele encontrarse en apartamentos privados y oficinas administrativas. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage05">
+    <text>Caja de herramientas vacía</text>
+  </string>
+  <string id="st_placeable_storage05_descr">
+    <text>Una caja de herramientas vacía hecha de plástico resistente. Tiene varios compartimentos para organizar herramientas y piezas pequeñas, además de un asa cómoda y cierres firmes. Ideal para técnicos y mecánicos que necesitan mantener sus herramientas ordenadas y transportarlas. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage06">
+    <text>Baúl vacío</text>
+  </string>
+  <string id="st_placeable_storage06_descr">
+    <text>Un baúl vacío de madera reforzada con abrazaderas metálicas, resistente y espacioso. Tiene una tapa con bisagras y cerradura para proteger el contenido. Sirve para guardar todo tipo de pertenencias, desde ropa hasta equipo. Suele encontrarse en zonas de almacenamiento y sótanos. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage07">
+    <text>Taquilla</text>
+  </string>
+  <string id="st_placeable_storage07_descr">
+    <text>Una taquilla metálica para guardar objetos personales. Está hecha de acero y tiene ranuras de ventilación y una cerradura resistente. El interior está dividido en secciones para organizarlo todo cómodamente. Se usa en barracones, oficinas y dormitorios para guardar ropa y pertenencias. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_storage08">
+    <text>Caja fuerte grande</text>
+  </string>
+  <string id="st_placeable_storage08_descr">
+    <text>Una caja fuerte grande diseñada para guardar objetos de forma segura. Está fabricada con acero de alta resistencia y ofrece protección fiable contra robos e incendios. Tiene una cerradura de combinación y bisagras reforzadas. Ideal para objetos de gran valor y artículos confidenciales. Suele encontrarse en lugares seguros, como oficinas y cámaras acorazadas. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] almacenamiento de objetos\n
+		%c[d_orange] • %c[ui_gray_2] colocable\n</text>
+  </string>
+  <string id="st_placeable_stretcher">
+    <text>Camilla</text>
+  </string>
+  <string id="st_placeable_stretcher_descr">
+    <text>Una camilla sencilla de lona con asas metálicas. La lona está sucia y gastada, señal de un uso intensivo. Modelos como este sirven para transportar heridos en emergencias y suelen utilizarse en ambulancias y hospitales. En la Zona aparecen a menudo en campamentos de facción con personal médico y en algunos edificios abandonados. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_suit">
+    <text>Exhibidor del traje SSP-99M</text>
+  </string>
+  <string id="st_placeable_suit_descr">
+    <text>Exposición del traje SSP-99M, un traje hermético de respiración y protección de alta calidad. El modelo 99M incorpora protección ambiental mejorada y suministra oxígeno desde una botella comprimida que se lleva a la espalda. Esta unidad de exposición muestra señales de uso, pero conserva un buen aspecto. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_survivalguide">
+    <text>Guía de seguridad</text>
+  </string>
+  <string id="st_placeable_survivalguide_descr">
+    <text>Un manual técnico muy usado, con la cubierta desgastada y las páginas dobladas. Contiene información sobre técnicas de supervivencia, primeros auxilios y procedimientos de emergencia. Parece una edición antigua, pero aún puede ser un recurso valioso para un lector capaz. Los libros y manuales suelen encontrarse en dormitorios y escondites personales. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_teapot">
+    <text>Tetera</text>
+  </string>
+  <string id="st_placeable_teapot_descr">
+    <text>Una tetera metálica de diseño sencillo. La superficie parece oscurecida, probablemente por el uso frecuente y la exposición a la intemperie. El asa está envuelta en tela para proteger del calor. Sirve para hervir agua o preparar té y café, y es un buen complemento para la cocina de un escondite personal. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_toilet">
+    <text>Inodoro</text>
+  </string>
+  <string id="st_placeable_toilet_descr">
+    <text>Inodoro básico e imprescindible para la higiene de cualquier refugio. Es de cerámica, resistente y fácil de limpiar. Su sencilla cisterna y asiento cómodo son mejores que ir al bosque.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie1">
+    <text>Trofeo de jabalí A</text>
+  </string>
+  <string id="st_placeable_trophie1_descr">
+    <text>Cabeza de jabalí disecada, un animal grande común en la Zona, montada sobre una tabla de madera hecha a mano. La taxidermia es de buena calidad, pese al aspecto desgastado. La madera tiene varios arañazos y el pelaje está algo ralo y descolorido, probablemente por la exposición a la intemperie. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie2">
+    <text>Trofeo de quimera</text>
+  </string>
+  <string id="st_placeable_trophie2_descr">
+    <text>Cabeza de quimera montada en una tabla de madera hecha a mano, una pieza de exposición impresionante e intimidante. Está bien conservada y la taxidermia es de gran calidad, aunque parte del pelaje muestra desgaste, probablemente por el embalaje y el transporte. Un trofeo raro y valioso que suele exhibirse en escondites como muestra de un gran logro. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie3">
+    <text>Trofeo de pseudoperro</text>
+  </string>
+  <string id="st_placeable_trophie3_descr">
+    <text>Un ágil pseudoperro disecado y montado sobre una base de madera para conservar su amenazador gruñido. La taxidermia es de buena calidad y el ejemplar está bien preservado, incluidos los afilados dientes y el pelaje. El trofeo recuerda que hasta los peligros más pequeños de la Zona pueden acabar de repente con cualquier stalker descuidado. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie4">
+    <text>Trofeo de gato</text>
+  </string>
+  <string id="st_placeable_trophie4_descr">
+    <text>Un gato disecado sobre una base de madera, montado con habilidad para conservar su expresión feroz. La taxidermia es de buena calidad y el pelaje está bien preservado, aunque algunas zonas muestran desgaste. Como trofeo, representa una caza exitosa y los peligros a los que se enfrentó su dueño. Aún se percibe la ferocidad de los gatos mutados de la zona de exclusión. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie5">
+    <text>Trofeo de chupasangre A</text>
+  </string>
+  <string id="st_placeable_trophie5_descr">
+    <text>Cabeza de chupasangres cuidadosamente preservada con un gesto sombrío y montada en una tabla de madera hecha a mano. La taxidermia es buena, sobre todo en los tentáculos, aunque la piel está algo descolorida por la exposición. Los trofeos de chupasangres disecados son adornos poco comunes en la Zona. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie6">
+    <text>Trofeo de chupasangre B</text>
+  </string>
+  <string id="st_placeable_trophie6_descr">
+    <text>Un chupasangres disecado por completo y colocado en una pose amenazadora sobre una base de madera. La preservación es cuidadosa y la taxidermia, de gran calidad, aunque la piel presenta pequeñas grietas y decoloración. Los trofeos de chupasangres son adornos raros e inquietantes que capturan la naturaleza letal de esta aberración. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie7">
+    <text>Trofeo de perro ciego</text>
+  </string>
+  <string id="st_placeable_trophie7_descr">
+    <text>Un perro ciego disecado y preservado en una pose realista sobre una base de madera. El trabajo es de gran calidad y el pelaje resulta suave, aunque algunas zonas están ásperas y apelmazadas, quizá como cuando el animal vivía. El trofeo tiene una presencia amenazadora y recuerda que hasta un mutante corriente puede ser peligroso en un mal día. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie8">
+    <text>Trofeo de carne</text>
+  </string>
+  <string id="st_placeable_trophie8_descr">
+    <text>Una criatura de carne montada sobre una base de madera y preservada con su aspecto grotesco, incluidas todas sus patas colgantes. Tiene la piel gruesa y porosa, llena de cicatrices. Los trofeos de carne son un recordatorio poco común de la fauna extraña y peligrosa de la Zona, incluso entre sus ejemplares menos amenazadores. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_trophie9">
+    <text>Trofeo de jabalí B</text>
+  </string>
+  <string id="st_placeable_trophie9_descr">
+    <text>Un enorme jabalí disecado sobre una base de madera. Presenta gran nivel de detalle y parece muy real pese a su tamaño. Tiene el pelaje áspero y los colmillos ligeramente astillados, señales de su edad y de posibles enfrentamientos con novatos desafortunados. Los trofeos de jabalí son una rara imagen de la naturaleza implacable de la Zona. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_tv_box">
+    <text>Televisor antiguo</text>
+  </string>
+  <string id="st_placeable_tv_box_descr">
+    <text>Televisor antiguo que ofrece entretenimiento y noticias a los habitantes de la Zona. Tiene pantalla CRT y mandos mecánicos en una carcasa de plástico resistente. Aunque está anticuado, aún recibe emisiones si hay señal.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] artículo tecnológico\n</text>
+  </string>
+  <string id="st_placeable_wall_divider">
+    <text>Separador de ambientes 2×2 m</text>
+  </string>
+  <string id="st_placeable_wall_divider_descr">
+    <text>Un separador portátil de 2 por 2 metros, fabricado con materiales ligeros pero resistentes. Es ideal para crear divisiones temporales en viviendas o escondites. El armazón es de aluminio y lleva un panel de tela que proporciona privacidad visual. Es habitual en refugios improvisados y ayuda a organizar el espacio con eficacia. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] mueble\n</text>
+  </string>
+  <string id="st_placeable_wooden_board">
+    <text>Panel de madera</text>
+  </string>
+  <string id="st_placeable_wooden_board_descr">
+    <text>Un panel de madera para bloquear ventanas y entradas. Está hecho de pino tratado, es resistente y soporta la intemperie. Se usa en refugios improvisados y estructuras defensivas para proteger puntos vulnerables. Fácil de instalar y retirar cuando hace falta. \n \n
+		%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Se usa para bloquear ventanas y entradas\n</text>
+  </string>
+  <string id="st_placeable_wooden_plank">
+    <text>Tabla de madera</text>
+  </string>
+  <string id="st_placeable_wooden_plank_descr">
+    <text>Tabla robusta de roble para bloquear ventanas y entradas. Ofrece una barrera fiable contra intrusos y puede clavarse o atornillarse. Se encuentra en obras y refugios improvisados.%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Se usa para bloquear ventanas y entradas\n</text>
+  </string>
+</string_table>

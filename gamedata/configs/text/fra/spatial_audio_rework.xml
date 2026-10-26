@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_sar_editor">
+    <text>Éditeur d'effets</text>
+  </string>
+  <string id="ui_mcm_menu_sar_main">
+    <text>Principal</text>
+  </string>
+  <string id="ui_mcm_menu_spatial_audio">
+    <text>Refonte audio spatiale</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_dbug">
+    <text>Trucs de développeur</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor1">
+    <text>Bienvenue dans l'éditeur de préréglages. Faites défiler vers le bas pour apprendre à l'utiliser.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor2">
+    <text>1. Activez l'éditeur, puis chargez votre préréglage personnalisé (ou un autre comme base).</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor3">
+    <text>2. Commencez les modifications, changez la valeur puis quittez pour voir le résultat.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor4">
+    <text>3. Une fois terminé, faites défiler vers le bas, saisissez un nom pour le préréglage personnalisé (vous pouvez en remplacer un existant), puis cliquez sur Exporter.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor5">
+    <text>4. Et voilà ! Vous pouvez maintenant choisir le préréglage dans les paramètres principaux du MCM.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_editor6">
+    <text>La documentation de tous les effets se trouve dans mod-folder/SAR-DOC/Effect Extension Guide.pdf. Après l'export du préréglage, son fichier se trouve dans mo2/overwrite/gamedata/script/[your_preset_name]_preset_inject.script. Vous pouvez partager ce fichier pour partager votre préréglage.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_npc">
+    <text>Paramètres des PNJ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_preset">
+    <text>Paramètres des préréglages — options liées à la réverbération. Retrouvez les préréglages par défaut dans script/sar_reverb_preset.script ou créez-en un dans l'onglet Preset Editor.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_ray">
+    <text>Paramètres des rayons</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_desc_threshold">
+    <text>Réglage du seuil : sensibilité de la détection</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_air_absorption_gain_hf">
+    <text>Gain d'absorption de l'air dans les hautes fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_limit">
+    <text>Limite de décroissance des hautes fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_hf_ratio">
+    <text>Ratio de décroissance des hautes fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_lf_ratio">
+    <text>Ratio de décroissance des basses fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_decay_time">
+    <text>Temps de décroissance</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_density">
+    <text>Densité</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_diffusion">
+    <text>Diffusion</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_depth">
+    <text>Profondeur de l'écho</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_echo_time">
+    <text>Temps d'écho</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_edit">
+    <text>Activer le mode édition</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_enable_editor">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_export">
+    <text>Exporter</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain">
+    <text>Gain</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_hf">
+    <text>Gain des hautes fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_gain_lf">
+    <text>Gain des basses fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_hf_reference">
+    <text>Référence des hautes fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_delay">
+    <text>Délai de réverbération tardive</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_late_reverb_gain">
+    <text>Gain de réverbération tardive</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_lf_reference">
+    <text>Référence des basses fréquences</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb">
+    <text>Charger</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_load_reverb_name">
+    <text>Charger le nom de la réverbération</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_depth">
+    <text>Profondeur de modulation</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_modulation_time">
+    <text>Temps de modulation</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_delay">
+    <text>Délai des réflexions</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reflections_gain">
+    <text>Gain des réflexions</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_reverb_name">
+    <text>Exporter sous le nom de réverbération</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_editor_room_rolloff_factor">
+    <text>Facteur d'atténuation de la pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_dbug">
+    <text>Mode débogage</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable">
+    <text>Activer</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc">
+    <text>Activer la détection de rayons propre aux PNJ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_enable_npc_desc">
+    <text>La détection d'intérieur s'effectue pour chaque PNJ lorsqu'il tire et se trouve assez près du joueur (100 unités). Si le point est assez haut, un son d'intérieur personnalisé est joué. Désactivez cette option pour utiliser la détection du personnage. Désactivez-la pour améliorer les performances. </text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval">
+    <text>Intervalle d'interpolation</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_interpolation_interval_desc">
+    <text>Durée d'interpolation entre les valeurs de taille de pièce. Une durée plus courte entraîne des variations plus brusques et évite que l'effet ne tremble trop.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length">
+    <text>Distance du préréglage grande pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_length_desc">
+    <text>Si la distance entre les points d'impact du rayon et le joueur est supérieure ou égale à cette valeur, le préréglage grande pièce est joué à pleine puissance.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset">
+    <text>Préréglage grande pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_preset_desc">
+    <text>Préréglage de réverbération pour grande pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength">
+    <text>Intensité du préréglage grande pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_large_strength_desc">
+    <text>Définit l'intensité de la réverbération : 0 signifie aucune réverbération et 1 l'effet maximal.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_length_interpolation_interval">
+    <text>Intervalle d'interpolation de la distance</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold">
+    <text>Seuil inférieur</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_lower_threshold_desc">
+    <text>Si le score d'intérieur (le nombre de rayons ayant touché une surface) dépasse ce seuil, la réverbération commence à affecter le son.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length">
+    <text>Distance du préréglage pièce moyenne</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_length_desc">
+    <text>Si la distance entre les points d'impact du rayon et le joueur est égale à cette valeur, le préréglage moyen sera joué à pleine puissance.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset">
+    <text>Préréglage pièce moyenne</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_preset_desc">
+    <text>Préréglage de réverbération pour pièce moyenne</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength">
+    <text>Intensité du préréglage moyen</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_mid_strength_desc">
+    <text>Définit l'intensité de la réverbération : 0 signifie aucune réverbération et 1 l'effet maximal.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_ray_bounce_count">
+    <text>Réflexions des rayons des PNJ</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_npc_tick_interval">
+    <text>Intervalle de mise à jour des PNJ (ms)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset">
+    <text>Préréglage extérieur</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_outdoor_preset_desc">
+    <text>Préréglage de réverbération pour l'extérieur (généralement sans réverbération)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_bounce_count">
+    <text>Nombre de réflexions du rayon</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_dbug">
+    <text>Débogage des rayons</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_ray_length_mult">
+    <text>Longueur du rayon</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_show_replaced_sound">
+    <text>Afficher le son remplacé</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length">
+    <text>Distance du préréglage petite pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_length_desc">
+    <text>Si la distance entre les points d'impact du rayon et le joueur est inférieure à cette valeur, le préréglage petite pièce sera utilisé.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset">
+    <text>Préréglage petite pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_preset_desc">
+    <text>Préréglage de réverbération pour petite pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength">
+    <text>Intensité du préréglage petite pièce</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_small_strength_desc">
+    <text>Définit l'intensité de la réverbération : 0 signifie aucune réverbération et 1 l'effet maximal.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_tick_interval">
+    <text>Intervalle de mise à jour (ms)</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold">
+    <text>Seuil supérieur</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_upper_threshold_desc">
+    <text>Si le score d'intérieur (le nombre de rayons ayant touché une surface) dépasse ce seuil, l'effet atteint sa pleine intensité et le son d'intérieur personnalisé est joué.</text>
+  </string>
+  <string id="ui_mcm_spatial_audio_sar_main_volume">
+    <text>Volume</text>
+  </string>
+</string_table>

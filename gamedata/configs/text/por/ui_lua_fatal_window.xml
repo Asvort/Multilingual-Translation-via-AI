@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_continue">
+    <text>Continuar</text>
+  </string>
+  <string id="st_disconnect">
+    <text>Voltar ao menu principal</text>
+  </string>
+  <string id="st_lua_fatal_error">
+    <text>AVISO: ESTADO INSTÁVEL DO JOGO\n \nOcorreu um erro crítico de Lua que corrompeu o mecanismo de scripts (estado “Busy Hands”).\nO jogo foi salvo no arquivo “tempsave”. Recomendamos voltar ao menu principal ou recarregar o salvamento imediatamente.\nContinuar daqui causará mais corrupção e poderá encerrar o jogo.\n \nScript: %s\n \nO erro foi registrado com a marca [BusyHandsDebug].\nEnvie o log e relate o problema ao autor do script ou à equipe do modpack.</text>
+  </string>
+  <string id="st_reload_save">
+    <text>Recarregar o salvamento</text>
+  </string>
+</string_table>

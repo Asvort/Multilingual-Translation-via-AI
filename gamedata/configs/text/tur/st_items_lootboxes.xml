@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_box_difficulty">
+    <text>Kilit açma zorluğu:</text>
+  </string>
+  <string id="st_cant_unlock">
+    <text>Kilidi açmak için yeterli maymuncuk yok.</text>
+  </string>
+  <string id="st_cant_unlock_coinbox">
+    <text>Bu alet uygun değil.</text>
+  </string>
+  <string id="st_cant_unlock_snapgun">
+    <text>Kilit bu aletle açılmayacak kadar karmaşık.</text>
+  </string>
+  <string id="st_check_peek">
+    <text>[HATA AYIKLAMA]</text>
+  </string>
+  <string id="st_dot">
+    <text>•</text>
+  </string>
+  <string id="st_incompatible">
+    <text>Bu alet bu kasayı açamaz.</text>
+  </string>
+  <string id="st_lockpick">
+    <text>Maymuncuk</text>
+  </string>
+  <string id="st_lockpick_bundle">
+    <text>Maymuncuk seti</text>
+  </string>
+  <string id="st_lockpick_bundle_descr">
+    <text>Üç maymuncuktan oluşan set. Güzel ganimet!\n \nKullanmadan önce ayırın.\n \n</text>
+  </string>
+  <string id="st_lockpick_descr">
+    <text>Maymuncuk, kasa kilitlerini açmak için kullanılan nadir ve kırılgan bir alettir. Çoğu kilit için birden fazlası gerekir.\n \nKullanmak için maymuncuğu kilitli kasaya sürükleyin veya kasaya sağ tıklayın. Bir kilitte toplam en fazla 10 maymuncuk kullanılabilir (toplam etki %100).\n \n%c[d_cyan] • %c[ui_gray_2] kilit açma etkisi: %10\n%c[d_cyan] • %c[ui_gray_2] aynı anda en fazla 10 adet kullanılabilir\n%c[d_cyan] • %c[ui_gray_2] kullanım sırasında kırılır\n \n</text>
+  </string>
+  <string id="st_lockpick_set">
+    <text>Çilingir aletleri</text>
+  </string>
+  <string id="st_lockpick_set_descr">
+    <text>Profesyonel bir çilingir seti. Ne yazık ki birileri tüm maymuncukları almış. Yine de kilidi çevirmeye yarayan özel aletler sıradan tornavidalardan daha kullanışlıdır.\n \n%c[d_cyan] • %c[ui_gray_2] envanterdeyken kilit açma zorluğunu %10 azaltır\n \n</text>
+  </string>
+  <string id="st_loot_ammo">
+    <text>adet</text>
+  </string>
+  <string id="st_loot_ammos">
+    <text>adet</text>
+  </string>
+  <string id="st_lootbox_docs_case">
+    <text>Metal evrak çantası</text>
+  </string>
+  <string id="st_lootbox_docs_case_descr">
+    <text>Belgeleri saklamak için ince, korumalı metal bir dosya. X-laboratuvarları hâlâ çalışırken kritik bilgiler ve diğer veriler bu dosyalara konup Dışlama Bölgesi'nin dışına gönderilirdi. Artık Bölgede böyle dosyalar bulmak neredeyse imkânsız. İçindekileri öğrenmek için herkes her şeyini verirdi. Kilidi biyometriktir ve mekanik olarak açılamaz.\n \n</text>
+  </string>
+  <string id="st_lootbox_get">
+    <text>Kasada</text>
+  </string>
+  <string id="st_lootbox_large_monolith">
+    <text>Monolith sandığı</text>
+  </string>
+  <string id="st_lootbox_large_monolith_descr">
+    <text>Kapağında Monolith simgesi bulunan ağır ve süslü bir sandık. Söylentiye göre Dilek Gerçekleştirici tarafından yapılmış ve Monolith'in teçhizat ile erzak dileklerini yerine getiriyor. Sıradan maymuncuklar kilidi açamaz; bir tür kütleçekim anomalisi pimleri yerinde tutuyor. Yine de böylesine nadir bir buluntu tüccarların veya koleksiyoncuların ilgisini çeker.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_rifle">
+    <text>Pelican silah çantası</text>
+  </string>
+  <string id="st_lootbox_large_rifle_descr">
+    <text>Uzun tüfekleri taşımakta sık kullanılan sert ve su geçirmez bir çanta. Bölgede silahlarına böyle bir lüksü yalnızca paralı askerler veya onlar kadar tehlikeli kişiler sağlayabilir. Böylesini bulmak insanı gerçekten tedirgin eder.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_shotgun">
+    <text>Eski silah sandığı</text>
+  </string>
+  <string id="st_lootbox_large_shotgun_descr">
+    <text>Yerel köylülerin av tüfeklerini ve II. Dünya Savaşı'ndan kalan fazla silahları saklamak için kullandığı büyük bir tahta sandık. Bazıları Dışlama Bölgesi çevresindeki köylerde kaldı, diğerlerini stalkerlar silahlarını saklamak için yeniden kullanıyor. Tahta epey eski ve çürük; kilidi baltayla kırmak zor olmayacaktır.\n \n</text>
+  </string>
+  <string id="st_lootbox_large_surplus">
+    <text>Askerî silah sandığı</text>
+  </string>
+  <string id="st_lootbox_large_surplus_descr">
+    <text>Genellikle silah ve mühimmat taşımakta kullanılan asma kilitli bir askerî sandık. Dışlama Bölgesi'ni keşfetmeye yönelik başarısız ilk girişimlerin ardından bu tür sandıklar da dâhil olmak üzere pek çok ekipman terk edildi. Ne zamandır burada olduğunu söylemek zor; belki de Bölge'nin başlangıcından beri. Çok ağır, yanında taşıma.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_artifact">
+    <text>Kurşun kap</text>
+  </string>
+  <string id="st_lootbox_small_artifact_descr">
+    <text>Ukrayna Bilim Bakanlığı amblemli ve iç kilitli, profesyonelce üretilmiş bir kurşun kap. Ekologlar bunu genellikle Bölge'nin tehlikeli kesimlerinden artefakt taşımak için kullanır. Radyasyonu çok iyi engeller; içindekileri çevre koşullarından ve hırsız stalkerlardan korur. Korunan ekolog grupları bile sık sık soyulduğundan değerli bilgi ve artefaktları güvenli kaplarda saklamak standart hâle geldi. İç kilidi oldukça karmaşıktır ve açması zor olacaktır.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_bad">
+    <text>Asma kilitli alet kutusu</text>
+  </string>
+  <string id="st_lootbox_small_bad_descr">
+    <text>Asma kilitli, orta boy bir alet kutusu. Bir stalkerin kişisel eşyalarını saklamasının en ucuz yoludur; zorla açılmaya karşı pek koruma sağlamaz ve kolayca açılır. Genellikle yalnızca toy acemiler içine değerli bir şey bırakır. Kilit çok basittir ve fazla uğraşmadan açılabilir.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_briefcase">
+    <text>Evrak çantası</text>
+  </string>
+  <string id="st_lootbox_small_briefcase_descr">
+    <text>Kilitli, yanmaz bir evrak çantası. Oldukça hafif ve taşınabilir. Bilim insanları ve askerler genellikle gizli belgeleri, suç örgütleri ise büyük miktarda parayı taşımak için kullanır. Böylesine hassas eşyalar için kilidi de oldukça güvenlidir.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good">
+    <text>Güvenlik kasası</text>
+  </string>
+  <string id="st_lootbox_small_good2_descr">
+    <text>İç kilitli sert bir kap. Gövdesi bir tür kompozit malzemeden yapılmış ve kaba müdahalelere oldukça dayanıklıdır. Anakaradan sipariş edilen bu kaplar, kişisel eşyaları güvenle saklamanın en iyi yolu olarak yabancılar ve varlıklı stalkerlar arasında popülerdir. İç kilidi karmaşıktır ama yine de açılabilir.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_good_descr">
+    <text>İç kilitli sert bir kap. Gövdesi bir tür kompozit malzemeden yapılmış ve kaba müdahalelere oldukça dayanıklıdır. Anakaradan sipariş edilen bu kaplar, kişisel eşyaları güvenle saklamanın en iyi yolu olarak yabancılar ve varlıklı stalkerlar arasında popülerdir. İç kilidi karmaşıktır ama yine de açılabilir.\n \n</text>
+  </string>
+  <string id="st_lootbox_small_ok">
+    <text>Asma kilitli çelik kutu</text>
+  </string>
+  <string id="st_lootbox_small_ok_descr">
+    <text>Asma kilitli basit bir çelik kutu. Alet kutusundan farklı olarak içindekileri güvenle saklamak için tasarlanmıştır ve zorla açılmaya karşı iyi koruma sağlar. Kilidi kaliteli olsa da açması zor değildir.\n \n</text>
+  </string>
+  <string id="st_lootbox_survival">
+    <text>Hayatta kalma zulası</text>
+  </string>
+  <string id="st_lootbox_survival_descr">
+    <text>İşe yarar saha malzemeleri içeren, kilitli ve hava koşullarına dayanıklı bir kutu. Bu tür gözden uzak zulalar, saha görevlilerine ikmal sağlamak için çoğunlukla paramiliter gruplar ve gizli operasyon ekiplerince kullanılır. Dışında hiçbir işaret yoktur; sahibini anlamak zordur. Genellikle en becerikli hırsızları bile caydıracak sağlam bir kilitle korunur. Çok değerli şeyler içermez ama yiyecek, ilaç ve mühimmat her zaman işe yarar.\n \n</text>
+  </string>
+  <string id="st_money">
+    <text>ruble</text>
+  </string>
+  <string id="st_no_picks">
+    <text>Maymuncuk yok.</text>
+  </string>
+  <string id="st_pick_condition">
+    <text>Setteki maymuncuk:</text>
+  </string>
+  <string id="st_pick_split">
+    <text>maymuncukları ayır</text>
+  </string>
+  <string id="st_rip_axe">
+    <text>Sandığı açarken balta kırıldı.</text>
+  </string>
+  <string id="st_skelekey">
+    <text>Maymuncuk anahtarı</text>
+  </string>
+  <string id="st_skelekey_descr">
+    <text>Tuhaf bir anahtar. Sanki bir tür anormal alandan geçmiş gibi görünüyor. Ucu doğal olmayan biçimde eğri; dişleri uğursuzca parlıyor ve sürekli şekil ile boyut değiştiriyor.\n \n</text>
+  </string>
+  <string id="st_snapgun">
+    <text>Maymuncuk tabancası</text>
+  </string>
+  <string id="st_snapgun_descr">
+    <text>Kilitleri hızla açmak için kullanılan özel bir cihaz. Darbe mekanizması tüm pimlere aynı anda vurup hizalar ve silindirin dönmesini sağlar. Güvenilirdir ve çoğu basit kilidi kolayca açar, ancak daha karmaşık kilitlerde işe yaramaz.\n \n%c[d_cyan] • %c[ui_gray_2] kilit açma etkisi: %30\n \n</text>
+  </string>
+  <string id="st_spooky_1">
+    <text>AÇ ŞU SANDIĞI, LANET OLSUN</text>
+  </string>
+  <string id="st_spooky_2">
+    <text>HEY, SANDIĞI AÇ</text>
+  </string>
+  <string id="st_spooky_3">
+    <text>HEY, BENİ BURADAN ÇIKAR</text>
+  </string>
+  <string id="st_spooky_4">
+    <text>AÇ ŞUNU, VOTKAM VAR</text>
+  </string>
+  <string id="st_spooky_free">
+    <text>HAHAHAHA! ÖZGÜRÜM!</text>
+  </string>
+  <string id="st_tech_open">
+    <text>Maliyet</text>
+  </string>
+  <string id="st_tech_open_fail">
+    <text>Bu da ne biçim sandık?\nAçamıyorum.</text>
+  </string>
+  <string id="st_tech_open_q">
+    <text>Kasa açılsın mı?</text>
+  </string>
+  <string id="st_unlock_coin">
+    <text>madeni para yerleştir?</text>
+  </string>
+  <string id="st_unlock_pick">
+    <text>maymuncuklarla aç</text>
+  </string>
+  <string id="st_unlock_snap">
+    <text>maymuncuk tabancasıyla aç</text>
+  </string>
+  <string id="st_weapon_0">
+    <text>Kırık</text>
+  </string>
+  <string id="st_weapon_1">
+    <text>Hasarlı</text>
+  </string>
+  <string id="st_weapon_2">
+    <text>Yıpranmış</text>
+  </string>
+  <string id="st_weapon_3">
+    <text>Kullanılabilir</text>
+  </string>
+  <string id="ui_mcm_lootboxes_animation">
+    <text>Kasa açma animasyonu</text>
+  </string>
+  <string id="ui_mcm_lootboxes_deathchance">
+    <text>Ölü stalkerların üzerinde kasa veya maymuncuk bulma şansı</text>
+  </string>
+  <string id="ui_mcm_lootboxes_debug">
+    <text>Hata ayıklama (geliştiriciler için)</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality">
+    <text>Ganimet değeri</text>
+  </string>
+  <string id="ui_mcm_lootboxes_lootquality_desc">
+    <text>Bulunan kasaların ve dolayısıyla içindekilerin değerini etkiler.</text>
+  </string>
+  <string id="ui_mcm_lootboxes_stashchance">
+    <text>Zulalarda kasa bulma şansı</text>
+  </string>
+  <string id="ui_mcm_lootboxes_title">
+    <text>Lootboxes ayarları</text>
+  </string>
+  <string id="ui_mcm_menu_lootboxes">
+    <text>Lootboxes</text>
+  </string>
+</string_table>

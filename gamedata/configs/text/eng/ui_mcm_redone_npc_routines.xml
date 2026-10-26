@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Smart Check Interval (seconds)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>How often each active smart terrain is checked for NPC job rotations.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Animpoint Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Maximum time a vacated animpoint job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Animpoint Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Minimum time a vacated animpoint job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Behaviour Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Maximum time a vacated behaviour job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Behaviour Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Minimum time a vacated behaviour job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Camper Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Maximum time a vacated camper job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Camper Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Minimum time a vacated camper job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Collector Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Maximum time a vacated collector job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Collector Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Minimum time a vacated collector job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Controls how long a vacated job remains unavailable before another NPC may use it again through Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Guard Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Maximum time a vacated guard job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Guard Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Minimum time a vacated guard job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Job Reuse Cooldowns</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Patrol Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Maximum time a vacated patrol job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Patrol Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Minimum time a vacated patrol job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Sleep Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Maximum time a vacated sleep job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Sleep Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Minimum time a vacated sleep job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Smart Cover Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Maximum time a vacated smart cover job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Smart Cover Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Minimum time a vacated smart cover job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Sniper Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Maximum time a vacated sniper job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Sniper Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Minimum time a vacated sniper job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Walker Reuse Cooldown Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Maximum time a vacated walker job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Walker Reuse Cooldown Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Minimum time a vacated walker job stays unavailable to Smart Activity.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Debug Prints</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Print each successful dynamic job change to the log. Recommended during beta testing.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Enable Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Enable or disable dynamic smart-terrain job rotation for supported simulation NPCs.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>General Settings</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>ANIMPOINT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>BEHAVIOUR</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>CAMPER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>COLLECTOR</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>GUARD</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>PATROL</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>SLEEP</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>SMART COVER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>SNIPER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>WALKER</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Retry Delay (seconds)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>How long an NPC waits before trying again when no suitable new job is available or rotation is temporarily blocked.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Animpoint Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Maximum time an NPC keeps a animpoint job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Animpoint Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Minimum time an NPC keeps a animpoint job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Behaviour Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Maximum time an NPC keeps a behaviour job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Behaviour Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Minimum time an NPC keeps a behaviour job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Camper Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Maximum time an NPC keeps a camper job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Camper Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Minimum time an NPC keeps a camper job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Collector Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Maximum time an NPC keeps a collector job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Collector Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Minimum time an NPC keeps a collector job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Controls how long an NPC normally keeps each activity before it may switch to another available job.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Guard Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Maximum time an NPC keeps a guard job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Guard Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Minimum time an NPC keeps a guard job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Job Stay Times</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Patrol Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Maximum time an NPC keeps a patrol job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Patrol Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Minimum time an NPC keeps a patrol job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Sleep Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Maximum time an NPC keeps a sleep job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Sleep Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Minimum time an NPC keeps a sleep job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Smart Cover Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Maximum time an NPC keeps a smart cover job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Smart Cover Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Minimum time an NPC keeps a smart cover job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Sniper Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Maximum time an NPC keeps a sniper job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Sniper Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Minimum time an NPC keeps a sniper job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Walker Stay Maximum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Maximum time an NPC keeps a walker job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Walker Stay Minimum (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Minimum time an NPC keeps a walker job before it may rotate.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Job Reuse Cooldowns</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Debug</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>General</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Job Stay Times</text>
+  </string>
+</string_table>

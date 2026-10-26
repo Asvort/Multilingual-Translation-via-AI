@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_already_repair">
+    <text>--- Parça değiştirme işlemi tamamlandı. Silahın kalitesini artırmak için durumu %100 olmalı.</text>
+  </string>
+  <string id="st_awr_back">
+    <text>Geri</text>
+  </string>
+  <string id="st_awr_ctrl">
+    <text>%sEşyaların yanlışlıkla sökülmesini önlemek için\nişlem yalnızca ALT tuşu basılı tutulurken yapılabilir%s</text>
+  </string>
+  <string id="st_awr_dead_mechanic">
+    <text>%sTeknisyen %s, %s tarafından öldürüldü.%s \nArtık mengenesini kullanmak için izin alman gerekmiyor.</text>
+  </string>
+  <string id="st_awr_dialog_1">
+    <text>Mengeni kullanabilir miyim? Bir şeyi tamir etmem gerek.</text>
+  </string>
+  <string id="st_awr_dialog_2">
+    <text>Pekâlâ... Bin ruble karşılığında senin.</text>
+  </string>
+  <string id="st_awr_dialog_3">
+    <text>Buyur.</text>
+  </string>
+  <string id="st_awr_dialog_4">
+    <text>Harika. Biraz dinleneceğim. Bu sırada çabuk ol. Bugün bitirmem gereken başka işlerim var.</text>
+  </string>
+  <string id="st_awr_dialog_5">
+    <text>O kadar param yok.</text>
+  </string>
+  <string id="st_awr_dialog_6">
+    <text>Anlaşıldı.</text>
+  </string>
+  <string id="st_awr_dialog_7">
+    <text>Benim için yaptıklarından sonra mı? Elbette! Yine de çabuk olmaya çalış. Bugün bitirmem gereken başka işlerim var.</text>
+  </string>
+  <string id="st_awr_exit">
+    <text>Çıkış</text>
+  </string>
+  <string id="st_awr_help_0">
+    <text>Talimatlar</text>
+  </string>
+  <string id="st_awr_help_1">
+    <text>Tamir işlemi, silahın genel kalitesine (yeni, yıpranmış, paslı) ve mevcut durumuna bağlıdır. Ayrıca 0–65, 0–75 ve 0–85 değerleri her kalite düzeyi için silah durumunu belirler: paslı silahlarda 0–65%, yıpranmışlarda 0–75% ve yeni silahlarda 0–85%.</text>
+  </string>
+  <string id="st_awr_help_2">
+    <text>Onarım ve yükseltme işlemi (durumu 0–65/0–75/0–85 arasındaki silahlar):</text>
+  </string>
+  <string id="st_awr_help_3">
+    <text>1. Silah namlusunu aynı kalibrede ve 0–20/0–25/0–30 durumunda başka bir namluyla değiştirmek için bir tamir kiti seç ya da 20–65/25–75/30–85 durumundaki silahlar için bir silah geliştirme kiti kullan; bunun için listedeki set adına çift tıkla.\n2. Listedeki bir parçaya tek tıklayarak seç. Durumu düşük silahları tamir ederken parçalar belirli bir sırayla değiştirilir:\n \n0–20/0–25/0–30% durumunda: namlunun değiştirilmesi\n20–35/25–45/30–55% durumunda: tetik düzeneğinin değiştirilmesi\n35–45/45–60/55–70% durumunda: sürgü başının değiştirilmesi\n45–55/60–70/70–80% durumunda: gaz borusunun değiştirilmesi\n55–65/70–75/80–85% durumunda: sürgü grubunun değiştirilmesi\n \n3. Değiştirilmekte olan parçanın görseline tıkla (değiştirilmeye uygun seçili parça yeşil ışıkla gösterilir). Her parça değiştirme denemesi kemerdeki bir şarjı harcar.\n4. Değişim başarılı olursa işlem, belirtilen sırayla tüm parçalar için tekrarlanır.\n5. Parça hasar görürse ve elinde bir tamir kitiyle başka silah parçaları varsa yeniden dene.\n6. Değiştirilen tüm parçalar, silahın durumu düşene kadar korunur. Durum düşerse kaliteyi artırmak için parçaları yeniden değiştirmek gerekir.\n7. Beş parçanın tamamı değiştirildiğinde silahın kalitesi uygun düzeye çıkar. Ancak değiştirilen parçalardan en az biri yıpranmışsa, diğer parçalar yenileriyle değiştirilmiş olsa bile silahın kalitesi "yıpranmış" olur.</text>
+  </string>
+  <string id="st_awr_help_4">
+    <text>Silah parçalarını değiştirme sırası, parçaların silahın durumuna uyması gerektiği için önceden belirlenmiştir. Mengende kısmen tamir edilmiş her silaftaki değiştirilmiş parçalar oyun belleğinde saklanır. Bu sayede, tamirden sonra silahın durumu düşmediyse parçaları yeniden değiştirmeden aynı noktadan devam edebilirsin.</text>
+  </string>
+  <string id="st_awr_help_5">
+    <text>Silah geliştirme işlemi yalnızca paslı veya yıpranmış silahların durumu 95–100% olduğunda kullanılabilir:</text>
+  </string>
+  <string id="st_awr_help_6">
+    <text>1. Listedeki namlu değiştirme amaçlı tamir kitini veya silah geliştirme kitini, set adına çift tıklayarak seç. Geliştirmelerde parça değiştirme sırası kullanılamaz.\n2. Tamir kitine uygun parçayı tek tıklamayla seç. Geliştirme sırasında yalnızca çalışır durumdaki parçalar kullanılabilir.\n3. Değiştirilmekte olan parçanın görseline tıkla.\n4. Değişim başarılı olursa işlem, silahın diğer tüm parçaları için de aynı şekilde sürer.\n5. Parça hasar görürse ve elinde bir tamir kitiyle başka silah parçaları varsa yeniden dene.\n6. Değiştirilen tüm parçalar, silahın durumu düşene kadar korunur. Durum düşerse kaliteyi artırmak için parçaların yeniden değiştirilmesi gerekir.\n7. Beş parçanın tamamı yenileriyle değiştirildiğinde silahın kalitesi "yeni" olur.</text>
+  </string>
+  <string id="st_awr_sell_dialog_1">
+    <text>Yedek parçalarım var. Bunları kimin satın alacağını biliyor musun?</text>
+  </string>
+  <string id="st_awr_sell_dialog_2">
+    <text>Benim gibi teknisyenler aklına gelebilecek her tür hurdayı saklar. Elindekileri satın alabilirim. Tabii, doğru fiyat karşılığında.</text>
+  </string>
+  <string id="st_awr_sell_dialog_3">
+    <text>Peki ne teklif edebilirsin?</text>
+  </string>
+  <string id="st_awr_sell_dialog_4">
+    <text>Her çalışır durumdaki parçaya yeniyse 300 RU, yıpranmışsa 150 RU verebilirim. Diğer hurda parçalar için yenilere 250, yıpranmışlara 125 veririm. Paslı parçalar için 60 yeter. Pek işe yaramadıklarını biliyorsun.</text>
+  </string>
+  <string id="st_awr_sell_dialog_5">
+    <text>Hımm... Teklifin idare eder. Ama bu parçalara ihtiyacım yok. Al, parayı ver.</text>
+  </string>
+  <string id="st_awr_sell_dialog_6">
+    <text>Benim için biraz ucuz. Sanırım düşüneceğim.</text>
+  </string>
+  <string id="st_awr_sell_dialog_7">
+    <text>Seninle iş yapmak güzeldi. Daha fazla yedek parça bulursan nerede olduğumu biliyorsun.</text>
+  </string>
+  <string id="st_awr_sell_dialog_8">
+    <text>Şey, bunu aklımda tutarım. Sağ ol.</text>
+  </string>
+  <string id="st_awr_timer_msg_off">
+    <text>%sSüre doldu%s</text>
+  </string>
+  <string id="st_awr_timer_msg_on">
+    <text>%sBeş dakikan var%s</text>
+  </string>
+  <string id="st_bar_no_need_new">
+    <text>--- Bu silahın namlusunun değiştirilmesi gerekmiyor.</text>
+  </string>
+  <string id="st_bar_no_need_old">
+    <text>--- Bu silahın namlusunun değiştirilmesi gerekmiyor. Kalitesini artırmak için durumu %100 olmalı.</text>
+  </string>
+  <string id="st_by_unknown">
+    <text>bilinmiyor</text>
+  </string>
+  <string id="st_cond_grow">
+    <text>Durum: %i%%</text>
+  </string>
+  <string id="st_current_condition">
+    <text>Mevcut durum: </text>
+  </string>
+  <string id="st_detail_fail">
+    <text>--- [%s] parçası değiştirilirken hasar gördü</text>
+  </string>
+  <string id="st_detail_success">
+    <text>+++ [%s] parçası başarıyla takıldı</text>
+  </string>
+  <string id="st_dis_count">
+    <text>adet</text>
+  </string>
+  <string id="st_dis_news">
+    <text>[AWR]</text>
+  </string>
+  <string id="st_dis_text_1">
+    <text>%s%s %s%s söküldü</text>
+  </string>
+  <string id="st_dis_text_10">
+    <text>%s%s%s parçasını söktün ama hiçbir parça elde edemedin.</text>
+  </string>
+  <string id="st_dis_text_11">
+    <text>%s%s %s %s%s</text>
+  </string>
+  <string id="st_dis_text_2">
+    <text>%s%s %s parçasını sökmeyi denedin ama hiçbir parça elde edemedin.</text>
+  </string>
+  <string id="st_dis_text_3">
+    <text>%sGerekli aletler eksik %s %s</text>
+  </string>
+  <string id="st_dis_text_4">
+    <text>\nÇıkarılan fişekler: %i adet PC tipi %s\nAlınan eşyalar: </text>
+  </string>
+  <string id="st_dis_text_5">
+    <text>%s%s parçasını onarmayı başardın\n%s</text>
+  </string>
+  <string id="st_dis_text_6">
+    <text>%s%s parçasını onaramadın</text>
+  </string>
+  <string id="st_dis_text_7">
+    <text>%s%s %s %s%s</text>
+  </string>
+  <string id="st_dis_text_8">
+    <text>%s%s %s %s%s kesildi</text>
+  </string>
+  <string id="st_dis_text_9">
+    <text>\nElde edilen parçalar: </text>
+  </string>
+  <string id="st_ending_1">
+    <text>ler</text>
+  </string>
+  <string id="st_ending_2">
+    <text>a</text>
+  </string>
+  <string id="st_ending_3">
+    <text>o</text>
+  </string>
+  <string id="st_handsfree">
+    <text>Ellerin dolu</text>
+  </string>
+  <string id="st_mech_tiski">
+    <text>teknisyenin mengenesi\n</text>
+  </string>
+  <string id="st_mech_tiski_w">
+    <text>Teknisyenin mengenesi: %s</text>
+  </string>
+  <string id="st_no_barrel">
+    <text>--- Namluyu değiştirmeden hiçbir parça değiştirilemez</text>
+  </string>
+  <string id="st_no_barrel_to_kit">
+    <text>--- [%s] kalibresinde uyumlu namlu yok</text>
+  </string>
+  <string id="st_no_details">
+    <text>--- [%s] için kullanılabilir parça yok</text>
+  </string>
+  <string id="st_no_weap">
+    <text>Mengeni kullanmak için bir silah çıkarmalısın</text>
+  </string>
+  <string id="st_not_in_list">
+    <text>Bu silahı tamir edecek bilgiye sahip değilsin</text>
+  </string>
+  <string id="st_part_no_need_new">
+    <text>--- Silahın parçalarının değiştirilmesi gerekmiyor</text>
+  </string>
+  <string id="st_part_no_need_old">
+    <text>--- Silah parçalarının değiştirilmesi gerekmiyor. Kaliteyi artırmak için durumu %100 olmalı.</text>
+  </string>
+  <string id="st_quality_good">
+    <text>++++ Tüm parçalar çalışır durumdaki parçalarla değiştirildi. Silah artık yeni durumda.</text>
+  </string>
+  <string id="st_quality_wgood">
+    <text>++++ Tüm parçalar değiştirildi. Silahın kalitesi değişmedi.</text>
+  </string>
+  <string id="st_quality_worn">
+    <text>++++ Bir veya daha fazla parça yıpranmış parçalarla değiştirildi. Silahın kalitesi yıpranmış oldu.</text>
+  </string>
+  <string id="st_sel_detail">
+    <text>--- Değiştirmeye başlamak için ilgili parçanın görseline tıkla</text>
+  </string>
+  <string id="st_selected_good">
+    <text>--- Seçildi%s: [%s] Başarılı tamir şansı: %i%%</text>
+  </string>
+  <string id="st_selected_r_kit">
+    <text>--- Seçildi: [%s]</text>
+  </string>
+  <string id="st_selected_worn">
+    <text>--- Seçildi%s: [%s] Başarılı tamir şansı: %i%% Tamir etmek için parçayı onar</text>
+  </string>
+  <string id="st_stolen_1">
+    <text>Sen yokken silahının tetik mekanizması çalındı. Durumu kötüleşti.</text>
+  </string>
+  <string id="st_stolen_2">
+    <text>Sen yokken silahının sürgü başı çalındı. Durumu kötüleşti.</text>
+  </string>
+  <string id="st_stolen_3">
+    <text>Sen yokken silahının sürgü grubu çalındı. Durumu kötüleşti.</text>
+  </string>
+  <string id="st_text_mode">
+    <text>[MOD]:%s%s</text>
+  </string>
+  <string id="st_text_mode_1">
+    <text>ONARIM</text>
+  </string>
+  <string id="st_text_mode_2">
+    <text>ONARIM VE YENİLEME OLANAĞI</text>
+  </string>
+  <string id="st_text_mode_3">
+    <text>KULLANILAMAZ</text>
+  </string>
+  <string id="st_text_status">
+    <text>[DURUM]:%s%s%%</text>
+  </string>
+  <string id="st_text_warning_mode_1_1">
+    <text>[Dikkat]: Bu modda yalnızca paslı ve yıpranmış silahlar geliştirilebilir</text>
+  </string>
+  <string id="st_text_warning_mode_1_3">
+    <text>%sGeliştirme sırasında yalnızca çalışır durumdaki parçalar kullanılabilir</text>
+  </string>
+  <string id="st_text_warning_mode_1_4">
+    <text>%sGeliştirme sonrasında silahın durumu %s%%, kalitesi ise yeni olur</text>
+  </string>
+  <string id="st_text_warning_mode_2_1">
+    <text>[Dikkat]: Bu modda silahlar tamir edilebilir ve geliştirilebilir</text>
+  </string>
+  <string id="st_text_warning_mode_2_3">
+    <text>%sSilahın kalitesi, değiştirilen en düşük kaliteli parçaya göre belirlenir</text>
+  </string>
+  <string id="st_text_warning_mode_2_4">
+    <text>%sGeliştirme yapılmadan tamir tamamlandığında silahın durumu %i%% olur</text>
+  </string>
+  <string id="st_text_warning_mode_2_5">
+    <text>%sGeliştirme ile tamir tamamlandığında: yıpranmış için %i%%, yeni için %i%%</text>
+  </string>
+  <string id="st_text_warning_mode_3_1">
+    <text>[UYARI]: Silahın kalitesi zaten en yüksek düzeyde. Daha fazla onarılamaz.</text>
+  </string>
+  <string id="st_text_warning_mode_3_2">
+    <text>[UYARI]: Silahın durumu kalitesi için en yüksek seviyede olduğundan tamir edilemez.</text>
+  </string>
+  <string id="st_text_warning_mode_3_3">
+    <text>%sDurum %100%% olana kadar silah geliştirilemez</text>
+  </string>
+  <string id="st_text_warning_mode_help">
+    <text>Yardım için F1'e bas</text>
+  </string>
+  <string id="st_text_wpn">
+    <text>[SİLAH]:%s%s</text>
+  </string>
+  <string id="st_unload">
+    <text>Bakım yapmadan önce silah boşaltılmalı ve tüm eklentileri çıkarılmalıdır</text>
+  </string>
+</string_table>

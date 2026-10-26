@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="ui_mcm_lst_LUM">
+    <text>Parlaklık hesabı</text>
+  </string>
+  <string id="ui_mcm_lst_VDT">
+    <text>Görünür mesafe eşiği hesabı</text>
+  </string>
+  <string id="ui_mcm_menu_revision">
+    <text>RE:VISION</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response">
+    <text>Saldırgan tepki</text>
+  </string>
+  <string id="ui_mcm_revision_agressive_response_desc">
+    <text>Görünür mesafe eşiğinin ötesindeki NPC’lere ateş etmek, onların saldırgan biçimde karşılık vermesine neden olur.</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength">
+    <text>Aydınlık alan düzeltme gücü</text>
+  </string>
+  <string id="ui_mcm_revision_bright_area_nerf_strength_desc">
+    <text>Yapay zekâ görüşünün aşırı pozlanmasını önlemek için çok aydınlık ortamların görünürlüğe etkisini artırır veya azaltır. RE:Tinal’ı hava sisteminize göre ayarlayın.</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance">
+    <text>Kamp ateşi etki mesafesi</text>
+  </string>
+  <string id="ui_mcm_revision_campfire_influence_distance_desc">
+    <text>Kamp ateşlerinin ve benzer ışık kaynaklarının NPC algı alanlarını ne kadar uzaktan aydınlatacağını belirler.</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier">
+    <text>Çömelirken görünürlük çarpanı</text>
+  </string>
+  <string id="ui_mcm_revision_crouch_visibility_multiplier_desc">
+    <text>Çömelirken görünürlüğünüzün ne kadar azalacağını ayarlar. Düşük değerler daha iyi gizlenme sağlar.</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength">
+    <text>Karanlık alan düzeltme gücü</text>
+  </string>
+  <string id="ui_mcm_revision_dark_area_boost_strength_desc">
+    <text>NPC’lerin zifiri karanlıkta tamamen kör olmaması için karanlık alanlardaki görünürlüğü artırır veya azaltır. RE:Tinal’ı hava sisteminize göre ayarlayın.</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type">
+    <text>Hata ayıklama türü</text>
+  </string>
+  <string id="ui_mcm_revision_debug_type_desc">
+    <text>VDT hesabı ile parlaklık hesabı arasında seçim yapın.</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range">
+    <text>Algılama mesafesi</text>
+  </string>
+  <string id="ui_mcm_revision_detection_range_desc">
+    <text>NPC’lerin oyuncuyu ve diğer NPC’leri algılayabileceği en yüksek mesafeyi belirler.</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug">
+    <text>Hata ayıklamayı etkinleştir</text>
+  </string>
+  <string id="ui_mcm_revision_enable_debug_desc">
+    <text>Görünürlük davranışını sınamak ve sistem tepkilerini ayıklamak için ekranda günlükler ve konsol mesajları gösterir.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle">
+    <text>NPC merkez görüş açısı</text>
+  </string>
+  <string id="ui_mcm_revision_fov_central_vision_angle_desc">
+    <text>NPC'lerin merkezi görüş açısını ayarlar. Bu açı içindeki hedefleri tam olarak algılarlar.</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle">
+    <text>NPC çevresel görüş açısı</text>
+  </string>
+  <string id="ui_mcm_revision_fov_peripheral_vision_angle_desc">
+    <text>NPC'lerin çevresel görüş açısını ayarlar. Bu alanda algıları daha düşüktür; aydınlık seviyesi de etkilidir.</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier">
+    <text>Genel parlaklık çarpanı</text>
+  </string>
+  <string id="ui_mcm_revision_global_luminance_multiplier_desc">
+    <text>NPC görüşünün genel parlaklık hassasiyetini ayarlar. Yüksek değerler dünyayı yapay zekâya daha aydınlık gösterir. RE:Tinal'i hava sisteminize göre ayarlamak için kullanın.</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency">
+    <text>İç mekân kontrol sıklığı</text>
+  </string>
+  <string id="ui_mcm_revision_indoor_check_frequency_desc">
+    <text>Bettingin içeride mi dışarıda mı olduğunu denetleme sıklığını belirler. Işın izleme kullanır.</text>
+  </string>
+  <string id="ui_mcm_revision_key_0">
+    <text>Gece yarısı (00:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_0_desc">
+    <text>Ana profilin her önemli saatindeki parlaklığı ayarlamanızı sağlar.</text>
+  </string>
+  <string id="ui_mcm_revision_key_10">
+    <text>Sabah 10:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_10_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_12">
+    <text>Öğle (12:00)</text>
+  </string>
+  <string id="ui_mcm_revision_key_12_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_14">
+    <text>Öğleden sonra 14:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_14_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_16">
+    <text>Öğleden sonra 16:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_16_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_18">
+    <text>Akşam 18:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_18_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_2">
+    <text>Gece 02:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_20">
+    <text>Akşam 20:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_20_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_22">
+    <text>Gece 22:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_22_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_2_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_4">
+    <text>Sabah 04:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_4_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_6">
+    <text>Sabah 06:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_6_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_key_8">
+    <text>Sabah 08:00</text>
+  </string>
+  <string id="ui_mcm_revision_key_8_desc">
+    <text>Bu saat noktasının parlaklığını ayarlar</text>
+  </string>
+  <string id="ui_mcm_revision_master_profile">
+    <text>Ana hava profili</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength">
+    <text>Gece görüş gözlüğü bonusu</text>
+  </string>
+  <string id="ui_mcm_revision_nvg_bonus_strength_desc">
+    <text>Gece görüş gözlüğünün düşük ışıkta NPC algısını ne kadar artırdığını belirler.</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier">
+    <text>Yavaş çömelerek hareket ederken görünürlük çarpanı</text>
+  </string>
+  <string id="ui_mcm_revision_slow_crouch_visibility_multiplier_desc">
+    <text>Yavaşça çömelerek ilerlerken görünürlüğü daha da azaltır.</text>
+  </string>
+  <string id="ui_mcm_revision_something">
+    <text>Yer tutucu</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier">
+    <text>Koşarken görünürlük çarpanı</text>
+  </string>
+  <string id="ui_mcm_revision_sprinting_visibility_multiplier_desc">
+    <text>Sprint sırasında artan hareket ve gürültüyü yansıtacak şekilde görünürlüğü artırır.</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity">
+    <text>Yüzey malzemesi katsayısı</text>
+  </string>
+  <string id="ui_mcm_revision_surface_noise_intensity_desc">
+    <text>Çim ve çalı gibi yüzeylerin NPC algısını ne kadar etkilediğini belirler. Yüksek değerler sizi yapay zekâya daha az görünür kılar.</text>
+  </string>
+  <string id="ui_mcm_revision_title">
+    <text>RE:VISION: gelişmiş görsel farkındalık ve hareket algısı</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting">
+    <text>Işın izlemeyi kullan</text>
+  </string>
+  <string id="ui_mcm_revision_use_ray_casting_desc">
+    <text>Kapalı alanlarda parlaklığı daha hassas hesaplamak için ışın izlemeyi kullanır.</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear">
+    <text>Açık hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_clear_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy">
+    <text>Bulutlu hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark">
+    <text>Koyu bulutlu hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_dark_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+  <string id="ui_mcm_revision_weather_cloudy_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog">
+    <text>Sisli hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_fog_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy">
+    <text>Parçalı bulutlu hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_partly_cloudy_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain">
+    <text>Yağmurlu hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_rain_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm">
+    <text>Fırtınalı hava</text>
+  </string>
+  <string id="ui_mcm_revision_weather_storm_desc">
+    <text>Ana hava profiline göre bu hava türünün çarpanını belirler</text>
+  </string>
+</string_table>

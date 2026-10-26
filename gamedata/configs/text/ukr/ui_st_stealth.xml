@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="ui_mcm_menu_stealth">
+    <text>Стелс + бойовий ШІ</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch">
+    <text>Присідання</text>
+  </string>
+  <string id="ui_mcm_stealth_crouch_desc">
+    <text>Множник присідання. \n \nЗа замовчуванням: 0.4</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx">
+    <text>Налагодження</text>
+  </string>
+  <string id="ui_mcm_stealth_debugx_desc">
+    <text>Показує змінні рівняння (щоб правильно бачити поріг, постійно тримайте курсор на об’єкті): \n \nКонсоль: усі змінні \n \nДинамічні новини: чи бачить об’єкт персонажа \n \nПовідомлення внизу екрана: поріг видимості об’єкта та змінні, які можна змінити в MCM</text>
+  </string>
+  <string id="ui_mcm_stealth_distance">
+    <text>Відстань</text>
+  </string>
+  <string id="ui_mcm_stealth_distance_desc">
+    <text>Множник відстані (відстань між об’єктами, дальність і поле зору). \n \nЗа замовчуванням: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_header_debug">
+    <text>Налагодження</text>
+  </string>
+  <string id="ui_mcm_stealth_header_hud">
+    <text>HUD</text>
+  </string>
+  <string id="ui_mcm_stealth_header_main">
+    <text>Основне</text>
+  </string>
+  <string id="ui_mcm_stealth_header_patches">
+    <text>Патчі</text>
+  </string>
+  <string id="ui_mcm_stealth_icon">
+    <text>Іконка</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_desc">
+    <text>Індикатор освітленості (показує світло на персонажі).</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type">
+    <text>Тип іконки</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_type_desc">
+    <text>1) Індикатор світла показує рівень освітлення гравця. \n \n2) Бачення NPC показує, як гравця бачить NPC із найвищим показником зору: \n- Біла іконка: NPC у звичайному стані й не бачить гравця; \n- Жовта іконка: NPC у бою або насторожі, параметри зору посилені, але він не бачить гравця; \n- Червона іконка: NPC бачить гравця.</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_x">
+    <text>Позиція іконки X</text>
+  </string>
+  <string id="ui_mcm_stealth_icon_y">
+    <text>Позиція іконки Y</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch">
+    <text>Низьке присідання</text>
+  </string>
+  <string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Множник низького присідання. \n \nЗа замовчуванням: 0.25</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity">
+    <text>Освітленість</text>
+  </string>
+  <string id="ui_mcm_stealth_luminocity_desc">
+    <text>Множник освітленості (світло на об’єкті). \n \nЗа замовчуванням: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_memory">
+    <text>Пам’ять</text>
+  </string>
+  <string id="ui_mcm_stealth_memory_desc">
+    <text>Множник пам’яті. Якщо NPC уже бачив ціль, його зір проти неї посилюється. Бонус поступово зменшується; за стандартного значення 1.0 йому потрібно близько 100 реальних секунд, щоб зникнути. \n \nЗа замовчуванням: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch">
+    <text>Патч погоди Michiko</text>
+  </string>
+  <string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Рекомендується ввімкнути, якщо ви використовуєте погоду Michiko.</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val">
+    <text>ПНБ NPC</text>
+  </string>
+  <string id="ui_mcm_stealth_nvg_val_desc">
+    <text>Деякі NPC використовуватимуть ПНБ замість ліхтаря. Значення ПНБ додається незалежно від відстані, на відміну від ліхтаря (0 вимикає функцію). \n \nЗа замовчуванням: 1</text>
+  </string>
+  <string id="ui_mcm_stealth_title">
+    <text>Стелс + бойовий ШІ</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity">
+    <text>Швидкість</text>
+  </string>
+  <string id="ui_mcm_stealth_velocity_desc">
+    <text>Множник швидкості (швидкість об’єкта). \n \nЗа замовчуванням: 1.0</text>
+  </string>
+  <string id="ui_mcm_stealth_weight">
+    <text>Вага</text>
+  </string>
+  <string id="ui_mcm_stealth_weight_desc">
+    <text>Множник ваги (вага речей персонажа). \n \nЗа замовчуванням: 1.0</text>
+  </string>
+</string_table>

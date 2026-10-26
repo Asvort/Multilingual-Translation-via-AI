@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_broneplastina_seva">
+    <text>Panzerplatten für SEVA (Verbesserung)</text>
+  </string>
+  <string id="st_broneplastina_seva_descr">
+    <text>Eine Panzerplatte zur Verbesserung der Eigenschaften eines SEVA-Anzugs.\n</text>
+  </string>
+  <string id="upgr_1_01_description">
+    <text>Ein Satz Stahlplatten in verschiedenen Längen, Breiten, Stärken und Formen. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Gegenstand aus Stahl\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_01_name">
+    <text>Stahlplatten</text>
+  </string>
+  <string id="upgr_1_02_description">
+    <text>Eine robuste Rolle gummierten Industriegewebes. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Gegenstand aus Gummi\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_02_name">
+    <text>Gummieinlage</text>
+  </string>
+  <string id="upgr_1_03_description">
+    <text>Eine Weste mit zusätzlichem Futter und mehreren geräumigen Taschen. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Stoff\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_03_name">
+    <text>Lastenweste</text>
+  </string>
+  <string id="upgr_1_04_description">
+    <text>Ein Satz Polycarbonatplatten in verschiedenen Längen, Breiten, Stärken und Formen. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Polycarbonat\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter und mittlerer Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_04_name">
+    <text>Polycarbonatplatten</text>
+  </string>
+  <string id="upgr_1_05_description">
+    <text>Ein Satz leichter Polymermaterialien verschiedener Länge, Breite, Stärke, Form und Eigenschaften. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Polymere und verwandte Gegenstände\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter und mittlerer Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_05_name">
+    <text>Leichte Polymermaterialien</text>
+  </string>
+  <string id="upgr_1_06_description">
+    <text>Eine mit Sauerstoff gefüllte Gasflasche. Sie ist zum Atmen in chemisch giftigen Umgebungen sowie an Orten mit starkem Luftzug, etwa in den Bergen, gedacht.  \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] besonderer Gegenstand\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter und mittlerer Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_06_name">
+    <text>Gasflasche</text>
+  </string>
+  <string id="upgr_1_07_description">
+    <text>Verbesserte Prototyp-Servoantriebe für Exoskelette der ersten und zweiten Generation, mit denen der Träger sprinten kann.  \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung mittlerer und schwerer Rüstungen\n		%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_1_07_name">
+    <text>Verstärkte Servoantriebe (Prototyp, V1)</text>
+  </string>
+  <string id="upgr_1_08_description">
+    <text>Ein Satz Kevlarplatten in verschiedenen Längen, Breiten, Stärken und Formen. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Kevlar\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter und mittlerer Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_08_name">
+    <text>Kevlarplatten</text>
+  </string>
+  <string id="upgr_1_09_description">
+    <text>Speziell gefütterte Gummieinlagen für kugelsichere Westen. \n \n		%c[ui_gray_3]EIGENSCHAFTEN:\n		%c[d_blue] • %c[ui_gray_2] Gegenstand aus Gummi\n		%c[d_blue] • %c[ui_gray_2] dient zur Verbesserung leichter und mittlerer Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_09_name">
+    <text>Dämpfungseinlagen</text>
+  </string>
+  <string id="upgr_1_10_description">
+    <text>Speziell gefertigte Panzerplatten, die die Geschossfestigkeit leicht erhöhen.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Metallgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_10_name">
+    <text>Ausgleichende Panzerungsschicht</text>
+  </string>
+  <string id="upgr_1_11_description">
+    <text>Spezielle Polymereinsätze, die bei leichten und mittleren Panzeranzügen anstelle von Stoff eingesetzt werden. Sie erhöhen die Belastbarkeit und Lebensdauer des Anzugs.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_11_name">
+    <text>Polymereinsätze</text>
+  </string>
+  <string id="upgr_1_12_description">
+    <text>Medizinisches Gerät zur kontinuierlichen Verabreichung von Medikamenten im Gelände.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_1_12_name">
+    <text>Medizinisches Wundheilungssystem</text>
+  </string>
+  <string id="upgr_1_13_description">
+    <text>Medizinisches Gerät zur kontinuierlichen Verabreichung von Medikamenten im Gelände.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_1_13_name">
+    <text>Komplex Marathonläufer</text>
+  </string>
+  <string id="upgr_1_14_description">
+    <text>Medizinisches Gerät zur kontinuierlichen Verabreichung von Medikamenten im Gelände.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_1_14_name">
+    <text>Hämostimulator</text>
+  </string>
+  <string id="upgr_1_15_description">
+    <text>Robuste Panzerplatten aus einer Titan-Aluminium-Legierung.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Metalllegierung\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_15_name">
+    <text>Aluminium-Titan-Legierung</text>
+  </string>
+  <string id="upgr_1_16_description">
+    <text>Tragbares wissenschaftliches Gerät zur Messung der dreidimensionalen Position von Artefakten. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftlicher Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_1_16_name">
+    <text>Artefakt- Ortungsgerät</text>
+  </string>
+  <string id="upgr_1_17_description">
+    <text>Spezielle leichte Einsätze aus organischem Polymer. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_17_name">
+    <text>Polymereinsätze</text>
+  </string>
+  <string id="upgr_1_18_description">
+    <text>Tragbares medizinisches Gerät für intravenöse Injektionen im Gelände. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_1_18_name">
+    <text>Wutinjektor</text>
+  </string>
+  <string id="upgr_1_19_description">
+    <text>Robustes synthetisches Gewebe zum Einnähen in Anzüge und Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_19_name">
+    <text>Synthetische Schicht (Stoff)</text>
+  </string>
+  <string id="upgr_1_20_description">
+    <text>Integriertes Staubschutzsystem mit austauschbaren Filtern. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_20_name">
+    <text>Staubschutzsystem</text>
+  </string>
+  <string id="upgr_1_21_description">
+    <text>Integriertes Aktivfiltersystem. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_21_name">
+    <text>Aktivfilter</text>
+  </string>
+  <string id="upgr_1_22_description">
+    <text>Integriertes Reinigungssystem für Gasmasken und Helme. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_22_name">
+    <text>Reinigungssystem für Atemmasken</text>
+  </string>
+  <string id="upgr_1_23_description">
+    <text>Atemgerät für zwei Filter, das andere Atemgeräte mit Einzelfilter ersetzt. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_23_name">
+    <text>Atemgerät für zwei Filter</text>
+  </string>
+  <string id="upgr_1_24_description">
+    <text>Schutzfilter, der verhindert, dass schädliche Partikel über die Atemwege in den Körper gelangen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_24_name">
+    <text>Filter für schädliche Partikel</text>
+  </string>
+  <string id="upgr_1_25_description">
+    <text>Filter mit zusätzlicher Schutzbeschichtung, die verhindert, dass verschiedene Gifte und Chemikalien über die Atemwege in den Körper gelangen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_25_name">
+    <text>Verstärkter Giftfilter</text>
+  </string>
+  <string id="upgr_1_26_description">
+    <text>Verstärkte Exoskelettteile aus Titan und seinen Legierungen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Titangegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_26_name">
+    <text>Verstärkte Titanteile</text>
+  </string>
+  <string id="upgr_1_27_description">
+    <text>Verstärkte Silikondämpfer als Ersatz für ähnliche Gummiteile. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] dienen zur Verbesserung schwerer Rüstungen\n</text>
+  </string>
+  <string id="upgr_1_27_name">
+    <text>Silikondämpfer</text>
+  </string>
+  <string id="upgr_1_28_description">
+    <text>Integriertes Temperaturkontrollsystem zum Einbau in die Lebenserhaltung von Exoskeletten und schweren Panzeranzügen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_1_28_name">
+    <text>Integriertes Temperaturkontrollsystem</text>
+  </string>
+  <string id="upgr_2_01_description">
+    <text>Satz verschiedener Rahmen und Geräte zur Verbesserung der Eigenschaften von Schutzanzügen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Metall- und Kunststoffgegenstände\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_01_name">
+    <text>Verstärkte Rahmen</text>
+  </string>
+  <string id="upgr_2_02_description">
+    <text>Ein großes Stück strapazierfähiger Industrieplane. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stoff\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_02_name">
+    <text>Plane</text>
+  </string>
+  <string id="upgr_2_03_description">
+    <text>Eine Rolle feuerfesten Gewebes, das kurze Zeit hohen Temperaturen standhält. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stoff\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_03_name">
+    <text>Feuerfestes Gewebe</text>
+  </string>
+  <string id="upgr_2_04_description">
+    <text>Eine speziell gefütterte Panzerschicht mit zusätzlichen Schutzelementen für Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polycarbonat\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_04_name">
+    <text>Polycarbonat-Panzerungsschicht</text>
+  </string>
+  <string id="upgr_2_05_description">
+    <text>Ein Satz feuerfester Materialien mit Magnesiumelementen unterschiedlicher Länge, Breite, Dicke und Form. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] enthält Magnesium\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_05_name">
+    <text>Magnesiumeinsätze</text>
+  </string>
+  <string id="upgr_2_06_description">
+    <text>Ein Satz Kunststoffelemente unterschiedlicher Länge, Breite, Dicke und Form. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Kunststoffteile\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_06_name">
+    <text>Kunststoffeinsätze</text>
+  </string>
+  <string id="upgr_2_07_description">
+    <text>Komplexes medizinisches Gerät zur automatischen Verabreichung von Medikamenten an den menschlichen Körper.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] komplexes Medizinprodukt\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_07_name">
+    <text>Integriertes Menschenpflegesystem</text>
+  </string>
+  <string id="upgr_2_08_description">
+    <text>Ein Satz verschiedener Befestigungen zur Lastverteilung. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_08_name">
+    <text>Befestigungssystem zur Lastverteilung</text>
+  </string>
+  <string id="upgr_2_09_description">
+    <text>Gürtelaufsatz für den Anzug, der die Zahl gleichzeitig nutzbarer Module und Artefaktbehälter erhöht.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_09_name">
+    <text>Befestigung für Aufsätze (normal)</text>
+  </string>
+  <string id="upgr_2_10_description">
+    <text>Eine speziell gefütterte Panzerschicht mit zusätzlichen Schutzelementen für Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Panzerplatten\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_10_name">
+    <text>Zweite Panzerungsschicht</text>
+  </string>
+  <string id="upgr_2_11_description">
+    <text>Spezielle Gummiauskleidung, die radioaktive und chemische Stoffe abweist und für Panzeranzüge zur Verbesserung ihrer Schutzwirkung vorgesehen ist. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Gummigegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_11_name">
+    <text>Gummianzug</text>
+  </string>
+  <string id="upgr_2_12_description">
+    <text>Universeller Aluminiumrahmen zum Einsetzen in mittlere Rüstungen. Er ersetzt ähnliche Stahl- oder Titanrahmen und verringert das Gewicht der Rüstung. Der Aluminiumrahmen ist jedoch weniger stabil.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Aluminiumgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_12_name">
+    <text>Aluminiumrahmen</text>
+  </string>
+  <string id="upgr_2_13_description">
+    <text>Spezielle Wärmedämmschicht aus Konstantan. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Konstantan\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_13_name">
+    <text>Konstantan-Wärmedämmung</text>
+  </string>
+  <string id="upgr_2_14_description">
+    <text>Ein Satz Plexiglasplatten unterschiedlicher Länge, Breite, Dicke und Form. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_14_name">
+    <text>Plexiglas</text>
+  </string>
+  <string id="upgr_2_15_description">
+    <text>Ein Satz elastischer Kunststoffelemente unterschiedlicher Länge, Breite, Dicke und Form. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_15_name">
+    <text>Flexible Kunststoffeinlagen</text>
+  </string>
+  <string id="upgr_2_16_description">
+    <text>Ein spezielles Gerät, das Ströme misst und den Schutz vor Stromschlägen erhöht. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftlicher Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_16_name">
+    <text>Skat-Stromschutzsystem</text>
+  </string>
+  <string id="upgr_2_17_description">
+    <text>Medizinisches Gerät mit eigener Stromversorgung zur kontinuierlichen Verabreichung von Medikamenten im Gelände.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_17_name">
+    <text>Solarer Biostimulator</text>
+  </string>
+  <string id="upgr_2_18_description">
+    <text>Satz schützender Panzerplatten, die sich miteinander verbinden lassen, um größere Platten zu bilden.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_18_name">
+    <text>Segmentierter Schutz</text>
+  </string>
+  <string id="upgr_2_19_description">
+    <text>Satz schützender Panzerplatten aus Titan und Aluminium.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Metallgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_19_name">
+    <text>Titan- und Aluminiumplatten</text>
+  </string>
+  <string id="upgr_2_20_description">
+    <text>Satz Konstantanplatten, die den Schutz vor elektrischen Einwirkungen erhöhen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_20_name">
+    <text>Konstantan-Isolierung</text>
+  </string>
+  <string id="upgr_2_21_description">
+    <text>Satz Glasfaserplatten, die den Schutz vor Hitzeeinwirkung erhöhen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_21_name">
+    <text>Glasfaser-Wärmedämmung</text>
+  </string>
+  <string id="upgr_2_22_description">
+    <text>Tragbares medizinisches Gerät zum Herausfiltern von Giften aus dem menschlichen Körper im Gelände. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_22_name">
+    <text>Giftfiltersystem</text>
+  </string>
+  <string id="upgr_2_23_description">
+    <text>Tragbares medizinisches Gerät für intravenöse Injektionen im Gelände. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_23_name">
+    <text>Wutinjektor</text>
+  </string>
+  <string id="upgr_2_24_description">
+    <text>Sehr schwere Bleiplatten. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Bleigegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_24_name">
+    <text>Bleieinsätze</text>
+  </string>
+  <string id="upgr_2_25_description">
+    <text>Panzerfutter für Westen, das zusätzlichen Schutz vor Geschossen bietet. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Futter\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_25_name">
+    <text>Second-Skin-Weste</text>
+  </string>
+  <string id="upgr_2_26_description">
+    <text>Kevlar-Panzerplatten als zusätzlicher oder Reservepanzer für mittlere und schwere Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Panzerplatten\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_26_name">
+    <text>Ersatzpanzerungsschicht</text>
+  </string>
+  <string id="upgr_2_27_description">
+    <text>Gerät zum Einsetzen in Panzeranzüge, das die Tragfähigkeit erhöht. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_27_name">
+    <text>Vorrichtung zur Gewichtsverteilung des Gestells</text>
+  </string>
+  <string id="upgr_2_28_description">
+    <text>Wissenschaftlicher Gegenstand, der die Einwirkung von Psi-Effekten leicht verringert. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftlicher Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_28_name">
+    <text>Oracle-Psi-Stimulator</text>
+  </string>
+  <string id="upgr_2_29_description">
+    <text>Schutzabdeckung für Helme und Panzeranzüge, die die Wirkung von Psi-Einflüssen leicht verringert. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] besonderer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_29_name">
+    <text>Schutzbeschichtung</text>
+  </string>
+  <string id="upgr_2_30_description">
+    <text>Militärisches Nachtsichtgerät für Einsätze bei Dunkelheit. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] militärischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_30_name">
+    <text>Analoges Nachtsichtgerät 1PN93-1</text>
+  </string>
+  <string id="upgr_2_31_description">
+    <text>Digitales militärisches Nachtsichtgerät für Einsätze bei Dunkelheit. Es erzeugt ein graues Bild. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] militärischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_31_name">
+    <text>Nachtsichtgerät PN21KL</text>
+  </string>
+  <string id="upgr_2_32_description">
+    <text>Digitales militärisches Nachtsichtgerät für Einsätze bei Dunkelheit. Es erzeugt ein violettes Bild. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] militärischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_2_32_name">
+    <text>Digitales Nachtsichtgerät PN2KL</text>
+  </string>
+  <string id="upgr_2_33_description">
+    <text>Zusätzlicher, austauschbarer Kohlefilter. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_33_name">
+    <text>Kohlefilter</text>
+  </string>
+  <string id="upgr_2_34_description">
+    <text>Schutzfilter, der verhindert, dass verschiedene Gifte und Chemikalien über die Atemwege in den Körper gelangen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_34_name">
+    <text>Giftfilter</text>
+  </string>
+  <string id="upgr_2_35_description">
+    <text>Schutzmaske aus Konstantan, die die Widerstandsfähigkeit gegen chemische und thermische Einwirkungen erhöht. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Konstantan-Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_35_name">
+    <text>Konstantanmaske</text>
+  </string>
+  <string id="upgr_2_36_description">
+    <text>Modernes Schutzsystem, das den Schutz vor Psi-Einflüssen erhöht. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftliche Ausrüstung\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung von Kopfbedeckungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_36_name">
+    <text>SPB-VPZ.m.IV-Gerät</text>
+  </string>
+  <string id="upgr_2_37_description">
+    <text>Zusätzliche schützende Stahlplatten zum Einsetzen in Exoskelette und schwere Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stahlgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_37_name">
+    <text>Bewegliche Platten</text>
+  </string>
+  <string id="upgr_2_38_description">
+    <text>Satz dünner Panzerplatten unterschiedlicher Länge, Breite und Form zum Einsetzen in Exoskelette und schwere Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stahlgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_38_name">
+    <text>Segmentierter Schutz</text>
+  </string>
+  <string id="upgr_2_39_description">
+    <text>Satz schützender Panzerplatten unterschiedlicher Länge, Breite und Form zum Einsetzen in bewegliche Elemente von Exoskeletten und schweren Panzeranzügen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stahlgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_2_39_name">
+    <text>Motorschutzsystem</text>
+  </string>
+  <string id="upgr_3_01_description">
+    <text>Selbstgefertigtes Kettenhemd aus kleinen Stahlringen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stahlgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_01_name">
+    <text>Kettenhemd</text>
+  </string>
+  <string id="upgr_3_02_description">
+    <text>Satz Keramikplatten unterschiedlicher Länge, Breite, Dicke und Form. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Keramik\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_02_name">
+    <text>Keramikplatten</text>
+  </string>
+  <string id="upgr_3_03_description">
+    <text>Chemische Verbindung zur Behandlung von Textilien, die den Schutz von Panzeranzügen vor chemischen Einwirkungen verbessern kann. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Chemikalien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_03_name">
+    <text>Materialien zur Textilbehandlung</text>
+  </string>
+  <string id="upgr_3_04_description">
+    <text>Eine Rolle strapazierfähigen gummierten Gewebes. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stoff\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung leichter und mittlerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_04_name">
+    <text>Gummiertes Gewebe</text>
+  </string>
+  <string id="upgr_3_05_description">
+    <text>Gürtelaufsatz für den Anzug, der die Zahl gleichzeitig nutzbarer Module und Artefaktbehälter erhöht.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_05_name">
+    <text>Verstärkte Befestigung für Aufsätze</text>
+  </string>
+  <string id="upgr_3_06_description">
+    <text>Spezielle Verstärkung für Gewebe, die dessen Festigkeit und Haltbarkeit erhöht.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] chemischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_06_name">
+    <text>Sovereign-Verbindung</text>
+  </string>
+  <string id="upgr_3_07_description">
+    <text>Ein an die Konturen einer Panzerweste angepasster Rahmen zur Verbesserung der Schutzwirkung von Panzeranzügen.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_07_name">
+    <text>Schutzrahmen</text>
+  </string>
+  <string id="upgr_3_08_description">
+    <text>Komplexes medizinisches Gerät zur automatischen Verabreichung von Medikamenten an den menschlichen Körper.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_08_name">
+    <text>Varyag-Lebenserhaltungssystem</text>
+  </string>
+  <string id="upgr_3_09_description">
+    <text>Polymere Schutzmaterialien mit Wismut und erhöhter Widerstandsfähigkeit gegen chemische und thermische Einwirkungen.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_09_name">
+    <text>Polymer-Bismut-Einsätze</text>
+  </string>
+  <string id="upgr_3_10_description">
+    <text>Gewöhnliches Bleigitter mit flachen Maschen.   \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Blei\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_10_name">
+    <text>Bleigitter</text>
+  </string>
+  <string id="upgr_3_11_description">
+    <text>Satz Titan- und Beryllium-Matrizen, verbunden mit einer massiven, hochwertigen Panzerplatte. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] verstärkte Panzerplatte\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_11_name">
+    <text>Titan- und Berylliummatrizen</text>
+  </string>
+  <string id="upgr_3_12_description">
+    <text>Spezieller Schutzanzug gegen chemische und radioaktive Einwirkungen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Gummigegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_12_name">
+    <text>SBK-Schutzanzug</text>
+  </string>
+  <string id="upgr_3_13_description">
+    <text>Leichte Schutzpanzerplatten aus Kohlefaser mit hoher Viskosität und hervorragender Stoppwirkung. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_13_name">
+    <text>Kohlefaser</text>
+  </string>
+  <string id="upgr_3_14_description">
+    <text>Leichte feuerfeste Nickeleinsätze. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Nickel\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_14_name">
+    <text>Feuerfeste Nickeleinsätze</text>
+  </string>
+  <string id="upgr_3_15_description">
+    <text>Tragbares Forschungsgerät zur Untersuchung der Wirkung von Psi-Wellen auf lebende Organismen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftlicher Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_15_name">
+    <text>Neurowellenemitter</text>
+  </string>
+  <string id="upgr_3_16_description">
+    <text>Satz schützender Magnesiumeinsätze, die die Wirkung elektrischer Ladungen auf die Rüstung verringern sollen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Magnesiumprodukt\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_16_name">
+    <text>Isolierende Magnesiumeinsätze</text>
+  </string>
+  <string id="upgr_3_17_description">
+    <text>Synthetische Saphirkristalle. Sehr robust. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Magnesiumprodukt\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_17_name">
+    <text>Saphirkristalle</text>
+  </string>
+  <string id="upgr_3_18_description">
+    <text>Tragbares medizinisches Gerät für intravenöse Injektionen im Gelände. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_18_name">
+    <text>Phoenix-Regenerationssystem</text>
+  </string>
+  <string id="upgr_3_19_description">
+    <text>Verdickte und verstärkte Keramikplatten zum Einsetzen in Panzeranzüge. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Keramikgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_19_name">
+    <text>Verstärkte Keramikplatten</text>
+  </string>
+  <string id="upgr_3_20_description">
+    <text>Synthetische und Kunststoffteile aus verschiedenen Panzeranzügen, die das Gewicht der Rüstung verringern und Beweglichkeit sowie Ausdauer erhöhen sollen. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] werden zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_20_name">
+    <text>Kunststoff- und Synthetikteile</text>
+  </string>
+  <string id="upgr_3_21_description">
+    <text>Tragbares Lebenserhaltungssystem zur Stabilisierung kritischer Zustände. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] medizinisches Gerät\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_21_name">
+    <text>Leichtes Lebenserhaltungssystem</text>
+  </string>
+  <string id="upgr_3_22_description">
+    <text>Spezielle Helmauskleidung, die die Wirkung von Psi-Einflüssen verringert.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftlicher Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_22_name">
+    <text>Schutzkuppel</text>
+  </string>
+  <string id="upgr_3_23_description">
+    <text>Kühlsystem für mittlere und schwere Panzeranzüge, das die Ausdauer erhöht. \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftliche Ausrüstung\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_23_name">
+    <text>Kühlsystem Ionenwind</text>
+  </string>
+  <string id="upgr_3_24_description">
+    <text>Schutzantenne zum Einbau in Gasmasken und Helme. Bietet leichten Schutz vor Psi-Einflüssen.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] wissenschaftliche Ausrüstung\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung mittlerer und schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_24_name">
+    <text>Schutzantenne</text>
+  </string>
+  <string id="upgr_3_25_description">
+    <text>Verstärkte Titan-Panzerplatten unterschiedlicher Länge, Breite und Form zum Einsetzen in Exoskelette und schwere Panzeranzüge.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Titangegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_25_name">
+    <text>Titanpanzerung</text>
+  </string>
+  <string id="upgr_3_26_description">
+    <text>Mehrschichtige Polymer-Keramik-Panzerplatten unterschiedlicher Länge, Breite und Form zum Einsetzen in Exoskelette und schwere Panzeranzüge.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Keramikgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_26_name">
+    <text>Mehrschichtiger Schutz</text>
+  </string>
+  <string id="upgr_3_27_description">
+    <text>Schutzfutter für Anzüge aus Polymermaterialien mit Bismutanteil.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Polymermaterialien\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_27_name">
+    <text>Polymeranzug mit Bismuteinsätzen</text>
+  </string>
+  <string id="upgr_3_28_description">
+    <text>Aluminiumversion einiger Kunststoffteile für Exoskelette und schwere Panzeranzüge.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Aluminiumgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_28_name">
+    <text>Aluminiumeinsätze</text>
+  </string>
+  <string id="upgr_3_29_description">
+    <text>System mit zusätzlichen Federn und beweglichen Teilen für Exoskelette und schwere Panzeranzüge.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] Stahlgegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n</text>
+  </string>
+  <string id="upgr_3_29_name">
+    <text>Laufwerksystem</text>
+  </string>
+  <string id="upgr_3_30_description">
+    <text>Hydraulisches Verstärkungssystem für Servoantriebe von Exoskeletten und schweren Panzeranzügen.  \n \n%c[ui_gray_3]EIGENSCHAFTEN:\n%c[d_blue] • %c[ui_gray_2] technischer Gegenstand\n%c[d_blue] • %c[ui_gray_2] wird zur Verbesserung schwerer Rüstungen verwendet\n%c[d_blue] • %c[ui_gray_2] wertvoll\n</text>
+  </string>
+  <string id="upgr_3_30_name">
+    <text>Hydraulisches Servoantriebs-Verstärkungssystem</text>
+  </string>
+</string_table>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<string_table>
+  <string id="st_bpla_already_charged_news">
+    <text>İHA bu baskın için zaten yakıtlı.</text>
+  </string>
+  <string id="st_bpla_already_purchased_news">
+    <text>İHA zaten satın alınmış. Para iade edildi.</text>
+  </string>
+  <string id="st_bpla_charged_fuel_news">
+    <text>İHA'ya yakıt dolduruldu (1 yakıt bidonu kullanıldı). Bu baskında: zula işaretçileri, artefakt alanı vurgulaması ve hırsızlık uyarıları.</text>
+  </string>
+  <string id="st_bpla_charged_money_news">
+    <text>İHA'ya yakıt dolduruldu (45.000 RU harcandı). Bu baskında: zula işaretçileri, artefakt alanı vurgulaması ve hırsızlık uyarıları.</text>
+  </string>
+  <string id="st_bpla_gui_already_charged">
+    <text>Sonraki baskın için yakıtı zaten dolduruldu.</text>
+  </string>
+  <string id="st_bpla_gui_header">
+    <text>İHA yakıtı: %s RU veya 1 yakıt bidonu</text>
+  </string>
+  <string id="st_bpla_no_resources_news">
+    <text>Yakıt bidonu yok ve yeterli para bulunmuyor (45.000 RU). Yakıt doldurulamıyor.</text>
+  </string>
+  <string id="st_bpla_not_purchased_news">
+    <text>Önce sığınak not defterindeki yükseltmelerden İHA'yı satın alın.</text>
+  </string>
+  <string id="st_bpla_purchased_news">
+    <text>İHA keşif dronu satın alındı. Sığınakta, doktor ile tüccarın olduğu köşede bir kontrol istasyonu belirdi — baskından önce yakıt bidonuyla (veya 45.000 RU ile) dizüstü bilgisayarın yanına gidip dronu doldurun.</text>
+  </string>
+  <string id="st_bpla_station_tip">
+    <text>İHA kontrol istasyonu</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_descr">
+    <text>Shustryi'den kontrol istasyonuyla birlikte otonom bir İHA keşif dronu sipariş edin. Satın aldıktan sonra sığınakta doktor ile tüccarın olduğu köşede bir kontrol istasyonu belirir; dizüstü bilgisayara gidip tek tuşla drona yakıt doldurun. \n \n
+		İHA yakıtlıyken kullanılabilen özellikler: \n
+		- Bilinen tüm zulalar ve içerikleri PDA haritasında vurgulanır. \n
+		- İçinde artefakt varsa anomali alanı daireleri camgöbeğine döner (artefakt dedektörü). \n
+		- Bir NPC artefakt alırsa İHA PDA'ya uyarı gönderir (grup, zırh, yön). \n \n
+		Yakıt doldurma: Envanterde varsa 1 yakıt bidonu veya 45.000 RU. Yakıt önceliklidir. Sığınağa dönünce şarj tükenir.</text>
+  </string>
+  <string id="st_raid_shelter_upgrade_bpla_title">
+    <text>İHA keşif dronu</text>
+  </string>
+</string_table>

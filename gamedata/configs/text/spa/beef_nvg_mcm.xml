@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+    <text>Ganancia máxima de NVG</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+    <text>Los valores altos aumentan el brillo hasta un límite. Ajústalo de noche con el clima cloudy_dark_2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+    <text>Ganancia mínima de NVG</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+    <text>Los valores bajos oscurecen más las NVG; los muy bajos permiten usarlas de día.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+    <text>Ajuste del brillo del mundo</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+    <text>1.0 mantiene el brillo del mundo. Los valores mayores lo multiplican, pero no afectan a las fuentes de luz.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+    <text>Fondo superpuesto Gen 1 (por defecto: ninguno)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+    <text>Elige el fondo superpuesto.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+    <text>Configuración de tubos Gen 1 (por defecto: uno centrado)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+    <text>Elige la cantidad y disposición de tubos Gen 1.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+    <text>Fondo superpuesto Gen 2 (por defecto: desenfocado)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+    <text>Elige el fondo superpuesto.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+    <text>Configuración de tubos Gen 2 (por defecto: dos centrados)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+    <text>Elige la cantidad y disposición de tubos Gen 2.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+    <text>Fondo superpuesto Gen 3 (por defecto: desenfocado)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+    <text>Elige el fondo superpuesto.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+    <text>Configuración de tubos Gen 3 (por defecto: cuatro centrados)</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+    <text>Elige la cantidad y disposición de tubos Gen 3.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+    <text>Mantener NVG al ver la PDA:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+    <text>Si se desactiva, las NVG se apagan al mirar la PDA.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+    <text>Usar NVG al apuntar:</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+    <text>Si está activado, las NVG siguen encendidas al apuntar. Si no, se apagan al levantar el arma.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+    <text>Umbral de sobreexposición de fuentes de luz</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+    <text>Se recomienda 0.1. Valores mayores reducen un poco la sobreexposición. Escala con la ganancia: más ganancia produce más efecto.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat">
+    <text>Activa esta opción si usas miras 2D con shaders.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+    <text>Las miras 2D con shaders requieren esta opción. En caso contrario, déjala desactivada.</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title">
+    <text>Ajustes de NVG de Beef</text>
+  </string>
+  <string id="ui_mcm_beef_nvg_title_2">
+    <text>Compatibilidad con miras 2D con shaders</text>
+  </string>
+  <string id="ui_mcm_lst_black_background">
+    <text>Superposición negra</text>
+  </string>
+  <string id="ui_mcm_lst_blurred_background">
+    <text>Superposición desenfocada</text>
+  </string>
+  <string id="ui_mcm_lst_clear_vision">
+    <text>Sin superposición (visión nítida)</text>
+  </string>
+  <string id="ui_mcm_lst_dual_centered">
+    <text>Dos tubos, centrados</text>
+  </string>
+  <string id="ui_mcm_lst_image_overlay">
+    <text>(Sin implementar) Superposición de imagen</text>
+  </string>
+  <string id="ui_mcm_lst_quad_centered">
+    <text>Cuatro tubos, centrados</text>
+  </string>
+  <string id="ui_mcm_lst_single_centered">
+    <text>Un tubo, centrado</text>
+  </string>
+  <string id="ui_mcm_lst_single_left">
+    <text>Un tubo, lado izquierdo</text>
+  </string>
+  <string id="ui_mcm_lst_single_right">
+    <text>Un tubo, lado derecho</text>
+  </string>
+  <string id="ui_mcm_menu_beef_nvg">
+    <text>NVG de Beef</text>
+  </string>
+</string_table>

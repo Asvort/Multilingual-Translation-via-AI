@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_device_glowstick">
+    <text>Leuchtstab (grün)</text>
+  </string>
+  <string id="st_device_glowstick_blue">
+    <text>Leuchtstab (cyan)</text>
+  </string>
+  <string id="st_device_glowstick_blue_descr">
+    <text>Erzeugt Licht durch eine chemische Reaktion. Stalker verwenden solche chemischen Lichtquellen als eigenständige Beleuchtung in Notfällen und überall dort, wo kein anderes Licht verfügbar ist. Sie sind autark, langlebig, feuerfest, wasserdicht und lange lagerfähig, weshalb sie vielseitig einsetzbar sind. \nDiese Variante leuchtet cyan. Ihre Reichweite ist deutlich geringer als der Durchschnitt, dafür bietet sie die hellste Beleuchtung. Ideal unter der Erde oder bei Tageslicht für schlecht einsehbare Ecken.\n \n%c[0,140,140,140]EIGENSCHAFTEN:\n%c[0,153,255,255] • %c[0,140,140,140] technischer Gegenstand\n%c[0,153,255,255] • %c[0,140,140,140] Betriebszeit: 30 Minuten Echtzeit \n%c[0,153,255,255] • %c[0,140,140,140] Reichweite: 6 Meter</text>
+  </string>
+  <string id="st_device_glowstick_descr">
+    <text>Erzeugt Licht durch eine chemische Reaktion. Stalker verwenden solche chemischen Lichtquellen als eigenständige Beleuchtung in Notfällen und überall dort, wo kein anderes Licht verfügbar ist. Sie sind autark, langlebig, feuerfest, wasserdicht und lange lagerfähig, weshalb sie vielseitig einsetzbar sind. \nDiese Variante gibt grünes Licht mit ausgewogener Reichweite und Helligkeit ab und eignet sich für fast jede Situation.\n \n%c[0,140,140,140]EIGENSCHAFTEN:\n%c[0,153,255,255] • %c[0,140,140,140] technischer Gegenstand\n%c[0,153,255,255] • %c[0,140,140,140] Betriebszeit: 40 Minuten Echtzeit \n%c[0,153,255,255] • %c[0,140,140,140] Reichweite: 12 Meter</text>
+  </string>
+  <string id="st_device_glowstick_orange">
+    <text>Leuchtstab (orange)</text>
+  </string>
+  <string id="st_device_glowstick_orange_descr">
+    <text>Erzeugt Licht durch eine chemische Reaktion. Stalker verwenden solche chemischen Lichtquellen als eigenständige Beleuchtung in Notfällen und überall dort, wo kein anderes Licht verfügbar ist. Sie sind autark, langlebig, feuerfest, wasserdicht und lange lagerfähig, weshalb sie vielseitig einsetzbar sind. \nDiese Variante leuchtet orange, reicht fast so weit wie die grüne, ist aber weniger hell und daher angenehmer für empfindliche Augen.\n \n%c[0,140,140,140]EIGENSCHAFTEN:\n%c[0,153,255,255] • %c[0,140,140,140] technischer Gegenstand\n%c[0,153,255,255] • %c[0,140,140,140] Betriebszeit: 40 Minuten Echtzeit \n%c[0,153,255,255] • %c[0,140,140,140] Reichweite: 10 Meter</text>
+  </string>
+  <string id="st_device_glowstick_red">
+    <text>Leuchtstab (rot)</text>
+  </string>
+  <string id="st_device_glowstick_red_descr">
+    <text>Erzeugt Licht durch eine chemische Reaktion. Stalker verwenden solche chemischen Lichtquellen als eigenständige Beleuchtung in Notfällen und überall dort, wo kein anderes Licht verfügbar ist. Sie sind autark, langlebig, feuerfest, wasserdicht und lange lagerfähig, weshalb sie vielseitig einsetzbar sind. \nDiese Variante leuchtet rot, hat eine deutlich größere Reichweite, aber geringere Helligkeit und ist bei Soldaten beliebt.\n \n%c[0,140,140,140]EIGENSCHAFTEN:\n%c[0,153,255,255] • %c[0,140,140,140] technischer Gegenstand\n%c[0,153,255,255] • %c[0,140,140,140] Betriebszeit: 60 Minuten Echtzeit \n%c[0,153,255,255] • %c[0,140,140,140] Reichweite: 24 Meter</text>
+  </string>
+  <string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+    <text>Flackernde Lichter im Hirnverbrenner und in der Wundermaschine</text>
+  </string>
+  <string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+    <text>Solange Hirnverbrenner und Wundermaschine aktiv sind, flackern Lampen und Taschenlampen. So hast du einen Grund, Leuchtstäbe mitzunehmen.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_equip_next">
+    <text>Nach dem Wurf den nächsten Leuchtstab ausrüsten</text>
+  </string>
+  <string id="ui_mcm_glowsticks_keybind">
+    <text>Wurftaste</text>
+  </string>
+  <string id="ui_mcm_glowsticks_keybind_desc">
+    <text>Taste zum Werfen von Leuchtstäben.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_loot_chance">
+    <text>Chance, Leuchtstäbe bei Leichen zu finden</text>
+  </string>
+  <string id="ui_mcm_glowsticks_loot_chance_desc">
+    <text>Chance, Leuchtstäbe bei Leichen zu finden.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_sort_worst">
+    <text>Leuchtstäbe mit dem schlechtesten Zustand zuerst verwenden</text>
+  </string>
+  <string id="ui_mcm_glowsticks_sort_worst_desc">
+    <text>Ist die Option aktiviert, verwendet die Figur zuerst Leuchtstäbe mit dem schlechtesten Zustand und spart die übrigen für später auf.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_stash_chance">
+    <text>Chance, Leuchtstäbe in Verstecken zu finden</text>
+  </string>
+  <string id="ui_mcm_glowsticks_stash_chance_desc">
+    <text>Chance, Leuchtstäbe in Verstecken zu finden.</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_force">
+    <text>Wurfweite des Leuchtstabs</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_key">
+    <text>Wurftaste</text>
+  </string>
+  <string id="ui_mcm_glowsticks_throw_key_desc">
+    <text>Taste gedrückt halten, um Leuchtstäbe zu werfen.</text>
+  </string>
+  <string id="ui_mcm_menu_glowsticks">
+    <text>Leuchtstäbe</text>
+  </string>
+</string_table>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="st_itm_placeable_trashcan_name">
+    <text>Bac de recyclage de la Zone</text>
+  </string>
+  <string id="st_open_trashcan">
+    <text>ouvrir le bac</text>
+  </string>
+  <string id="st_place_trashcan">
+    <text>placer le bac</text>
+  </string>
+  <string id="st_placeable_trashcan_descr">
+    <text>Grand bac métallique pour objets indésirables. Il se place comme une cache, mais tout son contenu est détruit définitivement après un délai.\n \n%c[ui_gray_3]PROPRIÉTÉS :\n%c[d_blue] • %c[ui_gray_2] conteneur à placer\n%c[d_blue] • %c[ui_gray_2] détruit tout le contenu</text>
+  </string>
+  <string id="st_trashcan_mollyguard">
+    <text>AVERTISSEMENT : Tous les objets placés dans ce bac seront DÉTRUITS après</text>
+  </string>
+  <string id="st_trashcan_searchtip">
+    <text>Placez des objets dans le bac ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_trashcan_seconds">
+    <text>secondes</text>
+  </string>
+  <string id="st_trashcan_shutupwesley">
+    <text>Bac placé</text>
+  </string>
+  <string id="ui_mcm_menu_zrb">
+    <text>Bac de recyclage de la Zone</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs">
+    <text>Activer le journal de débogage</text>
+  </string>
+  <string id="ui_mcm_zrb_debuglogs_desc">
+    <text>Le script affichera des messages détaillés dans la console. Laissez cette option désactivée, sauf pour reproduire un problème.</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout">
+    <text>Délai avant la suppression des objets</text>
+  </string>
+  <string id="ui_mcm_zrb_deletion_timeout_desc">
+    <text>Nombre de secondes à attendre avant que tous les objets soient retirés de la poubelle.\n \nAprès le vidage, tous les objets seront perdus À JAMAIS.</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled">
+    <text>Activer la suppression des objets</text>
+  </string>
+  <string id="ui_mcm_zrb_mod_enabled_desc">
+    <text>Active ou désactive la suppression des objets.</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin">
+    <text>Fournir un bac gratuit au joueur</text>
+  </string>
+  <string id="ui_mcm_zrb_spawn_bin_desc">
+    <text>Donne un bac gratuit puis désactive cette option. Réactivez-la pour en obtenir un autre.</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall">
+    <text>Désinstaller ZRB</text>
+  </string>
+  <string id="ui_mcm_zrb_uninstall_desc">
+    <text>Supprime tous les bacs de l’inventaire du joueur.</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots">
+    <text>Ajouter des marqueurs du bac sur la carte</text>
+  </string>
+  <string id="ui_mcm_zrb_use_mapspots_desc">
+    <text>Ajoute une icône unique à la carte lors du placement du bac.</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled">
+    <text>Avertir de la suppression définitive des objets</text>
+  </string>
+  <string id="ui_mcm_zrb_warn_enabled_desc">
+    <text>Affiche un avertissement à chaque placement. Désactivez-le pour utiliser une confirmation standard.</text>
+  </string>
+</string_table>

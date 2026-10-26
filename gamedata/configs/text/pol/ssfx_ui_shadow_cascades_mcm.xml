@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="ui_mcm_lst_shw_cascades_high">
+    <text>Wysoka</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_low">
+    <text>Niska (domyślne Anomaly)</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_medium">
+    <text>Średnia</text>
+  </string>
+  <string id="ui_mcm_lst_shw_cascades_ultra">
+    <text>Ultra (duży wpływ na wydajność)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades">
+    <text>Kaskady cieni</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+    <text>Zasięg cieni trawy (słońce)</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+    <text>Określa zasięg renderowania cieni trawy rzucanych przez słońce jako procent zasięgu renderowania trawy. Niższa wartość poprawia wydajność.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+    <text>Maksymalny zasięg cieni trawy</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+    <text>[ TYLKO JAKOŚĆ ULTRA ] Określa zasięg renderowania cieni trawy rzucanych przez światła bezkierunkowe. Niższa wartość poprawia wydajność, ale cienie mogą wcześniej przestać być widoczne.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+    <text>Jakość cieni trawy</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+    <text>[ LOW ] Cienie trawy są widoczne tylko w BLISKIM kaskadzie (domyślne zachowanie Anomaly). [ MEDIUM ] Są widoczne w BLISKIM i ŚREDNIM kaskadzie. [ HIGH ] Są widoczne we wszystkich kaskadach i wolumetrycznych promieniach słońca. [ ULTRA ] Wszystkie źródła światła rzucają cienie trawy.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+    <text>Rozmiar bliskiego kaskadu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+    <text>Niższa wartość poprawia jakość cieni słonecznych.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+    <text>Rozmiar średniego kaskadu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+    <text>Niższa wartość poprawia jakość cieni słonecznych.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+    <text>Rozmiar dalekiego kaskadu</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+    <text>Ten kaskad określa maksymalny zasięg renderowania cieni słonecznych. Niższe wartości poprawiają wydajność, a wyższe polepszają odległe cienie kosztem wydajności.</text>
+  </string>
+  <string id="ui_mcm_ssfx_module_shw_cascades_title">
+    <text>Ustawienia kaskad cieni</text>
+  </string>
+</string_table>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_focused_aiming_fov_mcm">
+    <text>Multiplicateur de zoom en concentration pendant la visée</text>
+  </string>
+  <string id="ui_mcm_focused_aiming_fov_mcm_desc">
+    <text>Fonctionne avec la plupart des viseurs, mais pas les lunettes 2D. Une valeur plus élevée augmente le zoom. Par défaut : 0.65.</text>
+  </string>
+  <string id="ui_mcm_focused_aiming_hud_fov_mcm">
+    <text>Distance de l’arme en concentration pendant la visée</text>
+  </string>
+  <string id="ui_mcm_focused_aiming_hud_fov_mcm_desc">
+    <text>Les valeurs plus faibles rapprochent les organes de visée. Par défaut : 1.35.</text>
+  </string>
+  <string id="ui_mcm_focused_drain_stamina_mcm">
+    <text>Consommation d’endurance pendant la concentration</text>
+  </string>
+  <string id="ui_mcm_focused_drain_stamina_mcm_desc">
+    <text>Si activé, la concentration consomme de l’endurance.</text>
+  </string>
+  <string id="ui_mcm_focused_holstered_fov_mcm">
+    <text>Multiplicateur de zoom sans arme en main</text>
+  </string>
+  <string id="ui_mcm_focused_holstered_fov_mcm_desc">
+    <text>S’applique uniquement si l’arme est rangée ou déséquipée. Plus la valeur est élevée, plus le zoom est important. Par défaut : 0.9.</text>
+  </string>
+  <string id="ui_mcm_focused_keybind">
+    <text>Touche de concentration en visée</text>
+  </string>
+  <string id="ui_mcm_focused_keybind_desc">
+    <text>Maintenez cette touche en visant pour faire la mise au point. Ne fonctionne pas avec les lunettes 2D en surimpression.</text>
+  </string>
+  <string id="ui_mcm_focused_stamina_drain_mult_mcm">
+    <text>Multiplicateur de consommation d’endurance en concentration</text>
+  </string>
+  <string id="ui_mcm_focused_stamina_drain_mult_mcm_desc">
+    <text>Plus la valeur est élevée, plus l’endurance diminue vite pendant la concentration. Par défaut : 0.75.</text>
+  </string>
+  <string id="ui_mcm_menu_focused">
+    <text>Zoom de concentration</text>
+  </string>
+</string_table>

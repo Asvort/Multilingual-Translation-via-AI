@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+  <string id="ui_mcm_menu_redone_npc_routines">
+    <text>RE:DONE Smart Activity</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval">
+    <text>Intervalle de vérification du smart-terrain (secondes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_check_interval_desc">
+    <text>À quelle fréquence chaque smart-terrain actif est vérifié pour la rotation des tâches des PNJ.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max">
+    <text>Délai maximal avant de réutiliser l'animpoint (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_max_desc">
+    <text>Durée maximale pendant laquelle un animpoint libéré reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min">
+    <text>Délai minimal avant de réutiliser l'animpoint (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_animpoint_min_desc">
+    <text>Durée minimale pendant laquelle un animpoint libéré reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max">
+    <text>Délai maximal avant de réutiliser la tâche de comportement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de comportement libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min">
+    <text>Délai minimal avant de réutiliser la tâche de comportement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_beh_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de comportement libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max">
+    <text>Délai maximal avant de réutiliser la tâche de campement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de campement libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min">
+    <text>Délai minimal avant de réutiliser la tâche de campement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_camper_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de campement libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max">
+    <text>Délai maximal avant de réutiliser la tâche de collecte (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de collecte libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min">
+    <text>Délai minimal avant de réutiliser la tâche de collecte (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_collector_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de collecte libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_desc">
+    <text>Détermine combien de temps une tâche libérée reste indisponible avant qu'un autre PNJ puisse la reprendre via l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max">
+    <text>Délai maximal avant de réutiliser la tâche de garde (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de garde libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min">
+    <text>Délai minimal avant de réutiliser la tâche de garde (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_guard_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de garde libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_header">
+    <text>Délais de réutilisation des tâches</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max">
+    <text>Délai maximal avant de réutiliser la tâche de patrouille (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de patrouille libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min">
+    <text>Délai minimal avant de réutiliser la tâche de patrouille (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_patrol_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de patrouille libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max">
+    <text>Délai maximal avant de réutiliser la tâche de sommeil (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de sommeil libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min">
+    <text>Délai minimal avant de réutiliser la tâche de sommeil (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sleeper_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de sommeil libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max">
+    <text>Délai maximal avant de réutiliser le poste de couverture intelligente (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_max_desc">
+    <text>Durée maximale pendant laquelle un poste de couverture intelligente libéré reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min">
+    <text>Délai minimal avant de réutiliser le poste de couverture intelligente (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_smartcover_min_desc">
+    <text>Durée minimale pendant laquelle un poste de couverture intelligente libéré reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max">
+    <text>Délai maximal avant de réutiliser la tâche de sniper (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_max_desc">
+    <text>Durée maximale pendant laquelle une tâche de sniper libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min">
+    <text>Délai minimal avant de réutiliser la tâche de sniper (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_sniper_min_desc">
+    <text>Durée minimale pendant laquelle une tâche de sniper libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max">
+    <text>Délai maximal avant de réutiliser la tâche d'errance (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_max_desc">
+    <text>Durée maximale pendant laquelle une tâche d'errance libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min">
+    <text>Délai minimal avant de réutiliser la tâche d'errance (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_cooldown_walker_min_desc">
+    <text>Durée minimale pendant laquelle une tâche d'errance libérée reste indisponible pour l'activité intelligente.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_header">
+    <text>Débogage</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints">
+    <text>Messages de débogage</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_prints_desc">
+    <text>Inscrit dans le journal chaque changement dynamique de tâche réussi. Recommandé pendant les tests bêta.</text>
+  </string>
+  <string id="ui_mcm_rdnr_debug_title">
+    <text>Débogage</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled">
+    <text>Activer l'activité intelligente</text>
+  </string>
+  <string id="ui_mcm_rdnr_enabled_desc">
+    <text>Active ou désactive la rotation dynamique des tâches sur smart-terrain pour les PNJ pris en charge par la simulation.</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_header">
+    <text>Paramètres généraux</text>
+  </string>
+  <string id="ui_mcm_rdnr_general_title">
+    <text>Activité intelligente</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_animpoint">
+    <text>ANIMPOINT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_behaviour">
+    <text>COMPORTEMENT</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_camper">
+    <text>CAMPEUR</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_collector">
+    <text>COLLECTEUR</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_guard">
+    <text>GARDE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_patrol">
+    <text>PATROUILLE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sleep">
+    <text>SOMMEIL</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_smartcover">
+    <text>COUVERTURE INTELLIGENTE</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_sniper">
+    <text>SNIPER</text>
+  </string>
+  <string id="ui_mcm_rdnr_header_walker">
+    <text>ERRANT</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay">
+    <text>Délai avant une nouvelle tentative (secondes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_retry_delay_desc">
+    <text>Durée d'attente d'un PNJ avant de réessayer si aucune nouvelle tâche ne convient ou si la rotation est temporairement bloquée.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max">
+    <text>Durée maximale de la tâche animpoint (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche animpoint avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min">
+    <text>Durée minimale de la tâche animpoint (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_animpoint_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche animpoint avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max">
+    <text>Durée maximale de la tâche de comportement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de comportement avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min">
+    <text>Durée minimale de la tâche de comportement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_beh_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de comportement avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max">
+    <text>Durée maximale de la tâche de campement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de campement avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min">
+    <text>Durée minimale de la tâche de campement (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_camper_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de campement avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max">
+    <text>Durée maximale de la tâche de collecte (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de collecte avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min">
+    <text>Durée minimale de la tâche de collecte (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_collector_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de collecte avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_desc">
+    <text>Détermine combien de temps un PNJ conserve normalement chaque activité avant de passer à une autre tâche disponible.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max">
+    <text>Durée maximale de la tâche de garde (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de garde avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min">
+    <text>Durée minimale de la tâche de garde (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_guard_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de garde avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_header">
+    <text>Durée des tâches</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max">
+    <text>Durée maximale de la tâche de patrouille (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de patrouille avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min">
+    <text>Durée minimale de la tâche de patrouille (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_patrol_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de patrouille avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max">
+    <text>Durée maximale de la tâche de sommeil (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de sommeil avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min">
+    <text>Durée minimale de la tâche de sommeil (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sleeper_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de sommeil avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max">
+    <text>Durée maximale du poste de couverture intelligente (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve un poste de couverture intelligente avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min">
+    <text>Durée minimale du poste de couverture intelligente (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_smartcover_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve un poste de couverture intelligente avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max">
+    <text>Durée maximale de la tâche de sniper (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche de sniper avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min">
+    <text>Durée minimale de la tâche de sniper (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_sniper_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche de sniper avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max">
+    <text>Durée maximale de la tâche d'errance (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_max_desc">
+    <text>Durée maximale pendant laquelle un PNJ conserve une tâche d'errance avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min">
+    <text>Durée minimale de la tâche d'errance (minutes)</text>
+  </string>
+  <string id="ui_mcm_rdnr_stay_walker_min_desc">
+    <text>Durée minimale pendant laquelle un PNJ conserve une tâche d'errance avant de pouvoir changer.</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_cooldown">
+    <text>Délai avant réutilisation des tâches</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_debug">
+    <text>Débogage</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_general">
+    <text>Général</text>
+  </string>
+  <string id="ui_mcm_redone_npc_routines_stay">
+    <text>Durée des tâches</text>
+  </string>
+</string_table>
